@@ -1,0 +1,66 @@
+{
+  "id": 1260318131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80778,52.70583,-6.80778,52.70583",
+    "geom:latitude":52.70583,
+    "geom:longitude":-6.80778,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Tailor's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303099,
+    "gn:latitude":52.70583,
+    "gn:longitude":-6.80778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tailor\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303099
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a9b7a224d5cfb8ae5d795991d2289d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260318131,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1260318131,
+    "wof:lastmodified":1536665520,
+    "wof:name":"Tailor's Cross Roads",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80778,
+    52.70583000000001,
+    -6.80778,
+    52.70583000000001
+],
+  "geometry": {"coordinates":[-6.80778,52.70583000000001],"type":"Point"}
+}

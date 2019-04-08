@@ -1,0 +1,105 @@
+{
+  "id": 1126030921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57167,53.67333,-6.57167,53.67333",
+    "geom:latitude":53.67333,
+    "geom:longitude":-6.57167,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.67333,
+    "lbl:longitude":-6.57167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Yellow Furze"
+    ],
+    "name:dut_x_preferred":[
+        "Yellow Furze"
+    ],
+    "name:eng_x_preferred":[
+        "Yellow Furze"
+    ],
+    "name:gle_x_preferred":[
+        "An Aitinn Bhu\u00ed"
+    ],
+    "name:glv_x_preferred":[
+        "An Aitinn Bhu\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0644\u0648 \u0641\u0631\u0636\u06cc"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960874,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Yellow Furze",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":78,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":78,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":961626,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562517,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960874,
+        "gp:id":562517,
+        "qs_pg:id":961626,
+        "wd:id":"Q8051738"
+    },
+    "wof:country":"IE",
+    "wof:created":1497301466,
+    "wof:geomhash":"34ae10fa90f1a08d4d401ff5af7b134e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126030921,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1126030921,
+    "wof:lastmodified":1514450692,
+    "wof:name":"Yellow Furze",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57167,
+    53.67333,
+    -6.57167,
+    53.67333
+],
+  "geometry": {"coordinates":[-6.57167,53.67333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293518895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60111,52.88389,-8.60111,52.88389",
+    "geom:latitude":52.88389,
+    "geom:longitude":-8.60111,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Bodyke",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966089,
+    "gn:latitude":52.88389,
+    "gn:longitude":-8.60111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bodyke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badyke",
+        "Bodyke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966089,
+        "wk:page":"Bodyke"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0cf6005e8779302510e40a4984a3e3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293518895,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293518895,
+    "wof:lastmodified":1537636753,
+    "wof:name":"Bodyke",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60111,
+    52.88389,
+    -8.60111,
+    52.88389
+],
+  "geometry": {"coordinates":[-8.60111,52.88389],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293620417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.13333,53.26667,-7.13333,53.26667",
+    "geom:latitude":53.26667,
+    "geom:longitude":-7.13333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Clongarret",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965364,
+    "gn:latitude":53.26667,
+    "gn:longitude":-7.13333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Clongarret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965364
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"34ccc62019b056cbcad7e4dfbc1f9ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293620417,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1293620417,
+    "wof:lastmodified":1537089446,
+    "wof:name":"Clongarret",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.13333,
+    53.26667,
+    -7.13333,
+    53.26667
+],
+  "geometry": {"coordinates":[-7.13333,53.26667],"type":"Point"}
+}

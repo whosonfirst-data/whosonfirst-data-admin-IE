@@ -1,0 +1,105 @@
+{
+  "id": 1125821699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88333,53.45,-7.88333,53.45",
+    "geom:latitude":53.45,
+    "geom:longitude":-7.88333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.45,
+    "lbl:longitude":-7.88333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballykeeran"
+    ],
+    "name:dut_x_preferred":[
+        "Ballykeeran"
+    ],
+    "name:eng_x_preferred":[
+        "Ballykeeran"
+    ],
+    "name:gle_x_preferred":[
+        "Bealach Caorthainn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043a\u0438\u0440\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ballykeeran"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966548,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballykerran",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Westmeath",
+    "qs_pg:photos":242,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":242,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086558,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387458,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Westmeath",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966548,
+        "gp:id":29387458,
+        "qs_pg:id":1086558,
+        "wd:id":"Q4076756"
+    },
+    "wof:country":"IE",
+    "wof:created":1497292099,
+    "wof:geomhash":"01d90fc4f7aa9dda1ecd7fa1672bb12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125821699,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1125821699,
+    "wof:lastmodified":1514450419,
+    "wof:name":"Ballykerran",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88333,
+    53.45,
+    -7.88333,
+    53.45
+],
+  "geometry": {"coordinates":[-7.88333,53.45],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293137653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75583,52.39111,-8.75583,52.39111",
+    "geom:latitude":52.39111,
+    "geom:longitude":-8.75583,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Fort Middle",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309919,
+    "gn:latitude":52.39111,
+    "gn:longitude":-8.75583,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Fort Middle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309919
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ed43574569498a34c5a388845aa0eb9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293137653,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1293137653,
+    "wof:lastmodified":1536794592,
+    "wof:name":"Fort Middle",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75583,
+    52.39111,
+    -8.75583,
+    52.39111
+],
+  "geometry": {"coordinates":[-8.75583,52.39111],"type":"Point"}
+}

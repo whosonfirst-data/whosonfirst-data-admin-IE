@@ -1,0 +1,66 @@
+{
+  "id": 1225975691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5125,52.47167,-6.5125,52.47167",
+    "geom:latitude":52.47167,
+    "geom:longitude":-6.5125,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Mye Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304111,
+    "gn:latitude":52.47167,
+    "gn:longitude":-6.5125,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mye Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304111
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d8cf4ad8b82b5d0dfdf8903ed02d03f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225975691,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1225975691,
+    "wof:lastmodified":1536825235,
+    "wof:name":"Mye Cross Roads",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5125,
+    52.47167,
+    -6.5125,
+    52.47167
+],
+  "geometry": {"coordinates":[-6.5125,52.47167],"type":"Point"}
+}

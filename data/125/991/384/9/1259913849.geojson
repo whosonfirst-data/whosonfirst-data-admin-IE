@@ -1,0 +1,66 @@
+{
+  "id": 1259913849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91444,54.23083,-6.91444,54.23083",
+    "geom:latitude":54.23083,
+    "geom:longitude":-6.91444,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Moyles",
+    "gn:country_code":"IE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310624,
+    "gn:latitude":54.23083,
+    "gn:longitude":-6.91444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Moyles",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310624
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"55cef7d1ccc5120057ab15afbdeb408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259913849,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1259913849,
+    "wof:lastmodified":1536735547,
+    "wof:name":"Moyles",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91444,
+    54.23083000000001,
+    -6.91444,
+    54.23083000000001
+],
+  "geometry": {"coordinates":[-6.91444,54.23083000000001],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101805927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":528022.29415,
+    "geom:bbox":"-8.66545006489,51.7632575949,-8.64499562696,51.7702707726",
+    "geom:latitude":51.767039,
+    "geom:longitude":-8.65508,
+    "gn:population":767,
+    "iso:country":"IE",
+    "lbl:latitude":51.76677,
+    "lbl:longitude":-8.655932,
+    "mps:latitude":51.76677,
+    "mps:longitude":-8.655932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Innishannon"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0438\u0448\u0430\u043d\u043e\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Innishannon"
+    ],
+    "name:dut_x_preferred":[
+        "Innishannon"
+    ],
+    "name:eng_x_preferred":[
+        "Inishannon"
+    ],
+    "name:eus_x_preferred":[
+        "Innishannon"
+    ],
+    "name:ger_x_preferred":[
+        "Innishannon"
+    ],
+    "name:gle_x_preferred":[
+        "Inis Eon\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0438\u0448\u0430\u043d\u043d\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Innishannon"
+    ],
+    "name:unk_x_variant":[
+        "Innishannon"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Inishannon",
+    "qs:la_lc":"*IE2502047177",
+    "qs:level":"locality",
+    "qs:loc":"Inishannon",
+    "qs:loc_alt":"Inishannon",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":486,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c5584-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963669,
+        "gp:id":20071695,
+        "qs:id":352179,
+        "wd:id":"Q4201085",
+        "wk:page":"Innishannon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1520ded81a4ecf37df2c4ed3d6169ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805927,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805927,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642970,
+    "wof:name":"Inishannon",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":767,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.66545006489031,
+    51.76325759487406,
+    -8.64499562696449,
+    51.77027077264398
+],
+  "geometry": {"coordinates":[[[-8.64573060360715,51.77027077264398],[-8.64499562696449,51.76854108364608],[-8.64640419498301,51.76831311106679],[-8.64603670805081,51.76744826901211],[-8.65167075184218,51.76653623082046],[-8.65130318371553,51.76567140714985],[-8.65271163759439,51.76544336063608],[-8.65234406218917,51.76457854027018],[-8.65375247846089,51.76435048198698],[-8.65338489577897,51.76348566492584],[-8.65479327444626,51.76325759487406],[-8.65516088175895,51.76412240690797],[-8.65797764942926,51.76366620636327],[-8.65834532335873,51.76453100661865],[-8.65975371235851,51.76430287612499],[-8.66012142827742,51.76516766962828],[-8.66152982892788,51.76493951731044],[-8.66189758683845,51.76580430406108],[-8.66471439845725,51.7653479389806],[-8.66545006489031,51.76707748718997],[-8.65840769217868,51.76821832421905],[-8.65877542828343,51.76908312088676],[-8.65454977497944,51.76976743662897],[-8.65418211278427,51.76890262487541],[-8.64573060360715,51.77027077264398]]],"type":"Polygon"}
+}

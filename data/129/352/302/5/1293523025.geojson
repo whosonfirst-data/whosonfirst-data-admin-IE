@@ -1,0 +1,66 @@
+{
+  "id": 1293523025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04278,52.24944,-10.04278,52.24944",
+    "geom:latitude":52.24944,
+    "geom:longitude":-10.04278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Killiney",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963325,
+    "gn:latitude":52.24944,
+    "gn:longitude":-10.04278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killiney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963325
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"05c6fb0959ad88a3db89650d297311d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293523025,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293523025,
+    "wof:lastmodified":1536735937,
+    "wof:name":"Killiney",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04278,
+    52.24944,
+    -10.04278,
+    52.24944
+],
+  "geometry": {"coordinates":[-10.04278,52.24944],"type":"Point"}
+}

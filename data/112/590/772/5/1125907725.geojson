@@ -1,0 +1,108 @@
+{
+  "id": 1125907725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.36514,53.96405,-6.36514,53.96405",
+    "geom:latitude":53.96405,
+    "geom:longitude":-6.36514,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3000,
+    "gn:population":3000,
+    "iso:country":"IE",
+    "lbl:latitude":53.96405,
+    "lbl:longitude":-6.36514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Blackrock"
+    ],
+    "name:dut_x_preferred":[
+        "Blackrock"
+    ],
+    "name:eng_x_preferred":[
+        "Blackrock"
+    ],
+    "name:gle_x_preferred":[
+        "Na Creagacha Dubha"
+    ],
+    "name:lit_x_preferred":[
+        "Blakrokas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u044d\u043a\u0440\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Blackrock"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966130,
+    "qs_pg:gn_pop":3000,
+    "qs_pg:name":"Black Rock",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Louth",
+    "qs_pg:photos":451,
+    "qs_pg:photos_1k":91,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":451,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1263137,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559944,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Louth",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966130,
+        "gp:id":559944,
+        "qs_pg:id":1263137,
+        "wd:id":"Q4088432"
+    },
+    "wof:country":"IE",
+    "wof:created":1497296042,
+    "wof:geomhash":"5b84c60a54930eb16d7090b1e83e6539",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125907725,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125907725,
+    "wof:lastmodified":1553816617,
+    "wof:name":"Black Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.36514,
+    53.96405,
+    -6.36514,
+    53.96405
+],
+  "geometry": {"coordinates":[-6.36514,53.96405],"type":"Point"}
+}

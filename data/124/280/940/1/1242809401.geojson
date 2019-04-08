@@ -1,0 +1,76 @@
+{
+  "id": 1242809401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30806,52.87389,-7.30806,52.87389",
+    "geom:latitude":52.87389,
+    "geom:longitude":-7.30806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Ballinakill",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966767,
+    "gn:latitude":52.87389,
+    "gn:longitude":-7.30806,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Ballinakill",
+    "gn:population":435,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballinakill"
+    ],
+    "name:gle_x_preferred":[
+        "Baile na Coille"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966767
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d25b090388e8584d140c253bd2279125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242809401,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1242809401,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Ballinakill",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:population":435,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30806,
+    52.87389,
+    -7.30806,
+    52.87389
+],
+  "geometry": {"coordinates":[-7.30806,52.87389],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125988267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.561391,53.300312,-6.561391,53.300312",
+    "geom:latitude":53.300312,
+    "geom:longitude":-6.561391,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.300312,
+    "lbl:longitude":-6.561391,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Arclough",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kildare",
+    "qs_pg:photos":94,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":94,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387556,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kildare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387556,
+        "qs_pg:id":996392
+    },
+    "wof:country":"IE",
+    "wof:created":1497298916,
+    "wof:geomhash":"5575d71634611ebf50256736c2f3d23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125988267,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125988267,
+    "wof:lastmodified":1509405214,
+    "wof:name":"Arclough",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.561391,
+    53.300312,
+    -6.561391,
+    53.300312
+],
+  "geometry": {"coordinates":[-6.561391,53.300312],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309834345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31389,54.32583,-8.31389,54.32583",
+    "geom:latitude":54.32583,
+    "geom:longitude":-8.31389,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Gurteen",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311499,
+    "gn:latitude":54.32583,
+    "gn:longitude":-8.31389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gurteen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311499
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2c8a9875e36110c0e07f20694eceb6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309834345,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1309834345,
+    "wof:lastmodified":1536889708,
+    "wof:name":"Gurteen",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31389,
+    54.32583,
+    -8.31389,
+    54.32583
+],
+  "geometry": {"coordinates":[-8.31389,54.32583],"type":"Point"}
+}

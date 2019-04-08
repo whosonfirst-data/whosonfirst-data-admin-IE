@@ -1,0 +1,87 @@
+{
+  "id": 1125876559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06186,53.27779,-9.06186,53.27779",
+    "geom:latitude":53.27779,
+    "geom:longitude":-9.06186,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"UNIV",
+    "gn:gn_pop":16000,
+    "gn:population":16000,
+    "iso:country":"IE",
+    "lbl:latitude":53.27779,
+    "lbl:longitude":-9.06186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "National University of Ireland, Galway"
+    ],
+    "name:eng_x_variant":[
+        "NUI Galway",
+        "UCG",
+        "University College Galway"
+    ],
+    "name:gle_x_preferred":[
+        "Ollscoil na h\u00c9ireann, Gaillimh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"UNIV",
+    "qs_pg:gn_id":6930050,
+    "qs_pg:gn_pop":16000,
+    "qs_pg:name":"NUIG",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":652875,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6930050,
+        "qs_pg:id":652875
+    },
+    "wof:country":"IE",
+    "wof:created":1497294569,
+    "wof:geomhash":"cfb992738803714a99bf758c846f910b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125876559,
+            "region_id":85685055
+        }
+    ],
+    "wof:id":1125876559,
+    "wof:lastmodified":1509397757,
+    "wof:name":"NUIG",
+    "wof:parent_id":85685055,
+    "wof:placetype":"locality",
+    "wof:population":16000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06186,
+    53.27779,
+    -9.06186,
+    53.27779
+],
+  "geometry": {"coordinates":[-9.06186,53.27779],"type":"Point"}
+}

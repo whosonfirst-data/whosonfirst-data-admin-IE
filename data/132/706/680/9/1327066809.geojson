@@ -1,0 +1,66 @@
+{
+  "id": 1327066809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.00556,53.03444,-7.00556,53.03444",
+    "geom:latitude":53.03444,
+    "geom:longitude":-7.00556,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Newtownbert",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314253,
+    "gn:latitude":53.03444,
+    "gn:longitude":-7.00556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Newtownbert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314253
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"97f593ff94a897d984ab8ec706e5a191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327066809,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1327066809,
+    "wof:lastmodified":1536710997,
+    "wof:name":"Newtownbert",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.00556,
+    53.03444,
+    -7.00556,
+    53.03444
+],
+  "geometry": {"coordinates":[-7.00556,53.03444],"type":"Point"}
+}

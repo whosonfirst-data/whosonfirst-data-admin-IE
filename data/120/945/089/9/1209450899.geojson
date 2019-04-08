@@ -1,0 +1,62 @@
+{
+  "id": 1209450899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51806,53.27667,-9.51806,53.27667",
+    "geom:latitude":53.27667,
+    "geom:longitude":-9.51806,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Derroogh",
+    "gn:country_code":"IE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312123,
+    "gn:latitude":53.27667,
+    "gn:longitude":-9.51806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derroogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312123
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a636ee204dc7f5a357cd2ed2de258726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209450899
+        }
+    ],
+    "wof:id":1209450899,
+    "wof:lastmodified":1536286675,
+    "wof:name":"Derroogh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51806,
+    53.27667,
+    -9.51806,
+    53.27667
+],
+  "geometry": {"coordinates":[-9.51806,53.27667],"type":"Point"}
+}

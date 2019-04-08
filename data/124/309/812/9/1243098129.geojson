@@ -1,0 +1,66 @@
+{
+  "id": 1243098129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34056,53.23028,-6.34056,53.23028",
+    "geom:latitude":53.23028,
+    "geom:longitude":-6.34056,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Cunard",
+    "gn:country_code":"IE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315228,
+    "gn:latitude":53.23028,
+    "gn:longitude":-6.34056,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Cunard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315228
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f6577e9d9383cc914d38d0fa7c30809a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243098129,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1243098129,
+    "wof:lastmodified":1536810207,
+    "wof:name":"Cunard",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34056,
+    53.23028000000001,
+    -6.34056,
+    53.23028000000001
+],
+  "geometry": {"coordinates":[-6.34056,53.23028000000001],"type":"Point"}
+}

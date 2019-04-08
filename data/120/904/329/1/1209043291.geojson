@@ -1,0 +1,68 @@
+{
+  "id": 1209043291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08955,54.20008,-10.08955,54.20008",
+    "geom:latitude":54.20008,
+    "geom:longitude":-10.08955,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Coimin na Croise",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805171,
+    "gn:latitude":54.20008,
+    "gn:longitude":-10.08955,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Coimin na Croise",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cross Common"
+    ],
+    "name:gle_x_preferred":[
+        "Coimin na Croise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805171
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4c1800e0c99f9b34ba6dd1e94f7c8702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209043291
+        }
+    ],
+    "wof:id":1209043291,
+    "wof:lastmodified":1537636794,
+    "wof:name":"Coimin na Croise",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08955,
+    54.20008000000001,
+    -10.08955,
+    54.20008000000001
+],
+  "geometry": {"coordinates":[-10.08955,54.20008000000001],"type":"Point"}
+}

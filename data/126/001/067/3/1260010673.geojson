@@ -1,0 +1,70 @@
+{
+  "id": 1260010673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.06807,52.28336,-7.06807,52.28336",
+    "geom:latitude":52.28336,
+    "geom:longitude":-7.06807,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Slieverue",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643252,
+    "gn:latitude":52.28336,
+    "gn:longitude":-7.06807,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Slieverue",
+    "gn:population":499,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643252,
+        "wk:page":"Slieverue"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"99f955a17752e78b4813bb4e7ea9e57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260010673,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1260010673,
+    "wof:lastmodified":1537564860,
+    "wof:name":"Slieverue",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":499,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.06807,
+    52.28336,
+    -7.06807,
+    52.28336
+],
+  "geometry": {"coordinates":[-7.06807,52.28336],"type":"Point"}
+}

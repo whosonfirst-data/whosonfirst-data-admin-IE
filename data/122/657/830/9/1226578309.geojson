@@ -1,0 +1,75 @@
+{
+  "id": 1226578309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.89714,52.10635,-9.89714,52.10635",
+    "geom:latitude":52.10635,
+    "geom:longitude":-9.89714,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Cromane",
+    "gn:country_code":"IE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299245,
+    "gn:latitude":52.10635,
+    "gn:longitude":-9.89714,
+    "gn:modification_date":"2013-11-22",
+    "gn:name":"Cromane",
+    "gn:population":115,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cromane"
+    ],
+    "name:gle_x_preferred":[
+        "An Crom\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299245
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"adf5c28e1429ff8c5d67b8d6ba948958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226578309,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1226578309,
+    "wof:lastmodified":1537636767,
+    "wof:name":"Cromane",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":115,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.89714,
+    52.10635,
+    -9.89714,
+    52.10635
+],
+  "geometry": {"coordinates":[-9.89714,52.10635],"type":"Point"}
+}

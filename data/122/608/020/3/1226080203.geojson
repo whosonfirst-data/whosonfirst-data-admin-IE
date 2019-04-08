@@ -1,0 +1,66 @@
+{
+  "id": 1226080203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4375,51.75528,-8.4375,51.75528",
+    "geom:latitude":51.75528,
+    "geom:longitude":-8.4375,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballyfeard",
+    "gn:country_code":"IE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966595,
+    "gn:latitude":51.75528,
+    "gn:longitude":-8.4375,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyfeard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966595
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cf94b8712f70c504306173c71d4295f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226080203,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226080203,
+    "wof:lastmodified":1536675472,
+    "wof:name":"Ballyfeard",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4375,
+    51.75528,
+    -8.4375,
+    51.75528
+],
+  "geometry": {"coordinates":[-8.4375,51.75528],"type":"Point"}
+}

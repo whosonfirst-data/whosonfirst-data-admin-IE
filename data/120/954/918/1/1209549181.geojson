@@ -1,0 +1,66 @@
+{
+  "id": 1209549181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50436,53.47185,-8.50436,53.47185",
+    "geom:latitude":53.47185,
+    "geom:longitude":-8.50436,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Mountbellew",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870005,
+    "gn:latitude":53.47185,
+    "gn:longitude":-8.50436,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Mountbellew",
+    "gn:population":784,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870005,
+        "wk:page":"Mountbellew"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"31efeb455fbf608d650201a71c12a503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209549181
+        }
+    ],
+    "wof:id":1209549181,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Mountbellew",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":784,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50436,
+    53.47185,
+    -8.50436,
+    53.47185
+],
+  "geometry": {"coordinates":[-8.50436,53.47185],"type":"Point"}
+}

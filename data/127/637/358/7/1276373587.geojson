@@ -1,0 +1,66 @@
+{
+  "id": 1276373587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66108,53.68431,-6.66108,53.68431",
+    "geom:latitude":53.68431,
+    "geom:longitude":-6.66108,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Antylstown",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866943,
+    "gn:latitude":53.68431,
+    "gn:longitude":-6.66108,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Antylstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866943
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d749ef123e24e184d10e547ec3a0a067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276373587,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1276373587,
+    "wof:lastmodified":1536724916,
+    "wof:name":"Antylstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66108,
+    53.68431,
+    -6.66108,
+    53.68431
+],
+  "geometry": {"coordinates":[-6.66108,53.68431],"type":"Point"}
+}

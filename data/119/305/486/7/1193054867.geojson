@@ -1,0 +1,66 @@
+{
+  "id": 1193054867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58135,51.64748,-8.58135,51.64748",
+    "geom:latitude":51.64748,
+    "geom:longitude":-8.58135,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Garrettstown",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714249,
+    "gn:latitude":51.64748,
+    "gn:longitude":-8.58135,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Garrettstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714249
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"98af71dd78a22da95cbceae471855e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193054867,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1193054867,
+    "wof:lastmodified":1536383899,
+    "wof:name":"Garrettstown",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58135,
+    51.64748,
+    -8.58135,
+    51.64748
+],
+  "geometry": {"coordinates":[-8.58135,51.64748],"type":"Point"}
+}

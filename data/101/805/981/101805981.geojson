@@ -1,0 +1,135 @@
+{
+  "id": 101805981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1504117.641981,
+    "geom:bbox":"-7.14617022525,52.5163984019,-7.12648243718,52.5415659447",
+    "geom:latitude":52.528962,
+    "geom:longitude":-7.1371,
+    "gn:population":2273,
+    "iso:country":"IE",
+    "lbl:latitude":52.529126,
+    "lbl:longitude":-7.13792,
+    "mps:latitude":52.529126,
+    "mps:longitude":-7.13792,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Thomastown"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441\u0442\u0430\u045e\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Thomastown"
+    ],
+    "name:dut_x_preferred":[
+        "Thomastown"
+    ],
+    "name:eng_x_preferred":[
+        "Thomastown"
+    ],
+    "name:eus_x_preferred":[
+        "Thomastown"
+    ],
+    "name:fra_x_preferred":[
+        "Thomastown"
+    ],
+    "name:fre_x_preferred":[
+        "Thomastown"
+    ],
+    "name:ger_x_preferred":[
+        "Thomastown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Mhic And\u00e1in"
+    ],
+    "name:ita_x_preferred":[
+        "Thomastown"
+    ],
+    "name:nld_x_preferred":[
+        "Thomastown"
+    ],
+    "name:pol_x_preferred":[
+        "Thomastown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Thomastown"
+    ],
+    "name:wel_x_preferred":[
+        "Thomastown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kilkenny",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Woolengrange",
+    "qs:la_lc":"*IE2402097113",
+    "qs:level":"locality",
+    "qs:loc":"Thomastown",
+    "qs:loc_alt":"Thomastown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1336,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d5290-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961224,
+        "gp:id":20072923,
+        "qs:id":960523,
+        "wd:id":"Q1433139",
+        "wk:page":"Thomastown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"881f46bf981557152cac4ee4e53c8650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805981,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":101805981,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642971,
+    "wof:name":"Thomastown",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":2273,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14617022524681,
+    52.5163984018518,
+    -7.12648243718007,
+    52.54156594472306
+],
+  "geometry": {"coordinates":[[[-7.13708816644413,52.53658600470499],[-7.13570156138809,52.53310669107134],[-7.13426287059156,52.53331694243542],[-7.13391628759405,52.5324471055817],[-7.13247761055379,52.53265733489457],[-7.13213107065985,52.53178749180154],[-7.13069240737775,52.53199769906399],[-7.12896009105185,52.52764843771399],[-7.12752154685711,52.52785860385501],[-7.12648243718007,52.52524901511401],[-7.12792090239037,52.52503886327406],[-7.12757453968521,52.52416900218958],[-7.12901296600245,52.52395883783805],[-7.12970576082063,52.52569854900412],[-7.13402112230403,52.52506792367598],[-7.13263528382299,52.52158855267754],[-7.13407360722385,52.52137832875144],[-7.1323415545873,52.51702910576989],[-7.136656054659,52.5163984018518],[-7.13700251061101,52.51726823508551],[-7.13556433017538,52.51747849176689],[-7.13695021631696,52.52095782907014],[-7.13838850200733,52.52074755331529],[-7.14012136841319,52.52509666801211],[-7.14155977312078,52.52488635113338],[-7.14259977313844,52.52749578798893],[-7.14403824423277,52.52728543952014],[-7.14438497077242,52.52815524409147],[-7.14582345560865,52.52794487357329],[-7.14617022524681,52.52881467190088],[-7.14473171408701,52.52902504719123],[-7.14611885511636,52.53250424487339],[-7.14468022606468,52.53271462197398],[-7.14572067903526,52.53532401910081],[-7.13996572098267,52.53616541196516],[-7.14031246686147,52.53703522715449],[-7.13887366954646,52.53724553693741],[-7.13956715896524,52.53898517244824],[-7.1366894212174,52.53940575925236],[-7.13738287238749,52.54114540796866],[-7.13450497891978,52.54156594472306],[-7.13415829763574,52.54069611155683],[-7.13559722431688,52.5404858565937],[-7.13490385939207,52.53874619539408],[-7.13634272080111,52.53853593268889],[-7.13564937029986,52.5367962751514],[-7.13708816644413,52.53658600470499]]],"type":"Polygon"}
+}

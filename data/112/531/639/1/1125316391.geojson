@@ -1,0 +1,99 @@
+{
+  "id": 1125316391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39833,52.85528,-9.39833,52.85528",
+    "geom:latitude":52.85528,
+    "geom:longitude":-9.39833,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":777,
+    "iso:country":"IE",
+    "lbl:latitude":52.85528,
+    "lbl:longitude":-9.39833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Milltown Malbay"
+    ],
+    "name:gle_x_preferred":[
+        "Sr\u00e1id na Cathrach"
+    ],
+    "name:unk_x_variant":[
+        "Miltown Malbay"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962597,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Milltown Malbay",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":990,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905994,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071443,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962597,
+        "gp:id":20071443,
+        "qs_pg:id":905994
+    },
+    "wof:country":"IE",
+    "wof:created":1497044300,
+    "wof:geomhash":"38a8f88b011493e3e9e718bf30b656d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125316391,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125316391,
+    "wof:lastmodified":1509388021,
+    "wof:name":"Milltown Malbay",
+    "wof:parent_id":85685037,
+    "wof:placetype":"localadmin",
+    "wof:population":777,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39833,
+    52.85528,
+    -9.39833,
+    52.85528
+],
+  "geometry": {"coordinates":[-9.39833,52.85528],"type":"Point"}
+}

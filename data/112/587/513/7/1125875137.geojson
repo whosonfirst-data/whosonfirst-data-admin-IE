@@ -1,0 +1,115 @@
+{
+  "id": 1125875137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18,52.59194,-7.18,52.59194",
+    "geom:latitude":52.59194,
+    "geom:longitude":-7.18,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":729,
+    "iso:country":"IE",
+    "lbl:latitude":52.59194,
+    "lbl:longitude":-7.18,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Bennettsbridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0442\u0446\u0431\u0440\u0438\u0434\u0433\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Bennettsbridge"
+    ],
+    "name:eng_x_preferred":[
+        "Bennettsbridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead Bin\u00e9id"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u043d\u0435\u0442\u0441\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Bennettsbridge"
+    ],
+    "name:swe_x_preferred":[
+        "Bennettsbridge"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966179,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bennettsbridge",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270684,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559932,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966179,
+        "gp:id":559932,
+        "qs_pg:id":270684,
+        "wd:id":"Q2084252"
+    },
+    "wof:country":"IE",
+    "wof:created":1497294500,
+    "wof:geomhash":"27819e84975ef5b9ebe7ed857c9f13d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125875137,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1125875137,
+    "wof:lastmodified":1514450424,
+    "wof:name":"Bennettsbridge",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":729,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18,
+    52.59194,
+    -7.18,
+    52.59194
+],
+  "geometry": {"coordinates":[-7.18,52.59194],"type":"Point"}
+}

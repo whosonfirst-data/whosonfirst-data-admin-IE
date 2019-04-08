@@ -1,0 +1,66 @@
+{
+  "id": 1243002323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09722,52.88056,-6.09722,52.88056",
+    "geom:latitude":52.88056,
+    "geom:longitude":-6.09722,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Jack White's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305134,
+    "gn:latitude":52.88056,
+    "gn:longitude":-6.09722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Jack White\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305134
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b239b0f5ee149cf22369814deb91fc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243002323,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1243002323,
+    "wof:lastmodified":1536949259,
+    "wof:name":"Jack White's Cross Roads",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09722,
+    52.88056,
+    -6.09722,
+    52.88056
+],
+  "geometry": {"coordinates":[-6.09722,52.88056],"type":"Point"}
+}

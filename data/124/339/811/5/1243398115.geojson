@@ -1,0 +1,66 @@
+{
+  "id": 1243398115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58333,52.2,-9.58333,52.2",
+    "geom:latitude":52.2,
+    "geom:longitude":-9.58333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Lissataggle",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962873,
+    "gn:latitude":52.2,
+    "gn:longitude":-9.58333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Lissataggle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962873
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b5689193131dd042224bc7b2f5c34a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243398115,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1243398115,
+    "wof:lastmodified":1536874352,
+    "wof:name":"Lissataggle",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58333,
+    52.2,
+    -9.58333,
+    52.2
+],
+  "geometry": {"coordinates":[-9.58333,52.2],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209249165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77054,53.63323,-6.77054,53.63323",
+    "geom:latitude":53.63323,
+    "geom:longitude":-6.77054,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Irishtown",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866845,
+    "gn:latitude":53.63323,
+    "gn:longitude":-6.77054,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Irishtown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866845
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6d7a3631788c43b3854e63c0989fd993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209249165
+        }
+    ],
+    "wof:id":1209249165,
+    "wof:lastmodified":1536293061,
+    "wof:name":"Irishtown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77054,
+    53.63323000000001,
+    -6.77054,
+    53.63323000000001
+],
+  "geometry": {"coordinates":[-6.77054,53.63323000000001],"type":"Point"}
+}

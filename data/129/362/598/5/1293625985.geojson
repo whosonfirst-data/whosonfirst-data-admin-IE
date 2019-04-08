@@ -1,0 +1,66 @@
+{
+  "id": 1293625985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.90222,54.20306,-7.90222,54.20306",
+    "geom:latitude":54.20306,
+    "geom:longitude":-7.90222,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Mully",
+    "gn:country_code":"IE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311660,
+    "gn:latitude":54.20306,
+    "gn:longitude":-7.90222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mully",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311660
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"50dd10ffcdfc5e958ef9d5299d7d99bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293625985,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1293625985,
+    "wof:lastmodified":1537081290,
+    "wof:name":"Mully",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.90222,
+    54.20306,
+    -7.90222,
+    54.20306
+],
+  "geometry": {"coordinates":[-7.90222,54.20306],"type":"Point"}
+}

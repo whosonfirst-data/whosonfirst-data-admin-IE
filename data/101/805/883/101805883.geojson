@@ -1,0 +1,124 @@
+{
+  "id": 101805883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":886594.09647,
+    "geom:bbox":"-9.00461038512,52.2074670323,-8.98556626965,52.2224433254",
+    "geom:latitude":52.213939,
+    "geom:longitude":-8.996416,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":988,
+    "iso:country":"IE",
+    "lbl:latitude":52.212582,
+    "lbl:longitude":-8.996415,
+    "mps:latitude":52.212582,
+    "mps:longitude":-8.996415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Newmarket"
+    ],
+    "name:dut_x_preferred":[
+        "Newmarket"
+    ],
+    "name:eng_x_preferred":[
+        "Newmarket"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th Trasna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u043c\u0430\u0440\u043a\u0435\u0442"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Newmarket",
+    "qs:la_lc":"*IE2502047267",
+    "qs:level":"locality",
+    "qs:loc":"Newmarket",
+    "qs:loc_alt":"Newmarket",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962265,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Newmarket",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":24,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":24,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1049368,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561860,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f671a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962265,
+        "gp:id":561860,
+        "qs:id":1049368,
+        "qs_pg:id":1049368,
+        "wd:id":"Q4328368",
+        "wk:page":"Victot-Pontfol"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"661fd1bf693ac686198da6cb0fbc558b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805883,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805883,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379340,
+    "wof:name":"Newmarket",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":988,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125949015
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.00461038511696,
+    52.20746703230918,
+    -8.98556626964961,
+    52.22244332536002
+],
+  "geometry": {"coordinates":[[[-8.9987445958775,52.22244332536002],[-8.99836474488984,52.22157997756341],[-8.99694381928958,52.22181250751032],[-8.99428554489396,52.21576898674226],[-8.99144400416395,52.21623392314632],[-8.98916649001836,52.2110536308017],[-8.98774584978776,52.21128604246354],[-8.98736635248963,52.21042264899143],[-8.98594572378624,52.21065503852537],[-8.98556626964961,52.20979163808801],[-8.98840746336208,52.20932685245168],[-8.98878696764643,52.21019024251655],[-8.99446929279134,52.20926044721091],[-8.99408968822405,52.20839707789571],[-8.9997716962958,52.20746703230918],[-9.00015140113101,52.20833038087017],[-8.99873089437392,52.20856292286419],[-9.00062956466797,52.21287966489894],[-9.00347081530867,52.21241451207317],[-9.00461038511696,52.21500450477367],[-9.00176898404493,52.21546968874486],[-9.00252868748322,52.21719636240152],[-8.99968713186513,52.21766149937048],[-9.00082667235483,52.22025152764195],[-8.99940579896372,52.22048408628592],[-9.00016553299895,52.22221077327703],[-8.9987445958775,52.22244332536002]]],"type":"Polygon"}
+}

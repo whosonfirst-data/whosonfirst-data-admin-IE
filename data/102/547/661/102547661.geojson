@@ -1,0 +1,97 @@
+{
+  "id": 102547661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45111111111,53.3016666667,-6.45111111111,53.3016666667",
+    "geom:latitude":53.301667,
+    "geom:longitude":-6.451111,
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Flughafen Saint-Martin - Grand-Case"
+    ],
+    "name:eng_x_variant":[
+        "IME"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0644\u0633\u067e\u0631\u0627\u0646\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "A\u00e9roport de Grand-Case Esp\u00e9rance"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Grand-Case Esp\u00e9rance"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30ab\u30fc\u30ba\u30fb\u30a8\u30b9\u30da\u30e9\u30f3\u30b5\u98db\u884c\u5834"
+    ],
+    "name:nld_x_preferred":[
+        "Luchthaven L'Esp\u00e9rance"
+    ],
+    "name:nor_x_preferred":[
+        "L'Esp\u00e9rance lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy L'Esperance"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Grand-Case Esp\u00e9rance"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043b\u0441\u043f\u0440\u043e\u043d\u0441\u04b3"
+    ],
+    "oa:elevation_ft":"319",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424803,
+        "planet_id":1,
+        "state_id":2345254,
+        "suburb_id":562471
+    },
+    "wof:belongsto":[
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12512718,
+        "icao:code":"EIME",
+        "oa:id":"2536",
+        "wd:id":"Q350195"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ab3dc93afb0eb2dc832854eb21d03d4d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547661,
+            "country_id":85633241,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":102547661,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Casement Airport",
+    "wof:parent_id":85685009,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -6.4511111111111,
+    53.301666666667,
+    -6.4511111111111,
+    53.301666666667
+],
+  "geometry": {"coordinates":[-6.4511111111111,53.301666666667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343390177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64028,53.05667,-8.64028,53.05667",
+    "geom:latitude":53.05667,
+    "geom:longitude":-8.64028,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Tooravoola",
+    "gn:country_code":"IE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961152,
+    "gn:latitude":53.05667,
+    "gn:longitude":-8.64028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tooravoola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961152
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5640c59eeaf5265c386fe7c8d25bcf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343390177,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343390177,
+    "wof:lastmodified":1536846641,
+    "wof:name":"Tooravoola",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64028,
+    53.05667,
+    -8.64028,
+    53.05667
+],
+  "geometry": {"coordinates":[-8.64028,53.05667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226478651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71694,52.52222,-7.71694,52.52222",
+    "geom:latitude":52.52222,
+    "geom:longitude":-7.71694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Moglass",
+    "gn:country_code":"IE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306996,
+    "gn:latitude":52.52222,
+    "gn:longitude":-7.71694,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Moglass",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306996
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1e048ea52de67e636160403b9370c391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226478651,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1226478651,
+    "wof:lastmodified":1537091419,
+    "wof:name":"Moglass",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71694,
+    52.52222,
+    -7.71694,
+    52.52222
+],
+  "geometry": {"coordinates":[-7.71694,52.52222],"type":"Point"}
+}

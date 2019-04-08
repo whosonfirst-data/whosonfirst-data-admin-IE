@@ -1,0 +1,72 @@
+{
+  "id": 1344193475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.45389,54.83861,-8.45389,54.83861",
+    "geom:latitude":54.83861,
+    "geom:longitude":-8.45389,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Naran",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962312,
+    "gn:latitude":54.83861,
+    "gn:longitude":-8.45389,
+    "gn:modification_date":"2011-06-09",
+    "gn:name":"Naran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Narin",
+        "Naran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962312,
+        "wk:page":"Narin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"76106b0ed9f2f8c5f6ba69288b2d7cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344193475,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1344193475,
+    "wof:lastmodified":1537636726,
+    "wof:name":"Naran",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45389,
+    54.83861,
+    -8.45389,
+    54.83861
+],
+  "geometry": {"coordinates":[-8.45389,54.83861],"type":"Point"}
+}

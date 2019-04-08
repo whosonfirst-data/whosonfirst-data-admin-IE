@@ -1,0 +1,80 @@
+{
+  "id": 1125332191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06754,53.263101,-9.06754,53.263101",
+    "geom:latitude":53.263101,
+    "geom:longitude":-9.06754,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":53.263101,
+    "lbl:longitude":-9.06754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Claddagh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":635,
+    "qs_pg:photos_1k":129,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3454,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":425269,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072388,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072388,
+        "qs_pg:id":425269
+    },
+    "wof:country":"IE",
+    "wof:created":1497045192,
+    "wof:geomhash":"8faa251e7911e20b92ccacd17460a14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125332191,
+            "region_id":85685055
+        }
+    ],
+    "wof:id":1125332191,
+    "wof:lastmodified":1509388410,
+    "wof:name":"Claddagh",
+    "wof:parent_id":85685055,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06754,
+    53.263101,
+    -9.06754,
+    53.263101
+],
+  "geometry": {"coordinates":[-9.06754,53.263101],"type":"Point"}
+}

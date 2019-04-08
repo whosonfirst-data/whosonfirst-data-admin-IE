@@ -1,0 +1,70 @@
+{
+  "id": 1243399271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04073,52.94497,-7.04073,52.94497",
+    "geom:latitude":52.94497,
+    "geom:longitude":-7.04073,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ballylinan",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838899,
+    "gn:latitude":52.94497,
+    "gn:longitude":-7.04073,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballylinan",
+    "gn:population":1084,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838899,
+        "wk:page":"Ballylinan"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"946debf1f2225bb6e1822a14620b3724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243399271,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1243399271,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Ballylinan",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:population":1084,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04073,
+    52.94497,
+    -7.04073,
+    52.94497
+],
+  "geometry": {"coordinates":[-7.04073,52.94497],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101804977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000077,
+    "geom:area_square_m":557629.802415,
+    "geom:bbox":"-6.59861184512,54.0004638783,-6.57265848883,54.0085623623",
+    "geom:latitude":54.003991,
+    "geom:longitude":-6.585556,
+    "gn:population":265,
+    "iso:country":"IE",
+    "lbl:latitude":54.00294,
+    "lbl:longitude":-6.586637,
+    "mps:latitude":54.00294,
+    "mps:longitude":-6.586637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Inniskeen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0438\u0441\u043a\u0435\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Inniskeen"
+    ],
+    "name:eng_x_preferred":[
+        "Inishkeen"
+    ],
+    "name:eng_x_variant":[
+        "Inniskeen"
+    ],
+    "name:gle_x_preferred":[
+        "Inis Caoin"
+    ],
+    "name:pol_x_preferred":[
+        "Inishkeen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0438\u0448\u043a\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Inniskeen"
+    ],
+    "name:unk_x_variant":[
+        "Iniskeen"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Monaghan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kiltybegs",
+    "qs:la_lc":"*IE1105177054",
+    "qs:level":"locality",
+    "qs:loc":"Inishkeen",
+    "qs:loc_alt":"Inishkeen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":929,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ea35c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963640,
+        "gp:id":561137,
+        "qs:id":1222653,
+        "qs_pg:id":1222653,
+        "wd:id":"Q955089",
+        "wk:page":"Inniskeen"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"47abca3ec56d24bd3ecf4a9b87f509fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804977,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":101804977,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642748,
+    "wof:name":"Inishkeen",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.59861184511544,
+    54.00046387832134,
+    -6.57265848883469,
+    54.00856236225582
+],
+  "geometry": {"coordinates":[[[-6.59484730232464,54.00641063698993],[-6.59343687493151,54.00292580870126],[-6.5859872420782,54.00394882589984],[-6.58563482367606,54.00307759105721],[-6.58116496984553,54.00369117072586],[-6.58151730178395,54.00456242017179],[-6.57704724108373,54.00517585239999],[-6.57739950427862,54.00604711507958],[-6.57590942846548,54.00625156134413],[-6.57626168056186,54.00712282752335],[-6.57477156254311,54.0073272606478],[-6.57265848883469,54.00209961388293],[-6.57861818884379,54.00128189013128],[-6.57897043877171,54.00215314854569],[-6.58344015981572,54.00153965209256],[-6.58308782343272,54.00066840827839],[-6.58457767487761,54.00046387832134],[-6.58528242300963,54.00220635484669],[-6.59124192552395,54.0013880160468],[-6.59159444145615,54.00225923278163],[-6.59457417004609,54.0018499456267],[-6.59492676134806,54.00272115125205],[-6.59641663437759,54.00251647580052],[-6.59676927223819,54.00338767518497],[-6.5982591606936,54.00318297685965],[-6.59861184511544,54.00405417000269],[-6.59712192784554,54.00425887319966],[-6.59853272776775,54.0077436515582],[-6.59257246367383,54.00856236225582],[-6.59186725878419,54.00681993684367],[-6.59484730232464,54.00641063698993]]],"type":"Polygon"}
+}

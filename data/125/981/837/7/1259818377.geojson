@@ -1,0 +1,66 @@
+{
+  "id": 1259818377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88944,53.01611,-6.88944,53.01611",
+    "geom:latitude":53.01611,
+    "geom:longitude":-6.88944,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Ballindrum",
+    "gn:country_code":"IE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314266,
+    "gn:latitude":53.01611,
+    "gn:longitude":-6.88944,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballindrum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314266
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"27fc13d11acaffc5c4c853cb15b251c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259818377,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1259818377,
+    "wof:lastmodified":1536872011,
+    "wof:name":"Ballindrum",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88944,
+    53.01611,
+    -6.88944,
+    53.01611
+],
+  "geometry": {"coordinates":[-6.88944,53.01611],"type":"Point"}
+}

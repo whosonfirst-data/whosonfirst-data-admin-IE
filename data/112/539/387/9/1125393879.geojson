@@ -1,0 +1,78 @@
+{
+  "id": 1125393879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.474192,54.272592,-8.474192,54.272592",
+    "geom:latitude":54.272592,
+    "geom:longitude":-8.474192,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":54.272592,
+    "lbl:longitude":-8.474192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Sligo North Urban",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Sligo",
+    "qs_pg:photos":2921,
+    "qs_pg:photos_1k":592,
+    "qs_pg:photos_9k":28,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6304,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":224709,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073928,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Sligo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073928,
+        "qs_pg:id":224709
+    },
+    "wof:country":"IE",
+    "wof:created":1497048884,
+    "wof:geomhash":"a278d25980a692751dc1aa2f7a549c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1125393879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125393879,
+    "wof:lastmodified":1530147520,
+    "wof:name":"Sligo North Urban",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.474192,
+    54.272592,
+    -8.474192,
+    54.272592
+],
+  "geometry": {"coordinates":[-8.474192,54.272592],"type":"Point"}
+}

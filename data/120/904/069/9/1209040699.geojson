@@ -1,0 +1,62 @@
+{
+  "id": 1209040699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32611,52.00889,-9.32611,52.00889",
+    "geom:latitude":52.00889,
+    "geom:longitude":-9.32611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Annagh",
+    "gn:country_code":"IE",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3290655,
+    "gn:latitude":52.00889,
+    "gn:longitude":-9.32611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Annagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290655
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a330e331ec52aaf3f0ca15f4af263a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209040699
+        }
+    ],
+    "wof:id":1209040699,
+    "wof:lastmodified":1536299555,
+    "wof:name":"Annagh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32611,
+    52.00889,
+    -9.32611,
+    52.00889
+],
+  "geometry": {"coordinates":[-9.32611,52.00889],"type":"Point"}
+}

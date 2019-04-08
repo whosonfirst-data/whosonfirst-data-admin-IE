@@ -1,0 +1,66 @@
+{
+  "id": 1276689529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.75361,54.22444,-9.75361,54.22444",
+    "geom:latitude":54.22444,
+    "geom:longitude":-9.75361,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Bellanaboy Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966235,
+    "gn:latitude":54.22444,
+    "gn:longitude":-9.75361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Bellanaboy Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966235
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"81f226c1cc480e469d6a80c4ca2bf218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276689529,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1276689529,
+    "wof:lastmodified":1536798649,
+    "wof:name":"Bellanaboy Bridge",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.75361,
+    54.22444,
+    -9.75361,
+    54.22444
+],
+  "geometry": {"coordinates":[-9.75361,54.22444],"type":"Point"}
+}

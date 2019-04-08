@@ -1,0 +1,66 @@
+{
+  "id": 1259519725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.45979,53.9282,-6.45979,53.9282",
+    "geom:latitude":53.9282,
+    "geom:longitude":-6.45979,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Darver",
+    "gn:country_code":"IE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870956,
+    "gn:latitude":53.9282,
+    "gn:longitude":-6.45979,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Darver",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870956
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b61c16750241df703284ee4450b452e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259519725,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1259519725,
+    "wof:lastmodified":1536806434,
+    "wof:name":"Darver",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45979,
+    53.9282,
+    -6.45979,
+    53.9282
+],
+  "geometry": {"coordinates":[-6.45979,53.9282],"type":"Point"}
+}

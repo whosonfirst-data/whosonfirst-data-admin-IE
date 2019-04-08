@@ -1,0 +1,66 @@
+{
+  "id": 1327462757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33889,53.03444,-8.33889,53.03444",
+    "geom:latitude":53.03444,
+    "geom:longitude":-8.33889,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Rosmore Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312878,
+    "gn:latitude":53.03444,
+    "gn:longitude":-8.33889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rosmore Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312878
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"60215e944d954f50bed20137ed9f4aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327462757,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1327462757,
+    "wof:lastmodified":1536635812,
+    "wof:name":"Rosmore Bridge",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33889,
+    53.03444,
+    -8.33889,
+    53.03444
+],
+  "geometry": {"coordinates":[-8.33889,53.03444],"type":"Point"}
+}

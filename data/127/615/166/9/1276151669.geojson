@@ -1,0 +1,66 @@
+{
+  "id": 1276151669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52278,53.6575,-6.52278,53.6575",
+    "geom:latitude":53.6575,
+    "geom:longitude":-6.52278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Rathdrinagh",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961919,
+    "gn:latitude":53.6575,
+    "gn:longitude":-6.52278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rathdrinagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961919
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d9c271788c4249b7af1fd6f53f2957e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276151669,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1276151669,
+    "wof:lastmodified":1537021285,
+    "wof:name":"Rathdrinagh",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52278,
+    53.6575,
+    -6.52278,
+    53.6575
+],
+  "geometry": {"coordinates":[-6.52278,53.6575],"type":"Point"}
+}

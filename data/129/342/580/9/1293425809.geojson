@@ -1,0 +1,71 @@
+{
+  "id": 1293425809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58333,52.25,-9.58333,52.25",
+    "geom:latitude":52.25,
+    "geom:longitude":-9.58333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ballymacelligott",
+    "gn:country_code":"IE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966525,
+    "gn:latitude":52.25,
+    "gn:longitude":-9.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballymacelligott",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bally M\u2019Elligott",
+        "Ballymacelligott"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966525,
+        "wk:page":"Ballymacelligott"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"98b905476a89a3ea12926043331ac68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293425809,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293425809,
+    "wof:lastmodified":1537636757,
+    "wof:name":"Ballymacelligott",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58333,
+    52.25,
+    -9.58333,
+    52.25
+],
+  "geometry": {"coordinates":[-9.58333,52.25],"type":"Point"}
+}

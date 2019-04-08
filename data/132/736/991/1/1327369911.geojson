@@ -1,0 +1,72 @@
+{
+  "id": 1327369911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84277,53.61845,-6.84277,53.61845",
+    "geom:latitude":53.61845,
+    "geom:longitude":-6.84277,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Drissoge",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866821,
+    "gn:latitude":53.61845,
+    "gn:longitude":-6.84277,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Drissoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drissoge"
+    ],
+    "name:gle_x_preferred":[
+        "Driseog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866821
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"54c5ebf0fe34b0e68b53e3cb0f95e1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327369911,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1327369911,
+    "wof:lastmodified":1537636796,
+    "wof:name":"Drissoge",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84277,
+    53.61845,
+    -6.84277,
+    53.61845
+],
+  "geometry": {"coordinates":[-6.84277,53.61845],"type":"Point"}
+}

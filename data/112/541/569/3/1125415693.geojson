@@ -1,0 +1,96 @@
+{
+  "id": 1125415693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91756,53.39623,-9.91756,53.39623",
+    "geom:latitude":53.39623,
+    "geom:longitude":-9.91756,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":245,
+    "iso:country":"IE",
+    "lbl:latitude":53.39623,
+    "lbl:longitude":-9.91756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Roundstone"
+    ],
+    "name:gle_x_preferred":[
+        "Cloch na R\u00f3n"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961662,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Roundstone",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":987,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248726,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072538,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961662,
+        "gp:id":20072538,
+        "qs_pg:id":248726
+    },
+    "wof:country":"IE",
+    "wof:created":1497051290,
+    "wof:geomhash":"9495595c32f9a080271600049a840085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125415693,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125415693,
+    "wof:lastmodified":1509390361,
+    "wof:name":"Roundstone",
+    "wof:parent_id":85685097,
+    "wof:placetype":"localadmin",
+    "wof:population":245,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91756,
+    53.39623,
+    -9.91756,
+    53.39623
+],
+  "geometry": {"coordinates":[-9.91756,53.39623],"type":"Point"}
+}

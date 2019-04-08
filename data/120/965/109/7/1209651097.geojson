@@ -1,0 +1,62 @@
+{
+  "id": 1209651097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79167,53.92167,-9.79167,53.92167",
+    "geom:latitude":53.92167,
+    "geom:longitude":-9.79167,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Dooghill",
+    "gn:country_code":"IE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315706,
+    "gn:latitude":53.92167,
+    "gn:longitude":-9.79167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dooghill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315706
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"679cec98601c8f4237ab92bd7df8ec1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651097
+        }
+    ],
+    "wof:id":1209651097,
+    "wof:lastmodified":1536280578,
+    "wof:name":"Dooghill",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79167,
+    53.92167,
+    -9.79167,
+    53.92167
+],
+  "geometry": {"coordinates":[-9.79167,53.92167],"type":"Point"}
+}

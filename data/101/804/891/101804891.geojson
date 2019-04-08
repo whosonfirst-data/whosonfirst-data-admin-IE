@@ -1,0 +1,146 @@
+{
+  "id": 101804891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000358,
+    "geom:area_square_m":2629144.873353,
+    "geom:bbox":"-6.47812525261,53.4957340042,-6.44418368358,53.5143856613",
+    "geom:latitude":53.505426,
+    "geom:longitude":-6.462678,
+    "gn:population":9043,
+    "iso:country":"IE",
+    "lbl:latitude":53.504978,
+    "lbl:longitude":-6.463835,
+    "mps:latitude":53.504978,
+    "mps:longitude":-6.463835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ratoath"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u043e\u0443\u0442"
+    ],
+    "name:ces_x_preferred":[
+        "Ratoath"
+    ],
+    "name:cze_x_preferred":[
+        "Ratoath"
+    ],
+    "name:dan_x_preferred":[
+        "Ratoath"
+    ],
+    "name:deu_x_preferred":[
+        "Ratoath"
+    ],
+    "name:dut_x_preferred":[
+        "Ratoath"
+    ],
+    "name:eng_x_preferred":[
+        "Ratoath"
+    ],
+    "name:fra_x_preferred":[
+        "Ratoath"
+    ],
+    "name:fre_x_preferred":[
+        "Ratoath"
+    ],
+    "name:ger_x_preferred":[
+        "Ratoath"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th T\u00f3"
+    ],
+    "name:glv_x_preferred":[
+        "R\u00e1th T\u00f3"
+    ],
+    "name:ind_x_preferred":[
+        "Ratoath"
+    ],
+    "name:ita_x_preferred":[
+        "Ratoath"
+    ],
+    "name:nld_x_preferred":[
+        "Ratoath"
+    ],
+    "name:pol_x_preferred":[
+        "Ratoath"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043e\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Ratoath"
+    ],
+    "name:slo_x_preferred":[
+        "Ratoath"
+    ],
+    "name:swe_x_preferred":[
+        "Ratoath"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ratoath",
+    "qs:la_lc":"*IE2202167078",
+    "qs:level":"locality",
+    "qs:loc":"Rathoath",
+    "qs:loc_alt":"Rathoath",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":635,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11803c30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961872,
+        "gp:id":20073597,
+        "qs:id":960537,
+        "wd:id":"Q1016286",
+        "wk:page":"Ratoath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6a93109de9c10ad8dd6616fbc1b61c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804891,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804891,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642755,
+    "wof:name":"Rathoath",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":9043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47812525260713,
+    53.49573400423685,
+    -6.44418368357532,
+    53.514385661284
+],
+  "geometry": {"coordinates":[[[-6.46226001502447,53.514385661284],[-6.46191588605291,53.51351389813448],[-6.45602118439456,53.51432466149174],[-6.45567718490156,53.51345287798233],[-6.45715085154325,53.51325021857843],[-6.45680684105946,53.51237843846775],[-6.45828046673017,53.5121757660259],[-6.45690448344959,53.50868865106469],[-6.45248390488012,53.50929655801843],[-6.45282779078588,53.51016835303733],[-6.45135421075997,53.51037095786199],[-6.45101035294397,53.50949915809377],[-6.44953678813619,53.5097017403811],[-6.44816164014765,53.50621450880277],[-6.44668817482358,53.50641705430951],[-6.4463444586342,53.50554523829015],[-6.4448710085307,53.50574776126257],[-6.44418368357532,53.50400411567892],[-6.45302385421377,53.50278876801553],[-6.45268004887589,53.50191697168157],[-6.45415333754011,53.5017143562373],[-6.45312193982301,53.49909897336954],[-6.45606831010809,53.49869371761935],[-6.45572448889925,53.49782193012271],[-6.46309004909301,53.49680850329901],[-6.46274610463894,53.49593673819606],[-6.46421915000747,53.49573400423685],[-6.46456312252496,53.49660576458984],[-6.4689822655908,53.49599744177726],[-6.47001453828585,53.49861267195155],[-6.47148764441454,53.49840984786351],[-6.47183179757775,53.49928158379356],[-6.4733049188921,53.49907873717154],[-6.47364911722372,53.4999504669936],[-6.47217596784435,53.50015331836875],[-6.47252015521559,53.50102505158929],[-6.47104696489015,53.50122788993576],[-6.47207954543598,53.50384309572883],[-6.47355281996965,53.50364024312194],[-6.47424134868447,53.50538369736853],[-6.47571466647793,53.50518081746918],[-6.47812525260713,53.51128283135819],[-6.47665173827534,53.51148574454663],[-6.47630734555361,53.51061402758705],[-6.47188680945777,53.51122264616606],[-6.47223111793204,53.51209437739249],[-6.4692839732561,53.51250004368734],[-6.46962824267462,53.51337178306881],[-6.46226001502447,53.514385661284]]],"type":"Polygon"}
+}

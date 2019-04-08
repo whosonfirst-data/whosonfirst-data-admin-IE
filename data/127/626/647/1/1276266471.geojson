@@ -1,0 +1,66 @@
+{
+  "id": 1276266471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09028,54.64278,-8.09028,54.64278",
+    "geom:latitude":54.64278,
+    "geom:longitude":-8.09028,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Carter's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308382,
+    "gn:latitude":54.64278,
+    "gn:longitude":-8.09028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carter\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308382
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d86f746e39f96b18e4bcdd537bce2d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276266471,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1276266471,
+    "wof:lastmodified":1536866908,
+    "wof:name":"Carter's Bridge",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09028,
+    54.64278,
+    -8.09028,
+    54.64278
+],
+  "geometry": {"coordinates":[-8.09028,54.64278],"type":"Point"}
+}

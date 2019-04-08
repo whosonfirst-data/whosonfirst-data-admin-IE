@@ -1,0 +1,66 @@
+{
+  "id": 1209651173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.26203,52.9063,-6.26203,52.9063",
+    "geom:latitude":52.9063,
+    "geom:longitude":-6.26203,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Ballinaclash",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966775,
+    "gn:latitude":52.9063,
+    "gn:longitude":-6.26203,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Ballinaclash",
+    "gn:population":301,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966775,
+        "wk:page":"Ballinaclash"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"482fd7ce4792a470743e451cb30251f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651173
+        }
+    ],
+    "wof:id":1209651173,
+    "wof:lastmodified":1537564851,
+    "wof:name":"Ballinaclash",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":301,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.26203,
+    52.9063,
+    -6.26203,
+    52.9063
+],
+  "geometry": {"coordinates":[-6.26203,52.9063],"type":"Point"}
+}

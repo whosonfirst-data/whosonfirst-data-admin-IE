@@ -1,0 +1,73 @@
+{
+  "id": 1293718605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3125,53.30222,-8.3125,53.30222",
+    "geom:latitude":53.30222,
+    "geom:longitude":-8.3125,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Aughrim",
+    "gn:country_code":"IE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966815,
+    "gn:latitude":53.30222,
+    "gn:longitude":-8.3125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aughrim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aughrim"
+    ],
+    "name:gle_x_preferred":[
+        "Eachroim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966815,
+        "wk:page":"Aughrim%2C_County_Galway"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4de122ba9a407c01773ce0e8f2748779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293718605,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293718605,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Aughrim",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3125,
+    53.30222,
+    -8.3125,
+    53.30222
+],
+  "geometry": {"coordinates":[-8.3125,53.30222],"type":"Point"}
+}

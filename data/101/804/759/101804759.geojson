@@ -1,0 +1,109 @@
+{
+  "id": 101804759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":976122.284431,
+    "geom:bbox":"-7.40550144955,52.8378539901,-7.38630106405,52.8565268909",
+    "geom:latitude":52.846226,
+    "geom:longitude":-7.395048,
+    "gn:population":843,
+    "iso:country":"IE",
+    "lbl:latitude":52.845173,
+    "lbl:longitude":-7.393593,
+    "mps:latitude":52.845173,
+    "mps:longitude":-7.393593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Durrow"
+    ],
+    "name:eng_x_preferred":[
+        "Durrow"
+    ],
+    "name:ger_x_preferred":[
+        "Durrow"
+    ],
+    "name:gle_x_preferred":[
+        "Dar\u00fa"
+    ],
+    "name:lit_x_preferred":[
+        "Darou"
+    ],
+    "name:pol_x_preferred":[
+        "Durrow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0440\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Durrow"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Laois",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Durrow",
+    "qs:la_lc":"*IE1201107044",
+    "qs:level":"locality",
+    "qs:loc":"Durrow",
+    "qs:loc_alt":"Durrow",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d6cee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964468,
+        "gp:id":560789,
+        "qs:id":473105,
+        "qs_pg:id":473105,
+        "wd:id":"Q1267497",
+        "wk:page":"Durrow, County Laois"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2709b43cfc2ffef5342b9665183c281a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804759,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":101804759,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Durrow",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:population":843,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40550144955182,
+    52.83785399008093,
+    -7.38630106405208,
+    52.85652689086351
+],
+  "geometry": {"coordinates":[[[-7.3978055664287,52.85652689086351],[-7.39567229211639,52.85131388094715],[-7.39132870448077,52.8519546630526],[-7.39168412683614,52.85282351648175],[-7.38734034208522,52.85346415672234],[-7.38698499979222,52.85259528862719],[-7.38988081592248,52.85216822230336],[-7.38810409730172,52.84782390808607],[-7.38665632915928,52.84803742550417],[-7.38630106405208,52.84716855324842],[-7.39064424943808,52.84652796348479],[-7.38886778335416,52.84218365289337],[-7.39321045162564,52.84154297993888],[-7.39178927024204,52.83806756295763],[-7.39323669366888,52.83785399008093],[-7.39430263374504,52.84046054041789],[-7.39575012417185,52.84024693549196],[-7.39646089076734,52.84198461839355],[-7.40514588028748,52.84070256504936],[-7.40550144955182,52.8415713748962],[-7.40405395714526,52.84178509881065],[-7.40440951706455,52.84265391203735],[-7.40296198498572,52.84286762345585],[-7.40331753555813,52.84373644006263],[-7.40186996380424,52.84395013898484],[-7.40293663943731,52.84655659441376],[-7.39569818548597,52.84762490155464],[-7.3992535630714,52.8563132326986],[-7.3978055664287,52.85652689086351]]],"type":"Polygon"}
+}

@@ -1,0 +1,145 @@
+{
+  "id": 101805915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000175,
+    "geom:area_square_m":1345048.369481,
+    "geom:bbox":"-9.2828924163,51.5401198295,-9.25948080001,51.5637250454",
+    "geom:latitude":51.551418,
+    "geom:longitude":-9.269549,
+    "gn:population":2098,
+    "iso:country":"IE",
+    "lbl:latitude":51.548051,
+    "lbl:longitude":-9.267598,
+    "mps:latitude":51.548051,
+    "mps:longitude":-9.267598,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u0438\u0431\u0435\u0440\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:chi_x_preferred":[
+        "\u65af\u57fa\u5e03\u56e0"
+    ],
+    "name:deu_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:dut_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:eng_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:eus_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:fra_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:fre_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:ger_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:gle_x_preferred":[
+        "An Sciobair\u00edn"
+    ],
+    "name:gle_x_variant":[
+        "An Sciobairin"
+    ],
+    "name:ita_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:lit_x_preferred":[
+        "Skipberinas"
+    ],
+    "name:nld_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:nob_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:nor_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:pol_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0438\u0431\u0431\u0435\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Skibbereen"
+    ],
+    "name:wel_x_preferred":[
+        "Skibbereen"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Skibbereen Rural",
+    "qs:la_lc":"*IE2502047293",
+    "qs:level":"locality",
+    "qs:loc":"Skibbereen",
+    "qs:loc_alt":"Skibbereen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1210,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961459,
+        "gp:id":562234,
+        "qs:id":976421,
+        "wd:id":"Q1930746",
+        "wk:page":"Skibbereen"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"89682a9692d1f1d0c66f283e85bcd48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805915,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805915,
+    "wof:lastmodified":1535390436,
+    "wof:name":"Skibbereen",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":2098,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28289241629784,
+    51.5401198294705,
+    -9.25948080000546,
+    51.5637250453721
+],
+  "geometry": {"coordinates":[[[-9.2658323129923,51.555098645412],[-9.26023441137397,51.556039631773],[-9.25948080000546,51.5543142887361],[-9.2608802470042,51.5540790773932],[-9.2605034437122,51.5532164082773],[-9.26190285342994,51.552981185431],[-9.26114925163211,51.5512558520032],[-9.26394793514197,51.5507853769439],[-9.26244075070298,51.5473347293027],[-9.26383997633212,51.5470994873712],[-9.26308644186707,51.5453741628757],[-9.26448560614716,51.5451389145833],[-9.26410884131087,51.5442762547363],[-9.26550796832743,51.5440409949441],[-9.26400098917156,51.5405903578547],[-9.26679901104325,51.5401198294705],[-9.26792936339177,51.542707779189],[-9.26932842678127,51.5424724746203],[-9.2727206539264,51.55023617886],[-9.27831764244843,51.5492946090858],[-9.27794056135298,51.5484320031629],[-9.2793397514186,51.5481965742629],[-9.27971685659355,51.549059175042],[-9.28251524529628,51.5485882570355],[-9.28289241629784,51.5494508456966],[-9.28149320446613,51.5496863181643],[-9.28224755132635,51.5514115002893],[-9.28084827813552,51.5516469664068],[-9.28122545399265,51.552509559871],[-9.27842681985004,51.552980452474],[-9.27767258214072,51.5512552431384],[-9.27347467645677,51.5519614263689],[-9.27498293352579,51.5554118994557],[-9.27638234496425,51.5551765011115],[-9.27675947749594,51.5560391096694],[-9.26976216787614,51.5572159606804],[-9.27202461140496,51.5623917279748],[-9.27622347049095,51.5616855747],[-9.27660067856669,51.5625481807517],[-9.26960239358323,51.5637250453721],[-9.2680941493133,51.5602745073072],[-9.26949373631351,51.5600391882509],[-9.2683626663619,51.5574512809516],[-9.26696315165236,51.5576865845786],[-9.2658323129923,51.555098645412]],[[-9.2658323129923,51.555098645412],[-9.27003060069495,51.5543927308827],[-9.26889970418983,51.5518048215577],[-9.26470163330163,51.5525106898095],[-9.2658323129923,51.555098645412]]],"type":"Polygon"}
+}

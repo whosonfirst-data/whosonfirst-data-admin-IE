@@ -1,0 +1,66 @@
+{
+  "id": 1310435789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65861,52.50444,-9.65861,52.50444",
+    "geom:latitude":52.50444,
+    "geom:longitude":-9.65861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ahafona",
+    "gn:country_code":"IE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2967035,
+    "gn:latitude":52.50444,
+    "gn:longitude":-9.65861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ahafona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967035
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"815924dc3468e80c3a1efff232870663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310435789,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1310435789,
+    "wof:lastmodified":1537016962,
+    "wof:name":"Ahafona",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65861,
+    52.50444,
+    -9.65861,
+    52.50444
+],
+  "geometry": {"coordinates":[-9.65861,52.50444],"type":"Point"}
+}

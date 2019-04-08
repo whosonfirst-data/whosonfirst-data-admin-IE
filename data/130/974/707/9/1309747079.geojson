@@ -1,0 +1,66 @@
+{
+  "id": 1309747079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.81398,53.52948,-6.81398,53.52948",
+    "geom:latitude":53.52948,
+    "geom:longitude":-6.81398,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Carberrystown",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866771,
+    "gn:latitude":53.52948,
+    "gn:longitude":-6.81398,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Carberrystown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866771
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"526f5571a0254d8bbf999d2be0e99b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309747079,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1309747079,
+    "wof:lastmodified":1537015068,
+    "wof:name":"Carberrystown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.81398,
+    53.52948000000001,
+    -6.81398,
+    53.52948000000001
+],
+  "geometry": {"coordinates":[-6.81398,53.52948000000001],"type":"Point"}
+}

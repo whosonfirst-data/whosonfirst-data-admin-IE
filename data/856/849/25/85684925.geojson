@@ -1,0 +1,276 @@
+{
+  "id": 85684925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000765,
+    "geom:area_square_m":5895845.868786,
+    "geom:bbox":"-9.52332,51.419441,-9.4604435,51.452374",
+    "geom:latitude":51.436993,
+    "geom:longitude":-9.493186,
+    "iso:country":"IE",
+    "lbl:latitude":51.436658,
+    "lbl:longitude":-9.493186,
+    "mps:latitude":51.436658,
+    "mps:longitude":-9.493186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0631\u0643"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0580\u056f"
+    ],
+    "name:ast_x_preferred":[
+        "Cond\u00e1u de Cork"
+    ],
+    "name:baq_x_preferred":[
+        "Corkeko konderria"
+    ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041a\u043e\u0440\u043a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0995\u09b0\u09cd\u0995"
+    ],
+    "name:bre_x_preferred":[
+        "Kontelezh Corcaigh"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Comtat de Cork"
+    ],
+    "name:chi_x_preferred":[
+        "\u79d1\u514b\u90e1"
+    ],
+    "name:cze_x_preferred":[
+        "Hrabstv\u00ed Cork"
+    ],
+    "name:dan_x_preferred":[
+        "County Cork"
+    ],
+    "name:dut_x_preferred":[
+        "County Cork"
+    ],
+    "name:eng_x_preferred":[
+        "Cork"
+    ],
+    "name:epo_x_preferred":[
+        "Graflando Cork"
+    ],
+    "name:est_x_preferred":[
+        "Corki krahvkond"
+    ],
+    "name:fin_x_preferred":[
+        "Corkin kreivikunta"
+    ],
+    "name:fre_x_preferred":[
+        "comt\u00e9 de Cork"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d9\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "County Cork"
+    ],
+    "name:gla_x_preferred":[
+        "Contae Chorca\u00ed"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Chorca\u00ed"
+    ],
+    "name:glg_x_preferred":[
+        "Condado de Cork - Chorca\u00ed"
+    ],
+    "name:glv_x_preferred":[
+        "Coontae Chorkee"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039a\u03bf\u03c1\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0a95\u0ac9\u0ab0\u0acd\u0a95"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e7\u05d5\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u0949\u0930\u094d\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Cork megye"
+    ],
+    "name:ice_x_preferred":[
+        "County Cork"
+    ],
+    "name:ind_x_preferred":[
+        "County Cork"
+    ],
+    "name:ita_x_preferred":[
+        "Cork"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30af\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c95\u0cbe\u0cb0\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ud06c \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Comitatus Corcagiensis"
+    ],
+    "name:lav_x_preferred":[
+        "Korkas gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Korko grafyst\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "County Cork"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u0949\u0930\u094d\u0915"
+    ],
+    "name:may_x_preferred":[
+        "County Cork"
+    ],
+    "name:nno_x_preferred":[
+        "County Cork"
+    ],
+    "name:nob_x_preferred":[
+        "Cork"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u06a9"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0648\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Cork"
+    ],
+    "name:por_x_preferred":[
+        "Condado de Cork"
+    ],
+    "name:rum_x_preferred":[
+        "Comitatul Cork"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Coonty Cork"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dbb\u0dca\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Contae Chorca\u00ed"
+    ],
+    "name:slv_x_preferred":[
+        "County Cork"
+    ],
+    "name:spa_x_preferred":[
+        "Condado de Cork"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Cork"
+    ],
+    "name:swe_x_preferred":[
+        "Cork"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf  \u0b95\u0bbe\u0bb0\u0bcd\u0b95\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4c\u0c02\u0c1f\u0c40 \u0c15\u0c3e\u0c30\u0c4d\u0c15\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u043e\u0440\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e04\u0e2d\u0e23\u0e4c\u0e01"
+    ],
+    "name:tpi_x_preferred":[
+        "Kaunti Cork"
+    ],
+    "name:tur_x_preferred":[
+        "Cork Kontlu\u011fu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u0648\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Cork"
+    ],
+    "name:wel_x_preferred":[
+        "Swydd Corc"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a0_lc":"IE0000000000",
+    "qs:a1":"Cork",
+    "qs:a1_alt":"Cork",
+    "qs:a1_lc":"IE2502000000",
+    "qs:adm0":"Ireland",
+    "qs:adm0_a3":"IRL",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":146,
+    "wof:belongsto":[
+        102191581,
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q162475"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4d7ac1474defa2edc8cc7a5c37436545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "region_id":85684925
+        }
+    ],
+    "wof:id":85684925,
+    "wof:lastmodified":1524092783,
+    "wof:name":"Cork",
+    "wof:parent_id":85633241,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        85684963
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.52332000000018,
+    51.41944099999984,
+    -9.4604435000002,
+    51.45237399999985
+],
+  "geometry": {"coordinates":[[[-9.46991750000018,51.45237399999985],[-9.4604435000002,51.44786099999984],[-9.47193900000019,51.44061299999984],[-9.48400000000018,51.43155699999983],[-9.49024300000019,51.42979099999985],[-9.4980090000002,51.42658299999985],[-9.50439550000019,51.42838649999984],[-9.51353650000019,51.41944099999984],[-9.5138675000002,51.42150899999984],[-9.51959550000018,51.42229499999985],[-9.51896000000019,51.42336299999985],[-9.51982800000019,51.42467549999984],[-9.51888550000018,51.42526999999984],[-9.52044600000019,51.42556399999984],[-9.5210725000002,51.42800499999984],[-9.52332000000018,51.42946299999982],[-9.50455400000018,51.44096799999983],[-9.50413500000019,51.44065099999983],[-9.50504100000018,51.43992299999985],[-9.50407900000019,51.44036899999983],[-9.5038050000002,51.44023599999983],[-9.50319350000018,51.43994199999982],[-9.50001450000019,51.44250149999985],[-9.46991750000018,51.45237399999985]]],"type":"Polygon"}
+}

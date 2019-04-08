@@ -1,0 +1,112 @@
+{
+  "id": 1125981703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63333,53.73333,-8.63333,53.73333",
+    "geom:latitude":53.73333,
+    "geom:longitude":-8.63333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":300,
+    "iso:country":"IE",
+    "lbl:latitude":53.73333,
+    "lbl:longitude":-8.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u043b\u043e\u0443\u0433\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Ballinlough"
+    ],
+    "name:eng_x_preferred":[
+        "Ballinlough"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10dc\u10da\u10dd\u10ee\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Locha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u043b\u043e\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinlough"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966719,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballinlough",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Roscommon",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156407,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559616,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Roscommon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966719,
+        "gp:id":559616,
+        "qs_pg:id":1156407,
+        "wd:id":"Q4076788"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298587,
+    "wof:geomhash":"2751443fe05bca348b8a6f830f278b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125981703,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1125981703,
+    "wof:lastmodified":1514450415,
+    "wof:name":"Ballinlough",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63333,
+    53.73333,
+    -8.63333,
+    53.73333
+],
+  "geometry": {"coordinates":[-8.63333,53.73333],"type":"Point"}
+}

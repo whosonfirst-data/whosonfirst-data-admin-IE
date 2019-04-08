@@ -1,0 +1,101 @@
+{
+  "id": 1125885657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29889,53.00444,-6.29889,53.00444",
+    "geom:latitude":53.00444,
+    "geom:longitude":-6.29889,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":537,
+    "gn:population":340,
+    "iso:country":"IE",
+    "lbl:latitude":53.00444,
+    "lbl:longitude":-6.29889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0440\u0430\u0433\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Laragh"
+    ],
+    "name:eng_x_preferred":[
+        "Laragh"
+    ],
+    "name:fre_x_preferred":[
+        "Laragh"
+    ],
+    "name:gle_x_preferred":[
+        "An Laithreach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Laragh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0631\u0627\u06af\u06be\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0648\u06cc\u06a9\u0644\u0648\u0648"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963028,
+    "qs_pg:gn_pop":537,
+    "qs_pg:name":"Laragh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":94266,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963028,
+        "qs_pg:id":94266,
+        "wd:id":"Q2091044"
+    },
+    "wof:country":"IE",
+    "wof:created":1497295064,
+    "wof:geomhash":"8783a5cc01c21e5a032928df8fa8047f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125885657,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1125885657,
+    "wof:lastmodified":1514450557,
+    "wof:name":"Laragh",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":340,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29889,
+    53.00444,
+    -6.29889,
+    53.00444
+],
+  "geometry": {"coordinates":[-6.29889,53.00444],"type":"Point"}
+}

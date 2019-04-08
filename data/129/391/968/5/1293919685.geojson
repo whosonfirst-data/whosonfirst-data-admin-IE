@@ -1,0 +1,71 @@
+{
+  "id": 1293919685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.49861,54.03472,-9.49861,54.03472",
+    "geom:latitude":54.03472,
+    "geom:longitude":-9.49861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Keenagh",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963537,
+    "gn:latitude":54.03472,
+    "gn:longitude":-9.49861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keenagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keenaghbeg",
+        "Keenagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963537
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"25c6c08c80370523b83d386197f18171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293919685,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293919685,
+    "wof:lastmodified":1537636736,
+    "wof:name":"Keenagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.49861,
+    54.03471999999999,
+    -9.49861,
+    54.03471999999999
+],
+  "geometry": {"coordinates":[-9.49861,54.03471999999999],"type":"Point"}
+}

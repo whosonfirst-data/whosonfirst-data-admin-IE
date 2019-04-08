@@ -1,0 +1,111 @@
+{
+  "id": 1126033993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03326,51.77846,-10.03326,51.77846",
+    "geom:latitude":51.77846,
+    "geom:longitude":-10.03326,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.77846,
+    "lbl:longitude":-10.03326,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Castlecove"
+    ],
+    "name:bre_x_preferred":[
+        "An Siopa Dubh"
+    ],
+    "name:dut_x_preferred":[
+        "Castlecove"
+    ],
+    "name:eng_x_preferred":[
+        "Castlecove"
+    ],
+    "name:ger_x_preferred":[
+        "Castlecove"
+    ],
+    "name:gle_x_preferred":[
+        "Cuan an Chaisle\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u043a\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "An Siopa Dubh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7870008,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Castlecove",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":301,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":301,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898957,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387357,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870008,
+        "gp:id":29387357,
+        "qs_pg:id":898957,
+        "wd:id":"Q2156001"
+    },
+    "wof:country":"IE",
+    "wof:created":1497301660,
+    "wof:geomhash":"70630c90d59e74e35b1c535c89f56038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126033993,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1126033993,
+    "wof:lastmodified":1514450440,
+    "wof:name":"Castlecove",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03326,
+    51.77846,
+    -10.03326,
+    51.77846
+],
+  "geometry": {"coordinates":[-10.03326,51.77846],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360019465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82972,53.39333,-7.82972,53.39333",
+    "geom:latitude":53.39333,
+    "geom:longitude":-7.82972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Killogeenaghan",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314027,
+    "gn:latitude":53.39333,
+    "gn:longitude":-7.82972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killogeenaghan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314027
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2a9aeffb6ca87c9437d1495616173885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360019465,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1360019465,
+    "wof:lastmodified":1537038673,
+    "wof:name":"Killogeenaghan",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82972,
+    53.39333000000001,
+    -7.82972,
+    53.39333000000001
+],
+  "geometry": {"coordinates":[-7.82972,53.39333000000001],"type":"Point"}
+}

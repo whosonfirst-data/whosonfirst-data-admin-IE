@@ -1,0 +1,62 @@
+{
+  "id": 1209243383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.01778,55.13083,-8.01778,55.13083",
+    "geom:latitude":55.13083,
+    "geom:longitude":-8.01778,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Croaghlosky",
+    "gn:country_code":"IE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307343,
+    "gn:latitude":55.13083,
+    "gn:longitude":-8.01778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Croaghlosky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307343
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"acf8dd276a2682c9bb2dbfb6596b821a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209243383
+        }
+    ],
+    "wof:id":1209243383,
+    "wof:lastmodified":1536293246,
+    "wof:name":"Croaghlosky",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01778,
+    55.13083,
+    -8.01778,
+    55.13083
+],
+  "geometry": {"coordinates":[-8.01778,55.13083],"type":"Point"}
+}

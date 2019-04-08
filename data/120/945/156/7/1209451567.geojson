@@ -1,0 +1,62 @@
+{
+  "id": 1209451567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22972,52.61139,-7.22972,52.61139",
+    "geom:latitude":52.61139,
+    "geom:longitude":-7.22972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Wallslough",
+    "gn:country_code":"IE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302346,
+    "gn:latitude":52.61139,
+    "gn:longitude":-7.22972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Wallslough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302346
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b059d7d0b8c9b9db4a425e0b34802f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209451567
+        }
+    ],
+    "wof:id":1209451567,
+    "wof:lastmodified":1536286656,
+    "wof:name":"Wallslough",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.229719999999999,
+    52.61139,
+    -7.229719999999999,
+    52.61139
+],
+  "geometry": {"coordinates":[-7.22972,52.61139],"type":"Point"}
+}

@@ -1,0 +1,133 @@
+{
+  "id": 1125791345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.54028,55.09389,-7.54028,55.09389",
+    "geom:latitude":55.09389,
+    "geom:longitude":-7.54028,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":518,
+    "iso:country":"IE",
+    "lbl:latitude":55.09389,
+    "lbl:longitude":-7.54028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u0445\u043c\u0443\u043b\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:dut_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:eng_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:fre_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:ger_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:gla_x_preferred":[
+        "R\u00e1th Maol\u00e1in"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Maol\u00e1in"
+    ],
+    "name:ita_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30b9\u30df\u30e5\u30e9\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043c\u0430\u043b\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:unk_x_variant":[
+        "Rathmullen"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961887,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rathmullan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":671,
+    "qs_pg:photos_1k":136,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":671,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080464,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562044,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961887,
+        "gp:id":562044,
+        "qs_pg:id":1080464,
+        "wd:id":"Q1026793"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290875,
+    "wof:geomhash":"721881b5891f4dd146f2df0e3b86ad15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791345,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125791345,
+    "wof:lastmodified":1514450637,
+    "wof:name":"Rathmullan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":518,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.54028,
+    55.09389,
+    -7.54028,
+    55.09389
+],
+  "geometry": {"coordinates":[-7.54028,55.09389],"type":"Point"}
+}

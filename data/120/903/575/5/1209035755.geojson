@@ -1,0 +1,62 @@
+{
+  "id": 1209035755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3825,52.31833,-9.3825,52.31833",
+    "geom:latitude":52.31833,
+    "geom:longitude":-9.3825,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Talbot's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3291361,
+    "gn:latitude":52.31833,
+    "gn:longitude":-9.3825,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Talbot\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291361
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5a0cd7310729a4d3c30c340662c009c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209035755
+        }
+    ],
+    "wof:id":1209035755,
+    "wof:lastmodified":1536299705,
+    "wof:name":"Talbot's Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3825,
+    52.31833,
+    -9.3825,
+    52.31833
+],
+  "geometry": {"coordinates":[-9.3825,52.31833],"type":"Point"}
+}

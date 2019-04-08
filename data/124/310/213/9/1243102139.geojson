@@ -1,0 +1,66 @@
+{
+  "id": 1243102139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32111,53.12972,-7.32111,53.12972",
+    "geom:latitude":53.12972,
+    "geom:longitude":-7.32111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Bay Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3313642,
+    "gn:latitude":53.12972,
+    "gn:longitude":-7.32111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Bay Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313642
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"86389081043c9b8eb4b7dcef2a682352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243102139,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1243102139,
+    "wof:lastmodified":1536804649,
+    "wof:name":"Bay Bridge",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32111,
+    53.12971999999999,
+    -7.32111,
+    53.12971999999999
+],
+  "geometry": {"coordinates":[-7.32111,53.12971999999999],"type":"Point"}
+}

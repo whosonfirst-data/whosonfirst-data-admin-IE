@@ -1,0 +1,134 @@
+{
+  "id": 1125776679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.42722,53.51083,-6.42722,53.51083",
+    "geom:latitude":53.51083,
+    "geom:longitude":-6.42722,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7001,
+    "gn:population":11355,
+    "iso:country":"IE",
+    "lbl:latitude":53.51083,
+    "lbl:longitude":-6.42722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0448\u0431\u043e\u0440\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:dan_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:dut_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:eng_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:fre_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Dh\u00e9agl\u00e1in"
+    ],
+    "name:glg_x_preferred":[
+        "Ashbourne - Cill Dh\u00e9agl\u00e1in"
+    ],
+    "name:glv_x_preferred":[
+        "Cill Dh\u00e9agl\u00e1in"
+    ],
+    "name:hun_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:ind_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:ita_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:lit_x_preferred":[
+        "A\u0161bornas"
+    ],
+    "name:nob_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:pol_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0431\u043e\u0440\u043d"
+    ],
+    "name:slo_x_preferred":[
+        "Ashbourne"
+    ],
+    "name:swe_x_preferred":[
+        "Ashbourne"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966870,
+    "qs_pg:gn_pop":7001,
+    "qs_pg:name":"Ashbourne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1040435,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966870,
+        "qs_pg:id":1040435,
+        "wd:id":"Q1766143"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290290,
+    "wof:geomhash":"992d8485fb6a4f9df25dd8f7fc5b9f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125776679,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1125776679,
+    "wof:lastmodified":1514450409,
+    "wof:name":"Ashbourne",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":11355,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.42722,
+    53.51083,
+    -6.42722,
+    53.51083
+],
+  "geometry": {"coordinates":[-6.42722,53.51083],"type":"Point"}
+}

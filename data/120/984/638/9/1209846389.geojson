@@ -1,0 +1,66 @@
+{
+  "id": 1209846389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.58583,53.24528,-9.58583,53.24528",
+    "geom:latitude":53.24528,
+    "geom:longitude":-9.58583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Pointa",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312099,
+    "gn:latitude":53.24528,
+    "gn:longitude":-9.58583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Pointa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312099
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7fc960e4fe48f2d0934b96f8fc6bd2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209846389,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1209846389,
+    "wof:lastmodified":1536390468,
+    "wof:name":"Pointa",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.58583,
+    53.24528000000001,
+    -9.58583,
+    53.24528000000001
+],
+  "geometry": {"coordinates":[-9.58583,53.24528000000001],"type":"Point"}
+}

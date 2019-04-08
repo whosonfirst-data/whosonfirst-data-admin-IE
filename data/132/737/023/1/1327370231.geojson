@@ -1,0 +1,66 @@
+{
+  "id": 1327370231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22194,54.07167,-7.22194,54.07167",
+    "geom:latitude":54.07167,
+    "geom:longitude":-7.22194,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Lisboduff",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962932,
+    "gn:latitude":54.07167,
+    "gn:longitude":-7.22194,
+    "gn:modification_date":"1998-04-30",
+    "gn:name":"Lisboduff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962932
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ddb77a5a7df137b7c4d3d1c739998117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327370231,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1327370231,
+    "wof:lastmodified":1536771051,
+    "wof:name":"Lisboduff",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22194,
+    54.07167,
+    -7.22194,
+    54.07167
+],
+  "geometry": {"coordinates":[-7.22194,54.07167],"type":"Point"}
+}

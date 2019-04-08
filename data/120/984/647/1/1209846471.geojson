@@ -1,0 +1,66 @@
+{
+  "id": 1209846471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.59444,53.95528,-8.59444,53.95528",
+    "geom:latitude":53.95528,
+    "geom:longitude":-8.59444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Islandmore",
+    "gn:country_code":"IE",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310796,
+    "gn:latitude":53.95528,
+    "gn:longitude":-8.59444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Islandmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310796
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cf6304bd1c6071c2377333504d1a4dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209846471,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1209846471,
+    "wof:lastmodified":1536390427,
+    "wof:name":"Islandmore",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59444,
+    53.95528,
+    -8.59444,
+    53.95528
+],
+  "geometry": {"coordinates":[-8.59444,53.95528],"type":"Point"}
+}

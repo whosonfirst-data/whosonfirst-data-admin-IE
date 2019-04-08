@@ -1,0 +1,66 @@
+{
+  "id": 1259614081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31139,51.98056,-9.31139,51.98056",
+    "geom:latitude":51.98056,
+    "geom:longitude":-9.31139,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Poulgorm Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3290682,
+    "gn:latitude":51.98056,
+    "gn:longitude":-9.31139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Poulgorm Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290682
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f6fe6808be7d95e0a8a38600be3bf0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259614081,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1259614081,
+    "wof:lastmodified":1536670802,
+    "wof:name":"Poulgorm Bridge",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31139,
+    51.98056,
+    -9.31139,
+    51.98056
+],
+  "geometry": {"coordinates":[-9.31139,51.98056],"type":"Point"}
+}

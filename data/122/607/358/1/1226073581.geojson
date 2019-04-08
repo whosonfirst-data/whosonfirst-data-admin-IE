@@ -1,0 +1,66 @@
+{
+  "id": 1226073581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78306,54.26861,-8.78306,54.26861",
+    "geom:latitude":54.26861,
+    "geom:longitude":-8.78306,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Belturlin",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311061,
+    "gn:latitude":54.26861,
+    "gn:longitude":-8.78306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Belturlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311061
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"01495f021b8658e381ce752f7126dc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226073581,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1226073581,
+    "wof:lastmodified":1536685200,
+    "wof:name":"Belturlin",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78306,
+    54.26861,
+    -8.78306,
+    54.26861
+],
+  "geometry": {"coordinates":[-8.78306,54.26861],"type":"Point"}
+}

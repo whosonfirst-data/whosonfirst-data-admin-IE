@@ -1,0 +1,66 @@
+{
+  "id": 1259417355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58694,53.29694,-6.58694,53.29694",
+    "geom:latitude":53.29694,
+    "geom:longitude":-6.58694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Henry Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3314736,
+    "gn:latitude":53.29694,
+    "gn:longitude":-6.58694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Henry Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314736
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"28fe7ea3fa9cf99b1eb2ac2a99558f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259417355,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1259417355,
+    "wof:lastmodified":1536953887,
+    "wof:name":"Henry Bridge",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58694,
+    53.29694,
+    -6.58694,
+    53.29694
+],
+  "geometry": {"coordinates":[-6.58694,53.29694],"type":"Point"}
+}

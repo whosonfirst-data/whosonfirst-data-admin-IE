@@ -1,0 +1,66 @@
+{
+  "id": 1310039369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69972,54.07833,-8.69972,54.07833",
+    "geom:latitude":54.07833,
+    "geom:longitude":-8.69972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Toberscardan",
+    "gn:country_code":"IE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310953,
+    "gn:latitude":54.07833,
+    "gn:longitude":-8.69972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Toberscardan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310953
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0fd32957cc60e52f98d63f59da97bcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310039369,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1310039369,
+    "wof:lastmodified":1537088692,
+    "wof:name":"Toberscardan",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69972,
+    54.07833,
+    -8.69972,
+    54.07833
+],
+  "geometry": {"coordinates":[-8.69972,54.07833],"type":"Point"}
+}

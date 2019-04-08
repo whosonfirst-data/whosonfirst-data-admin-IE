@@ -1,0 +1,109 @@
+{
+  "id": 101853143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.461756,51.823548,-8.461756,51.823548",
+    "geom:latitude":51.823548,
+    "geom:longitude":-8.461756,
+    "gn:population":540,
+    "iso:country":"IE",
+    "lbl:latitude":51.823548,
+    "lbl:longitude":-8.461756,
+    "mps:latitude":51.823548,
+    "mps:longitude":-8.461756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballygarvan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0433\u0430\u0440\u0432\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Ballygarvan"
+    ],
+    "name:eng_x_preferred":[
+        "Ballygarvan"
+    ],
+    "name:eus_x_preferred":[
+        "Ballygarvan"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Garbh\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0433\u0430\u0440\u0432\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballygarvan"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ballygarvan",
+    "qs:loc_alt":"Ballygarvan",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c2fe6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966585,
+        "gp:id":20071509,
+        "qs:id":1016881,
+        "wd:id":"Q2084271",
+        "wk:page":"Ballygarvan, County Cork"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e59622b46643ef75c9739b4e9911fab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101853143,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101853143,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544742212,
+    "wof:name":"Ballygarvan",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":540,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.461756,
+    51.823548,
+    -8.461756,
+    51.823548
+],
+  "geometry": {"coordinates":[-8.461756,51.823548],"type":"Point"}
+}

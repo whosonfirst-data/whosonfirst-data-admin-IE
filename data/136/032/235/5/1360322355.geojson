@@ -1,0 +1,66 @@
+{
+  "id": 1360322355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.83247,54.06966,-9.83247,54.06966",
+    "geom:latitude":54.06966,
+    "geom:longitude":-9.83247,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Srahnamanragh",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805946,
+    "gn:latitude":54.06966,
+    "gn:longitude":-9.83247,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Srahnamanragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805946
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b25f3d429e33fdb4a45fdaf6dc197958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360322355,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1360322355,
+    "wof:lastmodified":1536600090,
+    "wof:name":"Srahnamanragh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.83247,
+    54.06966,
+    -9.83247,
+    54.06966
+],
+  "geometry": {"coordinates":[-9.83247,54.06966],"type":"Point"}
+}

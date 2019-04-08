@@ -1,0 +1,66 @@
+{
+  "id": 1242613551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29222,52.62861,-8.29222,52.62861",
+    "geom:latitude":52.62861,
+    "geom:longitude":-8.29222,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Cloonteen",
+    "gn:country_code":"IE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965283,
+    "gn:latitude":52.62861,
+    "gn:longitude":-8.29222,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Cloonteen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965283
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9cae6660ae27af87d6d8372fcf40f914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242613551,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1242613551,
+    "wof:lastmodified":1537011138,
+    "wof:name":"Cloonteen",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29222,
+    52.62861,
+    -8.29222,
+    52.62861
+],
+  "geometry": {"coordinates":[-8.29222,52.62861],"type":"Point"}
+}

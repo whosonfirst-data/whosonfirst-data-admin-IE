@@ -1,0 +1,66 @@
+{
+  "id": 1259614651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30639,55.34722,-7.30639,55.34722",
+    "geom:latitude":55.34722,
+    "geom:longitude":-7.30639,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Bree",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307792,
+    "gn:latitude":55.34722,
+    "gn:longitude":-7.30639,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Bree",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307792
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8e75fe91415ffb79dc94508c6569b4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259614651,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1259614651,
+    "wof:lastmodified":1536669915,
+    "wof:name":"Bree",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30639,
+    55.34721999999999,
+    -7.30639,
+    55.34721999999999
+],
+  "geometry": {"coordinates":[-7.30639,55.34721999999999],"type":"Point"}
+}

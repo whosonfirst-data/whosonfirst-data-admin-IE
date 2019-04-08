@@ -1,0 +1,66 @@
+{
+  "id": 1343894645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20428,55.12767,-7.20428,55.12767",
+    "geom:latitude":55.12767,
+    "geom:longitude":-7.20428,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Carrowkeel",
+    "gn:country_code":"IE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965690,
+    "gn:latitude":55.12767,
+    "gn:longitude":-7.20428,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Carrowkeel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965690
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e730c790b57926f66bdec79c22aeb63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343894645,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1343894645,
+    "wof:lastmodified":1536614828,
+    "wof:name":"Carrowkeel",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20428,
+    55.12767,
+    -7.20428,
+    55.12767
+],
+  "geometry": {"coordinates":[-7.20428,55.12767],"type":"Point"}
+}

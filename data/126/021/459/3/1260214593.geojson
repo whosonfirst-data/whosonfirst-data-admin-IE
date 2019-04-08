@@ -1,0 +1,72 @@
+{
+  "id": 1260214593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.83395,54.16725,-9.83395,54.16725",
+    "geom:latitude":54.16725,
+    "geom:longitude":-9.83395,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Srahataggle South",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3316056,
+    "gn:latitude":54.16725,
+    "gn:longitude":-9.83395,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Srahataggle South",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Srahataggle South"
+    ],
+    "name:gle_x_preferred":[
+        "Sraith an tSeagail Theas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316056
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f36624c83c9f3545c51f14487510bdec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260214593,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1260214593,
+    "wof:lastmodified":1537636787,
+    "wof:name":"Srahataggle South",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.83395,
+    54.16725,
+    -9.83395,
+    54.16725
+],
+  "geometry": {"coordinates":[-9.83395,54.16725],"type":"Point"}
+}

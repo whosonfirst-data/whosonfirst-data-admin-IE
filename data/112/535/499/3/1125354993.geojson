@@ -1,0 +1,94 @@
+{
+  "id": 1125354993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58028,52.85472,-7.58028,52.85472",
+    "geom:latitude":52.85472,
+    "geom:longitude":-7.58028,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1208,
+    "iso:country":"IE",
+    "lbl:latitude":52.85472,
+    "lbl:longitude":-7.58028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rathdowney"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Domhnaigh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961920,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rathdowney",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1151028,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073091,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961920,
+        "gp:id":20073091,
+        "qs_pg:id":1151028
+    },
+    "wof:country":"IE",
+    "wof:created":1497046413,
+    "wof:geomhash":"9bdc2f019dd25d9eb8f677aa469264c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125354993,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1125354993,
+    "wof:lastmodified":1509388924,
+    "wof:name":"Rathdowney",
+    "wof:parent_id":85685005,
+    "wof:placetype":"localadmin",
+    "wof:population":1208,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58028,
+    52.85472,
+    -7.58028,
+    52.85472
+],
+  "geometry": {"coordinates":[-7.58028,52.85472],"type":"Point"}
+}

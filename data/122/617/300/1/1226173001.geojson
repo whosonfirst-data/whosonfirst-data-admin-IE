@@ -1,0 +1,66 @@
+{
+  "id": 1226173001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.345,55.34944,-7.345,55.34944",
+    "geom:latitude":55.34944,
+    "geom:longitude":-7.345,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Culoort",
+    "gn:country_code":"IE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307798,
+    "gn:latitude":55.34944,
+    "gn:longitude":-7.345,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Culoort",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307798
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"dd7516aa67d97823c52539346537d9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226173001,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226173001,
+    "wof:lastmodified":1537036908,
+    "wof:name":"Culoort",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.345,
+    55.34944,
+    -7.345,
+    55.34944
+],
+  "geometry": {"coordinates":[-7.345,55.34944],"type":"Point"}
+}

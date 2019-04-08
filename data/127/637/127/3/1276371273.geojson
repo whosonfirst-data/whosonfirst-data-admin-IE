@@ -1,0 +1,66 @@
+{
+  "id": 1276371273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41361,53.97389,-8.41361,53.97389",
+    "geom:latitude":53.97389,
+    "geom:longitude":-8.41361,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Cloonloogh",
+    "gn:country_code":"IE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310858,
+    "gn:latitude":53.97389,
+    "gn:longitude":-8.41361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cloonloogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310858
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d275b712f90ee6fd3612810c439a8ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276371273,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1276371273,
+    "wof:lastmodified":1536728148,
+    "wof:name":"Cloonloogh",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41361,
+    53.97389,
+    -8.41361,
+    53.97389
+],
+  "geometry": {"coordinates":[-8.41361,53.97389],"type":"Point"}
+}

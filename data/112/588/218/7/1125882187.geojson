@@ -1,0 +1,90 @@
+{
+  "id": 1125882187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85139,55.22583,-7.85139,55.22583",
+    "geom:latitude":55.22583,
+    "geom:longitude":-7.85139,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":55.22583,
+    "lbl:longitude":-7.85139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Doagh"
+    ],
+    "name:gle_x_preferred":[
+        "Dumhaigh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964773,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Omagh",
+    "qs_pg:name_adm0":"United Kingdom",
+    "qs_pg:name_adm1":"Northern Ireland",
+    "qs_pg:photos":985,
+    "qs_pg:photos_1k":200,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":985,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1114144,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424975,
+    "qs_pg:woe_id":45067,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424975,
+    "woe:name_adm0":"United Kingdom",
+    "woe:name_adm1":"Northern Ireland",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964773,
+        "gp:id":45067,
+        "qs_pg:id":1114144
+    },
+    "wof:country":"IE",
+    "wof:created":1497294869,
+    "wof:geomhash":"c5d324c8c2acde5e97eeddf71f0fdc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1125882187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125882187,
+    "wof:lastmodified":1530148419,
+    "wof:name":"Omagh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85139,
+    55.22583,
+    -7.85139,
+    55.22583
+],
+  "geometry": {"coordinates":[-7.85139,55.22583],"type":"Point"}
+}

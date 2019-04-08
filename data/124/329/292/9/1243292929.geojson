@@ -1,0 +1,72 @@
+{
+  "id": 1243292929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.99528,51.92944,-9.99528,51.92944",
+    "geom:latitude":51.92944,
+    "geom:longitude":-9.99528,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Lissatinnig Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298100,
+    "gn:latitude":51.92944,
+    "gn:longitude":-9.99528,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Lissatinnig Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lissatinnig Bridge"
+    ],
+    "name:gle_x_preferred":[
+        "Lios an tSonnaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298100
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"09985a881d5dea8def32e9decae5ccfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243292929,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1243292929,
+    "wof:lastmodified":1537636765,
+    "wof:name":"Lissatinnig Bridge",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99528,
+    51.92944,
+    -9.99528,
+    51.92944
+],
+  "geometry": {"coordinates":[-9.99528,51.92944],"type":"Point"}
+}

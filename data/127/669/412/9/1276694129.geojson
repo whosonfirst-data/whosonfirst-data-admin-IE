@@ -1,0 +1,66 @@
+{
+  "id": 1276694129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63889,54.15833,-6.63889,54.15833",
+    "geom:latitude":54.15833,
+    "geom:longitude":-6.63889,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Lurganearly",
+    "gn:country_code":"IE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309823,
+    "gn:latitude":54.15833,
+    "gn:longitude":-6.63889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lurganearly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309823
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8787e1b8a9c6445f066c24607f0ef8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276694129,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1276694129,
+    "wof:lastmodified":1536792505,
+    "wof:name":"Lurganearly",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63889,
+    54.15833000000001,
+    -6.63889,
+    54.15833000000001
+],
+  "geometry": {"coordinates":[-6.63889,54.15833000000001],"type":"Point"}
+}

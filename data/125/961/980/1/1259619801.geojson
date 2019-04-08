@@ -1,0 +1,62 @@
+{
+  "id": 1259619801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10028,52.84,-6.10028,52.84",
+    "geom:latitude":52.84,
+    "geom:longitude":-6.10028,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Pennycomequick Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305118,
+    "gn:latitude":52.84,
+    "gn:longitude":-6.10028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Pennycomequick Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305118
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d288c00b375d4cc55680b2f3822345cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259619801,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259619801,
+    "wof:lastmodified":1536662329,
+    "wof:name":"Pennycomequick Bridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10028,
+    52.84,
+    -6.10028,
+    52.84
+],
+  "geometry": {"coordinates":[-6.10028,52.84],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125992191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88417,53.22167,-7.88417,53.22167",
+    "geom:latitude":53.22167,
+    "geom:longitude":-7.88417,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":612,
+    "iso:country":"IE",
+    "lbl:latitude":53.22167,
+    "lbl:longitude":-7.88417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Cloghan"
+    ],
+    "name:dut_x_preferred":[
+        "Cloghan"
+    ],
+    "name:eng_x_preferred":[
+        "Cloghan"
+    ],
+    "name:gle_x_preferred":[
+        "An Cloch\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0445\u0430\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965436,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cloghan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":998114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560315,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965436,
+        "gp:id":560315,
+        "qs_pg:id":998114,
+        "wd:id":"Q3776913"
+    },
+    "wof:country":"IE",
+    "wof:created":1497299115,
+    "wof:geomhash":"a8263aa5bab4ad7f0e755d2069730001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125992191,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125992191,
+    "wof:lastmodified":1553816683,
+    "wof:name":"Cloghan",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:population":612,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88417,
+    53.22167,
+    -7.88417,
+    53.22167
+],
+  "geometry": {"coordinates":[-7.88417,53.22167],"type":"Point"}
+}

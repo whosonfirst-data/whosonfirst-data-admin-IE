@@ -1,0 +1,81 @@
+{
+  "id": 420782799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.23437261202,53.3546479091,-6.23437261202,53.3546479091",
+    "geom:latitude":53.354648,
+    "geom:longitude":-6.234373,
+    "iso:country":"IE",
+    "lbl:latitude":53.354648,
+    "lbl:longitude":-6.234373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":0,
+    "name:cat_x_preferred":[
+        "East Wall"
+    ],
+    "name:fra_x_preferred":[
+        "East Wall"
+    ],
+    "name:gla_x_preferred":[
+        "An Port Thoir"
+    ],
+    "name:gle_x_preferred":[
+        "An Port Thoir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0442-\u0423\u043e\u043b\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "East Wall"
+    ],
+    "wd:wordcount":434,
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q2568773"
+    },
+    "wof:country":"IE",
+    "wof:created":1458871855,
+    "wof:geomhash":"508e92a56d56c61b35a59fc7f13629bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":420782799,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":420782799,
+    "wof:lastmodified":1527726674,
+    "wof:name":"East Wall",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23437261201918,
+    53.35464790913891,
+    -6.23437261201918,
+    53.35464790913891
+],
+  "geometry": {"coordinates":[-6.23437261201918,53.35464790913891],"type":"Point"}
+}

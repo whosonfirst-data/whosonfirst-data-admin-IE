@@ -1,0 +1,95 @@
+{
+  "id": 1125864949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48597,53.9732,-6.48597,53.9732",
+    "geom:latitude":53.9732,
+    "geom:longitude":-6.48597,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1700,
+    "gn:population":583,
+    "iso:country":"IE",
+    "lbl:latitude":53.9732,
+    "lbl:longitude":-6.48597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Knockbridge"
+    ],
+    "name:dut_x_preferred":[
+        "Knockbridge"
+    ],
+    "name:eng_x_preferred":[
+        "Knockbridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead an Chnoic"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043a \u0411\u0440\u0438\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Knockbridge"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963105,
+    "qs_pg:gn_pop":1700,
+    "qs_pg:name":"Knockbridge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":94256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963105,
+        "qs_pg:id":94256,
+        "wd:id":"Q3776364"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293989,
+    "wof:geomhash":"2ecbc4345d19ce7802bfe44b57c96db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125864949,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1125864949,
+    "wof:lastmodified":1514450553,
+    "wof:name":"Knockbridge",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":583,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48597,
+    53.9732,
+    -6.48597,
+    53.9732
+],
+  "geometry": {"coordinates":[-6.48597,53.9732],"type":"Point"}
+}

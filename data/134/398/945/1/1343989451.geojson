@@ -1,0 +1,66 @@
+{
+  "id": 1343989451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63333,53.9,-9.63333,53.9",
+    "geom:latitude":53.9,
+    "geom:longitude":-9.63333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Maryland",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962691,
+    "gn:latitude":53.9,
+    "gn:longitude":-9.63333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Maryland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962691
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"57be77bec014fac11693c245afa54be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343989451,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343989451,
+    "wof:lastmodified":1536977610,
+    "wof:name":"Maryland",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63333,
+    53.9,
+    -9.63333,
+    53.9
+],
+  "geometry": {"coordinates":[-9.63333,53.9],"type":"Point"}
+}

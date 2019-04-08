@@ -1,0 +1,72 @@
+{
+  "id": 1193054509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60639,53.31861,-8.60639,53.31861",
+    "geom:latitude":53.31861,
+    "geom:longitude":-8.60639,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Attymon",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966832,
+    "gn:latitude":53.31861,
+    "gn:longitude":-8.60639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Attymon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Attymon"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th T\u00edom\u00e1in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966832
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8acc25299f9fbc049b17b63eeab2edd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193054509,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1193054509,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Attymon",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60639,
+    53.31861,
+    -8.60639,
+    53.31861
+],
+  "geometry": {"coordinates":[-8.60639,53.31861],"type":"Point"}
+}

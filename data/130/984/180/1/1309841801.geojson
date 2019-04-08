@@ -1,0 +1,66 @@
+{
+  "id": 1309841801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7175,51.96222,-7.7175,51.96222",
+    "geom:latitude":51.96222,
+    "geom:longitude":-7.7175,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Curragh",
+    "gn:country_code":"IE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230815,
+    "gn:latitude":51.96222,
+    "gn:longitude":-7.7175,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Curragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230815
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6507d3ae92a68b370534230088132ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309841801,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1309841801,
+    "wof:lastmodified":1536878354,
+    "wof:name":"Curragh",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7175,
+    51.96222,
+    -7.7175,
+    51.96222
+],
+  "geometry": {"coordinates":[-7.7175,51.96222],"type":"Point"}
+}

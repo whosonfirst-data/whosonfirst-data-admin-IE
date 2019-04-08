@@ -1,0 +1,70 @@
+{
+  "id": 1327269973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03333,53.75,-9.03333,53.75",
+    "geom:latitude":53.75,
+    "geom:longitude":-9.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Ballynastangford",
+    "gn:country_code":"IE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966443,
+    "gn:latitude":53.75,
+    "gn:longitude":-9.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballynastangford",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballynastrangford",
+        "Ballynastangford"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966443
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e35afa9cad73341be072a9a84f311805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327269973,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327269973,
+    "wof:lastmodified":1537636755,
+    "wof:name":"Ballynastangford",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03333,
+    53.75,
+    -9.03333,
+    53.75
+],
+  "geometry": {"coordinates":[-9.03333,53.75],"type":"Point"}
+}

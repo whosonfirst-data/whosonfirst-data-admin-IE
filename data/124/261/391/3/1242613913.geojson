@@ -1,0 +1,71 @@
+{
+  "id": 1242613913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26444,53.17556,-8.26444,53.17556",
+    "geom:latitude":53.17556,
+    "geom:longitude":-8.26444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Nail",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313206,
+    "gn:latitude":53.17556,
+    "gn:longitude":-8.26444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nail",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inga",
+        "Nail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313206
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"53eb9ab506787590e81fb399f00f7f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242613913,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1242613913,
+    "wof:lastmodified":1537636782,
+    "wof:name":"Nail",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26444,
+    53.17556,
+    -8.26444,
+    53.17556
+],
+  "geometry": {"coordinates":[-8.26444,53.17556],"type":"Point"}
+}

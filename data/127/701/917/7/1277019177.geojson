@@ -1,0 +1,70 @@
+{
+  "id": 1277019177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35,53.83333,-7.35,53.83333",
+    "geom:latitude":53.83333,
+    "geom:longitude":-7.35,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Ballyheelan",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966563,
+    "gn:latitude":53.83333,
+    "gn:longitude":-7.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballyheelan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballyheelna",
+        "Ballyheelan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966563
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b60c5c14eb53903e96b1e0b3bbd5e534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277019177,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1277019177,
+    "wof:lastmodified":1537636757,
+    "wof:name":"Ballyheelan",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35,
+    53.83333,
+    -7.35,
+    53.83333
+],
+  "geometry": {"coordinates":[-7.35,53.83333],"type":"Point"}
+}

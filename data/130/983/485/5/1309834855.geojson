@@ -1,0 +1,70 @@
+{
+  "id": 1309834855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2807,53.75744,-9.2807,53.75744",
+    "geom:latitude":53.75744,
+    "geom:longitude":-9.2807,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Ballintubber",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966703,
+    "gn:latitude":53.75744,
+    "gn:longitude":-9.2807,
+    "gn:modification_date":"2011-06-20",
+    "gn:name":"Ballintubber",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballintober"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966703,
+        "wk:page":"Ballintubber"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"94d714d1f10dd2a9b65f2fb1488ea6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309834855,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1309834855,
+    "wof:lastmodified":1537636759,
+    "wof:name":"Ballintubber",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2807,
+    53.75744,
+    -9.2807,
+    53.75744
+],
+  "geometry": {"coordinates":[-9.2807,53.75744],"type":"Point"}
+}

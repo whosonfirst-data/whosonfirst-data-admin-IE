@@ -1,0 +1,62 @@
+{
+  "id": 1209651095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3314,53.82695,-7.3314,53.82695",
+    "geom:latitude":53.82695,
+    "geom:longitude":-7.3314,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Ballymachugh",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869926,
+    "gn:latitude":53.82695,
+    "gn:longitude":-7.3314,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballymachugh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869926
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d66dbb8abf0582c4f9ef538d583181b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651095
+        }
+    ],
+    "wof:id":1209651095,
+    "wof:lastmodified":1536280578,
+    "wof:name":"Ballymachugh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3314,
+    53.82695,
+    -7.3314,
+    53.82695
+],
+  "geometry": {"coordinates":[-7.3314,53.82695],"type":"Point"}
+}

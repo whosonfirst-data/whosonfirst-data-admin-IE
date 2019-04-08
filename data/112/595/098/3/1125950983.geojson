@@ -1,0 +1,112 @@
+{
+  "id": 1125950983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98611,52.15139,-6.98611,52.15139",
+    "geom:latitude":52.15139,
+    "geom:longitude":-6.98611,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1795,
+    "gn:population":1559,
+    "iso:country":"IE",
+    "lbl:latitude":52.15139,
+    "lbl:longitude":-6.98611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:dut_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:eng_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:fre_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:ger_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan M\u00f3r"
+    ],
+    "name:ita_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30e2\u30a2\u30a4\u30fc\u30b9\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Dunmor Istas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u043c\u043e\u0440-\u0418\u0441\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:swe_x_preferred":[
+        "Dunmore East"
+    ],
+    "name:unk_x_variant":[
+        "Dunmore"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964492,
+    "qs_pg:gn_pop":1795,
+    "qs_pg:name":"Dunmore East",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":143038,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964492,
+        "qs_pg:id":143038,
+        "wd:id":"Q1013935"
+    },
+    "wof:country":"IE",
+    "wof:created":1497297454,
+    "wof:geomhash":"1f808db9e8b35be30b4ac6d90dd8da72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125950983,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125950983,
+    "wof:lastmodified":1514450497,
+    "wof:name":"Dunmore East",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1559,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98611,
+    52.15139,
+    -6.98611,
+    52.15139
+],
+  "geometry": {"coordinates":[-6.98611,52.15139],"type":"Point"}
+}

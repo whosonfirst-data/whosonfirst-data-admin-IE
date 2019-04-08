@@ -1,0 +1,66 @@
+{
+  "id": 1243206987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75694,53.80889,-6.75694,53.80889",
+    "geom:latitude":53.80889,
+    "geom:longitude":-6.75694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Ballynee",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966438,
+    "gn:latitude":53.80889,
+    "gn:longitude":-6.75694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballynee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966438
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"63d0b3572fcc4b56c2ea90b6ad7512f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243206987,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1243206987,
+    "wof:lastmodified":1536653796,
+    "wof:name":"Ballynee",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75694,
+    53.80889000000001,
+    -6.75694,
+    53.80889000000001
+],
+  "geometry": {"coordinates":[-6.75694,53.80889000000001],"type":"Point"}
+}

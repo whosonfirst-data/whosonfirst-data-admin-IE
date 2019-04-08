@@ -1,0 +1,66 @@
+{
+  "id": 1343495039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22556,54.27139,-9.22556,54.27139",
+    "geom:latitude":54.27139,
+    "geom:longitude":-9.22556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Ballinlena",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316235,
+    "gn:latitude":54.27139,
+    "gn:longitude":-9.22556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballinlena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316235
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0f028d6ef94804b483c22bab74c9aba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343495039,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343495039,
+    "wof:lastmodified":1536696501,
+    "wof:name":"Ballinlena",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22556,
+    54.27139,
+    -9.22556,
+    54.27139
+],
+  "geometry": {"coordinates":[-9.22556,54.27139],"type":"Point"}
+}

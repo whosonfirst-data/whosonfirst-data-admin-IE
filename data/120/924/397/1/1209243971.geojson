@@ -1,0 +1,62 @@
+{
+  "id": 1209243971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44861,52.49861,-8.44861,52.49861",
+    "geom:latitude":52.49861,
+    "geom:longitude":-8.44861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Ballynamona",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966451,
+    "gn:latitude":52.49861,
+    "gn:longitude":-8.44861,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballynamona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966451
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"71ba231c100edf0bef41452aa8df3479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209243971
+        }
+    ],
+    "wof:id":1209243971,
+    "wof:lastmodified":1536293228,
+    "wof:name":"Ballynamona",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44861,
+    52.49861,
+    -8.44861,
+    52.49861
+],
+  "geometry": {"coordinates":[-8.44861,52.49861],"type":"Point"}
+}

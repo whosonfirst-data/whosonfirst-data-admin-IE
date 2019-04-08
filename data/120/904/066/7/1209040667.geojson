@@ -1,0 +1,62 @@
+{
+  "id": 1209040667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28528,53.08611,-9.28528,53.08611",
+    "geom:latitude":53.08611,
+    "geom:longitude":-9.28528,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Balliny",
+    "gn:country_code":"IE",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311754,
+    "gn:latitude":53.08611,
+    "gn:longitude":-9.28528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Balliny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311754
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ebfdb2ec1c05bc421f34ffd9cd0a3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209040667
+        }
+    ],
+    "wof:id":1209040667,
+    "wof:lastmodified":1536299556,
+    "wof:name":"Balliny",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28528,
+    53.08611,
+    -9.28528,
+    53.08611
+],
+  "geometry": {"coordinates":[-9.28528,53.08611],"type":"Point"}
+}

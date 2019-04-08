@@ -1,0 +1,72 @@
+{
+  "id": 1226176153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.07306,51.84806,-10.07306,51.84806",
+    "geom:latitude":51.84806,
+    "geom:longitude":-10.07306,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Glanbeg",
+    "gn:country_code":"IE",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297747,
+    "gn:latitude":51.84806,
+    "gn:longitude":-10.07306,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Glanbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Glanbeg"
+    ],
+    "name:gle_x_preferred":[
+        "An Gleann Beag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297747
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6b751634e17218984f64ba117c285687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226176153,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1226176153,
+    "wof:lastmodified":1537636765,
+    "wof:name":"Glanbeg",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.07306,
+    51.84806,
+    -10.07306,
+    51.84806
+],
+  "geometry": {"coordinates":[-10.07306,51.84806],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309745797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03056,53.05583,-8.03056,53.05583",
+    "geom:latitude":53.05583,
+    "geom:longitude":-8.03056,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Arragh More",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313116,
+    "gn:latitude":53.05583,
+    "gn:longitude":-8.03056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Arragh More",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313116
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"64dc764fbb571a4252e007d9ec5c4622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309745797,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1309745797,
+    "wof:lastmodified":1537016989,
+    "wof:name":"Arragh More",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03056,
+    53.05583000000001,
+    -8.03056,
+    53.05583000000001
+],
+  "geometry": {"coordinates":[-8.03056,53.05583000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343297049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57472,53.42306,-6.57472,53.42306",
+    "geom:latitude":53.42306,
+    "geom:longitude":-6.57472,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Ballynare Cross Roads",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966447,
+    "gn:latitude":53.42306,
+    "gn:longitude":-6.57472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballynare Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballynare",
+        "Ballynare Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966447
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c7242e94930f8d7441576df0e17ca185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343297049,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343297049,
+    "wof:lastmodified":1537636756,
+    "wof:name":"Ballynare Cross Roads",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57472,
+    53.42306,
+    -6.57472,
+    53.42306
+],
+  "geometry": {"coordinates":[-6.57472,53.42306],"type":"Point"}
+}

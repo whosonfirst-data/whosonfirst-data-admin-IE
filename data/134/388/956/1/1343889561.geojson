@@ -1,0 +1,74 @@
+{
+  "id": 1343889561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63158,53.62259,-7.63158,53.62259",
+    "geom:latitude":53.62259,
+    "geom:longitude":-7.63158,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Legan",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962983,
+    "gn:latitude":53.62259,
+    "gn:longitude":-7.63158,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Legan",
+    "gn:population":199,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenamore",
+        "Legan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962983
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7106c1984c3853215853f7a398746a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343889561,
+            "region_id":85685091
+        }
+    ],
+    "wof:id":1343889561,
+    "wof:lastmodified":1537636730,
+    "wof:name":"Legan",
+    "wof:parent_id":85685091,
+    "wof:placetype":"locality",
+    "wof:population":199,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63158,
+    53.62259,
+    -7.63158,
+    53.62259
+],
+  "geometry": {"coordinates":[-7.63158,53.62259],"type":"Point"}
+}

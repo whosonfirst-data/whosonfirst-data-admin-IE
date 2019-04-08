@@ -1,0 +1,72 @@
+{
+  "id": 1326459585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38222,54.90778,-8.38222,54.90778",
+    "geom:latitude":54.90778,
+    "geom:longitude":-8.38222,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Meenacross",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309069,
+    "gn:latitude":54.90778,
+    "gn:longitude":-8.38222,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Meenacross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meenacross"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00edn na Croise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309069
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0614d46c4af15599cc51d1600f2bedd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326459585,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1326459585,
+    "wof:lastmodified":1537636776,
+    "wof:name":"Meenacross",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38222,
+    54.90778,
+    -8.38222,
+    54.90778
+],
+  "geometry": {"coordinates":[-8.38222,54.90778],"type":"Point"}
+}

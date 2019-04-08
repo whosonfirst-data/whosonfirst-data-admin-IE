@@ -1,0 +1,102 @@
+{
+  "id": 1125869573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38639,51.935,-8.38639,51.935",
+    "geom:latitude":51.935,
+    "geom:longitude":-8.38639,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.935,
+    "lbl:longitude":-8.38639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Sallybrook"
+    ],
+    "name:dut_x_preferred":[
+        "Sallybrook"
+    ],
+    "name:eng_x_preferred":[
+        "Sallybrook"
+    ],
+    "name:gle_x_preferred":[
+        "Gleann Sail\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043b\u0438\u0431\u0440\u0443\u043a"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961606,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sallybrook",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112274,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562167,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961606,
+        "gp:id":562167,
+        "qs_pg:id":1112274,
+        "wd:id":"Q4405884"
+    },
+    "wof:country":"IE",
+    "wof:created":1497294219,
+    "wof:geomhash":"d5e84e914302d4846611c118109f9997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125869573,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125869573,
+    "wof:lastmodified":1514450646,
+    "wof:name":"Sallybrook",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38639,
+    51.935,
+    -8.38639,
+    51.935
+],
+  "geometry": {"coordinates":[-8.38639,51.935],"type":"Point"}
+}

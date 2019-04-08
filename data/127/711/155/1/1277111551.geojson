@@ -1,0 +1,66 @@
+{
+  "id": 1277111551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54743,53.78402,-9.54743,53.78402",
+    "geom:latitude":53.78402,
+    "geom:longitude":-9.54743,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Knockfin",
+    "gn:country_code":"IE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130141,
+    "gn:latitude":53.78402,
+    "gn:longitude":-9.54743,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Knockfin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130141
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7348c4c2570ee7d88f75b07b5e9a651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277111551,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1277111551,
+    "wof:lastmodified":1536726475,
+    "wof:name":"Knockfin",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54743,
+    53.78402,
+    -9.54743,
+    53.78402
+],
+  "geometry": {"coordinates":[-9.54743,53.78402],"type":"Point"}
+}

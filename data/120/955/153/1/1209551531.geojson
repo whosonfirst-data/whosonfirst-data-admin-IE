@@ -1,0 +1,68 @@
+{
+  "id": 1209551531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.08139,52.52194,-8.08139,52.52194",
+    "geom:latitude":52.52194,
+    "geom:longitude":-8.08139,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Donaskeagh",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964754,
+    "gn:latitude":52.52194,
+    "gn:longitude":-8.08139,
+    "gn:modification_date":"2017-07-30",
+    "gn:name":"Donaskeagh",
+    "gn:population":147,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donaskeigh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964754
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a9607a4d8c743cf5291d9d0bd65cb0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209551531
+        }
+    ],
+    "wof:id":1209551531,
+    "wof:lastmodified":1537636744,
+    "wof:name":"Donaskeagh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.08139,
+    52.52194,
+    -8.08139,
+    52.52194
+],
+  "geometry": {"coordinates":[-8.08139,52.52194],"type":"Point"}
+}

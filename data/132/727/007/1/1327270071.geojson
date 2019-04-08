@@ -1,0 +1,66 @@
+{
+  "id": 1327270071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80556,52.83889,-6.80556,52.83889",
+    "geom:latitude":52.83889,
+    "geom:longitude":-6.80556,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Friarstown Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303747,
+    "gn:latitude":52.83889,
+    "gn:longitude":-6.80556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Friarstown Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303747
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"efda8d1054f36afff11433a86014865a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327270071,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1327270071,
+    "wof:lastmodified":1536915674,
+    "wof:name":"Friarstown Bridge",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80556,
+    52.83889,
+    -6.80556,
+    52.83889
+],
+  "geometry": {"coordinates":[-6.80556,52.83889],"type":"Point"}
+}

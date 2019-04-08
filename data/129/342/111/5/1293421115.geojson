@@ -1,0 +1,66 @@
+{
+  "id": 1293421115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50806,52.51389,-8.50806,52.51389",
+    "geom:latitude":52.51389,
+    "geom:longitude":-8.50806,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Loughgur Cross",
+    "gn:country_code":"IE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305498,
+    "gn:latitude":52.51389,
+    "gn:longitude":-8.50806,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Loughgur Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305498
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a358f48a1959de69b8eb909c1bb174a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293421115,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1293421115,
+    "wof:lastmodified":1536882136,
+    "wof:name":"Loughgur Cross",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50806,
+    52.51389,
+    -8.50806,
+    52.51389
+],
+  "geometry": {"coordinates":[-8.50806,52.51389],"type":"Point"}
+}

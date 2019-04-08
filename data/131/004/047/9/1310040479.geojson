@@ -1,0 +1,67 @@
+{
+  "id": 1310040479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12083,53.20444,-6.12083,53.20444",
+    "geom:latitude":53.20444,
+    "geom:longitude":-6.12083,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Little Bray",
+    "gn:country_code":"IE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315204,
+    "gn:latitude":53.20444,
+    "gn:longitude":-6.12083,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Little Bray",
+    "gn:population":8015,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315204
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3623b3d5cba6f4422a6bc2476a664529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1310040479,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310040479,
+    "wof:lastmodified":1537087039,
+    "wof:name":"Little Bray",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":8015,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12083,
+    53.20444000000001,
+    -6.12083,
+    53.20444000000001
+],
+  "geometry": {"coordinates":[-6.12083,53.20444000000001],"type":"Point"}
+}

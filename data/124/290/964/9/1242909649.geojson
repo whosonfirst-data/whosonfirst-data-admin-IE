@@ -1,0 +1,66 @@
+{
+  "id": 1242909649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24528,53.27111,-7.24528,53.27111",
+    "geom:latitude":53.27111,
+    "geom:longitude":-7.24528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Derrylesk",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314604,
+    "gn:latitude":53.27111,
+    "gn:longitude":-7.24528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derrylesk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314604
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7426adccb55299253e14caba206ae656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242909649,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1242909649,
+    "wof:lastmodified":1537079242,
+    "wof:name":"Derrylesk",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24528,
+    53.27111,
+    -7.24528,
+    53.27111
+],
+  "geometry": {"coordinates":[-7.24528,53.27111],"type":"Point"}
+}

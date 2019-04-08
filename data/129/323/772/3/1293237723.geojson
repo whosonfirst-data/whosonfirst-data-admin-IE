@@ -1,0 +1,66 @@
+{
+  "id": 1293237723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73889,52.16389,-9.73889,52.16389",
+    "geom:latitude":52.16389,
+    "geom:longitude":-9.73889,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ardcanaght",
+    "gn:country_code":"IE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290936,
+    "gn:latitude":52.16389,
+    "gn:longitude":-9.73889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardcanaght",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290936
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5acc3b3501297a77a7050546f1eecb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293237723,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293237723,
+    "wof:lastmodified":1536649854,
+    "wof:name":"Ardcanaght",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73889,
+    52.16389,
+    -9.73889,
+    52.16389
+],
+  "geometry": {"coordinates":[-9.73889,52.16389],"type":"Point"}
+}

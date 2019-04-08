@@ -1,0 +1,62 @@
+{
+  "id": 1259617323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.98333,53.56667,-9.98333,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":-9.98333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Dawros Beg",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964866,
+    "gn:latitude":53.56667,
+    "gn:longitude":-9.98333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Dawros Beg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964866
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c9447204b6a8b38ee978aa470612a21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259617323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259617323,
+    "wof:lastmodified":1536666074,
+    "wof:name":"Dawros Beg",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.98333,
+    53.56667,
+    -9.98333,
+    53.56667
+],
+  "geometry": {"coordinates":[-9.98333,53.56667],"type":"Point"}
+}

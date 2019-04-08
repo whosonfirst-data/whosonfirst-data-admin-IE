@@ -1,0 +1,80 @@
+{
+  "id": 1125290955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.511043,52.362864,-7.511043,52.362864",
+    "geom:latitude":52.362864,
+    "geom:longitude":-7.511043,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.362864,
+    "lbl:longitude":-7.511043,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kilsheelan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":99,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":126,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":43944,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074052,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20074052,
+        "qs_pg:id":43944
+    },
+    "wof:country":"IE",
+    "wof:created":1497042917,
+    "wof:geomhash":"fd2d040e3e259830e3da454e32ce2cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125290955,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1125290955,
+    "wof:lastmodified":1530147495,
+    "wof:name":"Kilsheelan",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.511043,
+    52.362864,
+    -7.511043,
+    52.362864
+],
+  "geometry": {"coordinates":[-7.511043,52.362864],"type":"Point"}
+}

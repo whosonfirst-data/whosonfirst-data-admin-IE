@@ -1,0 +1,116 @@
+{
+  "id": 101804839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":527856.093782,
+    "geom:bbox":"-7.73242718866,53.1696853596,-7.71931358632,53.1792362712",
+    "geom:latitude":53.17508,
+    "geom:longitude":-7.725906,
+    "gn:population":870,
+    "iso:country":"IE",
+    "lbl:latitude":53.174574,
+    "lbl:longitude":-7.726551,
+    "mps:latitude":53.174574,
+    "mps:longitude":-7.726551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:dut_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:eng_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:fra_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:fre_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Chormaic"
+    ],
+    "name:nld_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043a\u043e\u0440\u043c\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kilcormac"
+    ],
+    "name:unk_x_variant":[
+        "Frankford"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Offaly",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilcormac",
+    "qs:la_lc":"*IE1203187050",
+    "qs:level":"locality",
+    "qs:loc":"Kilcormac",
+    "qs:loc_alt":"Kilcormac",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1024,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11802e66-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3313832,
+        "gp:id":561216,
+        "qs:id":493842,
+        "qs_pg:id":493842,
+        "wd:id":"Q2473717",
+        "wk:page":"Kilcormac"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"72bb57cdaad1c00c1c4015db3034ca2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804839,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":101804839,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642756,
+    "wof:name":"Kilcormac",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:population":870,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73242718865578,
+    53.1696853595684,
+    -7.71931358632344,
+    53.1792362711779
+],
+  "geometry": {"coordinates":[[[-7.72004548149431,53.1792362711779],[-7.71931358632344,53.17750105194841],[-7.72077070726601,53.17728328099179],[-7.72003882987497,53.1755480655774],[-7.7229529231862,53.1751124912891],[-7.72148916771977,53.17164208196334],[-7.72731676014803,53.17077080390601],[-7.72695075812948,53.16990321779156],[-7.72840759548041,53.1696853595684],[-7.73060403897915,53.17489082262222],[-7.73206102486955,53.17467291671062],[-7.73242718865578,53.17554048338246],[-7.73097017575469,53.17575839432703],[-7.73206869386371,53.17836110006169],[-7.73061158641229,53.17857900860821],[-7.73024542275948,53.17771143655983],[-7.72004548149431,53.1792362711779]]],"type":"Polygon"}
+}

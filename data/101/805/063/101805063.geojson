@@ -1,0 +1,156 @@
+{
+  "id": 101805063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1085138.425069,
+    "geom:bbox":"-7.71632683949,55.0839077389,-7.69346918213,55.0977909458",
+    "geom:latitude":55.090389,
+    "geom:longitude":-7.702965,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":970,
+    "iso:country":"IE",
+    "lbl:latitude":55.090704,
+    "lbl:longitude":-7.701233,
+    "mps:latitude":55.090704,
+    "mps:longitude":-7.701233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Milford"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0444\u043e\u0440\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Milford"
+    ],
+    "name:dut_x_preferred":[
+        "Milford"
+    ],
+    "name:eng_x_preferred":[
+        "Millford"
+    ],
+    "name:eng_x_variant":[
+        "Milford"
+    ],
+    "name:fre_x_preferred":[
+        "Milford"
+    ],
+    "name:ger_x_preferred":[
+        "Milford"
+    ],
+    "name:gle_x_preferred":[
+        "Baile na nGall\u00f3glach"
+    ],
+    "name:glv_x_preferred":[
+        "Baile na nGall\u00f3glach"
+    ],
+    "name:ita_x_preferred":[
+        "Milford"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30eb\u30d5\u30a9\u30fc\u30c9 \uff08\u30c9\u30cb\u30b4\u30fc\u30eb\u5dde\uff09"
+    ],
+    "name:pms_x_preferred":[
+        "Milford"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0444\u043e\u0440\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Millford"
+    ],
+    "name:unk_x_variant":[
+        "Milford"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Millford",
+    "qs:la_lc":"*IE1102057121",
+    "qs:level":"locality",
+    "qs:loc":"Millford",
+    "qs:loc_alt":"Millford",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962617,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Millford",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165973,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561689,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"118033ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962617,
+        "gp:id":561689,
+        "qs:id":1165973,
+        "qs_pg:id":1165973,
+        "wd:id":"Q1025577",
+        "wk:page":"Milford, County Donegal"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"207a05255f75ef9e408191704cadce25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805063,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379340,
+    "wof:name":"Millford",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":970,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125807953
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71632683948519,
+    55.0839077389299,
+    -7.6934691821312,
+    55.0977909457967
+],
+  "geometry": {"coordinates":[[[-7.70612326574042,55.0977909457967],[-7.70534298948519,55.09605662459307],[-7.70381890433828,55.09627555996707],[-7.70342882652494,55.09540839165339],[-7.69733245401306,55.09628392760095],[-7.69538296922724,55.09194795519869],[-7.69385898862788,55.09216676630746],[-7.6934691821312,55.09129956178805],[-7.69651706785385,55.09086193191189],[-7.69417828969296,55.08565873659728],[-7.70636777786865,55.0839077389299],[-7.70675776482551,55.08477489905584],[-7.70523410200826,55.08499384353473],[-7.7056240789741,55.08586100747755],[-7.70410037081712,55.08607993893145],[-7.70527033207941,55.08868143753892],[-7.7113654345743,55.08780553682806],[-7.71097530693942,55.08693839368408],[-7.71249901435641,55.08671937788341],[-7.71210887673828,55.08585223855738],[-7.71363253881111,55.08563320973434],[-7.71402270653186,55.08650034368407],[-7.71554638346475,55.08628129108615],[-7.71632683948519,55.08801554355438],[-7.71175558233176,55.08867267841345],[-7.71214575021332,55.08953981844041],[-7.71062193723299,55.08975883197076],[-7.71101209512938,55.09062597581601],[-7.70948823679453,55.0908449763221],[-7.70987838470393,55.09171212398581],[-7.70683056207668,55.09215008054662],[-7.70800094586167,55.09475154644798],[-7.70952495515013,55.09453256123913],[-7.70991515345173,55.09539970804701],[-7.70839111404308,55.09561869863285],[-7.70878130235354,55.09648584926009],[-7.70725721757481,55.09670482681901],[-7.70764739589157,55.09757198126539],[-7.70612326574042,55.0977909457967]]],"type":"Polygon"}
+}

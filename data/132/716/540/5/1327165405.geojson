@@ -1,0 +1,66 @@
+{
+  "id": 1327165405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.67595,53.68052,-6.67595,53.68052",
+    "geom:latitude":53.68052,
+    "geom:longitude":-6.67595,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Proudstown",
+    "gn:country_code":"IE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866944,
+    "gn:latitude":53.68052,
+    "gn:longitude":-6.67595,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Proudstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866944
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fc729ff9f24e7b85755a70fff101370e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327165405,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1327165405,
+    "wof:lastmodified":1537063594,
+    "wof:name":"Proudstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.67595,
+    53.68052,
+    -6.67595,
+    53.68052
+],
+  "geometry": {"coordinates":[-6.67595,53.68052],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310439311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55333,52.67349,-8.55333,52.67349",
+    "geom:latitude":52.67349,
+    "geom:longitude":-8.55333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Castletroy",
+    "gn:country_code":"IE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838907,
+    "gn:latitude":52.67349,
+    "gn:longitude":-8.55333,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Castletroy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838907,
+        "wk:page":"Castletroy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ff5cbf0da99e4e32af0cb59d9380ce59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310439311,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1310439311,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Castletroy",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55333,
+    52.67349,
+    -8.55333,
+    52.67349
+],
+  "geometry": {"coordinates":[-8.55333,52.67349],"type":"Point"}
+}

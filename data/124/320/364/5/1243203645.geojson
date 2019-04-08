@@ -1,0 +1,66 @@
+{
+  "id": 1243203645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71278,52.82528,-6.71278,52.82528",
+    "geom:latitude":52.82528,
+    "geom:longitude":-6.71278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Rathlyon",
+    "gn:country_code":"IE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303910,
+    "gn:latitude":52.82528,
+    "gn:longitude":-6.71278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rathlyon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303910
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"88848e1cacf05ae6d3719e3998a17bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243203645,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1243203645,
+    "wof:lastmodified":1536658774,
+    "wof:name":"Rathlyon",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.71278,
+    52.82528000000001,
+    -6.71278,
+    52.82528000000001
+],
+  "geometry": {"coordinates":[-6.71278,52.82528000000001],"type":"Point"}
+}

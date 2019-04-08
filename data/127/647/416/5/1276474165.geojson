@@ -1,0 +1,66 @@
+{
+  "id": 1276474165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95389,52.03833,-9.95389,52.03833",
+    "geom:latitude":52.03833,
+    "geom:longitude":-9.95389,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Glanbeny Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3299219,
+    "gn:latitude":52.03833,
+    "gn:longitude":-9.95389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glanbeny Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299219
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7f151f77a7a4b4d3e9e7d681da6fb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276474165,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1276474165,
+    "wof:lastmodified":1537084283,
+    "wof:name":"Glanbeny Bridge",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95389,
+    52.03833,
+    -9.95389,
+    52.03833
+],
+  "geometry": {"coordinates":[-9.95389,52.03833],"type":"Point"}
+}

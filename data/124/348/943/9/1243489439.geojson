@@ -1,0 +1,66 @@
+{
+  "id": 1243489439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.17889,51.94111,-8.17889,51.94111",
+    "geom:latitude":51.94111,
+    "geom:longitude":-8.17889,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Gortnacrue",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299535,
+    "gn:latitude":51.94111,
+    "gn:longitude":-8.17889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortnacrue",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299535
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a87fd666b78e7492fc017255d4dfa8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243489439,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1243489439,
+    "wof:lastmodified":1536743222,
+    "wof:name":"Gortnacrue",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.17889,
+    51.94111,
+    -8.17889,
+    51.94111
+],
+  "geometry": {"coordinates":[-8.17889,51.94111],"type":"Point"}
+}

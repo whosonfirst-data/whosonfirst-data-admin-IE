@@ -1,0 +1,66 @@
+{
+  "id": 1243489403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.97139,53.29722,-6.97139,53.29722",
+    "geom:latitude":53.29722,
+    "geom:longitude":-6.97139,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Derrybrennan",
+    "gn:country_code":"IE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314695,
+    "gn:latitude":53.29722,
+    "gn:longitude":-6.97139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derrybrennan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314695
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b99b17807ac48cbf0236cdea42331b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243489403,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1243489403,
+    "wof:lastmodified":1536743270,
+    "wof:name":"Derrybrennan",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.97139,
+    53.29722,
+    -6.97139,
+    53.29722
+],
+  "geometry": {"coordinates":[-6.97139,53.29722],"type":"Point"}
+}

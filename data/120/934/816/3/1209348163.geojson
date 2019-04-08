@@ -1,0 +1,62 @@
+{
+  "id": 1209348163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.30028,53.97278,-7.30028,53.97278",
+    "geom:latitude":53.97278,
+    "geom:longitude":-7.30028,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Aghalackan",
+    "gn:country_code":"IE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309544,
+    "gn:latitude":53.97278,
+    "gn:longitude":-7.30028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Aghalackan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309544
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7c4f9275169cb4011bd9f79dd3b3d747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209348163
+        }
+    ],
+    "wof:id":1209348163,
+    "wof:lastmodified":1536289839,
+    "wof:name":"Aghalackan",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.30028,
+    53.97278000000001,
+    -7.30028,
+    53.97278000000001
+],
+  "geometry": {"coordinates":[-7.30028,53.97278000000001],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 101805905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":468237.03751,
+    "geom:bbox":"-8.65208037238,51.8711010047,-8.63943687467,51.8802998219",
+    "geom:latitude":51.876011,
+    "geom:longitude":-8.646084,
+    "iso:country":"IE",
+    "lbl:latitude":51.876668,
+    "lbl:longitude":-8.646516,
+    "mps:latitude":51.876668,
+    "mps:longitude":-8.646516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ovens"
+    ],
+    "name:cat_x_preferred":[
+        "Ovens"
+    ],
+    "name:dut_x_preferred":[
+        "Ovens"
+    ],
+    "name:eng_x_preferred":[
+        "Ovens"
+    ],
+    "name:ger_x_preferred":[
+        "Ovens"
+    ],
+    "name:pol_x_preferred":[
+        "Ovens"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0435\u043d\u0441"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ovens",
+    "qs:la_lc":"*IE2502047270",
+    "qs:level":"locality",
+    "qs:loc":"Ovens",
+    "qs:loc_alt":"Ovens",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c6b50-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962140,
+        "gp:id":20071798,
+        "qs:id":3,
+        "wd:id":"Q4330662",
+        "wk:page":"Ovens, County Cork"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f057d81817c56489b669f808562b8272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805905,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805905,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815515,
+    "wof:name":"Ovens",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65208037237767,
+    51.87110100469096,
+    -8.63943687467412,
+    51.88029982186771
+],
+  "geometry": {"coordinates":[[[-8.6408488391844,51.87920702208748],[-8.63974281228411,51.87661257640053],[-8.6425665534216,51.87615659023243],[-8.64219786312935,51.87529178164931],[-8.64502150248239,51.87483573819776],[-8.64428407513867,51.87310613604308],[-8.64569582567412,51.87287809914176],[-8.64532711340598,51.87201330052665],[-8.6509738858947,51.87110100469096],[-8.65208037237767,51.87369533484252],[-8.64925686359243,51.87415154670782],[-8.65036335855677,51.87674589163316],[-8.64895151023842,51.87697398743887],[-8.65005808801885,51.87956833200565],[-8.64864615229078,51.8797964261048],[-8.64827730035131,51.87893164125876],[-8.63980556043106,51.88029982186771],[-8.63943687467412,51.8794350050357],[-8.6408488391844,51.87920702208748]]],"type":"Polygon"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1125302783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.82694,53.26944,-7.82694,53.26944",
+    "geom:latitude":53.26944,
+    "geom:longitude":-7.82694,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1165,
+    "iso:country":"IE",
+    "lbl:latitude":53.26944,
+    "lbl:longitude":-7.82694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ferbane"
+    ],
+    "name:gle_x_preferred":[
+        "An F\u00e9ar B\u00e1n"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964322,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ferbane",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":272076,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073697,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964322,
+        "gp:id":20073697,
+        "qs_pg:id":272076
+    },
+    "wof:country":"IE",
+    "wof:created":1497043520,
+    "wof:geomhash":"c689011d0b00f80725eda72a5279dc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125302783,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125302783,
+    "wof:lastmodified":1509387742,
+    "wof:name":"Ferbane",
+    "wof:parent_id":85685041,
+    "wof:placetype":"localadmin",
+    "wof:population":1165,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.82694,
+    53.26944,
+    -7.82694,
+    53.26944
+],
+  "geometry": {"coordinates":[-7.82694,53.26944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310235249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06,53.36444,-9.06,53.36444",
+    "geom:latitude":53.36444,
+    "geom:longitude":-9.06,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Barranny",
+    "gn:country_code":"IE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312462,
+    "gn:latitude":53.36444,
+    "gn:longitude":-9.06,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Barranny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barranny"
+    ],
+    "name:gle_x_preferred":[
+        "Barr Eanaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312462
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6c4cbfd0d7523a51197159ad7af4dcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310235249,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1310235249,
+    "wof:lastmodified":1537636781,
+    "wof:name":"Barranny",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06,
+    53.36444,
+    -9.06,
+    53.36444
+],
+  "geometry": {"coordinates":[-9.06,53.36444],"type":"Point"}
+}

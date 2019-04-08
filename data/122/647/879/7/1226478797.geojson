@@ -1,0 +1,73 @@
+{
+  "id": 1226478797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69458,53.59579,-9.69458,53.59579",
+    "geom:latitude":53.59579,
+    "geom:longitude":-9.69458,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Leenaun",
+    "gn:country_code":"IE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962984,
+    "gn:latitude":53.59579,
+    "gn:longitude":-9.69458,
+    "gn:modification_date":"2015-05-10",
+    "gn:name":"Leenaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Leenane"
+    ],
+    "name:und_x_variant":[
+        "Leenane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962984,
+        "wk:page":"Leenaun"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"85a660099c80765baf95fb1f88d59a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226478797,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1226478797,
+    "wof:lastmodified":1537636730,
+    "wof:name":"Leenaun",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69458,
+    53.59579,
+    -9.69458,
+    53.59579
+],
+  "geometry": {"coordinates":[-9.69458,53.59579],"type":"Point"}
+}

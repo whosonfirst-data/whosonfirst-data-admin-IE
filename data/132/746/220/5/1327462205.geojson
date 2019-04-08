@@ -1,0 +1,72 @@
+{
+  "id": 1327462205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61925,53.53988,-6.61925,53.53988",
+    "geom:latitude":53.53988,
+    "geom:longitude":-6.61925,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Dunsany",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867304,
+    "gn:latitude":53.53988,
+    "gn:longitude":-6.61925,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Dunsany",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dunsany"
+    ],
+    "name:gle_x_preferred":[
+        "Dun Samhna\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867304
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5b515ffc82ca975a6fc7ff864faf4f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327462205,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1327462205,
+    "wof:lastmodified":1537636797,
+    "wof:name":"Dunsany",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61925,
+    53.53988,
+    -6.61925,
+    53.53988
+],
+  "geometry": {"coordinates":[-6.61925,53.53988],"type":"Point"}
+}

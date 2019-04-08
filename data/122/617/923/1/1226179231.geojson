@@ -1,0 +1,67 @@
+{
+  "id": 1226179231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93768,52.01899,-8.93768,52.01899",
+    "geom:latitude":52.01899,
+    "geom:longitude":-8.93768,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Ballinagree",
+    "gn:country_code":"IE",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869965,
+    "gn:latitude":52.01899,
+    "gn:longitude":-8.93768,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballinagree",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869965,
+        "wk:page":"Ballinagree"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"30284d2648849424a6bca320cb6b98a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226179231,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226179231,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Ballinagree",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93768,
+    52.01899,
+    -8.93768,
+    52.01899
+],
+  "geometry": {"coordinates":[-8.93768,52.01899],"type":"Point"}
+}

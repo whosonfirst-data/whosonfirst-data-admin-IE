@@ -1,0 +1,66 @@
+{
+  "id": 1260014029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35917,53.95257,-9.35917,53.95257",
+    "geom:latitude":53.95257,
+    "geom:longitude":-9.35917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Boleyglass",
+    "gn:country_code":"IE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130031,
+    "gn:latitude":53.95257,
+    "gn:longitude":-9.35917,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Boleyglass",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130031
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"30acd30661558f767d2074cd2aa720f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260014029,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1260014029,
+    "wof:lastmodified":1537084822,
+    "wof:name":"Boleyglass",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35917,
+    53.95257,
+    -9.35917,
+    53.95257
+],
+  "geometry": {"coordinates":[-9.35917,53.95257],"type":"Point"}
+}

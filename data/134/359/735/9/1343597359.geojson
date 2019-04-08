@@ -1,0 +1,66 @@
+{
+  "id": 1343597359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38722,53.27028,-6.38722,53.27028",
+    "geom:latitude":53.27028,
+    "geom:longitude":-6.38722,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Marlfield",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315256,
+    "gn:latitude":53.27028,
+    "gn:longitude":-6.38722,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Marlfield",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315256
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"23a0ca80fce67d7718434dee8bf3a51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343597359,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1343597359,
+    "wof:lastmodified":1537044209,
+    "wof:name":"Marlfield",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38722,
+    53.27028000000001,
+    -6.38722,
+    53.27028000000001
+],
+  "geometry": {"coordinates":[-6.38722,53.27028000000001],"type":"Point"}
+}

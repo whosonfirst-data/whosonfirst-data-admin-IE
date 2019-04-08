@@ -1,0 +1,62 @@
+{
+  "id": 1209043451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3,52.20083,-7.3,52.20083",
+    "geom:latitude":52.20083,
+    "geom:longitude":-7.3,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Carrickphilip",
+    "gn:country_code":"IE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301342,
+    "gn:latitude":52.20083,
+    "gn:longitude":-7.3,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Carrickphilip",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301342
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c618e4e25d3a24f0bf2d6f6cf820379f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209043451
+        }
+    ],
+    "wof:id":1209043451,
+    "wof:lastmodified":1536299471,
+    "wof:name":"Carrickphilip",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3,
+    52.20083,
+    -7.3,
+    52.20083
+],
+  "geometry": {"coordinates":[-7.3,52.20083],"type":"Point"}
+}

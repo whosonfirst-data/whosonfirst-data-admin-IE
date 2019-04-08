@@ -1,0 +1,73 @@
+{
+  "id": 1259916963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33722,54.0275,-8.33722,54.0275",
+    "geom:latitude":54.0275,
+    "geom:longitude":-8.33722,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Ballinafad",
+    "gn:country_code":"IE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966772,
+    "gn:latitude":54.0275,
+    "gn:longitude":-8.33722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballinafad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballinafad"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al an \u00c1tha Fada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966772,
+        "wk:page":"Ballinafad"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"848d76ceca283d76f434a97a4bb6ce9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259916963,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1259916963,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Ballinafad",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33722,
+    54.0275,
+    -8.33722,
+    54.0275
+],
+  "geometry": {"coordinates":[-8.33722,54.0275],"type":"Point"}
+}

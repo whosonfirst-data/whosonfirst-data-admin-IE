@@ -1,0 +1,118 @@
+{
+  "id": 101804773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000217,
+    "geom:area_square_m":1623557.534572,
+    "geom:bbox":"-7.84787649949,52.7853435302,-7.81502289208,52.8064034373",
+    "geom:latitude":52.795708,
+    "geom:longitude":-7.833209,
+    "gn:population":2264,
+    "iso:country":"IE",
+    "lbl:latitude":52.796367,
+    "lbl:longitude":-7.832089,
+    "mps:latitude":52.796367,
+    "mps:longitude":-7.832089,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043c\u043f\u044a\u043b\u043c\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Templemore"
+    ],
+    "name:deu_x_preferred":[
+        "Templemore"
+    ],
+    "name:eng_x_preferred":[
+        "Templemore"
+    ],
+    "name:eus_x_preferred":[
+        "Templemore"
+    ],
+    "name:fra_x_preferred":[
+        "Templemore"
+    ],
+    "name:gle_x_preferred":[
+        "An Teampall M\u00f3r"
+    ],
+    "name:ita_x_preferred":[
+        "Templemore"
+    ],
+    "name:nld_x_preferred":[
+        "Templemore"
+    ],
+    "name:pol_x_preferred":[
+        "Templemore"
+    ],
+    "name:por_x_preferred":[
+        "Templemore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u043f\u043b\u043c\u043e\u0440"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*North Tipperary",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Drom",
+    "qs:la_lc":"*IE2304217070",
+    "qs:level":"locality",
+    "qs:loc":"Templemore",
+    "qs:loc_alt":"Templemore",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":3787,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961237,
+        "gp:id":562335,
+        "qs:id":225501,
+        "qs_pg:id":225501,
+        "wd:id":"Q1809467",
+        "wk:page":"Templemore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"56893f3d05154c42259f09bd047b037b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804773,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":101804773,
+    "wof:lastmodified":1530148420,
+    "wof:name":"Templemore",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":2264,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.84787649948646,
+    52.78534353022275,
+    -7.8150228920789,
+    52.80640343734814
+],
+  "geometry": {"coordinates":[[[-7.83165839583836,52.80640343734814],[-7.83020358215254,52.80293405524458],[-7.82442574751673,52.80380930405738],[-7.82297163925608,52.80033981675297],[-7.81863844109466,52.80099601155422],[-7.81827503744427,52.80012862080196],[-7.81538622522976,52.80056598740498],[-7.8150228920789,52.79969858509179],[-7.81646727839137,52.7994799154423],[-7.81610393647043,52.79861251654046],[-7.8218812434888,52.79773768468226],[-7.82224469108718,52.79860506361933],[-7.82802189165938,52.79772993464809],[-7.82547738965792,52.7916583886813],[-7.82836554065,52.79122079016969],[-7.82800205817546,52.79035343012089],[-7.82944608738455,52.79013460988051],[-7.83017312279725,52.79186931841218],[-7.83161719155709,52.79165047086889],[-7.83198076215382,52.79251781776952],[-7.83631296808835,52.79186115625288],[-7.83594931828287,52.7909938243339],[-7.83739333400428,52.79077490752138],[-7.83666603457897,52.78904024892455],[-7.83955392064428,52.78860238332834],[-7.83882658627749,52.78686773837813],[-7.84027045662975,52.78664878959603],[-7.8399067895445,52.78578146974081],[-7.8427944376856,52.78534353022275],[-7.8460685524783,52.79314926199623],[-7.84751259420517,52.79293022129968],[-7.84787649948646,52.79379751191271],[-7.84354425529693,52.7944545970434],[-7.84390809904886,52.79532190106448],[-7.83668729467274,52.79641672157379],[-7.83814231826244,52.79988602175388],[-7.83236501337302,52.80076164633971],[-7.83272870778836,52.80162898741105],[-7.83128432198021,52.80184785524921],[-7.83310292702214,52.80618456185562],[-7.83165839583836,52.80640343734814]]],"type":"Polygon"}
+}

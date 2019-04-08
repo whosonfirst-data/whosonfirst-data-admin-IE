@@ -1,0 +1,66 @@
+{
+  "id": 1293620037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69972,52.42806,-9.69972,52.42806",
+    "geom:latitude":52.42806,
+    "geom:longitude":-9.69972,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Drommartin",
+    "gn:country_code":"IE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964638,
+    "gn:latitude":52.42806,
+    "gn:longitude":-9.69972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Drommartin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964638
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7ab4c71a7241d4d94a3de22d9d82a9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293620037,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293620037,
+    "wof:lastmodified":1537090022,
+    "wof:name":"Drommartin",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69972,
+    52.42806,
+    -9.69972,
+    52.42806
+],
+  "geometry": {"coordinates":[-9.69972,52.42806],"type":"Point"}
+}

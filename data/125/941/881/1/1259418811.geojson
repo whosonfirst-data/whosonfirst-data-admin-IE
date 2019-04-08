@@ -1,0 +1,66 @@
+{
+  "id": 1259418811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.07028,51.97222,-10.07028,51.97222",
+    "geom:latitude":51.97222,
+    "geom:longitude":-10.07028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Teeromoyle",
+    "gn:country_code":"IE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961246,
+    "gn:latitude":51.97222,
+    "gn:longitude":-10.07028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Teeromoyle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961246
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3795d868f679af6fb4d1518c77cd7f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259418811,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1259418811,
+    "wof:lastmodified":1536951829,
+    "wof:name":"Teeromoyle",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.07028,
+    51.97222,
+    -10.07028,
+    51.97222
+],
+  "geometry": {"coordinates":[-10.07028,51.97222],"type":"Point"}
+}

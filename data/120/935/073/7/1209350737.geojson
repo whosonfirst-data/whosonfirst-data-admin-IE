@@ -1,0 +1,62 @@
+{
+  "id": 1209350737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99556,53.11972,-8.99556,53.11972",
+    "geom:latitude":53.11972,
+    "geom:longitude":-8.99556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Funshin More",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311989,
+    "gn:latitude":53.11972,
+    "gn:longitude":-8.99556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Funshin More",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311989
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bb8e704dd5251f4b1c521eaa4114e5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209350737
+        }
+    ],
+    "wof:id":1209350737,
+    "wof:lastmodified":1536289750,
+    "wof:name":"Funshin More",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.995560000000003,
+    53.11972,
+    -8.995560000000003,
+    53.11972
+],
+  "geometry": {"coordinates":[-8.99556,53.11972],"type":"Point"}
+}

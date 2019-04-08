@@ -1,0 +1,62 @@
+{
+  "id": 1293725729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93333,55.21667,-6.93333,55.21667",
+    "geom:latitude":55.21667,
+    "geom:longitude":-6.93333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Stroove",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961325,
+    "gn:latitude":55.21667,
+    "gn:longitude":-6.93333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Stroove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961325
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ea4ba1c9ec983cee7e7cba8dab649606",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293725729,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293725729,
+    "wof:lastmodified":1536941483,
+    "wof:name":"Stroove",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93333,
+    55.21666999999999,
+    -6.93333,
+    55.21666999999999
+],
+  "geometry": {"coordinates":[-6.93333,55.21666999999999],"type":"Point"}
+}

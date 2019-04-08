@@ -1,0 +1,66 @@
+{
+  "id": 1276696939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.00833,52.33333,-8.00833,52.33333",
+    "geom:latitude":52.33333,
+    "geom:longitude":-8.00833,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Curraghmore Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300960,
+    "gn:latitude":52.33333,
+    "gn:longitude":-8.00833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Curraghmore Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300960
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6c209e4b5dce0f8c5e35aaf98a36872d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276696939,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276696939,
+    "wof:lastmodified":1536788833,
+    "wof:name":"Curraghmore Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.00833,
+    52.33333,
+    -8.00833,
+    52.33333
+],
+  "geometry": {"coordinates":[-8.00833,52.33333],"type":"Point"}
+}

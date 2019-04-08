@@ -1,0 +1,66 @@
+{
+  "id": 1343792581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19346,54.01935,-9.19346,54.01935",
+    "geom:latitude":54.01935,
+    "geom:longitude":-9.19346,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Coiladussaun",
+    "gn:country_code":"IE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130302,
+    "gn:latitude":54.01935,
+    "gn:longitude":-9.19346,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Coiladussaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130302
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"60ea3434dd17490cdf5f6ee3badd43cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343792581,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343792581,
+    "wof:lastmodified":1536765100,
+    "wof:name":"Coiladussaun",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19346,
+    54.01935,
+    -9.19346,
+    54.01935
+],
+  "geometry": {"coordinates":[-9.19346,54.01935],"type":"Point"}
+}

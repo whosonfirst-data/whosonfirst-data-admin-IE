@@ -1,0 +1,119 @@
+{
+  "id": 101805985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":318753.003181,
+    "geom:bbox":"-8.26944242364,52.5248084397,-8.25575820109,52.5332437844",
+    "geom:latitude":52.529231,
+    "geom:longitude":-8.261909,
+    "gn:population":311,
+    "iso:country":"IE",
+    "lbl:latitude":52.529779,
+    "lbl:longitude":-8.261909,
+    "mps:latitude":52.529779,
+    "mps:longitude":-8.261909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Oola"
+    ],
+    "name:dut_x_preferred":[
+        "Oola"
+    ],
+    "name:eng_x_preferred":[
+        "Oola"
+    ],
+    "name:eus_x_preferred":[
+        "Oola"
+    ],
+    "name:fre_x_preferred":[
+        "Oola"
+    ],
+    "name:gle_x_preferred":[
+        "Uibhle"
+    ],
+    "name:gle_x_variant":[
+        "\u00dalla"
+    ],
+    "name:pol_x_preferred":[
+        "Oola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Oola"
+    ],
+    "name:spa_x_preferred":[
+        "Oola"
+    ],
+    "name:swe_x_preferred":[
+        "Oola"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Oola",
+    "qs:la_lc":"*IE2303127117",
+    "qs:level":"locality",
+    "qs:loc":"Oola",
+    "qs:loc_alt":"Oola",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":255,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d969c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962157,
+        "gp:id":561918,
+        "qs:id":172271,
+        "wd:id":"Q2474217",
+        "wk:page":"Oola"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0122d2198afee67b4892d1505c7205c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805985,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101805985,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642963,
+    "wof:name":"Oola",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":311,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26944242363777,
+    52.52480843967743,
+    -8.25575820108543,
+    52.53324378442153
+],
+  "geometry": {"coordinates":[[[-8.26338051891452,52.53324378442153],[-8.26264236037707,52.53151196141727],[-8.26120847135689,52.53173583835149],[-8.26083944460129,52.53086991930797],[-8.25940556808888,52.53109377402535],[-8.25903658495309,52.53022784826862],[-8.25760272095027,52.5304516807696],[-8.25575820108543,52.52612200188577],[-8.25719193589106,52.52589819467192],[-8.25682305939335,52.52503225899017],[-8.25825675503614,52.52480843967743],[-8.25973247099944,52.52827215225],[-8.26260002898681,52.52782442169479],[-8.26296905408742,52.52869033558488],[-8.26727036858,52.52801859590215],[-8.26763948896888,52.52888449295864],[-8.26907325963055,52.52866054035889],[-8.26944242363777,52.52952643069892],[-8.26800862713998,52.5297503883595],[-8.26837778309476,52.53061628210412],[-8.26407623606173,52.53128806732519],[-8.26481444628376,52.53301988020974],[-8.26338051891452,52.53324378442153]]],"type":"Polygon"}
+}

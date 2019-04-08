@@ -1,0 +1,114 @@
+{
+  "id": 1125883685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.16417,52.26694,-10.16417,52.26694",
+    "geom:latitude":52.26694,
+    "geom:longitude":-10.16417,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.26694,
+    "lbl:longitude":-10.16417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Brandon"
+    ],
+    "name:cat_x_preferred":[
+        "C\u00e9 Bhr\u00e9annain"
+    ],
+    "name:dut_x_preferred":[
+        "Brandon"
+    ],
+    "name:eng_x_preferred":[
+        "Brandon"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00e9 Bhr\u00e9anainn"
+    ],
+    "name:ita_x_preferred":[
+        "baia di Brandon"
+    ],
+    "name:nno_x_preferred":[
+        "Brandon Bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0434\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06cc\u0646\u0688\u0646\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u06cc\u0631\u06cc"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966029,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brandon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":114,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":114,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1329433,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559994,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966029,
+        "gp:id":559994,
+        "qs_pg:id":1329433,
+        "wd:id":"Q2528821"
+    },
+    "wof:country":"IE",
+    "wof:created":1497294964,
+    "wof:geomhash":"2f545023d7ba897073137f60f0e174fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125883685,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125883685,
+    "wof:lastmodified":1514450427,
+    "wof:name":"Brandon",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.16417,
+    52.26694,
+    -10.16417,
+    52.26694
+],
+  "geometry": {"coordinates":[-10.16417,52.26694],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 101804775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":607596.001839,
+    "geom:bbox":"-7.96540727461,52.7471545248,-7.94988677596,52.7588796725",
+    "geom:latitude":52.753335,
+    "geom:longitude":-7.957038,
+    "gn:population":708,
+    "iso:country":"IE",
+    "lbl:latitude":52.752359,
+    "lbl:longitude":-7.957155,
+    "mps:latitude":52.752359,
+    "mps:longitude":-7.957155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Borrisoleigh"
+    ],
+    "name:gle_x_preferred":[
+        "Buir\u00edos \u00d3 Luigheach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0440\u0438\u0441\u043e\u043b\u0438"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*North Tipperary",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Borrisoleigh",
+    "qs:la_lc":"*IE2304217031",
+    "qs:level":"locality",
+    "qs:loc":"Borrisoleigh",
+    "qs:loc_alt":"Borrisoleigh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":880,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966054,
+        "gp:id":559983,
+        "qs:id":1329432,
+        "qs_pg:id":1329432,
+        "wd:id":"Q4094719",
+        "wk:page":"Borrisoleigh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d3dd4936b703453a4d2a614ee774ca65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804775,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":101804775,
+    "wof:lastmodified":1530148405,
+    "wof:name":"Borrisoleigh",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":708,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96540727460632,
+    52.74715452484003,
+    -7.94988677596155,
+    52.75887967249957
+],
+  "geometry": {"coordinates":[[[-7.95604197271962,52.75887967249957],[-7.95567631357187,52.75801275071098],[-7.95279139757554,52.75845338296739],[-7.95169468434375,52.75585257787338],[-7.95025228527692,52.75607285301214],[-7.94988677596155,52.75520590975896],[-7.95132914872926,52.75498563963805],[-7.95096363084446,52.75411869980098],[-7.95240596400612,52.75389841740974],[-7.95204043755399,52.7530314809884],[-7.95348273111119,52.75281118632716],[-7.95238617924156,52.75021038250452],[-7.95671274343965,52.74954943996153],[-7.95598163976285,52.74781559284162],[-7.9603079264711,52.74715452484003],[-7.96067354829876,52.74802143414598],[-7.95923143975426,52.74824181244963],[-7.96105968344619,52.75257636002402],[-7.963944150087,52.752135535935],[-7.96540727460632,52.7556031049653],[-7.9639649427815,52.75582354573692],[-7.96359916133247,52.75495665086419],[-7.9621568424817,52.75517706932709],[-7.96179110506529,52.75431016782966],[-7.95746414749493,52.75497130443307],[-7.95856117630797,52.75757204929715],[-7.95711875159793,52.7577924086487],[-7.95748443704559,52.75865932541745],[-7.95604197271962,52.75887967249957]]],"type":"Polygon"}
+}

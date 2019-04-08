@@ -1,0 +1,66 @@
+{
+  "id": 1276693649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.31691,53.82449,-9.31691,53.82449",
+    "geom:latitude":53.82449,
+    "geom:longitude":-9.31691,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Cloondeash",
+    "gn:country_code":"IE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10129973,
+    "gn:latitude":53.82449,
+    "gn:longitude":-9.31691,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Cloondeash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10129973
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c1c26d731fb3818216b601eea812d62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276693649,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1276693649,
+    "wof:lastmodified":1536793164,
+    "wof:name":"Cloondeash",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.31691,
+    53.82449,
+    -9.31691,
+    53.82449
+],
+  "geometry": {"coordinates":[-9.31691,53.82449],"type":"Point"}
+}

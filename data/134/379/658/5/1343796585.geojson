@@ -1,0 +1,72 @@
+{
+  "id": 1343796585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30611,53.19472,-6.30611,53.19472",
+    "geom:latitude":53.19472,
+    "geom:longitude":-6.30611,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Glencree",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315187,
+    "gn:latitude":53.19472,
+    "gn:longitude":-6.30611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Glencree",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gleann Cr\u00edthigh",
+        "Glencree"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315187,
+        "wk:page":"Glencree"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f7b0adcd6b1b396f3632c8c456aa1287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343796585,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1343796585,
+    "wof:lastmodified":1537636784,
+    "wof:name":"Glencree",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30611,
+    53.19472,
+    -6.30611,
+    53.19472
+],
+  "geometry": {"coordinates":[-6.30611,53.19472],"type":"Point"}
+}

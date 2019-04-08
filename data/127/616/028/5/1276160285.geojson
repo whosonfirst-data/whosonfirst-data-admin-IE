@@ -1,0 +1,66 @@
+{
+  "id": 1276160285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83417,53.09639,-6.83417,53.09639",
+    "geom:latitude":53.09639,
+    "geom:longitude":-6.83417,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Crockaun",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314417,
+    "gn:latitude":53.09639,
+    "gn:longitude":-6.83417,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Crockaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314417
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9f9739d12761b9a5d4e171833bf34d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276160285,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1276160285,
+    "wof:lastmodified":1537009948,
+    "wof:name":"Crockaun",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83417,
+    53.09639,
+    -6.83417,
+    53.09639
+],
+  "geometry": {"coordinates":[-6.83417,53.09639],"type":"Point"}
+}

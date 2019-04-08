@@ -1,0 +1,62 @@
+{
+  "id": 1209651457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15167,52.76417,-6.15167,52.76417",
+    "geom:latitude":52.76417,
+    "geom:longitude":-6.15167,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Askintinny",
+    "gn:country_code":"IE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966855,
+    "gn:latitude":52.76417,
+    "gn:longitude":-6.15167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Askintinny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966855
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"337258bc64cdf5fe2b269b7ecbd66c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651457
+        }
+    ],
+    "wof:id":1209651457,
+    "wof:lastmodified":1536280566,
+    "wof:name":"Askintinny",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.151669999999998,
+    52.76416999999999,
+    -6.151669999999998,
+    52.76416999999999
+],
+  "geometry": {"coordinates":[-6.15167,52.76416999999999],"type":"Point"}
+}

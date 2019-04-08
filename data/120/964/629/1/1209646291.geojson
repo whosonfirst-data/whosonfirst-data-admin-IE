@@ -1,0 +1,68 @@
+{
+  "id": 1209646291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01556,53.36306,-9.01556,53.36306",
+    "geom:latitude":53.36306,
+    "geom:longitude":-9.01556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Addergoole",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312463,
+    "gn:latitude":53.36306,
+    "gn:longitude":-9.01556,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Addergoole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Addergoole"
+    ],
+    "name:gle_x_preferred":[
+        "Eadarg\u00fail"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312463
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4bed72f5be2d06e5ce449b5104d8e768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209646291
+        }
+    ],
+    "wof:id":1209646291,
+    "wof:lastmodified":1537636781,
+    "wof:name":"Addergoole",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01556,
+    53.36306,
+    -9.01556,
+    53.36306
+],
+  "geometry": {"coordinates":[-9.01556,53.36306],"type":"Point"}
+}

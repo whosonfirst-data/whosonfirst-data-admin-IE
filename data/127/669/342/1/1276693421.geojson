@@ -1,0 +1,70 @@
+{
+  "id": 1276693421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16667,54.11667,-8.16667,54.11667",
+    "geom:latitude":54.11667,
+    "geom:longitude":-8.16667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Glackaunadarragh",
+    "gn:country_code":"IE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964123,
+    "gn:latitude":54.11667,
+    "gn:longitude":-8.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glackaunadarragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glackaunadarra",
+        "Glackaunadarragh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964123
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b2c2ba73505d65e675bc9538bd7ca18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276693421,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1276693421,
+    "wof:lastmodified":1537636739,
+    "wof:name":"Glackaunadarragh",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16667,
+    54.11666999999999,
+    -8.16667,
+    54.11666999999999
+],
+  "geometry": {"coordinates":[-8.16667,54.11666999999999],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209449251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14694,53.39639,-8.14694,53.39639",
+    "geom:latitude":53.39639,
+    "geom:longitude":-8.14694,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Tarloughmore",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313393,
+    "gn:latitude":53.39639,
+    "gn:longitude":-8.14694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tarloughmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313393
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a19afbe35d90e68a69b7d77fb8df9af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209449251
+        }
+    ],
+    "wof:id":1209449251,
+    "wof:lastmodified":1536286722,
+    "wof:name":"Tarloughmore",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.146939999999999,
+    53.39639,
+    -8.146939999999999,
+    53.39639
+],
+  "geometry": {"coordinates":[-8.14694,53.39639],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276693531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79444,52.78528,-6.79444,52.78528",
+    "geom:latitude":52.78528,
+    "geom:longitude":-6.79444,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Rathtoe",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303884,
+    "gn:latitude":52.78528,
+    "gn:longitude":-6.79444,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Rathtoe",
+    "gn:population":303,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303884
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d30cb2325e19081818bb6cd09c7999ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276693531,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1276693531,
+    "wof:lastmodified":1536793327,
+    "wof:name":"Rathtoe",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:population":303,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79444,
+    52.78528000000001,
+    -6.79444,
+    52.78528000000001
+],
+  "geometry": {"coordinates":[-6.79444,52.78528000000001],"type":"Point"}
+}

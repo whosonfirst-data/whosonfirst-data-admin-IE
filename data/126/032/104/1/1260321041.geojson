@@ -1,0 +1,66 @@
+{
+  "id": 1260321041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73333,52.4,-6.73333,52.4",
+    "geom:latitude":52.4,
+    "geom:longitude":-6.73333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Barronstown",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966312,
+    "gn:latitude":52.4,
+    "gn:longitude":-6.73333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Barronstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966312
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"36f7358ff639d226d912660ac55c6e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260321041,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1260321041,
+    "wof:lastmodified":1536661568,
+    "wof:name":"Barronstown",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73333,
+    52.4,
+    -6.73333,
+    52.4
+],
+  "geometry": {"coordinates":[-6.73333,52.4],"type":"Point"}
+}

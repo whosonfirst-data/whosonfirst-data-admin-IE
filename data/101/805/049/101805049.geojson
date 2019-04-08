@@ -1,0 +1,146 @@
+{
+  "id": 101805049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00015,
+    "geom:area_square_m":1095388.95286,
+    "geom:bbox":"-9.0184769535,53.8397466007,-8.99168092628,53.8597182039",
+    "geom:latitude":53.848421,
+    "geom:longitude":-9.000532,
+    "gn:population":1127,
+    "iso:country":"IE",
+    "lbl:latitude":53.848664,
+    "lbl:longitude":-8.998502,
+    "mps:latitude":53.848664,
+    "mps:longitude":-8.998502,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0442\u0430\u043c\u0430\u0433\u0445"
+    ],
+    "name:deu_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:dut_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:eng_x_preferred":[
+        "Kiltamagh"
+    ],
+    "name:eng_x_variant":[
+        "Kiltimagh"
+    ],
+    "name:fra_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:fre_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d8\u10da\u10e2\u10d8\u10db\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:gle_x_preferred":[
+        "Coillte M\u00e1ch"
+    ],
+    "name:gle_x_variant":[
+        "Coillte Mach"
+    ],
+    "name:ita_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10e2\u10d8\u10db\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:pol_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0442\u0430\u043c\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Kiltimagh"
+    ],
+    "name:swe_x_preferred":[
+        "Kiltamagh"
+    ],
+    "name:unk_x_variant":[
+        "Kiltimagh"
+    ],
+    "name:wel_x_preferred":[
+        "Kiltimagh"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Killedan",
+    "qs:la_lc":"*IE1303157099",
+    "qs:level":"locality",
+    "qs:loc":"Kiltamagh",
+    "qs:loc_alt":"Kiltamagh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":414,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11801b7e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963208,
+        "gp:id":561383,
+        "qs:id":386465,
+        "wd:id":"Q1741450",
+        "wk:page":"Kiltimagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"77fb26f71b784eb4db0d8aeb4176c3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805049,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805049,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642959,
+    "wof:name":"Kiltamagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":1127,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01847695350091,
+    53.83974660073915,
+    -8.99168092627792,
+    53.8597182038576
+],
+  "geometry": {"coordinates":[[[-8.99689084198388,53.8597182038576],[-8.9952874327044,53.8562672064798],[-8.99381338314288,53.85650089048579],[-8.99261111751463,53.85391260722128],[-8.99408508477848,53.85367893968032],[-8.99168092627792,53.84850235783574],[-8.99315471397682,53.84826870556594],[-8.99235343214048,53.84654317496432],[-8.99530085285375,53.8460758394188],[-8.99449954091818,53.84435032361637],[-8.99892039499167,53.84364922084637],[-8.9985196866229,53.84278647672511],[-9.00146679284887,53.84231899761085],[-9.0026691421163,53.84490719168321],[-9.00856350345089,53.84397195581761],[-9.00816259082353,53.84310924820556],[-9.01110962663438,53.84264153536714],[-9.01070867910045,53.84177883694565],[-9.01512903804439,53.84107715181221],[-9.01472802821132,53.84021446807247],[-9.01767480432915,53.83974660073915],[-9.01847695350091,53.84147194446143],[-9.01258312202754,53.8424076524779],[-9.01298411687264,53.84327034361866],[-9.01003705626709,53.84373810273172],[-9.0104380162079,53.84460080306388],[-9.00896443598384,53.84483466164011],[-9.0093653884237,53.84569736567312],[-9.00789176578024,53.84593121209178],[-9.00829271071672,53.84679391982547],[-9.0068190456517,53.84702775408607],[-9.00762094042398,53.848753175166],[-9.00319969067624,53.84945460499154],[-9.00360058567281,53.85031732931856],[-9.00212677831701,53.85055110944927],[-9.00292857319266,53.85227656371723],[-8.999980803759,53.8527440929825],[-9.00038167621045,53.85360682841372],[-8.99890774155125,53.85384057205715],[-8.99930860648374,53.85470331118972],[-8.99636063727593,53.85517075649528],[-8.99836498627701,53.85948448023834],[-8.99689084198388,53.8597182038576]]],"type":"Polygon"}
+}

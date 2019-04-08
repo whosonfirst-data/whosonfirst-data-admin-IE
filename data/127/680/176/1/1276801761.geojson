@@ -1,0 +1,67 @@
+{
+  "id": 1276801761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65,52.8,-8.65,52.8",
+    "geom:latitude":52.8,
+    "geom:longitude":-8.65,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Kilseily",
+    "gn:country_code":"IE",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963216,
+    "gn:latitude":52.8,
+    "gn:longitude":-8.65,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Kilseily",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963216,
+        "wk:page":"Kilseily"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fa225f42fa422bced2e859c8f52619cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276801761,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1276801761,
+    "wof:lastmodified":1537564842,
+    "wof:name":"Kilseily",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65,
+    52.8,
+    -8.65,
+    52.8
+],
+  "geometry": {"coordinates":[-8.65,52.8],"type":"Point"}
+}

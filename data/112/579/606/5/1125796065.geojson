@@ -1,0 +1,109 @@
+{
+  "id": 1125796065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.84194,51.84778,-8.84194,51.84778",
+    "geom:latitude":51.84778,
+    "geom:longitude":-8.84194,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":285,
+    "iso:country":"IE",
+    "lbl:latitude":51.84778,
+    "lbl:longitude":-8.84194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Crookstown"
+    ],
+    "name:dut_x_preferred":[
+        "Crookstown"
+    ],
+    "name:eng_x_preferred":[
+        "Crookstown"
+    ],
+    "name:gle_x_preferred":[
+        "An Baile Gallda"
+    ],
+    "name:lit_x_preferred":[
+        "Krokstaunas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965000,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Crookstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":65,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":65,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":473081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560534,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965000,
+        "gp:id":560534,
+        "qs_pg:id":473081,
+        "wd:id":"Q4242129"
+    },
+    "wof:country":"IE",
+    "wof:created":1497291052,
+    "wof:geomhash":"451e9ef605df939f6d6cc5b7055f5b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125796065,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125796065,
+    "wof:lastmodified":1553816538,
+    "wof:name":"Crookstown",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.84194,
+    51.84778,
+    -8.84194,
+    51.84778
+],
+  "geometry": {"coordinates":[-8.84194,51.84778],"type":"Point"}
+}

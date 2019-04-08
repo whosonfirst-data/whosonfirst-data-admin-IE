@@ -1,0 +1,75 @@
+{
+  "id": 1243202687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52801,52.42125,-6.52801,52.42125",
+    "geom:latitude":52.42125,
+    "geom:longitude":-6.52801,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Oilgate",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962182,
+    "gn:latitude":52.42125,
+    "gn:longitude":-6.52801,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Oilgate",
+    "gn:population":385,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oilgate"
+    ],
+    "name:gle_x_preferred":[
+        "Maol\u00e1n na nGabhar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962182
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e8259cb1fcdeabbd6847f4a4f9a42bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243202687,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1243202687,
+    "wof:lastmodified":1537636725,
+    "wof:name":"Oilgate",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":385,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52801,
+    52.42125,
+    -6.52801,
+    52.42125
+],
+  "geometry": {"coordinates":[-6.52801,52.42125],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125971489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.127165,55.157738,-7.127165,55.157738",
+    "geom:latitude":55.157738,
+    "geom:longitude":-7.127165,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":55.157738,
+    "lbl:longitude":-7.127165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Quigley's Point"
+    ],
+    "name:dut_x_preferred":[
+        "Quigley's Point"
+    ],
+    "name:eng_x_preferred":[
+        "Quigley's Point"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0438\u0433\u043b\u0438\u0441-\u041f\u043e\u0439\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Quigley's Point"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Quigleys Point",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":132,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":132,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233920,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387550,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387550,
+        "qs_pg:id":233920,
+        "wd:id":"Q3752998"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298181,
+    "wof:geomhash":"40928f4fb4db8acd2fb70aa29bb190d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125971489,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125971489,
+    "wof:lastmodified":1514450633,
+    "wof:name":"Quigleys Point",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.127165,
+    55.157738,
+    -7.127165,
+    55.157738
+],
+  "geometry": {"coordinates":[-7.127165,55.157738],"type":"Point"}
+}

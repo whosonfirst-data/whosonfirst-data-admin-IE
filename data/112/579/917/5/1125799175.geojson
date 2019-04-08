@@ -1,0 +1,99 @@
+{
+  "id": 1125799175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49972,52.20472,-7.49972,52.20472",
+    "geom:latitude":52.20472,
+    "geom:longitude":-7.49972,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.20472,
+    "lbl:longitude":-7.49972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Mahon Bridge"
+    ],
+    "name:dut_x_preferred":[
+        "Mahon Bridge"
+    ],
+    "name:eng_x_preferred":[
+        "Mahon Bridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead na Machan"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3301295,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mahon Bridge",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":193,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":193,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1164247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387427,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301295,
+        "gp:id":29387427,
+        "qs_pg:id":1164247,
+        "wd:id":"Q6734752"
+    },
+    "wof:country":"IE",
+    "wof:created":1497291186,
+    "wof:geomhash":"8adaf5eca7397d130bd69d4bdb1201b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125799175,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1125799175,
+    "wof:lastmodified":1514450588,
+    "wof:name":"Mahon Bridge",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49972,
+    52.20472,
+    -7.49972,
+    52.20472
+],
+  "geometry": {"coordinates":[-7.49972,52.20472],"type":"Point"}
+}

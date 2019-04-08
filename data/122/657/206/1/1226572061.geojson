@@ -1,0 +1,66 @@
+{
+  "id": 1226572061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48901,53.85508,-9.48901,53.85508",
+    "geom:latitude":53.85508,
+    "geom:longitude":-9.48901,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Toorgarve",
+    "gn:country_code":"IE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130360,
+    "gn:latitude":53.85508,
+    "gn:longitude":-9.48901,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Toorgarve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130360
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d9ba9337d56376320b799bffb03d3882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226572061,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1226572061,
+    "wof:lastmodified":1536961188,
+    "wof:name":"Toorgarve",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48901,
+    53.85508000000001,
+    -9.48901,
+    53.85508000000001
+],
+  "geometry": {"coordinates":[-9.48901,53.85508000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310630033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12524,51.84267,-9.12524,51.84267",
+    "geom:latitude":51.84267,
+    "geom:longitude":-9.12524,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Inchigeelagh",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963682,
+    "gn:latitude":51.84267,
+    "gn:longitude":-9.12524,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Inchigeelagh",
+    "gn:population":160,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inchigeelagh"
+    ],
+    "name:gle_x_preferred":[
+        "Inse Geimhleach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963682,
+        "wk:page":"Inchigeelagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d5f148fc379687a1249fef5d465e065c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310630033,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1310630033,
+    "wof:lastmodified":1537636736,
+    "wof:name":"Inchigeelagh",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":160,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12524,
+    51.84267,
+    -9.12524,
+    51.84267
+],
+  "geometry": {"coordinates":[-9.12524,51.84267],"type":"Point"}
+}

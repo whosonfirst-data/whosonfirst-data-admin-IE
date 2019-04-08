@@ -1,0 +1,70 @@
+{
+  "id": 1344193595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63333,54.63333,-8.63333,54.63333",
+    "geom:latitude":54.63333,
+    "geom:longitude":-8.63333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Rosborough",
+    "gn:country_code":"IE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961733,
+    "gn:latitude":54.63333,
+    "gn:longitude":-8.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rosborough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roxborough",
+        "Rosborough"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961733
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a32dedf1b276a50437bb610cce08248c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344193595,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1344193595,
+    "wof:lastmodified":1537636723,
+    "wof:name":"Rosborough",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63333,
+    54.63333000000001,
+    -8.63333,
+    54.63333000000001
+],
+  "geometry": {"coordinates":[-8.63333,54.63333000000001],"type":"Point"}
+}

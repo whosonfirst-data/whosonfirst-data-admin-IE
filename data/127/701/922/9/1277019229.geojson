@@ -1,0 +1,72 @@
+{
+  "id": 1277019229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67035,52.1861,-8.67035,52.1861",
+    "geom:latitude":52.1861,
+    "geom:longitude":-8.67035,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"New Twopothouse Village",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962221,
+    "gn:latitude":52.1861,
+    "gn:longitude":-8.67035,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"New Twopothouse Village",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twopothouse",
+        "New Two pot House",
+        "New Twopothouse Village",
+        "New Twopothouse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962221
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"dd3cbdd255a960ba56484915b2539390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277019229,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1277019229,
+    "wof:lastmodified":1537636726,
+    "wof:name":"New Twopothouse Village",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67035,
+    52.1861,
+    -8.67035,
+    52.1861
+],
+  "geometry": {"coordinates":[-8.67035,52.1861],"type":"Point"}
+}

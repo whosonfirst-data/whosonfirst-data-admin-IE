@@ -1,0 +1,73 @@
+{
+  "id": 1293130401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59917,52.67667,-7.59917,52.67667",
+    "geom:latitude":52.67667,
+    "geom:longitude":-7.59917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Gortnahoe",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963937,
+    "gn:latitude":52.67667,
+    "gn:longitude":-7.59917,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Gortnahoe",
+    "gn:population":304,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gortnahoo"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963937,
+        "wk:page":"Gortnahoe"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b9bcfcfab473380a3fa0f60cbba5b5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293130401,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1293130401,
+    "wof:lastmodified":1537636738,
+    "wof:name":"Gortnahoe",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":304,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59917,
+    52.67667,
+    -7.59917,
+    52.67667
+],
+  "geometry": {"coordinates":[-7.59917,52.67667],"type":"Point"}
+}

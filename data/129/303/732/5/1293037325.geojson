@@ -1,0 +1,72 @@
+{
+  "id": 1293037325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27722,53.39028,-8.27722,53.39028",
+    "geom:latitude":53.39028,
+    "geom:longitude":-8.27722,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Ballynamona",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313378,
+    "gn:latitude":53.39028,
+    "gn:longitude":-8.27722,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Ballynamona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballynamona"
+    ],
+    "name:gle_x_preferred":[
+        "Baile na M\u00f3na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313378
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"23a031acc83069c2c54da64bd808b51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037325,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293037325,
+    "wof:lastmodified":1537636783,
+    "wof:name":"Ballynamona",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27722,
+    53.39028,
+    -8.27722,
+    53.39028
+],
+  "geometry": {"coordinates":[-8.27722,53.39028],"type":"Point"}
+}

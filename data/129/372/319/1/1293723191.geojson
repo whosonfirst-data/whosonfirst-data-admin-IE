@@ -1,0 +1,66 @@
+{
+  "id": 1293723191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.125,52.83417,-8.125,52.83417",
+    "geom:latitude":52.83417,
+    "geom:longitude":-8.125,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Kilkeary Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306511,
+    "gn:latitude":52.83417,
+    "gn:longitude":-8.125,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kilkeary Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306511
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cff02aed751ede534b92eb633a8ba564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293723191,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1293723191,
+    "wof:lastmodified":1536945135,
+    "wof:name":"Kilkeary Cross Roads",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.125,
+    52.83416999999999,
+    -8.125,
+    52.83416999999999
+],
+  "geometry": {"coordinates":[-8.125,52.83416999999999],"type":"Point"}
+}

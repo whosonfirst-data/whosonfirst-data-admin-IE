@@ -1,0 +1,66 @@
+{
+  "id": 1309746875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.39139,52.37333,-7.39139,52.37333",
+    "geom:latitude":52.37333,
+    "geom:longitude":-7.39139,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Cregg Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301547,
+    "gn:latitude":52.37333,
+    "gn:longitude":-7.39139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cregg Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301547
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fdaefb5f2b0266929ae56b4eb0a9850d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309746875,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1309746875,
+    "wof:lastmodified":1537015381,
+    "wof:name":"Cregg Bridge",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.39139,
+    52.37333,
+    -7.39139,
+    52.37333
+],
+  "geometry": {"coordinates":[-7.39139,52.37333],"type":"Point"}
+}

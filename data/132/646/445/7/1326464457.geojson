@@ -1,0 +1,66 @@
+{
+  "id": 1326464457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78833,53.03222,-7.78833,53.03222",
+    "geom:latitude":53.03222,
+    "geom:longitude":-7.78833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Aghancon",
+    "gn:country_code":"IE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2967052,
+    "gn:latitude":53.03222,
+    "gn:longitude":-7.78833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Aghancon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967052
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f794493e6f9e6278d3201079075c1e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326464457,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1326464457,
+    "wof:lastmodified":1537078522,
+    "wof:name":"Aghancon",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78833,
+    53.03222,
+    -7.78833,
+    53.03222
+],
+  "geometry": {"coordinates":[-7.78833,53.03222],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292942011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96139,55.19889,-7.96139,55.19889",
+    "geom:latitude":55.19889,
+    "geom:longitude":-7.96139,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Muntermellan",
+    "gn:country_code":"IE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307378,
+    "gn:latitude":55.19889,
+    "gn:longitude":-7.96139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Muntermellan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307378
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cf63631fbaf375f1f20006262e6c877e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292942011,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1292942011,
+    "wof:lastmodified":1537073307,
+    "wof:name":"Muntermellan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96139,
+    55.19889000000001,
+    -7.96139,
+    55.19889000000001
+],
+  "geometry": {"coordinates":[-7.96139,55.19889000000001],"type":"Point"}
+}

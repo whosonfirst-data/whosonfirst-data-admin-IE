@@ -1,0 +1,74 @@
+{
+  "id": 1343994373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61056,53.31694,-9.61056,53.31694",
+    "geom:latitude":53.31694,
+    "geom:longitude":-9.61056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Bealadangan",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966283,
+    "gn:latitude":53.31694,
+    "gn:longitude":-9.61056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bealadangan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bealadangan"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al an Daingin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966283,
+        "wk:page":"Bealadangan"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6563cffe33270e4ef7d4b1c48e222061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343994373,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343994373,
+    "wof:lastmodified":1537636755,
+    "wof:name":"Bealadangan",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61056,
+    53.31694,
+    -9.61056,
+    53.31694
+],
+  "geometry": {"coordinates":[-9.61056,53.31694],"type":"Point"}
+}

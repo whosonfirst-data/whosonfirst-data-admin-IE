@@ -1,0 +1,66 @@
+{
+  "id": 1293423835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.48278,52.7875,-8.48278,52.7875",
+    "geom:latitude":52.7875,
+    "geom:longitude":-8.48278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Ballyvorney",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305671,
+    "gn:latitude":52.7875,
+    "gn:longitude":-8.48278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyvorney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305671
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b725707d603e8bc74f4050af7ece2503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293423835,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293423835,
+    "wof:lastmodified":1536878049,
+    "wof:name":"Ballyvorney",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.48278,
+    52.7875,
+    -8.48278,
+    52.7875
+],
+  "geometry": {"coordinates":[-8.48278,52.7875],"type":"Point"}
+}

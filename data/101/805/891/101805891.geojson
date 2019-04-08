@@ -1,0 +1,107 @@
+{
+  "id": 101805891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":498126.477878,
+    "geom:bbox":"-8.12829702323,51.859535979,-8.11274679799,51.8669531781",
+    "geom:latitude":51.863261,
+    "geom:longitude":-8.120541,
+    "gn:population":1562,
+    "iso:country":"IE",
+    "lbl:latitude":51.863104,
+    "lbl:longitude":-8.121072,
+    "mps:latitude":51.863104,
+    "mps:longitude":-8.121072,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cloyne"
+    ],
+    "name:eng_x_preferred":[
+        "Cloyne"
+    ],
+    "name:eus_x_preferred":[
+        "Cloyne"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain"
+    ],
+    "name:ita_x_preferred":[
+        "Cloyne"
+    ],
+    "name:nld_x_preferred":[
+        "Cloyne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Cloyne"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Cloyne",
+    "qs:la_lc":"*IE2502047105",
+    "qs:level":"locality",
+    "qs:loc":"Cloyne",
+    "qs:loc_alt":"Cloyne",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1920,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c430a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965276,
+        "gp:id":20071603,
+        "qs:id":248704,
+        "wd:id":"Q2571758",
+        "wk:page":"Cloyne"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"24b3d6b3c2a64601b39c867ca32a3719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805891,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805891,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642969,
+    "wof:name":"Cloyne",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":1562,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12829702322563,
+    51.85953597904978,
+    -8.11274679798669,
+    51.86695317812303
+],
+  "geometry": {"coordinates":[[[-8.11417984933371,51.86695317812303],[-8.11274679798669,51.86348632913149],[-8.11840160329155,51.86259972626181],[-8.1173266932762,51.85999963128944],[-8.11874028786087,51.85977795306644],[-8.11909859919581,51.86064464811392],[-8.12616650641985,51.85953597904978],[-8.12652495968297,51.86040264790716],[-8.12793852797836,51.86018085850435],[-8.12829702322563,51.86104752081428],[-8.12688342994511,51.86126931512962],[-8.1276004214705,51.86300264466945],[-8.12477309681469,51.86344620227055],[-8.12513156810058,51.86431287441332],[-8.12371786170996,51.86453463278502],[-8.1244348053022,51.86626798199137],[-8.12302103620982,51.86648973329318],[-8.12266258090688,51.86562305459472],[-8.11417984933371,51.86695317812303]]],"type":"Polygon"}
+}

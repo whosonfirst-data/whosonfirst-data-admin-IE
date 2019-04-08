@@ -1,0 +1,80 @@
+{
+  "id": 1125371875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.985343,53.325368,-7.985343,53.325368",
+    "geom:latitude":53.325368,
+    "geom:longitude":-7.985343,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.325368,
+    "lbl:longitude":-7.985343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Clonmacnoise",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":235,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2625,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":334127,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073678,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073678,
+        "qs_pg:id":334127
+    },
+    "wof:country":"IE",
+    "wof:created":1497047458,
+    "wof:geomhash":"a5a3e95a564f480c39a243e6c97ff571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125371875,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125371875,
+    "wof:lastmodified":1509389338,
+    "wof:name":"Clonmacnoise",
+    "wof:parent_id":85685041,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.985343,
+    53.325368,
+    -7.985343,
+    53.325368
+],
+  "geometry": {"coordinates":[-7.985343,53.325368],"type":"Point"}
+}

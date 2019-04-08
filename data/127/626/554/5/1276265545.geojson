@@ -1,0 +1,66 @@
+{
+  "id": 1276265545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.47691,52.03824,-9.47691,52.03824",
+    "geom:latitude":52.03824,
+    "geom:longitude":-9.47691,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Muckross Village",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9884064,
+    "gn:latitude":52.03824,
+    "gn:longitude":-9.47691,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Muckross Village",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9884064
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"94922b578afd1af10bf1c7167ac090e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276265545,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1276265545,
+    "wof:lastmodified":1536868264,
+    "wof:name":"Muckross Village",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.47691,
+    52.03824,
+    -9.47691,
+    52.03824
+],
+  "geometry": {"coordinates":[-9.47691,52.03824],"type":"Point"}
+}

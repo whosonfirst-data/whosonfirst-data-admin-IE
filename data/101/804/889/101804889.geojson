@@ -1,0 +1,106 @@
+{
+  "id": 101804889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":468069.919054,
+    "geom:bbox":"-6.73963457106,53.4774471152,-6.72464401353,53.4856501236",
+    "geom:latitude":53.48225,
+    "geom:longitude":-6.732233,
+    "gn:population":832,
+    "iso:country":"IE",
+    "lbl:latitude":53.481325,
+    "lbl:longitude":-6.733596,
+    "mps:latitude":53.481325,
+    "mps:longitude":-6.733596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Summerhill"
+    ],
+    "name:dut_x_preferred":[
+        "Summerhill"
+    ],
+    "name:eng_x_preferred":[
+        "Summerhill"
+    ],
+    "name:gle_x_preferred":[
+        "Cnoc an L\u00ednsigh"
+    ],
+    "name:glv_x_preferred":[
+        "Cnoc an L\u00ednsigh"
+    ],
+    "name:por_x_preferred":[
+        "Summerhill"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043c\u0435\u0440\u0445\u0438\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Summerhill"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Summerhill",
+    "qs:la_lc":"*IE2202167087",
+    "qs:level":"locality",
+    "qs:loc":"Summerhill",
+    "qs:loc_alt":"Summerhill",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":265,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11802dd0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961312,
+        "gp:id":562300,
+        "qs:id":172280,
+        "wd:id":"Q2081820"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3e7297c69007250c0fc0eddf4337f75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804889,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804889,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Summerhill",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":832,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73963457106021,
+    53.47744711519948,
+    -6.72464401352829,
+    53.48565012357892
+],
+  "geometry": {"coordinates":[[[-6.72898412111294,53.48565012357892],[-6.72863482309231,53.48477922953936],[-6.7256916360048,53.48519109403458],[-6.72464401352829,53.482578374627],[-6.72611552980868,53.48237246570915],[-6.72576632905014,53.48150156126746],[-6.7287092666117,53.48108969983059],[-6.72836002733385,53.48021880363029],[-6.73130285685107,53.47980688084942],[-6.73095357906101,53.47893599289119],[-6.73389630053697,53.47852400877116],[-6.7335469842422,53.47765312905545],[-6.73501829748659,53.47744711519948],[-6.73676519191463,53.48180147570633],[-6.73823663169958,53.48159542000298],[-6.73963457106021,53.48507886396897],[-6.73669145503993,53.48549099620487],[-6.73599256237304,53.48374925772913],[-6.73010639705717,53.48457327067092],[-6.73045572300828,53.48544415989051],[-6.72898412111294,53.48565012357892]]],"type":"Polygon"}
+}

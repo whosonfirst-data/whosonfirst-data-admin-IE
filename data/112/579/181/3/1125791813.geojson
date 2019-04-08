@@ -1,0 +1,120 @@
+{
+  "id": 1125791813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11194,53.08972,-6.11194,53.08972",
+    "geom:latitude":53.08972,
+    "geom:longitude":-6.11194,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.08972,
+    "lbl:longitude":-6.11194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:dut_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:eng_x_preferred":[
+        "Newtown Mount Kennedy"
+    ],
+    "name:fre_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Chinn\u00e9idigh"
+    ],
+    "name:ita_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:lit_x_preferred":[
+        "Niutaun Maun Kenedis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u0442\u0430\u0443\u043d-\u041c\u0430\u0443\u043d\u0442-\u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:swe_x_preferred":[
+        "Newtownmountkennedy"
+    ],
+    "name:unk_x_variant":[
+        "Newton Mount Kennedy"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962224,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Newtown Mount Kennedy",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":81,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":81,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":471179,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561880,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962224,
+        "gp:id":561880,
+        "qs_pg:id":471179,
+        "wd:id":"Q1893671"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290893,
+    "wof:geomhash":"9144c8c654637ca651e0abde32d0292b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791813,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1125791813,
+    "wof:lastmodified":1514450624,
+    "wof:name":"Newtown Mount Kennedy",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11194,
+    53.08972,
+    -6.11194,
+    53.08972
+],
+  "geometry": {"coordinates":[-6.11194,53.08972],"type":"Point"}
+}

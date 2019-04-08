@@ -1,0 +1,95 @@
+{
+  "id": 1125364277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.27113,53.38046,-6.27113,53.38046",
+    "geom:latitude":53.38046,
+    "geom:longitude":-6.27113,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"ADMD",
+    "gn:gn_pop":1146503,
+    "gn:population":1146503,
+    "iso:country":"IE",
+    "lbl:latitude":53.38046,
+    "lbl:longitude":-6.27113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "County Dublin"
+    ],
+    "name:eng_x_variant":[
+        "Dublin",
+        "Co Dublin"
+    ],
+    "name:fra_x_preferred":[
+        "Dublin"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Bhaile \u00c1tha Cliath"
+    ],
+    "name:gle_x_variant":[
+        "Baile \u00c1tha Cliath"
+    ],
+    "name:spa_x_preferred":[
+        "Dublin"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"ADMD",
+    "qs_pg:gn_id":2964573,
+    "qs_pg:gn_pop":1146503,
+    "qs_pg:name":"Baile \u00c1tha Cliath",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":352829,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964573,
+        "qs_pg:id":352829
+    },
+    "wof:country":"IE",
+    "wof:created":1497046987,
+    "wof:geomhash":"af11321a27a77347360fccb0cd6e355e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125364277,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1125364277,
+    "wof:lastmodified":1509389166,
+    "wof:name":"Baile \u00c1tha Cliath",
+    "wof:parent_id":85685015,
+    "wof:placetype":"localadmin",
+    "wof:population":1146503,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27113,
+    53.38046,
+    -6.27113,
+    53.38046
+],
+  "geometry": {"coordinates":[-6.27113,53.38046],"type":"Point"}
+}

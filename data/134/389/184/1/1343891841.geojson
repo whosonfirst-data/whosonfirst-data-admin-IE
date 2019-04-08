@@ -1,0 +1,66 @@
+{
+  "id": 1343891841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82139,53.94528,-8.82139,53.94528",
+    "geom:latitude":53.94528,
+    "geom:longitude":-8.82139,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Tomboholla",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310761,
+    "gn:latitude":53.94528,
+    "gn:longitude":-8.82139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tomboholla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310761
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"814219d14a615fe425a8b713998a18ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343891841,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343891841,
+    "wof:lastmodified":1536619207,
+    "wof:name":"Tomboholla",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82139,
+    53.94528,
+    -8.82139,
+    53.94528
+],
+  "geometry": {"coordinates":[-8.82139,53.94528],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260323057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23139,53.60083,-6.23139,53.60083",
+    "geom:latitude":53.60083,
+    "geom:longitude":-6.23139,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Dallyhaysy",
+    "gn:country_code":"IE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316366,
+    "gn:latitude":53.60083,
+    "gn:longitude":-6.23139,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Dallyhaysy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316366
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"988bee126b9ab0cca7ecea811fb21fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260323057,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1260323057,
+    "wof:lastmodified":1536658868,
+    "wof:name":"Dallyhaysy",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23139,
+    53.60083,
+    -6.23139,
+    53.60083
+],
+  "geometry": {"coordinates":[-6.23139,53.60083],"type":"Point"}
+}

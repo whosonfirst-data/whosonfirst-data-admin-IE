@@ -1,0 +1,73 @@
+{
+  "id": 1259517073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.19639,52.46806,-7.19639,52.46806",
+    "geom:latitude":52.46806,
+    "geom:longitude":-7.19639,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Ballyhale",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966569,
+    "gn:latitude":52.46806,
+    "gn:longitude":-7.19639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballyhale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballyhale"
+    ],
+    "name:gle_x_preferred":[
+        "Baile H\u00e9il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966569,
+        "wk:page":"Ballyhale"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b1821e06b115bfd146c622c50d62473f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259517073,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1259517073,
+    "wof:lastmodified":1537636757,
+    "wof:name":"Ballyhale",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.19639,
+    52.46806,
+    -7.19639,
+    52.46806
+],
+  "geometry": {"coordinates":[-7.19639,52.46806],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360015995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54722,54.03333,-6.54722,54.03333",
+    "geom:latitude":54.03333,
+    "geom:longitude":-6.54722,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Annaghvacky",
+    "gn:country_code":"IE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310728,
+    "gn:latitude":54.03333,
+    "gn:longitude":-6.54722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Annaghvacky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310728
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"08b110372703e5389af24b04cf957575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360015995,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1360015995,
+    "wof:lastmodified":1537043642,
+    "wof:name":"Annaghvacky",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54722,
+    54.03333000000001,
+    -6.54722,
+    54.03333000000001
+],
+  "geometry": {"coordinates":[-6.54722,54.03333000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293426085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54778,54.72944,-8.54778,54.72944",
+    "geom:latitude":54.72944,
+    "geom:longitude":-8.54778,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Stravally",
+    "gn:country_code":"IE",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308758,
+    "gn:latitude":54.72944,
+    "gn:longitude":-8.54778,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Stravally",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stravally"
+    ],
+    "name:gle_x_preferred":[
+        "Srath an Bhealaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308758
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"35617eb1f61089a8b8ce8a59f2b8a399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293426085,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1293426085,
+    "wof:lastmodified":1537636773,
+    "wof:name":"Stravally",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54778,
+    54.72944,
+    -8.54778,
+    54.72944
+],
+  "geometry": {"coordinates":[-8.54778,54.72944],"type":"Point"}
+}

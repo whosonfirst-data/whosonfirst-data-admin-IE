@@ -1,0 +1,80 @@
+{
+  "id": 1125786707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.861177,51.597046,-8.861177,51.597046",
+    "geom:latitude":51.597046,
+    "geom:longitude":-8.861177,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":51.597046,
+    "lbl:longitude":-8.861177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ring",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":656,
+    "qs_pg:photos_1k":133,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":656,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":469543,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387591,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387591,
+        "qs_pg:id":469543
+    },
+    "wof:country":"IE",
+    "wof:created":1497290710,
+    "wof:geomhash":"f7374c43c9dffd2bab3a8ddf3830d552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125786707,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125786707,
+    "wof:lastmodified":1509392020,
+    "wof:name":"Ring",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.861177,
+    51.597046,
+    -8.861177,
+    51.597046
+],
+  "geometry": {"coordinates":[-8.861177,51.597046],"type":"Point"}
+}

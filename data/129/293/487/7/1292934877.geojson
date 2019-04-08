@@ -1,0 +1,72 @@
+{
+  "id": 1292934877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.635,51.99139,-7.635,51.99139",
+    "geom:latitude":51.99139,
+    "geom:longitude":-7.635,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Ballymacart Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301067,
+    "gn:latitude":51.99139,
+    "gn:longitude":-7.635,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballymacart Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballymacart Bridge"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Mhac Airt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301067
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d84aa3bed494013f74b4f753806da4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292934877,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1292934877,
+    "wof:lastmodified":1537636768,
+    "wof:name":"Ballymacart Bridge",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.635,
+    51.99139,
+    -7.635,
+    51.99139
+],
+  "geometry": {"coordinates":[-7.635,51.99139],"type":"Point"}
+}

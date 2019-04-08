@@ -1,0 +1,66 @@
+{
+  "id": 1327262849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98111,52.94389,-6.98111,52.94389",
+    "geom:latitude":52.94389,
+    "geom:longitude":-6.98111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Kilmorony",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963249,
+    "gn:latitude":52.94389,
+    "gn:longitude":-6.98111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilmorony",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963249
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3c51f28946102c73e19327c0a6c32106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327262849,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1327262849,
+    "wof:lastmodified":1536926424,
+    "wof:name":"Kilmorony",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98111,
+    52.94389,
+    -6.98111,
+    52.94389
+],
+  "geometry": {"coordinates":[-6.98111,52.94389],"type":"Point"}
+}

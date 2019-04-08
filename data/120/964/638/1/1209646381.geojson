@@ -1,0 +1,63 @@
+{
+  "id": 1209646381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57759,52.07033,-9.57759,52.07033",
+    "geom:latitude":52.07033,
+    "geom:longitude":-9.57759,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Fossa",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870065,
+    "gn:latitude":52.07033,
+    "gn:longitude":-9.57759,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Fossa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870065,
+        "wk:page":"Fossa%2C_County_Kerry"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b0c46a607dc511fee4ebf6b33dd73e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209646381
+        }
+    ],
+    "wof:id":1209646381,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Fossa",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57759,
+    52.07033,
+    -9.57759,
+    52.07033
+],
+  "geometry": {"coordinates":[-9.57759,52.07033],"type":"Point"}
+}

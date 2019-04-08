@@ -1,0 +1,66 @@
+{
+  "id": 1310142215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23722,52.50333,-8.23722,52.50333",
+    "geom:latitude":52.50333,
+    "geom:longitude":-8.23722,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Ballygodboy",
+    "gn:country_code":"IE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305761,
+    "gn:latitude":52.50333,
+    "gn:longitude":-8.23722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballygodboy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305761
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c8a2325ba999edc465fd79d792ac91b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310142215,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1310142215,
+    "wof:lastmodified":1536944022,
+    "wof:name":"Ballygodboy",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23722,
+    52.50333000000001,
+    -8.23722,
+    52.50333000000001
+],
+  "geometry": {"coordinates":[-8.23722,52.50333000000001],"type":"Point"}
+}

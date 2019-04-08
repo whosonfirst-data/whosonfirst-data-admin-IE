@@ -1,0 +1,66 @@
+{
+  "id": 1242909713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04017,53.55521,-7.04017,53.55521",
+    "geom:latitude":53.55521,
+    "geom:longitude":-7.04017,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Robbersbush",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866223,
+    "gn:latitude":53.55521,
+    "gn:longitude":-7.04017,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Robbersbush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866223
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c322f9f7e84a7adddae5ca7d6ed0b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242909713,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1242909713,
+    "wof:lastmodified":1537079141,
+    "wof:name":"Robbersbush",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04017,
+    53.55521,
+    -7.04017,
+    53.55521
+],
+  "geometry": {"coordinates":[-7.04017,53.55521],"type":"Point"}
+}

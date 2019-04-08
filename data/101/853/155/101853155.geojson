@@ -1,0 +1,99 @@
+{
+  "id": 101853155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.963338,52.248039,-6.963338,52.248039",
+    "geom:latitude":52.248039,
+    "geom:longitude":-6.963338,
+    "iso:country":"IE",
+    "lbl:latitude":52.248039,
+    "lbl:longitude":-6.963338,
+    "mps:latitude":52.248039,
+    "mps:longitude":-6.963338,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballyhack"
+    ],
+    "name:cat_x_preferred":[
+        "Ballyhack"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyhack"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyhack"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Each"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0445\u0430\u043a"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wexford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ballyhack",
+    "qs:loc_alt":"Ballyhack",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":510,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ecec2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966574,
+        "gp:id":20074366,
+        "qs:id":1103034,
+        "wd:id":"Q4076809",
+        "wk:page":"Ballyhack, County Wexford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f7c491131eb449d19bbb03781209f007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101853155,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":101853155,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815546,
+    "wof:name":"Ballyhack",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.963338,
+    52.248039,
+    -6.963338,
+    52.248039
+],
+  "geometry": {"coordinates":[-6.963338,52.248039],"type":"Point"}
+}

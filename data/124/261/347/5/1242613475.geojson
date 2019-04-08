@@ -1,0 +1,70 @@
+{
+  "id": 1242613475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.29028,53.11806,-9.29028,53.11806",
+    "geom:latitude":53.11806,
+    "geom:longitude":-9.29028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Fanore",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964363,
+    "gn:latitude":53.11806,
+    "gn:longitude":-9.29028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fanore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanore Bridge",
+        "Fanore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964363,
+        "wk:page":"Fanore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eea707119f786e5b2bc490c600059f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1242613475,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242613475,
+    "wof:lastmodified":1537636741,
+    "wof:name":"Fanore",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.29028,
+    53.11806,
+    -9.29028,
+    53.11806
+],
+  "geometry": {"coordinates":[-9.29028,53.11806],"type":"Point"}
+}

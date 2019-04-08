@@ -1,0 +1,72 @@
+{
+  "id": 1226478855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.89722,53.07722,-7.89722,53.07722",
+    "geom:latitude":53.07722,
+    "geom:longitude":-7.89722,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Crinkill",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965033,
+    "gn:latitude":53.07722,
+    "gn:longitude":-7.89722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Crinkill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Crinkle",
+        "Crinkill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965033,
+        "wk:page":"Crinkill"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9eed4e44bafc8d97e6a74802324ea229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226478855,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1226478855,
+    "wof:lastmodified":1537636746,
+    "wof:name":"Crinkill",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.89722,
+    53.07722,
+    -7.89722,
+    53.07722
+],
+  "geometry": {"coordinates":[-7.89722,53.07722],"type":"Point"}
+}

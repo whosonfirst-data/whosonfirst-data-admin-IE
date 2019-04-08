@@ -1,0 +1,66 @@
+{
+  "id": 1343397127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.56361,53.3925,-6.56361,53.3925",
+    "geom:latitude":53.3925,
+    "geom:longitude":-6.56361,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Carton",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965667,
+    "gn:latitude":53.3925,
+    "gn:longitude":-6.56361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carton",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965667
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6780c22be54656f79554696ca74e5eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343397127,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1343397127,
+    "wof:lastmodified":1536836497,
+    "wof:name":"Carton",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56361,
+    53.3925,
+    -6.56361,
+    53.3925
+],
+  "geometry": {"coordinates":[-6.56361,53.3925],"type":"Point"}
+}

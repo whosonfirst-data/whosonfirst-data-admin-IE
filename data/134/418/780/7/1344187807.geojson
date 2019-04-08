@@ -1,0 +1,66 @@
+{
+  "id": 1344187807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33333,52.73333,-8.33333,52.73333",
+    "geom:latitude":52.73333,
+    "geom:longitude":-8.33333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Doonane",
+    "gn:country_code":"IE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964713,
+    "gn:latitude":52.73333,
+    "gn:longitude":-8.33333,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Doonane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964713
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"181080ade5624657b29cbb2ddaade8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344187807,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1344187807,
+    "wof:lastmodified":1536692107,
+    "wof:name":"Doonane",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33333,
+    52.73333,
+    -8.33333,
+    52.73333
+],
+  "geometry": {"coordinates":[-8.33333,52.73333],"type":"Point"}
+}

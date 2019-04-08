@@ -1,0 +1,66 @@
+{
+  "id": 1243591103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60833,52.46694,-6.60833,52.46694",
+    "geom:latitude":52.46694,
+    "geom:longitude":-6.60833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Garry Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302663,
+    "gn:latitude":52.46694,
+    "gn:longitude":-6.60833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Garry Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302663
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d5cdf394fa9262beb2655f202ed3b017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243591103,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1243591103,
+    "wof:lastmodified":1537090600,
+    "wof:name":"Garry Bridge",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60833,
+    52.46694,
+    -6.60833,
+    52.46694
+],
+  "geometry": {"coordinates":[-6.60833,52.46694],"type":"Point"}
+}

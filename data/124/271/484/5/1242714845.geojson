@@ -1,0 +1,66 @@
+{
+  "id": 1242714845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.28221,53.27615,-6.28221,53.27615",
+    "geom:latitude":53.27615,
+    "geom:longitude":-6.28221,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Whitechurch",
+    "gn:country_code":"IE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315264,
+    "gn:latitude":53.27615,
+    "gn:longitude":-6.28221,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Whitechurch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315264
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f1496e7d421040eeb6623978c0eaa95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242714845,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1242714845,
+    "wof:lastmodified":1536864668,
+    "wof:name":"Whitechurch",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28221,
+    53.27615,
+    -6.28221,
+    53.27615
+],
+  "geometry": {"coordinates":[-6.28221,53.27615],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125791247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07556,53.14667,-9.07556,53.14667",
+    "geom:latitude":53.14667,
+    "geom:longitude":-9.07556,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.14667,
+    "lbl:longitude":-9.07556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Burren"
+    ],
+    "name:gle_x_preferred":[
+        "Boirinn"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965902,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Burren",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":720,
+    "qs_pg:photos_1k":146,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":720,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080454,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560059,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965902,
+        "gp:id":560059,
+        "qs_pg:id":1080454
+    },
+    "wof:country":"IE",
+    "wof:created":1497290871,
+    "wof:geomhash":"f4aec84014e33bf96f609fa65c0ff302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791247,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125791247,
+    "wof:lastmodified":1509392352,
+    "wof:name":"Burren",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07556,
+    53.14667,
+    -9.07556,
+    53.14667
+],
+  "geometry": {"coordinates":[-9.07556,53.14667],"type":"Point"}
+}

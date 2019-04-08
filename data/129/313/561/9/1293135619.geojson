@@ -1,0 +1,66 @@
+{
+  "id": 1293135619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54449,51.87326,-8.54449,51.87326",
+    "geom:latitude":51.87326,
+    "geom:longitude":-8.54449,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Bishopstown",
+    "gn:country_code":"IE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838902,
+    "gn:latitude":51.87326,
+    "gn:longitude":-8.54449,
+    "gn:modification_date":"2016-09-12",
+    "gn:name":"Bishopstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838902
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5bebce772c47b69dd4f8456c8cdcee48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293135619,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293135619,
+    "wof:lastmodified":1536797508,
+    "wof:name":"Bishopstown",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54449,
+    51.87326,
+    -8.54449,
+    51.87326
+],
+  "geometry": {"coordinates":[-8.54449,51.87326],"type":"Point"}
+}

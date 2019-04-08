@@ -1,0 +1,66 @@
+{
+  "id": 1293328919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.21111,52.545,-8.21111,52.545",
+    "geom:latitude":52.545,
+    "geom:longitude":-8.21111,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Pope's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3305863,
+    "gn:latitude":52.545,
+    "gn:longitude":-8.21111,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Pope\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305863
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"28a389b96088b117e1e10d6149bdab27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293328919,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1293328919,
+    "wof:lastmodified":1537014905,
+    "wof:name":"Pope's Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.21111,
+    52.545,
+    -8.21111,
+    52.545
+],
+  "geometry": {"coordinates":[-8.21111,52.545],"type":"Point"}
+}

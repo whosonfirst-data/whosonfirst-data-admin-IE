@@ -1,0 +1,66 @@
+{
+  "id": 1242811589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50472,52.11694,-7.50472,52.11694",
+    "geom:latitude":52.11694,
+    "geom:longitude":-7.50472,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Ballyvoyle Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301165,
+    "gn:latitude":52.11694,
+    "gn:longitude":-7.50472,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballyvoyle Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301165
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"de0274bbc88219d2fec7734b03bbc596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242811589,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1242811589,
+    "wof:lastmodified":1536727132,
+    "wof:name":"Ballyvoyle Cross Roads",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50472,
+    52.11694,
+    -7.50472,
+    52.11694
+],
+  "geometry": {"coordinates":[-7.50472,52.11694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293723959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83639,53.14722,-6.83639,53.14722",
+    "geom:latitude":53.14722,
+    "geom:longitude":-6.83639,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Curragh Camp",
+    "gn:country_code":"IE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314536,
+    "gn:latitude":53.14722,
+    "gn:longitude":-6.83639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Curragh Camp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314536,
+        "wk:page":"Curragh_Camp"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"26dfff8a515f6b750b2bd25dacec219e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293723959,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1293723959,
+    "wof:lastmodified":1537564856,
+    "wof:name":"Curragh Camp",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83639,
+    53.14722,
+    -6.83639,
+    53.14722
+],
+  "geometry": {"coordinates":[-6.83639,53.14722],"type":"Point"}
+}

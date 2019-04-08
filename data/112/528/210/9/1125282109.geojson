@@ -1,0 +1,96 @@
+{
+  "id": 1125282109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37528,52.57278,-9.37528,52.57278",
+    "geom:latitude":52.57278,
+    "geom:longitude":-9.37528,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":551,
+    "iso:country":"IE",
+    "lbl:latitude":52.57278,
+    "lbl:longitude":-9.37528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tarbert"
+    ],
+    "name:gle_x_preferred":[
+        "Tairbeart"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961267,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tarbert",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":132,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":133532,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072723,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961267,
+        "gp:id":20072723,
+        "qs_pg:id":133532
+    },
+    "wof:country":"IE",
+    "wof:created":1497042542,
+    "wof:geomhash":"34f6c0fe4c9d892294eec3df7458fd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125282109,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125282109,
+    "wof:lastmodified":1509387318,
+    "wof:name":"Tarbert",
+    "wof:parent_id":85684991,
+    "wof:placetype":"localadmin",
+    "wof:population":551,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37528,
+    52.57278,
+    -9.37528,
+    52.57278
+],
+  "geometry": {"coordinates":[-9.37528,52.57278],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226279243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35028,52.8825,-8.35028,52.8825",
+    "geom:latitude":52.8825,
+    "geom:longitude":-8.35028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Portroe",
+    "gn:country_code":"IE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962012,
+    "gn:latitude":52.8825,
+    "gn:longitude":-8.35028,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Portroe",
+    "gn:population":468,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Portroe"
+    ],
+    "name:gle_x_preferred":[
+        "An Port Rua"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962012,
+        "wk:page":"Portroe"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b46fe5ecdbcc17d3f95b0c1cb83d4a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226279243,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1226279243,
+    "wof:lastmodified":1537636724,
+    "wof:name":"Portroe",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":468,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35028,
+    52.8825,
+    -8.35028,
+    52.8825
+],
+  "geometry": {"coordinates":[-8.35028,52.8825],"type":"Point"}
+}

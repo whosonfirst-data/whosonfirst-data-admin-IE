@@ -1,0 +1,67 @@
+{
+  "id": 1226676927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.68369,53.49563,-6.68369,53.49563",
+    "geom:latitude":53.49563,
+    "geom:longitude":-6.68369,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Collegeland",
+    "gn:country_code":"IE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965254,
+    "gn:latitude":53.49563,
+    "gn:longitude":-6.68369,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Collegeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965254,
+        "wk:page":"Collegeland%2C_County_Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6a0f04efe155d5fed85e328bae6d68d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226676927,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226676927,
+    "wof:lastmodified":1537564847,
+    "wof:name":"Collegeland",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.68369,
+    53.49563000000001,
+    -6.68369,
+    53.49563000000001
+],
+  "geometry": {"coordinates":[-6.68369,53.49563000000001],"type":"Point"}
+}

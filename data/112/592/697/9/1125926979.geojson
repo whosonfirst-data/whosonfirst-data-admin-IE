@@ -1,0 +1,123 @@
+{
+  "id": 1125926979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36667,53.65,-9.36667,53.65",
+    "geom:latitude":53.65,
+    "geom:longitude":-9.36667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.65,
+    "lbl:longitude":-9.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Tuar Mhic \u00c9adaigh"
+    ],
+    "name:bre_x_preferred":[
+        "Tuar Mhic \u00c9adaigh"
+    ],
+    "name:cat_x_preferred":[
+        "Tuar Mhic \u00c9adaigh"
+    ],
+    "name:chi_x_preferred":[
+        "\u5716\u9ed8\u57fa\u8fea"
+    ],
+    "name:dut_x_preferred":[
+        "Tuar Mhic \u00c9adaigh"
+    ],
+    "name:eng_x_preferred":[
+        "Toormakeady"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10e3\u10e0\u10db\u10d0\u10d9\u10d4\u10d3\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Tuar Mhic \u00c9adaigh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05de\u05e7\u05d9\u05d3\u05d9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0430\u043a\u0430\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Toormakeady"
+    ],
+    "name:unk_x_variant":[
+        "Toormakeady"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961143,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tourmakeady",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":105,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":105,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1330496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387637,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961143,
+        "gp:id":29387637,
+        "qs_pg:id":1330496,
+        "wd:id":"Q2247547"
+    },
+    "wof:country":"IE",
+    "wof:created":1497296674,
+    "wof:geomhash":"8504f3b56eb1af075e788c22322702eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125926979,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125926979,
+    "wof:lastmodified":1514450668,
+    "wof:name":"Tourmakeady",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36667,
+    53.65,
+    -9.36667,
+    53.65
+],
+  "geometry": {"coordinates":[-9.36667,53.65],"type":"Point"}
+}

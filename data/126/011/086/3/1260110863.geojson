@@ -1,0 +1,73 @@
+{
+  "id": 1260110863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55111,53.27083,-9.55111,53.27083",
+    "geom:latitude":53.27083,
+    "geom:longitude":-9.55111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Rossaveel",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230296,
+    "gn:latitude":53.27083,
+    "gn:longitude":-9.55111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rossaveel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rossaveel"
+    ],
+    "name:gle_x_preferred":[
+        "Ros an Mh\u00edl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230296
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a159aa08230c0dd36ec2e2c205896666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260110863,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1260110863,
+    "wof:lastmodified":1537636762,
+    "wof:name":"Rossaveel",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55111,
+    53.27083,
+    -9.55111,
+    53.27083
+],
+  "geometry": {"coordinates":[-9.55111,53.27083],"type":"Point"}
+}

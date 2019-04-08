@@ -1,0 +1,67 @@
+{
+  "id": 1243484921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10861,52.63222,-8.10861,52.63222",
+    "geom:latitude":52.63222,
+    "geom:longitude":-8.10861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Hollyford",
+    "gn:country_code":"IE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963752,
+    "gn:latitude":52.63222,
+    "gn:longitude":-8.10861,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hollyford",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963752,
+        "wk:page":"Hollyford%2C_County_Tipperary"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"750267e047a450c9859f9626bd03d595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243484921,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1243484921,
+    "wof:lastmodified":1537564843,
+    "wof:name":"Hollyford",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10861,
+    52.63222,
+    -8.10861,
+    52.63222
+],
+  "geometry": {"coordinates":[-8.10861,52.63222],"type":"Point"}
+}

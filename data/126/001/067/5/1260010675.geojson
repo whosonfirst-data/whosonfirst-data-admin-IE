@@ -1,0 +1,66 @@
+{
+  "id": 1260010675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47028,52.64444,-8.47028,52.64444",
+    "geom:latitude":52.64444,
+    "geom:longitude":-8.47028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Barringtonsbridge",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966313,
+    "gn:latitude":52.64444,
+    "gn:longitude":-8.47028,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Barringtonsbridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966313
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2ebf8dc5d5201f30e02168976233296f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260010675,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1260010675,
+    "wof:lastmodified":1537089666,
+    "wof:name":"Barringtonsbridge",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47028,
+    52.64444,
+    -8.47028,
+    52.64444
+],
+  "geometry": {"coordinates":[-8.47028,52.64444],"type":"Point"}
+}

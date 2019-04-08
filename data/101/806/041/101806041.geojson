@@ -1,0 +1,110 @@
+{
+  "id": 101806041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":677324.634152,
+    "geom:bbox":"-6.51089120033,52.7081501045,-6.47960152088,52.7164634733",
+    "geom:latitude":52.711562,
+    "geom:longitude":-6.496866,
+    "gn:population":1091,
+    "iso:country":"IE",
+    "lbl:latitude":52.711095,
+    "lbl:longitude":-6.499236,
+    "mps:latitude":52.711095,
+    "mps:longitude":-6.499236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Carnew"
+    ],
+    "name:dut_x_preferred":[
+        "Carnew"
+    ],
+    "name:eng_x_preferred":[
+        "Carnew"
+    ],
+    "name:gle_x_preferred":[
+        "Carn an Bhua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30cb\u30e5\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Carnew"
+    ],
+    "name:pol_x_preferred":[
+        "Carnew"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043d\u044c\u044e"
+    ],
+    "name:swe_x_preferred":[
+        "Carnew"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wicklow",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Carnew",
+    "qs:la_lc":"*IE2203257021",
+    "qs:level":"locality",
+    "qs:loc":"Carnew",
+    "qs:loc_alt":"Carnew",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1122,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"118012fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965760,
+        "gp:id":560134,
+        "qs:id":3,
+        "wd:id":"Q2091085",
+        "wk:page":"Carnew"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9f003a522f5f1d06ae9f68f5aef86eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806041,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":101806041,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715371,
+    "wof:name":"Carnew",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":1091,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.51089120033072,
+    52.70815010451287,
+    -6.47960152087813,
+    52.71646347330642
+],
+  "geometry": {"coordinates":[[[-6.50355325026101,52.71646347330642],[-6.50321725576265,52.71559161186417],[-6.50177016053749,52.71579431588998],[-6.50143420927009,52.71492244844438],[-6.49998712862293,52.71512513040926],[-6.49931532890912,52.71338138214526],[-6.49786828970315,52.71358403741669],[-6.49719660916105,52.71184027441319],[-6.48996149756101,52.71285324305529],[-6.48962581613637,52.71198133634402],[-6.48673173929285,52.71238639255517],[-6.48639612794739,52.71151447521686],[-6.48494909798109,52.71171697255272],[-6.48461352984816,52.71084504921868],[-6.48027244692321,52.7114524227797],[-6.47960152087813,52.70970854424354],[-6.48249548097414,52.70930366447544],[-6.48283098955233,52.7101755951702],[-6.48861886997258,52.70936560800874],[-6.48895450234318,52.71023751882058],[-6.49618921104002,52.70922461964767],[-6.49585344437952,52.70835273198981],[-6.49730032243696,52.70815010451287],[-6.49763611595262,52.70902198753873],[-6.50052988894373,52.7086166710485],[-6.50086575252652,52.7094885434409],[-6.50231264745759,52.70928585442687],[-6.5026485542557,52.71015772081751],[-6.50409546375937,52.70995500974595],[-6.5047673801563,52.71169872915232],[-6.51055511016284,52.71088767354939],[-6.51089120033072,52.71175951265769],[-6.50944425940497,52.71196230733028],[-6.5097803390895,52.71283414970441],[-6.50399234508689,52.71364517269006],[-6.50500036006287,52.71626074721928],[-6.50355325026101,52.71646347330642]]],"type":"Polygon"}
+}

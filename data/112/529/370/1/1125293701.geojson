@@ -1,0 +1,80 @@
+{
+  "id": 1125293701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.048614,53.521839,-9.048614,53.521839",
+    "geom:latitude":53.521839,
+    "geom:longitude":-9.048614,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.521839,
+    "lbl:longitude":-9.048614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dalgan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":36,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1098623,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073435,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073435,
+        "qs_pg:id":1098623
+    },
+    "wof:country":"IE",
+    "wof:created":1497043045,
+    "wof:geomhash":"c80cff39ef505a01922fd8b1c5ac5897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125293701,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125293701,
+    "wof:lastmodified":1509387579,
+    "wof:name":"Dalgan",
+    "wof:parent_id":85685097,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.048614,
+    53.521839,
+    -9.048614,
+    53.521839
+],
+  "geometry": {"coordinates":[-9.048614,53.521839],"type":"Point"}
+}

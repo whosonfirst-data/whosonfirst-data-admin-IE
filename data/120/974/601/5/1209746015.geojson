@@ -1,0 +1,76 @@
+{
+  "id": 1209746015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64504,51.80211,-8.64504,51.80211",
+    "geom:latitude":51.80211,
+    "geom:longitude":-8.64504,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Cross Barry",
+    "gn:country_code":"IE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964993,
+    "gn:latitude":51.80211,
+    "gn:longitude":-8.64504,
+    "gn:modification_date":"2017-07-29",
+    "gn:name":"Cross Barry",
+    "gn:population":354,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Crois an Bharraigh"
+    ],
+    "name:und_x_variant":[
+        "Crossbarry"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964993,
+        "wk:page":"Cross_Barry"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b31ff7421b5396db13a87df95524b312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209746015,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1209746015,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Cross Barry",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":354,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64504,
+    51.80211,
+    -8.64504,
+    51.80211
+],
+  "geometry": {"coordinates":[-8.64504,51.80211],"type":"Point"}
+}

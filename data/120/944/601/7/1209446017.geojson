@@ -1,0 +1,63 @@
+{
+  "id": 1209446017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.56066,53.2655,-9.56066,53.2655",
+    "geom:latitude":53.2655,
+    "geom:longitude":-9.56066,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Rossaveal",
+    "gn:country_code":"IE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942143,
+    "gn:latitude":53.2655,
+    "gn:longitude":-9.56066,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Rossaveal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942143,
+        "wk:page":"Rossaveal"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e01a4682b27e32aa4f5991438743545f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209446017
+        }
+    ],
+    "wof:id":1209446017,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Rossaveal",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.56066,
+    53.2655,
+    -9.56066,
+    53.2655
+],
+  "geometry": {"coordinates":[-9.56066,53.2655],"type":"Point"}
+}

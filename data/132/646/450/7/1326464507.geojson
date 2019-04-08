@@ -1,0 +1,76 @@
+{
+  "id": 1326464507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28333,54.45,-8.28333,54.45",
+    "geom:latitude":54.45,
+    "geom:longitude":-8.28333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Kinlough",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963162,
+    "gn:latitude":54.45,
+    "gn:longitude":-8.28333,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Kinlough",
+    "gn:population":1018,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kinlough"
+    ],
+    "name:gle_x_preferred":[
+        "Cionn Locha"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963162,
+        "wk:page":"Kinlough"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1ad86ab1075e37c89b935586bcbad28f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326464507,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1326464507,
+    "wof:lastmodified":1537636731,
+    "wof:name":"Kinlough",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:population":1018,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28333,
+    54.45,
+    -8.28333,
+    54.45
+],
+  "geometry": {"coordinates":[-8.28333,54.45],"type":"Point"}
+}

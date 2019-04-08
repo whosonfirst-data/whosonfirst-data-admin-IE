@@ -1,0 +1,63 @@
+{
+  "id": 1209645885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53694,51.81417,-8.53694,51.81417",
+    "geom:latitude":51.81417,
+    "geom:longitude":-8.53694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballinhassig",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966726,
+    "gn:latitude":51.81417,
+    "gn:longitude":-8.53694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballinhassig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966726,
+        "wk:page":"Ballinhassig"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ffd09c73e4df5168f0a34bd3bcbb4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209645885
+        }
+    ],
+    "wof:id":1209645885,
+    "wof:lastmodified":1537564850,
+    "wof:name":"Ballinhassig",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53694,
+    51.81417,
+    -8.53694,
+    51.81417
+],
+  "geometry": {"coordinates":[-8.53694,51.81417],"type":"Point"}
+}

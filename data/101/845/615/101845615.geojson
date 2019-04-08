@@ -1,0 +1,104 @@
+{
+  "id": 101845615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":298846.732726,
+    "geom:bbox":"-6.66146940394,52.3203206676,-6.64765481784,52.3268839942",
+    "geom:latitude":52.323376,
+    "geom:longitude":-6.655169,
+    "gn:population":623,
+    "iso:country":"IE",
+    "lbl:latitude":52.322989,
+    "lbl:longitude":-6.654018,
+    "mps:latitude":52.322989,
+    "mps:longitude":-6.654018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Taghmon"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0433\u0445\u043c\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Taghmon"
+    ],
+    "name:eng_x_preferred":[
+        "Taghmon"
+    ],
+    "name:gle_x_preferred":[
+        "Teach Munna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Taghmon"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wexford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Taghmon",
+    "qs:la_lc":"*IE2406247107",
+    "qs:level":"locality",
+    "qs:loc":"Taghmon",
+    "qs:loc_alt":"Taghmon",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e8e58-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961292,
+        "gp:id":20074458,
+        "qs:id":4,
+        "wd:id":"Q4450958",
+        "wk:page":"Taghmon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9df122d2a3e417f2563bd8a36da5fc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101845615,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":101845615,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642317,
+    "wof:name":"Taghmon",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66146940393759,
+    52.32032066763128,
+    -6.64765481784292,
+    52.32688399417418
+],
+  "geometry": {"coordinates":[[[-6.65893621759733,52.32688399417418],[-6.65860138993594,52.32601250884989],[-6.65716736478458,52.32621684735494],[-6.65683257950587,52.32534535601911],[-6.65539856849239,52.32554967266896],[-6.65506382559437,52.32467817532267],[-6.65219581974964,52.32508674767126],[-6.65119184531477,52.3224722195759],[-6.64975790295898,52.32267646605271],[-6.64942330332281,52.32180494928281],[-6.64798937511046,52.32200917390742],[-6.64765481784292,52.32113765113064],[-6.65339035321148,52.32032066763128],[-6.65372501541071,52.32119217196396],[-6.65515889525443,52.32098787837697],[-6.65549359982293,52.32185937670022],[-6.65692749380332,52.32165506126063],[-6.65759700382608,52.32339804448969],[-6.66046486042353,52.32298934343714],[-6.66146940393759,52.32560378011425],[-6.66003540298738,52.3258081531028],[-6.66037025688519,52.32667963381317],[-6.65893621759733,52.32688399417418]]],"type":"Polygon"}
+}

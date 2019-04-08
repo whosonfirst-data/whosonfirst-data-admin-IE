@@ -1,0 +1,72 @@
+{
+  "id": 1327171303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.52583,54.84417,-7.52583,54.84417",
+    "geom:latitude":54.84417,
+    "geom:longitude":-7.52583,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Ballindrait",
+    "gn:country_code":"IE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966738,
+    "gn:latitude":54.84417,
+    "gn:longitude":-7.52583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballindrait",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballindrait"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Droichid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966738
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"14dac543343bb08dafe281bc8a431b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327171303,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1327171303,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Ballindrait",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.52583,
+    54.84417,
+    -7.52583,
+    54.84417
+],
+  "geometry": {"coordinates":[-7.52583,54.84417],"type":"Point"}
+}

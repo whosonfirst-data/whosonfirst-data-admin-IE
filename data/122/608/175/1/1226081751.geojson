@@ -1,0 +1,66 @@
+{
+  "id": 1226081751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93972,52.45028,-6.93972,52.45028",
+    "geom:latitude":52.45028,
+    "geom:longitude":-6.93972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Tinnascolly",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302280,
+    "gn:latitude":52.45028,
+    "gn:longitude":-6.93972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tinnascolly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302280
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a33b2a90278094fcef10203f3528a93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226081751,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1226081751,
+    "wof:lastmodified":1536673137,
+    "wof:name":"Tinnascolly",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93972,
+    52.45028000000001,
+    -6.93972,
+    52.45028000000001
+],
+  "geometry": {"coordinates":[-6.93972,52.45028000000001],"type":"Point"}
+}

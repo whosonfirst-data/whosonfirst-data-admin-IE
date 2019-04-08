@@ -1,0 +1,72 @@
+{
+  "id": 1209243871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.08139,52.97194,-9.08139,52.97194",
+    "geom:latitude":52.97194,
+    "geom:longitude":-9.08139,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Killinaboy",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963329,
+    "gn:latitude":52.97194,
+    "gn:longitude":-9.08139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Killinaboy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Killinaboy"
+    ],
+    "name:gle_x_preferred":[
+        "Cill In\u00edne Baoith"
+    ],
+    "name:und_x_variant":[
+        "Kilnaboy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963329,
+        "wk:page":"Kilnaboy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"55deac1b6e9847f8ef579374a624fc57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209243871
+        }
+    ],
+    "wof:id":1209243871,
+    "wof:lastmodified":1537636734,
+    "wof:name":"Killinaboy",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.08139,
+    52.97194,
+    -9.08139,
+    52.97194
+],
+  "geometry": {"coordinates":[-9.08139,52.97194],"type":"Point"}
+}

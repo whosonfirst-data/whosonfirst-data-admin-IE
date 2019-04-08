@@ -1,0 +1,70 @@
+{
+  "id": 1293718713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.89856,54.11139,-9.89856,54.11139",
+    "geom:latitude":54.11139,
+    "geom:longitude":-9.89856,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Gweesalia",
+    "gn:country_code":"IE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963824,
+    "gn:latitude":54.11139,
+    "gn:longitude":-9.89856,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gweesalia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Gaoth S\u00e1ile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963824,
+        "wk:page":"Gweesalia"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e951de19a3ef85fa8589287e8c6811c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293718713,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293718713,
+    "wof:lastmodified":1537636737,
+    "wof:name":"Gweesalia",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.89856,
+    54.11139,
+    -9.89856,
+    54.11139
+],
+  "geometry": {"coordinates":[-9.89856,54.11139],"type":"Point"}
+}

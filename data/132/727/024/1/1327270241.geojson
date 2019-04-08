@@ -1,0 +1,66 @@
+{
+  "id": 1327270241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57973,53.7742,-9.57973,53.7742",
+    "geom:latitude":53.7742,
+    "geom:longitude":-9.57973,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Cloonagh",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130256,
+    "gn:latitude":53.7742,
+    "gn:longitude":-9.57973,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Cloonagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130256
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6506ec5abc566b474e6e7e6efd76065d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327270241,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327270241,
+    "wof:lastmodified":1536915414,
+    "wof:name":"Cloonagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57973,
+    53.7742,
+    -9.57973,
+    53.7742
+],
+  "geometry": {"coordinates":[-9.57973,53.7742],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125888775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39389,52.61083,-9.39389,52.61083",
+    "geom:latitude":52.61083,
+    "geom:longitude":-9.39389,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.61083,
+    "lbl:longitude":-9.39389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Killimer"
+    ],
+    "name:dut_x_preferred":[
+        "Killimer"
+    ],
+    "name:eng_x_preferred":[
+        "Killimer"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963332,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Killimer",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":311,
+    "qs_pg:photos_1k":63,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":311,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1222681,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561309,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963332,
+        "gp:id":561309,
+        "qs_pg:id":1222681,
+        "wd:id":"Q1925564"
+    },
+    "wof:country":"IE",
+    "wof:created":1497295220,
+    "wof:geomhash":"548ed893ca548b7018091967a7f5893b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125888775,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125888775,
+    "wof:lastmodified":1514450549,
+    "wof:name":"Killimer",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39389,
+    52.61083,
+    -9.39389,
+    52.61083
+],
+  "geometry": {"coordinates":[-9.39389,52.61083],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125372397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.631584,52.666037,-8.631584,52.666037",
+    "geom:latitude":52.666037,
+    "geom:longitude":-8.631584,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.666037,
+    "lbl:longitude":-8.631584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dock A",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":294,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":23,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5292,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":466943,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073177,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073177,
+        "qs_pg:id":466943
+    },
+    "wof:country":"IE",
+    "wof:created":1497047496,
+    "wof:geomhash":"3fd45afe165235d614e527929347dc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125372397,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1125372397,
+    "wof:lastmodified":1530147509,
+    "wof:name":"Dock A",
+    "wof:parent_id":85684987,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.631584,
+    52.666037,
+    -8.631584,
+    52.666037
+],
+  "geometry": {"coordinates":[-8.631584,52.666037],"type":"Point"}
+}

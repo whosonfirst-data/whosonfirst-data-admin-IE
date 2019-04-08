@@ -1,0 +1,66 @@
+{
+  "id": 1293420689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27194,52.5525,-8.27194,52.5525",
+    "geom:latitude":52.5525,
+    "geom:longitude":-8.27194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Ballyvalode",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305516,
+    "gn:latitude":52.5525,
+    "gn:longitude":-8.27194,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballyvalode",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305516
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"955a4562801e319c09eb364989b43eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293420689,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1293420689,
+    "wof:lastmodified":1536882800,
+    "wof:name":"Ballyvalode",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27194,
+    52.5525,
+    -8.27194,
+    52.5525
+],
+  "geometry": {"coordinates":[-8.27194,52.5525],"type":"Point"}
+}

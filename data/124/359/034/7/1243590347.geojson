@@ -1,0 +1,72 @@
+{
+  "id": 1243590347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.63972,52.69083,-6.63972,52.69083",
+    "geom:latitude":52.69083,
+    "geom:longitude":-6.63972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Watch House Village",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960995,
+    "gn:latitude":52.69083,
+    "gn:longitude":-6.63972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Watch House Village",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Watch House",
+        "Watch House Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960995,
+        "wk:page":"Watch_House_Village"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"751d0dab2859e9deff4b288f77aa4ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243590347,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1243590347,
+    "wof:lastmodified":1537636718,
+    "wof:name":"Watch House Village",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.63972,
+    52.69083000000001,
+    -6.63972,
+    52.69083000000001
+],
+  "geometry": {"coordinates":[-6.63972,52.69083000000001],"type":"Point"}
+}

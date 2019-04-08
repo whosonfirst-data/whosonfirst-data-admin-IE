@@ -1,0 +1,66 @@
+{
+  "id": 1360021845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91961,54.11881,-9.91961,54.11881",
+    "geom:latitude":54.11881,
+    "geom:longitude":-9.91961,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Gubavilla",
+    "gn:country_code":"IE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9804847,
+    "gn:latitude":54.11881,
+    "gn:longitude":-9.91961,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Gubavilla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9804847
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"587bab19a235d151cf2768cf60c238af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360021845,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1360021845,
+    "wof:lastmodified":1537035251,
+    "wof:name":"Gubavilla",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91961,
+    54.11881,
+    -9.91961,
+    54.11881
+],
+  "geometry": {"coordinates":[-9.91961,54.11881],"type":"Point"}
+}

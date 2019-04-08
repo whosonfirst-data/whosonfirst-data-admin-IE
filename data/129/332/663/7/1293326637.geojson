@@ -1,0 +1,73 @@
+{
+  "id": 1293326637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93917,53.92778,-9.93917,53.92778",
+    "geom:latitude":53.92778,
+    "geom:longitude":-9.93917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Achill Sound",
+    "gn:country_code":"IE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315642,
+    "gn:latitude":53.92778,
+    "gn:longitude":-9.93917,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Achill Sound",
+    "gn:population":275,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Gob an Choire"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315642,
+        "wk:page":"Achill_Sound"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c977b37b0db9b70bd042bdcec6a8e77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293326637,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293326637,
+    "wof:lastmodified":1537636785,
+    "wof:name":"Achill Sound",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":275,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93917,
+    53.92778000000001,
+    -9.93917,
+    53.92778000000001
+],
+  "geometry": {"coordinates":[-9.93917,53.92778000000001],"type":"Point"}
+}

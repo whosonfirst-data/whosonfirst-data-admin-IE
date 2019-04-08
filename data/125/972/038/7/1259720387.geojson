@@ -1,0 +1,66 @@
+{
+  "id": 1259720387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75028,53.95889,-8.75028,53.95889",
+    "geom:latitude":53.95889,
+    "geom:longitude":-8.75028,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Cloonmeen West",
+    "gn:country_code":"IE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310765,
+    "gn:latitude":53.95889,
+    "gn:longitude":-8.75028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cloonmeen West",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310765
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3dea5008864f7ca5f7da465c4346a4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259720387,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1259720387,
+    "wof:lastmodified":1537013094,
+    "wof:name":"Cloonmeen West",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75028,
+    53.95889,
+    -8.75028,
+    53.95889
+],
+  "geometry": {"coordinates":[-8.75028,53.95889],"type":"Point"}
+}

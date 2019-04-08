@@ -1,0 +1,66 @@
+{
+  "id": 1310637441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65778,52.94444,-8.65778,52.94444",
+    "geom:latitude":52.94444,
+    "geom:longitude":-8.65778,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Glenbonniv",
+    "gn:country_code":"IE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311850,
+    "gn:latitude":52.94444,
+    "gn:longitude":-8.65778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glenbonniv",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311850
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9718889ac2ebaf02fd84a1e2eef04f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310637441,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1310637441,
+    "wof:lastmodified":1536726886,
+    "wof:name":"Glenbonniv",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65778,
+    52.94444,
+    -8.65778,
+    52.94444
+],
+  "geometry": {"coordinates":[-8.65778,52.94444],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1360021309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01694,52.59694,-7.01694,52.59694",
+    "geom:latitude":52.59694,
+    "geom:longitude":-7.01694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"The Grove",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302379,
+    "gn:latitude":52.59694,
+    "gn:longitude":-7.01694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"The Grove",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302379
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"64eb73267a621cad740cd092a958910a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360021309,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1360021309,
+    "wof:lastmodified":1537036037,
+    "wof:name":"The Grove",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01694,
+    52.59694,
+    -7.01694,
+    52.59694
+],
+  "geometry": {"coordinates":[-7.01694,52.59694],"type":"Point"}
+}

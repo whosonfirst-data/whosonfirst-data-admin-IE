@@ -1,0 +1,62 @@
+{
+  "id": 1243400327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56389,51.63472,-8.56389,51.63472",
+    "geom:latitude":51.63472,
+    "geom:longitude":-8.56389,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Lispatrick",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962885,
+    "gn:latitude":51.63472,
+    "gn:longitude":-8.56389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lispatrick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962885
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6c484460c41a9a9aacbf6a34f61dfec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243400327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243400327,
+    "wof:lastmodified":1536870946,
+    "wof:name":"Lispatrick",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56389,
+    51.63472,
+    -8.56389,
+    51.63472
+],
+  "geometry": {"coordinates":[-8.56389,51.63472],"type":"Point"}
+}

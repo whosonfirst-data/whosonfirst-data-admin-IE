@@ -1,0 +1,66 @@
+{
+  "id": 1242907705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82611,52.71111,-6.82611,52.71111",
+    "geom:latitude":52.71111,
+    "geom:longitude":-6.82611,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Ullard Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303098,
+    "gn:latitude":52.71111,
+    "gn:longitude":-6.82611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ullard Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303098
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e09e92d8e3e152dad6792219d232d518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242907705,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1242907705,
+    "wof:lastmodified":1537082090,
+    "wof:name":"Ullard Bridge",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82611,
+    52.71111,
+    -6.82611,
+    52.71111
+],
+  "geometry": {"coordinates":[-6.82611,52.71111],"type":"Point"}
+}

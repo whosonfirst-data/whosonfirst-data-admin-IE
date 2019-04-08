@@ -1,0 +1,74 @@
+{
+  "id": 1343592483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86617,53.43786,-8.86617,53.43786",
+    "geom:latitude":53.43786,
+    "geom:longitude":-8.86617,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Corrofin",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965110,
+    "gn:latitude":53.43786,
+    "gn:longitude":-8.86617,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Corrofin",
+    "gn:population":549,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Correfin",
+        "Corrofin",
+        "Corofin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965110
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2a77801968f6761af8fdf80b5f351b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343592483,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343592483,
+    "wof:lastmodified":1537636746,
+    "wof:name":"Corrofin",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":549,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86617,
+    53.43786,
+    -8.86617,
+    53.43786
+],
+  "geometry": {"coordinates":[-8.86617,53.43786],"type":"Point"}
+}

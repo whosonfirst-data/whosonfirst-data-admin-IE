@@ -1,0 +1,67 @@
+{
+  "id": 1344090611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63444,51.71278,-8.63444,51.71278",
+    "geom:latitude":51.71278,
+    "geom:longitude":-8.63444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballinadee",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966774,
+    "gn:latitude":51.71278,
+    "gn:longitude":-8.63444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballinadee",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966774,
+        "wk:page":"Ballinadee"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c8fe434cd23b68cb9cc0fabb6a964b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344090611,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1344090611,
+    "wof:lastmodified":1537564851,
+    "wof:name":"Ballinadee",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63444,
+    51.71278,
+    -8.63444,
+    51.71278
+],
+  "geometry": {"coordinates":[-8.63444,51.71278],"type":"Point"}
+}

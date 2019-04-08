@@ -1,0 +1,110 @@
+{
+  "id": 101845617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000132,
+    "geom:area_square_m":996136.972615,
+    "geom:bbox":"-7.3402801304,52.3439305484,-7.31856674989,52.3606783005",
+    "geom:latitude":52.352234,
+    "geom:longitude":-7.330017,
+    "gn:population":1187,
+    "iso:country":"IE",
+    "lbl:latitude":52.353496,
+    "lbl:longitude":-7.330017,
+    "mps:latitude":52.353496,
+    "mps:longitude":-7.330017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Piltown"
+    ],
+    "name:dut_x_preferred":[
+        "Piltown"
+    ],
+    "name:eng_x_preferred":[
+        "Pilltown"
+    ],
+    "name:eng_x_variant":[
+        "Piltown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Phoill"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043b\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Piltown"
+    ],
+    "name:unk_x_variant":[
+        "Pilltown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kilkenny",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Pilltown",
+    "qs:la_lc":"*IE2402097083",
+    "qs:level":"locality",
+    "qs:loc":"Piltown",
+    "qs:loc_alt":"Piltown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":501,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d4ee4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962045,
+        "gp:id":561956,
+        "qs:id":1336490,
+        "qs_pg:id":1336490,
+        "wd:id":"Q3777986",
+        "wk:page":"Piltown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"62b7dae47a39e0af3b1cfa4801e49d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101845617,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":101845617,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642311,
+    "wof:name":"Piltown",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":1187,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3402801304016,
+    52.34393054836653,
+    -7.31856674988728,
+    52.3606783004916
+],
+  "geometry": {"coordinates":[[[-7.33126215137202,52.3606783004916],[-7.33056507665054,52.35893983496021],[-7.32913270918908,52.35915232957467],[-7.32704204371163,52.35393686816701],[-7.32560981969402,52.35414931684915],[-7.32247518744327,52.34632598023416],[-7.32104318482067,52.34653836863151],[-7.32069500215556,52.34566909671111],[-7.31926301296426,52.34588146313922],[-7.31856674988728,52.34414290522045],[-7.31999868709875,52.34393054836653],[-7.32034683624875,52.34479982328952],[-7.32607456346034,52.34395020491741],[-7.3278160803942,52.34829646124149],[-7.33068012850998,52.34787150107843],[-7.33207385179526,52.35134844076964],[-7.33493805756541,52.35092337355121],[-7.33528658230489,52.35179259513285],[-7.33958287463452,52.35115485106161],[-7.3402801304016,52.35289326095625],[-7.3388479935499,52.35310586908201],[-7.33954526445882,52.35484428254659],[-7.33811306304005,52.35505688307666],[-7.33846169767304,52.35592609234652],[-7.33416493995566,52.35656380521289],[-7.33521071055782,52.35917146713962],[-7.33234598651126,52.35959655188407],[-7.33269455826871,52.36046577910565],[-7.33126215137202,52.3606783004916]]],"type":"Polygon"}
+}

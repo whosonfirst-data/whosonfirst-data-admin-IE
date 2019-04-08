@@ -1,0 +1,72 @@
+{
+  "id": 1276586453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90954,54.2601,-9.90954,54.2601",
+    "geom:latitude":54.2601,
+    "geom:longitude":-9.90954,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"An Baile Glas",
+    "gn:country_code":"IE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9804842,
+    "gn:latitude":54.2601,
+    "gn:longitude":-9.90954,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"An Baile Glas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballyglass"
+    ],
+    "name:gle_x_preferred":[
+        "An Baile Glas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9804842
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"288459c688873d4f46daedc83a4cd654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276586453,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1276586453,
+    "wof:lastmodified":1537636792,
+    "wof:name":"An Baile Glas",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90954,
+    54.2601,
+    -9.90954,
+    54.2601
+],
+  "geometry": {"coordinates":[-9.90954,54.2601],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101912593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000093,
+    "geom:area_square_m":687197.281065,
+    "geom:bbox":"-9.61339670319,53.2567175441,-9.59314408751,53.2684886953",
+    "geom:latitude":53.262671,
+    "geom:longitude":-9.604241,
+    "iso:country":"IE",
+    "lbl:latitude":53.262767,
+    "lbl:longitude":-9.605239,
+    "mps:latitude":53.262767,
+    "mps:longitude":-9.605239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:bre_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:cat_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:dut_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:eng_x_preferred":[
+        "Carraroe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10e0\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:gle_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:hun_x_preferred":[
+        "An Cheathr\u00fa Rua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30e9\u30ed\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0430\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Carraroe"
+    ],
+    "name:unk_x_variant":[
+        "Carrowroe"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Galway",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Crumpaun",
+    "qs:la_lc":"*IE1302067074",
+    "qs:level":"locality",
+    "qs:loc":"Carraroe South",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965746,
+        "gp:id":29387430,
+        "qs:id":1065926,
+        "wd:id":"Q482400"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"81e7d5351e3af38a8165676161a26cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101912593,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":101912593,
+    "wof:lastmodified":1514450435,
+    "wof:name":"Carraroe South",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61339670318796,
+    53.25671754409427,
+    -9.59314408751476,
+    53.26848869534479
+],
+  "geometry": {"coordinates":[[[-9.60155050810266,53.26848869534479],[-9.59952394132966,53.26418548107688],[-9.59807256448624,53.26442601878057],[-9.5968569404879,53.26184405089236],[-9.59540562751499,53.26208455468344],[-9.5950004853056,53.26122388940166],[-9.59354918370911,53.26146437034561],[-9.59314408751476,53.26060369763957],[-9.59604662334544,53.26012272949919],[-9.5964517720318,53.26098339114247],[-9.59790304388736,53.26074287556844],[-9.5983082385888,53.26160352978656],[-9.60266204365166,53.26088186257914],[-9.60225677022015,53.26002122495879],[-9.60370798258396,53.25978064012742],[-9.60249220220862,53.2571987324979],[-9.60539442488636,53.25671754409427],[-9.60661036268669,53.25929941852445],[-9.61096382126652,53.2585774562732],[-9.61136925212901,53.25943806068869],[-9.60846690881391,53.25991939723849],[-9.60968316266383,53.26250123231949],[-9.61258566340996,53.26201986255819],[-9.61339670318796,53.26374105432188],[-9.60904277229696,53.26446311620754],[-9.6094482431381,53.26532372585297],[-9.60654549563736,53.26580502493977],[-9.60695093377126,53.26666564376023],[-9.602596622156,53.26738747912543],[-9.60300200132355,53.26824811265573],[-9.60155050810266,53.26848869534479]]],"type":"Polygon"}
+}

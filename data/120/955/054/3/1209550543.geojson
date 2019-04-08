@@ -1,0 +1,62 @@
+{
+  "id": 1209550543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.61611,52.56944,-9.61611,52.56944",
+    "geom:latitude":52.56944,
+    "geom:longitude":-9.61611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Beal",
+    "gn:country_code":"IE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966285,
+    "gn:latitude":52.56944,
+    "gn:longitude":-9.61611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Beal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966285
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"67505e959e37de3bf6b16655f4e7f634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209550543
+        }
+    ],
+    "wof:id":1209550543,
+    "wof:lastmodified":1536283709,
+    "wof:name":"Beal",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.61611,
+    52.56944,
+    -9.61611,
+    52.56944
+],
+  "geometry": {"coordinates":[-9.61611,52.56944],"type":"Point"}
+}

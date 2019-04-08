@@ -1,0 +1,76 @@
+{
+  "id": 1310441189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.58611,52.17194,-6.58611,52.17194",
+    "geom:latitude":52.17194,
+    "geom:longitude":-6.58611,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Kilmore Quay",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963252,
+    "gn:latitude":52.17194,
+    "gn:longitude":-6.58611,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Kilmore Quay",
+    "gn:population":400,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilmore Quay"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00e9 na Cille M\u00f3ire"
+    ],
+    "name:und_x_variant":[
+        "Crossfarnogue",
+        "Kilmore"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963252,
+        "wk:page":"Kilmore_Quay"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fa3508ea67370f97d2213ed3b747a42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310441189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310441189,
+    "wof:lastmodified":1537636733,
+    "wof:name":"Kilmore Quay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.58611,
+    52.17194,
+    -6.58611,
+    52.17194
+],
+  "geometry": {"coordinates":[-6.58611,52.17194],"type":"Point"}
+}

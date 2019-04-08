@@ -1,0 +1,66 @@
+{
+  "id": 1343495685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4575,51.93556,-9.4575,51.93556",
+    "geom:latitude":51.93556,
+    "geom:longitude":-9.4575,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Mangerton",
+    "gn:country_code":"IE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290401,
+    "gn:latitude":51.93556,
+    "gn:longitude":-9.4575,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mangerton",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290401
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7e9fc0d04d4507b2323f24bf0d6bfe19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343495685,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1343495685,
+    "wof:lastmodified":1536695538,
+    "wof:name":"Mangerton",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4575,
+    51.93556,
+    -9.4575,
+    51.93556
+],
+  "geometry": {"coordinates":[-9.4575,51.93556],"type":"Point"}
+}

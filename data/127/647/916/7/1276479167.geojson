@@ -1,0 +1,66 @@
+{
+  "id": 1276479167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98714,53.55362,-6.98714,53.55362",
+    "geom:latitude":53.55362,
+    "geom:longitude":-6.98714,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Carranstown Great",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866669,
+    "gn:latitude":53.55362,
+    "gn:longitude":-6.98714,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Carranstown Great",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866669
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c85b4384a8be668f20b66f1a88bb529f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276479167,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1276479167,
+    "wof:lastmodified":1537077462,
+    "wof:name":"Carranstown Great",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98714,
+    53.55362,
+    -6.98714,
+    53.55362
+],
+  "geometry": {"coordinates":[-6.98714,53.55362],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343397719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09694,51.76056,-9.09694,51.76056",
+    "geom:latitude":51.76056,
+    "geom:longitude":-9.09694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ardcahan Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3296900,
+    "gn:latitude":51.76056,
+    "gn:longitude":-9.09694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardcahan Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296900
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bc804f941b37986afd57731246e2a7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343397719,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1343397719,
+    "wof:lastmodified":1536835634,
+    "wof:name":"Ardcahan Bridge",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09694,
+    51.76056,
+    -9.09694,
+    51.76056
+],
+  "geometry": {"coordinates":[-9.09694,51.76056],"type":"Point"}
+}

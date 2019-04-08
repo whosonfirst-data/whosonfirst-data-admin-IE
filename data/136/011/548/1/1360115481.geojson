@@ -1,0 +1,66 @@
+{
+  "id": 1360115481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96056,53.12056,-8.96056,53.12056",
+    "geom:latitude":53.12056,
+    "geom:longitude":-8.96056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Moy",
+    "gn:country_code":"IE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962449,
+    "gn:latitude":53.12056,
+    "gn:longitude":-8.96056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Moy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962449
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7e15fc13fd676b453fc0f9914a1e3b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360115481,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1360115481,
+    "wof:lastmodified":1536901970,
+    "wof:name":"Moy",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96056,
+    53.12056,
+    -8.96056,
+    53.12056
+],
+  "geometry": {"coordinates":[-8.96056,53.12056],"type":"Point"}
+}

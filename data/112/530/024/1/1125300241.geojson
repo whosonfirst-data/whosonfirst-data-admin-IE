@@ -1,0 +1,102 @@
+{
+  "id": 1125300241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5325,53.17,-6.5325,53.17",
+    "geom:latitude":53.17,
+    "geom:longitude":-6.5325,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2874,
+    "gn:population":5010,
+    "iso:country":"IE",
+    "lbl:latitude":53.17,
+    "lbl:longitude":-6.5325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u0438\u043d\u0433\u0442\u044a\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Blessington"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Coim\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u0441\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966101,
+    "qs_pg:gn_pop":2874,
+    "qs_pg:name":"Blessington",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":899,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1110471,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966101,
+        "gp:id":20074492,
+        "qs_pg:id":1110471
+    },
+    "wof:country":"IE",
+    "wof:created":1497043380,
+    "wof:geomhash":"bd09d3a073e88f1a167e16633f18ea17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125300241,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1125300241,
+    "wof:lastmodified":1509387698,
+    "wof:name":"Blessington",
+    "wof:parent_id":85684999,
+    "wof:placetype":"localadmin",
+    "wof:population":5010,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5325,
+    53.17,
+    -6.5325,
+    53.17
+],
+  "geometry": {"coordinates":[-6.5325,53.17],"type":"Point"}
+}

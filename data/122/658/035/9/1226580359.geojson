@@ -1,0 +1,66 @@
+{
+  "id": 1226580359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.78806,51.81944,-8.78806,51.81944",
+    "geom:latitude":51.81944,
+    "geom:longitude":-8.78806,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Moskeagh Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294132,
+    "gn:latitude":51.81944,
+    "gn:longitude":-8.78806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Moskeagh Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294132
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"99eaedeb1cfcd9db8f22a66083364b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226580359,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226580359,
+    "wof:lastmodified":1536950323,
+    "wof:name":"Moskeagh Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78806,
+    51.81944,
+    -8.78806,
+    51.81944
+],
+  "geometry": {"coordinates":[-8.78806,51.81944],"type":"Point"}
+}

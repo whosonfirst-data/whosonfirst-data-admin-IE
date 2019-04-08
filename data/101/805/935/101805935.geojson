@@ -1,0 +1,127 @@
+{
+  "id": 101805935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":607616.063344,
+    "geom:bbox":"-6.51274719119,52.5865140556,-6.49064136993,52.5975052779",
+    "geom:latitude":52.591312,
+    "geom:longitude":-6.50113,
+    "gn:population":1362,
+    "iso:country":"IE",
+    "lbl:latitude":52.590477,
+    "lbl:longitude":-6.500962,
+    "mps:latitude":52.590477,
+    "mps:longitude":-6.500962,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ferns"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u044a\u0440\u043d\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ferns"
+    ],
+    "name:eng_x_preferred":[
+        "Ferns"
+    ],
+    "name:eng_x_variant":[
+        "Alder Trees"
+    ],
+    "name:fre_x_preferred":[
+        "Ferns"
+    ],
+    "name:ger_x_preferred":[
+        "Ferns"
+    ],
+    "name:gle_x_preferred":[
+        "Fearna"
+    ],
+    "name:ita_x_preferred":[
+        "Ferns"
+    ],
+    "name:nob_x_preferred":[
+        "Ferns"
+    ],
+    "name:pol_x_preferred":[
+        "Ferns"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ferns"
+    ],
+    "name:swe_x_preferred":[
+        "Ferns"
+    ],
+    "name:unk_x_variant":[
+        "Alder Trees"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wexford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilbora",
+    "qs:la_lc":"*IE2406247059",
+    "qs:level":"locality",
+    "qs:loc":"Ferns",
+    "qs:loc_alt":"Ferns",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11803f0a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964318,
+        "gp:id":20074399,
+        "qs:id":906992,
+        "wd:id":"Q2096277",
+        "wk:page":"Ferns, County Wexford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"edc3da6eddd06494c7b1ea4b5153da20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805935,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":101805935,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514450502,
+    "wof:name":"Ferns",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":1362,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.51274719118754,
+    52.58651405560897,
+    -6.49064136992934,
+    52.59750527792511
+],
+  "geometry": {"coordinates":[[[-6.50653558532542,52.59750527792511],[-6.50519669581337,52.59401770913524],[-6.50375352642817,52.59422035944135],[-6.50308423257934,52.59247655759003],[-6.4958684696046,52.59348950236785],[-6.49519950760544,52.59174564889361],[-6.49375637181265,52.59194817650217],[-6.49241874947501,52.58846043467275],[-6.49097570823193,52.58866292645968],[-6.49064136992934,52.58779098296856],[-6.49208438449114,52.58758849579306],[-6.4917500357451,52.58671655554434],[-6.49319301144573,52.58651405560897],[-6.49352738687094,52.58738599124592],[-6.4949703770676,52.58718346932721],[-6.49530479541113,52.58805539898299],[-6.49674780010275,52.58785285508043],[-6.49708226136744,52.58872477875411],[-6.50141128235907,52.58811702897901],[-6.50107674106073,52.58724511914579],[-6.50396264076022,52.58683987500228],[-6.50463184630939,52.58858367484072],[-6.50318884920239,52.5887863148269],[-6.50486201407824,52.59314581351072],[-6.51207754464082,52.59213232447155],[-6.51274719118754,52.59387606818132],[-6.50841774935424,52.59448424142499],[-6.50942210099191,52.59709988825978],[-6.50653558532542,52.59750527792511]]],"type":"Polygon"}
+}

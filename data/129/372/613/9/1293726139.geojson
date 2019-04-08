@@ -1,0 +1,72 @@
+{
+  "id": 1293726139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.01583,53.57889,-10.01583,53.57889",
+    "geom:latitude":53.57889,
+    "geom:longitude":-10.01583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Letter More",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315580,
+    "gn:latitude":53.57889,
+    "gn:longitude":-10.01583,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Letter More",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Letter More"
+    ],
+    "name:gle_x_preferred":[
+        "Leitir M\u00f3ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315580
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"859e1c586196bd84db7b0dab82dfc09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293726139,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293726139,
+    "wof:lastmodified":1537636785,
+    "wof:name":"Letter More",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.01583,
+    53.57889,
+    -10.01583,
+    53.57889
+],
+  "geometry": {"coordinates":[-10.01583,53.57889],"type":"Point"}
+}

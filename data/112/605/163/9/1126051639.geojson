@@ -1,0 +1,80 @@
+{
+  "id": 1126051639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.195543,52.862005,-8.195543,52.862005",
+    "geom:latitude":52.862005,
+    "geom:longitude":-8.195543,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.862005,
+    "lbl:longitude":-8.195543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"An tAonach",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":93,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060444,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559458,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":559458,
+        "qs_pg:id":1060444
+    },
+    "wof:country":"IE",
+    "wof:created":1497302792,
+    "wof:geomhash":"a5ac2eededcdb7a45094d97b18e56c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126051639,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1126051639,
+    "wof:lastmodified":1530148381,
+    "wof:name":"An tAonach",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.195543,
+    52.862005,
+    -8.195543,
+    52.862005
+],
+  "geometry": {"coordinates":[-8.195543,52.862005],"type":"Point"}
+}

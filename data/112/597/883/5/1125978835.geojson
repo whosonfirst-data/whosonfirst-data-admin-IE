@@ -1,0 +1,89 @@
+{
+  "id": 1125978835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.24917,52.98111,-8.24917,52.98111",
+    "geom:latitude":52.98111,
+    "geom:longitude":-8.24917,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.98111,
+    "lbl:longitude":-8.24917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Coolbawn"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965212,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Coolbaun",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":179,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":179,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235609,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560435,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965212,
+        "gp:id":560435,
+        "qs_pg:id":235609
+    },
+    "wof:country":"IE",
+    "wof:created":1497298463,
+    "wof:geomhash":"a74cae762da7c26a653063dbdbb2aba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125978835,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1125978835,
+    "wof:lastmodified":1530148399,
+    "wof:name":"Coolbaun",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.24917,
+    52.98111,
+    -8.24917,
+    52.98111
+],
+  "geometry": {"coordinates":[-8.24917,52.98111],"type":"Point"}
+}

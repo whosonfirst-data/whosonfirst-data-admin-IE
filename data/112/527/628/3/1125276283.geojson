@@ -1,0 +1,80 @@
+{
+  "id": 1125276283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.903407,55.000462,-7.903407,55.000462",
+    "geom:latitude":55.000462,
+    "geom:longitude":-7.903407,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":55.000462,
+    "lbl:longitude":-7.903407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Templedouglas",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":157,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":255,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062300,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072000,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072000,
+        "qs_pg:id":1062300
+    },
+    "wof:country":"IE",
+    "wof:created":1497042329,
+    "wof:geomhash":"ac95d95c8b1bb93679d6486555095a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125276283,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125276283,
+    "wof:lastmodified":1509387159,
+    "wof:name":"Templedouglas",
+    "wof:parent_id":85685151,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.903407,
+    55.000462,
+    -7.903407,
+    55.000462
+],
+  "geometry": {"coordinates":[-7.903407,55.000462],"type":"Point"}
+}

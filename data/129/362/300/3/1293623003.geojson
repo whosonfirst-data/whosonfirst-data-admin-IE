@@ -1,0 +1,66 @@
+{
+  "id": 1293623003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42361,52.19667,-9.42361,52.19667",
+    "geom:latitude":52.19667,
+    "geom:longitude":-9.42361,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Gortglass",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291002,
+    "gn:latitude":52.19667,
+    "gn:longitude":-9.42361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortglass",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291002
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6a6bdf2db468d66f98fd19a9aba744f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293623003,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293623003,
+    "wof:lastmodified":1537085716,
+    "wof:name":"Gortglass",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42361,
+    52.19667000000001,
+    -9.42361,
+    52.19667000000001
+],
+  "geometry": {"coordinates":[-9.42361,52.19667000000001],"type":"Point"}
+}

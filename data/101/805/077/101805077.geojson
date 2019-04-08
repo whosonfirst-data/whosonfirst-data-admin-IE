@@ -1,0 +1,104 @@
+{
+  "id": 101805077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":288724.08562,
+    "geom:bbox":"-7.68783266862,54.7902307552,-7.67225757934,54.7995528841",
+    "geom:latitude":54.794979,
+    "geom:longitude":-7.680421,
+    "gn:population":608,
+    "iso:country":"IE",
+    "lbl:latitude":54.795513,
+    "lbl:longitude":-7.682486,
+    "mps:latitude":54.795513,
+    "mps:longitude":-7.682486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Killygordon"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0439\u0433\u043e\u0440\u0434\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Killygordon"
+    ],
+    "name:eng_x_preferred":[
+        "Killygordon"
+    ],
+    "name:eus_x_preferred":[
+        "Killygordon"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00fail na gCuirrid\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Killygordon"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Gleneely",
+    "qs:la_lc":"*IE1102057074",
+    "qs:level":"locality",
+    "qs:loc":"Killygordan",
+    "qs:loc_alt":"Killygordan",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":539,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c8e00-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963292,
+        "gp:id":20071961,
+        "qs:id":1001469,
+        "wd:id":"Q6407922",
+        "wk:page":"Killygordon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ada486fe65b8fd557bed8b678902acfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805077,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805077,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642958,
+    "wof:name":"Killygordan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":608,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68783266862238,
+    54.79023075524094,
+    -7.67225757933733,
+    54.79955288411657
+],
+  "geometry": {"coordinates":[[[-7.68216529551097,54.79846713423615],[-7.68100842971961,54.79586521035537],[-7.67949519792569,54.79608363413007],[-7.6791096450844,54.7952163177531],[-7.67759642797864,54.79543471795699],[-7.67721092448716,54.79456739471675],[-7.67569772207077,54.79478577135069],[-7.67415602384648,54.79131644163226],[-7.6726429249706,54.79153477876781],[-7.67225757933733,54.790667437151],[-7.67528370294013,54.79023075524094],[-7.67566910779976,54.79109808623912],[-7.67718217682943,54.79087971258872],[-7.67872411197516,54.79434899982402],[-7.68326358486144,54.79369370559607],[-7.68403484850904,54.7954283080291],[-7.68554803550307,54.79520982947849],[-7.68593372654794,54.79607712305233],[-7.68744692822133,54.79585862092983],[-7.68783266862238,54.79672590763664],[-7.68631943733277,54.79694441507314],[-7.68670516785909,54.79781170554048],[-7.68367860123061,54.79824867626388],[-7.68406429225934,54.79911597580576],[-7.68103760663934,54.79955288411657],[-7.68065197485566,54.79868557394832],[-7.68216529551097,54.79846713423615]]],"type":"Polygon"}
+}

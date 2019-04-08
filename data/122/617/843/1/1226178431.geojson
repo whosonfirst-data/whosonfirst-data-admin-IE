@@ -1,0 +1,71 @@
+{
+  "id": 1226178431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49972,54.22139,-8.49972,54.22139",
+    "geom:latitude":54.22139,
+    "geom:longitude":-8.49972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Belladrihid",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311166,
+    "gn:latitude":54.22139,
+    "gn:longitude":-8.49972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Belladrihid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballydrenid",
+        "Belladrihid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311166
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"65c25de9e2f3249d9436d4914bc94478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226178431,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1226178431,
+    "wof:lastmodified":1537636777,
+    "wof:name":"Belladrihid",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49972,
+    54.22139,
+    -8.49972,
+    54.22139
+],
+  "geometry": {"coordinates":[-8.49972,54.22139],"type":"Point"}
+}

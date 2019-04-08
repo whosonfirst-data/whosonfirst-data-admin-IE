@@ -1,0 +1,173 @@
+{
+  "id": 101805861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":786991.573029,
+    "geom:bbox":"-7.94137505665,52.1310524025,-7.92216180727,52.1418985789",
+    "geom:latitude":52.136921,
+    "geom:longitude":-7.930345,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.137543,
+    "lbl:longitude":-7.930199,
+    "mps:latitude":52.137543,
+    "mps:longitude":-7.930199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u057d\u0574\u0578\u0580"
+    ],
+    "name:baq_x_preferred":[
+        "Lismore"
+    ],
+    "name:cat_x_preferred":[
+        "Lismore"
+    ],
+    "name:deu_x_preferred":[
+        "Lismore"
+    ],
+    "name:dut_x_preferred":[
+        "Lismore"
+    ],
+    "name:eng_x_preferred":[
+        "Lismore"
+    ],
+    "name:eus_x_preferred":[
+        "Lismore"
+    ],
+    "name:fra_x_preferred":[
+        "Lismore"
+    ],
+    "name:fre_x_preferred":[
+        "Lismore"
+    ],
+    "name:ger_x_preferred":[
+        "Lismore"
+    ],
+    "name:gla_x_preferred":[
+        "Lios M\u00f3r"
+    ],
+    "name:gle_x_preferred":[
+        "Lios M\u00f3r"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03af\u03c3\u03bc\u03bf\u03c1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e1\u05de\u05d5\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Lismore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30ba\u30e2\u30a2"
+    ],
+    "name:lit_x_preferred":[
+        "Lismor\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Lismore"
+    ],
+    "name:pol_x_preferred":[
+        "Lismore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043c\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Lios M\u00f3r"
+    ],
+    "name:slv_x_preferred":[
+        "Lismore"
+    ],
+    "name:swe_x_preferred":[
+        "Lismore"
+    ],
+    "name:wel_x_preferred":[
+        "Lios M\u00f3r"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Waterford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ballyin",
+    "qs:la_lc":"*IE2405227008",
+    "qs:level":"locality",
+    "qs:loc":"Lismore",
+    "qs:loc_alt":"Lismore",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962898,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lismore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":599,
+    "qs_pg:photos_1k":121,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":599,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080461,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561563,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1428,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962898,
+        "gp:id":561563,
+        "qs:id":1080461,
+        "qs_pg:id":1080461,
+        "wd:id":"Q1828038",
+        "wk:page":"Lismore, County Waterford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1a6e0840bac917709fcfdaa14d0ebff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805861,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":101805861,
+    "wof:lastmodified":1534379340,
+    "wof:name":"Lismore",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125791301
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.94137505665452,
+    52.13105240248206,
+    -7.92216180726712,
+    52.14189857887214
+],
+  "geometry": {"coordinates":[[[-7.93035823315199,52.14189857887214],[-7.93000036217927,52.14103133362158],[-7.92573115725804,52.14169005943484],[-7.92537337973022,52.14082279785725],[-7.92395031126995,52.14104233415947],[-7.92216180726712,52.13670597773],[-7.92358474849038,52.13648646596391],[-7.92322707351389,52.13561919478423],[-7.92749574407782,52.13496057203554],[-7.92606490976101,52.13149153019452],[-7.92891042265086,52.13105240248206],[-7.92962590737841,52.13278690697547],[-7.93104869550137,52.13256730776487],[-7.93176429946675,52.13430179603733],[-7.93603273966028,52.13364286679621],[-7.93639064359445,52.13451009380287],[-7.94065904487502,52.1338509965953],[-7.94137505665452,52.1355854163391],[-7.93852936686278,52.13602485114603],[-7.93888734753364,52.13689206843515],[-7.93461864049107,52.13755110767272],[-7.9349765619441,52.13841833809016],[-7.93355360854565,52.13863798868994],[-7.93426945186809,52.14037245453835],[-7.93284643477659,52.14059209792913],[-7.9332043566443,52.1414593333605],[-7.93035823315199,52.14189857887214]]],"type":"Polygon"}
+}

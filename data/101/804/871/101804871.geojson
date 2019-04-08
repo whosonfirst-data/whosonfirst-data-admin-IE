@@ -1,0 +1,134 @@
+{
+  "id": 101804871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":826544.247507,
+    "geom:bbox":"-7.16772381511,53.7617886869,-7.14888624369,53.7760975701",
+    "geom:latitude":53.769164,
+    "geom:longitude":-7.160317,
+    "gn:population":1384,
+    "iso:country":"IE",
+    "lbl:latitude":53.769894,
+    "lbl:longitude":-7.159675,
+    "mps:latitude":53.769894,
+    "mps:longitude":-7.159675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0443\u043b\u0434\u043a\u0430\u0441\u044a\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:cze_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:dut_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:eng_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:eng_x_variant":[
+        "Olcastle"
+    ],
+    "name:fre_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:ger_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:gle_x_preferred":[
+        "An Seanchaisle\u00e1n"
+    ],
+    "name:glv_x_preferred":[
+        "An Seanchaisle\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:pol_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0434\u043a\u0430\u0441\u043b"
+    ],
+    "name:slo_x_preferred":[
+        "Oldcastle"
+    ],
+    "name:swe_x_preferred":[
+        "Oldcastle"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Oldcastle",
+    "qs:la_lc":"*IE2202167070",
+    "qs:level":"locality",
+    "qs:loc":"Oldcastle",
+    "qs:loc_alt":"Oldcastle",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ddd50-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962179,
+        "gp:id":561908,
+        "qs:id":1336474,
+        "qs_pg:id":1336474,
+        "wd:id":"Q269623",
+        "wk:page":"Oldcastle, County Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ccf4c97931fa4d7af708cc3fd84523ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804871,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804871,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Oldcastle",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":1384,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16772381510827,
+    53.76178868692074,
+    -7.14888624369473,
+    53.77609757010856
+],
+  "geometry": {"coordinates":[[[-7.1613788580936,53.77609757010856],[-7.16029381817168,53.773489478496],[-7.15585506419291,53.77412356385838],[-7.15549350490062,53.77325418210546],[-7.15697307497624,53.77304284313493],[-7.15552690553631,53.76956532141782],[-7.15108849276805,53.77019922503519],[-7.15072708008472,53.76932982599925],[-7.14924761015061,53.76954108655957],[-7.14888624369473,53.76867168107918],[-7.15184511359121,53.76824915208977],[-7.1514837088028,53.76737975510906],[-7.15296309516998,53.76716846884926],[-7.15260168023809,53.76629907538683],[-7.15556035581511,53.76587645933961],[-7.15592182710964,53.76674584283796],[-7.16183912778342,53.76590037685662],[-7.1611159778148,53.76416164826014],[-7.16259521262651,53.76395024715941],[-7.16223363653762,53.76308088564724],[-7.16371282957448,53.7628694717024],[-7.16335124335973,53.76200011370895],[-7.1648303946244,53.76178868692074],[-7.16772381510827,53.76874346995783],[-7.1662444384491,53.76895493662511],[-7.16660616907069,53.76982428289443],[-7.16364731856311,53.77024717270984],[-7.16545596069739,53.77459393193158],[-7.16397637409841,53.77480537502163],[-7.16433812851182,53.77567472745591],[-7.1613788580936,53.77609757010856]]],"type":"Polygon"}
+}

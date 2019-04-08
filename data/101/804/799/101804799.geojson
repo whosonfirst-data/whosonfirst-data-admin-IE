@@ -1,0 +1,150 @@
+{
+  "id": 101804799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":627491.640792,
+    "geom:bbox":"-6.8471327261,52.9064384191,-6.83261166453,52.9166368318",
+    "geom:latitude":52.911771,
+    "geom:longitude":-6.838856,
+    "gn:population":1398,
+    "iso:country":"IE",
+    "lbl:latitude":52.9119,
+    "lbl:longitude":-6.838141,
+    "mps:latitude":52.9119,
+    "mps:longitude":-6.838141,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Castledermot"
+    ],
+    "name:deu_x_preferred":[
+        "Castledermot"
+    ],
+    "name:dut_x_preferred":[
+        "Castledermot"
+    ],
+    "name:eng_x_preferred":[
+        "Castledermot"
+    ],
+    "name:fra_x_preferred":[
+        "Castledermot"
+    ],
+    "name:fre_x_preferred":[
+        "Castledermot"
+    ],
+    "name:ger_x_preferred":[
+        "Castledermot"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00edseart Diarmada"
+    ],
+    "name:hun_x_preferred":[
+        "Castledermoti nagykeresztek"
+    ],
+    "name:ita_x_preferred":[
+        "Castledermot"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30c3\u30b9\u30eb\u30c0\u30fc\u30e2\u30c3\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Kasldermotas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0434\u0435\u0440\u043c\u043e\u0442"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0434\u0435\u0440\u043c\u043e\u0442"
+    ],
+    "name:nob_x_preferred":[
+        "Castledermot"
+    ],
+    "name:nor_x_preferred":[
+        "Castledermot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0434\u0435\u0440\u043c\u0430\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Castledermot"
+    ],
+    "name:slo_x_preferred":[
+        "Castledermot"
+    ],
+    "name:swe_x_preferred":[
+        "Castledermot"
+    ],
+    "name:wel_x_preferred":[
+        "Diseart Diarmad"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kildare",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Graney",
+    "qs:la_lc":"*IE2201087041",
+    "qs:level":"locality",
+    "qs:loc":"Castledermot",
+    "qs:loc_alt":"Castledermot",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":567,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d3030-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965632,
+        "gp:id":560214,
+        "qs:id":978110,
+        "qs_pg:id":978110,
+        "wd:id":"Q431523",
+        "wk:page":"Castledermot"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eecae7e1a4a2094d5f0ba534ff3157d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804799,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":101804799,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"Castledermot",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":1398,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84713272610395,
+    52.90643841908826,
+    -6.83261166453121,
+    52.91663683182708
+],
+  "geometry": {"coordinates":[[[-6.83724063015495,52.91663683182708],[-6.83689566602982,52.9157661292852],[-6.83399113621272,52.91617987479469],[-6.83261166453121,52.91269701240918],[-6.83406382770545,52.91249016740846],[-6.83302931996252,52.90987801998585],[-6.83448138943038,52.90967117176569],[-6.83413656022742,52.90880045787412],[-6.83558859001983,52.90859359692922],[-6.83524375066838,52.90772288637169],[-6.83669574078715,52.9075160127033],[-6.83635089128938,52.9066453054798],[-6.83780284173673,52.90643841908826],[-6.83849261160498,52.90817982260972],[-6.83994460339631,52.9079729092353],[-6.84028954063172,52.90884360411326],[-6.84609748911919,52.90801575683793],[-6.84713272610395,52.91062777589087],[-6.84277654068916,52.91124873036057],[-6.84312157240475,52.91211941480492],[-6.84166945824188,52.91232636942942],[-6.84304964577899,52.91580911203107],[-6.83724063015495,52.91663683182708]]],"type":"Polygon"}
+}

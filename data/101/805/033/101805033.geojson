@@ -1,0 +1,143 @@
+{
+  "id": 101805033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":477950.229218,
+    "geom:bbox":"-9.22604745611,54.2080809331,-9.21062981438,54.2159889696",
+    "geom:latitude":54.211986,
+    "geom:longitude":-9.21911,
+    "gn:population":574,
+    "iso:country":"IE",
+    "lbl:latitude":54.212496,
+    "lbl:longitude":-9.220395,
+    "mps:latitude":54.212496,
+    "mps:longitude":-9.220395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Killala"
+    ],
+    "name:bre_x_preferred":[
+        "Cill Ala"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Killala"
+    ],
+    "name:dan_x_preferred":[
+        "Killala"
+    ],
+    "name:deu_x_preferred":[
+        "Killala"
+    ],
+    "name:dut_x_preferred":[
+        "Killala"
+    ],
+    "name:eng_x_preferred":[
+        "Killala"
+    ],
+    "name:fra_x_preferred":[
+        "Killala"
+    ],
+    "name:fre_x_preferred":[
+        "Killala"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d0\u10da\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Killala"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Ala"
+    ],
+    "name:ita_x_preferred":[
+        "Killala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e9\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d0\u10da\u10d0"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0438\u043b\u0430\u043b\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Killala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Killala"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Killala",
+    "qs:la_lc":"*IE1303157097",
+    "qs:level":"locality",
+    "qs:loc":"Killala",
+    "qs:loc_alt":"Killala",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1245,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1180097c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963378,
+        "gp:id":20073463,
+        "qs:id":340899,
+        "wd:id":"Q1741335",
+        "wk:page":"Killala"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bfc846162562d2528d781605a93a3558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805033,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805033,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Killala",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":574,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22604745611136,
+    54.2080809331261,
+    -9.2106298143766,
+    54.21598896955231
+],
+  "geometry": {"coordinates":[[[-9.22174844446488,54.21598896955231],[-9.2213380082319,54.21512718836294],[-9.21688211949686,54.21583719792557],[-9.21647178744735,54.21497539805108],[-9.21795707133469,54.21473875160609],[-9.21672611486724,54.2121533578437],[-9.21375569882611,54.21262659924321],[-9.21334547684768,54.21176478642724],[-9.21186027343253,54.21200137482498],[-9.2106298143766,54.20941590854733],[-9.21211493417485,54.20917933699405],[-9.21170479436643,54.20831751685466],[-9.21318987078809,54.2080809331261],[-9.2140102266842,54.20980456034465],[-9.21995060021914,54.20885800261664],[-9.22036092045346,54.20971979101529],[-9.22333106987435,54.20924639418405],[-9.22415188345701,54.21096994301428],[-9.22563699062295,54.21073320667978],[-9.22604745611136,54.21159497272708],[-9.22456232107868,54.21183171467987],[-9.22579375728293,54.21441701867798],[-9.22430852312118,54.21465375969728],[-9.22471901510181,54.21551552964922],[-9.22174844446488,54.21598896955231]]],"type":"Polygon"}
+}

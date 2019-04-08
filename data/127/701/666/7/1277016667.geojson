@@ -1,0 +1,72 @@
+{
+  "id": 1277016667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.81472,53.88,-9.81472,53.88",
+    "geom:latitude":53.88,
+    "geom:longitude":-9.81472,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Dooghbeg",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230376,
+    "gn:latitude":53.88,
+    "gn:longitude":-9.81472,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Dooghbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dooghbeg"
+    ],
+    "name:gle_x_preferred":[
+        "An Dumhach Bheag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230376
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4542dc279c38cd271f2534c403cb9a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277016667,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1277016667,
+    "wof:lastmodified":1537636763,
+    "wof:name":"Dooghbeg",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.81472,
+    53.88,
+    -9.81472,
+    53.88
+],
+  "geometry": {"coordinates":[-9.81472,53.88],"type":"Point"}
+}

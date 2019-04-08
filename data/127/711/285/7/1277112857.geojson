@@ -1,0 +1,66 @@
+{
+  "id": 1277112857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02194,54.22472,-8.02194,54.22472",
+    "geom:latitude":54.22472,
+    "geom:longitude":-8.02194,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Tullynamoyle",
+    "gn:country_code":"IE",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311652,
+    "gn:latitude":54.22472,
+    "gn:longitude":-8.02194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tullynamoyle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311652
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fc81aeb4452bc23b290c37e1f40d6c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277112857,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1277112857,
+    "wof:lastmodified":1536724526,
+    "wof:name":"Tullynamoyle",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02194,
+    54.22472,
+    -8.02194,
+    54.22472
+],
+  "geometry": {"coordinates":[-8.02194,54.22472],"type":"Point"}
+}

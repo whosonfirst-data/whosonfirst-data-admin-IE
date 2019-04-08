@@ -1,0 +1,124 @@
+{
+  "id": 1125831325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78333,52.33333,-9.78333,52.33333",
+    "geom:latitude":52.33333,
+    "geom:longitude":-9.78333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":800,
+    "iso:country":"IE",
+    "lbl:latitude":52.33333,
+    "lbl:longitude":-9.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ardfert"
+    ],
+    "name:bre_x_preferred":[
+        "Ard Fhearta"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0434\u0444\u0435\u0440\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Ardfert"
+    ],
+    "name:eng_x_preferred":[
+        "Ardfert"
+    ],
+    "name:gle_x_preferred":[
+        "Ard Fhearta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30fc\u30c9\u30d5\u30a1\u30fc\u30c8"
+    ],
+    "name:lit_x_preferred":[
+        "Ardfertas"
+    ],
+    "name:por_x_preferred":[
+        "Ardfert"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u0444\u0435\u0440\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Ardfert"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966922,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ardfert",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":335,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":335,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1263135,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559487,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966922,
+        "gp:id":559487,
+        "qs_pg:id":1263135,
+        "wd:id":"Q2594663"
+    },
+    "wof:country":"IE",
+    "wof:created":1497292511,
+    "wof:geomhash":"b617ff4f7425013e79566bee7fb1bf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125831325,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125831325,
+    "wof:lastmodified":1514450408,
+    "wof:name":"Ardfert",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":800,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78333,
+    52.33333,
+    -9.78333,
+    52.33333
+],
+  "geometry": {"coordinates":[-9.78333,52.33333],"type":"Point"}
+}

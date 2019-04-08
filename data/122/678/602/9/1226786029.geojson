@@ -1,0 +1,66 @@
+{
+  "id": 1226786029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96778,53.99278,-7.96778,53.99278",
+    "geom:latitude":53.99278,
+    "geom:longitude":-7.96778,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Annaghkeenly",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311288,
+    "gn:latitude":53.99278,
+    "gn:longitude":-7.96778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Annaghkeenly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311288
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1920032f98ffe9d91e461835ee4c46ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226786029,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1226786029,
+    "wof:lastmodified":1536657555,
+    "wof:name":"Annaghkeenly",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96778,
+    53.99278,
+    -7.96778,
+    53.99278
+],
+  "geometry": {"coordinates":[-7.96778,53.99278],"type":"Point"}
+}

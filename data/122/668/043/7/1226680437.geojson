@@ -1,0 +1,66 @@
+{
+  "id": 1226680437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55444,52.81389,-7.55444,52.81389",
+    "geom:latitude":52.81389,
+    "geom:longitude":-7.55444,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Srahbaun",
+    "gn:country_code":"IE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307992,
+    "gn:latitude":52.81389,
+    "gn:longitude":-7.55444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Srahbaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307992
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1ccd49f1b1da6071d418499b5a9c2547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226680437,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1226680437,
+    "wof:lastmodified":1536809148,
+    "wof:name":"Srahbaun",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55444,
+    52.81389,
+    -7.55444,
+    52.81389
+],
+  "geometry": {"coordinates":[-7.55444,52.81389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259814979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0122,53.10557,-7.0122,53.10557",
+    "geom:latitude":53.10557,
+    "geom:longitude":-7.0122,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Kildangan",
+    "gn:country_code":"IE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314388,
+    "gn:latitude":53.10557,
+    "gn:longitude":-7.0122,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Kildangan",
+    "gn:population":299,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Cill Daingin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314388,
+        "wk:page":"Kildangan"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f7d13d33f970cada630f697495c91df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259814979,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1259814979,
+    "wof:lastmodified":1537564856,
+    "wof:name":"Kildangan",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0122,
+    53.10556999999999,
+    -7.0122,
+    53.10556999999999
+],
+  "geometry": {"coordinates":[-7.0122,53.10556999999999],"type":"Point"}
+}

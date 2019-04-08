@@ -1,0 +1,66 @@
+{
+  "id": 1327364291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.02722,53.55444,-10.02722,53.55444",
+    "geom:latitude":53.55444,
+    "geom:longitude":-10.02722,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Crockaunroe",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315566,
+    "gn:latitude":53.55444,
+    "gn:longitude":-10.02722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Crockaunroe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315566
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e09f30bf3b4df6a318fb83413cf42ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327364291,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1327364291,
+    "wof:lastmodified":1536779842,
+    "wof:name":"Crockaunroe",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.02722,
+    53.55444,
+    -10.02722,
+    53.55444
+],
+  "geometry": {"coordinates":[-10.02722,53.55444],"type":"Point"}
+}

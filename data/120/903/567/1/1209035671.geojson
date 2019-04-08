@@ -1,0 +1,62 @@
+{
+  "id": 1209035671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15444,52.65722,-9.15444,52.65722",
+    "geom:latitude":52.65722,
+    "geom:longitude":-9.15444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Cappanavarnoge",
+    "gn:country_code":"IE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310228,
+    "gn:latitude":52.65722,
+    "gn:longitude":-9.15444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cappanavarnoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310228
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"10158087696396ade06b8dc18dcdfe12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209035671
+        }
+    ],
+    "wof:id":1209035671,
+    "wof:lastmodified":1536299708,
+    "wof:name":"Cappanavarnoge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15444,
+    52.65722,
+    -9.15444,
+    52.65722
+],
+  "geometry": {"coordinates":[-9.15444,52.65722],"type":"Point"}
+}

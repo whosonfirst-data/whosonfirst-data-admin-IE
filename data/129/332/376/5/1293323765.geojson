@@ -1,0 +1,63 @@
+{
+  "id": 1293323765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8175,51.63944,-9.8175,51.63944",
+    "geom:latitude":51.63944,
+    "geom:longitude":-9.8175,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Rerrin",
+    "gn:country_code":"IE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961835,
+    "gn:latitude":51.63944,
+    "gn:longitude":-9.8175,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rerrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961835,
+        "wk:page":"Rerrin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"167d2e32cb9eb96228a7b6d29de14d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293323765,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293323765,
+    "wof:lastmodified":1537564839,
+    "wof:name":"Rerrin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8175,
+    51.63944,
+    -9.8175,
+    51.63944
+],
+  "geometry": {"coordinates":[-9.8175,51.63944],"type":"Point"}
+}

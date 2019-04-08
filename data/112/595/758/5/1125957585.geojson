@@ -1,0 +1,93 @@
+{
+  "id": 1125957585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.50111,53.20222,-6.50111,53.20222",
+    "geom:latitude":53.20222,
+    "geom:longitude":-6.50111,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.20222,
+    "lbl:longitude":-6.50111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Hempstown"
+    ],
+    "name:eng_x_preferred":[
+        "Hempstown"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3315194,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hempstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":64,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":64,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":11863,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315194,
+        "gp:id":29387366,
+        "qs_pg:id":11863,
+        "wd:id":"Q5712752"
+    },
+    "wof:country":"IE",
+    "wof:created":1497297673,
+    "wof:geomhash":"db186d55eef3ffb7ef01e33fc7e58319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125957585,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125957585,
+    "wof:lastmodified":1514450525,
+    "wof:name":"Hempstown",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.50111,
+    53.20222,
+    -6.50111,
+    53.20222
+],
+  "geometry": {"coordinates":[-6.50111,53.20222],"type":"Point"}
+}

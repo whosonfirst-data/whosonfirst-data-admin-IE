@@ -1,0 +1,72 @@
+{
+  "id": 1309747217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88528,53.33028,-8.88528,53.33028",
+    "geom:latitude":53.33028,
+    "geom:longitude":-8.88528,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Lisheenavalla",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962906,
+    "gn:latitude":53.33028,
+    "gn:longitude":-8.88528,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Lisheenavalla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lisheenavalla"
+    ],
+    "name:gle_x_preferred":[
+        "Lis\u00edn an Bhealaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962906
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"194f7d9a191711694d0f6824ddf2f71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309747217,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1309747217,
+    "wof:lastmodified":1537636729,
+    "wof:name":"Lisheenavalla",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88528,
+    53.33028,
+    -8.88528,
+    53.33028
+],
+  "geometry": {"coordinates":[-8.88528,53.33028],"type":"Point"}
+}

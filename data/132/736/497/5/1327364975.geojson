@@ -1,0 +1,66 @@
+{
+  "id": 1327364975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.51598,53.40466,-9.51598,53.40466",
+    "geom:latitude":53.40466,
+    "geom:longitude":-9.51598,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Glentrasna",
+    "gn:country_code":"IE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312142,
+    "gn:latitude":53.40466,
+    "gn:longitude":-9.51598,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glentrasna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312142
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e00281a91a46b950a76dd4e6866c766e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327364975,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1327364975,
+    "wof:lastmodified":1536778794,
+    "wof:name":"Glentrasna",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.51598,
+    53.40466,
+    -9.51598,
+    53.40466
+],
+  "geometry": {"coordinates":[-9.51598,53.40466],"type":"Point"}
+}

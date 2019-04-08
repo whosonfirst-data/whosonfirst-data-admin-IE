@@ -1,0 +1,112 @@
+{
+  "id": 1125990113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06639,53.3925,-9.06639,53.3925",
+    "geom:latitude":53.3925,
+    "geom:longitude":-9.06639,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":234,
+    "iso:country":"IE",
+    "lbl:latitude":53.3925,
+    "lbl:longitude":-9.06639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Annaghdown"
+    ],
+    "name:eng_x_preferred":[
+        "Annaghdown"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10d0\u10d3\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:gla_x_preferred":[
+        "Eanach Dh\u00fain"
+    ],
+    "name:gle_x_preferred":[
+        "Eanach Dh\u00fain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043d\u0430\u0434\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Annaghdown"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966981,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Annaghdown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":996776,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559470,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966981,
+        "gp:id":559470,
+        "qs_pg:id":996776,
+        "wd:id":"Q4066569"
+    },
+    "wof:country":"IE",
+    "wof:created":1497299017,
+    "wof:geomhash":"9b2ab53dcce8dcc9b52843a225ade1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125990113,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125990113,
+    "wof:lastmodified":1514450407,
+    "wof:name":"Annaghdown",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06639,
+    53.3925,
+    -9.06639,
+    53.3925
+],
+  "geometry": {"coordinates":[-9.06639,53.3925],"type":"Point"}
+}

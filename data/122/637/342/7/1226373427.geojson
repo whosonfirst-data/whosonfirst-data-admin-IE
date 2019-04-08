@@ -1,0 +1,70 @@
+{
+  "id": 1226373427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7806,53.70321,-6.7806,53.70321",
+    "geom:latitude":53.70321,
+    "geom:longitude":-6.7806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Teltown",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961245,
+    "gn:latitude":53.70321,
+    "gn:longitude":-6.7806,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Teltown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teltown House"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961245,
+        "wk:page":"Teltown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0bd2a5e87e7b14fcad68326e9b7b5d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226373427,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226373427,
+    "wof:lastmodified":1537636720,
+    "wof:name":"Teltown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7806,
+    53.70321,
+    -6.7806,
+    53.70321
+],
+  "geometry": {"coordinates":[-6.7806,53.70321],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209346009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.04278,54.07333,-9.04278,54.07333",
+    "geom:latitude":54.07333,
+    "geom:longitude":-9.04278,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Ellagh",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964426,
+    "gn:latitude":54.07333,
+    "gn:longitude":-9.04278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ellagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ellaghmore",
+        "Ellagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964426
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2bd9c799cc125ea1df8ee360d1bfd985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209346009
+        }
+    ],
+    "wof:id":1209346009,
+    "wof:lastmodified":1537636742,
+    "wof:name":"Ellagh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04278,
+    54.07333000000001,
+    -9.04278,
+    54.07333000000001
+],
+  "geometry": {"coordinates":[-9.04278,54.07333000000001],"type":"Point"}
+}

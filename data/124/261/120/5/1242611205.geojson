@@ -1,0 +1,67 @@
+{
+  "id": 1242611205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71667,53.48333,-8.71667,53.48333",
+    "geom:latitude":53.48333,
+    "geom:longitude":-8.71667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Barnaderg",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966338,
+    "gn:latitude":53.48333,
+    "gn:longitude":-8.71667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Barnaderg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966338,
+        "wk:page":"Barnaderg"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ddf67282401d3758c2f78f2827894253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242611205,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1242611205,
+    "wof:lastmodified":1537564849,
+    "wof:name":"Barnaderg",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71667,
+    53.48333,
+    -8.71667,
+    53.48333
+],
+  "geometry": {"coordinates":[-8.71667,53.48333],"type":"Point"}
+}

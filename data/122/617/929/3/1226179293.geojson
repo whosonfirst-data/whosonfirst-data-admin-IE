@@ -1,0 +1,66 @@
+{
+  "id": 1226179293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41361,51.56389,-9.41361,51.56389",
+    "geom:latitude":51.56389,
+    "geom:longitude":-9.41361,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Crooked Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3296095,
+    "gn:latitude":51.56389,
+    "gn:longitude":-9.41361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Crooked Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296095
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"afa1351fb62317975a2fd9620ac419f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226179293,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226179293,
+    "wof:lastmodified":1537028051,
+    "wof:name":"Crooked Bridge",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41361,
+    51.56389,
+    -9.41361,
+    51.56389
+],
+  "geometry": {"coordinates":[-9.41361,51.56389],"type":"Point"}
+}

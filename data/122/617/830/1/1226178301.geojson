@@ -1,0 +1,66 @@
+{
+  "id": 1226178301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02222,52.78583,-8.02222,52.78583",
+    "geom:latitude":52.78583,
+    "geom:longitude":-8.02222,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Glenbreedy",
+    "gn:country_code":"IE",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964075,
+    "gn:latitude":52.78583,
+    "gn:longitude":-8.02222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glenbreedy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964075
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0147c12257b9120c3979f5cf3e7d90f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226178301,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1226178301,
+    "wof:lastmodified":1537029453,
+    "wof:name":"Glenbreedy",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02222,
+    52.78583,
+    -8.02222,
+    52.78583
+],
+  "geometry": {"coordinates":[-8.02222,52.78583],"type":"Point"}
+}

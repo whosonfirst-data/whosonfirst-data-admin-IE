@@ -1,0 +1,72 @@
+{
+  "id": 1343989399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5975,52.36694,-9.5975,52.36694",
+    "geom:latitude":52.36694,
+    "geom:longitude":-9.5975,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Tullig",
+    "gn:country_code":"IE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291305,
+    "gn:latitude":52.36694,
+    "gn:longitude":-9.5975,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Tullig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tullig"
+    ],
+    "name:gle_x_preferred":[
+        "An Tulaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291305
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"db333a8a838db5f7606bcdc7d04130cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343989399,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1343989399,
+    "wof:lastmodified":1537636764,
+    "wof:name":"Tullig",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5975,
+    52.36694,
+    -9.5975,
+    52.36694
+],
+  "geometry": {"coordinates":[-9.5975,52.36694],"type":"Point"}
+}

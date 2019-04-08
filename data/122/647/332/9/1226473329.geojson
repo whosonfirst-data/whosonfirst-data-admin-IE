@@ -1,0 +1,66 @@
+{
+  "id": 1226473329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60444,53.36083,-8.60444,53.36083",
+    "geom:latitude":53.36083,
+    "geom:longitude":-8.60444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Gorteen",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963947,
+    "gn:latitude":53.36083,
+    "gn:longitude":-8.60444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gorteen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963947
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7ae1fc1e3ae1e442b5e15ea301989e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226473329,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1226473329,
+    "wof:lastmodified":1536602681,
+    "wof:name":"Gorteen",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60444,
+    53.36083000000001,
+    -8.60444,
+    53.36083000000001
+],
+  "geometry": {"coordinates":[-8.60444,53.36083000000001],"type":"Point"}
+}

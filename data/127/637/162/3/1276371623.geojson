@@ -1,0 +1,66 @@
+{
+  "id": 1276371623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.29028,52.79417,-8.29028,52.79417",
+    "geom:latitude":52.79417,
+    "geom:longitude":-8.29028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Shallee Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306488,
+    "gn:latitude":52.79417,
+    "gn:longitude":-8.29028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Shallee Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306488
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0e6b8c8c45857286c652c2fa0683b687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276371623,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276371623,
+    "wof:lastmodified":1536727669,
+    "wof:name":"Shallee Cross Roads",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.29028,
+    52.79417,
+    -8.29028,
+    52.79417
+],
+  "geometry": {"coordinates":[-8.29028,52.79417],"type":"Point"}
+}

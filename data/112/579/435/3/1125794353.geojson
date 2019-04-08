@@ -1,0 +1,92 @@
+{
+  "id": 1125794353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.84361,54.22083,-9.84361,54.22083",
+    "geom:latitude":54.22083,
+    "geom:longitude":-9.84361,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":54.22083,
+    "lbl:longitude":-9.84361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Barnatra"
+    ],
+    "name:gle_x_preferred":[
+        "Barr na Tr\u00e1"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3316067,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Barnatra",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":270768,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387460,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316067,
+        "gp:id":29387460,
+        "qs_pg:id":270768
+    },
+    "wof:country":"IE",
+    "wof:created":1497290989,
+    "wof:geomhash":"b68c460c7cb383c8c2568ba877817594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125794353,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125794353,
+    "wof:lastmodified":1509392518,
+    "wof:name":"Barnatra",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.84361,
+    54.22083,
+    -9.84361,
+    54.22083
+],
+  "geometry": {"coordinates":[-9.84361,54.22083],"type":"Point"}
+}

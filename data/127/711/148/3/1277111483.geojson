@@ -1,0 +1,66 @@
+{
+  "id": 1277111483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46667,53.53333,-8.46667,53.53333",
+    "geom:latitude":53.53333,
+    "geom:longitude":-8.46667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Toomard",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961159,
+    "gn:latitude":53.53333,
+    "gn:longitude":-8.46667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Toomard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961159
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"98a32115fd205cde149e25d6ecb837fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277111483,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1277111483,
+    "wof:lastmodified":1536726589,
+    "wof:name":"Toomard",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46667,
+    53.53333000000001,
+    -8.46667,
+    53.53333000000001
+],
+  "geometry": {"coordinates":[-8.46667,53.53333000000001],"type":"Point"}
+}

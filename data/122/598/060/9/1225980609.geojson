@@ -1,0 +1,66 @@
+{
+  "id": 1225980609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45,52.3,-9.45,52.3",
+    "geom:latitude":52.3,
+    "geom:longitude":-9.45,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Muingvautia",
+    "gn:country_code":"IE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962386,
+    "gn:latitude":52.3,
+    "gn:longitude":-9.45,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Muingvautia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962386
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e9176d46c6d551822a8ce31af16ddf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225980609,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1225980609,
+    "wof:lastmodified":1536818084,
+    "wof:name":"Muingvautia",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45,
+    52.3,
+    -9.45,
+    52.3
+],
+  "geometry": {"coordinates":[-9.45,52.3],"type":"Point"}
+}

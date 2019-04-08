@@ -1,0 +1,67 @@
+{
+  "id": 1209746087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6669,52.98079,-6.6669,52.98079",
+    "geom:latitude":52.98079,
+    "geom:longitude":-6.6669,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Stratford on Slaney",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870990,
+    "gn:latitude":52.98079,
+    "gn:longitude":-6.6669,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Stratford on Slaney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870990,
+        "wk:page":"Stratford-on-Slaney"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"96d22fca7f31a74ed5d23f6f2dfaccd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209746087,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1209746087,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Stratford on Slaney",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6669,
+    52.98079,
+    -6.6669,
+    52.98079
+],
+  "geometry": {"coordinates":[-6.6669,52.98079],"type":"Point"}
+}

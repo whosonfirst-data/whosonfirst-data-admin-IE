@@ -1,0 +1,115 @@
+{
+  "id": 101804905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":388357.884538,
+    "geom:bbox":"-6.55191386862,53.9462797973,-6.53667988355,53.9545302878",
+    "geom:latitude":53.950199,
+    "geom:longitude":-6.543038,
+    "gn:population":715,
+    "iso:country":"IE",
+    "lbl:latitude":53.949308,
+    "lbl:longitude":-6.541884,
+    "mps:latitude":53.949308,
+    "mps:longitude":-6.541884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Louth"
+    ],
+    "name:dut_x_preferred":[
+        "Louth"
+    ],
+    "name:eng_x_preferred":[
+        "Louth"
+    ],
+    "name:eng_x_variant":[
+        "Lubhaidh"
+    ],
+    "name:gle_x_preferred":[
+        "L\u00fa"
+    ],
+    "name:ita_x_preferred":[
+        "Louth"
+    ],
+    "name:lit_x_preferred":[
+        "Lutas"
+    ],
+    "name:pol_x_preferred":[
+        "Louth"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Louth"
+    ],
+    "name:unk_x_variant":[
+        "Lubhaidh"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Louth",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Louth",
+    "qs:la_lc":"*IE1104147028",
+    "qs:level":"locality",
+    "qs:loc":"Louth",
+    "qs:loc_alt":"Louth",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11800512-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962794,
+        "gp:id":20073356,
+        "qs:id":499520,
+        "wd:id":"Q1056717",
+        "wk:page":"Louth, County Louth"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7fe132efc9265ab44b6160fdc7429f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804905,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":101804905,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Louth",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":715,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.55191386861606,
+    53.94627979727147,
+    -6.53667988355357,
+    53.9545302877907
+],
+  "geometry": {"coordinates":[[[-6.54403691799496,53.9545302877907],[-6.54298410888521,53.95191612943404],[-6.53703066961816,53.95273198733565],[-6.53667988355357,53.9518605791053],[-6.5381682345668,53.95165664645356],[-6.53746665782307,53.94991383560324],[-6.53895493802509,53.94970989465997],[-6.53790261888753,53.94709568271674],[-6.54385526169216,53.94627979727147],[-6.54560979009545,53.95063671343087],[-6.55156279501796,53.94982044331056],[-6.55191386861606,53.95069180305921],[-6.55042560859874,53.95089590241332],[-6.5507766710935,53.9517672656491],[-6.54482338292587,53.95258350262969],[-6.54552533082057,53.95432626380864],[-6.54403691799496,53.9545302877907]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326959697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.37111,52.72694,-7.37111,52.72694",
+    "geom:latitude":52.72694,
+    "geom:longitude":-7.37111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Arigna Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307640,
+    "gn:latitude":52.72694,
+    "gn:longitude":-7.37111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Arigna Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307640
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"571eb6cee34500fb94b29472f04e2e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326959697,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1326959697,
+    "wof:lastmodified":1536864000,
+    "wof:name":"Arigna Bridge",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.37111,
+    52.72694,
+    -7.37111,
+    52.72694
+],
+  "geometry": {"coordinates":[-7.37111,52.72694],"type":"Point"}
+}

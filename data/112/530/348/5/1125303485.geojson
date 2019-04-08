@@ -1,0 +1,96 @@
+{
+  "id": 1125303485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.32,53.23528,-7.32,53.23528",
+    "geom:latitude":53.23528,
+    "geom:longitude":-7.32,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":375,
+    "iso:country":"IE",
+    "lbl:latitude":53.23528,
+    "lbl:longitude":-7.32,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Geashill"
+    ],
+    "name:gle_x_preferred":[
+        "G\u00e9isill"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964132,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Geashill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":304,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1103023,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964132,
+        "gp:id":20073699,
+        "qs_pg:id":1103023
+    },
+    "wof:country":"IE",
+    "wof:created":1497043560,
+    "wof:geomhash":"1097796021660e52cc7c8677284b84f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125303485,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125303485,
+    "wof:lastmodified":1509387755,
+    "wof:name":"Geashill",
+    "wof:parent_id":85685041,
+    "wof:placetype":"localadmin",
+    "wof:population":375,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.32,
+    53.23528,
+    -7.32,
+    53.23528
+],
+  "geometry": {"coordinates":[-7.32,53.23528],"type":"Point"}
+}

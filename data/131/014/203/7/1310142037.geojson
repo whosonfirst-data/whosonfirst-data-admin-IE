@@ -1,0 +1,66 @@
+{
+  "id": 1310142037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.84808,53.65744,-6.84808,53.65744",
+    "geom:latitude":53.65744,
+    "geom:longitude":-6.84808,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Balruntagh",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9866855,
+    "gn:latitude":53.65744,
+    "gn:longitude":-6.84808,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Balruntagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866855
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5e5a178ed67d8f3dd21e6ab6ff6025a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310142037,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1310142037,
+    "wof:lastmodified":1536944282,
+    "wof:name":"Balruntagh",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84808,
+    53.65744,
+    -6.84808,
+    53.65744
+],
+  "geometry": {"coordinates":[-6.84808,53.65744],"type":"Point"}
+}

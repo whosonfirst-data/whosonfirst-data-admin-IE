@@ -1,0 +1,70 @@
+{
+  "id": 1243298557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23333,53.56667,-8.23333,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":-8.23333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Clooneen",
+    "gn:country_code":"IE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965303,
+    "gn:latitude":53.56667,
+    "gn:longitude":-8.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Clooneen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clooneen Beg",
+        "Clooneen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965303
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ac047237d562c4ee56fed6678c1c3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243298557,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1243298557,
+    "wof:lastmodified":1537636747,
+    "wof:name":"Clooneen",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23333,
+    53.56667,
+    -8.23333,
+    53.56667
+],
+  "geometry": {"coordinates":[-8.23333,53.56667],"type":"Point"}
+}

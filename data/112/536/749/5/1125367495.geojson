@@ -1,0 +1,96 @@
+{
+  "id": 1125367495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.0,53.93333,-8.0,53.93333",
+    "geom:latitude":53.93333,
+    "geom:longitude":-8.0,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":247,
+    "iso:country":"IE",
+    "lbl:latitude":53.93333,
+    "lbl:longitude":-8.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Drumsna"
+    ],
+    "name:gle_x_preferred":[
+        "Droim ar Sn\u00e1mh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964582,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Drumsna",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":143,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181280,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072969,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964582,
+        "gp:id":20072969,
+        "qs_pg:id":1181280
+    },
+    "wof:country":"IE",
+    "wof:created":1497047170,
+    "wof:geomhash":"35df688ed31088b7d8e2a7c624c58ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125367495,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1125367495,
+    "wof:lastmodified":1509389231,
+    "wof:name":"Drumsna",
+    "wof:parent_id":85685133,
+    "wof:placetype":"localadmin",
+    "wof:population":247,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.0,
+    53.93333,
+    -8.0,
+    53.93333
+],
+  "geometry": {"coordinates":[-8.0,53.93333],"type":"Point"}
+}

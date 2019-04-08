@@ -1,0 +1,111 @@
+{
+  "id": 101804801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":388444.566723,
+    "geom:bbox":"-9.15505236594,53.1115133123,-9.14175789523,53.1203725034",
+    "geom:latitude":53.115672,
+    "geom:longitude":-9.149121,
+    "gn:population":258,
+    "iso:country":"IE",
+    "lbl:latitude":53.114967,
+    "lbl:longitude":-9.149776,
+    "mps:latitude":53.114967,
+    "mps:longitude":-9.149776,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:deu_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyvaghan"
+    ],
+    "name:eus_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:fre_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:ger_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:gle_x_preferred":[
+        "Baile U\u00ed Bheach\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0432\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Blackhead Bay"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Clare",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Drumcreehy",
+    "qs:la_lc":"*IE2301037051",
+    "qs:level":"locality",
+    "qs:loc":"Ballyvaughan",
+    "qs:loc_alt":"Ballyvaughan",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1045,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966396,
+        "gp:id":559830,
+        "qs:id":3,
+        "wd:id":"Q805457"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9155a0de4a47d68229ff672724f598c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804801,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":101804801,
+    "wof:lastmodified":1553815514,
+    "wof:name":"Ballyvaughan",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":258,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15505236593691,
+    53.11151331232463,
+    -9.14175789522506,
+    53.12037250335572
+],
+  "geometry": {"coordinates":[[[-9.15360358572832,53.12037250335572],[-9.15281497887275,53.11864768285113],[-9.14991748017934,53.11911774930553],[-9.1491290551856,53.11739289999235],[-9.14623160378875,53.11786287565536],[-9.14583747261452,53.11700043750341],[-9.14438875152649,53.11723539398452],[-9.14360059929004,53.11551050147267],[-9.14215191629194,53.11574542986904],[-9.14175789522506,53.11488297551045],[-9.14465519427296,53.11441311218761],[-9.14426113988213,53.1135506667959],[-9.14860690146401,53.11284575818246],[-9.14821278750298,53.11198332714707],[-9.15110983723457,53.11151331232463],[-9.15505236593691,53.12013743338406],[-9.15360358572832,53.12037250335572]]],"type":"Polygon"}
+}

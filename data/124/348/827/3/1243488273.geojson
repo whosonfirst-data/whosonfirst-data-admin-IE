@@ -1,0 +1,67 @@
+{
+  "id": 1243488273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09317,54.21285,-9.09317,54.21285",
+    "geom:latitude":54.21285,
+    "geom:longitude":-9.09317,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Enniscrone",
+    "gn:country_code":"IE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692264,
+    "gn:latitude":54.21285,
+    "gn:longitude":-9.09317,
+    "gn:modification_date":"2013-11-23",
+    "gn:name":"Enniscrone",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692264,
+        "wk:page":"Enniscrone"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"41363a45168417aa639f00b804a939c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243488273,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1243488273,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Enniscrone",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09317,
+    54.21285,
+    -9.09317,
+    54.21285
+],
+  "geometry": {"coordinates":[-9.09317,54.21285],"type":"Point"}
+}

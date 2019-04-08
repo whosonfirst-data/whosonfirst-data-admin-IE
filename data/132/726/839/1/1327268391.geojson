@@ -1,0 +1,66 @@
+{
+  "id": 1327268391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22306,54.25528,-9.22306,54.25528",
+    "geom:latitude":54.25528,
+    "geom:longitude":-9.22306,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Farrellstown",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3316240,
+    "gn:latitude":54.25528,
+    "gn:longitude":-9.22306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Farrellstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316240
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4a0bcbae207361eb40344e8a84009da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327268391,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327268391,
+    "wof:lastmodified":1536918249,
+    "wof:name":"Farrellstown",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22306,
+    54.25528000000001,
+    -9.22306,
+    54.25528000000001
+],
+  "geometry": {"coordinates":[-9.22306,54.25528000000001],"type":"Point"}
+}

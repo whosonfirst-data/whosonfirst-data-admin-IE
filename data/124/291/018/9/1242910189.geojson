@@ -1,0 +1,66 @@
+{
+  "id": 1242910189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7872,54.0694,-9.7872,54.0694",
+    "geom:latitude":54.0694,
+    "geom:longitude":-9.7872,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Srahaderdaowon",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9804858,
+    "gn:latitude":54.0694,
+    "gn:longitude":-9.7872,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Srahaderdaowon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9804858
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c46f0c755442d0591ab5dfe17eb2b961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242910189,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1242910189,
+    "wof:lastmodified":1537078435,
+    "wof:name":"Srahaderdaowon",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7872,
+    54.0694,
+    -9.7872,
+    54.0694
+],
+  "geometry": {"coordinates":[-9.7872,54.0694],"type":"Point"}
+}

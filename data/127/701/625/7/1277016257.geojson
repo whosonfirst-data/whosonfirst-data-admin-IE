@@ -1,0 +1,66 @@
+{
+  "id": 1277016257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12611,52.06778,-9.12611,52.06778",
+    "geom:latitude":52.06778,
+    "geom:longitude":-9.12611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Tober",
+    "gn:country_code":"IE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292158,
+    "gn:latitude":52.06778,
+    "gn:longitude":-9.12611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tober",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292158
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c58933752ac4982d7da48097b8fc6f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277016257,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1277016257,
+    "wof:lastmodified":1536857111,
+    "wof:name":"Tober",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12611,
+    52.06778,
+    -9.12611,
+    52.06778
+],
+  "geometry": {"coordinates":[-9.12611,52.06778],"type":"Point"}
+}

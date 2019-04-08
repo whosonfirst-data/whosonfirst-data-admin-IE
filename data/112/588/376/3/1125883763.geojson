@@ -1,0 +1,95 @@
+{
+  "id": 1125883763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.57083,53.96028,-9.57083,53.96028",
+    "geom:latitude":53.96028,
+    "geom:longitude":-9.57083,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.96028,
+    "lbl:longitude":-9.57083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Srahmore"
+    ],
+    "name:gle_x_preferred":[
+        "An Sraith M\u00f3r"
+    ],
+    "name:gle_x_variant":[
+        "An Srath M\u00f3r"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961374,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Srahmore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1114351,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562263,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961374,
+        "gp:id":562263,
+        "qs_pg:id":1114351
+    },
+    "wof:country":"IE",
+    "wof:created":1497294967,
+    "wof:geomhash":"db73d2443c43629119fc35f36a22bc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125883763,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125883763,
+    "wof:lastmodified":1509398359,
+    "wof:name":"Srahmore",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.57083,
+    53.96028,
+    -9.57083,
+    53.96028
+],
+  "geometry": {"coordinates":[-9.57083,53.96028],"type":"Point"}
+}

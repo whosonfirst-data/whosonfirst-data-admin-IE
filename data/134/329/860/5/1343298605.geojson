@@ -1,0 +1,71 @@
+{
+  "id": 1343298605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86528,52.62444,-6.86528,52.62444",
+    "geom:latitude":52.62444,
+    "geom:longitude":-6.86528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Knocksquire",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302816,
+    "gn:latitude":52.62444,
+    "gn:longitude":-6.86528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Knocksquire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knockscur",
+        "Knocksquire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302816
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7e8d8f4c22b9c538b086119bc03283fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343298605,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1343298605,
+    "wof:lastmodified":1537636769,
+    "wof:name":"Knocksquire",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86528,
+    52.62444,
+    -6.86528,
+    52.62444
+],
+  "geometry": {"coordinates":[-6.86528,52.62444],"type":"Point"}
+}

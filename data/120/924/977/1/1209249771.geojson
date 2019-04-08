@@ -1,0 +1,62 @@
+{
+  "id": 1209249771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4225,51.90556,-8.4225,51.90556",
+    "geom:latitude":51.90556,
+    "geom:longitude":-8.4225,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Loumore",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299463,
+    "gn:latitude":51.90556,
+    "gn:longitude":-8.4225,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Loumore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299463
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"52adf894c7c2e436beeef2f03719dc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209249771
+        }
+    ],
+    "wof:id":1209249771,
+    "wof:lastmodified":1536293043,
+    "wof:name":"Loumore",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4225,
+    51.90556,
+    -8.4225,
+    51.90556
+],
+  "geometry": {"coordinates":[-8.4225,51.90556],"type":"Point"}
+}

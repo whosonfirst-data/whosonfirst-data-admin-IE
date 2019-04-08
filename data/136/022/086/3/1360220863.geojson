@@ -1,0 +1,63 @@
+{
+  "id": 1360220863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82667,52.22194,-6.82667,52.22194",
+    "geom:latitude":52.22194,
+    "geom:longitude":-6.82667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Saltmills",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961594,
+    "gn:latitude":52.22194,
+    "gn:longitude":-6.82667,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Saltmills",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961594,
+        "wk:page":"Saltmills"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"662b92af6c95049f777524287f744dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360220863,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360220863,
+    "wof:lastmodified":1537564838,
+    "wof:name":"Saltmills",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82667,
+    52.22194,
+    -6.82667,
+    52.22194
+],
+  "geometry": {"coordinates":[-6.82667,52.22194],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343595029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.93611,52.47056,-7.93611,52.47056",
+    "geom:latitude":52.47056,
+    "geom:longitude":-7.93611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Killeenasteerna",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305927,
+    "gn:latitude":52.47056,
+    "gn:longitude":-7.93611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killeenasteerna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305927
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a55f2ffed2894aab1a5510b474c0de24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343595029,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1343595029,
+    "wof:lastmodified":1537047517,
+    "wof:name":"Killeenasteerna",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.93611,
+    52.47056,
+    -7.93611,
+    52.47056
+],
+  "geometry": {"coordinates":[-7.93611,52.47056],"type":"Point"}
+}

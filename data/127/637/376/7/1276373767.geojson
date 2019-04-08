@@ -1,0 +1,66 @@
+{
+  "id": 1276373767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46111,53.98028,-8.46111,53.98028",
+    "geom:latitude":53.98028,
+    "geom:longitude":-8.46111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Mullaghroe",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310859,
+    "gn:latitude":53.98028,
+    "gn:longitude":-8.46111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mullaghroe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310859
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"75900db2344dd860e5958c77fa2e69b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276373767,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1276373767,
+    "wof:lastmodified":1536724657,
+    "wof:name":"Mullaghroe",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46111,
+    53.98028000000001,
+    -8.46111,
+    53.98028000000001
+],
+  "geometry": {"coordinates":[-8.46111,53.98028000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343395583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.171,53.8543,-9.171,53.8543",
+    "geom:latitude":53.8543,
+    "geom:longitude":-9.171,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Middletown",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315815,
+    "gn:latitude":53.8543,
+    "gn:longitude":-9.171,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Middletown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315815
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7f18bd310d8d13cb407e6b1602a5bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343395583,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343395583,
+    "wof:lastmodified":1536838819,
+    "wof:name":"Middletown",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.171,
+    53.8543,
+    -9.171,
+    53.8543
+],
+  "geometry": {"coordinates":[-9.171,53.8543],"type":"Point"}
+}

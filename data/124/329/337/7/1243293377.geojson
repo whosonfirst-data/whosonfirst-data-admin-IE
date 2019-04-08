@@ -1,0 +1,71 @@
+{
+  "id": 1243293377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59278,55.01917,-7.59278,55.01917",
+    "geom:latitude":55.01917,
+    "geom:longitude":-7.59278,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Fort Stewart",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964244,
+    "gn:latitude":55.01917,
+    "gn:longitude":-7.59278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fort Stewart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fort Stewart House",
+        "Fort Stewart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964244
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0432c2db293761a0922e3e84682e66f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243293377,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1243293377,
+    "wof:lastmodified":1537636740,
+    "wof:name":"Fort Stewart",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59278,
+    55.01917,
+    -7.59278,
+    55.01917
+],
+  "geometry": {"coordinates":[-7.59278,55.01917],"type":"Point"}
+}

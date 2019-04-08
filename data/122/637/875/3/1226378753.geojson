@@ -1,0 +1,66 @@
+{
+  "id": 1226378753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.74222,55.05083,-7.74222,55.05083",
+    "geom:latitude":55.05083,
+    "geom:longitude":-7.74222,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Fern Hill",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307496,
+    "gn:latitude":55.05083,
+    "gn:longitude":-7.74222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Fern Hill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307496
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"589d278c5ffcae630789b9109f431b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226378753,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226378753,
+    "wof:lastmodified":1536741714,
+    "wof:name":"Fern Hill",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.74222,
+    55.05083000000001,
+    -7.74222,
+    55.05083000000001
+],
+  "geometry": {"coordinates":[-7.74222,55.05083000000001],"type":"Point"}
+}

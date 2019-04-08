@@ -1,0 +1,66 @@
+{
+  "id": 1327370647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55694,54.17556,-8.55694,54.17556",
+    "geom:latitude":54.17556,
+    "geom:longitude":-8.55694,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Billa",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310922,
+    "gn:latitude":54.17556,
+    "gn:longitude":-8.55694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Billa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310922
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e845f166b00231f804c771070c9d8124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327370647,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1327370647,
+    "wof:lastmodified":1536770403,
+    "wof:name":"Billa",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55694,
+    54.17556,
+    -8.55694,
+    54.17556
+],
+  "geometry": {"coordinates":[-8.55694,54.17556],"type":"Point"}
+}

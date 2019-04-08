@@ -1,0 +1,62 @@
+{
+  "id": 1209445939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16972,54.16417,-8.16972,54.16417",
+    "geom:latitude":54.16417,
+    "geom:longitude":-8.16972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Letter",
+    "gn:country_code":"IE",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311458,
+    "gn:latitude":54.16417,
+    "gn:longitude":-8.16972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Letter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311458
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9516f25169c8f3499ff08f81647264dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209445939
+        }
+    ],
+    "wof:id":1209445939,
+    "wof:lastmodified":1536286819,
+    "wof:name":"Letter",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16972,
+    54.16417,
+    -8.16972,
+    54.16417
+],
+  "geometry": {"coordinates":[-8.16972,54.16417],"type":"Point"}
+}

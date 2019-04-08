@@ -1,0 +1,62 @@
+{
+  "id": 1209445885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.31028,53.86306,-6.31028,53.86306",
+    "geom:latitude":53.86306,
+    "geom:longitude":-6.31028,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Martin's Cross",
+    "gn:country_code":"IE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316436,
+    "gn:latitude":53.86306,
+    "gn:longitude":-6.31028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Martin\u2019s Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316436
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b93b2c6f19a13a95ad17f1a7135ae85d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209445885
+        }
+    ],
+    "wof:id":1209445885,
+    "wof:lastmodified":1536286820,
+    "wof:name":"Martin's Cross",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.3102800000000006,
+    53.86306,
+    -6.3102800000000006,
+    53.86306
+],
+  "geometry": {"coordinates":[-6.31028,53.86306],"type":"Point"}
+}

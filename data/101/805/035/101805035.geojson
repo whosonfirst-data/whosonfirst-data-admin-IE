@@ -1,0 +1,121 @@
+{
+  "id": 101805035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":736839.511014,
+    "geom:bbox":"-9.33646847038,54.0941288291,-9.31047335053,54.1049417474",
+    "geom:latitude":54.098777,
+    "geom:longitude":-9.320489,
+    "gn:population":1061,
+    "iso:country":"IE",
+    "lbl:latitude":54.099036,
+    "lbl:longitude":-9.319406,
+    "mps:latitude":54.099036,
+    "mps:longitude":-9.319406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:cat_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:deu_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:dut_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:eng_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:fre_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e0\u10dd\u10e1\u10db\u10dd\u10da\u10d8\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:gle_x_preferred":[
+        "Crois Mhaoil\u00edona"
+    ],
+    "name:ita_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10dd\u10e1\u10db\u10dd\u10da\u10d8\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Crossmolina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u0441\u0441\u043c\u043e\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Crossmolina"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Crossmolina North",
+    "qs:la_lc":"*IE1303157065",
+    "qs:level":"locality",
+    "qs:loc":"Crossmolina",
+    "qs:loc_alt":"Crossmolina",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":696,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964980,
+        "gp:id":560552,
+        "wd:id":"Q1025597",
+        "wk:page":"Crossmolina"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4bbcc111f89904317a7f07a557e52566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805035,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805035,
+    "wof:lastmodified":1527642968,
+    "wof:name":"Crossmolina",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":1061,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33646847038131,
+    54.09412882914751,
+    -9.3104733505312,
+    54.10494174742098
+],
+  "geometry": {"coordinates":[[[-9.31886202375375,54.10494174742098],[-9.31680757512493,54.10063451630486],[-9.31236496809805,54.10134773026812],[-9.31277573385972,54.10220919705222],[-9.31129480625123,54.10244690520568],[-9.3104733505312,54.10072395854939],[-9.3119542228406,54.10048626163535],[-9.31154349808577,54.09962479115427],[-9.31450514099242,54.09914935538563],[-9.31286222582389,54.09570349993129],[-9.31138152267778,54.09594120420144],[-9.31097087277362,54.09507973009767],[-9.31689348198631,54.09412882914751],[-9.31730424244398,54.09499028077471],[-9.31878488370882,54.09475250560803],[-9.31919569230365,54.09561394976544],[-9.32215698368469,54.09513833502035],[-9.32380064421602,54.09858404817942],[-9.32972348341644,54.09763251605256],[-9.3293124269764,54.09677111303057],[-9.3322736984166,54.09629525187387],[-9.33309594234458,54.09801803356947],[-9.33605726237357,54.09754207902387],[-9.33646847038131,54.09840345584263],[-9.32166097449959,54.10078257586184],[-9.32207192665004,54.1016440070689],[-9.32059106426186,54.10188182720583],[-9.32182396086159,54.10446612659308],[-9.31886202375375,54.10494174742098]]],"type":"Polygon"}
+}

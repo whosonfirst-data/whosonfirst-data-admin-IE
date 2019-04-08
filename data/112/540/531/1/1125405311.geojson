@@ -1,0 +1,111 @@
+{
+  "id": 1125405311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.81667,53.06639,-8.81667,53.06639",
+    "geom:latitude":53.06639,
+    "geom:longitude":-8.81667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2098,
+    "gn:population":2644,
+    "iso:country":"IE",
+    "lbl:latitude":53.06639,
+    "lbl:longitude":-8.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0442"
+    ],
+    "name:eng_x_preferred":[
+        "Gort"
+    ],
+    "name:gle_x_preferred":[
+        "An Gort"
+    ],
+    "name:gle_x_variant":[
+        "Gort Inse Guaire"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e0\u10e2\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0442"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963958,
+    "qs_pg:gn_pop":2098,
+    "qs_pg:name":"Gort",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":190,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":480,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1110440,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072436,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963958,
+        "gp:id":20072436,
+        "qs_pg:id":1110440
+    },
+    "wof:country":"IE",
+    "wof:created":1497049604,
+    "wof:geomhash":"00aef97fce13fffd659da63c3ac9ce6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125405311,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125405311,
+    "wof:lastmodified":1509390145,
+    "wof:name":"Gort",
+    "wof:parent_id":85685097,
+    "wof:placetype":"localadmin",
+    "wof:population":2644,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.81667,
+    53.06639,
+    -8.81667,
+    53.06639
+],
+  "geometry": {"coordinates":[-8.81667,53.06639],"type":"Point"}
+}

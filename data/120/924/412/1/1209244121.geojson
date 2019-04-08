@@ -1,0 +1,63 @@
+{
+  "id": 1209244121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2825,53.72333,-6.2825,53.72333",
+    "geom:latitude":53.72333,
+    "geom:longitude":-6.2825,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Mornington",
+    "gn:country_code":"IE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962523,
+    "gn:latitude":53.72333,
+    "gn:longitude":-6.2825,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mornington",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962523,
+        "wk:page":"Mornington%2C_County_Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ed5b04f95af342793294b7cd4f363b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209244121
+        }
+    ],
+    "wof:id":1209244121,
+    "wof:lastmodified":1537564840,
+    "wof:name":"Mornington",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2825,
+    53.72333,
+    -6.2825,
+    53.72333
+],
+  "geometry": {"coordinates":[-6.2825,53.72333],"type":"Point"}
+}

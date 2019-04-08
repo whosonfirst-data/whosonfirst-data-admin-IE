@@ -1,0 +1,80 @@
+{
+  "id": 1125327575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.732357,54.953464,-7.732357,54.953464",
+    "geom:latitude":54.953464,
+    "geom:longitude":-7.732357,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":54.953464,
+    "lbl:longitude":-7.732357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Letterkenny Urban",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2038,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":223326,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071969,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20071969,
+        "qs_pg:id":223326
+    },
+    "wof:country":"IE",
+    "wof:created":1497044908,
+    "wof:geomhash":"2ea974535a0f63531d7a07c94f4d6a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125327575,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125327575,
+    "wof:lastmodified":1509388280,
+    "wof:name":"Letterkenny Urban",
+    "wof:parent_id":85685151,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.732357,
+    54.953464,
+    -7.732357,
+    54.953464
+],
+  "geometry": {"coordinates":[-7.732357,54.953464],"type":"Point"}
+}

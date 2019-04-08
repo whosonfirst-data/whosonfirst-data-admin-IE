@@ -1,0 +1,121 @@
+{
+  "id": 1125791287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38583,52.94167,-9.38583,52.94167",
+    "geom:latitude":52.94167,
+    "geom:longitude":-9.38583,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":129,
+    "iso:country":"IE",
+    "lbl:latitude":52.94167,
+    "lbl:longitude":-9.38583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Liscannor"
+    ],
+    "name:dut_x_preferred":[
+        "Liscannor"
+    ],
+    "name:eng_x_preferred":[
+        "Liscannor"
+    ],
+    "name:fin_x_preferred":[
+        "Liscannor"
+    ],
+    "name:fre_x_preferred":[
+        "Liscannor"
+    ],
+    "name:ger_x_preferred":[
+        "Liscannor"
+    ],
+    "name:gle_x_preferred":[
+        "Lios Ceann\u00fair"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043a\u0430\u043d\u043d\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Liscannor"
+    ],
+    "name:unk_x_variant":[
+        "Liscanor"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962930,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Liscannor",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":2957,
+    "qs_pg:photos_1k":599,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2957,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080460,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561544,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962930,
+        "gp:id":561544,
+        "qs_pg:id":1080460,
+        "wd:id":"Q1016915"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290873,
+    "wof:geomhash":"b6a94dea6e212ea7846a8940b9a11f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791287,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125791287,
+    "wof:lastmodified":1514450575,
+    "wof:name":"Liscannor",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38583,
+    52.94167,
+    -9.38583,
+    52.94167
+],
+  "geometry": {"coordinates":[-9.38583,52.94167],"type":"Point"}
+}

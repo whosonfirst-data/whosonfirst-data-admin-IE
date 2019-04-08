@@ -1,0 +1,100 @@
+{
+  "id": 1276690247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.39333,53.0225,-9.39333,53.0225",
+    "geom:latitude":53.0225,
+    "geom:longitude":-9.39333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Doolin",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964724,
+    "gn:latitude":53.0225,
+    "gn:longitude":-9.39333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doolin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Doolin"
+    ],
+    "name:eng_x_preferred":[
+        "Doolin"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00falainn"
+    ],
+    "name:ita_x_preferred":[
+        "Doolin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30fc\u30ea\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Doolin"
+    ],
+    "name:pol_x_preferred":[
+        "Doolin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043b\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Doolin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043b\u0456\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964724,
+        "wk:page":"Doolin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a0f5c37b4c5eb77df236c0428fe2d2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276690247,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1276690247,
+    "wof:lastmodified":1537636743,
+    "wof:name":"Doolin",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.39333,
+    53.0225,
+    -9.39333,
+    53.0225
+],
+  "geometry": {"coordinates":[-9.39333,53.0225],"type":"Point"}
+}

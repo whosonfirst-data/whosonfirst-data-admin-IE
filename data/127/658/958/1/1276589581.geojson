@@ -1,0 +1,67 @@
+{
+  "id": 1276589581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77528,52.61639,-7.77528,52.61639",
+    "geom:latitude":52.61639,
+    "geom:longitude":-7.77528,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Horse and Jockey",
+    "gn:country_code":"IE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963736,
+    "gn:latitude":52.61639,
+    "gn:longitude":-7.77528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Horse and Jockey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963736,
+        "wk:page":"Horse_and_Jockey"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1bbc951d8ee8d8744c83c08cbb072818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276589581,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276589581,
+    "wof:lastmodified":1537564843,
+    "wof:name":"Horse and Jockey",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77528,
+    52.61639,
+    -7.77528,
+    52.61639
+],
+  "geometry": {"coordinates":[-7.77528,52.61639],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293814153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01998,53.71369,-7.01998,53.71369",
+    "geom:latitude":53.71369,
+    "geom:longitude":-7.01998,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Crossakeel",
+    "gn:country_code":"IE",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964994,
+    "gn:latitude":53.71369,
+    "gn:longitude":-7.01998,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Crossakeel",
+    "gn:population":180,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Crosa Caoil"
+    ],
+    "name:und_x_variant":[
+        "Crosskeel",
+        "Crossakeel"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964994
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d8e085322335c5b26223cac543f9c9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293814153,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293814153,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Crossakeel",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01998,
+    53.71369,
+    -7.01998,
+    53.71369
+],
+  "geometry": {"coordinates":[-7.01998,53.71369],"type":"Point"}
+}

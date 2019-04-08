@@ -1,0 +1,72 @@
+{
+  "id": 1193046587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23778,54.79278,-8.23778,54.79278",
+    "geom:latitude":54.79278,
+    "geom:longitude":-8.23778,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Mullanmore",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3308650,
+    "gn:latitude":54.79278,
+    "gn:longitude":-8.23778,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Mullanmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mullanmore"
+    ],
+    "name:gle_x_preferred":[
+        "An Mull\u00e1n M\u00f3r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308650
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a0dc77a7034cf669c7f083aaa26b7682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193046587,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1193046587,
+    "wof:lastmodified":1537636773,
+    "wof:name":"Mullanmore",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23778,
+    54.79278000000001,
+    -8.23778,
+    54.79278000000001
+],
+  "geometry": {"coordinates":[-8.23778,54.79278000000001],"type":"Point"}
+}

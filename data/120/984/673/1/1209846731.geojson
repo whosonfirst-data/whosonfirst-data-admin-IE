@@ -1,0 +1,69 @@
+{
+  "id": 1209846731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65061,52.70199,-8.65061,52.70199",
+    "geom:latitude":52.70199,
+    "geom:longitude":-8.65061,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Ballycannan",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643960,
+    "gn:latitude":52.70199,
+    "gn:longitude":-8.65061,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Ballycannan",
+    "gn:population":646,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643960
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"481fa90738153efaf40da3a1c74fce60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209846731,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1209846731,
+    "wof:lastmodified":1536390312,
+    "wof:name":"Ballycannan",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":646,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65061,
+    52.70199,
+    -8.65061,
+    52.70199
+],
+  "geometry": {"coordinates":[-8.65061,52.70199],"type":"Point"}
+}

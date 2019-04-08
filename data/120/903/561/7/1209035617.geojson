@@ -1,0 +1,62 @@
+{
+  "id": 1209035617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64529,53.56905,-6.64529,53.56905",
+    "geom:latitude":53.56905,
+    "geom:longitude":-6.64529,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Ringlestown",
+    "gn:country_code":"IE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867295,
+    "gn:latitude":53.56905,
+    "gn:longitude":-6.64529,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ringlestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867295
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d8fd7c5668b1f496601cd7ec0c137c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209035617
+        }
+    ],
+    "wof:id":1209035617,
+    "wof:lastmodified":1536299710,
+    "wof:name":"Ringlestown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.645289999999998,
+    53.56905,
+    -6.645289999999998,
+    53.56905
+],
+  "geometry": {"coordinates":[-6.64529,53.56905],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 101804883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":288787.788488,
+    "geom:bbox":"-6.54752633675,53.7079396348,-6.5278489232,53.716688901",
+    "geom:latitude":53.712391,
+    "geom:longitude":-6.538001,
+    "gn:population":1349,
+    "iso:country":"IE",
+    "lbl:latitude":53.713528,
+    "lbl:longitude":-6.53815,
+    "mps:latitude":53.713528,
+    "mps:longitude":-6.53815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Slane"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Slane"
+    ],
+    "name:dut_x_preferred":[
+        "Slane"
+    ],
+    "name:eng_x_preferred":[
+        "Slane"
+    ],
+    "name:fra_x_preferred":[
+        "Slane"
+    ],
+    "name:fre_x_preferred":[
+        "Slane"
+    ],
+    "name:ger_x_preferred":[
+        "Slane"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Shl\u00e1ine"
+    ],
+    "name:glg_x_preferred":[
+        "Slane"
+    ],
+    "name:glv_x_preferred":[
+        "Baile Shl\u00e1ine"
+    ],
+    "name:ita_x_preferred":[
+        "Slane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30a4\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Slan\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Slane"
+    ],
+    "name:pol_x_preferred":[
+        "Slane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0435\u0439\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Slane"
+    ],
+    "name:swe_x_preferred":[
+        "Slane"
+    ],
+    "name:wel_x_preferred":[
+        "Baile Shl\u00e1ine"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Slane",
+    "qs:la_lc":"*IE2202167081",
+    "qs:level":"locality",
+    "qs:loc":"Slane",
+    "qs:loc_alt":"Slane",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2314,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11801f84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961450,
+        "gp:id":562239,
+        "qs:id":246157,
+        "qs_pg:id":246157,
+        "wd:id":"Q1778869",
+        "wk:page":"Slane"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c25527dec1da7f348e482b4c22b3ffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804883,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804883,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642753,
+    "wof:name":"Slane",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":1349,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5475263367498,
+    53.70793963481873,
+    -6.52784892319914,
+    53.71668890104456
+],
+  "geometry": {"coordinates":[[[-6.52932914916607,53.71474224262715],[-6.52898131467038,53.71387075071436],[-6.53194167055659,53.71346336856237],[-6.5322895618084,53.71433485086612],[-6.53673008253037,53.7137236291685],[-6.53638210615128,53.71285216128098],[-6.53934233104735,53.71244460039406],[-6.53864631695359,53.71070167975444],[-6.54012635300882,53.71049788211485],[-6.53977834366987,53.70962642455646],[-6.54125833825702,53.70942261385181],[-6.54091031793592,53.7085511597362],[-6.54535013799472,53.70793963481873],[-6.54569824340757,53.70881107451316],[-6.54717818558487,53.70860719232616],[-6.5475263367498,53.70947862584848],[-6.54308638581506,53.71009023322154],[-6.54343446927476,53.71096167980261],[-6.54195443105527,53.71116551799213],[-6.54230250353481,53.7120369680166],[-6.54082242384277,53.71224079314158],[-6.54151856422624,53.71398369871395],[-6.53115724229025,53.71541004143023],[-6.53150513992574,53.71628152581485],[-6.52854458756497,53.71668890104456],[-6.52784892319914,53.71494591169562],[-6.52932914916607,53.71474224262715]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225981085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15314,52.12638,-8.15314,52.12638",
+    "geom:latitude":52.12638,
+    "geom:longitude":-8.15314,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Ballyclough",
+    "gn:country_code":"IE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869967,
+    "gn:latitude":52.12638,
+    "gn:longitude":-8.15314,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballyclough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869967
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"34969bb31d7618cbc9c6f20b7da1fc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225981085,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1225981085,
+    "wof:lastmodified":1536817397,
+    "wof:name":"Ballyclough",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15314,
+    52.12638,
+    -8.15314,
+    52.12638
+],
+  "geometry": {"coordinates":[-8.15314,52.12638],"type":"Point"}
+}

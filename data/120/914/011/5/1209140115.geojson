@@ -1,0 +1,67 @@
+{
+  "id": 1209140115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95972,53.87056,-6.95972,53.87056",
+    "geom:latitude":53.87056,
+    "geom:longitude":-6.95972,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Relaghbeg",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961841,
+    "gn:latitude":53.87056,
+    "gn:longitude":-6.95972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Relaghbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Relagh",
+        "Relaghbeg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961841
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"25edaed4f73030a31c8a94856955de6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209140115
+        }
+    ],
+    "wof:id":1209140115,
+    "wof:lastmodified":1537636723,
+    "wof:name":"Relaghbeg",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95972,
+    53.87056,
+    -6.95972,
+    53.87056
+],
+  "geometry": {"coordinates":[-6.95972,53.87056],"type":"Point"}
+}

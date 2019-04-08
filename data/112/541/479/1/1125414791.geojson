@@ -1,0 +1,93 @@
+{
+  "id": 1125414791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3,54.23333,-8.3,54.23333",
+    "geom:latitude":54.23333,
+    "geom:longitude":-8.3,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":748,
+    "iso:country":"IE",
+    "lbl:latitude":54.23333,
+    "lbl:longitude":-8.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Drumahayre"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964632,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Drumahaire",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":131,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247888,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072959,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964632,
+        "gp:id":20072959,
+        "qs_pg:id":247888
+    },
+    "wof:country":"IE",
+    "wof:created":1497051109,
+    "wof:geomhash":"2ea5205ada909ed3431006b78cf87d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125414791,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1125414791,
+    "wof:lastmodified":1509390343,
+    "wof:name":"Drumahaire",
+    "wof:parent_id":85685133,
+    "wof:placetype":"localadmin",
+    "wof:population":748,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3,
+    54.23333,
+    -8.3,
+    54.23333
+],
+  "geometry": {"coordinates":[-8.3,54.23333],"type":"Point"}
+}

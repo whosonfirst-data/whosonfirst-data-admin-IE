@@ -1,0 +1,132 @@
+{
+  "id": 101803611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":368595.292775,
+    "geom:bbox":"-9.22563129041,52.0826125462,-9.20351710716,52.0867679951",
+    "geom:latitude":52.084391,
+    "geom:longitude":-9.21427,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":778,
+    "iso:country":"IE",
+    "lbl:latitude":52.08431,
+    "lbl:longitude":-9.216113,
+    "mps:latitude":52.08431,
+    "mps:longitude":-9.216113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Rathmore"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u0445\u043c\u043e\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Rathmore"
+    ],
+    "name:eng_x_preferred":[
+        "Rathmore"
+    ],
+    "name:ger_x_preferred":[
+        "Rathmore"
+    ],
+    "name:gle_x_preferred":[
+        "An R\u00e1th Mh\u00f3r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043c\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Rathmore"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kerry",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Rathmore",
+    "qs:la_lc":"*IE2503077148",
+    "qs:level":"locality",
+    "qs:loc":"Rathmore",
+    "qs:loc_alt":"Rathmore",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961893,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rathmore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062580,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562042,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ff248-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961893,
+        "gp:id":562042,
+        "qs:id":1062580,
+        "qs_pg:id":1062580,
+        "wd:id":"Q987750",
+        "wk:page":"Rathmore, County Kerry"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7dc808b5494ca14cd69d66276b4b51ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101803611,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":101803611,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379341,
+    "wof:name":"Rathmore",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":778,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126056099
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2256312904052,
+    52.08261254619754,
+    -9.20351710715988,
+    52.086767995054
+],
+  "geometry": {"coordinates":[[[-9.20967561556358,52.086767995054],[-9.20891100328146,52.08504275866665],[-9.20607945882477,52.08551267443551],[-9.20569722951973,52.08465004307754],[-9.20428146172304,52.08488497044664],[-9.20351710715988,52.083159691844],[-9.20634852994681,52.08268984111572],[-9.20673074776778,52.08355247088849],[-9.21239352956468,52.08261254619754],[-9.21277586474446,52.083475153275],[-9.21702288284655,52.08277001703743],[-9.21740531057981,52.08363260663418],[-9.2216522807787,52.08292730297251],[-9.22203480106384,52.08378987508434],[-9.22345045541141,52.08355473491764],[-9.22383301865307,52.08441729998714],[-9.2252486842047,52.08418213773535],[-9.2256312904052,52.08504469576161],[-9.21855270270964,52.08622036451254],[-9.21817022051005,52.08535778037191],[-9.21533873988648,52.08582791938761],[-9.21495632544895,52.08496532298477],[-9.21070907700431,52.08567038936872],[-9.21109141702675,52.08653300143351],[-9.20967561556358,52.086767995054]]],"type":"Polygon"}
+}

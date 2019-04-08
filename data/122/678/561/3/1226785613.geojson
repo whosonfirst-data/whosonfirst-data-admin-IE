@@ -1,0 +1,66 @@
+{
+  "id": 1226785613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27095,53.84138,-9.27095,53.84138",
+    "geom:latitude":53.84138,
+    "geom:longitude":-9.27095,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Balloor",
+    "gn:country_code":"IE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130204,
+    "gn:latitude":53.84138,
+    "gn:longitude":-9.27095,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Balloor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130204
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7959d73e69cbac9d16736f30cb9dc992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226785613,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1226785613,
+    "wof:lastmodified":1536658173,
+    "wof:name":"Balloor",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27095,
+    53.84138000000001,
+    -9.27095,
+    53.84138000000001
+],
+  "geometry": {"coordinates":[-9.27095,53.84138000000001],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125853673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4575,52.88806,-8.4575,52.88806",
+    "geom:latitude":52.88806,
+    "geom:longitude":-8.4575,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.88806,
+    "lbl:longitude":-8.4575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ogonnelloe"
+    ],
+    "name:eng_x_preferred":[
+        "Ogonnelloe"
+    ],
+    "name:gle_x_preferred":[
+        "Tuath U\u00ed gConaile"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3305688,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ogonnelloe",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":206210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":23696337,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305688,
+        "gp:id":23696337,
+        "qs_pg:id":206210,
+        "wd:id":"Q13157908"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293518,
+    "wof:geomhash":"94da5ec17a8fb268b510f6fce551cf4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125853673,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125853673,
+    "wof:lastmodified":1514450628,
+    "wof:name":"Ogonnelloe",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4575,
+    52.88806,
+    -8.4575,
+    52.88806
+],
+  "geometry": {"coordinates":[-8.4575,52.88806],"type":"Point"}
+}

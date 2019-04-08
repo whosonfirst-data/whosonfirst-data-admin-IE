@@ -1,0 +1,107 @@
+{
+  "id": 101804729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":428314.723456,
+    "geom:bbox":"-8.87665317642,52.6338579535,-8.86498451648,52.6471672012",
+    "geom:latitude":52.641022,
+    "geom:longitude":-8.869428,
+    "gn:population":664,
+    "iso:country":"IE",
+    "lbl:latitude":52.642806,
+    "lbl:longitude":-8.868367,
+    "mps:latitude":52.642806,
+    "mps:longitude":-8.868367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Pallaskenry"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0441\u043a\u0435\u043d\u0440\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Pallaskenry"
+    ],
+    "name:eng_x_preferred":[
+        "Pallaskenry"
+    ],
+    "name:eus_x_preferred":[
+        "Pallaskenry"
+    ],
+    "name:gle_x_preferred":[
+        "Pail\u00eds Chaonra\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043b\u0430\u0441\u043a\u0435\u043d\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pallaskenry"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Pallaskenry",
+    "qs:la_lc":"*IE2303127118",
+    "qs:level":"locality",
+    "qs:loc":"Pallaskenry",
+    "qs:loc_alt":"Pallaskenry",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d96ce-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962080,
+        "gp:id":20073253,
+        "qs:id":6,
+        "wd:id":"Q4342718",
+        "wk:page":"Pallaskenry"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cd60a4913e6622385b71f01c0b989c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804729,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101804729,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642758,
+    "wof:name":"Pallaskenry",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":664,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87665317641978,
+    52.63385795352104,
+    -8.86498451647793,
+    52.64716720118292
+],
+  "geometry": {"coordinates":[[[-8.86794931411742,52.64716720118292],[-8.86756678043082,52.64630354092543],[-8.86613192974829,52.64653479883196],[-8.86498451647793,52.64394379180897],[-8.86641928998563,52.64371254960048],[-8.86527196543631,52.64112154244765],[-8.86670664795065,52.64089029879892],[-8.8655594121102,52.63829929151461],[-8.86699400364517,52.63806804642559],[-8.86661160283808,52.63720437904516],[-8.86948069300104,52.63674184792842],[-8.86909825919543,52.63587818925214],[-8.87196724262941,52.63541560006632],[-8.87158477583256,52.63455195009487],[-8.87588807015362,52.63385795352104],[-8.87665317641978,52.63558522030758],[-8.87091521734203,52.63651055666992],[-8.87129769528735,52.63737420835486],[-8.86986314523438,52.63760550484545],[-8.87024561589743,52.6384691600033],[-8.86881102630258,52.63870044459247],[-8.87072352751971,52.64301872015574],[-8.87215824569881,52.64278740940176],[-8.87330604481332,52.64537833792554],[-8.86900161727937,52.64607226588134],[-8.86938417669205,52.64693592090532],[-8.86794931411742,52.64716720118292]]],"type":"Polygon"}
+}

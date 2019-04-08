@@ -1,0 +1,73 @@
+{
+  "id": 1277113397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86404,53.14376,-6.86404,53.14376",
+    "geom:latitude":53.14376,
+    "geom:longitude":-6.86404,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Maddenstown",
+    "gn:country_code":"IE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644000,
+    "gn:latitude":53.14376,
+    "gn:longitude":-6.86404,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Maddenstown",
+    "gn:population":145,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Baile U\u00ed Mhada\u00edn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644000,
+        "wk:page":"Maddenstown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3ebf56561a168229317ca50fa7a81843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277113397,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1277113397,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Maddenstown",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86404,
+    53.14376,
+    -6.86404,
+    53.14376
+],
+  "geometry": {"coordinates":[-6.86404,53.14376],"type":"Point"}
+}

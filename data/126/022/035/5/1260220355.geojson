@@ -1,0 +1,72 @@
+{
+  "id": 1260220355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57972,53.41667,-8.57972,53.41667",
+    "geom:latitude":53.41667,
+    "geom:longitude":-8.57972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Menlough",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312546,
+    "gn:latitude":53.41667,
+    "gn:longitude":-8.57972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Menlough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Menlough"
+    ],
+    "name:gle_x_preferred":[
+        "Mionlach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312546
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d489172a5f55c0cd5923209637756374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260220355,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1260220355,
+    "wof:lastmodified":1537636781,
+    "wof:name":"Menlough",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57972,
+    53.41667,
+    -8.57972,
+    53.41667
+],
+  "geometry": {"coordinates":[-8.57972,53.41667],"type":"Point"}
+}

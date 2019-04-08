@@ -1,0 +1,66 @@
+{
+  "id": 1242909451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01861,53.91889,-9.01861,53.91889",
+    "geom:latitude":53.91889,
+    "geom:longitude":-9.01861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Meelick",
+    "gn:country_code":"IE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315854,
+    "gn:latitude":53.91889,
+    "gn:longitude":-9.01861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Meelick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315854
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d65298a5aae8655b35ebbefa60f26e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242909451,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1242909451,
+    "wof:lastmodified":1537079532,
+    "wof:name":"Meelick",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01861,
+    53.91889000000001,
+    -9.01861,
+    53.91889000000001
+],
+  "geometry": {"coordinates":[-9.01861,53.91889000000001],"type":"Point"}
+}

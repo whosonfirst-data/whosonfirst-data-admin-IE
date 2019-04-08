@@ -1,0 +1,72 @@
+{
+  "id": 101911115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:bbox":"-6.09518692674,53.1093136933,-6.08136723626,53.1158210838",
+    "geom:latitude":53.11292,
+    "geom:longitude":-6.08916,
+    "iso:country":"IE",
+    "lbl:latitude":53.112227,
+    "lbl:longitude":-6.090888,
+    "mps:latitude":53.112227,
+    "mps:longitude":-6.090888,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wicklow",
+    "qs:a1r":"2",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Kilcoole",
+    "qs:la_lc":"*IE2203257048",
+    "qs:level":"locality",
+    "qs:loc":"Kilpedder East",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387372,
+        "qs:id":1025895,
+        "qs_pg:id":1025895
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5896b84471ac62716f43ab5a86c6b297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101911115,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":101911115,
+    "wof:lastmodified":1497301554,
+    "wof:name":"Kilpedder East",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09518692674328,
+    53.10931369329404,
+    -6.08136723626177,
+    53.11582108378792
+],
+  "geometry": {"coordinates":[[[-6.0914657755153,53.11582108378792],[-6.09113372961946,53.11494801828889],[-6.0852864780046,53.11573972605419],[-6.08495455900032,53.11486664090387],[-6.08203091466925,53.1152623797305],[-6.08136723626177,53.11351618718669],[-6.08429077006002,53.11312046670577],[-6.08395890012156,53.11224737765832],[-6.08834402571205,53.11165367835207],[-6.08768016912899,53.10990752387949],[-6.09206501829561,53.10931369329404],[-6.09239702128167,53.11018675741747],[-6.09385864069731,53.109988774013],[-6.09518692674328,53.11348099914665],[-6.09372519682677,53.11367900090653],[-6.09405728161937,53.11455205852758],[-6.0925955117707,53.11475004723138],[-6.09292758529762,53.11562310814116],[-6.0914657755153,53.11582108378792]]],"type":"Polygon"}
+}

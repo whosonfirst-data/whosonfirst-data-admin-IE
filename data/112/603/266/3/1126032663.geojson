@@ -1,0 +1,80 @@
+{
+  "id": 1126032663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.164488,53.1598795,-6.164488,53.1598795",
+    "geom:latitude":53.15988,
+    "geom:longitude":-6.164488,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.15988,
+    "lbl:longitude":-6.164488,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Killough Lower",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1025893,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387362,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387362,
+        "qs_pg:id":1025893
+    },
+    "wof:country":"IE",
+    "wof:created":1497301571,
+    "wof:geomhash":"c99d2ad917f05cfb6892d30ac33854ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126032663,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1126032663,
+    "wof:lastmodified":1509408018,
+    "wof:name":"Killough Lower",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.164488,
+    53.1598795,
+    -6.164488,
+    53.1598795
+],
+  "geometry": {"coordinates":[-6.164488,53.1598795],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209649035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.41694,52.91417,-6.41694,52.91417",
+    "geom:latitude":52.91417,
+    "geom:longitude":-6.41694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Aghavannagh",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2967049,
+    "gn:latitude":52.91417,
+    "gn:longitude":-6.41694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aghavannagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aghavannah",
+        "Aghavannagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967049,
+        "wk:page":"Aghavannagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ab5521b76b3127341f5e9d14e0c5108d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209649035
+        }
+    ],
+    "wof:id":1209649035,
+    "wof:lastmodified":1537636762,
+    "wof:name":"Aghavannagh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.41694,
+    52.91417,
+    -6.41694,
+    52.91417
+],
+  "geometry": {"coordinates":[-6.41694,52.91417],"type":"Point"}
+}

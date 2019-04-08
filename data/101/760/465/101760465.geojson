@@ -1,0 +1,124 @@
+{
+  "id": 101760465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:area_square_m":1585992.759577,
+    "geom:bbox":"-6.4528646541,53.275373606,-6.43203347724,53.2934305193",
+    "geom:latitude":53.283055,
+    "geom:longitude":-6.443303,
+    "gn:population":2144,
+    "iso:country":"IE",
+    "lbl:latitude":53.283527,
+    "lbl:longitude":-6.444329,
+    "mps:latitude":53.283527,
+    "mps:longitude":-6.444329,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0433\u0430\u0440\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Saggart"
+    ],
+    "name:eng_x_preferred":[
+        "Saggart"
+    ],
+    "name:fra_x_preferred":[
+        "Saggart"
+    ],
+    "name:fre_x_preferred":[
+        "Saggart"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d2\u10d0\u10e0\u10e2\u10d8"
+    ],
+    "name:gla_x_preferred":[
+        "Teach Sagard"
+    ],
+    "name:gle_x_preferred":[
+        "Teach Sagard"
+    ],
+    "name:ita_x_preferred":[
+        "Saggart"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d2\u10d0\u10e0\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Saggart"
+    ],
+    "name:pol_x_preferred":[
+        "Saggart"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0433\u0430\u0440\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Saggart"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u06af\u0627\u0631\u0679"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*South Dublin",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Donabate",
+    "qs:la_lc":"*IE2103267065",
+    "qs:level":"locality",
+    "qs:loc":"Saggart",
+    "qs:loc_alt":"Saggart",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly reup",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":784,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961636,
+        "gp:id":562162,
+        "wd:id":"Q2639382",
+        "wk:page":"Saggart"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"23702f5b94d26aa8467279b6ff540cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101760465,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":101760465,
+    "wof:lastmodified":1527689329,
+    "wof:name":"Saggart",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:population":2144,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.45286465409623,
+    53.27537360600184,
+    -6.43203347723511,
+    53.29343051930601
+],
+  "geometry": {"coordinates":[[[-6.43869010282566,53.28879902691637],[-6.43868815877664,53.28879405749757],[-6.44015434072202,53.28859175049638],[-6.43844900795358,53.28423225455259],[-6.43508879058629,53.28469582780349],[-6.43203347723511,53.27960363888457],[-6.43347139871679,53.27940530754086],[-6.43313053933127,53.27853338677221],[-6.43459640101958,53.27833115395543],[-6.43391467731198,53.27658731777774],[-6.4427092484396,53.27537360600184],[-6.44373235848684,53.27798927350239],[-6.44666394716302,53.27758453319393],[-6.44700507302116,53.27845641023612],[-6.45140244410425,53.27784915302078],[-6.45208491279328,53.27959287478012],[-6.45228709273448,53.27956494903287],[-6.45286465409623,53.2859181240126],[-6.45154201723807,53.28610079892229],[-6.45188333948613,53.28697265771723],[-6.45041725906003,53.2871751062205],[-6.45075857043588,53.2880469683742],[-6.44929244957126,53.2882494039028],[-6.44963375007273,53.28912126941555],[-6.44670141476865,53.28952609683409],[-6.44704267664383,53.29039797041753],[-6.44557646220227,53.29060036230641],[-6.44630727621529,53.29246740786351],[-6.44500577426595,53.29343051930601],[-6.43869010282566,53.28879902691637]]],"type":"Polygon"}
+}

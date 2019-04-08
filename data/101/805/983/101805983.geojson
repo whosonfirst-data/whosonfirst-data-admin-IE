@@ -1,0 +1,136 @@
+{
+  "id": 101805983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":647466.470666,
+    "geom:bbox":"-6.96927110307,52.5364529126,-6.95178435256,52.5497174398",
+    "geom:latitude":52.542734,
+    "geom:longitude":-6.958866,
+    "gn:population":1543,
+    "iso:country":"IE",
+    "lbl:latitude":52.541522,
+    "lbl:longitude":-6.958137,
+    "mps:latitude":52.541522,
+    "mps:longitude":-6.958137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0438\u0433\u0443\u0435\u043d\u0430\u043c\u0430\u043d\u0430\u0433\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:eng_x_colloquial":[
+        "Graig na Manach"
+    ],
+    "name:eng_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:eng_x_variant":[
+        "Graigue",
+        "Graiguenamanagh-Tinnahinch",
+        "Gr\u00e1ig na Manach"
+    ],
+    "name:fra_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:fre_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e0\u10d4\u10d8\u10d2\u10dc\u10d0\u10db\u10d0\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:gle_x_preferred":[
+        "Gr\u00e1ig na Manach"
+    ],
+    "name:ita_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d4\u10d8\u10d2\u10dc\u10d0\u10db\u10d0\u10dc\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Greignamana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u0439\u0433\u043d\u0430\u043c\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Graiguenamanagh"
+    ],
+    "name:unk_x_variant":[
+        "Graigue"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kilkenny",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Graiguenamanagh",
+    "qs:la_lc":"*IE2402097048",
+    "qs:level":"locality",
+    "qs:loc":"Graiguenamanagh",
+    "qs:loc_alt":"Graiguenamanagh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":687,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117fed02-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963905,
+        "gp:id":561049,
+        "qs:id":6,
+        "wd:id":"Q1114609",
+        "wk:page":"Graiguenamanagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"69ee500a42ee065991c0b1a1a2ba2124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805983,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":101805983,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642961,
+    "wof:name":"Graiguenamanagh",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":1543,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96927110307314,
+    52.5364529126112,
+    -6.95178435255565,
+    52.54971743980644
+],
+  "geometry": {"coordinates":[[[-6.95706577330367,52.54710617185435],[-6.95850562405752,52.5468980574625],[-6.95747599428444,52.54428679071299],[-6.95603622281277,52.54449489092667],[-6.95569307255727,52.54362446106762],[-6.95425331504504,52.54383253925096],[-6.95356711723792,52.54209166575828],[-6.95212740011169,52.54229971718769],[-6.95178435255565,52.54142927355537],[-6.95322404325839,52.54122122685033],[-6.95185191347127,52.53773945680632],[-6.95329148603224,52.53753141169307],[-6.95294846869558,52.53666097030299],[-6.95438800238117,52.5364529126112],[-6.95541718347715,52.539064218286],[-6.96117551060246,52.53823175780576],[-6.96083232795922,52.53736134292262],[-6.96227185216617,52.53715318927311],[-6.96330152919745,52.53976441541704],[-6.9618619257455,52.53997258324472],[-6.96254840737237,52.54171340291379],[-6.96110873861608,52.54192156289173],[-6.96213850646893,52.5445327957558],[-6.96357825449013,52.54432462159701],[-6.96426490236661,52.54606542683882],[-6.96570469076278,52.54585722592009],[-6.96604806606899,52.54672762164859],[-6.96892765828642,52.54631115843978],[-6.96927110307314,52.5471815432673],[-6.96495161675875,52.54780622630926],[-6.9646082512474,52.54693582729544],[-6.96028873194223,52.54756034040389],[-6.96063201816958,52.54843075360083],[-6.95919212702699,52.54863889475246],[-6.95953540345135,52.54950931123443],[-6.95809547340548,52.54971743980644],[-6.95706577330367,52.54710617185435]]],"type":"Polygon"}
+}

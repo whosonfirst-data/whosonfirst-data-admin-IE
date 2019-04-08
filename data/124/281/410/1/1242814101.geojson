@@ -1,0 +1,66 @@
+{
+  "id": 1242814101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66278,52.14778,-9.66278,52.14778",
+    "geom:latitude":52.14778,
+    "geom:longitude":-9.66278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ardywanig",
+    "gn:country_code":"IE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290951,
+    "gn:latitude":52.14778,
+    "gn:longitude":-9.66278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardywanig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290951
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fc4d9f506b31a90d82f0e0a515be8c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242814101,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1242814101,
+    "wof:lastmodified":1536723352,
+    "wof:name":"Ardywanig",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66278,
+    52.14778,
+    -9.66278,
+    52.14778
+],
+  "geometry": {"coordinates":[-9.66278,52.14778],"type":"Point"}
+}

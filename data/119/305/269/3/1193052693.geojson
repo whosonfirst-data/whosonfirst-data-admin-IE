@@ -1,0 +1,72 @@
+{
+  "id": 1193052693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.02944,53.41111,-9.02944,53.41111",
+    "geom:latitude":53.41111,
+    "geom:longitude":-9.02944,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Grange",
+    "gn:country_code":"IE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963892,
+    "gn:latitude":53.41111,
+    "gn:longitude":-9.02944,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Grange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grange"
+    ],
+    "name:gle_x_preferred":[
+        "An Ghr\u00e1inseach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963892
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f6f9d6c08dfa40bc1908b8b9c5f0a524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193052693,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1193052693,
+    "wof:lastmodified":1537636737,
+    "wof:name":"Grange",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.02944,
+    53.41111,
+    -9.02944,
+    53.41111
+],
+  "geometry": {"coordinates":[-9.02944,53.41111],"type":"Point"}
+}

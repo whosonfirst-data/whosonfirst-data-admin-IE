@@ -1,0 +1,66 @@
+{
+  "id": 1293327807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71583,53.20833,-8.71583,53.20833",
+    "geom:latitude":53.20833,
+    "geom:longitude":-8.71583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Shanelogh",
+    "gn:country_code":"IE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312318,
+    "gn:latitude":53.20833,
+    "gn:longitude":-8.71583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Shanelogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312318
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"36b0be37ef40bc5dbf5a06d39871e153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293327807,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293327807,
+    "wof:lastmodified":1537016556,
+    "wof:name":"Shanelogh",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71583,
+    53.20833,
+    -8.71583,
+    53.20833
+],
+  "geometry": {"coordinates":[-8.71583,53.20833],"type":"Point"}
+}

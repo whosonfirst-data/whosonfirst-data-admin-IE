@@ -1,0 +1,66 @@
+{
+  "id": 1210053511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.77361,52.11056,-9.77361,52.11056",
+    "geom:latitude":52.11056,
+    "geom:longitude":-9.77361,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Hillville",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290716,
+    "gn:latitude":52.11056,
+    "gn:longitude":-9.77361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Hillville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290716
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"37fcfab63ce3d3147458b59a0ea246c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1210053511,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1210053511,
+    "wof:lastmodified":1536370976,
+    "wof:name":"Hillville",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.77361,
+    52.11056,
+    -9.77361,
+    52.11056
+],
+  "geometry": {"coordinates":[-9.77361,52.11056],"type":"Point"}
+}

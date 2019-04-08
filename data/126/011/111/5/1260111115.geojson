@@ -1,0 +1,72 @@
+{
+  "id": 1260111115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.19869,53.90799,-9.19869,53.90799",
+    "geom:latitude":53.90799,
+    "geom:longitude":-9.19869,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Park",
+    "gn:country_code":"IE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315825,
+    "gn:latitude":53.90799,
+    "gn:longitude":-9.19869,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Park",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Park"
+    ],
+    "name:gle_x_preferred":[
+        "An Ph\u00e1irc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315825
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a3040aaf5ff94b1f0fcb623ee7e02680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260111115,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1260111115,
+    "wof:lastmodified":1537636786,
+    "wof:name":"Park",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.19869,
+    53.90799000000001,
+    -9.19869,
+    53.90799000000001
+],
+  "geometry": {"coordinates":[-9.19869,53.90799000000001],"type":"Point"}
+}

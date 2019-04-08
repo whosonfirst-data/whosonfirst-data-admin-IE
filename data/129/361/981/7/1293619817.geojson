@@ -1,0 +1,76 @@
+{
+  "id": 1293619817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14367,51.55595,-9.14367,51.55595",
+    "geom:latitude":51.55595,
+    "geom:longitude":-9.14367,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Unionhall",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961035,
+    "gn:latitude":51.55595,
+    "gn:longitude":-9.14367,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Unionhall",
+    "gn:population":252,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Unionhall"
+    ],
+    "name:gle_x_preferred":[
+        "Br\u00e9antr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961035,
+        "wk:page":"Union_Hall%2C_County_Cork"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ad8b5ef80fa297263a7d0745cb4f6a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293619817,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293619817,
+    "wof:lastmodified":1537636718,
+    "wof:name":"Unionhall",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":252,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14367,
+    51.55595,
+    -9.14367,
+    51.55595
+],
+  "geometry": {"coordinates":[-9.14367,51.55595],"type":"Point"}
+}

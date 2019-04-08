@@ -1,0 +1,67 @@
+{
+  "id": 1343798425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88278,53.78861,-6.88278,53.78861",
+    "geom:latitude":53.78861,
+    "geom:longitude":-6.88278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Moynalty",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962427,
+    "gn:latitude":53.78861,
+    "gn:longitude":-6.88278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moynalty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962427,
+        "wk:page":"Moynalty"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"20cea9d66269b6b398e4435c121a1f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343798425,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343798425,
+    "wof:lastmodified":1537564840,
+    "wof:name":"Moynalty",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88278,
+    53.78861,
+    -6.88278,
+    53.78861
+],
+  "geometry": {"coordinates":[-6.88278,53.78861],"type":"Point"}
+}

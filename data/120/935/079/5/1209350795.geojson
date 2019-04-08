@@ -1,0 +1,62 @@
+{
+  "id": 1209350795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26639,53.34222,-8.26639,53.34222",
+    "geom:latitude":53.34222,
+    "geom:longitude":-8.26639,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Derrymullan",
+    "gn:country_code":"IE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964800,
+    "gn:latitude":53.34222,
+    "gn:longitude":-8.26639,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derrymullan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964800
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4a15d4ce80144a1d8b2b0beba688f6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209350795
+        }
+    ],
+    "wof:id":1209350795,
+    "wof:lastmodified":1536289748,
+    "wof:name":"Derrymullan",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26639,
+    53.34222,
+    -8.26639,
+    53.34222
+],
+  "geometry": {"coordinates":[-8.26639,53.34222],"type":"Point"}
+}

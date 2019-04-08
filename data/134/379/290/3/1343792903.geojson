@@ -1,0 +1,73 @@
+{
+  "id": 1343792903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.55,52.16667,-9.55,52.16667",
+    "geom:latitude":52.16667,
+    "geom:longitude":-9.55,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Farranfore",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964352,
+    "gn:latitude":52.16667,
+    "gn:longitude":-9.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farranfore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Farranfore"
+    ],
+    "name:gle_x_preferred":[
+        "An Fearann Fuar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964352,
+        "wk:page":"Farranfore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e2cf2c08f70bfd113a57e0293be96ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343792903,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1343792903,
+    "wof:lastmodified":1537636741,
+    "wof:name":"Farranfore",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.55,
+    52.16667,
+    -9.55,
+    52.16667
+],
+  "geometry": {"coordinates":[-9.55,52.16667],"type":"Point"}
+}

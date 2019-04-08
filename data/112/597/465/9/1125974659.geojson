@@ -1,0 +1,111 @@
+{
+  "id": 1125974659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36667,53.53333,-9.36667,53.53333",
+    "geom:latitude":53.53333,
+    "geom:longitude":-9.36667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.53333,
+    "lbl:longitude":-9.36667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "An Fhairche"
+    ],
+    "name:cat_x_preferred":[
+        "An Fhairche"
+    ],
+    "name:dut_x_preferred":[
+        "An Fhairche"
+    ],
+    "name:eng_x_preferred":[
+        "Cloonbur"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10da\u10dd\u10dc\u10d1\u10e3\u10e0\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "An Fhairche"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30f3\u30d0\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0431\u0435\u0440"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965388,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Clonbur",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475896,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560344,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965388,
+        "gp:id":560344,
+        "qs_pg:id":475896,
+        "wd:id":"Q2085894"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298299,
+    "wof:geomhash":"12165b7a5bfd2204d93810ab63256be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125974659,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125974659,
+    "wof:lastmodified":1514450455,
+    "wof:name":"Clonbur",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36667,
+    53.53333,
+    -9.36667,
+    53.53333
+],
+  "geometry": {"coordinates":[-9.36667,53.53333],"type":"Point"}
+}

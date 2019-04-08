@@ -1,0 +1,73 @@
+{
+  "id": 1277113753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11518,52.90963,-6.11518,52.90963",
+    "geom:latitude":52.90963,
+    "geom:longitude":-6.11518,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Barndarrig",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643029,
+    "gn:latitude":52.90963,
+    "gn:longitude":-6.11518,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Barndarrig",
+    "gn:population":233,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "An Bhearn Dearg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643029,
+        "wk:page":"Barndarrig"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cadba0de5ac6b2a065573d9c8ef3258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277113753,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1277113753,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Barndarrig",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":233,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11518,
+    52.90963000000001,
+    -6.11518,
+    52.90963000000001
+],
+  "geometry": {"coordinates":[-6.11518,52.90963000000001],"type":"Point"}
+}

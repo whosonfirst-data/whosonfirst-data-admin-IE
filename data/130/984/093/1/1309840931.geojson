@@ -1,0 +1,66 @@
+{
+  "id": 1309840931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20386,53.82845,-9.20386,53.82845",
+    "geom:latitude":53.82845,
+    "geom:longitude":-9.20386,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Lakeland",
+    "gn:country_code":"IE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130582,
+    "gn:latitude":53.82845,
+    "gn:longitude":-9.20386,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Lakeland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130582
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"73c946194b267ef08801978e0d32c251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309840931,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1309840931,
+    "wof:lastmodified":1536879696,
+    "wof:name":"Lakeland",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20386,
+    53.82845,
+    -9.20386,
+    53.82845
+],
+  "geometry": {"coordinates":[-9.20386,53.82845],"type":"Point"}
+}

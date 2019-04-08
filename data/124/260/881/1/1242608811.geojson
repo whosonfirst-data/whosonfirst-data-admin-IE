@@ -1,0 +1,70 @@
+{
+  "id": 1242608811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91667,54.11667,-7.91667,54.11667",
+    "geom:latitude":54.11667,
+    "geom:longitude":-7.91667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Ballynameeltoge",
+    "gn:country_code":"IE",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966454,
+    "gn:latitude":54.11667,
+    "gn:longitude":-7.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballynameeltoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballynameeltogue",
+        "Ballynameeltoge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966454
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"92128b2854020573e1c9306d3b3a93ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608811,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1242608811,
+    "wof:lastmodified":1537636756,
+    "wof:name":"Ballynameeltoge",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91667,
+    54.11666999999999,
+    -7.91667,
+    54.11666999999999
+],
+  "geometry": {"coordinates":[-7.91667,54.11666999999999],"type":"Point"}
+}

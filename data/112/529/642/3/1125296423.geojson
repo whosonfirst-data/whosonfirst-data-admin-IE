@@ -1,0 +1,80 @@
+{
+  "id": 1125296423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25464,54.11259,-9.25464,54.11259",
+    "geom:latitude":54.11259,
+    "geom:longitude":-9.25464,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":54.11259,
+    "lbl:longitude":-9.25464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Carrowmore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":117,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233671,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073413,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073413,
+        "qs_pg:id":233671
+    },
+    "wof:country":"IE",
+    "wof:created":1497043169,
+    "wof:geomhash":"5bfc029509400b25bb5e1b1df45c19d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125296423,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125296423,
+    "wof:lastmodified":1509387633,
+    "wof:name":"Carrowmore",
+    "wof:parent_id":85685145,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25464,
+    54.11259,
+    -9.25464,
+    54.11259
+],
+  "geometry": {"coordinates":[-9.25464,54.11259],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259516975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.33556,52.61444,-8.33556,52.61444",
+    "geom:latitude":52.61444,
+    "geom:longitude":-8.33556,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Cappamore",
+    "gn:country_code":"IE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965791,
+    "gn:latitude":52.61444,
+    "gn:longitude":-8.33556,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Cappamore",
+    "gn:population":675,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cappamore"
+    ],
+    "name:gle_x_preferred":[
+        "An Cheapach Mh\u00f3r"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965791,
+        "wk:page":"Cappamore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9a8cf9ca6b09ba9e68d970dc153e25f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259516975,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1259516975,
+    "wof:lastmodified":1537636751,
+    "wof:name":"Cappamore",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":675,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.33556,
+    52.61444,
+    -8.33556,
+    52.61444
+],
+  "geometry": {"coordinates":[-8.33556,52.61444],"type":"Point"}
+}

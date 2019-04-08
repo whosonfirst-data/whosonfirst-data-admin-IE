@@ -1,0 +1,72 @@
+{
+  "id": 1310238807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97944,54.12139,-8.97944,54.12139",
+    "geom:latitude":54.12139,
+    "geom:longitude":-8.97944,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Carrownaglogh",
+    "gn:country_code":"IE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310792,
+    "gn:latitude":54.12139,
+    "gn:longitude":-8.97944,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Carrownaglogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carrownaglogh"
+    ],
+    "name:gle_x_preferred":[
+        "Cheathr\u00fa na gCloch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310792
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"586463faffa5942a17eb157cdcce2fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310238807,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1310238807,
+    "wof:lastmodified":1537636777,
+    "wof:name":"Carrownaglogh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97944,
+    54.12139000000001,
+    -8.97944,
+    54.12139000000001
+],
+  "geometry": {"coordinates":[-8.97944,54.12139000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209751975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33528,53.84333,-6.33528,53.84333",
+    "geom:latitude":53.84333,
+    "geom:longitude":-6.33528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Clonmore",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316440,
+    "gn:latitude":53.84333,
+    "gn:longitude":-6.33528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Clonmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316440
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eb7cec1e48b07e6b6d95592cbf05b9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209751975,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1209751975,
+    "wof:lastmodified":1536392338,
+    "wof:name":"Clonmore",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33528,
+    53.84333,
+    -6.33528,
+    53.84333
+],
+  "geometry": {"coordinates":[-6.33528,53.84333],"type":"Point"}
+}

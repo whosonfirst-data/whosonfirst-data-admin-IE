@@ -1,0 +1,66 @@
+{
+  "id": 1209849927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85556,52.2025,-8.85556,52.2025",
+    "geom:latitude":52.2025,
+    "geom:longitude":-8.85556,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballynoe",
+    "gn:country_code":"IE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292601,
+    "gn:latitude":52.2025,
+    "gn:longitude":-8.85556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballynoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292601
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4845f17915d1b02f96d89f2227454dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209849927,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1209849927,
+    "wof:lastmodified":1536388917,
+    "wof:name":"Ballynoe",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85556,
+    52.2025,
+    -8.85556,
+    52.2025
+],
+  "geometry": {"coordinates":[-8.85556,52.2025],"type":"Point"}
+}

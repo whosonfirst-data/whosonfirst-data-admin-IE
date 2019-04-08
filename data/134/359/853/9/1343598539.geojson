@@ -1,0 +1,66 @@
+{
+  "id": 1343598539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14096,53.71218,-7.14096,53.71218",
+    "geom:latitude":53.71218,
+    "geom:longitude":-7.14096,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Belleek",
+    "gn:country_code":"IE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866450,
+    "gn:latitude":53.71218,
+    "gn:longitude":-7.14096,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Belleek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866450
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7c081a4783713e0431205c0716c86af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343598539,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343598539,
+    "wof:lastmodified":1537042488,
+    "wof:name":"Belleek",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14096,
+    53.71218,
+    -7.14096,
+    53.71218
+],
+  "geometry": {"coordinates":[-7.14096,53.71218],"type":"Point"}
+}

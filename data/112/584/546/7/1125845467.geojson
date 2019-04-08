@@ -1,0 +1,130 @@
+{
+  "id": 1125845467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.79417,53.96417,-8.79417,53.96417",
+    "geom:latitude":53.96417,
+    "geom:longitude":-8.79417,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":914,
+    "iso:country":"IE",
+    "lbl:latitude":53.96417,
+    "lbl:longitude":-8.79417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Charlestown"
+    ],
+    "name:eng_x_preferred":[
+        "Charlestown"
+    ],
+    "name:fre_x_preferred":[
+        "Charlestown"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10d0\u10e0\u10da\u10d6\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Charlestown"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Chathail"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Chathail"
+    ],
+    "name:ita_x_preferred":[
+        "Charlestown"
+    ],
+    "name:lit_x_preferred":[
+        "\u010carstaunas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u043b\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Charlestown"
+    ],
+    "name:unk_x_variant":[
+        "Newtown-Dillon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0631\u0644\u0633 \u0679\u0627\u0624\u0646\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0645\u06cc\u0648"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965518,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Charlestown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":149,
+    "qs_pg:photos_1k":30,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":149,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887935,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560260,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965518,
+        "gp:id":560260,
+        "qs_pg:id":887935,
+        "wd:id":"Q1066696"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293136,
+    "wof:geomhash":"1d26d3df4b0b4a9e8723fcc6f40719bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125845467,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125845467,
+    "wof:lastmodified":1553816568,
+    "wof:name":"Charlestown",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":914,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.79417,
+    53.96417,
+    -8.79417,
+    53.96417
+],
+  "geometry": {"coordinates":[-8.79417,53.96417],"type":"Point"}
+}

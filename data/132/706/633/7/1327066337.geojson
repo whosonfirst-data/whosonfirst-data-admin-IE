@@ -1,0 +1,66 @@
+{
+  "id": 1327066337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48502,53.93112,-9.48502,53.93112",
+    "geom:latitude":53.93112,
+    "geom:longitude":-9.48502,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Skerdagh Lower",
+    "gn:country_code":"IE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130340,
+    "gn:latitude":53.93112,
+    "gn:longitude":-9.48502,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Skerdagh Lower",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130340
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d63444ebe849d2cd2329e7c69e71b8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327066337,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327066337,
+    "wof:lastmodified":1536711711,
+    "wof:name":"Skerdagh Lower",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48502,
+    53.93111999999999,
+    -9.48502,
+    53.93111999999999
+],
+  "geometry": {"coordinates":[-9.48502,53.93111999999999],"type":"Point"}
+}

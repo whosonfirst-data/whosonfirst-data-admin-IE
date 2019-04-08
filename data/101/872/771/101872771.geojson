@@ -1,0 +1,102 @@
+{
+  "id": 101872771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20205,53.88358,-9.20205,53.88358",
+    "geom:latitude":53.88358,
+    "geom:longitude":-9.20205,
+    "gn:population":272,
+    "iso:country":"IE",
+    "lbl:latitude":53.88358,
+    "lbl:longitude":-9.20205,
+    "mps:latitude":53.88358,
+    "mps:longitude":-9.20205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Turlough"
+    ],
+    "name:dut_x_preferred":[
+        "Turlough"
+    ],
+    "name:eng_x_preferred":[
+        "Turlough"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10e3\u10e0\u10da\u10dd\u10ee\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Turlough"
+    ],
+    "name:gle_x_preferred":[
+        "Turlach"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Turlough",
+    "qs:loc_alt":"Turlough",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117dcea0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961056,
+        "gp:id":20073516,
+        "qs:id":498204,
+        "wd:id":"Q7855592",
+        "wk:page":"Walferdange"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b8d5f81f05ffec271912bf6679f9b6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101872771,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101872771,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815561,
+    "wof:name":"Turlough",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20205,
+    53.88358,
+    -9.20205,
+    53.88358
+],
+  "geometry": {"coordinates":[-9.20205,53.88358],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1125310569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.78333,52.1,-9.78333,52.1",
+    "geom:latitude":52.1,
+    "geom:longitude":-9.78333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1409,
+    "gn:population":2082,
+    "iso:country":"IE",
+    "lbl:latitude":52.1,
+    "lbl:longitude":-9.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Cill Orglan"
+    ],
+    "name:eng_x_preferred":[
+        "Killorglin"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Orglan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u043e\u0440\u0433\u043b\u0438\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963311,
+    "qs_pg:gn_pop":1409,
+    "qs_pg:name":"Killorglin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1095,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1252381,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072672,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963311,
+        "gp:id":20072672,
+        "qs_pg:id":1252381
+    },
+    "wof:country":"IE",
+    "wof:created":1497043956,
+    "wof:geomhash":"fb24b7e7f38d91caef489fc23a9b37ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125310569,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125310569,
+    "wof:lastmodified":1509387882,
+    "wof:name":"Killorglin",
+    "wof:parent_id":85684991,
+    "wof:placetype":"localadmin",
+    "wof:population":2082,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.78333,
+    52.1,
+    -9.78333,
+    52.1
+],
+  "geometry": {"coordinates":[-9.78333,52.1],"type":"Point"}
+}

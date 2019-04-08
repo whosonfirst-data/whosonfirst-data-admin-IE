@@ -1,0 +1,66 @@
+{
+  "id": 1225978467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20611,54.24944,-8.20611,54.24944",
+    "geom:latitude":54.24944,
+    "geom:longitude":-8.20611,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Lisgorman",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311510,
+    "gn:latitude":54.24944,
+    "gn:longitude":-8.20611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lisgorman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311510
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d17a2f93052fa0252f91890013c421de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225978467,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1225978467,
+    "wof:lastmodified":1536821271,
+    "wof:name":"Lisgorman",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20611,
+    54.24944,
+    -8.20611,
+    54.24944
+],
+  "geometry": {"coordinates":[-8.20611,54.24944],"type":"Point"}
+}

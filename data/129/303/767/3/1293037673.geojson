@@ -1,0 +1,72 @@
+{
+  "id": 1293037673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.08333,53.48333,-10.08333,53.48333",
+    "geom:latitude":53.48333,
+    "geom:longitude":-10.08333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Drimmeen",
+    "gn:country_code":"IE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964672,
+    "gn:latitude":53.48333,
+    "gn:longitude":-10.08333,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Drimmeen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drimmeen"
+    ],
+    "name:gle_x_preferred":[
+        "Dromn\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964672
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d79559f3eb830d2cbefb418ae2357da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037673,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293037673,
+    "wof:lastmodified":1537636743,
+    "wof:name":"Drimmeen",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.08333,
+    53.48333,
+    -10.08333,
+    53.48333
+],
+  "geometry": {"coordinates":[-10.08333,53.48333],"type":"Point"}
+}

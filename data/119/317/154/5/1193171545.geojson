@@ -1,0 +1,74 @@
+{
+  "id": 1193171545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56393,51.89381,-8.56393,51.89381",
+    "geom:latitude":51.89381,
+    "geom:longitude":-8.56393,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Carrigrohane",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8642863,
+    "gn:latitude":51.89381,
+    "gn:longitude":-8.56393,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Carrigrohane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carrigrohane"
+    ],
+    "name:eng_x_variant":[
+        "Currikippane",
+        "Kilgrohanmore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8642863,
+        "wk:page":"Carrigrohane"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"be254cdd12635a6d5e2c1be1298b3e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193171545,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1193171545,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Carrigrohane",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56393,
+    51.89381,
+    -8.56393,
+    51.89381
+],
+  "geometry": {"coordinates":[-8.56393,51.89381],"type":"Point"}
+}

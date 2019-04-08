@@ -1,0 +1,66 @@
+{
+  "id": 1243002017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47083,51.96639,-8.47083,51.96639",
+    "geom:latitude":51.96639,
+    "geom:longitude":-8.47083,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Coole West",
+    "gn:country_code":"IE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965197,
+    "gn:latitude":51.96639,
+    "gn:longitude":-8.47083,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Coole West",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965197
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bbb3a58a76f4e01e7adce9c582ad8aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243002017,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1243002017,
+    "wof:lastmodified":1536949721,
+    "wof:name":"Coole West",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47083,
+    51.96639,
+    -8.47083,
+    51.96639
+],
+  "geometry": {"coordinates":[-8.47083,51.96639],"type":"Point"}
+}

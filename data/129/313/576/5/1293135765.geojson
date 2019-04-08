@@ -1,0 +1,66 @@
+{
+  "id": 1293135765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11722,52.17083,-9.11722,52.17083",
+    "geom:latitude":52.17083,
+    "geom:longitude":-9.11722,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Tooreenavuscaun",
+    "gn:country_code":"IE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292634,
+    "gn:latitude":52.17083,
+    "gn:longitude":-9.11722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tooreenavuscaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292634
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d5f0bc6e72a9544ac153e303e38f4395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293135765,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293135765,
+    "wof:lastmodified":1536797296,
+    "wof:name":"Tooreenavuscaun",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11722,
+    52.17083,
+    -9.11722,
+    52.17083
+],
+  "geometry": {"coordinates":[-9.11722,52.17083],"type":"Point"}
+}

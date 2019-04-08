@@ -1,0 +1,66 @@
+{
+  "id": 1327067111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73389,52.67194,-6.73389,52.67194",
+    "geom:latitude":52.67194,
+    "geom:longitude":-6.73389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Cranemore",
+    "gn:country_code":"IE",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302876,
+    "gn:latitude":52.67194,
+    "gn:longitude":-6.73389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cranemore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302876
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a712cc4630aa9539f830ec7aada38f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327067111,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1327067111,
+    "wof:lastmodified":1536710540,
+    "wof:name":"Cranemore",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73389,
+    52.67194,
+    -6.73389,
+    52.67194
+],
+  "geometry": {"coordinates":[-6.73389,52.67194],"type":"Point"}
+}

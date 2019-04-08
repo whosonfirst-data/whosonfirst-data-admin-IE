@@ -1,0 +1,66 @@
+{
+  "id": 1293919807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62917,54.03778,-7.62917,54.03778",
+    "geom:latitude":54.03778,
+    "geom:longitude":-7.62917,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Doogary",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309366,
+    "gn:latitude":54.03778,
+    "gn:longitude":-7.62917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Doogary",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309366
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6fba4dfa781eb7318ca6c82da65ebb54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293919807,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1293919807,
+    "wof:lastmodified":1536660981,
+    "wof:name":"Doogary",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62917,
+    54.03778000000001,
+    -7.62917,
+    54.03778000000001
+],
+  "geometry": {"coordinates":[-7.62917,54.03778000000001],"type":"Point"}
+}

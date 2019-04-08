@@ -1,0 +1,66 @@
+{
+  "id": 1193168589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0966,53.91827,-9.0966,53.91827",
+    "geom:latitude":53.91827,
+    "geom:longitude":-9.0966,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Oughtagh",
+    "gn:country_code":"IE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315849,
+    "gn:latitude":53.91827,
+    "gn:longitude":-9.0966,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Oughtagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315849
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ca898ced29294656b62650c637ddea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193168589,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1193168589,
+    "wof:lastmodified":1536382963,
+    "wof:name":"Oughtagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0966,
+    53.91826999999999,
+    -9.0966,
+    53.91826999999999
+],
+  "geometry": {"coordinates":[-9.0966,53.91826999999999],"type":"Point"}
+}

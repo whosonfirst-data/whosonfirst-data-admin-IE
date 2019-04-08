@@ -1,0 +1,116 @@
+{
+  "id": 101805959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":358565.609637,
+    "geom:bbox":"-6.56415341575,52.8607664513,-6.55341101896,52.8680888134",
+    "geom:latitude":52.864263,
+    "geom:longitude":-6.558461,
+    "gn:population":600,
+    "iso:country":"IE",
+    "lbl:latitude":52.864558,
+    "lbl:longitude":-6.558359,
+    "mps:latitude":52.864558,
+    "mps:longitude":-6.558359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Hacketstown"
+    ],
+    "name:dut_x_preferred":[
+        "Hacketstown"
+    ],
+    "name:eng_x_preferred":[
+        "Hacketstown"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10d0\u10d9\u10d4\u10e2\u10e1\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Haic\u00e9id"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10d9\u10d4\u10e2\u10e1\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Hakestaunas"
+    ],
+    "name:nld_x_preferred":[
+        "Hacketstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043a\u0435\u0442\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Hacketstown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Carlow",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Hacketstown",
+    "qs:la_lc":"*IE2401017022",
+    "qs:level":"locality",
+    "qs:loc":"Hacketstown",
+    "qs:loc_alt":"Hacketstown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":134,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117bf27e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963819,
+        "gp:id":561087,
+        "qs:id":1013028,
+        "qs_pg:id":1013028,
+        "wd:id":"Q2090983",
+        "wk:page":"Hacketstown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"187dbcb66c1211a6051f57851dab3003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805959,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":101805959,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642964,
+    "wof:name":"Hacketstown",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:population":600,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.56415341574831,
+    52.86076645127895,
+    -6.55341101896397,
+    52.868088813432
+],
+  "geometry": {"coordinates":[[[-6.55612043627212,52.868088813432],[-6.55341101896397,52.86111563341177],[-6.55486262656427,52.860912209388],[-6.55520127283614,52.86178385703187],[-6.56245925959013,52.86076645127895],[-6.56279805769452,52.86163807418455],[-6.56134645816394,52.86184159497816],[-6.56236287068907,52.86445646945799],[-6.56381455138711,52.86425293464339],[-6.56415341574831,52.86512455204331],[-6.56124998779347,52.86553161353464],[-6.56192765797715,52.86727486290266],[-6.55612043627212,52.868088813432]]],"type":"Polygon"}
+}

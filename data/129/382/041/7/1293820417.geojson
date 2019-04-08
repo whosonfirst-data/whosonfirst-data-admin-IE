@@ -1,0 +1,74 @@
+{
+  "id": 1293820417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25,53.56667,-8.25,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":-8.25,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Athleague",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966840,
+    "gn:latitude":53.56667,
+    "gn:longitude":-8.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Athleague",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Athleague"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th Liag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966840,
+        "wk:page":"Athleague"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bf21085628403abaf9eb074ec687b694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293820417,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1293820417,
+    "wof:lastmodified":1537636761,
+    "wof:name":"Athleague",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25,
+    53.56667,
+    -8.25,
+    53.56667
+],
+  "geometry": {"coordinates":[-8.25,53.56667],"type":"Point"}
+}

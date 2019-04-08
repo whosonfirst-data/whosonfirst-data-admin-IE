@@ -1,0 +1,66 @@
+{
+  "id": 1260316901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60972,52.68111,-8.60972,52.68111",
+    "geom:latitude":52.68111,
+    "geom:longitude":-8.60972,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Athlunkard Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310144,
+    "gn:latitude":52.68111,
+    "gn:longitude":-8.60972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Athlunkard Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310144
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8525b3bbc5f87cf5cea6bb27c30fedc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260316901,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1260316901,
+    "wof:lastmodified":1536667235,
+    "wof:name":"Athlunkard Bridge",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60972,
+    52.68111,
+    -8.60972,
+    52.68111
+],
+  "geometry": {"coordinates":[-8.60972,52.68111],"type":"Point"}
+}

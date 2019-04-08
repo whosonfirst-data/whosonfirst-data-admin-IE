@@ -1,0 +1,80 @@
+{
+  "id": 1125834015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.657497,51.938973,-9.657497,51.938973",
+    "geom:latitude":51.938973,
+    "geom:longitude":-9.657497,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":51.938973,
+    "lbl:longitude":-9.657497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Molls Gap",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":515,
+    "qs_pg:photos_1k":104,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":515,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1091610,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387481,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387481,
+        "qs_pg:id":1091610
+    },
+    "wof:country":"IE",
+    "wof:created":1497292630,
+    "wof:geomhash":"c8564e172a0854edb58adfb15e38a73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125834015,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125834015,
+    "wof:lastmodified":1509394877,
+    "wof:name":"Molls Gap",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.657497,
+    51.938973,
+    -9.657497,
+    51.938973
+],
+  "geometry": {"coordinates":[-9.657497,51.938973],"type":"Point"}
+}

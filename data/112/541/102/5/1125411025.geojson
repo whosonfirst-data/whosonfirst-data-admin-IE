@@ -1,0 +1,99 @@
+{
+  "id": 1125411025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.72139,53.09556,-7.72139,53.09556",
+    "geom:latitude":53.09556,
+    "geom:longitude":-7.72139,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":359,
+    "iso:country":"IE",
+    "lbl:latitude":53.09556,
+    "lbl:longitude":-7.72139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kinnitty"
+    ],
+    "name:gle_x_preferred":[
+        "Cionn Eitigh"
+    ],
+    "name:unk_x_variant":[
+        "Kinitty"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963156,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kinnitty",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":233518,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073713,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963156,
+        "gp:id":20073713,
+        "qs_pg:id":233518
+    },
+    "wof:country":"IE",
+    "wof:created":1497050167,
+    "wof:geomhash":"315f07478af61e830654b576872ab4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125411025,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125411025,
+    "wof:lastmodified":1509390259,
+    "wof:name":"Kinnitty",
+    "wof:parent_id":85685041,
+    "wof:placetype":"localadmin",
+    "wof:population":359,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.72139,
+    53.09556,
+    -7.72139,
+    53.09556
+],
+  "geometry": {"coordinates":[-7.72139,53.09556],"type":"Point"}
+}

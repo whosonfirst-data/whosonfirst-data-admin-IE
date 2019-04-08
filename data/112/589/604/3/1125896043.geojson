@@ -1,0 +1,88 @@
+{
+  "id": 1125896043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.915,53.93111,-9.915,53.93111",
+    "geom:latitude":53.93111,
+    "geom:longitude":-9.915,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.93111,
+    "lbl:longitude":-9.915,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Achill"
+    ],
+    "name:gle_x_preferred":[
+        "Acaill"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2967085,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Achill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":123,
+    "qs_pg:photos_1k":25,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":123,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211275,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559413,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967085,
+        "gp:id":559413,
+        "qs_pg:id":211275
+    },
+    "wof:country":"IE",
+    "wof:created":1497295570,
+    "wof:geomhash":"7d65a94096ae6c4941a918f777ac16b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125896043,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125896043,
+    "wof:lastmodified":1509399126,
+    "wof:name":"Achill",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.915,
+    53.93111,
+    -9.915,
+    53.93111
+],
+  "geometry": {"coordinates":[-9.915,53.93111],"type":"Point"}
+}

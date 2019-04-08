@@ -1,0 +1,66 @@
+{
+  "id": 1260010981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.44194,54.15667,-9.44194,54.15667",
+    "geom:latitude":54.15667,
+    "geom:longitude":-9.44194,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Doobehy",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316173,
+    "gn:latitude":54.15667,
+    "gn:longitude":-9.44194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Doobehy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316173
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7ccbbc1525b5997abf0a5c9fa96254f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260010981,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1260010981,
+    "wof:lastmodified":1537089200,
+    "wof:name":"Doobehy",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.44194,
+    54.15667,
+    -9.44194,
+    54.15667
+],
+  "geometry": {"coordinates":[-9.44194,54.15667],"type":"Point"}
+}

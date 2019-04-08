@@ -1,0 +1,71 @@
+{
+  "id": 1209746897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61139,53.48528,-6.61139,53.48528",
+    "geom:latitude":53.48528,
+    "geom:longitude":-6.61139,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Culmullin Cross Roads",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964931,
+    "gn:latitude":53.48528,
+    "gn:longitude":-6.61139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Culmullin Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culmullin",
+        "Culmullin Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964931
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"03d2c2b1fae9f08162e89c52ac20111b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209746897,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1209746897,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Culmullin Cross Roads",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61139,
+    53.48528,
+    -6.61139,
+    53.48528
+],
+  "geometry": {"coordinates":[-6.61139,53.48528],"type":"Point"}
+}

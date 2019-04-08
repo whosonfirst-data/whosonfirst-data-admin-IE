@@ -1,0 +1,68 @@
+{
+  "id": 1209546761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04444,51.82417,-10.04444,51.82417",
+    "geom:latitude":51.82417,
+    "geom:longitude":-10.04444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Tooreenyduneen",
+    "gn:country_code":"IE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3294925,
+    "gn:latitude":51.82417,
+    "gn:longitude":-10.04444,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Tooreenyduneen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tooreenyduneen"
+    ],
+    "name:gle_x_preferred":[
+        "Tuair\u00edn U\u00ed Dhuinn\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294925
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e6f83b05c7d50a4b53eab1b879ad79da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209546761
+        }
+    ],
+    "wof:id":1209546761,
+    "wof:lastmodified":1537636764,
+    "wof:name":"Tooreenyduneen",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04444,
+    51.82417,
+    -10.04444,
+    51.82417
+],
+  "geometry": {"coordinates":[-10.04444,51.82417],"type":"Point"}
+}

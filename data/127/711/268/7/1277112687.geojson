@@ -1,0 +1,72 @@
+{
+  "id": 1277112687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03417,51.91361,-10.03417,51.91361",
+    "geom:latitude":51.91361,
+    "geom:longitude":-10.03417,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Gortatlea",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963950,
+    "gn:latitude":51.91361,
+    "gn:longitude":-10.03417,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Gortatlea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gortatlea"
+    ],
+    "name:gle_x_preferred":[
+        "Gort an tSl\u00e9ibhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963950
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3fc6547e37adfa4529d16bb91bbeece9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277112687,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1277112687,
+    "wof:lastmodified":1537636738,
+    "wof:name":"Gortatlea",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03417,
+    51.91361,
+    -10.03417,
+    51.91361
+],
+  "geometry": {"coordinates":[-10.03417,51.91361],"type":"Point"}
+}

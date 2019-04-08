@@ -1,0 +1,66 @@
+{
+  "id": 1210050287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95694,52.69306,-6.95694,52.69306",
+    "geom:latitude":52.69306,
+    "geom:longitude":-6.95694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Philip Street",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302996,
+    "gn:latitude":52.69306,
+    "gn:longitude":-6.95694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Philip Street",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302996
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1ed5c5dc2e40dd84bde237d7c1ab1620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1210050287,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1210050287,
+    "wof:lastmodified":1536374419,
+    "wof:name":"Philip Street",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95694,
+    52.69306,
+    -6.95694,
+    52.69306
+],
+  "geometry": {"coordinates":[-6.95694,52.69306],"type":"Point"}
+}

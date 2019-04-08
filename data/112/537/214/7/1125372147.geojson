@@ -1,0 +1,135 @@
+{
+  "id": 1125372147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.26889,52.14083,-10.26889,52.14083",
+    "geom:latitude":52.14083,
+    "geom:longitude":-10.26889,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1971,
+    "gn:population":1965,
+    "iso:country":"IE",
+    "lbl:latitude":52.14083,
+    "lbl:longitude":-10.26889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "An Daingean"
+    ],
+    "name:cat_x_preferred":[
+        "An Daingean"
+    ],
+    "name:cym_x_preferred":[
+        "An Daingean"
+    ],
+    "name:eng_x_preferred":[
+        "Dingle"
+    ],
+    "name:epo_x_preferred":[
+        "An Daingean"
+    ],
+    "name:eus_x_preferred":[
+        "An Daingean"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0646\u06af\u0644"
+    ],
+    "name:gle_x_preferred":[
+        "An Daingean"
+    ],
+    "name:gle_x_variant":[
+        "Daingean U\u00ed Chuis"
+    ],
+    "name:glg_x_preferred":[
+        "An Daingean"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Dein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30f3\u30b0\u30eb"
+    ],
+    "name:lit_x_preferred":[
+        "Dinglis"
+    ],
+    "name:pol_x_preferred":[
+        "An Daingean"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u0433\u043b"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964782,
+    "qs_pg:gn_pop":1971,
+    "qs_pg:name":"Dingle",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":194,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5070,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1110441,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072631,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964782,
+        "gp:id":20072631,
+        "qs_pg:id":1110441
+    },
+    "wof:country":"IE",
+    "wof:created":1497047480,
+    "wof:geomhash":"2f8f7e5a19d37ec7ae1189cbbe103643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125372147,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125372147,
+    "wof:lastmodified":1509389346,
+    "wof:name":"Dingle",
+    "wof:parent_id":85684991,
+    "wof:placetype":"localadmin",
+    "wof:population":1965,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.26889,
+    52.14083,
+    -10.26889,
+    52.14083
+],
+  "geometry": {"coordinates":[-10.26889,52.14083],"type":"Point"}
+}

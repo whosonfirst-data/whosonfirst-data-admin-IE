@@ -1,0 +1,66 @@
+{
+  "id": 1293623461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29306,54.10417,-6.29306,54.10417",
+    "geom:latitude":54.10417,
+    "geom:longitude":-6.29306,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Cornamucklagh",
+    "gn:country_code":"IE",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309347,
+    "gn:latitude":54.10417,
+    "gn:longitude":-6.29306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cornamucklagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309347
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3660dacf35d5eea88389e5e53ce1bd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293623461,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1293623461,
+    "wof:lastmodified":1537085034,
+    "wof:name":"Cornamucklagh",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29306,
+    54.10417,
+    -6.29306,
+    54.10417
+],
+  "geometry": {"coordinates":[-6.29306,54.10417],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1292935193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85556,53.05,-8.85556,53.05",
+    "geom:latitude":53.05,
+    "geom:longitude":-8.85556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Sheeaun",
+    "gn:country_code":"IE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311936,
+    "gn:latitude":53.05,
+    "gn:longitude":-8.85556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sheeaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311936
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bd4956cedf27d6027ef6d4154934d25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292935193,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1292935193,
+    "wof:lastmodified":1537083235,
+    "wof:name":"Sheeaun",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85556,
+    53.05,
+    -8.85556,
+    53.05
+],
+  "geometry": {"coordinates":[-8.85556,53.05],"type":"Point"}
+}

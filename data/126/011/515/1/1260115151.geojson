@@ -1,0 +1,66 @@
+{
+  "id": 1260115151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13917,52.20639,-8.13917,52.20639",
+    "geom:latitude":52.20639,
+    "geom:longitude":-8.13917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Crinnaghtane",
+    "gn:country_code":"IE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300560,
+    "gn:latitude":52.20639,
+    "gn:longitude":-8.13917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Crinnaghtane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300560
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"946fa3611f452a925c33a4235384341f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260115151,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1260115151,
+    "wof:lastmodified":1536943041,
+    "wof:name":"Crinnaghtane",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13917,
+    52.20639,
+    -8.13917,
+    52.20639
+],
+  "geometry": {"coordinates":[-8.13917,52.20639],"type":"Point"}
+}

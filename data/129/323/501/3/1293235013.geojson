@@ -1,0 +1,66 @@
+{
+  "id": 1293235013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85,52.53333,-6.85,52.53333",
+    "geom:latitude":52.53333,
+    "geom:longitude":-6.85,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Gowlin Old",
+    "gn:country_code":"IE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963920,
+    "gn:latitude":52.53333,
+    "gn:longitude":-6.85,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gowlin Old",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963920
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8d0ef792a2ecdb0af4c77c585c1b7176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293235013,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1293235013,
+    "wof:lastmodified":1536654070,
+    "wof:name":"Gowlin Old",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85,
+    52.53333000000001,
+    -6.85,
+    52.53333000000001
+],
+  "geometry": {"coordinates":[-6.85,52.53333000000001],"type":"Point"}
+}

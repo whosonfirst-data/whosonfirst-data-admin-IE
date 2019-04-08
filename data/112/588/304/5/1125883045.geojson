@@ -1,0 +1,96 @@
+{
+  "id": 1125883045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.11972,54.57694,-8.11972,54.57694",
+    "geom:latitude":54.57694,
+    "geom:longitude":-8.11972,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":209,
+    "iso:country":"IE",
+    "lbl:latitude":54.57694,
+    "lbl:longitude":-8.11972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ballintra"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an tSratha"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966698,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballintra",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":524,
+    "qs_pg:photos_1k":106,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":524,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1211233,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559630,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966698,
+        "gp:id":559630,
+        "qs_pg:id":1211233
+    },
+    "wof:country":"IE",
+    "wof:created":1497294916,
+    "wof:geomhash":"aa8bbbd0b4ecdb66650522526f64bd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125883045,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125883045,
+    "wof:lastmodified":1509398297,
+    "wof:name":"Ballintra",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11972,
+    54.57694,
+    -8.11972,
+    54.57694
+],
+  "geometry": {"coordinates":[-8.11972,54.57694],"type":"Point"}
+}

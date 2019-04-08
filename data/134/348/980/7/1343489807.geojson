@@ -1,0 +1,66 @@
+{
+  "id": 1343489807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.66556,52.19556,-7.66556,52.19556",
+    "geom:latitude":52.19556,
+    "geom:longitude":-7.66556,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Scart Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301240,
+    "gn:latitude":52.19556,
+    "gn:longitude":-7.66556,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Scart Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301240
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"93b6fc194762b2d57ccbbf2732d2cdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343489807,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1343489807,
+    "wof:lastmodified":1536704257,
+    "wof:name":"Scart Bridge",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.66556,
+    52.19556,
+    -7.66556,
+    52.19556
+],
+  "geometry": {"coordinates":[-7.66556,52.19556],"type":"Point"}
+}

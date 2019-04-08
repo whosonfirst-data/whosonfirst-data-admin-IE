@@ -1,0 +1,76 @@
+{
+  "id": 1259914971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.665,52.59028,-7.665,52.59028",
+    "geom:latitude":52.59028,
+    "geom:longitude":-7.665,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Ballinunty",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966696,
+    "gn:latitude":52.59028,
+    "gn:longitude":-7.665,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Ballinunty",
+    "gn:population":152,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Four Cross Roads",
+        "Ballynonty",
+        "The Four Roads",
+        "Ballinunty"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966696
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b8699dbe3a3e783ea0e4af8c34f5371d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259914971,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1259914971,
+    "wof:lastmodified":1537636759,
+    "wof:name":"Ballinunty",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":152,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.665,
+    52.59028000000001,
+    -7.665,
+    52.59028000000001
+],
+  "geometry": {"coordinates":[-7.665,52.59028000000001],"type":"Point"}
+}

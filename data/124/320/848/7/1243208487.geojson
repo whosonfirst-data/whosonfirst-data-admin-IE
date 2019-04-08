@@ -1,0 +1,72 @@
+{
+  "id": 1243208487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30917,54.27722,-9.30917,54.27722",
+    "geom:latitude":54.27722,
+    "geom:longitude":-9.30917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Conaghra",
+    "gn:country_code":"IE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3316231,
+    "gn:latitude":54.27722,
+    "gn:longitude":-9.30917,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Conaghra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Conaghra"
+    ],
+    "name:gle_x_preferred":[
+        "Conach R\u00e9idh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316231
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d21cebd6402193d5c600739a9b28e119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243208487,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1243208487,
+    "wof:lastmodified":1537636789,
+    "wof:name":"Conaghra",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30917,
+    54.27721999999999,
+    -9.30917,
+    54.27721999999999
+],
+  "geometry": {"coordinates":[-9.30917,54.27721999999999],"type":"Point"}
+}

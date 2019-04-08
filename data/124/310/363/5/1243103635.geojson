@@ -1,0 +1,66 @@
+{
+  "id": 1243103635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96444,54.28472,-7.96444,54.28472",
+    "geom:latitude":54.28472,
+    "geom:longitude":-7.96444,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Gortahill",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963953,
+    "gn:latitude":54.28472,
+    "gn:longitude":-7.96444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortahill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963953
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"afa387f0631534eeef65b7ff4f5e7092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243103635,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1243103635,
+    "wof:lastmodified":1536802541,
+    "wof:name":"Gortahill",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96444,
+    54.28471999999999,
+    -7.96444,
+    54.28471999999999
+],
+  "geometry": {"coordinates":[-7.96444,54.28471999999999],"type":"Point"}
+}

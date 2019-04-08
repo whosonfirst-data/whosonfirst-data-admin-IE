@@ -1,0 +1,112 @@
+{
+  "id": 101804765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":637438.238748,
+    "geom:bbox":"-8.13454319622,52.9895788933,-8.11900992238,53.0017542492",
+    "geom:latitude":52.996022,
+    "geom:longitude":-8.126952,
+    "gn:population":964,
+    "iso:country":"IE",
+    "lbl:latitude":52.99555,
+    "lbl:longitude":-8.126834,
+    "mps:latitude":52.99555,
+    "mps:longitude":-8.126834,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u043a\u0430\u043d\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:dut_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:eng_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:eus_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:ger_x_preferred":[
+        "Borrisokane"
+    ],
+    "name:gle_x_preferred":[
+        "Buir\u00edos U\u00ed Ch\u00e9in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0440\u0430\u0439\u0441\u043e\u043a\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Borrisokane"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*North Tipperary",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Borrisokane",
+    "qs:la_lc":"*IE2304217030",
+    "qs:level":"locality",
+    "qs:loc":"Borrisokane",
+    "qs:loc_alt":"Borrisokane",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2132,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966055,
+        "gp:id":559982,
+        "qs:id":34580,
+        "qs_pg:id":34580,
+        "wd:id":"Q894158",
+        "wk:page":"Borrisokane"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3a3ca196aa4b0a2c36b05c5e8c6df90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804765,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":101804765,
+    "wof:lastmodified":1530148406,
+    "wof:name":"Borrisokane",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":964,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13454319622281,
+    52.98957889334935,
+    -8.11900992238066,
+    53.00175424916301
+],
+  "geometry": {"coordinates":[[[-8.12410258145496,53.00175424916301],[-8.12373059175405,53.00088801035167],[-8.11938181421237,53.00155553555066],[-8.11900992238066,53.00068927979589],[-8.12045950194886,53.0004667938768],[-8.12008760167828,52.99960054159624],[-8.1215371410417,52.99937804340499],[-8.12116523233385,52.99851179459858],[-8.12406421702622,52.99806675629816],[-8.12369227331288,52.99720051607017],[-8.1251417186441,52.99697797596207],[-8.12365401888587,52.9935130191634],[-8.12220467982218,52.9937355388555],[-8.12183282678404,52.99286929047634],[-8.1203835006603,52.99309178769238],[-8.11963990210353,52.99135927583893],[-8.12108917510017,52.99113678882827],[-8.12146099187709,52.99200304046741],[-8.12291027781328,52.99178053098171],[-8.12328213928339,52.99264677588775],[-8.12762999502615,52.99197912788736],[-8.12725805387277,52.99111289829284],[-8.13015650311343,52.99066772297596],[-8.12978452697922,52.98980150195928],[-8.1312337046013,52.98957889334935],[-8.13234976708685,52.99217753618962],[-8.13379901074939,52.99195489489273],[-8.13454319622281,52.99368730508172],[-8.12874592730549,52.99457780688454],[-8.12986202283935,52.99717647120116],[-8.13131144021054,52.9969538564917],[-8.13242777873643,52.99955249080637],[-8.1266297086205,53.00044290667154],[-8.12700175147029,53.00130913527204],[-8.12410258145496,53.00175424916301]]],"type":"Polygon"}
+}

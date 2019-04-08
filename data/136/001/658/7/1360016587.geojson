@@ -1,0 +1,66 @@
+{
+  "id": 1360016587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61583,53.91083,-6.61583,53.91083",
+    "geom:latitude":53.91083,
+    "geom:longitude":-6.61583,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Reaghstown",
+    "gn:country_code":"IE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961863,
+    "gn:latitude":53.91083,
+    "gn:longitude":-6.61583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Reaghstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961863
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f3c4c5793d93050e5a3df1c75b8ff854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360016587,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1360016587,
+    "wof:lastmodified":1537042764,
+    "wof:name":"Reaghstown",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61583,
+    53.91083,
+    -6.61583,
+    53.91083
+],
+  "geometry": {"coordinates":[-6.61583,53.91083],"type":"Point"}
+}

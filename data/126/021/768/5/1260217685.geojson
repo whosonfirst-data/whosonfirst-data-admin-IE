@@ -1,0 +1,73 @@
+{
+  "id": 1260217685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30694,54.02083,-6.30694,54.02083",
+    "geom:latitude":54.02083,
+    "geom:longitude":-6.30694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Jenkinstown Cross",
+    "gn:country_code":"IE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309299,
+    "gn:latitude":54.02083,
+    "gn:longitude":-6.30694,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jenkinstown Cross",
+    "gn:population":323,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jenkinstown",
+        "Jenkinstown Cross"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309299
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"27be85406f699cac9767ebac039a9659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260217685,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1260217685,
+    "wof:lastmodified":1537636776,
+    "wof:name":"Jenkinstown Cross",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30694,
+    54.02083,
+    -6.30694,
+    54.02083
+],
+  "geometry": {"coordinates":[-6.30694,54.02083],"type":"Point"}
+}

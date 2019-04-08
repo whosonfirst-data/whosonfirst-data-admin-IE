@@ -1,0 +1,120 @@
+{
+  "id": 101804915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":298747.81988,
+    "geom:bbox":"-6.49198690087,53.7747084646,-6.47943108589,53.7826973424",
+    "geom:latitude":53.778841,
+    "geom:longitude":-6.4861,
+    "gn:population":814,
+    "iso:country":"IE",
+    "lbl:latitude":53.779042,
+    "lbl:longitude":-6.486195,
+    "mps:latitude":53.779042,
+    "mps:longitude":-6.486195,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Collon"
+    ],
+    "name:deu_x_preferred":[
+        "Collon"
+    ],
+    "name:dut_x_preferred":[
+        "Collon"
+    ],
+    "name:eng_x_preferred":[
+        "Collon"
+    ],
+    "name:fra_x_preferred":[
+        "Collon"
+    ],
+    "name:fre_x_preferred":[
+        "Collon"
+    ],
+    "name:ger_x_preferred":[
+        "Collon"
+    ],
+    "name:gle_x_preferred":[
+        "Collann"
+    ],
+    "name:pol_x_preferred":[
+        "Collon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Collon"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Louth",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Collon",
+    "qs:la_lc":"*IE1104147011",
+    "qs:level":"locality",
+    "qs:loc":"Collon",
+    "qs:loc_alt":"Collon",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":128.0,
+    "wd:latitude":53.783333,
+    "wd:longitude":-6.483333,
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117fe9c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965249,
+        "gp:id":44659,
+        "qs:id":1137792,
+        "wd:id":"Q984816",
+        "wk:page":"Collon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7a96364aebabd0266637334fde654cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804915,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":101804915,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642749,
+    "wof:name":"Collon",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":814,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.49198690087013,
+    53.77470846460164,
+    -6.47943108589152,
+    53.78269734240325
+],
+  "geometry": {"coordinates":[[[-6.48413442190946,53.78162255265471],[-6.48274383064057,53.77813605145121],[-6.47977863320534,53.77854232117909],[-6.47943108589152,53.77767068289097],[-6.48536131429847,53.77685809100603],[-6.48501367038091,53.77598647057221],[-6.48649616619849,53.77578328263195],[-6.48614851118322,53.77491166564664],[-6.48763096539017,53.77470846460164],[-6.4886740681244,53.77732329708573],[-6.49163910815861,53.77691681245221],[-6.49198690087013,53.77778841096324],[-6.48902180384147,53.77819490520471],[-6.49006511542638,53.78080972143442],[-6.48709979490906,53.78121617286513],[-6.48744754324451,53.78208778517455],[-6.48299937854625,53.78269734240325],[-6.48265171573058,53.78182571568351],[-6.48413442190946,53.78162255265471]]],"type":"Polygon"}
+}

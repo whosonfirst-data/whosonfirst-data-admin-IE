@@ -1,0 +1,80 @@
+{
+  "id": 1125345999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.450837,53.346362,-6.450837,53.346362",
+    "geom:latitude":53.346362,
+    "geom:longitude":-6.450837,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.346362,
+    "lbl:longitude":-6.450837,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lucan Heights",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":2000,
+    "qs_pg:photos_1k":405,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2418,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891794,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072203,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072203,
+        "qs_pg:id":891794
+    },
+    "wof:country":"IE",
+    "wof:created":1497045919,
+    "wof:geomhash":"7dd03cd4468a13b92a37d3865f3b8c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125345999,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1125345999,
+    "wof:lastmodified":1509388763,
+    "wof:name":"Lucan Heights",
+    "wof:parent_id":85685009,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.450837,
+    53.346362,
+    -6.450837,
+    53.346362
+],
+  "geometry": {"coordinates":[-6.450837,53.346362],"type":"Point"}
+}

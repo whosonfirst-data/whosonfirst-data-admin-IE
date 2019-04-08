@@ -1,0 +1,66 @@
+{
+  "id": 1293032395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.82394,53.55218,-6.82394,53.55218",
+    "geom:latitude":53.55218,
+    "geom:longitude":-6.82394,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Newhaggard",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866769,
+    "gn:latitude":53.55218,
+    "gn:longitude":-6.82394,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Newhaggard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866769
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"40b5d8ae0b005b357a526615201ba119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293032395,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293032395,
+    "wof:lastmodified":1536946637,
+    "wof:name":"Newhaggard",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.82394,
+    53.55218000000001,
+    -6.82394,
+    53.55218000000001
+],
+  "geometry": {"coordinates":[-6.82394,53.55218000000001],"type":"Point"}
+}

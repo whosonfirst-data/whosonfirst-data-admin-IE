@@ -1,0 +1,62 @@
+{
+  "id": 1209348677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38333,53.9,-8.38333,53.9",
+    "geom:latitude":53.9,
+    "geom:longitude":-8.38333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Breedoge",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966014,
+    "gn:latitude":53.9,
+    "gn:longitude":-8.38333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Breedoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966014
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"86644cba7edf8d16d0a3643e5fcd29cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209348677
+        }
+    ],
+    "wof:id":1209348677,
+    "wof:lastmodified":1536289821,
+    "wof:name":"Breedoge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38333,
+    53.9,
+    -8.38333,
+    53.9
+],
+  "geometry": {"coordinates":[-8.38333,53.9],"type":"Point"}
+}

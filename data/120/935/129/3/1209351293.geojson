@@ -1,0 +1,62 @@
+{
+  "id": 1209351293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96837,53.60748,-6.96837,53.60748",
+    "geom:latitude":53.60748,
+    "geom:longitude":-6.96837,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Causestown",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866685,
+    "gn:latitude":53.60748,
+    "gn:longitude":-6.96837,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Causestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866685
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"926f065d50de6530800a60d939670198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209351293
+        }
+    ],
+    "wof:id":1209351293,
+    "wof:lastmodified":1536289732,
+    "wof:name":"Causestown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.968369999999998,
+    53.60748,
+    -6.968369999999998,
+    53.60748
+],
+  "geometry": {"coordinates":[-6.96837,53.60748],"type":"Point"}
+}

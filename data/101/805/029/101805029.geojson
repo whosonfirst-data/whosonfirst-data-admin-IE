@@ -1,0 +1,131 @@
+{
+  "id": 101805029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000139,
+    "geom:area_square_m":1005693.436657,
+    "geom:bbox":"-8.49655036076,54.1750680003,-8.47830459825,54.1878085805",
+    "geom:latitude":54.18157,
+    "geom:longitude":-8.487542,
+    "gn:population":1369,
+    "iso:country":"IE",
+    "lbl:latitude":54.181925,
+    "lbl:longitude":-8.488454,
+    "mps:latitude":54.181925,
+    "mps:longitude":-8.488454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Collooney"
+    ],
+    "name:cat_x_preferred":[
+        "Collooney"
+    ],
+    "name:dut_x_preferred":[
+        "Collooney"
+    ],
+    "name:eng_x_preferred":[
+        "Collooney"
+    ],
+    "name:fre_x_preferred":[
+        "Collooney"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10da\u10e3\u10dc\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00fail Mhuine"
+    ],
+    "name:glv_x_preferred":[
+        "C\u00fail Mhuine"
+    ],
+    "name:ita_x_preferred":[
+        "Collooney"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10e3\u10dc\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Kolunis"
+    ],
+    "name:nld_x_preferred":[
+        "Collooney"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043b\u0443\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Collooney"
+    ],
+    "name:swe_x_preferred":[
+        "Collooney"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Sligo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ballysadare East",
+    "qs:la_lc":"*IE1106207012",
+    "qs:level":"locality",
+    "qs:loc":"Collooney",
+    "qs:loc_alt":"Collooney",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":228,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e1b44-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965248,
+        "gp:id":560417,
+        "qs:id":246155,
+        "qs_pg:id":246155,
+        "wd:id":"Q2436580",
+        "wk:page":"Collooney"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"015d138827f765ba744b8f63d2ca80a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805029,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":101805029,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642967,
+    "wof:name":"Collooney",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:population":1369,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49655036075615,
+    54.17506800032834,
+    -8.4783045982536,
+    54.18780858054811
+],
+  "geometry": {"coordinates":[[[-8.48929420295065,54.18780858054811],[-8.48889952278859,54.18694403905391],[-8.48592383782761,54.1873996133678],[-8.48474008544838,54.1848059462082],[-8.48176450991366,54.18526141654701],[-8.48097555351518,54.18353227496846],[-8.47948779973518,54.18375997250428],[-8.4783045982536,54.18116623118317],[-8.48127992164473,54.180710850727],[-8.48088550434181,54.17984627772483],[-8.48237311541936,54.17961856610941],[-8.48118989769358,54.17702485317415],[-8.47970237120711,54.17725254854884],[-8.47891371474799,54.17552338729149],[-8.48188864000463,54.17506800032834],[-8.48228301472443,54.17593257097843],[-8.48377048313279,54.17570484528591],[-8.48455934833993,54.17743397067312],[-8.49050929805611,54.17652284593908],[-8.49090387312305,54.17738738442876],[-8.49239135137145,54.17715955316731],[-8.49278597443225,54.17802408454412],[-8.49427346591921,54.17779623000143],[-8.4946681369762,54.17866075426411],[-8.49615564169977,54.17843287643956],[-8.49655036075615,54.17929739358721],[-8.4950628278421,54.17952527682945],[-8.49585226900535,54.18125431686735],[-8.4943646647493,54.18148219307932],[-8.49475938685401,54.18234671597008],[-8.49327173944562,54.18257457973334],[-8.4948507132126,54.18603267599406],[-8.49336293804612,54.18626054356224],[-8.49375770282467,54.18712506880263],[-8.48929420295065,54.18780858054811]]],"type":"Polygon"}
+}

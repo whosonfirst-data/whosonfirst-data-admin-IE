@@ -1,0 +1,63 @@
+{
+  "id": 1209140113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.30472,53.55583,-6.30472,53.55583",
+    "geom:latitude":53.55583,
+    "geom:longitude":-6.30472,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Damastown",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316342,
+    "gn:latitude":53.55583,
+    "gn:longitude":-6.30472,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Damastown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316342,
+        "wk:page":"Damastown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"298581b884b44df00b59d2a05b665933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209140113
+        }
+    ],
+    "wof:id":1209140113,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Damastown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.30472,
+    53.55583000000001,
+    -6.30472,
+    53.55583000000001
+],
+  "geometry": {"coordinates":[-6.30472,53.55583000000001],"type":"Point"}
+}

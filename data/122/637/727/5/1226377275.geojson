@@ -1,0 +1,66 @@
+{
+  "id": 1226377275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03194,53.40167,-10.03194,53.40167",
+    "geom:latitude":53.40167,
+    "geom:longitude":-10.03194,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Callow",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315486,
+    "gn:latitude":53.40167,
+    "gn:longitude":-10.03194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Callow",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315486
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5f27a3276d487a3d6698840dd20d995c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226377275,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1226377275,
+    "wof:lastmodified":1536743820,
+    "wof:name":"Callow",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03194,
+    53.40167,
+    -10.03194,
+    53.40167
+],
+  "geometry": {"coordinates":[-10.03194,53.40167],"type":"Point"}
+}

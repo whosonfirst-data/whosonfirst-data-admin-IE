@@ -1,0 +1,66 @@
+{
+  "id": 1225875939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85556,54.10472,-8.85556,54.10472",
+    "geom:latitude":54.10472,
+    "geom:longitude":-8.85556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Masshill",
+    "gn:country_code":"IE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311003,
+    "gn:latitude":54.10472,
+    "gn:longitude":-8.85556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Masshill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311003
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d8f5f83850054d70a5b7abc5547e89db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225875939,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1225875939,
+    "wof:lastmodified":1536969886,
+    "wof:name":"Masshill",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85556,
+    54.10471999999999,
+    -8.85556,
+    54.10471999999999
+],
+  "geometry": {"coordinates":[-8.85556,54.10471999999999],"type":"Point"}
+}

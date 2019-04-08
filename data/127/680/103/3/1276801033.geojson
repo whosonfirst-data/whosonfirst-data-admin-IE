@@ -1,0 +1,66 @@
+{
+  "id": 1276801033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73333,54.16667,-6.73333,54.16667",
+    "geom:latitude":54.16667,
+    "geom:longitude":-6.73333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Creaghanroe",
+    "gn:country_code":"IE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965065,
+    "gn:latitude":54.16667,
+    "gn:longitude":-6.73333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Creaghanroe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965065
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1f9870be655fe58c9bebf00f48268d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276801033,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1276801033,
+    "wof:lastmodified":1536648972,
+    "wof:name":"Creaghanroe",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73333,
+    54.16667,
+    -6.73333,
+    54.16667
+],
+  "geometry": {"coordinates":[-6.73333,54.16667],"type":"Point"}
+}

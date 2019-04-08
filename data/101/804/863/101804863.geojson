@@ -1,0 +1,137 @@
+{
+  "id": 101804863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00013,
+    "geom:area_square_m":956085.793149,
+    "geom:bbox":"-7.51331986468,53.3598922606,-7.4902632253,53.3740005972",
+    "geom:latitude":53.36788,
+    "geom:longitude":-7.501016,
+    "gn:population":1199,
+    "iso:country":"IE",
+    "lbl:latitude":53.368929,
+    "lbl:longitude":-7.500055,
+    "mps:latitude":53.368929,
+    "mps:longitude":-7.500055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0431\u0435\u0433\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:deu_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:dut_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:eng_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:fra_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:fre_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:ger_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Bheag\u00e1in"
+    ],
+    "name:hbs_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:ita_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30d9\u30ac\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Kilbeganas"
+    ],
+    "name:nld_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:oci_x_preferred":[
+        "Kilbeggan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0431\u0435\u0433\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kilbeggan"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Westmeath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilbeggan",
+    "qs:la_lc":"*IE1204237058",
+    "qs:level":"locality",
+    "qs:loc":"Kilbeggan",
+    "qs:loc_alt":"Kilbeggan",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1141,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e6fd6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963499,
+        "gp:id":561183,
+        "qs:id":433647,
+        "qs_pg:id":433647,
+        "wd:id":"Q68364",
+        "wk:page":"Kilbeggan"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7becdbc2f2885686cfc367aa8d82847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804863,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":101804863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642756,
+    "wof:name":"Kilbeggan",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:population":1199,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.51331986468006,
+    53.35989226056472,
+    -7.49026322530187,
+    53.37400059718686
+],
+  "geometry": {"coordinates":[[[-7.50085900803407,53.37400059718686],[-7.50049517137904,53.37313228622457],[-7.49903059929011,53.37334752209739],[-7.49866680800301,53.37247920460521],[-7.49720224981695,53.37269441786043],[-7.49647477592356,53.37095776829528],[-7.49501025905516,53.37117295392835],[-7.49391926505837,53.36856795314469],[-7.49245481691833,53.36878310615441],[-7.492091215551,53.36791476451089],[-7.4906267813185,53.36812989490647],[-7.49026322530187,53.36726154673767],[-7.49172763212488,53.36704642134515],[-7.49136406663865,53.36617807665709],[-7.49575712388008,53.36553260983095],[-7.49502988229557,53.36379594590699],[-7.4964941529002,53.3635807650877],[-7.49540334286849,53.36097577279008],[-7.49393915446262,53.36119093859986],[-7.4935756143916,53.36032259978532],[-7.49650392291136,53.35989226056472],[-7.4972311305786,53.36162891665901],[-7.49869531938316,53.36141371063235],[-7.50015005959767,53.36488698452536],[-7.50161434449439,53.36467174087352],[-7.50234187707349,53.3664083586674],[-7.51259187670172,53.36490109000766],[-7.51331986468006,53.36663763160459],[-7.50746258391132,53.36749907368937],[-7.50855437176244,53.37010393474083],[-7.51001879443464,53.36988858560801],[-7.51111082613579,53.37249341790829],[-7.50964632124408,53.37270878206675],[-7.50928232012228,53.3718405011499],[-7.50781782912077,53.37205584268918],[-7.50745387336792,53.37118755523909],[-7.50159588384292,53.37204872526041],[-7.50232359402406,53.37378533869548],[-7.50085900803407,53.37400059718686]]],"type":"Polygon"}
+}

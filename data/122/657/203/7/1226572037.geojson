@@ -1,0 +1,77 @@
+{
+  "id": 1226572037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39098,55.02527,-8.39098,55.02527",
+    "geom:latitude":55.02527,
+    "geom:longitude":-8.39098,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Kincasslagh",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963174,
+    "gn:latitude":55.02527,
+    "gn:longitude":-8.39098,
+    "gn:modification_date":"2011-06-09",
+    "gn:name":"Kincasslagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kincaslough"
+    ],
+    "name:gle_x_preferred":[
+        "Cionn Caslach"
+    ],
+    "name:und_x_variant":[
+        "Kincashla",
+        "Kincasslagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963174,
+        "wk:page":"Kincasslagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f53a81ee778661edd1fd4649fa7ce385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226572037,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226572037,
+    "wof:lastmodified":1537636732,
+    "wof:name":"Kincasslagh",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39098,
+    55.02526999999999,
+    -8.39098,
+    55.02526999999999
+],
+  "geometry": {"coordinates":[-8.39098,55.02526999999999],"type":"Point"}
+}

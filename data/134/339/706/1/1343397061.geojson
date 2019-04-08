@@ -1,0 +1,73 @@
+{
+  "id": 1343397061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7885,51.84739,-8.7885,51.84739",
+    "geom:latitude":51.84739,
+    "geom:longitude":-8.7885,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Cloughduv",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643985,
+    "gn:latitude":51.84739,
+    "gn:longitude":-8.7885,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Cloughduv",
+    "gn:population":350,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cloghduff"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643985,
+        "wk:page":"Cloughduv"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8e6a57345ae5ac79d42d5900bc0fffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343397061,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1343397061,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Cloughduv",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7885,
+    51.84739,
+    -8.7885,
+    51.84739
+],
+  "geometry": {"coordinates":[-8.7885,51.84739],"type":"Point"}
+}

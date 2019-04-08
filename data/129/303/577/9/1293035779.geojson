@@ -1,0 +1,66 @@
+{
+  "id": 1293035779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10806,53.13417,-9.10806,53.13417",
+    "geom:latitude":53.13417,
+    "geom:longitude":-9.10806,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Caherloughlin",
+    "gn:country_code":"IE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311894,
+    "gn:latitude":53.13417,
+    "gn:longitude":-9.10806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Caherloughlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311894
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6f300505a3b3d394ad4bc263b2597e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293035779,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293035779,
+    "wof:lastmodified":1536941899,
+    "wof:name":"Caherloughlin",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10806,
+    53.13417,
+    -9.10806,
+    53.13417
+],
+  "geometry": {"coordinates":[-9.10806,53.13417],"type":"Point"}
+}

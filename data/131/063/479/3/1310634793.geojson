@@ -1,0 +1,76 @@
+{
+  "id": 1310634793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8675,52.28083,-9.8675,52.28083",
+    "geom:latitude":52.28083,
+    "geom:longitude":-9.8675,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Fenit",
+    "gn:country_code":"IE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964329,
+    "gn:latitude":52.28083,
+    "gn:longitude":-9.8675,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Fenit",
+    "gn:population":527,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fenit"
+    ],
+    "name:gle_x_preferred":[
+        "An Fhianait"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964329,
+        "wk:page":"Fenit"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7fe47a7de4c08677671c0dafb721fe2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310634793,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1310634793,
+    "wof:lastmodified":1537636741,
+    "wof:name":"Fenit",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":527,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8675,
+    52.28083,
+    -9.8675,
+    52.28083
+],
+  "geometry": {"coordinates":[-9.8675,52.28083],"type":"Point"}
+}

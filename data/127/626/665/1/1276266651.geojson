@@ -1,0 +1,66 @@
+{
+  "id": 1276266651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.33889,53.85,-6.33889,53.85",
+    "geom:latitude":53.85,
+    "geom:longitude":-6.33889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Keenan's Cross",
+    "gn:country_code":"IE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316437,
+    "gn:latitude":53.85,
+    "gn:longitude":-6.33889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Keenan\u2019s Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316437
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"09b1e6fefde67a006a79dea2c85bffb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276266651,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1276266651,
+    "wof:lastmodified":1536866647,
+    "wof:name":"Keenan's Cross",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.33889,
+    53.85,
+    -6.33889,
+    53.85
+],
+  "geometry": {"coordinates":[-6.33889,53.85],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209650143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02327,53.45245,-7.02327,53.45245",
+    "geom:latitude":53.45245,
+    "geom:longitude":-7.02327,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Clonard",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965397,
+    "gn:latitude":53.45245,
+    "gn:longitude":-7.02327,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Clonard",
+    "gn:population":339,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965397,
+        "wk:page":"Clonard%2C_County_Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5eaa3e0680a3c5c02e32f1892d204c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209650143
+        }
+    ],
+    "wof:id":1209650143,
+    "wof:lastmodified":1537564847,
+    "wof:name":"Clonard",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02327,
+    53.45245,
+    -7.02327,
+    53.45245
+],
+  "geometry": {"coordinates":[-7.02327,53.45245],"type":"Point"}
+}

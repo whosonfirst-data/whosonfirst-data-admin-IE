@@ -1,0 +1,108 @@
+{
+  "id": 1125791277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11889,51.57306,-9.11889,51.57306",
+    "geom:latitude":51.57306,
+    "geom:longitude":-9.11889,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.57306,
+    "lbl:longitude":-9.11889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Glandore"
+    ],
+    "name:dut_x_preferred":[
+        "Glandore"
+    ],
+    "name:eng_x_preferred":[
+        "Glandore"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faan Dor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30c9\u30fc\u30eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u043d\u0434\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Glandore"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964120,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Glandore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":346,
+    "qs_pg:photos_1k":70,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":346,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080459,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560936,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964120,
+        "gp:id":560936,
+        "qs_pg:id":1080459,
+        "wd:id":"Q4139528"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290872,
+    "wof:geomhash":"40874cc4384ffec6f2b0298921ce5d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791277,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125791277,
+    "wof:lastmodified":1553816536,
+    "wof:name":"Glandore",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11889,
+    51.57306,
+    -9.11889,
+    51.57306
+],
+  "geometry": {"coordinates":[-9.11889,51.57306],"type":"Point"}
+}

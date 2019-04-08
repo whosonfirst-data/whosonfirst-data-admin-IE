@@ -1,0 +1,66 @@
+{
+  "id": 1293036905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16686,53.81997,-9.16686,53.81997",
+    "geom:latitude":53.81997,
+    "geom:longitude":-9.16686,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Drumnaslooeen",
+    "gn:country_code":"IE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130587,
+    "gn:latitude":53.81997,
+    "gn:longitude":-9.16686,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Drumnaslooeen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130587
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b36f4d8e68c3529808d97193088baeb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293036905,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293036905,
+    "wof:lastmodified":1536940373,
+    "wof:name":"Drumnaslooeen",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16686,
+    53.81997,
+    -9.16686,
+    53.81997
+],
+  "geometry": {"coordinates":[-9.16686,53.81997],"type":"Point"}
+}

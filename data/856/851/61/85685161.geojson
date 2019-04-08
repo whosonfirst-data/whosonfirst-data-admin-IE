@@ -1,0 +1,349 @@
+{
+  "id": 85685161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000485,
+    "geom:area_square_m":3685325.730339,
+    "geom:bbox":"-10.576932,52.075253,-10.5067665,52.1083795",
+    "geom:latitude":52.093127,
+    "geom:longitude":-10.537722,
+    "iso:country":"IE",
+    "lbl:latitude":52.092013,
+    "lbl:longitude":-10.537191,
+    "mps:latitude":52.092013,
+    "mps:longitude":-10.537191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0631\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Cond\u00e1u de Kerry"
+    ],
+    "name:baq_x_preferred":[
+        "Kerryko konderria"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0995\u09c7\u09b0\u09bf"
+    ],
+    "name:bre_x_preferred":[
+        "Kontelezh Ciarra\u00ed"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Comtat de Kerry"
+    ],
+    "name:chi_x_preferred":[
+        "\u51f1\u91cc\u90e1"
+    ],
+    "name:cze_x_preferred":[
+        "Hrabstv\u00ed Kerry"
+    ],
+    "name:dan_x_preferred":[
+        "County Kerry"
+    ],
+    "name:dut_x_preferred":[
+        "County Kerry"
+    ],
+    "name:eng_x_preferred":[
+        "Kerry"
+    ],
+    "name:eng_x_variant":[
+        "County Kerry",
+        "Co Kerry"
+    ],
+    "name:epo_x_preferred":[
+        "Graflando Kerry"
+    ],
+    "name:est_x_preferred":[
+        "Kerry krahvkond"
+    ],
+    "name:fin_x_preferred":[
+        "Kerryn kreivikunta"
+    ],
+    "name:fre_x_preferred":[
+        "comt\u00e9 de Kerry"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d4\u10e0\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Kerry"
+    ],
+    "name:gla_x_preferred":[
+        "Contae Chiarra\u00ed"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Chiarra\u00ed"
+    ],
+    "name:glg_x_preferred":[
+        "Condado de Kerry"
+    ],
+    "name:glv_x_preferred":[
+        "Coontae Cherree"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039a\u03ad\u03c1\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0a95\u0ac7\u0ab0\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e7\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u0947\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kerry megye"
+    ],
+    "name:ind_x_preferred":[
+        "County Kerry"
+    ],
+    "name:ita_x_preferred":[
+        "Kerry"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30ea\u30fc\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c95\u0cc6\u0cb0\u0ccd\u0cb0\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub9ac \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Comitatus Kerriensis"
+    ],
+    "name:lav_x_preferred":[
+        "Kerri gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Kerio grafyst\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u0435\u0440\u0438"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u0947\u0930\u0940"
+    ],
+    "name:may_x_preferred":[
+        "County Kerry"
+    ],
+    "name:nno_x_preferred":[
+        "County Kerry"
+    ],
+    "name:nob_x_preferred":[
+        "Kerry"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0631\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u06cc\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Kerry"
+    ],
+    "name:por_x_preferred":[
+        "Condado de Kerry"
+    ],
+    "name:rum_x_preferred":[
+        "Comitatul Kerry"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0440\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Coonty Kerry"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd9\u0dbb\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Contae Chiarra\u00ed"
+    ],
+    "name:slv_x_preferred":[
+        "Okro\u017eje Kerry"
+    ],
+    "name:spa_x_preferred":[
+        "Condado de Kerry"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Kerry"
+    ],
+    "name:swe_x_preferred":[
+        "Kerry"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf  \u0b95\u0bc6\u0bb0\u0bcd\u0bb0\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c46\u0c30\u0c4d\u0c30\u0c40 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u0435\u0440\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e32\u0e15\u0e35 \u0e40\u0e04\u0e2d\u0e23\u0e4c\u0e23\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Kerry County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0440\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Contae Chiarra\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u06cc\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Kerry"
+    ],
+    "name:wel_x_preferred":[
+        "Swydd Kerry"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"IRL",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"IRL-725",
+    "ne:adm1_code":"IRL-725",
+    "ne:admin":"Ireland",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"IE.KY",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"725",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"EI11",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Ireland",
+    "ne:gn_a1_code":"IE.11",
+    "ne:gn_id":"2963517",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Ciarrai",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"EI11",
+    "ne:gns_id":"-1503613",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Kerry, County",
+    "ne:gns_region":"",
+    "ne:gu_a3":"IRL",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"IE-",
+    "ne:iso_a2":"IE",
+    "ne:labelrank":"8",
+    "ne:latitude":"52.11950000000",
+    "ne:longitude":"-9.55470000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":2,
+    "ne:name":"Kerry",
+    "ne:name_alt":"Ciarra\u00ed",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"KY",
+    "ne:provnum_ne":"5",
+    "ne:region":"South-West",
+    "ne:region_cod":"",
+    "ne:region_sub":"Kerry",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"IRL",
+    "ne:sub_code":"",
+    "ne:type":"Administrative County",
+    "ne:type_en":"County",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345256,
+    "ne:woe_label":"Kerry, IE, Ireland",
+    "ne:woe_name":"Kerry",
+    "qs:a0":"Ireland",
+    "qs:a0_lc":"IE0000000000",
+    "qs:a1":"Kerry",
+    "qs:a1_alt":"Kerry",
+    "qs:a1_lc":"IE2503000000",
+    "qs:adm0":"Ireland",
+    "qs:adm0_a3":"IRL",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-04-10",
+    "statoids:area_km":"4,701",
+    "statoids:area_mi":"1,815",
+    "statoids:as_of_date":"2011-04-10",
+    "statoids:capital":"Tralee",
+    "statoids:country":"IE",
+    "statoids:gec":"EI11",
+    "statoids:hasc":"IE.KY",
+    "statoids:iso":"KY",
+    "statoids:name":"Kerry",
+    "statoids:population":"145502",
+    "statoids:timezone":"+0~",
+    "statoids:type":"county",
+    "wd:wordcount":574,
+    "wof:belongsto":[
+        102191581,
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"EI11",
+        "gn:id":2963517,
+        "gp:id":2345256,
+        "hasc:id":"IE.KY",
+        "iso:id":"IE-KY",
+        "wd:id":"Q184469"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"780333db66146d158db11fa4b1791ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "region_id":85685161
+        }
+    ],
+    "wof:id":85685161,
+    "wof:lastmodified":1536617117,
+    "wof:name":"Kerry",
+    "wof:parent_id":85633241,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":145502,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        85684991
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.5769320000002,
+    52.07525299999983,
+    -10.5067665000002,
+    52.10837949999984
+],
+  "geometry": {"coordinates":[[[-10.5769320000002,52.07525299999983],[-10.56011700000019,52.08822699999985],[-10.55978000000019,52.08913399999983],[-10.54596800000019,52.09493649999985],[-10.5288645000002,52.09946449999984],[-10.51488800000018,52.10837949999984],[-10.5067665000002,52.10404649999984],[-10.52835950000019,52.09072549999984],[-10.53698450000019,52.08667099999985],[-10.54020600000018,52.08814999999984],[-10.55559750000018,52.08372149999985],[-10.5769320000002,52.07525299999983]]],"type":"Polygon"}
+}

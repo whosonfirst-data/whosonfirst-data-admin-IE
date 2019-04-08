@@ -1,0 +1,72 @@
+{
+  "id": 1243002167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.20556,53.27583,-9.20556,53.27583",
+    "geom:latitude":53.27583,
+    "geom:longitude":-9.20556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Shannafreaghoge",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312417,
+    "gn:latitude":53.27583,
+    "gn:longitude":-9.20556,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Shannafreaghoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shannafreaghoge"
+    ],
+    "name:gle_x_preferred":[
+        "Seanadh Fhraoch\u00f3g"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312417
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"aa3da53d52b9e5903af44c3eca5ff8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243002167,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1243002167,
+    "wof:lastmodified":1537636780,
+    "wof:name":"Shannafreaghoge",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.20556,
+    53.27583000000001,
+    -9.20556,
+    53.27583000000001
+],
+  "geometry": {"coordinates":[-9.20556,53.27583000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327367739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28111,52.27917,-9.28111,52.27917",
+    "geom:latitude":52.27917,
+    "geom:longitude":-9.28111,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Reacaslagh",
+    "gn:country_code":"IE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291378,
+    "gn:latitude":52.27917,
+    "gn:longitude":-9.28111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Reacaslagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291378
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ce9534179963812be5c6eaeaec73d2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327367739,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1327367739,
+    "wof:lastmodified":1536774889,
+    "wof:name":"Reacaslagh",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28111,
+    52.27917,
+    -9.28111,
+    52.27917
+],
+  "geometry": {"coordinates":[-9.28111,52.27917],"type":"Point"}
+}

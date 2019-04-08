@@ -1,0 +1,66 @@
+{
+  "id": 1276804135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35389,53.33167,-7.35389,53.33167",
+    "geom:latitude":53.33167,
+    "geom:longitude":-7.35389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Kilclonfert",
+    "gn:country_code":"IE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963474,
+    "gn:latitude":53.33167,
+    "gn:longitude":-7.35389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilclonfert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963474
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4123aeaa53bfc1407fe1987ec0e62509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276804135,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1276804135,
+    "wof:lastmodified":1536644368,
+    "wof:name":"Kilclonfert",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35389,
+    53.33167,
+    -7.35389,
+    53.33167
+],
+  "geometry": {"coordinates":[-7.35389,53.33167],"type":"Point"}
+}

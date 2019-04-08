@@ -1,0 +1,66 @@
+{
+  "id": 1259514599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87389,52.28583,-8.87389,52.28583",
+    "geom:latitude":52.28583,
+    "geom:longitude":-8.87389,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Tarrant's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3292709,
+    "gn:latitude":52.28583,
+    "gn:longitude":-8.87389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tarrant\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292709
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e5d360edf1658894cd900206a66fd6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259514599,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259514599,
+    "wof:lastmodified":1536813528,
+    "wof:name":"Tarrant's Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87389,
+    52.28583,
+    -8.87389,
+    52.28583
+],
+  "geometry": {"coordinates":[-8.87389,52.28583],"type":"Point"}
+}

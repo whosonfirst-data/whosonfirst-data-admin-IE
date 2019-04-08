@@ -1,0 +1,113 @@
+{
+  "id": 1125934523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.64583,53.97722,-7.64583,53.97722",
+    "geom:latitude":53.97722,
+    "geom:longitude":-7.64583,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":384,
+    "iso:country":"IE",
+    "lbl:latitude":53.97722,
+    "lbl:longitude":-7.64583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Carrigallen"
+    ],
+    "name:dut_x_preferred":[
+        "Carrigallen"
+    ],
+    "name:eng_x_preferred":[
+        "Carrigallen"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d8\u10d2\u10d0\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Carraig \u00c1lainn"
+    ],
+    "name:pol_x_preferred":[
+        "Carrigallen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u0433\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Carrigallen"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965714,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Carrigallen",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560165,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965714,
+        "gp:id":560165,
+        "qs_pg:id":182801,
+        "wd:id":"Q2085788"
+    },
+    "wof:country":"IE",
+    "wof:created":1497296920,
+    "wof:geomhash":"e97f46651083fa4b8c5d50f890ffdbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125934523,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1125934523,
+    "wof:lastmodified":1514450437,
+    "wof:name":"Carrigallen",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:population":384,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.64583,
+    53.97722,
+    -7.64583,
+    53.97722
+],
+  "geometry": {"coordinates":[-7.64583,53.97722],"type":"Point"}
+}

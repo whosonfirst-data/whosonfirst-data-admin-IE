@@ -1,0 +1,66 @@
+{
+  "id": 1360116203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56972,54.13,-8.56972,54.13",
+    "geom:latitude":54.13,
+    "geom:longitude":-8.56972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Carrowntawy",
+    "gn:country_code":"IE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310935,
+    "gn:latitude":54.13,
+    "gn:longitude":-8.56972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carrowntawy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310935
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8fec6865859bba92837b24057b8d6ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360116203,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1360116203,
+    "wof:lastmodified":1536900874,
+    "wof:name":"Carrowntawy",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56972,
+    54.13,
+    -8.56972,
+    54.13
+],
+  "geometry": {"coordinates":[-8.56972,54.13],"type":"Point"}
+}

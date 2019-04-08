@@ -1,0 +1,62 @@
+{
+  "id": 1209546377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70952,53.6061,-6.70952,53.6061",
+    "geom:latitude":53.6061,
+    "geom:longitude":-6.70952,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Bellewstown",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866994,
+    "gn:latitude":53.6061,
+    "gn:longitude":-6.70952,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Bellewstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866994
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f4608749136151639a51f1a9498c0984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209546377
+        }
+    ],
+    "wof:id":1209546377,
+    "wof:lastmodified":1536283830,
+    "wof:name":"Bellewstown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70952,
+    53.6061,
+    -6.70952,
+    53.6061
+],
+  "geometry": {"coordinates":[-6.70952,53.6061],"type":"Point"}
+}

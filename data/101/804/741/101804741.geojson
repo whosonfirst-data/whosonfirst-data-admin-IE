@@ -1,0 +1,120 @@
+{
+  "id": 101804741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":468113.388592,
+    "geom:bbox":"-6.70958722452,53.0523392826,-6.6896095401,53.0614610714",
+    "geom:latitude":53.056621,
+    "geom:longitude":-6.699913,
+    "gn:population":830,
+    "iso:country":"IE",
+    "lbl:latitude":53.056942,
+    "lbl:longitude":-6.700594,
+    "mps:latitude":53.056942,
+    "mps:longitude":-6.700594,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043d\u043b\u0430\u0432\u0438\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:dut_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:eng_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:fre_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan Lu\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:pol_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u043b\u0430\u0432\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Dunlavin"
+    ],
+    "name:swe_x_preferred":[
+        "Dunlavin"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wicklow",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Dunlavin",
+    "qs:la_lc":"*IE2203257033",
+    "qs:level":"locality",
+    "qs:loc":"Dunlavin",
+    "qs:loc_alt":"Dunlavin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e9812-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964507,
+        "gp:id":560774,
+        "qs:id":894932,
+        "qs_pg:id":894932,
+        "wd:id":"Q2086135",
+        "wk:page":"Dunlavin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e47a7434fdd1cb5be86f8bc900de9457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804741,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":101804741,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642750,
+    "wof:name":"Dunlavin",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":830,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7095872245219,
+    53.05233928256524,
+    -6.68960954009583,
+    53.06146107135442
+],
+  "geometry": {"coordinates":[[[-6.69861537462612,53.05951353458772],[-6.69758409501969,53.0569001794762],[-6.69321169758638,53.05751597669513],[-6.69286805334332,53.0566448413137],[-6.68995311288444,53.05705527552527],[-6.68960954009583,53.05618412927112],[-6.69543926112334,53.05536320957521],[-6.6947519478498,53.05362095079704],[-6.6962092918285,53.05341568646014],[-6.69586563321661,53.05254455971817],[-6.6973229372299,53.05233928256524],[-6.69801032589424,53.05408152517424],[-6.69946767179016,53.0538762209855],[-6.69981141871915,53.05474733545617],[-6.70418346213967,53.05413130333272],[-6.70487117033815,53.05587349963656],[-6.70924326324825,53.05525728105874],[-6.7095872245219,53.05612836288674],[-6.70812984562838,53.05633379137839],[-6.70847379650655,53.0572048765527],[-6.70264404486477,53.05802643392963],[-6.70333177898766,53.05976863803278],[-6.69895916825595,53.06038465016741],[-6.69930297876846,53.06125576435142],[-6.69784538918213,53.06146107135442],[-6.69715783962738,53.05971883210754],[-6.69861537462612,53.05951353458772]]],"type":"Polygon"}
+}

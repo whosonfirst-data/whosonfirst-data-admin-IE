@@ -1,0 +1,66 @@
+{
+  "id": 1310334775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61315,53.74103,-6.61315,53.74103",
+    "geom:latitude":53.74103,
+    "geom:longitude":-6.61315,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Tankardstown",
+    "gn:country_code":"IE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867222,
+    "gn:latitude":53.74103,
+    "gn:longitude":-6.61315,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tankardstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867222
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"764817db956c88c8b27bd136654d83b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310334775,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1310334775,
+    "wof:lastmodified":1536665833,
+    "wof:name":"Tankardstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61315,
+    53.74103,
+    -6.61315,
+    53.74103
+],
+  "geometry": {"coordinates":[-6.61315,53.74103],"type":"Point"}
+}

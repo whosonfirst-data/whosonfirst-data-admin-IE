@@ -1,0 +1,66 @@
+{
+  "id": 1242907873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40056,54.02417,-8.40056,54.02417",
+    "geom:latitude":54.02417,
+    "geom:longitude":-8.40056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Carrowcrory",
+    "gn:country_code":"IE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310876,
+    "gn:latitude":54.02417,
+    "gn:longitude":-8.40056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carrowcrory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310876
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"59a57aa20281a5e58d554150a2d9b97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242907873,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1242907873,
+    "wof:lastmodified":1537081836,
+    "wof:name":"Carrowcrory",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40056,
+    54.02417,
+    -8.40056,
+    54.02417
+],
+  "geometry": {"coordinates":[-8.40056,54.02417],"type":"Point"}
+}

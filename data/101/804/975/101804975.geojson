@@ -1,0 +1,157 @@
+{
+  "id": 101804975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000251,
+    "geom:area_square_m":1822276.535642,
+    "geom:bbox":"-6.73023080153,53.9652309674,-6.69975161945,53.9858780017",
+    "geom:latitude":53.976098,
+    "geom:longitude":-6.717925,
+    "gn:population":3995,
+    "iso:country":"IE",
+    "lbl:latitude":53.977975,
+    "lbl:longitude":-6.717694,
+    "mps:latitude":53.977975,
+    "mps:longitude":-6.717694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:bre_x_preferred":[
+        "Carraig Mhachaire Rois"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043a\u043c\u0430\u043a\u0440\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:dan_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:deu_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:dut_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:eng_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:fra_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:fre_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:ger_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:gle_x_preferred":[
+        "Carraig Mhachaire Rois"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05e7\u05de\u05e7\u05e8\u05d5\u05e1"
+    ],
+    "name:ind_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:ita_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:lit_x_preferred":[
+        "Karikmakrosas"
+    ],
+    "name:nld_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:pol_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u043a\u043c\u0430\u043a\u0440\u043e\u0441\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:slo_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:spa_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:swe_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:unk_x_variant":[
+        "Magheross"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u06a9\u0645\u06cc\u06a9\u0631\u0627\u0633"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Monaghan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Carrickmacross Rural",
+    "qs:la_lc":"*IE1105177016",
+    "qs:level":"locality",
+    "qs:loc":"Carrickmacross",
+    "qs:loc_alt":"Carrickmacross",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1397,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965733,
+        "gp:id":560153,
+        "qs:id":279365,
+        "qs_pg:id":279365,
+        "wd:id":"Q1002776",
+        "wk:page":"Carrickmacross"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ac8317e31e76c79d630059b34c036c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804975,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":101804975,
+    "wof:lastmodified":1527642758,
+    "wof:name":"Carrickmacross",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:population":3995,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73023080153393,
+    53.96523096740526,
+    -6.69975161944524,
+    53.98587800170816
+],
+  "geometry": {"coordinates":[[[-6.71705180572781,53.98587800170816],[-6.71634192229612,53.98413639035664],[-6.71485319418059,53.98434251334714],[-6.71449830796132,53.98347170068661],[-6.71300959511535,53.98367780079639],[-6.71088082479457,53.97845286626119],[-6.70046066472639,53.97989485785365],[-6.69975161944524,53.97815313334274],[-6.7012401966312,53.97794719827357],[-6.7015947390874,53.97881805632699],[-6.70754902826946,53.97799411667535],[-6.70719437091486,53.97712327820767],[-6.71017137736715,53.97671121030504],[-6.70910733995225,53.97409871595534],[-6.70613050581471,53.9745107544756],[-6.7050668011334,53.97189821825071],[-6.70655513877813,53.97169222266746],[-6.7069097178977,53.97256306456774],[-6.70988641028077,53.97215100968174],[-6.71024106465211,53.97302184040035],[-6.71768270383205,53.9719913641286],[-6.71626361911689,53.96850813087474],[-6.71477543300944,53.96871424248553],[-6.71406605503108,53.96697260772436],[-6.71257791288468,53.96717869156748],[-6.71186866360608,53.96543704145483],[-6.71335674834916,53.96523096740526],[-6.71371139277858,53.96610178825944],[-6.71519949277865,53.96589569134125],[-6.71555418373214,53.96676650590871],[-6.71704229898717,53.96656038612065],[-6.71739703646745,53.96743119440072],[-6.72632561776095,53.96619406887316],[-6.72774543480216,53.96967717049716],[-6.72476906525026,53.97008965676383],[-6.72441414163433,53.96921887364323],[-6.71994957249927,53.96983745354572],[-6.7213690295315,53.97332063648474],[-6.72434565205583,53.97290822865455],[-6.72470061832399,53.97377901111139],[-6.72618893810687,53.97357277533342],[-6.72654395092593,53.97444355149747],[-6.72803228595643,53.97423729284304],[-6.72838734532883,53.9751080627135],[-6.72987569560536,53.97490178118227],[-6.73023080153393,53.975772544758],[-6.72725403009809,53.97618509965116],[-6.72867440261632,53.97966817925987],[-6.7242087999075,53.98028693561093],[-6.72491892095951,53.98202849648351],[-6.72343030235095,53.98223472245013],[-6.72414043735904,53.98397628756379],[-6.71818559847225,53.98480105085503],[-6.7185405778414,53.98567185093452],[-6.71705180572781,53.98587800170816]]],"type":"Polygon"}
+}

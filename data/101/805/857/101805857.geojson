@@ -1,0 +1,108 @@
+{
+  "id": 101805857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":398478.579217,
+    "geom:bbox":"-7.58357401106,52.0454304553,-7.56012797295,52.0510720239",
+    "geom:latitude":52.047888,
+    "geom:longitude":-7.570646,
+    "iso:country":"IE",
+    "lbl:latitude":52.04718,
+    "lbl:longitude":-7.569847,
+    "mps:latitude":52.04718,
+    "mps:longitude":-7.569847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "An Rinn"
+    ],
+    "name:cat_x_preferred":[
+        "An Rinn"
+    ],
+    "name:dut_x_preferred":[
+        "Ring"
+    ],
+    "name:eng_x_preferred":[
+        "Ringville"
+    ],
+    "name:eng_x_variant":[
+        "Ring"
+    ],
+    "name:fre_x_preferred":[
+        "Ring"
+    ],
+    "name:gle_x_preferred":[
+        "An Rinn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Ring"
+    ],
+    "name:unk_x_variant":[
+        "Ring"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Waterford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ringville",
+    "qs:la_lc":"*IE2405227081",
+    "qs:level":"locality",
+    "qs:loc":"Ringville",
+    "qs:loc_alt":"Ringville",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f7476-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961814,
+        "gp:id":20074229,
+        "qs:id":1189724,
+        "wd:id":"Q798788",
+        "wk:page":"Ring, County Waterford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ae560839745339e357707c4f1e56f734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805857,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":101805857,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514450638,
+    "wof:name":"Ringville",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58357401105735,
+    52.04543045529817,
+    -7.5601279729517,
+    52.05107202390406
+],
+  "geometry": {"coordinates":[[[-7.5654420379995,52.05107202390406],[-7.56509237929458,52.05020347504365],[-7.56082708741098,52.05084879778752],[-7.5601279729517,52.04911166663089],[-7.56581479998061,52.04825124065439],[-7.56476594773653,52.04564558996361],[-7.5661875468403,52.04543045529817],[-7.56653717303772,52.04629900226996],[-7.57080197180608,52.0456534816941],[-7.57115169110932,52.0465220127158],[-7.57683801640621,52.04566106100089],[-7.57753770886086,52.04739807998249],[-7.58180247439856,52.04675215857191],[-7.5814525434181,52.04588366426879],[-7.58287408145969,52.04566832788129],[-7.58357401105735,52.04740530533081],[-7.5722009491929,52.04912759651745],[-7.57185117980163,52.04825907012747],[-7.5675861517775,52.04890463392616],[-7.56793584474394,52.04977317472492],[-7.56651411826709,52.04998833339994],[-7.56686380245065,52.05085687745776],[-7.5654420379995,52.05107202390406]]],"type":"Polygon"}
+}

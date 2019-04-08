@@ -1,0 +1,66 @@
+{
+  "id": 1259614189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.72056,53.0425,-8.72056,53.0425",
+    "geom:latitude":53.0425,
+    "geom:longitude":-8.72056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Derrykeel",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311940,
+    "gn:latitude":53.0425,
+    "gn:longitude":-8.72056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derrykeel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311940
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3b3e4025ccb6b2a1c04179b3c08da7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259614189,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1259614189,
+    "wof:lastmodified":1536670638,
+    "wof:name":"Derrykeel",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72056,
+    53.0425,
+    -8.72056,
+    53.0425
+],
+  "geometry": {"coordinates":[-8.72056,53.0425],"type":"Point"}
+}

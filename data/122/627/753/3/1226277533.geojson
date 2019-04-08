@@ -1,0 +1,66 @@
+{
+  "id": 1226277533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.42966,53.90272,-9.42966,53.90272",
+    "geom:latitude":53.90272,
+    "geom:longitude":-9.42966,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Muckanagh",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130102,
+    "gn:latitude":53.90272,
+    "gn:longitude":-9.42966,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Muckanagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130102
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"90c476a6245334f47ee662ae3f7861bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226277533,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1226277533,
+    "wof:lastmodified":1536887351,
+    "wof:name":"Muckanagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.42966,
+    53.90272,
+    -9.42966,
+    53.90272
+],
+  "geometry": {"coordinates":[-9.42966,53.90272],"type":"Point"}
+}

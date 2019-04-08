@@ -1,0 +1,66 @@
+{
+  "id": 1276259883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29389,53.51,-6.29389,53.51",
+    "geom:latitude":53.51,
+    "geom:longitude":-6.29389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Drisnoge",
+    "gn:country_code":"IE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316332,
+    "gn:latitude":53.51,
+    "gn:longitude":-6.29389,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Drisnoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316332
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b88e4997aebb8b3f02dc39b27b50eace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276259883,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1276259883,
+    "wof:lastmodified":1536876236,
+    "wof:name":"Drisnoge",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29389,
+    53.51,
+    -6.29389,
+    53.51
+],
+  "geometry": {"coordinates":[-6.29389,53.51],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243007879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89369,52.12933,-8.89369,52.12933",
+    "geom:latitude":52.12933,
+    "geom:longitude":-8.89369,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Banteer",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966357,
+    "gn:latitude":52.12933,
+    "gn:longitude":-8.89369,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Banteer",
+    "gn:population":323,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banteer"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e1ntir"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966357,
+        "wk:page":"Banteer"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ac563c7a345a3ac3a0b21c94acde6488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243007879,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1243007879,
+    "wof:lastmodified":1537636755,
+    "wof:name":"Banteer",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":323,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89369,
+    52.12933,
+    -8.89369,
+    52.12933
+],
+  "geometry": {"coordinates":[-8.89369,52.12933],"type":"Point"}
+}

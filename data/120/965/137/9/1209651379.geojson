@@ -1,0 +1,68 @@
+{
+  "id": 1209651379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22941,52.53596,-7.22941,52.53596",
+    "geom:latitude":52.53596,
+    "geom:longitude":-7.22941,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Lawcus",
+    "gn:country_code":"IE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643254,
+    "gn:latitude":52.53596,
+    "gn:longitude":-7.22941,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Lawcus",
+    "gn:population":355,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lawcus-Stoneyford"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643254
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"39f8d75b30fb7ee184e06827b1781a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651379
+        }
+    ],
+    "wof:id":1209651379,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Lawcus",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":355,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22941,
+    52.53596,
+    -7.22941,
+    52.53596
+],
+  "geometry": {"coordinates":[-7.22941,52.53596],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1125939781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.63167,54.6575,-8.63167,54.6575",
+    "geom:latitude":54.6575,
+    "geom:longitude":-8.63167,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":282,
+    "iso:country":"IE",
+    "lbl:latitude":54.6575,
+    "lbl:longitude":-8.63167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Carrick"
+    ],
+    "name:gle_x_preferred":[
+        "An Charraig"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965743,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Carrick",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":191,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":217818,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560146,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965743,
+        "gp:id":560146,
+        "qs_pg:id":217818
+    },
+    "wof:country":"IE",
+    "wof:created":1497297078,
+    "wof:geomhash":"374ecf854e702bde1d3421c06a800de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125939781,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125939781,
+    "wof:lastmodified":1509402017,
+    "wof:name":"Carrick",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.63167,
+    54.6575,
+    -8.63167,
+    54.6575
+],
+  "geometry": {"coordinates":[-8.63167,54.6575],"type":"Point"}
+}

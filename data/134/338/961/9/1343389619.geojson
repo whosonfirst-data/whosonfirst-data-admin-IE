@@ -1,0 +1,77 @@
+{
+  "id": 1343389619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.36667,54.2,-8.36667,54.2",
+    "geom:latitude":54.2,
+    "geom:longitude":-8.36667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Ballintogher",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966700,
+    "gn:latitude":54.2,
+    "gn:longitude":-8.36667,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Ballintogher",
+    "gn:population":313,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballintogher"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an T\u00f3chair"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966700,
+        "wk:page":"Ballintogher"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0665466354cbf9d16f91f55fcab1a58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343389619,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343389619,
+    "wof:lastmodified":1537636759,
+    "wof:name":"Ballintogher",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:population":313,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.36667,
+    54.2,
+    -8.36667,
+    54.2
+],
+  "geometry": {"coordinates":[-8.36667,54.2],"type":"Point"}
+}

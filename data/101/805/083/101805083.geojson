@@ -1,0 +1,167 @@
+{
+  "id": 101805083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":318589.151524,
+    "geom:bbox":"-8.28908158818,54.7927229187,-8.27643246632,54.8016001092",
+    "geom:latitude":54.796887,
+    "geom:longitude":-8.282881,
+    "gn:elevation":87,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1500,
+    "gn:population":869,
+    "iso:country":"IE",
+    "lbl:latitude":54.796876,
+    "lbl:longitude":-8.282881,
+    "mps:latitude":54.796876,
+    "mps:longitude":-8.282881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Glenties"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0442\u0438\u0439\u0441"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u5b89\u63d0\u65af"
+    ],
+    "name:deu_x_preferred":[
+        "Glenties"
+    ],
+    "name:dut_x_preferred":[
+        "Na Gleannta"
+    ],
+    "name:eng_x_preferred":[
+        "Glenties"
+    ],
+    "name:eus_x_preferred":[
+        "Glenties"
+    ],
+    "name:fre_x_preferred":[
+        "Glenties"
+    ],
+    "name:ger_x_preferred":[
+        "Glenties"
+    ],
+    "name:gle_x_preferred":[
+        "Na Gleannta"
+    ],
+    "name:glv_x_preferred":[
+        "Na Gleannta"
+    ],
+    "name:ita_x_preferred":[
+        "Glenties"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30c6\u30a3\u30fc\u30ba"
+    ],
+    "name:lat_x_preferred":[
+        "Glenties"
+    ],
+    "name:nld_x_preferred":[
+        "Na Gleannta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0442\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Glenties"
+    ],
+    "name:swe_x_preferred":[
+        "Glenties"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0442\u0456\u0441"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Glenties",
+    "qs:la_lc":"*IE1102057078",
+    "qs:level":"locality",
+    "qs:loc":"Glenties",
+    "qs:loc_alt":"Glenties",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964006,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Glenties",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":28,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1336219,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560982,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1307,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c8aea-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964006,
+        "gp:id":560982,
+        "qs:id":1336219,
+        "qs_pg:id":1336219,
+        "wd:id":"Q667646",
+        "wk:page":"Glenties"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7004c1004ab4388e7c81fef79a29277a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805083,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805083,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379340,
+    "wof:name":"Glenties",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":869,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125889207
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28908158817808,
+    54.79272291866414,
+    -8.27643246632209,
+    54.80160010923009
+],
+  "geometry": {"coordinates":[[[-8.2834380666701,54.80160010923009],[-8.28104683448157,54.79640924493611],[-8.27953641478319,54.79663496550688],[-8.27873955879329,54.79490465316172],[-8.27722918232513,54.79513034459245],[-8.27643246632209,54.79340001465056],[-8.28096337370027,54.79272291866414],[-8.28136180945569,54.79358806803532],[-8.28438239603014,54.79313656883585],[-8.28517944579846,54.79486684068149],[-8.28366910159542,54.79509261032979],[-8.2848647409362,54.79768802206848],[-8.28637517306731,54.79746223598335],[-8.28717242634133,54.79919249120604],[-8.2886829016951,54.79896667597552],[-8.28908158817808,54.79983179561259],[-8.28757108351141,54.8000576163235],[-8.28796976103848,54.80092273977834],[-8.2834380666701,54.80160010923009]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343497717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91972,52.13139,-6.91972,52.13139",
+    "geom:latitude":52.13139,
+    "geom:longitude":-6.91972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Churchtown",
+    "gn:country_code":"IE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965503,
+    "gn:latitude":52.13139,
+    "gn:longitude":-6.91972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Churchtown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965503
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"93595b515e46f5c75d036a80770b51a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343497717,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1343497717,
+    "wof:lastmodified":1536692509,
+    "wof:name":"Churchtown",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91972,
+    52.13139,
+    -6.91972,
+    52.13139
+],
+  "geometry": {"coordinates":[-6.91972,52.13139],"type":"Point"}
+}

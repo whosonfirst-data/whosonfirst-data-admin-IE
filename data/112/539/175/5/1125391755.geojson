@@ -1,0 +1,96 @@
+{
+  "id": 1125391755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05389,51.91028,-8.05389,51.91028",
+    "geom:latitude":51.91028,
+    "geom:longitude":-8.05389,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1277,
+    "iso:country":"IE",
+    "lbl:latitude":51.91028,
+    "lbl:longitude":-8.05389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Castlemartyr"
+    ],
+    "name:gle_x_preferred":[
+        "Baile na Martra"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965590,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Castlemartyr",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":72,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1018225,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071579,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965590,
+        "gp:id":20071579,
+        "qs_pg:id":1018225
+    },
+    "wof:country":"IE",
+    "wof:created":1497048749,
+    "wof:geomhash":"3bb1a92a9da56b220233a30d4d6b640f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125391755,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125391755,
+    "wof:lastmodified":1509389835,
+    "wof:name":"Castlemartyr",
+    "wof:parent_id":85684963,
+    "wof:placetype":"localadmin",
+    "wof:population":1277,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05389,
+    51.91028,
+    -8.05389,
+    51.91028
+],
+  "geometry": {"coordinates":[-8.05389,51.91028],"type":"Point"}
+}

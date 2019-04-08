@@ -1,0 +1,111 @@
+{
+  "id": 101805911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":259020.768611,
+    "geom:bbox":"-8.51919740193,51.9781871492,-8.50813154663,51.9859741628",
+    "geom:latitude":51.981784,
+    "geom:longitude":-8.513751,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":573,
+    "iso:country":"IE",
+    "lbl:latitude":51.981441,
+    "lbl:longitude":-8.513667,
+    "mps:latitude":51.981441,
+    "mps:longitude":-8.513667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Whitechurch"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Whitechurch",
+    "qs:la_lc":"*IE2502047320",
+    "qs:level":"locality",
+    "qs:loc":"Whitechurch",
+    "qs:loc_alt":"Whitechurch",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960956,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Whitechurch",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":127,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":127,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":354152,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562493,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f908c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2960956,
+        "gp:id":562493,
+        "qs:id":354152,
+        "qs_pg:id":354152,
+        "wk:page":"Babelsberg"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7f97d1a09ed0a5472867b2d9ca27da35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805911,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805911,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379339,
+    "wof:name":"Whitechurch",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":573,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125770351
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51919740192778,
+    51.97818714918839,
+    -8.5081315466324,
+    51.98597416284611
+],
+  "geometry": {"coordinates":[[[-8.5171010843813,51.98597416284611],[-8.51636600820927,51.9842437272589],[-8.51211881968231,51.98492334634989],[-8.51175138272572,51.98405811091902],[-8.51316710031017,51.9838315931525],[-8.51206481918859,51.98123589175719],[-8.51064917654895,51.98146239443741],[-8.51028180938386,51.98059715221416],[-8.50886617867047,51.98082363296618],[-8.5081315466324,51.97909313337061],[-8.51379379134141,51.97818714918839],[-8.51526352485223,51.98164806113562],[-8.51667915330233,51.98142150272628],[-8.51741417471362,51.98315193844758],[-8.51882984006244,51.98292535307843],[-8.51919740192778,51.98379056336],[-8.51778171159913,51.98401715375974],[-8.51851683773549,51.985747579286],[-8.5171010843813,51.98597416284611]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125276275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.189932,54.635399,-8.189932,54.635399",
+    "geom:latitude":54.635399,
+    "geom:longitude":-8.189932,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":54.635399,
+    "lbl:longitude":-8.189932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Tantallon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":159,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":286,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062299,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071999,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20071999,
+        "qs_pg:id":1062299
+    },
+    "wof:country":"IE",
+    "wof:created":1497042329,
+    "wof:geomhash":"ecd947f9ba7c48547de79cf5a7aaaadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1125276275,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125276275,
+    "wof:lastmodified":1530147540,
+    "wof:name":"Tantallon",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.189932,
+    54.635399,
+    -8.189932,
+    54.635399
+],
+  "geometry": {"coordinates":[-8.189932,54.635399],"type":"Point"}
+}

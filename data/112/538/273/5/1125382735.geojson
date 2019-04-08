@@ -1,0 +1,99 @@
+{
+  "id": 1125382735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9175,52.6,-6.9175,52.6",
+    "geom:latitude":52.6,
+    "geom:longitude":-6.9175,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":646,
+    "iso:country":"IE",
+    "lbl:latitude":52.6,
+    "lbl:longitude":-6.9175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Borris"
+    ],
+    "name:gle_x_preferred":[
+        "An Bhuir\u00edos"
+    ],
+    "name:unk_x_variant":[
+        "Borris-Idrone"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966058,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Borris",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Carlow",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":88,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1009404,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071198,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Carlow",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966058,
+        "gp:id":20071198,
+        "qs_pg:id":1009404
+    },
+    "wof:country":"IE",
+    "wof:created":1497048154,
+    "wof:geomhash":"f13470dee780bc55c3c03cb4af1e9b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125382735,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1125382735,
+    "wof:lastmodified":1509389632,
+    "wof:name":"Borris",
+    "wof:parent_id":85684975,
+    "wof:placetype":"localadmin",
+    "wof:population":646,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9175,
+    52.6,
+    -6.9175,
+    52.6
+],
+  "geometry": {"coordinates":[-6.9175,52.6],"type":"Point"}
+}

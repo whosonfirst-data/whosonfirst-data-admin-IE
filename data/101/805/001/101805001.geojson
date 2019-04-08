@@ -1,0 +1,116 @@
+{
+  "id": 101805001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":358484.353352,
+    "geom:bbox":"-7.41666346008,53.9230254184,-7.40516181588,53.9342948396",
+    "geom:latitude":53.929673,
+    "geom:longitude":-7.410993,
+    "gn:population":766,
+    "iso:country":"IE",
+    "lbl:latitude":53.931773,
+    "lbl:longitude":-7.408509,
+    "mps:latitude":53.931773,
+    "mps:longitude":-7.408509,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballinagh"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u043d\u0430\u043d\u0430\u0433\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Ballinagh"
+    ],
+    "name:eng_x_preferred":[
+        "Bellananagh"
+    ],
+    "name:eng_x_variant":[
+        "Ballinagh"
+    ],
+    "name:gla_x_preferred":[
+        "B\u00e9al \u00c1tha na nEach"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha na nEach"
+    ],
+    "name:pol_x_preferred":[
+        "Ballinagh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinagh"
+    ],
+    "name:unk_x_variant":[
+        "Ballinagh"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cavan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Bellananagh",
+    "qs:la_lc":"*IE1101027012",
+    "qs:level":"locality",
+    "qs:loc":"Bellananagh",
+    "qs:loc_alt":"Bellananagh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":192,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11803b2c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966231,
+        "gp:id":559915,
+        "qs:id":1078355,
+        "wd:id":"Q252060",
+        "wk:page":"Ballinagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"15c478a3adc2317ab567c08495387276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805001,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":101805001,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642961,
+    "wof:name":"Bellananagh",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:population":766,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41666346007582,
+    53.92302541841252,
+    -7.40516181587873,
+    53.93429483957709
+],
+  "geometry": {"coordinates":[[[-7.41333569321841,53.92323999260253],[-7.41481929125865,53.92302541841252],[-7.41666346007582,53.92736765970506],[-7.41369596694074,53.92779684101225],[-7.41406479947841,53.92866529491096],[-7.41258100369856,53.92887986383141],[-7.41368752717341,53.93148523172886],[-7.41220363249965,53.93169979801411],[-7.41294135052703,53.93343671257441],[-7.40700540590785,53.93429483957709],[-7.40516181587873,53.92995244028293],[-7.4096133703523,53.929308948043],[-7.40924462277218,53.92844047890458],[-7.41221219947931,53.92801140485255],[-7.41184341372707,53.92714294436718],[-7.41332715287172,53.92692838560691],[-7.41222082146186,53.92432301035092],[-7.41370446173789,53.92410844895488],[-7.41333569321841,53.92323999260253]]],"type":"Polygon"}
+}

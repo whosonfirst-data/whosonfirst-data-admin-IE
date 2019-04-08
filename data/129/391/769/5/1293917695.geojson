@@ -1,0 +1,66 @@
+{
+  "id": 1293917695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64583,54.65028,-8.64583,54.65028",
+    "geom:latitude":54.65028,
+    "geom:longitude":-8.64583,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Carrick Lower Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308793,
+    "gn:latitude":54.65028,
+    "gn:longitude":-8.64583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carrick Lower Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308793
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"589fedf64b3295268fb7dfe2d2608636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293917695,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1293917695,
+    "wof:lastmodified":1536664093,
+    "wof:name":"Carrick Lower Bridge",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64583,
+    54.65028,
+    -8.64583,
+    54.65028
+],
+  "geometry": {"coordinates":[-8.64583,54.65028],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260016197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.59528,52.63472,-9.59528,52.63472",
+    "geom:latitude":52.63472,
+    "geom:longitude":-9.59528,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Querrin",
+    "gn:country_code":"IE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3308287,
+    "gn:latitude":52.63472,
+    "gn:longitude":-9.59528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Querrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308287
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d67e06004ef8442167d9fedabde308c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260016197,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1260016197,
+    "wof:lastmodified":1537081647,
+    "wof:name":"Querrin",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.59528,
+    52.63472,
+    -9.59528,
+    52.63472
+],
+  "geometry": {"coordinates":[-9.59528,52.63472],"type":"Point"}
+}

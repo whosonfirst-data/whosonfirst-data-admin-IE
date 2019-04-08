@@ -1,0 +1,66 @@
+{
+  "id": 1310040949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03944,54.39944,-7.03944,54.39944",
+    "geom:latitude":54.39944,
+    "geom:longitude":-7.03944,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Cavan",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310684,
+    "gn:latitude":54.39944,
+    "gn:longitude":-7.03944,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cavan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310684
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"310cbf3520ac88c8b7925d1ca8be7c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310040949,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1310040949,
+    "wof:lastmodified":1537086319,
+    "wof:name":"Cavan",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03944,
+    54.39944000000001,
+    -7.03944,
+    54.39944000000001
+],
+  "geometry": {"coordinates":[-7.03944,54.39944000000001],"type":"Point"}
+}

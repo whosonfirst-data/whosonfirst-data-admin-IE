@@ -1,0 +1,80 @@
+{
+  "id": 1125305439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.522617,53.632628,-6.522617,53.632628",
+    "geom:latitude":53.632628,
+    "geom:longitude":-6.522617,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.632628,
+    "lbl:longitude":-6.522617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cruicetown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191585,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073542,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073542,
+        "qs_pg:id":1191585
+    },
+    "wof:country":"IE",
+    "wof:created":1497043659,
+    "wof:geomhash":"514b94e60dc480373067b7c12d12b672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125305439,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1125305439,
+    "wof:lastmodified":1509387794,
+    "wof:name":"Cruicetown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.522617,
+    53.632628,
+    -6.522617,
+    53.632628
+],
+  "geometry": {"coordinates":[-6.522617,53.632628],"type":"Point"}
+}

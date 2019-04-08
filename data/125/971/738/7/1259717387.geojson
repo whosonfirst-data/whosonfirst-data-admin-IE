@@ -1,0 +1,66 @@
+{
+  "id": 1259717387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.01861,51.60194,-9.01861,51.60194",
+    "geom:latitude":51.60194,
+    "geom:longitude":-9.01861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Quakers Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961987,
+    "gn:latitude":51.60194,
+    "gn:longitude":-9.01861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Quakers Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961987
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7dd58452184416ba46bb493e4ad1a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259717387,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259717387,
+    "wof:lastmodified":1537017555,
+    "wof:name":"Quakers Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.01861,
+    51.60194,
+    -9.01861,
+    51.60194
+],
+  "geometry": {"coordinates":[-9.01861,51.60194],"type":"Point"}
+}

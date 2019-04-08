@@ -1,0 +1,66 @@
+{
+  "id": 1260219979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07751,53.67327,-7.07751,53.67327",
+    "geom:latitude":53.67327,
+    "geom:longitude":-7.07751,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Monennican",
+    "gn:country_code":"IE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866569,
+    "gn:latitude":53.67327,
+    "gn:longitude":-7.07751,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Monennican",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866569
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1056ea10784c5829449f1b9c498f4d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260219979,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1260219979,
+    "wof:lastmodified":1536798248,
+    "wof:name":"Monennican",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07751,
+    53.67327,
+    -7.07751,
+    53.67327
+],
+  "geometry": {"coordinates":[-7.07751,53.67327],"type":"Point"}
+}

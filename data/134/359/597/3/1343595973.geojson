@@ -1,0 +1,75 @@
+{
+  "id": 1343595973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95694,51.73694,-8.95694,51.73694",
+    "geom:latitude":51.73694,
+    "geom:longitude":-8.95694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballineen",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966737,
+    "gn:latitude":51.73694,
+    "gn:longitude":-8.95694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballineen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballineen"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha Fh\u00edn\u00edn"
+    ],
+    "name:und_x_variant":[
+        "Ballyneen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966737
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b92ab952a2d310e674a78a658c09c5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343595973,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1343595973,
+    "wof:lastmodified":1537636760,
+    "wof:name":"Ballineen",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95694,
+    51.73694,
+    -8.95694,
+    51.73694
+],
+  "geometry": {"coordinates":[-8.95694,51.73694],"type":"Point"}
+}

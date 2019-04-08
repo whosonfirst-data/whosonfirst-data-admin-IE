@@ -1,0 +1,66 @@
+{
+  "id": 1310435843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.06139,53.21333,-8.06139,53.21333",
+    "geom:latitude":53.21333,
+    "geom:longitude":-8.06139,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Cankilly",
+    "gn:country_code":"IE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313249,
+    "gn:latitude":53.21333,
+    "gn:longitude":-8.06139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cankilly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313249
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a3a408d4ede1ee2bc76072740cfc4df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310435843,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1310435843,
+    "wof:lastmodified":1537016881,
+    "wof:name":"Cankilly",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.06139,
+    53.21333000000001,
+    -8.06139,
+    53.21333000000001
+],
+  "geometry": {"coordinates":[-8.06139,53.21333000000001],"type":"Point"}
+}

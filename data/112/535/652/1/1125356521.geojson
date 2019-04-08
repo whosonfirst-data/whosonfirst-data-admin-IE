@@ -1,0 +1,80 @@
+{
+  "id": 1125356521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.697045,55.088389,-7.697045,55.088389",
+    "geom:latitude":55.088389,
+    "geom:longitude":-7.697045,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":55.088389,
+    "lbl:longitude":-7.697045,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Millford",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":163,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":220,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1154068,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071983,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20071983,
+        "qs_pg:id":1154068
+    },
+    "wof:country":"IE",
+    "wof:created":1497046504,
+    "wof:geomhash":"cb924741ca0876c2d505fdce36ea7794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125356521,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125356521,
+    "wof:lastmodified":1509388958,
+    "wof:name":"Millford",
+    "wof:parent_id":85685151,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.697045,
+    55.088389,
+    -7.697045,
+    55.088389
+],
+  "geometry": {"coordinates":[-7.697045,55.088389],"type":"Point"}
+}

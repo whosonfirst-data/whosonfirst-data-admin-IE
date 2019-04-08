@@ -1,0 +1,66 @@
+{
+  "id": 1310537175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54583,53.255,-8.54583,53.255",
+    "geom:latitude":53.255,
+    "geom:longitude":-8.54583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Ballymurry",
+    "gn:country_code":"IE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313266,
+    "gn:latitude":53.255,
+    "gn:longitude":-8.54583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballymurry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313266
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7246fd53c0eaceabbea86e000025c2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310537175,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1310537175,
+    "wof:lastmodified":1536870070,
+    "wof:name":"Ballymurry",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54583,
+    53.255,
+    -8.54583,
+    53.255
+],
+  "geometry": {"coordinates":[-8.54583,53.255],"type":"Point"}
+}

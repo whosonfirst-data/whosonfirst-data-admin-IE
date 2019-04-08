@@ -1,0 +1,99 @@
+{
+  "id": 1125300247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98667,53.18861,-7.98667,53.18861",
+    "geom:latitude":53.18861,
+    "geom:longitude":-7.98667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1586,
+    "gn:population":1653,
+    "iso:country":"IE",
+    "lbl:latitude":53.18861,
+    "lbl:longitude":-7.98667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Banagher"
+    ],
+    "name:gle_x_preferred":[
+        "Beannchar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0430\u0445\u0435\u0440"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966371,
+    "qs_pg:gn_pop":1586,
+    "qs_pg:name":"Banagher",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":149,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1110472,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073666,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966371,
+        "gp:id":20073666,
+        "qs_pg:id":1110472
+    },
+    "wof:country":"IE",
+    "wof:created":1497043380,
+    "wof:geomhash":"b176f80e2056db67b39433f18c1caa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125300247,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125300247,
+    "wof:lastmodified":1509387698,
+    "wof:name":"Banagher",
+    "wof:parent_id":85685041,
+    "wof:placetype":"localadmin",
+    "wof:population":1653,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98667,
+    53.18861,
+    -7.98667,
+    53.18861
+],
+  "geometry": {"coordinates":[-7.98667,53.18861],"type":"Point"}
+}

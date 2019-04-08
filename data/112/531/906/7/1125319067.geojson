@@ -1,0 +1,78 @@
+{
+  "id": 1125319067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.377788,51.885815,-10.377788,51.885815",
+    "geom:latitude":51.885815,
+    "geom:longitude":-10.377788,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":51.885815,
+    "lbl:longitude":-10.377788,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Portmagee",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":602,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109612,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072711,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072711,
+        "qs_pg:id":1109612
+    },
+    "wof:country":"IE",
+    "wof:created":1497044424,
+    "wof:geomhash":"3fc8ab363b02554f688ec19154c9483a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "localadmin_id":1125319067,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125319067,
+    "wof:lastmodified":1530147547,
+    "wof:name":"Portmagee",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.377788,
+    51.885815,
+    -10.377788,
+    51.885815
+],
+  "geometry": {"coordinates":[-10.377788,51.885815],"type":"Point"}
+}

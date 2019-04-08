@@ -1,0 +1,66 @@
+{
+  "id": 1260318027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.62339,53.59171,-6.62339,53.59171",
+    "geom:latitude":53.59171,
+    "geom:longitude":-6.62339,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Jordanstown",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867290,
+    "gn:latitude":53.59171,
+    "gn:longitude":-6.62339,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Jordanstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867290
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d4c98439d258be56053a6f4d179552ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260318027,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1260318027,
+    "wof:lastmodified":1536665660,
+    "wof:name":"Jordanstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.62339,
+    53.59171,
+    -6.62339,
+    53.59171
+],
+  "geometry": {"coordinates":[-6.62339,53.59171],"type":"Point"}
+}

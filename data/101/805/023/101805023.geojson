@@ -1,0 +1,116 @@
+{
+  "id": 101805023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1015668.383839,
+    "geom:bbox":"-8.53079031845,54.081591602,-8.50646687897,54.0960594992",
+    "geom:latitude":54.089239,
+    "geom:longitude":-8.518052,
+    "gn:population":1539,
+    "iso:country":"IE",
+    "lbl:latitude":54.09062,
+    "lbl:longitude":-8.516855,
+    "mps:latitude":54.09062,
+    "mps:longitude":-8.516855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballymote"
+    ],
+    "name:fra_x_preferred":[
+        "Ballymote"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Mh\u00f3ta"
+    ],
+    "name:glv_x_preferred":[
+        "Baile an Mh\u00f3ta"
+    ],
+    "name:ita_x_preferred":[
+        "Ballymote"
+    ],
+    "name:nld_x_preferred":[
+        "Ballymote"
+    ],
+    "name:pol_x_preferred":[
+        "Ballymote"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043c\u043e\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Ballymote"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Sligo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ballymote",
+    "qs:la_lc":"*IE1106207009",
+    "qs:level":"locality",
+    "qs:loc":"Ballymote",
+    "qs:loc_alt":"Ballymote",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":76.0,
+    "wd:latitude":54.0896,
+    "wd:longitude":-8.5167,
+    "wd:wordcount":475,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e1702-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966492,
+        "gp:id":559767,
+        "qs:id":386445,
+        "qs_pg:id":386445,
+        "wd:id":"Q1899651",
+        "wk:page":"Ballymote"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"56cf69eefac9f53733755f6709b803ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805023,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":101805023,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642957,
+    "wof:name":"Ballymote",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:population":1539,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53079031844516,
+    54.08159160201569,
+    -8.50646687897154,
+    54.09605949924776
+],
+  "geometry": {"coordinates":[[[-8.52058458288144,54.09605949924776],[-8.51940229652303,54.09346613750677],[-8.51494890640271,54.09415037631385],[-8.51416098241896,54.09242142753737],[-8.5126765453586,54.0926494606814],[-8.51149489144893,54.09005600854601],[-8.51001052363466,54.09028400765186],[-8.50961670648172,54.0894195148017],[-8.51110104625434,54.08919152110064],[-8.5083446819383,54.08314006138846],[-8.50686053842333,54.08336801726432],[-8.50646687897154,54.08250351081887],[-8.51240325166646,54.08159160201569],[-8.5127970232403,54.08245608684888],[-8.51428110725703,54.08222805969956],[-8.51467492657207,54.08309253742823],[-8.5131908145263,54.08332056998199],[-8.51437230667364,54.08591400917891],[-8.51585650281282,54.0856859604109],[-8.51664431890049,54.08741490056212],[-8.51812855622472,54.08718682316373],[-8.51852252188553,54.08805128528184],[-8.52297522864689,54.08736692995012],[-8.52258117888823,54.08650248405269],[-8.52406535667029,54.08627433537816],[-8.52445943445917,54.08713877586786],[-8.530396108812,54.08622598135514],[-8.53079031844516,54.0870903985076],[-8.52633775093125,54.0877750373462],[-8.5279144504579,54.09123275383496],[-8.52643011937039,54.09146095277953],[-8.52721853147875,54.09318981162545],[-8.52424971246762,54.09364617768949],[-8.52464389204908,54.09451061537715],[-8.52315943215888,54.09473877708587],[-8.52355360343552,54.09560321848045],[-8.52058458288144,54.09605949924776]]],"type":"Polygon"}
+}

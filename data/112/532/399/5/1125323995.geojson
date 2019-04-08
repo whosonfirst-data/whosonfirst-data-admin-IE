@@ -1,0 +1,80 @@
+{
+  "id": 1125323995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.279173,52.5962025,-8.279173,52.5962025",
+    "geom:latitude":52.596202,
+    "geom:longitude":-8.279173,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.596202,
+    "lbl:longitude":-8.279173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Doon South",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":81,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252085,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073181,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073181,
+        "qs_pg:id":1252085
+    },
+    "wof:country":"IE",
+    "wof:created":1497044681,
+    "wof:geomhash":"1f30b1148916a0444ad0e4daade2c19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125323995,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1125323995,
+    "wof:lastmodified":1509388188,
+    "wof:name":"Doon South",
+    "wof:parent_id":85684987,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.279173,
+    52.5962025,
+    -8.279173,
+    52.5962025
+],
+  "geometry": {"coordinates":[-8.279173,52.5962025],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293327555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57502,52.41446,-6.57502,52.41446",
+    "geom:latitude":52.41446,
+    "geom:longitude":-6.57502,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Ballyhoge",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304051,
+    "gn:latitude":52.41446,
+    "gn:longitude":-6.57502,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Ballyhoge",
+    "gn:population":262,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballyhogue"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304051
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4e1a4fa57cf1d01fd3cca874980983f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293327555,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1293327555,
+    "wof:lastmodified":1537636769,
+    "wof:name":"Ballyhoge",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57502,
+    52.41446,
+    -6.57502,
+    52.41446
+],
+  "geometry": {"coordinates":[-6.57502,52.41446],"type":"Point"}
+}

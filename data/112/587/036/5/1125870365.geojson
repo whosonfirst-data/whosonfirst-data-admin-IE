@@ -1,0 +1,119 @@
+{
+  "id": 1125870365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66611,53.24889,-6.66611,53.24889",
+    "geom:latitude":53.24889,
+    "geom:longitude":-6.66611,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3164,
+    "gn:population":5283,
+    "iso:country":"IE",
+    "lbl:latitude":53.24889,
+    "lbl:longitude":-6.66611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Sallins"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u0438\u043d\u0441"
+    ],
+    "name:dan_x_preferred":[
+        "Sallins"
+    ],
+    "name:dut_x_preferred":[
+        "Sallins"
+    ],
+    "name:eng_x_preferred":[
+        "Sallins"
+    ],
+    "name:fre_x_preferred":[
+        "Sallins"
+    ],
+    "name:gle_x_preferred":[
+        "Na Soll\u00e1in"
+    ],
+    "name:ita_x_preferred":[
+        "Sallins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ea\u30f3\u30ba"
+    ],
+    "name:nob_x_preferred":[
+        "Sallins"
+    ],
+    "name:pol_x_preferred":[
+        "Sallins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043b\u0438\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Sallins"
+    ],
+    "name:swe_x_preferred":[
+        "Sallins"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961607,
+    "qs_pg:gn_pop":3164,
+    "qs_pg:name":"Sallins",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":143018,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961607,
+        "qs_pg:id":143018,
+        "wd:id":"Q2297381"
+    },
+    "wof:country":"IE",
+    "wof:created":1497294265,
+    "wof:geomhash":"d76e5af0d353424242a764a6390625a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125870365,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125870365,
+    "wof:lastmodified":1514450646,
+    "wof:name":"Sallins",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":5283,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66611,
+    53.24889,
+    -6.66611,
+    53.24889
+],
+  "geometry": {"coordinates":[-6.66611,53.24889],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327470137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.85806,51.87917,-8.85806,51.87917",
+    "geom:latitude":51.87917,
+    "geom:longitude":-8.85806,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Larehill Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3291511,
+    "gn:latitude":51.87917,
+    "gn:longitude":-8.85806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Larehill Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291511
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0db27decfd49792a8e472a6e742028c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327470137,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1327470137,
+    "wof:lastmodified":1536624223,
+    "wof:name":"Larehill Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.85806,
+    51.87917,
+    -8.85806,
+    51.87917
+],
+  "geometry": {"coordinates":[-8.85806,51.87917],"type":"Point"}
+}

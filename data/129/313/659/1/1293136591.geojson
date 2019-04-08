@@ -1,0 +1,67 @@
+{
+  "id": 1293136591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61944,53.29972,-6.61944,53.29972",
+    "geom:latitude":53.29972,
+    "geom:longitude":-6.61944,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Whitechurch",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314733,
+    "gn:latitude":53.29972,
+    "gn:longitude":-6.61944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Whitechurch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314733,
+        "wk:page":"Whitechurch%2C_County_Kildare"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c5b1ba8120615e9701275384cf9ab3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293136591,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1293136591,
+    "wof:lastmodified":1537564856,
+    "wof:name":"Whitechurch",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61944,
+    53.29971999999999,
+    -6.61944,
+    53.29971999999999
+],
+  "geometry": {"coordinates":[-6.61944,53.29971999999999],"type":"Point"}
+}

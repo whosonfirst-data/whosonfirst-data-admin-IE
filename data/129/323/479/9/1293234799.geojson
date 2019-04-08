@@ -1,0 +1,66 @@
+{
+  "id": 1293234799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66339,53.58311,-6.66339,53.58311",
+    "geom:latitude":53.58311,
+    "geom:longitude":-6.66339,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Balgeeth",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867285,
+    "gn:latitude":53.58311,
+    "gn:longitude":-6.66339,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Balgeeth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867285
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ee5284fe1e1a45033399bdf58bccf75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293234799,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293234799,
+    "wof:lastmodified":1536654412,
+    "wof:name":"Balgeeth",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66339,
+    53.58311,
+    -6.66339,
+    53.58311
+],
+  "geometry": {"coordinates":[-6.66339,53.58311],"type":"Point"}
+}

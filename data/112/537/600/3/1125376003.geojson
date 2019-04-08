@@ -1,0 +1,102 @@
+{
+  "id": 1125376003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26806,52.26583,-8.26806,52.26583",
+    "geom:latitude":52.26583,
+    "geom:longitude":-8.26806,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3357,
+    "gn:population":3677,
+    "iso:country":"IE",
+    "lbl:latitude":52.26583,
+    "lbl:longitude":-8.26806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0447\u044a\u043b\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Mhist\u00e9ala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0447\u0435\u043b\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962587,
+    "qs_pg:gn_pop":3357,
+    "qs_pg:name":"Mitchelstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1282,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":960510,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071783,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962587,
+        "gp:id":20071783,
+        "qs_pg:id":960510
+    },
+    "wof:country":"IE",
+    "wof:created":1497047743,
+    "wof:geomhash":"5c14d4a7d24e32d727ecdea1784efc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125376003,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125376003,
+    "wof:lastmodified":1509389459,
+    "wof:name":"Mitchelstown",
+    "wof:parent_id":85684963,
+    "wof:placetype":"localadmin",
+    "wof:population":3677,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26806,
+    52.26583,
+    -8.26806,
+    52.26583
+],
+  "geometry": {"coordinates":[-8.26806,52.26583],"type":"Point"}
+}

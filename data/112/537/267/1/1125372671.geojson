@@ -1,0 +1,94 @@
+{
+  "id": 1125372671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.33028,52.78889,-7.33028,52.78889",
+    "geom:latitude":52.78889,
+    "geom:longitude":-7.33028,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1089,
+    "iso:country":"IE",
+    "lbl:latitude":52.78889,
+    "lbl:longitude":-7.33028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha Ragad"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966420,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballyragget",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":491935,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072833,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966420,
+        "gp:id":20072833,
+        "qs_pg:id":491935
+    },
+    "wof:country":"IE",
+    "wof:created":1497047515,
+    "wof:geomhash":"16eb9f0e462caa2bdd8b31eb29e1dd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125372671,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1125372671,
+    "wof:lastmodified":1509389364,
+    "wof:name":"Ballyragget",
+    "wof:parent_id":85684979,
+    "wof:placetype":"localadmin",
+    "wof:population":1089,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33028,
+    52.78889,
+    -7.33028,
+    52.78889
+],
+  "geometry": {"coordinates":[-7.33028,52.78889],"type":"Point"}
+}

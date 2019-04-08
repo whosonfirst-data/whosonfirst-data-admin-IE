@@ -1,0 +1,66 @@
+{
+  "id": 1344090885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71667,52.05,-8.71667,52.05",
+    "geom:latitude":52.05,
+    "geom:longitude":-8.71667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Beennamweel",
+    "gn:country_code":"IE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966259,
+    "gn:latitude":52.05,
+    "gn:longitude":-8.71667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Beennamweel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966259
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4c929013715229924eff20ef2782d02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344090885,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1344090885,
+    "wof:lastmodified":1536830776,
+    "wof:name":"Beennamweel",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71667,
+    52.05,
+    -8.71667,
+    52.05
+],
+  "geometry": {"coordinates":[-8.71667,52.05],"type":"Point"}
+}

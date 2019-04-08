@@ -1,0 +1,92 @@
+{
+  "id": 1126103469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.10028,53.27833,-6.10028,53.27833",
+    "geom:latitude":53.27833,
+    "geom:longitude":-6.10028,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.27833,
+    "lbl:longitude":-6.10028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964892,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dalkey",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":2356,
+    "qs_pg:photos_1k":477,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2356,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":243292,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560595,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964892,
+        "gp:id":560595,
+        "qs_pg:id":243292
+    },
+    "wof:country":"IE",
+    "wof:created":1497316501,
+    "wof:geomhash":"158a74e213fbfd3d0e8c76298c67f36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":1126103469,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1126103469,
+    "wof:lastmodified":1534379340,
+    "wof:name":"Dalkey",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        85794245
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.10028,
+    53.27833,
+    -6.10028,
+    53.27833
+],
+  "geometry": {"coordinates":[-6.10028,53.27833],"type":"Point"}
+}

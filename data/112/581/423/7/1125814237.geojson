@@ -1,0 +1,106 @@
+{
+  "id": 1125814237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.03333,53.91667,-10.03333,53.91667",
+    "geom:latitude":53.91667,
+    "geom:longitude":-10.03333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.91667,
+    "lbl:longitude":-10.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Dumha \u00c9ige"
+    ],
+    "name:cat_x_preferred":[
+        "Dumha \u00c9ige"
+    ],
+    "name:dut_x_preferred":[
+        "Dooega"
+    ],
+    "name:eng_x_preferred":[
+        "Dooega"
+    ],
+    "name:ger_x_preferred":[
+        "Dumha \u00c9ige"
+    ],
+    "name:gla_x_preferred":[
+        "Dumha \u00c9ige"
+    ],
+    "name:gle_x_preferred":[
+        "Dumha \u00c9ige"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964734,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dooega",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":176,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":176,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238495,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560654,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964734,
+        "gp:id":560654,
+        "qs_pg:id":238495,
+        "wd:id":"Q1264984"
+    },
+    "wof:country":"IE",
+    "wof:created":1497291775,
+    "wof:geomhash":"0a34b3578d96c9f3a559987215fbf9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1125814237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125814237,
+    "wof:lastmodified":1530148427,
+    "wof:name":"Dooega",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.03333,
+    53.91667,
+    -10.03333,
+    53.91667
+],
+  "geometry": {"coordinates":[-10.03333,53.91667],"type":"Point"}
+}

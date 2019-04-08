@@ -1,0 +1,66 @@
+{
+  "id": 1209745873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.85861,52.37917,-7.85861,52.37917",
+    "geom:latitude":52.37917,
+    "geom:longitude":-7.85861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Rathmore",
+    "gn:country_code":"IE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3301571,
+    "gn:latitude":52.37917,
+    "gn:longitude":-7.85861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rathmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301571
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8ebe1956e0a4038718df2ba5d5c62c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209745873,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1209745873,
+    "wof:lastmodified":1536395028,
+    "wof:name":"Rathmore",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.85861,
+    52.37917,
+    -7.85861,
+    52.37917
+],
+  "geometry": {"coordinates":[-7.85861,52.37917],"type":"Point"}
+}

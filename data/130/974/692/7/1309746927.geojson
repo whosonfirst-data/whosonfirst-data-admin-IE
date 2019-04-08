@@ -1,0 +1,64 @@
+{
+  "id": 1309746927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.7425,51.82667,-9.7425,51.82667",
+    "geom:latitude":51.82667,
+    "geom:longitude":-9.7425,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ardea Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3295232,
+    "gn:latitude":51.82667,
+    "gn:longitude":-9.7425,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardea Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295232
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"37f2fa5f35936f1f77ba676b3548c947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1309746927,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309746927,
+    "wof:lastmodified":1537015302,
+    "wof:name":"Ardea Bridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.7425,
+    51.82667,
+    -9.7425,
+    51.82667
+],
+  "geometry": {"coordinates":[-9.7425,51.82667],"type":"Point"}
+}

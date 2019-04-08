@@ -1,0 +1,66 @@
+{
+  "id": 1293037253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95532,53.68033,-6.95532,53.68033",
+    "geom:latitude":53.68033,
+    "geom:longitude":-6.95532,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Cloncat",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866709,
+    "gn:latitude":53.68033,
+    "gn:longitude":-6.95532,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Cloncat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866709
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7a16262e768c9a6746a005273f3d8acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037253,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293037253,
+    "wof:lastmodified":1536939890,
+    "wof:name":"Cloncat",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95532,
+    53.68033000000001,
+    -6.95532,
+    53.68033000000001
+],
+  "geometry": {"coordinates":[-6.95532,53.68033000000001],"type":"Point"}
+}

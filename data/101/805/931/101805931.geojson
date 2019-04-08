@@ -1,0 +1,116 @@
+{
+  "id": 101805931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":378581.406613,
+    "geom:bbox":"-8.02033352352,51.8251700283,-7.99946203849,51.8331654883",
+    "geom:latitude":51.829437,
+    "geom:longitude":-8.010121,
+    "gn:population":476,
+    "iso:country":"IE",
+    "lbl:latitude":51.829919,
+    "lbl:longitude":-8.011702,
+    "mps:latitude":51.829919,
+    "mps:longitude":-8.011702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:dut_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:eng_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:eus_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:fre_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Choit\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:nld_x_preferred":[
+        "Ballycotton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043a\u043e\u0442\u0442\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u044d\u043b\u043b\u0438\u043a\u043e\u0442\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballycotton"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ballycottin",
+    "qs:la_lc":"*IE2502047023",
+    "qs:level":"locality",
+    "qs:loc":"Ballycottin",
+    "qs:loc_alt":"Ballycottin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":947,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c2f14-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966633,
+        "gp:id":20071505,
+        "qs:id":248550,
+        "wd:id":"Q2418569",
+        "wk:page":"Ballycotton"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4655398613f57803cf45f3970e057803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805931,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101805931,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642954,
+    "wof:name":"Ballycottin",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":476,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02033352351549,
+    51.82517002832623,
+    -7.9994620384893,
+    51.83316548833926
+],
+  "geometry": {"coordinates":[[[-8.01750715173034,51.83316548833926],[-8.01715113585902,51.83229842317525],[-8.0143247635761,51.83273927541279],[-8.01396881457254,51.83187219887174],[-8.01255563449701,51.83209259477132],[-8.01219972736368,51.83122551173432],[-8.01078655966575,51.8314458858618],[-8.01043069440027,51.83057879632986],[-8.00760437114764,51.83101948414873],[-8.00689279120718,51.82928528072517],[-8.00547966065147,51.82950558954013],[-8.00512392097642,51.82863848052796],[-8.00371080280416,51.82885876757331],[-8.0033551049878,51.82799165206944],[-8.00194199920094,51.8282119173457],[-8.00158634324134,51.82734479535105],[-8.00017324984134,51.82756503885906],[-7.9994620384893,51.82583078027488],[-8.00370113090884,51.82517002832623],[-8.00405680313304,51.82603714379957],[-8.00546983371629,51.82581685449099],[-8.00653702653761,51.82841817658988],[-8.00795011948719,51.82819785575947],[-8.00830590915075,51.82906495501749],[-8.0125451872982,51.82840387654034],[-8.01290106880811,51.82927095954824],[-8.01431416128514,51.82905056139322],[-8.01467008465892,51.82991763790534],[-8.01608318951025,51.82969721797929],[-8.01643915475029,51.83056428799506],[-8.01926537657744,51.8301233877072],[-8.02033352351549,51.83272455876869],[-8.01750715173034,51.83316548833926]]],"type":"Polygon"}
+}

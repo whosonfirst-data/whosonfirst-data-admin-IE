@@ -1,0 +1,66 @@
+{
+  "id": 1293724355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.77674,53.65747,-6.77674,53.65747",
+    "geom:latitude":53.65747,
+    "geom:longitude":-6.77674,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Durhamstown",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866869,
+    "gn:latitude":53.65747,
+    "gn:longitude":-6.77674,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Durhamstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866869
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"51ccd4868c1f54399e3c3c2e729fba3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293724355,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293724355,
+    "wof:lastmodified":1536943475,
+    "wof:name":"Durhamstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.77674,
+    53.65747,
+    -6.77674,
+    53.65747
+],
+  "geometry": {"coordinates":[-6.77674,53.65747],"type":"Point"}
+}

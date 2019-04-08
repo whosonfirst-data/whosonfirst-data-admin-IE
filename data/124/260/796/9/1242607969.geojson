@@ -1,0 +1,66 @@
+{
+  "id": 1242607969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22778,53.06222,-7.22778,53.06222",
+    "geom:latitude":53.06222,
+    "geom:longitude":-7.22778,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"The Great Heath of Maryborough",
+    "gn:country_code":"IE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314341,
+    "gn:latitude":53.06222,
+    "gn:longitude":-7.22778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"The Great Heath of Maryborough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314341
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fbc7b03d4f1f565f6f70dd033f2a8e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242607969,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1242607969,
+    "wof:lastmodified":1537019176,
+    "wof:name":"The Great Heath of Maryborough",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22778,
+    53.06222,
+    -7.22778,
+    53.06222
+],
+  "geometry": {"coordinates":[-7.22778,53.06222],"type":"Point"}
+}

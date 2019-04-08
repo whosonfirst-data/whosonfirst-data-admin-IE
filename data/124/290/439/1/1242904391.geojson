@@ -1,0 +1,66 @@
+{
+  "id": 1242904391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54278,52.37806,-8.54278,52.37806",
+    "geom:latitude":52.37806,
+    "geom:longitude":-8.54278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Blackpool",
+    "gn:country_code":"IE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966136,
+    "gn:latitude":52.37806,
+    "gn:longitude":-8.54278,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Blackpool",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966136
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"16937f592488982e44bd3ec40b2e7db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242904391,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1242904391,
+    "wof:lastmodified":1537086893,
+    "wof:name":"Blackpool",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54278,
+    52.37806,
+    -8.54278,
+    52.37806
+],
+  "geometry": {"coordinates":[-8.54278,52.37806],"type":"Point"}
+}

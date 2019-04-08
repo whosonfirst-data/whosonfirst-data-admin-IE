@@ -1,0 +1,71 @@
+{
+  "id": 1327060685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.90694,52.55639,-8.90694,52.55639",
+    "geom:latitude":52.55639,
+    "geom:longitude":-8.90694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Cappagh",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965806,
+    "gn:latitude":52.55639,
+    "gn:longitude":-8.90694,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Cappagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cappach",
+        "Cappagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965806
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a7e01fa98c40c5456c29ba5b1190d25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327060685,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1327060685,
+    "wof:lastmodified":1537636751,
+    "wof:name":"Cappagh",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.90694,
+    52.55639,
+    -8.90694,
+    52.55639
+],
+  "geometry": {"coordinates":[-8.90694,52.55639],"type":"Point"}
+}

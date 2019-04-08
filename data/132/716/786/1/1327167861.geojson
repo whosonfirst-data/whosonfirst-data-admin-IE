@@ -1,0 +1,66 @@
+{
+  "id": 1327167861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.13592,53.81675,-9.13592,53.81675",
+    "geom:latitude":53.81675,
+    "geom:longitude":-9.13592,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Legaun",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130520,
+    "gn:latitude":53.81675,
+    "gn:longitude":-9.13592,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Legaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130520
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bcca300e9e6fec6c3d009d33f4d4dba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327167861,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327167861,
+    "wof:lastmodified":1537060196,
+    "wof:name":"Legaun",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13592,
+    53.81675,
+    -9.13592,
+    53.81675
+],
+  "geometry": {"coordinates":[-9.13592,53.81675],"type":"Point"}
+}

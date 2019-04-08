@@ -1,0 +1,70 @@
+{
+  "id": 1327364827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.81687,54.22432,-9.81687,54.22432",
+    "geom:latitude":54.22432,
+    "geom:longitude":-9.81687,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Faulagh",
+    "gn:country_code":"IE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3316068,
+    "gn:latitude":54.22432,
+    "gn:longitude":-9.81687,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Faulagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "F\u00e1lach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316068,
+        "wk:page":"Faulagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3a65a9ed9ebd97b48e0fe84cefacecbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327364827,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327364827,
+    "wof:lastmodified":1537636788,
+    "wof:name":"Faulagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.81687,
+    54.22432,
+    -9.81687,
+    54.22432
+],
+  "geometry": {"coordinates":[-9.81687,54.22432],"type":"Point"}
+}

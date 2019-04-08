@@ -1,0 +1,66 @@
+{
+  "id": 1344093563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94746,53.71796,-6.94746,53.71796",
+    "geom:latitude":53.71796,
+    "geom:longitude":-6.94746,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Light Town",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866618,
+    "gn:latitude":53.71796,
+    "gn:longitude":-6.94746,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Light Town",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866618
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"188067d4c4aabb2f5fdf31f3a12883ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344093563,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1344093563,
+    "wof:lastmodified":1536826828,
+    "wof:name":"Light Town",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94746,
+    53.71796,
+    -6.94746,
+    53.71796
+],
+  "geometry": {"coordinates":[-6.94746,53.71796],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101912843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":258969.268529,
+    "geom:bbox":"-9.18157329513,52.8715358491,-9.17241104384,52.8791406579",
+    "geom:latitude":52.87595,
+    "geom:longitude":-9.177719,
+    "gn:population":204,
+    "iso:country":"IE",
+    "lbl:latitude":52.876145,
+    "lbl:longitude":-9.17817,
+    "mps:latitude":52.876145,
+    "mps:longitude":-9.17817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Inagh"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0430\u0433\u0445"
+    ],
+    "name:dut_x_preferred":[
+        "Inagh"
+    ],
+    "name:eng_x_preferred":[
+        "Inagh"
+    ],
+    "name:fre_x_preferred":[
+        "Inagh"
+    ],
+    "name:ger_x_preferred":[
+        "Inagh"
+    ],
+    "name:gle_x_preferred":[
+        "Eidhneach"
+    ],
+    "name:nld_x_preferred":[
+        "Siribana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Inagh"
+    ],
+    "name:unk_x_variant":[
+        "Dysert"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Clare",
+    "qs:a1r":"2",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Ballyea",
+    "qs:la_lc":"*IE2301037007",
+    "qs:level":"locality",
+    "qs:loc":"Dysart",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963701,
+        "gp:id":561122,
+        "qs:id":1060456,
+        "qs_pg:id":1060456,
+        "wd:id":"Q987790",
+        "wk:page":"Inagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"68e43855134a0e837ed5c05bcc344958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101912843,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":101912843,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1514450497,
+    "wof:name":"Dysart",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":204,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.18157329513002,
+    52.8715358490598,
+    -9.1724110438376,
+    52.87914065789363
+],
+  "geometry": {"coordinates":[[[-9.17869159877239,52.87914065789363],[-9.17829990242024,52.87827825185394],[-9.1754182009015,52.8787485806094],[-9.17463496870329,52.8770237416739],[-9.17319414839454,52.87725886954502],[-9.1724110438376,52.87553401264915],[-9.17673330662831,52.87482860955038],[-9.17634170507802,52.87396619443859],[-9.17778240496619,52.87373103102703],[-9.17739079647407,52.87286861945341],[-9.17883145622699,52.87263344419671],[-9.1784398407944,52.87177103616125],[-9.17988046041432,52.8715358490598],[-9.18105544127388,52.87412305166197],[-9.17961474396503,52.87435825482328],[-9.18157329513002,52.87867024962861],[-9.17869159877239,52.87914065789363]]],"type":"Polygon"}
+}

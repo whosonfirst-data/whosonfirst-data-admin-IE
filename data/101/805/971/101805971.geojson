@@ -1,0 +1,127 @@
+{
+  "id": 101805971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":537859.565671,
+    "geom:bbox":"-7.33911007779,52.7767161116,-7.32966289416,52.7918982038",
+    "geom:latitude":52.785336,
+    "geom:longitude":-7.334159,
+    "gn:population":1089,
+    "iso:country":"IE",
+    "lbl:latitude":52.786572,
+    "lbl:longitude":-7.33534,
+    "mps:latitude":52.786572,
+    "mps:longitude":-7.33534,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0440\u0430\u0433\u0435\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:fre_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:ger_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha Ragad"
+    ],
+    "name:ita_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30e9\u30b2\u30c3\u30c8"
+    ],
+    "name:nob_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:nor_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0440\u0430\u0433\u0433\u0435\u0442"
+    ],
+    "name:slv_x_preferred":[
+        "Ballyragget"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyragget"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kilkenny",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ballyconra",
+    "qs:la_lc":"*IE2402097009",
+    "qs:level":"locality",
+    "qs:loc":"Ballyragget",
+    "qs:loc_alt":"Ballyragget",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":52.783333,
+    "wd:longitude":-7.333333,
+    "wd:wordcount":839,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11800f12-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966420,
+        "gp:id":20072833,
+        "qs:id":491935,
+        "wd:id":"Q2119844",
+        "wk:page":"Ballyragget"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e93494b362e1ca0b98e5820a02727e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805971,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":101805971,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642963,
+    "wof:name":"Ballyragget",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":1089,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.33911007779204,
+    52.77671611164885,
+    -7.32966289416242,
+    52.79189820383175
+],
+  "geometry": {"coordinates":[[[-7.33294078899462,52.78778348083586],[-7.33046677632939,52.78169991621024],[-7.33191263233374,52.78148712384484],[-7.33014586317654,52.77714169986649],[-7.33303727040885,52.77671611164885],[-7.33409743995571,52.77932334136528],[-7.33698895517762,52.7788976545117],[-7.33734243261904,52.77976671835887],[-7.33300506060914,52.78040523717658],[-7.33441882305891,52.78388153591703],[-7.33875651435795,52.78324295874313],[-7.33911007779204,52.78411201508789],[-7.33766416699649,52.78432489637805],[-7.33907848631753,52.78780112620723],[-7.33763245615552,52.78801400958554],[-7.33833966581307,52.7897521252263],[-7.33689356949896,52.7899650009636],[-7.33724717351879,52.79083406139802],[-7.33001636507367,52.79189820383175],[-7.32966289416242,52.79102911907808],[-7.33110905506226,52.79081633019894],[-7.33040211159596,52.78907816591925],[-7.33184820633818,52.7888653693945],[-7.33149473378495,52.78799628986883],[-7.33294078899462,52.78778348083586]]],"type":"Polygon"}
+}

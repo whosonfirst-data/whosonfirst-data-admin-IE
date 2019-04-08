@@ -1,0 +1,66 @@
+{
+  "id": 1276159903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.69444,51.99861,-8.69444,51.99861",
+    "geom:latitude":51.99861,
+    "geom:longitude":-8.69444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Pluckanes",
+    "gn:country_code":"IE",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292047,
+    "gn:latitude":51.99861,
+    "gn:longitude":-8.69444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Pluckanes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292047
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"140a4795fcf7a19da1bc0a9fad249dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276159903,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276159903,
+    "wof:lastmodified":1537010464,
+    "wof:name":"Pluckanes",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.69444,
+    51.99861,
+    -8.69444,
+    51.99861
+],
+  "geometry": {"coordinates":[-8.69444,51.99861],"type":"Point"}
+}

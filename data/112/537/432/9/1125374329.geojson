@@ -1,0 +1,97 @@
+{
+  "id": 1125374329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.65705,51.7654,-8.65705,51.7654",
+    "geom:latitude":51.7654,
+    "geom:longitude":-8.65705,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":767,
+    "iso:country":"IE",
+    "lbl:latitude":51.7654,
+    "lbl:longitude":-8.65705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Inishannon"
+    ],
+    "name:gle_x_preferred":[
+        "Inis Eon\u00e1in"
+    ],
+    "name:unk_x_variant":[
+        "Innishannon"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963669,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Inishannon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1131,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":352179,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071695,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963669,
+        "gp:id":20071695,
+        "qs_pg:id":352179
+    },
+    "wof:country":"IE",
+    "wof:created":1497047622,
+    "wof:geomhash":"d36f0fc3561607ae40fa1eb71bac2a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125374329,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125374329,
+    "wof:lastmodified":1509389416,
+    "wof:name":"Inishannon",
+    "wof:parent_id":85684963,
+    "wof:placetype":"localadmin",
+    "wof:population":767,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.65705,
+    51.7654,
+    -8.65705,
+    51.7654
+],
+  "geometry": {"coordinates":[-8.65705,51.7654],"type":"Point"}
+}

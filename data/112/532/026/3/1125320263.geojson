@@ -1,0 +1,99 @@
+{
+  "id": 1125320263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54798,51.52487,-9.54798,51.52487",
+    "geom:latitude":51.52487,
+    "geom:longitude":-9.54798,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":658,
+    "iso:country":"IE",
+    "lbl:latitude":51.52487,
+    "lbl:longitude":-9.54798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Skull"
+    ],
+    "name:eng_x_variant":[
+        "Schull"
+    ],
+    "name:gle_x_preferred":[
+        "An Scoil"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961455,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Skull",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":185,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":877,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1110424,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961455,
+        "gp:id":20071827,
+        "qs_pg:id":1110424
+    },
+    "wof:country":"IE",
+    "wof:created":1497044495,
+    "wof:geomhash":"95e94be563162339f133c24f24ea6668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125320263,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125320263,
+    "wof:lastmodified":1509388102,
+    "wof:name":"Skull",
+    "wof:parent_id":85684963,
+    "wof:placetype":"localadmin",
+    "wof:population":658,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54798,
+    51.52487,
+    -9.54798,
+    51.52487
+],
+  "geometry": {"coordinates":[-9.54798,51.52487],"type":"Point"}
+}

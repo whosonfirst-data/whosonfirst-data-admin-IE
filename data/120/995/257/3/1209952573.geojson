@@ -1,0 +1,66 @@
+{
+  "id": 1209952573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46528,52.43694,-6.46528,52.43694",
+    "geom:latitude":52.43694,
+    "geom:longitude":-6.46528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Ballylucas",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304176,
+    "gn:latitude":52.43694,
+    "gn:longitude":-6.46528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballylucas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304176
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0fd511613942c0788fdf014ba0eb1e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209952573,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1209952573,
+    "wof:lastmodified":1536381999,
+    "wof:name":"Ballylucas",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46528,
+    52.43694,
+    -6.46528,
+    52.43694
+],
+  "geometry": {"coordinates":[-6.46528,52.43694],"type":"Point"}
+}

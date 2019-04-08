@@ -1,0 +1,111 @@
+{
+  "id": 101845623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":896273.40776,
+    "geom:bbox":"-6.27843855591,53.6223695813,-6.25375837574,53.6363274723",
+    "geom:latitude":53.629839,
+    "geom:longitude":-6.267733,
+    "gn:population":3130,
+    "iso:country":"IE",
+    "lbl:latitude":53.628912,
+    "lbl:longitude":-6.269603,
+    "mps:latitude":53.628912,
+    "mps:longitude":-6.269603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Stamullen"
+    ],
+    "name:dut_x_preferred":[
+        "Stamullen"
+    ],
+    "name:eng_x_preferred":[
+        "Stamullin"
+    ],
+    "name:eng_x_variant":[
+        "Stamullen"
+    ],
+    "name:fre_x_preferred":[
+        "Stamullen"
+    ],
+    "name:gle_x_preferred":[
+        "An Mh\u00ed Thoir"
+    ],
+    "name:glv_x_preferred":[
+        "Steach Maoil\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Stamullen"
+    ],
+    "name:nld_x_preferred":[
+        "Meath East"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0430\u043b\u043b\u0438\u043d"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Balscadden",
+    "qs:la_lc":"*IE2103267016",
+    "qs:level":"locality",
+    "qs:loc":"Stamullin",
+    "qs:loc_alt":"Stamullin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f80d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961366,
+        "gp:id":20073604,
+        "qs:id":1094604,
+        "wd:id":"Q2577972"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bd53167e8472b7eb3f57e6530f59f16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101845623,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101845623,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514450663,
+    "wof:name":"Stamullin",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":3130,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2784385559101,
+    53.62236958126471,
+    -6.2537583757445,
+    53.63632747230463
+],
+  "geometry": {"coordinates":[[[-6.26911375121756,53.63632747230463],[-6.26877222184402,53.63545511402071],[-6.2672936363665,53.635655560869],[-6.26592780276002,53.63216609564432],[-6.26444931790752,53.63236650574902],[-6.26410793046654,53.63149413142264],[-6.25967248399883,53.63209524039303],[-6.2600137863447,53.63296762887381],[-6.25853525015862,53.63316796751798],[-6.2588765411694,53.63404035939652],[-6.25444077051782,53.63464128228395],[-6.2537583757445,53.63289646890701],[-6.25819397617954,53.63229557431993],[-6.25785271923064,53.6314231798026],[-6.26080966530776,53.63102250351824],[-6.26046836866016,53.63015011711565],[-6.26194679409019,53.62994975689412],[-6.26126419516356,53.62820498956404],[-6.26274255104323,53.62800462091383],[-6.26240124876648,53.62713223998617],[-6.26387956345883,53.62693185819052],[-6.26217316572433,53.62256995733634],[-6.26365132582595,53.62236958126471],[-6.2650165233639,53.62585908571987],[-6.27240769843553,53.62485684309797],[-6.27343220070122,53.62747388678781],[-6.27491048226619,53.62727337052058],[-6.27559362568297,53.62901805026314],[-6.27707195111412,53.62881750669226],[-6.2784385559101,53.63230683142399],[-6.27548166535485,53.63270793847715],[-6.27514004530065,53.63183559983389],[-6.26922622352481,53.63263758068928],[-6.27059235222208,53.63612700286984],[-6.26911375121756,53.63632747230463]]],"type":"Polygon"}
+}

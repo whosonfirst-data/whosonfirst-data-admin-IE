@@ -1,0 +1,113 @@
+{
+  "id": 101805061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":627152.29012,
+    "geom:bbox":"-7.40366875361,55.2733279251,-7.38605312238,55.2909006406",
+    "geom:latitude":55.280564,
+    "geom:longitude":-7.394532,
+    "gn:population":461,
+    "iso:country":"IE",
+    "lbl:latitude":55.277107,
+    "lbl:longitude":-7.395133,
+    "mps:latitude":55.277107,
+    "mps:longitude":-7.395133,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballyliffin"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u043b\u0438\u0444\u0438\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyliffin"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyliffin"
+    ],
+    "name:eus_x_preferred":[
+        "Ballyliffin"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Lif\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043b\u0438\u0444\u0444\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyliffin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0456\u043b\u0456\u0444\u0444\u0456\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ballyliffen"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Straid",
+    "qs:la_lc":"*IE1102057136",
+    "qs:level":"locality",
+    "qs:loc":"Ballyliffin",
+    "qs:loc_alt":"Ballyliffin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":339,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c7ec4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966535,
+        "gp:id":20071887,
+        "qs:id":1103003,
+        "wd:id":"Q2078123",
+        "wk:page":"Ballyliffin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1d066adb6f8c5445a0ba0b974022e428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805061,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805061,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642969,
+    "wof:name":"Ballyliffin",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":461,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.40366875360678,
+    55.2733279250769,
+    -7.38605312237627,
+    55.2909006405863
+],
+  "geometry": {"coordinates":[[[-7.39297576617412,55.28808068019612],[-7.38950357053812,55.28026656368422],[-7.38643876053084,55.28069698118424],[-7.38605312237627,55.27982872786805],[-7.39371488051233,55.2787525717174],[-7.39217191592286,55.27527964989241],[-7.39063971706889,55.27549489690074],[-7.39025405657628,55.27462665736942],[-7.39178622482882,55.27441141568329],[-7.39140055375282,55.2735431799731],[-7.39293267623361,55.2733279250769],[-7.39331837790849,55.27419615546489],[-7.39485051581431,55.27398087671492],[-7.39523626810802,55.27484910027886],[-7.39830055958885,55.27441847653773],[-7.39868639310305,55.27528668795253],[-7.40328280827401,55.27464059738338],[-7.40366875360678,55.27550879132093],[-7.40213659980117,55.2757241787005],[-7.40252253456833,55.2765923764606],[-7.39945812021256,55.27702310627524],[-7.39984401381105,55.27789131318303],[-7.3967794775233,55.2783219795171],[-7.39755120239539,55.28005841012475],[-7.3944864829557,55.28048902362178],[-7.39487231421975,55.28135724732164],[-7.39333990111658,55.28157253159225],[-7.39449742325445,55.28417720965587],[-7.39756241795732,55.28374659063115],[-7.39794835996634,55.28461480299876],[-7.39641583959246,55.2848301271049],[-7.39757369399626,55.28743477117257],[-7.39450842397019,55.28786539572673],[-7.39489435427265,55.28873361806399],[-7.39336166585224,55.2889489078587],[-7.39413352532364,55.29068535867987],[-7.39260076046008,55.2909006405863],[-7.39144309319079,55.28829594612671],[-7.39297576617412,55.28808068019612]]],"type":"Polygon"}
+}

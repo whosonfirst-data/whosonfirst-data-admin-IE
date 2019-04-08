@@ -1,0 +1,66 @@
+{
+  "id": 1276263147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24861,53.12472,-9.24861,53.12472",
+    "geom:latitude":53.12472,
+    "geom:longitude":-9.24861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Caher Lower",
+    "gn:country_code":"IE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311759,
+    "gn:latitude":53.12472,
+    "gn:longitude":-9.24861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Caher Lower",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311759
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"69250ded202c6b75c3ee4bdc5bedc427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276263147,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1276263147,
+    "wof:lastmodified":1536871689,
+    "wof:name":"Caher Lower",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24861,
+    53.12472,
+    -9.24861,
+    53.12472
+],
+  "geometry": {"coordinates":[-9.24861,53.12472],"type":"Point"}
+}

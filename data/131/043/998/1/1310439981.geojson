@@ -1,0 +1,66 @@
+{
+  "id": 1310439981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28333,53.56667,-8.28333,53.56667",
+    "geom:latitude":53.56667,
+    "geom:longitude":-8.28333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Rookwood",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961739,
+    "gn:latitude":53.56667,
+    "gn:longitude":-8.28333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Rookwood",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961739
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1629002d0acf4c7877ef6b9c0385eb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310439981,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1310439981,
+    "wof:lastmodified":1537010808,
+    "wof:name":"Rookwood",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28333,
+    53.56667,
+    -8.28333,
+    53.56667
+],
+  "geometry": {"coordinates":[-8.28333,53.56667],"type":"Point"}
+}

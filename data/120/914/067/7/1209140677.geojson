@@ -1,0 +1,62 @@
+{
+  "id": 1209140677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.12111,53.98861,-8.12111,53.98861",
+    "geom:latitude":53.98861,
+    "geom:longitude":-8.12111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Clooncoose",
+    "gn:country_code":"IE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310847,
+    "gn:latitude":53.98861,
+    "gn:longitude":-8.12111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Clooncoose",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310847
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9c5113d499a0921b201adeac0863de4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209140677
+        }
+    ],
+    "wof:id":1209140677,
+    "wof:lastmodified":1536296515,
+    "wof:name":"Clooncoose",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.12111,
+    53.98861,
+    -8.12111,
+    53.98861
+],
+  "geometry": {"coordinates":[-8.12111,53.98861],"type":"Point"}
+}

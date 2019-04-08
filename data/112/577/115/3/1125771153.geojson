@@ -1,0 +1,96 @@
+{
+  "id": 1125771153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.971514,52.83967,-8.971514,52.83967",
+    "geom:latitude":52.83967,
+    "geom:longitude":-8.971514,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.83967,
+    "lbl:longitude":-8.971514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Doora"
+    ],
+    "name:eng_x_preferred":[
+        "Doora"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00faire"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30a5\u30fc\u30e9"
+    ],
+    "name:vie_x_preferred":[
+        "Doora"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Doora",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":5000,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5000,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":898902,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":23698928,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23698928,
+        "qs_pg:id":898902,
+        "wd:id":"Q3778001"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290071,
+    "wof:geomhash":"570c1a50829294056ea1cdfe6570d4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125771153,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1125771153,
+    "wof:lastmodified":1514450489,
+    "wof:name":"Doora",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.971514,
+    52.83967,
+    -8.971514,
+    52.83967
+],
+  "geometry": {"coordinates":[-8.971514,52.83967],"type":"Point"}
+}

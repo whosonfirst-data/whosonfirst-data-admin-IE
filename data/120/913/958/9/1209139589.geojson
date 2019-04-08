@@ -1,0 +1,65 @@
+{
+  "id": 1209139589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1825,53.86111,-9.1825,53.86111",
+    "geom:latitude":53.86111,
+    "geom:longitude":-9.1825,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Gneeve",
+    "gn:country_code":"IE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315822,
+    "gn:latitude":53.86111,
+    "gn:longitude":-9.1825,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Gneeve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Greeve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315822
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6242d00c37ea7920c55eb5abebf67ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209139589
+        }
+    ],
+    "wof:id":1209139589,
+    "wof:lastmodified":1537636786,
+    "wof:name":"Gneeve",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1825,
+    53.86111,
+    -9.1825,
+    53.86111
+],
+  "geometry": {"coordinates":[-9.1825,53.86111],"type":"Point"}
+}

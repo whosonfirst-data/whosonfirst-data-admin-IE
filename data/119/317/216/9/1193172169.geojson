@@ -1,0 +1,66 @@
+{
+  "id": 1193172169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37134,52.21876,-6.37134,52.21876",
+    "geom:latitude":52.21876,
+    "geom:longitude":-6.37134,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Ballyhitt",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302071,
+    "gn:latitude":52.21876,
+    "gn:longitude":-6.37134,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Ballyhitt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302071
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"30d34cde43d39d7e7b490d5e50131490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193172169,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1193172169,
+    "wof:lastmodified":1536379223,
+    "wof:name":"Ballyhitt",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37134,
+    52.21876,
+    -6.37134,
+    52.21876
+],
+  "geometry": {"coordinates":[-6.37134,52.21876],"type":"Point"}
+}

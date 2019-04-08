@@ -1,0 +1,110 @@
+{
+  "id": 101804979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":597424.720741,
+    "geom:bbox":"-6.96371539357,54.3368081309,-6.95098490542,54.3494054752",
+    "geom:latitude":54.342749,
+    "geom:longitude":-6.958257,
+    "gn:population":696,
+    "iso:country":"IE",
+    "lbl:latitude":54.342593,
+    "lbl:longitude":-6.95816,
+    "mps:latitude":54.342593,
+    "mps:longitude":-6.95816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Emyvale"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043c\u0439\u0432\u0430\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Emyvale"
+    ],
+    "name:eng_x_preferred":[
+        "Emyvale"
+    ],
+    "name:gle_x_preferred":[
+        "Scairbh na gCaorach"
+    ],
+    "name:lit_x_preferred":[
+        "Emival\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0438\u0432\u0435\u0439\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Emyvale"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Monaghan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Figullar",
+    "qs:la_lc":"*IE1105177045",
+    "qs:level":"locality",
+    "qs:loc":"Emyvale",
+    "qs:loc_alt":"Emyvale",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ea58c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964408,
+        "gp:id":560806,
+        "qs:id":1343817,
+        "qs_pg:id":1343817,
+        "wd:id":"Q955062",
+        "wk:page":"Emyvale"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e8e440c78eb39225fcb2a21e38272579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804979,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":101804979,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642749,
+    "wof:name":"Emyvale",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:population":696,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9637153935679,
+    54.33680813087585,
+    -6.95098490542102,
+    54.3494054752183
+],
+  "geometry": {"coordinates":[[[-6.96213051165398,54.3494054752183],[-6.96140145782965,54.3476656769148],[-6.95690015279996,54.34829367646569],[-6.95653574125964,54.34742376007966],[-6.95503530754286,54.34763305198027],[-6.95467094369803,54.34676312913717],[-6.9561713481994,54.3465538422663],[-6.95471396073339,54.34307415674061],[-6.95171337147303,54.34349267212508],[-6.95098490542102,54.3417528006874],[-6.95548559312977,54.34112503059373],[-6.95402853218036,54.3376453309329],[-6.96002878655781,54.33680813087585],[-6.96148631471948,54.34028775007522],[-6.96298646022569,54.34007838463896],[-6.9637153935679,54.34181817560852],[-6.9622151896578,54.34202755110596],[-6.96257965484614,54.34289744947898],[-6.96107940777148,54.34310681188373],[-6.96363097716574,54.34919609571875],[-6.96213051165398,54.3494054752183]]],"type":"Polygon"}
+}

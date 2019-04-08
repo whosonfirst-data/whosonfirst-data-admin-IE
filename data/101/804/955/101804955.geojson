@@ -1,0 +1,125 @@
+{
+  "id": 101804955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":338623.251887,
+    "geom:bbox":"-8.88318040237,53.2225934388,-8.8743521801,53.2315231709",
+    "geom:latitude":53.227099,
+    "geom:longitude":-8.878705,
+    "gn:population":389,
+    "iso:country":"IE",
+    "lbl:latitude":53.226687,
+    "lbl:longitude":-8.878772,
+    "mps:latitude":53.226687,
+    "mps:longitude":-8.878772,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:dut_x_preferred":[
+        "Clarenbridge"
+    ],
+    "name:eng_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:eus_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10da\u10d4\u10e0\u10d8\u10dc\u10d1\u10e0\u10d8\u10ef\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead an Chl\u00e1ir\u00edn"
+    ],
+    "name:glg_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ec\u30a2\u30ea\u30f3\u30d6\u30ea\u30c3\u30b8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10d4\u10e0\u10d8\u10dc\u10d1\u10e0\u10d8\u10ef\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Clarenbridge"
+    ],
+    "name:nob_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:nor_x_preferred":[
+        "Clarinbridge"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0440\u0438\u043d\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Clarinbridge"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Galway",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Clarinbridge",
+    "qs:la_lc":"*IE1302067057",
+    "qs:level":"locality",
+    "qs:loc":"Clarinbridge",
+    "qs:loc_alt":"Clarinbridge",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ce436-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965466,
+        "gp:id":20072391,
+        "qs:id":248743,
+        "wd:id":"Q2174714",
+        "wk:page":"Clarinbridge"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"243e600565098362e7ed7a6938ffcf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804955,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":101804955,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642744,
+    "wof:name":"Clarinbridge",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":389,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88318040236965,
+    53.22259343884912,
+    -8.87435218009546,
+    53.23152317094548
+],
+  "geometry": {"coordinates":[[[-8.87708279887943,53.23152317094548],[-8.87669265325007,53.23065976326944],[-8.87523896046326,53.23089155374532],[-8.874848860469,53.23002813896653],[-8.87775617858188,53.22956455130725],[-8.87658583373764,53.22697432844188],[-8.87513226151367,53.22720611494441],[-8.87435218009546,53.22547928021038],[-8.87580569921965,53.22524750438748],[-8.87502564099242,53.22352067328518],[-8.88083936167067,53.22259343884912],[-8.88122948742739,53.22345683392098],[-8.87977605223159,53.22368867394891],[-8.88094646432444,53.22627886461015],[-8.88239997915559,53.22604700855914],[-8.88318040236965,53.22777378283507],[-8.88172683444287,53.22800564956958],[-8.88250728088576,53.22973242747673],[-8.88105364550518,53.22996428750781],[-8.88144387079876,53.23082767915884],[-8.87708279887943,53.23152317094548]]],"type":"Polygon"}
+}

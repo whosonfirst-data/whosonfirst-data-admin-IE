@@ -1,0 +1,62 @@
+{
+  "id": 1209546001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57833,52.3475,-6.57833,52.3475",
+    "geom:latitude":52.3475,
+    "geom:longitude":-6.57833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Holmestown",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302118,
+    "gn:latitude":52.3475,
+    "gn:longitude":-6.57833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Holmestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302118
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7a4c606329c556850c52141dd29b3a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209546001
+        }
+    ],
+    "wof:id":1209546001,
+    "wof:lastmodified":1536283841,
+    "wof:name":"Holmestown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57833,
+    52.3475,
+    -6.57833,
+    52.3475
+],
+  "geometry": {"coordinates":[-6.57833,52.3475],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309835627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.9275,53.59639,-9.9275,53.59639",
+    "geom:latitude":53.59639,
+    "geom:longitude":-9.9275,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Mullaghglass",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230336,
+    "gn:latitude":53.59639,
+    "gn:longitude":-9.9275,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mullaghglass",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230336
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f6602f751dfd133b52356001eee1cb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309835627,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1309835627,
+    "wof:lastmodified":1536887766,
+    "wof:name":"Mullaghglass",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.9275,
+    53.59639,
+    -9.9275,
+    53.59639
+],
+  "geometry": {"coordinates":[-9.9275,53.59639],"type":"Point"}
+}

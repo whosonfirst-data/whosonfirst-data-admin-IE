@@ -1,0 +1,66 @@
+{
+  "id": 1343988393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12528,54.16833,-9.12528,54.16833",
+    "geom:latitude":54.16833,
+    "geom:longitude":-9.12528,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Killanly",
+    "gn:country_code":"IE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315954,
+    "gn:latitude":54.16833,
+    "gn:longitude":-9.12528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killanly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315954
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9ed122b700e72fbde41b6d8d84981a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343988393,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343988393,
+    "wof:lastmodified":1536979156,
+    "wof:name":"Killanly",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12528,
+    54.16833000000001,
+    -9.12528,
+    54.16833000000001
+],
+  "geometry": {"coordinates":[-9.12528,54.16833000000001],"type":"Point"}
+}

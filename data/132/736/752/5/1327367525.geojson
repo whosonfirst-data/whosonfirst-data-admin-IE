@@ -1,0 +1,66 @@
+{
+  "id": 1327367525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.23778,51.95861,-10.23778,51.95861",
+    "geom:latitude":51.95861,
+    "geom:longitude":-10.23778,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Castlequin",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965572,
+    "gn:latitude":51.95861,
+    "gn:longitude":-10.23778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Castlequin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965572
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"890f1f70e31393df046ec109c57c6273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327367525,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1327367525,
+    "wof:lastmodified":1536775209,
+    "wof:name":"Castlequin",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.23778,
+    51.95861,
+    -10.23778,
+    51.95861
+],
+  "geometry": {"coordinates":[-10.23778,51.95861],"type":"Point"}
+}

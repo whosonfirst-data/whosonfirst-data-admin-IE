@@ -1,0 +1,66 @@
+{
+  "id": 1310629389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48631,52.34226,-6.48631,52.34226",
+    "geom:latitude":52.34226,
+    "geom:longitude":-6.48631,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Carriglawn",
+    "gn:country_code":"IE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838906,
+    "gn:latitude":52.34226,
+    "gn:longitude":-6.48631,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Carriglawn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838906
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"49c6e354674c57acd91e46f5b03a8b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310629389,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1310629389,
+    "wof:lastmodified":1536738286,
+    "wof:name":"Carriglawn",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48631,
+    52.34226,
+    -6.48631,
+    52.34226
+],
+  "geometry": {"coordinates":[-6.48631,52.34226],"type":"Point"}
+}

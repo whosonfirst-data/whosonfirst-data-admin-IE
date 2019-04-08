@@ -1,0 +1,123 @@
+{
+  "id": 101806009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000053,
+    "geom:area_square_m":398430.424484,
+    "geom:bbox":"-8.25849731271,52.6020813303,-8.24084905511,52.6086193724",
+    "geom:latitude":52.60527,
+    "geom:longitude":-8.248341,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":509,
+    "iso:country":"IE",
+    "lbl:latitude":52.604622,
+    "lbl:longitude":-8.24687,
+    "mps:latitude":52.604622,
+    "mps:longitude":-8.24687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Doon"
+    ],
+    "name:dut_x_preferred":[
+        "Doon"
+    ],
+    "name:eng_x_preferred":[
+        "Doon"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Doon"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Doon South",
+    "qs:la_lc":"*IE2303127058",
+    "qs:level":"locality",
+    "qs:loc":"Doon",
+    "qs:loc_alt":"Doon",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964717,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Doon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":34581,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560663,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964717,
+        "gp:id":560663,
+        "qs:id":34581,
+        "qs_pg:id":34581,
+        "wd:id":"Q4170645",
+        "wk:page":"Doon, County Limerick"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"66b15aa42ee982ba5fda22052ede41d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806009,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101806009,
+    "wof:lastmodified":1534379339,
+    "wof:name":"Doon",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":509,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126021943
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25849731271387,
+    52.60208133025964,
+    -8.24084905510506,
+    52.60861937242476
+],
+  "geometry": {"coordinates":[[[-8.24084905510506,52.60602149060946],[-8.24372171660178,52.60557410774663],[-8.24261306222206,52.60297624147148],[-8.24835791319424,52.60208133025964],[-8.24909720587789,52.6038132022216],[-8.25340585925824,52.60314180790988],[-8.25414537900485,52.60487364284774],[-8.2555816219168,52.6046498002251],[-8.25595143451034,52.60551571014412],[-8.25738768997871,52.60529184526104],[-8.25849731271387,52.60788954988294],[-8.25706097939599,52.60811342997857],[-8.25632126495367,52.60638161840939],[-8.25488497014356,52.6066054711722],[-8.25451516564954,52.60573955783667],[-8.24446090871601,52.60730601033919],[-8.24483053153534,52.60817195915797],[-8.241957714298,52.60861937242476],[-8.24084905510506,52.60602149060946]]],"type":"Polygon"}
+}

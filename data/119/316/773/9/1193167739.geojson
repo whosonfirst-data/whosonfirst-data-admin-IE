@@ -1,0 +1,78 @@
+{
+  "id": 1193167739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37139,52.50056,-9.37139,52.50056",
+    "geom:latitude":52.50056,
+    "geom:longitude":-9.37139,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Newtown Sandes",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962223,
+    "gn:latitude":52.50056,
+    "gn:longitude":-9.37139,
+    "gn:modification_date":"2017-07-29",
+    "gn:name":"Newtown Sandes",
+    "gn:population":401,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Newtown Sandes"
+    ],
+    "name:gle_x_preferred":[
+        "Maigh Mhe\u00e1in"
+    ],
+    "name:und_x_variant":[
+        "Newtownsandes"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962223
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a7e5d74a778cfe13f1d43a544564ae77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193167739,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1193167739,
+    "wof:lastmodified":1537636726,
+    "wof:name":"Newtown Sandes",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":401,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37139,
+    52.50056,
+    -9.37139,
+    52.50056
+],
+  "geometry": {"coordinates":[-9.37139,52.50056],"type":"Point"}
+}

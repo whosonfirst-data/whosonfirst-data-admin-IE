@@ -1,0 +1,72 @@
+{
+  "id": 1226376681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.91111,53.59944,-9.91111,53.59944",
+    "geom:latitude":53.59944,
+    "geom:longitude":-9.91111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Gowlaun",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963923,
+    "gn:latitude":53.59944,
+    "gn:longitude":-9.91111,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Gowlaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gowlaun"
+    ],
+    "name:gle_x_preferred":[
+        "An Gabhl\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963923
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d62ce8e8ce53bf2c26a38ff0e1caa468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226376681,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1226376681,
+    "wof:lastmodified":1537636737,
+    "wof:name":"Gowlaun",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.91111,
+    53.59944,
+    -9.91111,
+    53.59944
+],
+  "geometry": {"coordinates":[-9.91111,53.59944],"type":"Point"}
+}

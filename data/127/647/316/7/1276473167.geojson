@@ -1,0 +1,72 @@
+{
+  "id": 1276473167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.25417,51.94056,-9.25417,51.94056",
+    "geom:latitude":51.94056,
+    "geom:longitude":-9.25417,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Milleeny",
+    "gn:country_code":"IE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291438,
+    "gn:latitude":51.94056,
+    "gn:longitude":-9.25417,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Milleeny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Milleeny"
+    ],
+    "name:gle_x_preferred":[
+        "Na Mill\u00edn\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291438
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9a86f66723a0338e900f59f82035fe15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276473167,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276473167,
+    "wof:lastmodified":1537636764,
+    "wof:name":"Milleeny",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.25417,
+    51.94056,
+    -9.25417,
+    51.94056
+],
+  "geometry": {"coordinates":[-9.25417,51.94056],"type":"Point"}
+}

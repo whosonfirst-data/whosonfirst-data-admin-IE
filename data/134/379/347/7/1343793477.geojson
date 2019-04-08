@@ -1,0 +1,67 @@
+{
+  "id": 1343793477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.41639,52.34306,-7.41639,52.34306",
+    "geom:latitude":52.34306,
+    "geom:longitude":-7.41639,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Carrickbeg",
+    "gn:country_code":"IE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965740,
+    "gn:latitude":52.34306,
+    "gn:longitude":-7.41639,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Carrickbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965740,
+        "wk:page":"Carrickbeg"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7cfed30dcda62ee3d8f34a756923971b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343793477,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1343793477,
+    "wof:lastmodified":1537564848,
+    "wof:name":"Carrickbeg",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.41639,
+    52.34306,
+    -7.41639,
+    52.34306
+],
+  "geometry": {"coordinates":[-7.41639,52.34306],"type":"Point"}
+}

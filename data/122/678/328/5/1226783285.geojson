@@ -1,0 +1,66 @@
+{
+  "id": 1226783285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.47111,54.9225,-7.47111,54.9225",
+    "geom:latitude":54.9225,
+    "geom:longitude":-7.47111,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Tullyonven",
+    "gn:country_code":"IE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309253,
+    "gn:latitude":54.9225,
+    "gn:longitude":-7.47111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tullyonven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309253
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"abf20375bd43bac197ebbd67f1d8a292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226783285,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226783285,
+    "wof:lastmodified":1536661533,
+    "wof:name":"Tullyonven",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.47111,
+    54.9225,
+    -7.47111,
+    54.9225
+],
+  "geometry": {"coordinates":[-7.47111,54.9225],"type":"Point"}
+}

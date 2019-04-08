@@ -1,0 +1,72 @@
+{
+  "id": 1326966277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.82,53.32417,-8.82,53.32417",
+    "geom:latitude":53.32417,
+    "geom:longitude":-8.82,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Newtown",
+    "gn:country_code":"IE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312515,
+    "gn:latitude":53.32417,
+    "gn:longitude":-8.82,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Newtown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Newtown"
+    ],
+    "name:gle_x_preferred":[
+        "An Baile Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312515
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"763574ff041105cc8b9482b8f340126f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326966277,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1326966277,
+    "wof:lastmodified":1537636781,
+    "wof:name":"Newtown",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.82,
+    53.32417,
+    -8.82,
+    53.32417
+],
+  "geometry": {"coordinates":[-8.82,53.32417],"type":"Point"}
+}

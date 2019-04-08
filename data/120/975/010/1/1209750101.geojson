@@ -1,0 +1,66 @@
+{
+  "id": 1209750101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55,54.06667,-8.55,54.06667",
+    "geom:latitude":54.06667,
+    "geom:longitude":-8.55,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Ballynaglogh",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966470,
+    "gn:latitude":54.06667,
+    "gn:longitude":-8.55,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Ballynaglogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966470
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ee2d0c2384e0b2c0b67239aa8f562ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209750101,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1209750101,
+    "wof:lastmodified":1536393173,
+    "wof:name":"Ballynaglogh",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55,
+    54.06667,
+    -8.55,
+    54.06667
+],
+  "geometry": {"coordinates":[-8.55,54.06667],"type":"Point"}
+}

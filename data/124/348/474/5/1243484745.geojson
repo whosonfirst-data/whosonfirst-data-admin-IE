@@ -1,0 +1,70 @@
+{
+  "id": 1243484745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.77955,53.90626,-9.77955,53.90626",
+    "geom:latitude":53.90626,
+    "geom:longitude":-9.77955,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Mulranny",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870964,
+    "gn:latitude":53.90626,
+    "gn:longitude":-9.77955,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Mulranny",
+    "gn:population":242,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870964,
+        "wk:page":"Mulranny"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9a3927dd9652c50a7f03d592f42c540b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243484745,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1243484745,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Mulranny",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":242,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.77955,
+    53.90626,
+    -9.77955,
+    53.90626
+],
+  "geometry": {"coordinates":[-9.77955,53.90626],"type":"Point"}
+}

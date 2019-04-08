@@ -1,0 +1,66 @@
+{
+  "id": 1260009949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.12195,53.01598,-6.12195,53.01598",
+    "geom:latitude":53.01598,
+    "geom:longitude":-6.12195,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Nun's Cross",
+    "gn:country_code":"IE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314993,
+    "gn:latitude":53.01598,
+    "gn:longitude":-6.12195,
+    "gn:modification_date":"2017-09-19",
+    "gn:name":"Nun\u2019s Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314993
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7f95268bcf07f8ed1a98c67b371b40bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260009949,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1260009949,
+    "wof:lastmodified":1537090738,
+    "wof:name":"Nun's Cross",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12195,
+    53.01598000000001,
+    -6.12195,
+    53.01598000000001
+],
+  "geometry": {"coordinates":[-6.12195,53.01598000000001],"type":"Point"}
+}

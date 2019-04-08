@@ -1,0 +1,62 @@
+{
+  "id": 1209348059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24861,51.91722,-9.24861,51.91722",
+    "geom:latitude":51.91722,
+    "geom:longitude":-9.24861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballyfinnane Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3291435,
+    "gn:latitude":51.91722,
+    "gn:longitude":-9.24861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyfinnane Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291435
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"164241e9f0ddd976f88e8d2f418c26c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209348059
+        }
+    ],
+    "wof:id":1209348059,
+    "wof:lastmodified":1536289842,
+    "wof:name":"Ballyfinnane Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24861,
+    51.91722,
+    -9.24861,
+    51.91722
+],
+  "geometry": {"coordinates":[-9.24861,51.91722],"type":"Point"}
+}

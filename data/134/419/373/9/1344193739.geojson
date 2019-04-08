@@ -1,0 +1,66 @@
+{
+  "id": 1344193739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.16184,52.22893,-10.16184,52.22893",
+    "geom:latitude":52.22893,
+    "geom:longitude":-10.16184,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Goulane Ard",
+    "gn:country_code":"IE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10376311,
+    "gn:latitude":52.22893,
+    "gn:longitude":-10.16184,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Goulane Ard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10376311
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e38e9e498fdbf0660235173b5a43d899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344193739,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1344193739,
+    "wof:lastmodified":1536683193,
+    "wof:name":"Goulane Ard",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.16184,
+    52.22893,
+    -10.16184,
+    52.22893
+],
+  "geometry": {"coordinates":[-10.16184,52.22893],"type":"Point"}
+}

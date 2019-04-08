@@ -1,0 +1,71 @@
+{
+  "id": 1209846171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.43472,53.84778,-6.43472,53.84778",
+    "geom:latitude":53.84778,
+    "geom:longitude":-6.43472,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Dromin",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964648,
+    "gn:latitude":53.84778,
+    "gn:longitude":-6.43472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dromin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drumin",
+        "Dromin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964648
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d0adaec1fe5e31bdec3e8d05a416a3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209846171,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1209846171,
+    "wof:lastmodified":1537636743,
+    "wof:name":"Dromin",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.43472,
+    53.84778000000001,
+    -6.43472,
+    53.84778000000001
+],
+  "geometry": {"coordinates":[-6.43472,53.84778000000001],"type":"Point"}
+}

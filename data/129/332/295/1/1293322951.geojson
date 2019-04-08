@@ -1,0 +1,76 @@
+{
+  "id": 1293322951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.67159,53.49091,-7.67159,53.49091",
+    "geom:latitude":53.49091,
+    "geom:longitude":-7.67159,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Ballymore",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966500,
+    "gn:latitude":53.49091,
+    "gn:longitude":-7.67159,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Ballymore",
+    "gn:population":433,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballymore"
+    ],
+    "name:gle_x_preferred":[
+        "An Baile M\u00f3r"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966500,
+        "wk:page":"Ballymore%2C_County_Westmeath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c81b43c42b6a172a26014f1b0a7980c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293322951,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1293322951,
+    "wof:lastmodified":1537636756,
+    "wof:name":"Ballymore",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.67159,
+    53.49091,
+    -7.67159,
+    53.49091
+],
+  "geometry": {"coordinates":[-7.67159,53.49091],"type":"Point"}
+}

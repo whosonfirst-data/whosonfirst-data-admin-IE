@@ -1,0 +1,66 @@
+{
+  "id": 1293327133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61167,52.9725,-6.61167,52.9725",
+    "geom:latitude":52.9725,
+    "geom:longitude":-6.61167,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Knockaderry Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314322,
+    "gn:latitude":52.9725,
+    "gn:longitude":-6.61167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Knockaderry Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314322
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bb1b4fdac1bb7068f67347fde77124a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293327133,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1293327133,
+    "wof:lastmodified":1537017536,
+    "wof:name":"Knockaderry Cross Roads",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61167,
+    52.9725,
+    -6.61167,
+    52.9725
+],
+  "geometry": {"coordinates":[-6.61167,52.9725],"type":"Point"}
+}

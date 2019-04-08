@@ -1,0 +1,62 @@
+{
+  "id": 1209652179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88889,52.11167,-8.88889,52.11167",
+    "geom:latitude":52.11167,
+    "geom:longitude":-8.88889,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Father Murphy's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3292188,
+    "gn:latitude":52.11167,
+    "gn:longitude":-8.88889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Father Murphy\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292188
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"67a1b31bbf25965c33a3a49c4d2a54eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209652179
+        }
+    ],
+    "wof:id":1209652179,
+    "wof:lastmodified":1536280545,
+    "wof:name":"Father Murphy's Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88889,
+    52.11167,
+    -8.88889,
+    52.11167
+],
+  "geometry": {"coordinates":[-8.88889,52.11167],"type":"Point"}
+}

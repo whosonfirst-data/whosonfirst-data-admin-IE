@@ -1,0 +1,66 @@
+{
+  "id": 1243584517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07444,51.82694,-9.07444,51.82694",
+    "geom:latitude":51.82694,
+    "geom:longitude":-9.07444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Killhanna Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3297341,
+    "gn:latitude":51.82694,
+    "gn:longitude":-9.07444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killhanna Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297341
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"093b5718c40753833f87fe767aa4760d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243584517,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1243584517,
+    "wof:lastmodified":1536603649,
+    "wof:name":"Killhanna Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07444,
+    51.82694,
+    -9.07444,
+    51.82694
+],
+  "geometry": {"coordinates":[-9.07444,51.82694],"type":"Point"}
+}

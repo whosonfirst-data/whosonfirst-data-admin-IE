@@ -1,0 +1,74 @@
+{
+  "id": 101872751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.318265,53.475231,-6.318265,53.475231",
+    "geom:latitude":53.475231,
+    "geom:longitude":-6.318265,
+    "iso:country":"IE",
+    "lbl:latitude":53.475231,
+    "lbl:longitude":-6.318265,
+    "mps:latitude":53.475231,
+    "mps:longitude":-6.318265,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Ireland",
+    "qs:a1":"*Fingal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Kilsallaghan",
+    "qs:loc_alt":"Kilsallaghan",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869998,
+        "gp:id":91473944,
+        "qs:id":1
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bdb98fb104a3ed29ae14b401a62901d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101872751,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":101872751,
+    "wof:lastmodified":1544751298,
+    "wof:name":"Kilsallaghan",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.318265,
+    53.475231,
+    -6.318265,
+    53.475231
+],
+  "geometry": {"coordinates":[-6.318265,53.475231],"type":"Point"}
+}

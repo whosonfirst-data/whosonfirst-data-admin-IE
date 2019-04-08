@@ -1,0 +1,66 @@
+{
+  "id": 1293723251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.43361,53.32306,-7.43361,53.32306",
+    "geom:latitude":53.32306,
+    "geom:longitude":-7.43361,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Murphy's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313949,
+    "gn:latitude":53.32306,
+    "gn:longitude":-7.43361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Murphy\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313949
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2eb2d0b49a9b703df0ab511978804c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293723251,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1293723251,
+    "wof:lastmodified":1536945049,
+    "wof:name":"Murphy's Bridge",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43361,
+    53.32306,
+    -7.43361,
+    53.32306
+],
+  "geometry": {"coordinates":[-7.43361,53.32306],"type":"Point"}
+}

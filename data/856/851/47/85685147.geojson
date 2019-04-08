@@ -1,0 +1,269 @@
+{
+  "id": 85685147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-04-18",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002401,
+    "geom:area_square_m":17033056.123177,
+    "geom:bbox":"-8.5670615,54.9724545,-8.486727,55.023171",
+    "geom:latitude":54.991558,
+    "geom:longitude":-8.528102,
+    "iso:country":"IE",
+    "lbl:latitude":54.992112,
+    "lbl:longitude":-8.528865,
+    "mps:latitude":54.992112,
+    "mps:longitude":-8.528865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0646\u064a\u062c\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Cond\u00e1u de Donegal"
+    ],
+    "name:baq_x_preferred":[
+        "Donegalgo konderria"
+    ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0414\u043e\u043d\u0435\u0433\u0430\u043b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09a1\u09cb\u09a8\u09c7\u0997\u09be\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "Kontelezh D\u00fan na nGall"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u0433\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Comtat de Donegal"
+    ],
+    "name:chi_x_preferred":[
+        "\u591a\u5c3c\u6208\u723e\u90e1"
+    ],
+    "name:cze_x_preferred":[
+        "Hrabstv\u00ed Donegal"
+    ],
+    "name:dan_x_preferred":[
+        "County Donegal"
+    ],
+    "name:dut_x_preferred":[
+        "County Donegal"
+    ],
+    "name:eng_x_preferred":[
+        "Donegal"
+    ],
+    "name:epo_x_preferred":[
+        "Graflando Donegal"
+    ],
+    "name:est_x_preferred":[
+        "Donegali krahvkond"
+    ],
+    "name:fin_x_preferred":[
+        "Donegalin kreivikunta"
+    ],
+    "name:fre_x_preferred":[
+        "Comt\u00e9 de Donegal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10d4\u10d2\u10d0\u10da\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "County Donegal"
+    ],
+    "name:gla_x_preferred":[
+        "Conntaidh Dh\u00f9n nan Gall"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Dh\u00fan na nGall"
+    ],
+    "name:glg_x_preferred":[
+        "Condado de Donegal"
+    ],
+    "name:glv_x_preferred":[
+        "Coontae Ghoon ny Ghoal"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039d\u03c4\u03bf\u03bd\u03b5\u03b3\u03ba\u03ac\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0aa1\u0acb\u0aa8\u0ac7\u0a97\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d3\u05d5\u05e0\u05d2\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0921\u094b\u0928\u0947\u0917\u0932"
+    ],
+    "name:hrv_x_preferred":[
+        "Dh\u00fan na nGall"
+    ],
+    "name:hun_x_preferred":[
+        "Donegal megye"
+    ],
+    "name:ind_x_preferred":[
+        "County Donegal"
+    ],
+    "name:ita_x_preferred":[
+        "Donegal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30cb\u30b4\u30fc\u30eb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0ca1\u0cca\u0ca8\u0cc6\u0c97\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ub2c8\uace8 \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Comitatus Dungalensis"
+    ],
+    "name:lav_x_preferred":[
+        "Donegolas gr\u0101fiste"
+    ],
+    "name:lit_x_preferred":[
+        "Donegolo grafyst\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u0921\u094b\u0928\u0947\u0917\u0932"
+    ],
+    "name:may_x_preferred":[
+        "County Donegal"
+    ],
+    "name:nno_x_preferred":[
+        "County Donegal"
+    ],
+    "name:nob_x_preferred":[
+        "Donegal"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0627\u0646\u06cc\u06af\u0648\u0644"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0648\u0646\u06cc\u06af\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Donegal"
+    ],
+    "name:por_x_preferred":[
+        "Condado de Donegal"
+    ],
+    "name:rum_x_preferred":[
+        "Comitatul Donegal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Coonty Dunnygal"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0ddc\u0db1\u0dda\u0d9c\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Donegal"
+    ],
+    "name:slv_x_preferred":[
+        "okro\u017eje Donegal"
+    ],
+    "name:spa_x_preferred":[
+        "Condado de Donegal"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Donegal"
+    ],
+    "name:swe_x_preferred":[
+        "Donegal"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf  \u0b9f\u0bcb\u0ba9\u0bc6\u0b95\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c4a\u0c28\u0c46\u0c17\u0c32\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:tgl_x_preferred":[
+        "County Donegal"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e2d\u0e19\u0e34\u0e01\u0e2d\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Donegal Kontlu\u011fu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0688\u0627\u0646\u06cc\u06af\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Donegal"
+    ],
+    "name:wel_x_preferred":[
+        "Swydd Donegal"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a0_lc":"IE0000000000",
+    "qs:a1":"Donegal",
+    "qs:a1_alt":"Donegal",
+    "qs:a1_lc":"IE1102000000",
+    "qs:adm0":"Ireland",
+    "qs:adm0_a3":"IRL",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"County",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q179424"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0f28c6c23e46f0f6f4561ec551e27a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "region_id":85685147
+        }
+    ],
+    "wof:id":85685147,
+    "wof:lastmodified":1524183799,
+    "wof:name":"Donegal",
+    "wof:parent_id":85633241,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        85685151
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56706150000019,
+    54.97245449999983,
+    -8.4867270000002,
+    55.02317099999985
+],
+  "geometry": {"coordinates":[[[-8.5394785000002,55.02317099999985],[-8.5394450000002,55.02216399999983],[-8.52926450000018,55.01556849999983],[-8.52908500000018,55.01529299999984],[-8.51351250000019,55.00585599999982],[-8.4959470000002,55.00031699999982],[-8.49687300000019,55.00042749999983],[-8.49697950000018,54.98781249999984],[-8.49292700000018,54.98667949999984],[-8.48804850000019,54.98428349999983],[-8.4867270000002,54.98045349999983],[-8.49052800000018,54.97434649999983],[-8.4944955000002,54.97314099999983],[-8.4943485000002,54.97499899999983],[-8.50788600000018,54.97245449999983],[-8.53432850000019,54.97376299999985],[-8.55934550000018,54.97510949999983],[-8.55839550000019,54.97628449999984],[-8.5611160000002,54.97522399999983],[-8.56134400000019,54.97587199999984],[-8.56706150000019,54.97664299999983],[-8.56558900000019,54.98293749999985],[-8.56043250000019,54.98359299999984],[-8.55993750000019,54.98791449999985],[-8.55926700000018,54.99560199999985],[-8.54724300000018,55.00577949999985],[-8.56113000000019,55.01264949999984],[-8.55114950000018,55.01343199999982],[-8.54366950000019,55.01424849999983],[-8.53935700000019,55.01912349999984],[-8.53968800000018,55.01973399999982],[-8.5394785000002,55.02317099999985]]],"type":"Polygon"}
+}

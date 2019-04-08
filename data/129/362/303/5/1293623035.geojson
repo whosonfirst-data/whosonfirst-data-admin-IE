@@ -1,0 +1,77 @@
+{
+  "id": 1293623035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0925,53.61056,-7.0925,53.61056",
+    "geom:latitude":53.61056,
+    "geom:longitude":-7.0925,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Delvin",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964846,
+    "gn:latitude":53.61056,
+    "gn:longitude":-7.0925,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Delvin",
+    "gn:population":697,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Delvin"
+    ],
+    "name:gle_x_preferred":[
+        "Dealbhna"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964846,
+        "wk:page":"Delvin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"66cc03e82efb69ddfa6330cb357067cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293623035,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1293623035,
+    "wof:lastmodified":1537636744,
+    "wof:name":"Delvin",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:population":697,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0925,
+    53.61056,
+    -7.0925,
+    53.61056
+],
+  "geometry": {"coordinates":[-7.0925,53.61056],"type":"Point"}
+}

@@ -1,0 +1,145 @@
+{
+  "id": 101753083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000131,
+    "geom:area_square_m":969642.551077,
+    "geom:bbox":"-6.48603954676,53.2757430379,-6.45228709273,53.2863652061",
+    "geom:latitude":53.281257,
+    "geom:longitude":-6.469126,
+    "gn:population":3421,
+    "iso:country":"IE",
+    "lbl:latitude":53.281373,
+    "lbl:longitude":-6.469127,
+    "mps:latitude":53.281373,
+    "mps:longitude":-6.469127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:dut_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:eng_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:fra_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:fre_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10e2\u10d9\u10e3\u10da\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Rath C\u00fail"
+    ],
+    "name:gle_x_variant":[
+        "R\u00e1th C\u00fail"
+    ],
+    "name:hun_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:ita_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10e2\u10d9\u10e3\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Ratkulas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u0443\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:nno_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:nob_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:pol_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:por_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u0443\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Rathcoole"
+    ],
+    "name:swe_x_preferred":[
+        "Rathcoole"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*South Dublin",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Donabate",
+    "qs:la_lc":"*IE2103267065",
+    "qs:level":"locality",
+    "qs:loc":"Rathcoole",
+    "qs:loc_alt":"Rathcoole",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":695,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961929,
+        "gp:id":562017,
+        "qs:id":143031,
+        "qs_pg:id":143031,
+        "wd:id":"Q2639401",
+        "wk:page":"Rathcoole, County Dublin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7b7e3a7a9d34f4709f48f4e03a988df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101753083,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":101753083,
+    "wof:lastmodified":1553815476,
+    "wof:name":"Rathcoole",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:population":3421,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48603954676338,
+    53.27574303787378,
+    -6.45228709273448,
+    53.28636520608887
+],
+  "geometry": {"coordinates":[[[-6.45286465409623,53.2859181240126],[-6.45228709273448,53.27956494903287],[-6.45355073324373,53.27939041091969],[-6.45525733880254,53.28374966805916],[-6.45965514000687,53.28314209968397],[-6.45897228076717,53.28139842917233],[-6.46336980131298,53.28079072992762],[-6.46302831381439,53.27991890678186],[-6.47915127298842,53.27768936659049],[-6.4784677387434,53.27594581999091],[-6.47993333065398,53.27574303787378],[-6.480275117048,53.27661480713431],[-6.48320631818103,53.27620918042646],[-6.4842319450006,53.27882445174009],[-6.4856976096508,53.27862159770854],[-6.48603954676338,53.27949334737445],[-6.48310814931699,53.2798990471984],[-6.48345004788911,53.2807708049458],[-6.47465538418595,53.28198750840039],[-6.47499713331075,53.28285929310437],[-6.47353128382258,53.28306201984611],[-6.47387302210922,53.28393380791061],[-6.47240713218537,53.28413652168757],[-6.47206542162792,53.28326472890507],[-6.45740610103024,53.28529084689916],[-6.45774753424251,53.28616268684056],[-6.45628150459748,53.28636520608887],[-6.45594009912475,53.28549336143351],[-6.45286465409623,53.2859181240126]]],"type":"Polygon"}
+}

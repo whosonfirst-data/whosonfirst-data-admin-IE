@@ -1,0 +1,63 @@
+{
+  "id": 1209350563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39028,54.41667,-8.39028,54.41667",
+    "geom:latitude":54.41667,
+    "geom:longitude":-8.39028,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Ballaghnatrillick",
+    "gn:country_code":"IE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311225,
+    "gn:latitude":54.41667,
+    "gn:longitude":-8.39028,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ballaghnatrillick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311225,
+        "wk:page":"Ballaghnatrillick"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d83128ff7566f7e1597f30c88a057245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209350563
+        }
+    ],
+    "wof:id":1209350563,
+    "wof:lastmodified":1537564855,
+    "wof:name":"Ballaghnatrillick",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39028,
+    54.41667,
+    -8.39028,
+    54.41667
+],
+  "geometry": {"coordinates":[-8.39028,54.41667],"type":"Point"}
+}

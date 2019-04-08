@@ -1,0 +1,62 @@
+{
+  "id": 1209140257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83194,52.31333,-6.83194,52.31333",
+    "geom:latitude":52.31333,
+    "geom:longitude":-6.83194,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Ballygarvan Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301869,
+    "gn:latitude":52.31333,
+    "gn:longitude":-6.83194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballygarvan Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301869
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"52db849ec6abba30cad991e5cd7259b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209140257
+        }
+    ],
+    "wof:id":1209140257,
+    "wof:lastmodified":1536296528,
+    "wof:name":"Ballygarvan Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83194,
+    52.31333,
+    -6.83194,
+    52.31333
+],
+  "geometry": {"coordinates":[-6.83194,52.31333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243202653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18167,52.97611,-8.18167,52.97611",
+    "geom:latitude":52.97611,
+    "geom:longitude":-8.18167,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Carney",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312895,
+    "gn:latitude":52.97611,
+    "gn:longitude":-8.18167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312895
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"764650663e892af44de8adcde9969cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243202653,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1243202653,
+    "wof:lastmodified":1536660255,
+    "wof:name":"Carney",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18167,
+    52.97611,
+    -8.18167,
+    52.97611
+],
+  "geometry": {"coordinates":[-8.18167,52.97611],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243208247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.65611,53.23972,-6.65611,53.23972",
+    "geom:latitude":53.23972,
+    "geom:longitude":-6.65611,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Maryfield",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314719,
+    "gn:latitude":53.23972,
+    "gn:longitude":-6.65611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Maryfield",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314719
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ce8a8607c2d9fea339c74df4461c543e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243208247,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1243208247,
+    "wof:lastmodified":1536651852,
+    "wof:name":"Maryfield",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.65611,
+    53.23972,
+    -6.65611,
+    53.23972
+],
+  "geometry": {"coordinates":[-6.65611,53.23972],"type":"Point"}
+}

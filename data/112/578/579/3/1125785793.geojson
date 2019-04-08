@@ -1,0 +1,109 @@
+{
+  "id": 1125785793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54639,53.92278,-6.54639,53.92278",
+    "geom:latitude":53.92278,
+    "geom:longitude":-6.54639,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":673,
+    "iso:country":"IE",
+    "lbl:latitude":53.92278,
+    "lbl:longitude":-6.54639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Tallanstown"
+    ],
+    "name:dut_x_preferred":[
+        "Tallanstown"
+    ],
+    "name:eng_x_preferred":[
+        "Tallanstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Tall\u00fanaigh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u0430\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tallanstown"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961283,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tallanstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Louth",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":14,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":34588,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562317,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Louth",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961283,
+        "gp:id":562317,
+        "qs_pg:id":34588,
+        "wd:id":"Q4450495"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290669,
+    "wof:geomhash":"f47691cde4d5f144ff94f057328c71d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125785793,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1125785793,
+    "wof:lastmodified":1514450666,
+    "wof:name":"Tallanstown",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":673,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54639,
+    53.92278,
+    -6.54639,
+    53.92278
+],
+  "geometry": {"coordinates":[-6.54639,53.92278],"type":"Point"}
+}

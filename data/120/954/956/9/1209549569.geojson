@@ -1,0 +1,62 @@
+{
+  "id": 1209549569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.26861,53.09889,-8.26861,53.09889",
+    "geom:latitude":53.09889,
+    "geom:longitude":-8.26861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Oultort",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313042,
+    "gn:latitude":53.09889,
+    "gn:longitude":-8.26861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Oultort",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313042
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"da949d22f3ee786e8964c6b5672d01f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209549569
+        }
+    ],
+    "wof:id":1209549569,
+    "wof:lastmodified":1536283737,
+    "wof:name":"Oultort",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.26861,
+    53.09889,
+    -8.26861,
+    53.09889
+],
+  "geometry": {"coordinates":[-8.26861,53.09889],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344088023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.28389,54.08389,-6.28389,54.08389",
+    "geom:latitude":54.08389,
+    "geom:longitude":-6.28389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Ardaghy",
+    "gn:country_code":"IE",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309340,
+    "gn:latitude":54.08389,
+    "gn:longitude":-6.28389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardaghy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309340
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4f1b5cbe003b56e3244caaf8db95381f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344088023,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1344088023,
+    "wof:lastmodified":1536834877,
+    "wof:name":"Ardaghy",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28389,
+    54.08389,
+    -6.28389,
+    54.08389
+],
+  "geometry": {"coordinates":[-6.28389,54.08389],"type":"Point"}
+}

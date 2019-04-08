@@ -1,0 +1,66 @@
+{
+  "id": 1276374365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.1,53.41667,-9.1,53.41667",
+    "geom:latitude":53.41667,
+    "geom:longitude":-9.1,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Keekill",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963544,
+    "gn:latitude":53.41667,
+    "gn:longitude":-9.1,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Keekill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963544
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ab0d587f1cc163da03776e67df4b827c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276374365,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1276374365,
+    "wof:lastmodified":1536723790,
+    "wof:name":"Keekill",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.1,
+    53.41667,
+    -9.1,
+    53.41667
+],
+  "geometry": {"coordinates":[-9.1,53.41667],"type":"Point"}
+}

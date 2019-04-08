@@ -1,0 +1,66 @@
+{
+  "id": 1242613627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.55028,53.00139,-6.55028,53.00139",
+    "geom:latitude":53.00139,
+    "geom:longitude":-6.55028,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Stranahely",
+    "gn:country_code":"IE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314922,
+    "gn:latitude":53.00139,
+    "gn:longitude":-6.55028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Stranahely",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314922
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"18acfcc337c84aee472a89f09dc9d191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242613627,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1242613627,
+    "wof:lastmodified":1537011030,
+    "wof:name":"Stranahely",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.55028,
+    53.00139,
+    -6.55028,
+    53.00139
+],
+  "geometry": {"coordinates":[-6.55028,53.00139],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293625243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15083,51.96472,-8.15083,51.96472",
+    "geom:latitude":51.96472,
+    "geom:longitude":-8.15083,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Glenathonacash",
+    "gn:country_code":"IE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3299541,
+    "gn:latitude":51.96472,
+    "gn:longitude":-8.15083,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glenathonacash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3299541
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0f5498eba8a68b1aece0944e42589f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293625243,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293625243,
+    "wof:lastmodified":1537082376,
+    "wof:name":"Glenathonacash",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.15083,
+    51.96472,
+    -8.15083,
+    51.96472
+],
+  "geometry": {"coordinates":[-8.15083,51.96472],"type":"Point"}
+}

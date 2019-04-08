@@ -1,0 +1,16 @@
+{
+  "id": 101805959,
+  "type": "Feature",
+  "properties": {"wof:repo":"whosonfirst-data-admin-ie",
+    "src:geom":"quattroshapes_pg",
+    "wof:geomhash":"e2ce1890ecc50e990e72d2e70713005a",
+    "wof:id":101805959
+},
+  "bbox": [
+    -6.55694,
+    52.86389,
+    -6.55694,
+    52.86389
+],
+  "geometry": {"coordinates":[-6.55694,52.86389],"type":"Point"}
+}

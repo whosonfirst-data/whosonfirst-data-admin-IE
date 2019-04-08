@@ -1,0 +1,142 @@
+{
+  "id": 101806027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":926502.491017,
+    "geom:bbox":"-10.2443355723,51.9323503044,-10.2125653873,51.9516565873",
+    "geom:latitude":51.944102,
+    "geom:longitude":-10.230301,
+    "gn:population":1168,
+    "iso:country":"IE",
+    "lbl:latitude":51.94648,
+    "lbl:longitude":-10.229218,
+    "mps:latitude":51.94648,
+    "mps:longitude":-10.229218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:bre_x_preferred":[
+        "Cathair Saidhbh\u00edn"
+    ],
+    "name:cze_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:deu_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:dut_x_preferred":[
+        "Cahirciveen"
+    ],
+    "name:eng_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:eus_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:fra_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:fre_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:ger_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair Saidhbh\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:lit_x_preferred":[
+        "Kersivinas"
+    ],
+    "name:nld_x_preferred":[
+        "Cahirciveen"
+    ],
+    "name:pol_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044d\u0440\u0441\u0438\u0432\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Cathair Saidhbh\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "Cahersiveen"
+    ],
+    "name:unk_x_variant":[
+        "Cahersween"
+    ],
+    "name:wel_x_preferred":[
+        "Cathair Saidhbh\u00edn"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kerry",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Caher",
+    "qs:la_lc":"*IE2503077035",
+    "qs:level":"locality",
+    "qs:loc":"Cahersiveen",
+    "qs:loc_alt":"Cahersiveen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":578,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965852,
+        "gp:id":560089,
+        "qs:id":1040420,
+        "qs_pg:id":1040420,
+        "wd:id":"Q736203",
+        "wk:page":"Cahersiveen"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b04a443ad7472f395c14df280ef34c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806027,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":101806027,
+    "wof:lastmodified":1527715380,
+    "wof:name":"Cahersiveen",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":1168,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.24433557233783,
+    51.93235030436909,
+    -10.21256538731069,
+    51.95165658729985
+],
+  "geometry": {"coordinates":[[[-10.21497924035918,51.94944507567425],[-10.21779319641473,51.94895112084185],[-10.21699274083164,51.94723353284166],[-10.22262029040093,51.94624546644229],[-10.22221999427279,51.94538669121931],[-10.2320674937917,51.94365697063495],[-10.2316670474811,51.9427982315238],[-10.23448044348953,51.94230388635299],[-10.23407996775495,51.9414451561338],[-10.23548662044976,51.94119796396552],[-10.2350861394375,51.94033923719297],[-10.23789935421297,51.9398448136937],[-10.23709835222326,51.93812737593316],[-10.23850489017036,51.93788015004895],[-10.23690301598964,51.93444527231719],[-10.24252864056365,51.9334562890848],[-10.24212812265023,51.93259758643433],[-10.24353446939529,51.93235030436909],[-10.24433557233783,51.93406769677762],[-10.24292917733868,51.93431498973496],[-10.24332973297641,51.93517368838491],[-10.24192329973749,51.93542097010715],[-10.24232385010896,51.93627967220289],[-10.24091737862813,51.93652694268945],[-10.24131792373197,51.9373856482315],[-10.23991141400677,51.93763290748188],[-10.24111309010635,51.94020902844625],[-10.24251967223626,51.93996175285656],[-10.24292029280622,51.94082045039738],[-10.23588712032614,51.94205668873929],[-10.23628763906743,51.94291541151341],[-10.23488093808817,51.94316261457323],[-10.23608253508235,51.94573878723992],[-10.23326894591014,51.94623317597711],[-10.23366946768266,51.94709190709392],[-10.23226262777519,51.94733908187806],[-10.23266314426655,51.94819781644219],[-10.22422166351095,51.94968054736546],[-10.22462205394424,51.95053931260395],[-10.22180806580667,51.95103343361916],[-10.22100740043578,51.9493158793689],[-10.2167864573571,51.9500569030522],[-10.21718670813209,51.95091569750554],[-10.21296556559685,51.95165658729985],[-10.21256538731069,51.95079777651932],[-10.21537944811519,51.95030387756572],[-10.21497924035918,51.94944507567425]]],"type":"Polygon"}
+}

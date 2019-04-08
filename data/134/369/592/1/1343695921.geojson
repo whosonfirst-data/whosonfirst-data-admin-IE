@@ -1,0 +1,72 @@
+{
+  "id": 1343695921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.07056,53.35667,-9.07056,53.35667",
+    "geom:latitude":53.35667,
+    "geom:longitude":-9.07056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Muckrush",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312443,
+    "gn:latitude":53.35667,
+    "gn:longitude":-9.07056,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Muckrush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Muckrush"
+    ],
+    "name:gle_x_preferred":[
+        "Mucrois"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312443
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e48a04a0c4180245cb18f38dbb4d6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343695921,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343695921,
+    "wof:lastmodified":1537636780,
+    "wof:name":"Muckrush",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.07056,
+    53.35667,
+    -9.07056,
+    53.35667
+],
+  "geometry": {"coordinates":[-9.07056,53.35667],"type":"Point"}
+}

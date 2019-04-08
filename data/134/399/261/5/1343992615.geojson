@@ -1,0 +1,66 @@
+{
+  "id": 1343992615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.19239,53.96973,-10.19239,53.96973",
+    "geom:latitude":53.96973,
+    "geom:longitude":-10.19239,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Keem",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805184,
+    "gn:latitude":53.96973,
+    "gn:longitude":-10.19239,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Keem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805184
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"793382514be4fd45e26444976e2428bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343992615,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343992615,
+    "wof:lastmodified":1536973133,
+    "wof:name":"Keem",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.19239,
+    53.96973000000001,
+    -10.19239,
+    53.96973000000001
+],
+  "geometry": {"coordinates":[-10.19239,53.96973000000001],"type":"Point"}
+}

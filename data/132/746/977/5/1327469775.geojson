@@ -1,0 +1,76 @@
+{
+  "id": 1327469775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14583,52.88583,-6.14583,52.88583",
+    "geom:latitude":52.88583,
+    "geom:longitude":-6.14583,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Redcross",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961855,
+    "gn:latitude":52.88583,
+    "gn:longitude":-6.14583,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Redcross",
+    "gn:population":241,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Redcross"
+    ],
+    "name:gle_x_preferred":[
+        "An Chrois Dhearg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961855,
+        "wk:page":"Redcross"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b6c9ec6ac3276eed6ab075f9924e1b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327469775,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1327469775,
+    "wof:lastmodified":1537636723,
+    "wof:name":"Redcross",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":241,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14583,
+    52.88583000000001,
+    -6.14583,
+    52.88583000000001
+],
+  "geometry": {"coordinates":[-6.14583,52.88583000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309940421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31722,52.59111,-8.31722,52.59111",
+    "geom:latitude":52.59111,
+    "geom:longitude":-8.31722,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Killuragh",
+    "gn:country_code":"IE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305576,
+    "gn:latitude":52.59111,
+    "gn:longitude":-8.31722,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Killuragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305576
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"460b4b1e507c9551834c49acbb2c25cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309940421,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1309940421,
+    "wof:lastmodified":1536737141,
+    "wof:name":"Killuragh",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31722,
+    52.59111,
+    -8.31722,
+    52.59111
+],
+  "geometry": {"coordinates":[-8.31722,52.59111],"type":"Point"}
+}

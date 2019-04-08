@@ -1,0 +1,136 @@
+{
+  "id": 101805869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":338700.977142,
+    "geom:bbox":"-7.43128234582,52.2012201988,-7.42056286799,52.2122738037",
+    "geom:latitude":52.206135,
+    "geom:longitude":-7.425431,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":871,
+    "iso:country":"IE",
+    "lbl:latitude":52.205861,
+    "lbl:longitude":-7.424091,
+    "mps:latitude":52.205861,
+    "mps:longitude":-7.424091,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "name:dut_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "name:eng_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "name:eus_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "name:fre_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "name:gle_x_preferred":[
+        "Coill Mhic Thom\u00e1is\u00edn"
+    ],
+    "name:lit_x_preferred":[
+        "Kilmatomas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0430\u043a\u0442\u043e\u043c\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmacthomas"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Waterford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilmacthomas",
+    "qs:la_lc":"*IE2405227058",
+    "qs:level":"locality",
+    "qs:loc":"Kilmacthomas",
+    "qs:loc_alt":"Kilmacthomas",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963283,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kilmacthomas",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":58,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":58,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982954,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561335,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":821,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e59f6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963283,
+        "gp:id":561335,
+        "qs:id":982954,
+        "qs_pg:id":982954,
+        "wd:id":"Q3775966",
+        "wk:page":"Kilmacthomas"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5db8cd69edb4d4ad583d984edfa2b507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805869,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":101805869,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379342,
+    "wof:name":"Kilmacthomas",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:population":871,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125916385
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.43128234582332,
+    52.20122019880966,
+    -7.42056286798817,
+    52.21227380371641
+],
+  "geometry": {"coordinates":[[[-7.42477927961176,52.21227380371641],[-7.4230358760974,52.2079289456463],[-7.42160863221392,52.20814245838284],[-7.42056286798817,52.20553551094144],[-7.42199003460922,52.20532201257737],[-7.42164145420975,52.20445303185022],[-7.42449569839289,52.20402599337024],[-7.42414708320746,52.20315702070576],[-7.42700122581584,52.20272992336641],[-7.42665257585077,52.20186095876494],[-7.43093361862509,52.20122019880966],[-7.43128234582332,52.2020891490352],[-7.42985531834256,52.20230275758826],[-7.43020403651587,52.20317171108621],[-7.42877697076722,52.20338530732204],[-7.42912567991328,52.20425426409219],[-7.42769857589531,52.20446784801061],[-7.42839599284878,52.20620576657609],[-7.42554164424513,52.20663290224871],[-7.42728522171961,52.21097771999337],[-7.42585789985634,52.21119128612366],[-7.42620663976067,52.2120602499071],[-7.42477927961176,52.21227380371641]]],"type":"Polygon"}
+}

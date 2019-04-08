@@ -1,0 +1,117 @@
+{
+  "id": 1126053995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.05667,53.23889,-8.05667,53.23889",
+    "geom:latitude":53.23889,
+    "geom:longitude":-8.05667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.23889,
+    "lbl:longitude":-8.05667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Cluain Fearta"
+    ],
+    "name:dut_x_preferred":[
+        "Clonfert"
+    ],
+    "name:eng_x_preferred":[
+        "Clonfert"
+    ],
+    "name:fre_x_preferred":[
+        "Clonfert"
+    ],
+    "name:fry_x_preferred":[
+        "Clonfert"
+    ],
+    "name:ger_x_preferred":[
+        "Clonfert"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Fearta"
+    ],
+    "name:ita_x_preferred":[
+        "Clonfert"
+    ],
+    "name:pol_x_preferred":[
+        "Clonfert"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0444\u0435\u0440\u0442"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965365,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Clonfert",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":978112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560356,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965365,
+        "gp:id":560356,
+        "qs_pg:id":978112,
+        "wd:id":"Q1102271"
+    },
+    "wof:country":"IE",
+    "wof:created":1497302968,
+    "wof:geomhash":"ece47a94359f31de2e42be7cd74b9fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126053995,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1126053995,
+    "wof:lastmodified":1514450456,
+    "wof:name":"Clonfert",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.05667,
+    53.23889,
+    -8.05667,
+    53.23889
+],
+  "geometry": {"coordinates":[-8.05667,53.23889],"type":"Point"}
+}

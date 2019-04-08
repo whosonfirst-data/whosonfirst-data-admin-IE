@@ -1,0 +1,66 @@
+{
+  "id": 1260111437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.35278,53.99611,-6.35278,53.99611",
+    "geom:latitude":53.99611,
+    "geom:longitude":-6.35278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Marsh South",
+    "gn:country_code":"IE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309295,
+    "gn:latitude":53.99611,
+    "gn:longitude":-6.35278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Marsh South",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309295
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3fd1b8195a84de8576ff823f0d87abc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260111437,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1260111437,
+    "wof:lastmodified":1536948195,
+    "wof:name":"Marsh South",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.35278,
+    53.99611,
+    -6.35278,
+    53.99611
+],
+  "geometry": {"coordinates":[-6.35278,53.99611],"type":"Point"}
+}

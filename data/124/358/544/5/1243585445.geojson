@@ -1,0 +1,66 @@
+{
+  "id": 1243585445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.37333,52.55111,-6.37333,52.55111",
+    "geom:latitude":52.55111,
+    "geom:longitude":-6.37333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Clone Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304395,
+    "gn:latitude":52.55111,
+    "gn:longitude":-6.37333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Clone Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304395
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"225f0c3195f0027b228e762f674ec0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243585445,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1243585445,
+    "wof:lastmodified":1536602171,
+    "wof:name":"Clone Cross Roads",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.37333,
+    52.55111,
+    -6.37333,
+    52.55111
+],
+  "geometry": {"coordinates":[-6.37333,52.55111],"type":"Point"}
+}

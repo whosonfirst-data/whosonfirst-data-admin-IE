@@ -1,0 +1,116 @@
+{
+  "id": 101805987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":348638.767416,
+    "geom:bbox":"-8.43739790345,52.4689676138,-8.42551998895,52.4791638601",
+    "geom:latitude":52.473464,
+    "geom:longitude":-8.431593,
+    "gn:population":630,
+    "iso:country":"IE",
+    "lbl:latitude":52.473066,
+    "lbl:longitude":-8.431683,
+    "mps:latitude":52.473066,
+    "mps:longitude":-8.431683,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Hospital"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0441\u043f\u0438\u0442\u0430\u043b"
+    ],
+    "name:deu_x_preferred":[
+        "Hospital"
+    ],
+    "name:dut_x_preferred":[
+        "Hospital"
+    ],
+    "name:eng_x_preferred":[
+        "Hospital"
+    ],
+    "name:est_x_preferred":[
+        "Hospital"
+    ],
+    "name:eus_x_preferred":[
+        "Hospital"
+    ],
+    "name:ger_x_preferred":[
+        "Hospital"
+    ],
+    "name:gle_x_preferred":[
+        "An tOspid\u00e9al"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0441\u043f\u0438\u0442\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Hospital"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Hospital",
+    "qs:la_lc":"*IE2303127084",
+    "qs:level":"locality",
+    "qs:loc":"Hospital",
+    "qs:loc_alt":"Hospital",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":470,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d8dd2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963725,
+        "gp:id":561117,
+        "qs:id":997433,
+        "wd:id":"Q1630424",
+        "wk:page":"Hospital, County Limerick"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f69f4ef55151db07ec2c0672eafae85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805987,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101805987,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642970,
+    "wof:name":"Hospital",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":630,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.43739790344512,
+    52.46896761375291,
+    -8.42551998895306,
+    52.47916386007199
+],
+  "geometry": {"coordinates":[[[-8.43135627761967,52.47916386007199],[-8.42875423306225,52.47310654135396],[-8.42589158674923,52.47355820690655],[-8.42551998895306,52.47269285874575],[-8.42695129312131,52.47246703961775],[-8.42657968750427,52.47160169486489],[-8.42944220428291,52.47115001544836],[-8.42907056516424,52.47028467919472],[-8.43050177777701,52.47005881890743],[-8.43013013084271,52.46919348606167],[-8.43156130437904,52.46896761375291],[-8.43193297699304,52.46983294150726],[-8.43336416281187,52.46960704699438],[-8.43559472785159,52.47479894760323],[-8.43702605436124,52.47457300541987],[-8.43739790344512,52.47543831119924],[-8.43167241424055,52.47634199761916],[-8.43278776050204,52.47893796597589],[-8.43135627761967,52.47916386007199]]],"type":"Polygon"}
+}

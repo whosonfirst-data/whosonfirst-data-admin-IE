@@ -1,0 +1,125 @@
+{
+  "id": 101804815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000129,
+    "geom:area_square_m":966188.022028,
+    "geom:bbox":"-8.78869108128,52.7340436358,-8.7687343026,52.7484989046",
+    "geom:latitude":52.74182,
+    "geom:longitude":-8.778228,
+    "gn:population":2507,
+    "iso:country":"IE",
+    "lbl:latitude":52.74161,
+    "lbl:longitude":-8.778228,
+    "mps:latitude":52.74161,
+    "mps:longitude":-8.778228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:ces_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:cze_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:dut_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:eng_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:eus_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:fra_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:fre_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead Abhann U\u00ed gCearnaigh"
+    ],
+    "name:gle_x_variant":[
+        "Dro\u00edchead Abhann \u00d3 gCearnaigh"
+    ],
+    "name:ita_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:nld_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043a\u0441\u043c\u0430\u0439\u043b\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Sixmilebridge"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Clare",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Mountievers",
+    "qs:la_lc":"*IE2301037120",
+    "qs:level":"locality",
+    "qs:loc":"Sixmilebridge",
+    "qs:loc_alt":"Sixmilebridge",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2286,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c2776-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961470,
+        "gp:id":20071468,
+        "qs:id":1056520,
+        "wd:id":"Q2329009",
+        "wk:page":"Sixmilebridge"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"48a62e6826c97598f375a625b1b255a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804815,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":101804815,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642753,
+    "wof:name":"Sixmilebridge",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":2507,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.78869108128441,
+    52.73404363584211,
+    -8.76873430260235,
+    52.74849890463844
+],
+  "geometry": {"coordinates":[[[-8.77275688058222,52.74849890463844],[-8.77237498073652,52.74763493124215],[-8.77093646892996,52.74786511352727],[-8.77055461345623,52.74700113316197],[-8.76911611370645,52.74723129302845],[-8.76873430260235,52.74636730569489],[-8.77017277643978,52.74613715105443],[-8.76940915777357,52.74440918161383],[-8.77084756593734,52.74417902023396],[-8.77046575837676,52.74331503812641],[-8.77190412678038,52.74308486478202],[-8.77114051520664,52.74135690579226],[-8.77257881794816,52.74112672570976],[-8.77143346126684,52.73853478983517],[-8.78437686330841,52.73646253674281],[-8.78399488159317,52.73559860167177],[-8.78543294221839,52.73536827062384],[-8.7850509530715,52.73450433903611],[-8.78792698098022,52.73404363584211],[-8.78869108128441,52.73577147635916],[-8.78581494982359,52.73623220046693],[-8.78619697588806,52.73709612856538],[-8.78332073721958,52.73755679438767],[-8.78561297058314,52.74274038908374],[-8.78417467508507,52.74297072758702],[-8.78532096333856,52.7455625170719],[-8.7838825762729,52.74579285407452],[-8.78426468338898,52.74665678564384],[-8.78282625655459,52.74688711068609],[-8.78206211259959,52.745159235345],[-8.77343157138887,52.74654076185379],[-8.77419540444407,52.74826869993427],[-8.77275688058222,52.74849890463844]]],"type":"Polygon"}
+}

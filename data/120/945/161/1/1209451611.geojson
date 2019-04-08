@@ -1,0 +1,62 @@
+{
+  "id": 1209451611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.97861,51.61639,-8.97861,51.61639",
+    "geom:latitude":51.61639,
+    "geom:longitude":-8.97861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballynavar Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3296137,
+    "gn:latitude":51.61639,
+    "gn:longitude":-8.97861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballynavar Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3296137
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f71933abf69399681efa0026bd1db5dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209451611
+        }
+    ],
+    "wof:id":1209451611,
+    "wof:lastmodified":1536286655,
+    "wof:name":"Ballynavar Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.97861,
+    51.61639,
+    -8.97861,
+    51.61639
+],
+  "geometry": {"coordinates":[-8.97861,51.61639],"type":"Point"}
+}

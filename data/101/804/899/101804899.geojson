@@ -1,0 +1,136 @@
+{
+  "id": 101804899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000157,
+    "geom:area_square_m":1155246.828279,
+    "geom:bbox":"-6.84336669681,53.4030806976,-6.81986923126,53.4184600833",
+    "geom:latitude":53.412122,
+    "geom:longitude":-6.831988,
+    "gn:population":2929,
+    "iso:country":"IE",
+    "lbl:latitude":53.413848,
+    "lbl:longitude":-6.830831,
+    "mps:latitude":53.413848,
+    "mps:longitude":-6.830831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Enfield"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0444\u0438\u0439\u043b\u0434"
+    ],
+    "name:cze_x_preferred":[
+        "Enfield"
+    ],
+    "name:dut_x_preferred":[
+        "Enfield"
+    ],
+    "name:eng_x_preferred":[
+        "Enfield"
+    ],
+    "name:fre_x_preferred":[
+        "Enfield"
+    ],
+    "name:gle_x_preferred":[
+        "An B\u00f3thar Bu\u00ed"
+    ],
+    "name:glv_x_preferred":[
+        "An B\u00f3thar Bu\u00ed"
+    ],
+    "name:ile_x_historical":[
+        "Innfield"
+    ],
+    "name:ile_x_preferred":[
+        "Innfield"
+    ],
+    "name:ita_x_preferred":[
+        "Enfield"
+    ],
+    "name:lit_x_preferred":[
+        "Enfildas"
+    ],
+    "name:pol_x_preferred":[
+        "Enfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0444\u0438\u043b\u0434"
+    ],
+    "name:slo_x_preferred":[
+        "Enfield"
+    ],
+    "name:swe_x_preferred":[
+        "Enfield"
+    ],
+    "name:unk_x_variant":[
+        "Enfield"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Innfield",
+    "qs:la_lc":"*IE2202167037",
+    "qs:level":"locality",
+    "qs:loc":"Innfield",
+    "qs:loc_alt":"Innfield",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11801fb6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964407,
+        "gp:id":560807,
+        "qs:id":243294,
+        "qs_pg:id":243294,
+        "wd:id":"Q392078",
+        "wk:page":"Enfield, County Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fb14bdcbc39c217f61e1a3bb8c4b6a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804899,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804899,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Innfield",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":2929,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.84336669680948,
+    53.40308069757077,
+    -6.81986923126493,
+    53.41846008332504
+],
+  "geometry": {"coordinates":[[[-6.83400627198881,53.41846008332504],[-6.83365559534758,53.41758951960719],[-6.8277799611397,53.41841810406515],[-6.82742941299051,53.41754751959093],[-6.82596049954554,53.41775461660569],[-6.82560999654066,53.41688402588454],[-6.82267218601532,53.41729815712711],[-6.81986923126493,53.41033330319317],[-6.82280659733624,53.40991924927721],[-6.82350734301542,53.41166045190124],[-6.82791346081052,53.41103920925741],[-6.82756299597656,53.41016862315109],[-6.83196891288748,53.40954723568393],[-6.83231946103177,53.41041780728756],[-6.83819394505895,53.40958902349911],[-6.83679141238633,53.40610680596774],[-6.83532292203603,53.40631400912423],[-6.83462181537885,53.40457288220335],[-6.83609025020911,53.40436568871661],[-6.83573969515595,53.40349512797013],[-6.83867647010993,53.40308069757077],[-6.83902708067637,53.40395124864699],[-6.84196385887975,53.40353673778333],[-6.84336669680948,53.4070188892502],[-6.84189820321194,53.40722617287798],[-6.84224892834681,53.40809671204408],[-6.84078039391773,53.40830398280889],[-6.84113110865644,53.40917452539713],[-6.83966253339304,53.40938178329844],[-6.84001323773373,53.41025232930883],[-6.83854462163401,53.41045957434596],[-6.83924602688074,53.41220067179671],[-6.83777734217358,53.41240790880613],[-6.83812804307797,53.41327846024649],[-6.83665931752785,53.41348568438997],[-6.83771144113098,53.4160973447373],[-6.83624261918584,53.41630456568777],[-6.83694406621532,53.41804567518966],[-6.83400627198881,53.41846008332504]]],"type":"Polygon"}
+}

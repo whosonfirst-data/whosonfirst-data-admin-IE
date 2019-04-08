@@ -1,0 +1,62 @@
+{
+  "id": 1242709079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.20692,54.13996,-10.20692,54.13996",
+    "geom:latitude":54.13996,
+    "geom:longitude":-10.20692,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Drumacappul",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9804050,
+    "gn:latitude":54.13996,
+    "gn:longitude":-10.20692,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Drumacappul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9804050
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"de2a2e353bae411c9c6d0e51a28e90c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242709079,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242709079,
+    "wof:lastmodified":1536873458,
+    "wof:name":"Drumacappul",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.20692,
+    54.13996,
+    -10.20692,
+    54.13996
+],
+  "geometry": {"coordinates":[-10.20692,54.13996],"type":"Point"}
+}

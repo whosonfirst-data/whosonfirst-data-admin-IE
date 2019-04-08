@@ -1,0 +1,66 @@
+{
+  "id": 1277017453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93194,52.28833,-8.93194,52.28833",
+    "geom:latitude":52.28833,
+    "geom:longitude":-8.93194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Raheen Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3292722,
+    "gn:latitude":52.28833,
+    "gn:longitude":-8.93194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Raheen Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292722
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"dbc2987089d8ea49dc20e422c32d1245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277017453,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1277017453,
+    "wof:lastmodified":1536855501,
+    "wof:name":"Raheen Bridge",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93194,
+    52.28833,
+    -8.93194,
+    52.28833
+],
+  "geometry": {"coordinates":[-8.93194,52.28833],"type":"Point"}
+}

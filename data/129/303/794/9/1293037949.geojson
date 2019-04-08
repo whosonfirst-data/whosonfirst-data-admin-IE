@@ -1,0 +1,66 @@
+{
+  "id": 1293037949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.86611,53.03778,-6.86611,53.03778",
+    "geom:latitude":53.03778,
+    "geom:longitude":-6.86611,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Oldgrange",
+    "gn:country_code":"IE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314272,
+    "gn:latitude":53.03778,
+    "gn:longitude":-6.86611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Oldgrange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314272
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b87d2bd87b14f67ea3e9d8e44bef9309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037949,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1293037949,
+    "wof:lastmodified":1536938864,
+    "wof:name":"Oldgrange",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.86611,
+    53.03778000000001,
+    -6.86611,
+    53.03778000000001
+],
+  "geometry": {"coordinates":[-6.86611,53.03778000000001],"type":"Point"}
+}

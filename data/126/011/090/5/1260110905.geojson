@@ -1,0 +1,77 @@
+{
+  "id": 1260110905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.24833,52.28944,-7.24833,52.28944",
+    "geom:latitude":52.28944,
+    "geom:longitude":-7.24833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Mooncoin",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962540,
+    "gn:latitude":52.28944,
+    "gn:longitude":-7.24833,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Mooncoin",
+    "gn:population":1166,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mooncoin"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00f3in Choinn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962540,
+        "wk:page":"Mooncoin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8f615568933c23fe987eb0feffff6813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260110905,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1260110905,
+    "wof:lastmodified":1537636727,
+    "wof:name":"Mooncoin",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":1166,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.24833,
+    52.28944,
+    -7.24833,
+    52.28944
+],
+  "geometry": {"coordinates":[-7.24833,52.28944],"type":"Point"}
+}

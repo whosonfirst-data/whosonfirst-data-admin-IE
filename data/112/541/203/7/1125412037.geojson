@@ -1,0 +1,99 @@
+{
+  "id": 1125412037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.895,54.31861,-6.895,54.31861",
+    "geom:latitude":54.31861,
+    "geom:longitude":-6.895,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":348,
+    "iso:country":"IE",
+    "lbl:latitude":54.31861,
+    "lbl:longitude":-6.895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Glaslough"
+    ],
+    "name:gle_x_preferred":[
+        "Glasloch"
+    ],
+    "name:unk_x_variant":[
+        "Glasslough"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964103,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Glaslough",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Monaghan",
+    "qs_pg:photos":792,
+    "qs_pg:photos_1k":160,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1172,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189736,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074576,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Monaghan",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964103,
+        "gp:id":20074576,
+        "qs_pg:id":1189736
+    },
+    "wof:country":"IE",
+    "wof:created":1497050520,
+    "wof:geomhash":"62d7361a5d0dcafd50496b4bca4e5a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125412037,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1125412037,
+    "wof:lastmodified":1509390284,
+    "wof:name":"Glaslough",
+    "wof:parent_id":85685117,
+    "wof:placetype":"localadmin",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.895,
+    54.31861,
+    -6.895,
+    54.31861
+],
+  "geometry": {"coordinates":[-6.895,54.31861],"type":"Point"}
+}

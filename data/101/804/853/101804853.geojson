@@ -1,0 +1,119 @@
+{
+  "id": 101804853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":348555.972046,
+    "geom:bbox":"-6.39082216866,53.5605263155,-6.37266715548,53.569116748",
+    "geom:latitude":53.565656,
+    "geom:longitude":-6.382027,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":433,
+    "iso:country":"IE",
+    "lbl:latitude":53.566764,
+    "lbl:longitude":-6.38189,
+    "mps:latitude":53.566764,
+    "mps:longitude":-6.38189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Garristown"
+    ],
+    "name:eng_x_preferred":[
+        "Garristown"
+    ],
+    "name:lit_x_preferred":[
+        "Airi\u0161taunas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0440\u0438\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Garristown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Fingal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Garristown",
+    "qs:la_lc":"*IE2103267091",
+    "qs:level":"locality",
+    "qs:loc":"Garristown",
+    "qs:loc_alt":"Garristown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964152,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Garristown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":978113,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560923,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":616,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964152,
+        "gp:id":560923,
+        "qs:id":978113,
+        "qs_pg:id":978113,
+        "wd:id":"Q4133911"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1a857c63e6ee29d48f5c793ea7e0e4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804853,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":101804853,
+    "wof:lastmodified":1534379339,
+    "wof:name":"Garristown",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126054003
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39082216866228,
+    53.56052631554275,
+    -6.37266715547941,
+    53.56911674803359
+],
+  "geometry": {"coordinates":[[[-6.37812359186159,53.56911674803359],[-6.37778057379529,53.56824472542837],[-6.37482885151837,53.56864816709526],[-6.37448590696209,53.56777613367416],[-6.37301005474279,53.56797782303431],[-6.37266715547941,53.5671057835375],[-6.3785703743232,53.56629893811044],[-6.37822737928923,53.56542691622673],[-6.38265457371966,53.56482160924088],[-6.38231151114434,53.56394960023505],[-6.38378718868381,53.56374780033701],[-6.38344411498656,53.56287579473099],[-6.38491975145678,53.56267398175225],[-6.38457666663987,53.56180197954563],[-6.38605226204271,53.56160015348735],[-6.3857091661082,53.56072815468031],[-6.38718472044587,53.56052631554275],[-6.38752784457887,53.56139830960973],[-6.3904789710482,53.56099456839792],[-6.39082216866228,53.56186655164242],[-6.38787098579644,53.56227030233595],[-6.38821414409955,53.56314229372151],[-6.385262853357,53.56354598261856],[-6.38629226156985,53.56616197717608],[-6.38481651228068,53.56636380911533],[-6.38515965431844,53.56723580936102],[-6.38368386395086,53.56743762821918],[-6.38402699486687,53.56830963186559],[-6.37812359186159,53.56911674803359]]],"type":"Polygon"}
+}

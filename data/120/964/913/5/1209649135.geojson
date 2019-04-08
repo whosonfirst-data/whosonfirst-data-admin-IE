@@ -1,0 +1,62 @@
+{
+  "id": 1209649135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.91306,52.95944,-8.91306,52.95944",
+    "geom:latitude":52.95944,
+    "geom:longitude":-8.91306,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Stranagalloon",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311812,
+    "gn:latitude":52.95944,
+    "gn:longitude":-8.91306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Stranagalloon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311812
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8b1deb0adfa5ba499994aece7f31fd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209649135
+        }
+    ],
+    "wof:id":1209649135,
+    "wof:lastmodified":1536280637,
+    "wof:name":"Stranagalloon",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.91306,
+    52.95944,
+    -8.91306,
+    52.95944
+],
+  "geometry": {"coordinates":[-8.91306,52.95944],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 101853145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.477483,51.987702,-8.477483,51.987702",
+    "geom:latitude":51.987702,
+    "geom:longitude":-8.477483,
+    "gn:population":499,
+    "iso:country":"IE",
+    "lbl:latitude":51.987702,
+    "lbl:longitude":-8.477483,
+    "mps:latitude":51.987702,
+    "mps:longitude":-8.477483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Carrignavar"
+    ],
+    "name:eng_x_preferred":[
+        "Carrignavar"
+    ],
+    "name:gle_x_preferred":[
+        "Carraig na bhFear"
+    ],
+    "name:swe_x_preferred":[
+        "Carrignavar"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Carrignavar",
+    "qs:loc_alt":"Carrignavar",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117eee66-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965699,
+        "gp:id":560176,
+        "qs:id":9,
+        "wd:id":"Q5046403",
+        "wk:page":"Carrignavar"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7e981c574cc46a84de12ab4f7a66ca48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101853145,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101853145,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544742216,
+    "wof:name":"Carrignavar",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":499,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.477483,
+    51.987702,
+    -8.477483,
+    51.987702
+],
+  "geometry": {"coordinates":[-8.477483,51.987702],"type":"Point"}
+}

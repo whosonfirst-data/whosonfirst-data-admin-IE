@@ -1,0 +1,79 @@
+{
+  "id": 1344093807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66945,53.12222,-9.66945,53.12222",
+    "geom:latitude":53.12222,
+    "geom:longitude":-9.66945,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Kilronan",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963222,
+    "gn:latitude":53.12222,
+    "gn:longitude":-9.66945,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Kilronan",
+    "gn:population":297,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kilronan"
+    ],
+    "name:gle_x_preferred":[
+        "Cill R\u00f3n\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0440\u043e\u043d\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963222,
+        "wk:page":"Kilronan"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f1bf45e0d6bf9b091adebe36a6df697c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344093807,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1344093807,
+    "wof:lastmodified":1537636732,
+    "wof:name":"Kilronan",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66945,
+    53.12222,
+    -9.66945,
+    53.12222
+],
+  "geometry": {"coordinates":[-9.66945,53.12222],"type":"Point"}
+}

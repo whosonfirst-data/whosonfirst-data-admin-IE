@@ -1,0 +1,70 @@
+{
+  "id": 1343795797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.44639,54.19222,-8.44639,54.19222",
+    "geom:latitude":54.19222,
+    "geom:longitude":-8.44639,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Ballygawley",
+    "gn:country_code":"IE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311152,
+    "gn:latitude":54.19222,
+    "gn:longitude":-8.44639,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Ballygawley",
+    "gn:population":321,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311152,
+        "wk:page":"Ballygawley%2C_County_Sligo"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"829172358e8f48d66972ca01821946f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343795797,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343795797,
+    "wof:lastmodified":1537564855,
+    "wof:name":"Ballygawley",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:population":321,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.44639,
+    54.19221999999999,
+    -8.44639,
+    54.19221999999999
+],
+  "geometry": {"coordinates":[-8.44639,54.19221999999999],"type":"Point"}
+}

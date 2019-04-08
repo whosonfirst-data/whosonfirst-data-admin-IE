@@ -1,0 +1,66 @@
+{
+  "id": 1310532281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.14694,54.12722,-7.14694,54.12722",
+    "geom:latitude":54.12722,
+    "geom:longitude":-7.14694,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Drumacreeve",
+    "gn:country_code":"IE",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309866,
+    "gn:latitude":54.12722,
+    "gn:longitude":-7.14694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Drumacreeve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309866
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"921811cebe256859b1b1b623324daaab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310532281,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1310532281,
+    "wof:lastmodified":1536877564,
+    "wof:name":"Drumacreeve",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.14694,
+    54.12722,
+    -7.14694,
+    54.12722
+],
+  "geometry": {"coordinates":[-7.14694,54.12722],"type":"Point"}
+}

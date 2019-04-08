@@ -1,0 +1,66 @@
+{
+  "id": 1226473361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.04278,52.13528,-8.04278,52.13528",
+    "geom:latitude":52.13528,
+    "geom:longitude":-8.04278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44",
+    "gn:asciiname":"Lyon's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300366,
+    "gn:latitude":52.13528,
+    "gn:longitude":-8.04278,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Lyon\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300366
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"388e68c14d5397b9496a73275a60fccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226473361,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1226473361,
+    "wof:lastmodified":1536602629,
+    "wof:name":"Lyon's Cross Roads",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.04278,
+    52.13528,
+    -8.04278,
+    52.13528
+],
+  "geometry": {"coordinates":[-8.04278,52.13528],"type":"Point"}
+}

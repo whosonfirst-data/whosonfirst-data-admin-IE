@@ -1,0 +1,62 @@
+{
+  "id": 1209040977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.79955,53.14566,-9.79955,53.14566",
+    "geom:latitude":53.14566,
+    "geom:longitude":-9.79955,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Creig an Cheirin",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10628702,
+    "gn:latitude":53.14566,
+    "gn:longitude":-9.79955,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Creig an Ch\u00e9ir\u00edn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10628702
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"46f360c5b015f757eef03fbdd83da2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209040977
+        }
+    ],
+    "wof:id":1209040977,
+    "wof:lastmodified":1536299547,
+    "wof:name":"Creig an Cheirin",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.79955,
+    53.14566,
+    -9.79955,
+    53.14566
+],
+  "geometry": {"coordinates":[-9.79955,53.14566],"type":"Point"}
+}

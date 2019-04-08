@@ -1,0 +1,105 @@
+{
+  "id": 1125931963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.2675,53.74056,-6.2675,53.74056",
+    "geom:latitude":53.74056,
+    "geom:longitude":-6.2675,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.74056,
+    "lbl:longitude":-6.2675,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Baltray"
+    ],
+    "name:dut_x_preferred":[
+        "Baltray"
+    ],
+    "name:eng_x_preferred":[
+        "Baltray"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Tr\u00e1"
+    ],
+    "name:pol_x_preferred":[
+        "Baltray"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0440\u0435\u0439"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966373,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Baltray",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Louth",
+    "qs_pg:photos":303,
+    "qs_pg:photos_1k":61,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":303,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1138295,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559842,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Louth",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966373,
+        "gp:id":559842,
+        "qs_pg:id":1138295,
+        "wd:id":"Q4076967"
+    },
+    "wof:country":"IE",
+    "wof:created":1497296834,
+    "wof:geomhash":"ba16cefacd8d716e200bdbf5c2abcbd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125931963,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1125931963,
+    "wof:lastmodified":1514450422,
+    "wof:name":"Baltray",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.2675,
+    53.74056,
+    -6.2675,
+    53.74056
+],
+  "geometry": {"coordinates":[-6.2675,53.74056],"type":"Point"}
+}

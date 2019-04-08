@@ -1,0 +1,62 @@
+{
+  "id": 1209649115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.7325,54.00444,-7.7325,54.00444",
+    "geom:latitude":54.00444,
+    "geom:longitude":-7.7325,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Arderry",
+    "gn:country_code":"IE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311402,
+    "gn:latitude":54.00444,
+    "gn:longitude":-7.7325,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Arderry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311402
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eb483c4597f06518512580768820228c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209649115
+        }
+    ],
+    "wof:id":1209649115,
+    "wof:lastmodified":1536280637,
+    "wof:name":"Arderry",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.7325,
+    54.00444,
+    -7.7325,
+    54.00444
+],
+  "geometry": {"coordinates":[-7.7325,54.00444],"type":"Point"}
+}

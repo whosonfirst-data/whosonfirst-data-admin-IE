@@ -1,0 +1,178 @@
+{
+  "id": 101872765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.305344,53.243911,-9.305344,53.243911",
+    "geom:latitude":53.243911,
+    "geom:longitude":-9.305344,
+    "gn:population":250,
+    "iso:country":"IE",
+    "lbl:latitude":53.243911,
+    "lbl:longitude":-9.305344,
+    "mps:latitude":53.243911,
+    "mps:longitude":-9.305344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:bre_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0438\u0434\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:cym_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:dan_x_preferred":[
+        "Spiddal"
+    ],
+    "name:deu_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:dut_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:eng_x_preferred":[
+        "Spiddal"
+    ],
+    "name:eng_x_variant":[
+        "Spiddle"
+    ],
+    "name:epo_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:eus_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:fra_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:fre_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10de\u10d8\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:gla_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:gle_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:ita_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d4\u30c3\u30c0\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10de\u10d8\u10d3\u10d0\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:nob_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:nor_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:oci_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:por_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0438\u0434\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:swa_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:swe_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "name:wel_x_preferred":[
+        "An Spid\u00e9al"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Galway",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Spiddle",
+    "qs:loc_alt":"Spiddle",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":519,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f7fa2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961388,
+        "gp:id":20072549,
+        "qs:id":902707,
+        "wd:id":"Q482534",
+        "wk:page":"Spiddal"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1bdcfaf96e2ddd4975ea1e7440dd824b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101872765,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":101872765,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544751310,
+    "wof:name":"Spiddle",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":250,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.305344,
+    53.243911,
+    -9.305344,
+    53.243911
+],
+  "geometry": {"coordinates":[-9.305344,53.243911],"type":"Point"}
+}

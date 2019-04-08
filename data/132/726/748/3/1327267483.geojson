@@ -1,0 +1,66 @@
+{
+  "id": 1327267483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.32833,53.11167,-6.32833,53.11167",
+    "geom:latitude":53.11167,
+    "geom:longitude":-6.32833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Cloghoge",
+    "gn:country_code":"IE",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315119,
+    "gn:latitude":53.11167,
+    "gn:longitude":-6.32833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cloghoge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315119
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"61e55808a5c99bcd01090e74df05c863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327267483,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1327267483,
+    "wof:lastmodified":1536919655,
+    "wof:name":"Cloghoge",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.32833,
+    53.11167,
+    -6.32833,
+    53.11167
+],
+  "geometry": {"coordinates":[-6.32833,53.11167],"type":"Point"}
+}

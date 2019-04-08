@@ -1,0 +1,66 @@
+{
+  "id": 1276801039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.52806,52.36611,-6.52806,52.36611",
+    "geom:latitude":52.36611,
+    "geom:longitude":-6.52806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Newcastle",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302125,
+    "gn:latitude":52.36611,
+    "gn:longitude":-6.52806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Newcastle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302125
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0787544732693a0ba464277529bbfe74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276801039,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1276801039,
+    "wof:lastmodified":1536648962,
+    "wof:name":"Newcastle",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.52806,
+    52.36611,
+    -6.52806,
+    52.36611
+],
+  "geometry": {"coordinates":[-6.52806,52.36611],"type":"Point"}
+}

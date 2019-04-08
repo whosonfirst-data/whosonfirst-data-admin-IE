@@ -1,0 +1,66 @@
+{
+  "id": 1293524167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38917,52.89056,-9.38917,52.89056",
+    "geom:latitude":52.89056,
+    "geom:longitude":-9.38917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Rinneen",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961806,
+    "gn:latitude":52.89056,
+    "gn:longitude":-9.38917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rinneen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961806
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2573e980402a31af47ec1eef9cc3b4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293524167,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293524167,
+    "wof:lastmodified":1536734335,
+    "wof:name":"Rinneen",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38917,
+    52.89056,
+    -9.38917,
+    52.89056
+],
+  "geometry": {"coordinates":[-9.38917,52.89056],"type":"Point"}
+}

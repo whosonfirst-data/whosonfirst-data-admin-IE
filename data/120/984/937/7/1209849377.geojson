@@ -1,0 +1,67 @@
+{
+  "id": 1209849377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.53861,54.245,-8.53861,54.245",
+    "geom:latitude":54.245,
+    "geom:longitude":-8.53861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Knocknahur",
+    "gn:country_code":"IE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311170,
+    "gn:latitude":54.245,
+    "gn:longitude":-8.53861,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Knocknahur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311170,
+        "wk:page":"Knocknahur"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4e51829d88b821c6485b38a162d218d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209849377,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1209849377,
+    "wof:lastmodified":1537564855,
+    "wof:name":"Knocknahur",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.53861,
+    54.245,
+    -8.53861,
+    54.245
+],
+  "geometry": {"coordinates":[-8.53861,54.245],"type":"Point"}
+}

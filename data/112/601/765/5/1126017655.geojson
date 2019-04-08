@@ -1,0 +1,109 @@
+{
+  "id": 1126017655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.01667,54.11667,-7.01667,54.11667",
+    "geom:latitude":54.11667,
+    "geom:longitude":-7.01667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":310,
+    "iso:country":"IE",
+    "lbl:latitude":54.11667,
+    "lbl:longitude":-7.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rockcorry"
+    ],
+    "name:dut_x_preferred":[
+        "Rockcorry"
+    ],
+    "name:eng_x_preferred":[
+        "Rockcorry"
+    ],
+    "name:gle_x_preferred":[
+        "Bu\u00edochar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043a\u043a\u043e\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rockcorry"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961767,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rockcorry",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Monaghan",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":29,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014510,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562100,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Monaghan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961767,
+        "gp:id":562100,
+        "qs_pg:id":1014510,
+        "wd:id":"Q878435"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300648,
+    "wof:geomhash":"6d8275974cfbeea57d83e28492e73189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126017655,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1126017655,
+    "wof:lastmodified":1514450638,
+    "wof:name":"Rockcorry",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.01667,
+    54.11667,
+    -7.01667,
+    54.11667
+],
+  "geometry": {"coordinates":[-7.01667,54.11667],"type":"Point"}
+}

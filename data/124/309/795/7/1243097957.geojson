@@ -1,0 +1,66 @@
+{
+  "id": 1243097957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.4,54.79194,-8.4,54.79194",
+    "geom:latitude":54.79194,
+    "geom:longitude":-8.4,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Tully More",
+    "gn:country_code":"IE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3308854,
+    "gn:latitude":54.79194,
+    "gn:longitude":-8.4,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tully More",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308854
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bed40a3b3b09f099f715fc87e01bfd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243097957,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1243097957,
+    "wof:lastmodified":1536810473,
+    "wof:name":"Tully More",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.4,
+    54.79194,
+    -8.4,
+    54.79194
+],
+  "geometry": {"coordinates":[-8.4,54.79194],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1210047901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66278,53.40833,-6.66278,53.40833",
+    "geom:latitude":53.40833,
+    "geom:longitude":-6.66278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Knockpatulla",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314879,
+    "gn:latitude":53.40833,
+    "gn:longitude":-6.66278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Knockpatulla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314879
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"afeaa83845bff7cc70b563eac2ead8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1210047901,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1210047901,
+    "wof:lastmodified":1536376890,
+    "wof:name":"Knockpatulla",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66278,
+    53.40833000000001,
+    -6.66278,
+    53.40833000000001
+],
+  "geometry": {"coordinates":[-6.66278,53.40833000000001],"type":"Point"}
+}

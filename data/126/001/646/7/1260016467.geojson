@@ -1,0 +1,66 @@
+{
+  "id": 1260016467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.68361,52.66972,-7.68361,52.66972",
+    "geom:latitude":52.66972,
+    "geom:longitude":-7.68361,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Turnpike",
+    "gn:country_code":"IE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3308255,
+    "gn:latitude":52.66972,
+    "gn:longitude":-7.68361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Turnpike",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308255
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6cc30b0d238937dd9ca2860e7c4185b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260016467,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1260016467,
+    "wof:lastmodified":1537081269,
+    "wof:name":"Turnpike",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.68361,
+    52.66972,
+    -7.68361,
+    52.66972
+],
+  "geometry": {"coordinates":[-7.68361,52.66972],"type":"Point"}
+}

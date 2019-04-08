@@ -1,0 +1,66 @@
+{
+  "id": 1343992791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88167,52.89583,-6.88167,52.89583",
+    "geom:latitude":52.89583,
+    "geom:longitude":-6.88167,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Johnstown South",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3303645,
+    "gn:latitude":52.89583,
+    "gn:longitude":-6.88167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Johnstown South",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3303645
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e44e5912da5964bc7ddd6deb56a14b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343992791,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1343992791,
+    "wof:lastmodified":1536972873,
+    "wof:name":"Johnstown South",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88167,
+    52.89583,
+    -6.88167,
+    52.89583
+],
+  "geometry": {"coordinates":[-6.88167,52.89583],"type":"Point"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101804887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":478006.458445,
+    "geom:bbox":"-6.28722808755,53.6626981996,-6.27185823195,53.6753118532",
+    "geom:latitude":53.669416,
+    "geom:longitude":-6.279581,
+    "gn:population":616,
+    "iso:country":"IE",
+    "lbl:latitude":53.667853,
+    "lbl:longitude":-6.277136,
+    "mps:latitude":53.667853,
+    "mps:longitude":-6.277136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Julianstown"
+    ],
+    "name:dut_x_preferred":[
+        "Julianstown"
+    ],
+    "name:eng_x_preferred":[
+        "Julianstown"
+    ],
+    "name:fre_x_preferred":[
+        "Julianstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile I\u00faili\u00e1in"
+    ],
+    "name:glv_x_preferred":[
+        "Baile I\u00faili\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Julianstown"
+    ],
+    "name:pol_x_preferred":[
+        "Julianstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043b\u0438\u0430\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Julianstown"
+    ],
+    "name:swe_x_preferred":[
+        "Julianstown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Julianstown",
+    "qs:la_lc":"*IE2202167038",
+    "qs:level":"locality",
+    "qs:loc":"Julianstown",
+    "qs:loc_alt":"Julianstown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1191,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f31dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963557,
+        "gp:id":561155,
+        "qs:id":1263183,
+        "qs_pg:id":1263183,
+        "wd:id":"Q392074",
+        "wk:page":"Julianstown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"dfc02f40c0dad84c4b4b819a9044aa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804887,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804887,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642745,
+    "wof:name":"Julianstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":616,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.28722808754924,
+    53.66269819963412,
+    -6.27185823194731,
+    53.6753118531945
+],
+  "geometry": {"coordinates":[[[-6.28199358513496,53.6731659768306],[-6.28062481612807,53.66967673892367],[-6.27322615918501,53.67067962629415],[-6.27185823194731,53.66719027267084],[-6.27481750600475,53.66678920918423],[-6.27447551006583,53.66591687692875],[-6.27743467581615,53.66551575137839],[-6.27640862001374,53.66289877504494],[-6.27788809835545,53.66269819963412],[-6.27994053416955,53.6679321120352],[-6.28142017010128,53.66773149037721],[-6.28210450888963,53.66947610780733],[-6.28654350990359,53.66887410717857],[-6.28722808754924,53.6706186909355],[-6.28574837659511,53.67081938515281],[-6.28677528604459,53.67343626505584],[-6.28085597238163,53.67423891988517],[-6.28119819603967,53.6751112294628],[-6.27971830699471,53.6753118531945],[-6.27903393362203,53.67356722325655],[-6.28199358513496,53.6731659768306]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209040489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.71694,53.28972,-6.71694,53.28972",
+    "geom:latitude":53.28972,
+    "geom:longitude":-6.71694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Firmount Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3314707,
+    "gn:latitude":53.28972,
+    "gn:longitude":-6.71694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Firmount Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314707
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"621d693b58704ea7f36076ec56237b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209040489
+        }
+    ],
+    "wof:id":1209040489,
+    "wof:lastmodified":1536299561,
+    "wof:name":"Firmount Cross Roads",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.716939999999999,
+    53.28972,
+    -6.716939999999999,
+    53.28972
+],
+  "geometry": {"coordinates":[-6.71694,53.28972],"type":"Point"}
+}

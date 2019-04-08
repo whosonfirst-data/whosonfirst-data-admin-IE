@@ -1,0 +1,66 @@
+{
+  "id": 1343698223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83417,52.27778,-7.83417,52.27778",
+    "geom:latitude":52.27778,
+    "geom:longitude":-7.83417,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Tar Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301360,
+    "gn:latitude":52.27778,
+    "gn:longitude":-7.83417,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tar Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301360
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f5ecab9ecc065b024e8e2518b2836af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343698223,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1343698223,
+    "wof:lastmodified":1536900613,
+    "wof:name":"Tar Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83417,
+    52.27778,
+    -7.83417,
+    52.27778
+],
+  "geometry": {"coordinates":[-7.83417,52.27778],"type":"Point"}
+}

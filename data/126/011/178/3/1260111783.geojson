@@ -1,0 +1,66 @@
+{
+  "id": 1260111783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.19401,53.25769,-6.19401,53.25769",
+    "geom:latitude":53.25769,
+    "geom:longitude":-6.19401,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Ballyogan",
+    "gn:country_code":"IE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11611093,
+    "gn:latitude":53.25769,
+    "gn:longitude":-6.19401,
+    "gn:modification_date":"2017-07-20",
+    "gn:name":"Ballyogan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11611093
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c6401aa9be8f751ccbb6e6d92a57e99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260111783,
+            "region_id":85685001
+        }
+    ],
+    "wof:id":1260111783,
+    "wof:lastmodified":1536947696,
+    "wof:name":"Ballyogan",
+    "wof:parent_id":85685001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.19401,
+    53.25769,
+    -6.19401,
+    53.25769
+],
+  "geometry": {"coordinates":[-6.19401,53.25769],"type":"Point"}
+}

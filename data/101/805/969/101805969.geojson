@@ -1,0 +1,122 @@
+{
+  "id": 101805969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:area_square_m":1733112.92653,
+    "geom:bbox":"-7.22190826016,52.7927920096,-7.19634023399,52.8101576293",
+    "geom:latitude":52.801857,
+    "geom:longitude":-7.208894,
+    "gn:population":1456,
+    "iso:country":"IE",
+    "lbl:latitude":52.801983,
+    "lbl:longitude":-7.211025,
+    "mps:latitude":52.801983,
+    "mps:longitude":-7.211025,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:dut_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:eng_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:fra_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:fre_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:gle_x_preferred":[
+        "Caisle\u00e1n an Chomair"
+    ],
+    "name:ita_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:lit_x_preferred":[
+        "Kaslkomeris"
+    ],
+    "name:nld_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u043a\u043e\u043c\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:unk_x_variant":[
+        "Castlecomer-Donaguile"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kilkenny",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Castlecomer",
+    "qs:la_lc":"*IE2402097022",
+    "qs:level":"locality",
+    "qs:loc":"Castlecomer",
+    "qs:loc_alt":"Castlecomer",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":4428,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d4246-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965643,
+        "gp:id":560209,
+        "qs:id":143044,
+        "qs_pg:id":143044,
+        "wd:id":"Q1954436",
+        "wk:page":"Castlecomer"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"de4fb35a91b26bb57d9cb818e0b208b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805969,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":101805969,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642965,
+    "wof:name":"Castlecomer",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":1456,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22190826015662,
+    52.7927920095666,
+    -7.19634023398987,
+    52.81015762930701
+],
+  "geometry": {"coordinates":[[[-7.21173641393352,52.81015762930701],[-7.21103382763994,52.80841866603731],[-7.20958659763272,52.80863001216119],[-7.20923535684977,52.80776052347215],[-7.20489366986038,52.808394442983],[-7.20454252628679,52.80752493831346],[-7.20164805748539,52.80794745468825],[-7.20129698441775,52.80707793887478],[-7.20419139981533,52.80665543216514],[-7.20313812300105,52.80404690484835],[-7.19879672094851,52.80468059533558],[-7.19634023398987,52.7985938784044],[-7.19778719397476,52.79838269944707],[-7.19673459008919,52.79577409880119],[-7.19818145717693,52.79556291694286],[-7.1985323347418,52.79643244713969],[-7.19997921568904,52.79622124306326],[-7.2006810754541,52.79796028936329],[-7.20791555458703,52.79690395984522],[-7.20756448272823,52.79603446159012],[-7.20901131336734,52.79582314835352],[-7.20866023191934,52.79495365345133],[-7.21010702304136,52.79474232765961],[-7.20940485806437,52.7930033430805],[-7.21085158299303,52.7927920095666],[-7.21155380132831,52.7945309844809],[-7.21444731939204,52.7941082459638],[-7.21550093519784,52.79671666823509],[-7.21694775501015,52.79650525839537],[-7.2172990211613,52.79737472469026],[-7.2158521746677,52.79758613936445],[-7.21690599569774,52.80019454386826],[-7.21835292224188,52.79998311468955],[-7.21870425681504,52.80085257506096],[-7.21725730358514,52.80106400907476],[-7.21831132989649,52.80367239580909],[-7.22120538363532,52.80324948137638],[-7.22190826015662,52.80498837911489],[-7.21611988775629,52.8058341771104],[-7.21717401057919,52.80844257064837],[-7.21427958710456,52.80886539431532],[-7.21463094220815,52.80973486553904],[-7.21173641393352,52.81015762930701]]],"type":"Polygon"}
+}

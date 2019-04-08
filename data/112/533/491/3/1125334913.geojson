@@ -1,0 +1,80 @@
+{
+  "id": 1125334913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.255624,52.983945,-8.255624,52.983945",
+    "geom:latitude":52.983945,
+    "geom:longitude":-8.255624,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.983945,
+    "lbl:longitude":-8.255624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kilbarron",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":391,
+    "qs_pg:photos_1k":79,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":570,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119593,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074030,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20074030,
+        "qs_pg:id":1119593
+    },
+    "wof:country":"IE",
+    "wof:created":1497045346,
+    "wof:geomhash":"b40856ce9771831270a294726498b1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125334913,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1125334913,
+    "wof:lastmodified":1530147529,
+    "wof:name":"Kilbarron",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.255624,
+    52.983945,
+    -8.255624,
+    52.983945
+],
+  "geometry": {"coordinates":[-8.255624,52.983945],"type":"Point"}
+}

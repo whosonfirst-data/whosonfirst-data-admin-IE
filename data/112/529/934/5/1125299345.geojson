@@ -1,0 +1,92 @@
+{
+  "id": 1125299345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.45722,52.13139,-10.45722,52.13139",
+    "geom:latitude":52.13139,
+    "geom:longitude":-10.45722,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.13139,
+    "lbl:longitude":-10.45722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dunquin"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan Chaoin"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964482,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dunquin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":958,
+    "qs_pg:photos_1k":194,
+    "qs_pg:photos_9k":19,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4377,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":392556,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072639,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964482,
+        "gp:id":20072639,
+        "qs_pg:id":392556
+    },
+    "wof:country":"IE",
+    "wof:created":1497043336,
+    "wof:geomhash":"6badd97fa721056c22a385418d8abff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125299345,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125299345,
+    "wof:lastmodified":1509387679,
+    "wof:name":"Dunquin",
+    "wof:parent_id":85684991,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.45722,
+    52.13139,
+    -10.45722,
+    52.13139
+],
+  "geometry": {"coordinates":[-10.45722,52.13139],"type":"Point"}
+}

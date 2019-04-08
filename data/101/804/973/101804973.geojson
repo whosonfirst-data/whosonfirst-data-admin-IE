@@ -1,0 +1,122 @@
+{
+  "id": 101804973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":448121.732216,
+    "geom:bbox":"-8.11404217889,53.7696973283,-8.09857329608,53.7835796279",
+    "geom:latitude":53.777013,
+    "geom:longitude":-8.10452,
+    "gn:population":814,
+    "iso:country":"IE",
+    "lbl:latitude":53.776603,
+    "lbl:longitude":-8.103113,
+    "mps:latitude":53.776603,
+    "mps:longitude":-8.103113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Strokestown"
+    ],
+    "name:cat_x_preferred":[
+        "Strokestown"
+    ],
+    "name:dut_x_preferred":[
+        "Strokestown"
+    ],
+    "name:eng_x_preferred":[
+        "Strokestown"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10dd\u10d9\u10e1\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al na mBuill\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Strokestown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30ed\u30fc\u30af\u30b9\u30bf\u30a6\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10dd\u10d9\u10e1\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Strokestown"
+    ],
+    "name:pol_x_preferred":[
+        "Strokestown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u043e\u043a\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Strokestown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Roscommon",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Strokestown",
+    "qs:la_lc":"*IE1304197103",
+    "qs:level":"locality",
+    "qs:loc":"Strokestown",
+    "qs:loc_alt":"Strokestown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":694,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11800ab2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961327,
+        "gp:id":20073847,
+        "qs:id":1198515,
+        "wd:id":"Q2530386",
+        "wk:page":"Strokestown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"94fdd46b8343925b804e28b2274df972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804973,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":101804973,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642757,
+    "wof:name":"Strokestown",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":814,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.11404217889412,
+    53.76969732830781,
+    -8.0985732960774,
+    53.7835796279345
+],
+  "geometry": {"coordinates":[[[-8.10228732389589,53.7835796279345],[-8.10190599605988,53.78271356178766],[-8.09895454941773,53.78315917042778],[-8.0985732960774,53.78229309217835],[-8.10152468719548,53.78184749401464],[-8.10114339730205,53.78098142461567],[-8.10261904365285,53.7807586041796],[-8.10033153606878,53.77556218506948],[-8.10180700159526,53.77533937833306],[-8.09990112801523,53.77100901054763],[-8.10137644051451,53.77078621227037],[-8.10099529493141,53.76992013907198],[-8.10247056539885,53.76969732830781],[-8.10513917686592,53.77575976988805],[-8.10809006334813,53.77531402186253],[-8.10847142491326,53.77618006796206],[-8.11289773063316,53.77551129726993],[-8.11404217889412,53.77810937864234],[-8.11109115622816,53.77855527493733],[-8.11032828273818,53.776823201355],[-8.10442628778196,53.77771473931688],[-8.10557029345472,53.78031291012388],[-8.10409467570389,53.78053576601553],[-8.10523876885668,53.78313393790063],[-8.10228732389589,53.7835796279345]]],"type":"Polygon"}
+}

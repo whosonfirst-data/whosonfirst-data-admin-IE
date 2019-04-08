@@ -1,0 +1,66 @@
+{
+  "id": 1293918243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.55389,53.34889,-7.55389,53.34889",
+    "geom:latitude":53.34889,
+    "geom:longitude":-7.55389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29",
+    "gn:asciiname":"Lismoyny",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962895,
+    "gn:latitude":53.34889,
+    "gn:longitude":-7.55389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lismoyny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962895
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0491f3c1ad9856189df4898d04e76782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293918243,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1293918243,
+    "wof:lastmodified":1536663263,
+    "wof:name":"Lismoyny",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.55389,
+    53.34889,
+    -7.55389,
+    53.34889
+],
+  "geometry": {"coordinates":[-7.55389,53.34889],"type":"Point"}
+}

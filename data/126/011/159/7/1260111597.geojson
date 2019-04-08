@@ -1,0 +1,66 @@
+{
+  "id": 1260111597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.73222,54.09167,-7.73222,54.09167",
+    "geom:latitude":54.09167,
+    "geom:longitude":-7.73222,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Sraloaghan",
+    "gn:country_code":"IE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311700,
+    "gn:latitude":54.09167,
+    "gn:longitude":-7.73222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sraloaghan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311700
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2894bae1e1f854d060241d6625fc228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260111597,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1260111597,
+    "wof:lastmodified":1536947967,
+    "wof:name":"Sraloaghan",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.73222,
+    54.09166999999999,
+    -7.73222,
+    54.09166999999999
+],
+  "geometry": {"coordinates":[-7.73222,54.09166999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243485323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.12278,52.81306,-7.12278,52.81306",
+    "geom:latitude":52.81306,
+    "geom:longitude":-7.12278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Dunn's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302492,
+    "gn:latitude":52.81306,
+    "gn:longitude":-7.12278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dunn\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302492
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fa3af19448d508b7f8369602ae850bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243485323,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1243485323,
+    "wof:lastmodified":1536749403,
+    "wof:name":"Dunn's Cross Roads",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.12278,
+    52.81306,
+    -7.12278,
+    52.81306
+],
+  "geometry": {"coordinates":[-7.12278,52.81306],"type":"Point"}
+}

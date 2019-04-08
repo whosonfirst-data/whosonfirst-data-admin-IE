@@ -1,0 +1,72 @@
+{
+  "id": 1293129859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88972,53.38556,-6.88972,53.38556",
+    "geom:latitude":53.38556,
+    "geom:longitude":-6.88972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Kilshanchoe",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963215,
+    "gn:latitude":53.38556,
+    "gn:longitude":-6.88972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kilshanchoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilshancoe",
+        "Kilshanchoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963215,
+        "wk:page":"Kilshanchoe"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bb0ac58b69003dbde93897b97f8179b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293129859,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1293129859,
+    "wof:lastmodified":1537636732,
+    "wof:name":"Kilshanchoe",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88972,
+    53.38556,
+    -6.88972,
+    53.38556
+],
+  "geometry": {"coordinates":[-6.88972,53.38556],"type":"Point"}
+}

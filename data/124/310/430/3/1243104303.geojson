@@ -1,0 +1,77 @@
+{
+  "id": 1243104303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.92111,53.79059,-8.92111,53.79059",
+    "geom:latitude":53.79059,
+    "geom:longitude":-8.92111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Knock",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963139,
+    "gn:latitude":53.79059,
+    "gn:longitude":-8.92111,
+    "gn:modification_date":"2016-02-13",
+    "gn:name":"Knock",
+    "gn:population":811,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Knock"
+    ],
+    "name:und_x_variant":[
+        "Cnoc Mhuire"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963139,
+        "wk:page":"Knock%2C_County_Mayo"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"80f7e8f25556033964c6c6928c495165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243104303,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1243104303,
+    "wof:lastmodified":1537636731,
+    "wof:name":"Knock",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":811,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.92111,
+    53.79059,
+    -8.92111,
+    53.79059
+],
+  "geometry": {"coordinates":[-8.92111,53.79059],"type":"Point"}
+}

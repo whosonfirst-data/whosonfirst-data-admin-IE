@@ -1,0 +1,71 @@
+{
+  "id": 1327469851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.85,52.75,-6.85,52.75",
+    "geom:latitude":52.75,
+    "geom:longitude":-6.85,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Graiguealug",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963908,
+    "gn:latitude":52.75,
+    "gn:longitude":-6.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Graiguealug",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Graiguelug",
+        "Graiguealug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963908
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"690cc33e8d136e72a7cb56a741cbb932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327469851,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1327469851,
+    "wof:lastmodified":1537636737,
+    "wof:name":"Graiguealug",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.85,
+    52.75,
+    -6.85,
+    52.75
+],
+  "geometry": {"coordinates":[-6.85,52.75],"type":"Point"}
+}

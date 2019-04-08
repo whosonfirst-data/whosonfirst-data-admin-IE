@@ -1,0 +1,66 @@
+{
+  "id": 1226079497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91005,53.76344,-6.91005,53.76344",
+    "geom:latitude":53.76344,
+    "geom:longitude":-6.91005,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Maperath",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866649,
+    "gn:latitude":53.76344,
+    "gn:longitude":-6.91005,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Maperath",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866649
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eeebc1fd6f98240bf4577e0a1b42206b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226079497,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226079497,
+    "wof:lastmodified":1536676554,
+    "wof:name":"Maperath",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91005,
+    53.76344,
+    -6.91005,
+    53.76344
+],
+  "geometry": {"coordinates":[-6.91005,53.76344],"type":"Point"}
+}

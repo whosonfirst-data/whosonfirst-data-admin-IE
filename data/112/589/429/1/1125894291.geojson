@@ -1,0 +1,137 @@
+{
+  "id": 1125894291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78333,54.8,-7.78333,54.8",
+    "geom:latitude":54.8,
+    "geom:longitude":-7.78333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3848,
+    "gn:population":4852,
+    "iso:country":"IE",
+    "lbl:latitude":54.8,
+    "lbl:longitude":-7.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u0431\u043e\u0443\u0444\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:chi_x_preferred":[
+        "\u67cf\u52d2\u6ce2\u4f0a"
+    ],
+    "name:dan_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:dut_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:eng_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:fre_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:ger_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:gle_x_preferred":[
+        "Bealach F\u00e9ich"
+    ],
+    "name:glv_x_preferred":[
+        "Bealach F\u00e9ich"
+    ],
+    "name:ind_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:ita_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30dc\u30d5\u30a7\u30a4"
+    ],
+    "name:lit_x_preferred":[
+        "Balibofis"
+    ],
+    "name:pol_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:por_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0431\u043e\u0444\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ballybofey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0456\u0431\u043e\u0444\u0456"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966668,
+    "qs_pg:gn_pop":3848,
+    "qs_pg:name":"Ballybofey",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1040426,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966668,
+        "qs_pg:id":1040426,
+        "wd:id":"Q805401"
+    },
+    "wof:country":"IE",
+    "wof:created":1497295475,
+    "wof:geomhash":"6f86c05b8fd8c61588ea55901f1934e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125894291,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125894291,
+    "wof:lastmodified":1514450417,
+    "wof:name":"Ballybofey",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":4852,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78333,
+    54.8,
+    -7.78333,
+    54.8
+],
+  "geometry": {"coordinates":[-7.78333,54.8],"type":"Point"}
+}

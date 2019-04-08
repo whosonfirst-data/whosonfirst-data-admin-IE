@@ -1,0 +1,66 @@
+{
+  "id": 1360021405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.88528,54.79667,-7.88528,54.79667",
+    "geom:latitude":54.79667,
+    "geom:longitude":-7.88528,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Aghaveagh",
+    "gn:country_code":"IE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308516,
+    "gn:latitude":54.79667,
+    "gn:longitude":-7.88528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Aghaveagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308516
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ad40ad6f63ed019a05f4707216b76ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360021405,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1360021405,
+    "wof:lastmodified":1537035898,
+    "wof:name":"Aghaveagh",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.88528,
+    54.79667,
+    -7.88528,
+    54.79667
+],
+  "geometry": {"coordinates":[-7.88528,54.79667],"type":"Point"}
+}

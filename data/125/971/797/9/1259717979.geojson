@@ -1,0 +1,66 @@
+{
+  "id": 1259717979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.14375,53.77574,-9.14375,53.77574",
+    "geom:latitude":53.77574,
+    "geom:longitude":-9.14375,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Stonepark",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130042,
+    "gn:latitude":53.77574,
+    "gn:longitude":-9.14375,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Stonepark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130042
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ef2e3f53e9051cd28aed4bc858aa41b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259717979,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1259717979,
+    "wof:lastmodified":1537016681,
+    "wof:name":"Stonepark",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.14375,
+    53.77574,
+    -9.14375,
+    53.77574
+],
+  "geometry": {"coordinates":[-9.14375,53.77574],"type":"Point"}
+}

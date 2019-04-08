@@ -1,0 +1,66 @@
+{
+  "id": 1209136255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.95427,53.74977,-6.95427,53.74977",
+    "geom:latitude":53.74977,
+    "geom:longitude":-6.95427,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Carnaross",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965762,
+    "gn:latitude":53.74977,
+    "gn:longitude":-6.95427,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Carnaross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Carn na Ros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965762,
+        "wk:page":"Carnaross"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fa66812d6f49d462f446f8efd9245335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209136255
+        }
+    ],
+    "wof:id":1209136255,
+    "wof:lastmodified":1537636751,
+    "wof:name":"Carnaross",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.95427,
+    53.74977,
+    -6.95427,
+    53.74977
+],
+  "geometry": {"coordinates":[-6.95427,53.74977],"type":"Point"}
+}

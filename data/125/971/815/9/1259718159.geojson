@@ -1,0 +1,66 @@
+{
+  "id": 1259718159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10917,54.08806,-9.10917,54.08806",
+    "geom:latitude":54.08806,
+    "geom:longitude":-9.10917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Cloonslaun",
+    "gn:country_code":"IE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965284,
+    "gn:latitude":54.08806,
+    "gn:longitude":-9.10917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cloonslaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965284
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fe892d7416a0ea166b2c4c1ef5739f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259718159,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1259718159,
+    "wof:lastmodified":1537016417,
+    "wof:name":"Cloonslaun",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10917,
+    54.08806,
+    -9.10917,
+    54.08806
+],
+  "geometry": {"coordinates":[-9.10917,54.08806],"type":"Point"}
+}

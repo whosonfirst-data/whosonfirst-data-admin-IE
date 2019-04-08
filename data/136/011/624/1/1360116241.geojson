@@ -1,0 +1,66 @@
+{
+  "id": 1360116241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.6075,52.33139,-6.6075,52.33139",
+    "geom:latitude":52.33139,
+    "geom:longitude":-6.6075,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Growtown",
+    "gn:country_code":"IE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302115,
+    "gn:latitude":52.33139,
+    "gn:longitude":-6.6075,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Growtown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302115
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bb73a30369d29829ae1323314fbf672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360116241,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1360116241,
+    "wof:lastmodified":1536900817,
+    "wof:name":"Growtown",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.6075,
+    52.33139,
+    -6.6075,
+    52.33139
+],
+  "geometry": {"coordinates":[-6.6075,52.33139],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259914085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.93512,52.90901,-6.93512,52.90901",
+    "geom:latitude":52.90901,
+    "geom:longitude":-6.93512,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Maganey Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3314145,
+    "gn:latitude":52.90901,
+    "gn:longitude":-6.93512,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Maganey Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314145
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"802c48fd3419bbc9a397e7011f103709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259914085,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1259914085,
+    "wof:lastmodified":1536735212,
+    "wof:name":"Maganey Bridge",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93512,
+    52.90901,
+    -6.93512,
+    52.90901
+],
+  "geometry": {"coordinates":[-6.93512,52.90901],"type":"Point"}
+}

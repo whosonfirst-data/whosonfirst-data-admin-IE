@@ -1,0 +1,66 @@
+{
+  "id": 1343495139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50306,52.50056,-7.50306,52.50056",
+    "geom:latitude":52.50056,
+    "geom:longitude":-7.50306,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Mullinoly",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306869,
+    "gn:latitude":52.50056,
+    "gn:longitude":-7.50306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mullinoly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306869
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"af058915e088966d2c4eda74d38d32ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343495139,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1343495139,
+    "wof:lastmodified":1536696346,
+    "wof:name":"Mullinoly",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50306,
+    52.50056,
+    -7.50306,
+    52.50056
+],
+  "geometry": {"coordinates":[-7.50306,52.50056],"type":"Point"}
+}

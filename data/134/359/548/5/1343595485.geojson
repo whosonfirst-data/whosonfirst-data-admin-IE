@@ -1,0 +1,66 @@
+{
+  "id": 1343595485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40639,54.45806,-8.40639,54.45806",
+    "geom:latitude":54.45806,
+    "geom:longitude":-8.40639,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Castlegal",
+    "gn:country_code":"IE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311231,
+    "gn:latitude":54.45806,
+    "gn:longitude":-8.40639,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Castlegal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311231
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ce9733181b32c45837b94a35be9175a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343595485,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343595485,
+    "wof:lastmodified":1537046891,
+    "wof:name":"Castlegal",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40639,
+    54.45806,
+    -8.40639,
+    54.45806
+],
+  "geometry": {"coordinates":[-8.40639,54.45806],"type":"Point"}
+}

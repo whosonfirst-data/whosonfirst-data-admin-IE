@@ -1,0 +1,66 @@
+{
+  "id": 1293327329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31611,52.44167,-8.31611,52.44167",
+    "geom:latitude":52.44167,
+    "geom:longitude":-8.31611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Aughadareen Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305745,
+    "gn:latitude":52.44167,
+    "gn:longitude":-8.31611,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Aughadareen Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305745
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d8b8f001a39b310bcc2e8b71b276523e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293327329,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1293327329,
+    "wof:lastmodified":1537017246,
+    "wof:name":"Aughadareen Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31611,
+    52.44167,
+    -8.31611,
+    52.44167
+],
+  "geometry": {"coordinates":[-8.31611,52.44167],"type":"Point"}
+}

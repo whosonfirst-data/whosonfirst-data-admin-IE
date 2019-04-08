@@ -1,0 +1,70 @@
+{
+  "id": 101805989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:bbox":"-8.47820436124,52.3558951649,-8.46281636958,52.3628569352",
+    "geom:latitude":52.359136,
+    "geom:longitude":-8.469732,
+    "iso:country":"IE",
+    "lbl:latitude":52.359174,
+    "lbl:longitude":-8.469207,
+    "mps:latitude":52.359174,
+    "mps:longitude":-8.469207,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilfinnane",
+    "qs:la_lc":"*IE2303127090",
+    "qs:level":"locality",
+    "qs:loc":"Kilfinnane",
+    "qs:loc_alt":"Kilfinnane",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870950,
+        "gp:id":91809844,
+        "qs:id":7
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4dc463e5493d6477cc1302d5724c4d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805989,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101805989,
+    "wof:lastmodified":1477508552,
+    "wof:name":"Kilfinnane",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47820436123584,
+    52.35589516490035,
+    -8.4628163695844,
+    52.36285693516902
+],
+  "geometry": {"coordinates":[[[-8.47149507788549,52.36285693516902],[-8.47112391533199,52.3619917084157],[-8.46826863184208,52.36244424078495],[-8.46752646216339,52.36071376187653],[-8.46467122740046,52.36116620566457],[-8.4628163695844,52.35683992800983],[-8.46567134923225,52.35638753503275],[-8.46604233624987,52.35725278378095],[-8.47460710836202,52.35589516490035],[-8.47497826620304,52.35676038146613],[-8.47783313459672,52.35630769519082],[-8.47820436123584,52.35717289989799],[-8.47106696272829,52.35830451305031],[-8.47218036680141,52.36090019327628],[-8.4736079496974,52.36067388951813],[-8.4739791454823,52.36153910779558],[-8.47683432228712,52.36108643892572],[-8.47720558688803,52.3619516453432],[-8.47149507788549,52.36285693516902]]],"type":"Polygon"}
+}

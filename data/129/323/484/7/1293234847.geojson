@@ -1,0 +1,66 @@
+{
+  "id": 1293234847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92186,53.3981,-9.92186,53.3981",
+    "geom:latitude":53.3981,
+    "geom:longitude":-9.92186,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"River House",
+    "gn:country_code":"IE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10247799,
+    "gn:latitude":53.3981,
+    "gn:longitude":-9.92186,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"River House",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10247799
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8908bd1dabb383dab9d1aaa7a2f44e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293234847,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293234847,
+    "wof:lastmodified":1536654329,
+    "wof:name":"River House",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92186,
+    53.3981,
+    -9.92186,
+    53.3981
+],
+  "geometry": {"coordinates":[-9.92186,53.3981],"type":"Point"}
+}

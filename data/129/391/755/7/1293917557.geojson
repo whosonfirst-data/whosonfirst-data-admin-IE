@@ -1,0 +1,66 @@
+{
+  "id": 1293917557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.83944,52.33417,-6.83944,52.33417",
+    "geom:latitude":52.33417,
+    "geom:longitude":-6.83944,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Rathnageeragh",
+    "gn:country_code":"IE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301950,
+    "gn:latitude":52.33417,
+    "gn:longitude":-6.83944,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rathnageeragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301950
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"db323c3ddc471712d8c9d071b12c9581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293917557,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1293917557,
+    "wof:lastmodified":1536664298,
+    "wof:name":"Rathnageeragh",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.83944,
+    52.33417,
+    -6.83944,
+    52.33417
+],
+  "geometry": {"coordinates":[-6.83944,52.33417],"type":"Point"}
+}

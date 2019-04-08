@@ -1,0 +1,66 @@
+{
+  "id": 1226783451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.37583,52.43111,-9.37583,52.43111",
+    "geom:latitude":52.43111,
+    "geom:longitude":-9.37583,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Kilmorna",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963251,
+    "gn:latitude":52.43111,
+    "gn:longitude":-9.37583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilmorna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963251
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c69e27ef9bb0755219eb7737d5cbc86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226783451,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1226783451,
+    "wof:lastmodified":1536661284,
+    "wof:name":"Kilmorna",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.37583,
+    52.43111,
+    -9.37583,
+    52.43111
+],
+  "geometry": {"coordinates":[-9.37583,52.43111],"type":"Point"}
+}

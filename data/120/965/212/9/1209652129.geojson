@@ -1,0 +1,71 @@
+{
+  "id": 1209652129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73333,52.26667,-8.73333,52.26667",
+    "geom:latitude":52.26667,
+    "geom:longitude":-8.73333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Churchtown",
+    "gn:country_code":"IE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965501,
+    "gn:latitude":52.26667,
+    "gn:longitude":-8.73333,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Churchtown",
+    "gn:population":509,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Churchtown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Teampail"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965501
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"724ee5ad73db2c85c49815952d78ffe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209652129
+        }
+    ],
+    "wof:id":1209652129,
+    "wof:lastmodified":1537636749,
+    "wof:name":"Churchtown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":509,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73333,
+    52.26667,
+    -8.73333,
+    52.26667
+],
+  "geometry": {"coordinates":[-8.73333,52.26667],"type":"Point"}
+}

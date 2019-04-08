@@ -1,0 +1,66 @@
+{
+  "id": 1276804511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.28389,51.85556,-9.28389,51.85556",
+    "geom:latitude":51.85556,
+    "geom:longitude":-9.28389,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Gortafludig",
+    "gn:country_code":"IE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297311,
+    "gn:latitude":51.85556,
+    "gn:longitude":-9.28389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortafludig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297311
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fddf22c3dd99a2e0dec96ccd846901c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276804511,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276804511,
+    "wof:lastmodified":1536643785,
+    "wof:name":"Gortafludig",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.28389,
+    51.85556,
+    -9.28389,
+    51.85556
+],
+  "geometry": {"coordinates":[-9.28389,51.85556],"type":"Point"}
+}

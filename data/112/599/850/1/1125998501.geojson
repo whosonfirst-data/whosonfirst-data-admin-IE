@@ -1,0 +1,108 @@
+{
+  "id": 1125998501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23583,52.68639,-8.23583,52.68639",
+    "geom:latitude":52.68639,
+    "geom:longitude":-8.23583,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.68639,
+    "lbl:longitude":-8.23583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rearcross"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0430\u0440\u0434\u043d\u043e\u0433\u0439"
+    ],
+    "name:dut_x_preferred":[
+        "Rearcross"
+    ],
+    "name:eng_x_preferred":[
+        "Rearcross"
+    ],
+    "name:gle_x_preferred":[
+        "Crois na Rae"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0440\u043a\u0440\u043e\u0441\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Reardnogy"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961858,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rearcross",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":32810,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387489,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961858,
+        "gp:id":29387489,
+        "qs_pg:id":32810,
+        "wd:id":"Q4394775"
+    },
+    "wof:country":"IE",
+    "wof:created":1497299505,
+    "wof:geomhash":"a3756b3039ec0199f2484bcea2694173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125998501,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1125998501,
+    "wof:lastmodified":1530148399,
+    "wof:name":"Rearcross",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23583,
+    52.68639,
+    -8.23583,
+    52.68639
+],
+  "geometry": {"coordinates":[-8.23583,52.68639],"type":"Point"}
+}

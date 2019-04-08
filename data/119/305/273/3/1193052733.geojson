@@ -1,0 +1,66 @@
+{
+  "id": 1193052733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02222,52.87806,-7.02222,52.87806",
+    "geom:latitude":52.87806,
+    "geom:longitude":-7.02222,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Oldleagh",
+    "gn:country_code":"IE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302540,
+    "gn:latitude":52.87806,
+    "gn:longitude":-7.02222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Oldleagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302540
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8fed095cd8305e70b1f0468573816121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193052733,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1193052733,
+    "wof:lastmodified":1536364888,
+    "wof:name":"Oldleagh",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02222,
+    52.87806,
+    -7.02222,
+    52.87806
+],
+  "geometry": {"coordinates":[-7.02222,52.87806],"type":"Point"}
+}

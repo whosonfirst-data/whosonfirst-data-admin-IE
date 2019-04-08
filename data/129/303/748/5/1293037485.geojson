@@ -1,0 +1,66 @@
+{
+  "id": 1293037485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.57444,52.68583,-8.57444,52.68583",
+    "geom:latitude":52.68583,
+    "geom:longitude":-8.57444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Gilloge Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310142,
+    "gn:latitude":52.68583,
+    "gn:longitude":-8.57444,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gilloge Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310142
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ecb3c629949afa97dd35bd89dd3f9256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037485,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293037485,
+    "wof:lastmodified":1536939541,
+    "wof:name":"Gilloge Bridge",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.57444,
+    52.68583,
+    -8.57444,
+    52.68583
+],
+  "geometry": {"coordinates":[-8.57444,52.68583],"type":"Point"}
+}

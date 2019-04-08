@@ -1,0 +1,107 @@
+{
+  "id": 101806039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":438260.103882,
+    "geom:bbox":"-6.47530026072,52.7947222851,-6.46080106393,52.8031768593",
+    "geom:latitude":52.798633,
+    "geom:longitude":-6.46837,
+    "gn:population":970,
+    "iso:country":"IE",
+    "lbl:latitude":52.798686,
+    "lbl:longitude":-6.468261,
+    "mps:latitude":52.798686,
+    "mps:longitude":-6.468261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043d\u0430\u0445\u0435\u043b\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Tinahely"
+    ],
+    "name:dut_x_preferred":[
+        "Tinahely"
+    ],
+    "name:eng_x_preferred":[
+        "Tinahely"
+    ],
+    "name:gle_x_preferred":[
+        "Tigh na h\u00c9ille"
+    ],
+    "name:nld_x_preferred":[
+        "Tinahely"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0430\u0445\u0435\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tinahely"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Wicklow",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Tinahely",
+    "qs:la_lc":"*IE2203257071",
+    "qs:level":"locality",
+    "qs:loc":"Tinahely",
+    "qs:loc_alt":"Tinahely",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":808,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ea01e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961204,
+        "gp:id":20074550,
+        "qs:id":247377,
+        "wd:id":"Q1970360",
+        "wk:page":"Tinahely"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c812feb260d6c08be148be086758af40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806039,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":101806039,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715375,
+    "wof:name":"Tinahely",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":970,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.47530026072315,
+    52.79472228507103,
+    -6.46080106393151,
+    52.80317685932823
+],
+  "geometry": {"coordinates":[[[-6.46828193382919,52.80317685932823],[-6.46760946726738,52.80143296084003],[-6.46615944808985,52.80163528775796],[-6.46582326643835,52.80076333183166],[-6.46292324511563,52.80116792398661],[-6.46258713388676,52.80029595742258],[-6.46113713174509,52.80049822266022],[-6.46080106393151,52.79962625009762],[-6.4622510390692,52.7994239894968],[-6.46191496066166,52.79855202020963],[-6.46481481996705,52.79814745588061],[-6.46447870396668,52.79727549450638],[-6.46592858813665,52.79707319077937],[-6.4655924615484,52.79620123268074],[-6.46704230639835,52.79599891612526],[-6.46670616922381,52.79512696130206],[-6.46960576796602,52.79472228507103],[-6.4699419591301,52.79559423061789],[-6.47284156256484,52.7951894752502],[-6.47317782413012,52.79606141015614],[-6.47462763435175,52.79585900163562],[-6.47530026072315,52.79760285807799],[-6.47095063110669,52.79821005908178],[-6.47229575691642,52.80169781128654],[-6.46939572619419,52.80210256174047],[-6.4697319946892,52.80297450566394],[-6.46828193382919,52.80317685932823]]],"type":"Polygon"}
+}

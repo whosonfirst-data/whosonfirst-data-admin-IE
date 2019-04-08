@@ -1,0 +1,66 @@
+{
+  "id": 1293421161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61861,53.51222,-6.61861,53.51222",
+    "geom:latitude":53.51222,
+    "geom:longitude":-6.61861,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Cross Keys",
+    "gn:country_code":"IE",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964983,
+    "gn:latitude":53.51222,
+    "gn:longitude":-6.61861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cross Keys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964983
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7533de4eb4712ba1d4305c9a3bf9b690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293421161,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1293421161,
+    "wof:lastmodified":1536882061,
+    "wof:name":"Cross Keys",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61861,
+    53.51221999999999,
+    -6.61861,
+    53.51221999999999
+],
+  "geometry": {"coordinates":[-6.61861,53.51221999999999],"type":"Point"}
+}

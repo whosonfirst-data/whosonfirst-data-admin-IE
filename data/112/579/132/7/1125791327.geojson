@@ -1,0 +1,115 @@
+{
+  "id": 1125791327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.36167,51.88611,-10.36167,51.88611",
+    "geom:latitude":51.88611,
+    "geom:longitude":-10.36167,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.88611,
+    "lbl:longitude":-10.36167,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Portmagee"
+    ],
+    "name:dut_x_preferred":[
+        "Portmagee"
+    ],
+    "name:eng_x_preferred":[
+        "Portmagee"
+    ],
+    "name:fre_x_preferred":[
+        "Portmagee"
+    ],
+    "name:ger_x_preferred":[
+        "Portmagee"
+    ],
+    "name:gle_x_preferred":[
+        "An Caladh"
+    ],
+    "name:ita_x_preferred":[
+        "Portmagee"
+    ],
+    "name:pol_x_preferred":[
+        "Portmagee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043c\u0430\u0433\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Portmagee"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962021,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Portmagee",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":599,
+    "qs_pg:photos_1k":121,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":599,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561970,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962021,
+        "gp:id":561970,
+        "qs_pg:id":1080463,
+        "wd:id":"Q174545"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290874,
+    "wof:geomhash":"69b77eaf94f66c24d98b12bdc1f316cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1125791327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125791327,
+    "wof:lastmodified":1530148380,
+    "wof:name":"Portmagee",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.36167,
+    51.88611,
+    -10.36167,
+    51.88611
+],
+  "geometry": {"coordinates":[-10.36167,51.88611],"type":"Point"}
+}

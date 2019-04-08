@@ -1,0 +1,80 @@
+{
+  "id": 1125855051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.595857,52.595644,-8.595857,52.595644",
+    "geom:latitude":52.595644,
+    "geom:longitude":-8.595857,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.595644,
+    "lbl:longitude":-8.595857,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kilpeacon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":66,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1327404,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":561370,
+        "qs_pg:id":1327404
+    },
+    "wof:country":"IE",
+    "wof:created":1497293583,
+    "wof:geomhash":"beed756309df533083623ac10fcf3f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125855051,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1125855051,
+    "wof:lastmodified":1509396163,
+    "wof:name":"Kilpeacon",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.595857,
+    52.595644,
+    -8.595857,
+    52.595644
+],
+  "geometry": {"coordinates":[-8.595857,52.595644],"type":"Point"}
+}

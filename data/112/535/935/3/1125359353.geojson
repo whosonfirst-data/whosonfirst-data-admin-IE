@@ -1,0 +1,80 @@
+{
+  "id": 1125359353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.215641,53.248679,-9.215641,53.248679",
+    "geom:latitude":53.248679,
+    "geom:longitude":-9.215641,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":53.248679,
+    "lbl:longitude":-9.215641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Furbogh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":208,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248170,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072433,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072433,
+        "qs_pg:id":248170
+    },
+    "wof:country":"IE",
+    "wof:created":1497046678,
+    "wof:geomhash":"adf8f2bd437d3bc492459b7a5e62f615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125359353,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125359353,
+    "wof:lastmodified":1509389036,
+    "wof:name":"Furbogh",
+    "wof:parent_id":85685097,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.215641,
+    53.248679,
+    -9.215641,
+    53.248679
+],
+  "geometry": {"coordinates":[-9.215641,53.248679],"type":"Point"}
+}

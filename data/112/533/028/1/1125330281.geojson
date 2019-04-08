@@ -1,0 +1,99 @@
+{
+  "id": 1125330281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03333,54.05,-8.03333,54.05",
+    "geom:latitude":54.05,
+    "geom:longitude":-8.03333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":857,
+    "iso:country":"IE",
+    "lbl:latitude":54.05,
+    "lbl:longitude":-8.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Drumshanbo"
+    ],
+    "name:gle_x_preferred":[
+        "Droim Seanbh\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Drumshambo"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964584,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Drumshanbo",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":296,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":365,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115278,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964584,
+        "gp:id":20072968,
+        "qs_pg:id":1115278
+    },
+    "wof:country":"IE",
+    "wof:created":1497045093,
+    "wof:geomhash":"5d86951179c945e57d4fb10464c53845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125330281,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1125330281,
+    "wof:lastmodified":1509388357,
+    "wof:name":"Drumshanbo",
+    "wof:parent_id":85685133,
+    "wof:placetype":"localadmin",
+    "wof:population":857,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03333,
+    54.05,
+    -8.03333,
+    54.05
+],
+  "geometry": {"coordinates":[-8.03333,54.05],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1309745855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15,55.3,-7.15,55.3",
+    "geom:latitude":55.3,
+    "geom:longitude":-7.15,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Portahack",
+    "gn:country_code":"IE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962031,
+    "gn:latitude":55.3,
+    "gn:longitude":-7.15,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Portahack",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962031
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"388cc7650a46dc1e342e8d8b1830b845",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309745855,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309745855,
+    "wof:lastmodified":1537016909,
+    "wof:name":"Portahack",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15,
+    55.3,
+    -7.15,
+    55.3
+],
+  "geometry": {"coordinates":[-7.15,55.3],"type":"Point"}
+}

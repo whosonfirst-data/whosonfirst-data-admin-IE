@@ -1,0 +1,72 @@
+{
+  "id": 1226680165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60083,54.62444,-8.60083,54.62444",
+    "geom:latitude":54.62444,
+    "geom:longitude":-8.60083,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Tawny",
+    "gn:country_code":"IE",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961259,
+    "gn:latitude":54.62444,
+    "gn:longitude":-8.60083,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Tawny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tawny"
+    ],
+    "name:gle_x_preferred":[
+        "An Tamhnaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961259
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ad0e9b2c803ac76dea4f725b027cc9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226680165,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226680165,
+    "wof:lastmodified":1537636720,
+    "wof:name":"Tawny",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60083,
+    54.62444,
+    -8.60083,
+    54.62444
+],
+  "geometry": {"coordinates":[-8.60083,54.62444],"type":"Point"}
+}

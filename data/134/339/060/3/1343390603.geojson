@@ -1,0 +1,66 @@
+{
+  "id": 1343390603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.97849,53.57026,-6.97849,53.57026",
+    "geom:latitude":53.57026,
+    "geom:longitude":-6.97849,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Woodtown",
+    "gn:country_code":"IE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866676,
+    "gn:latitude":53.57026,
+    "gn:longitude":-6.97849,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Woodtown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866676
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7f1f1a19086bc9c17de16f481afcb7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343390603,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343390603,
+    "wof:lastmodified":1536845983,
+    "wof:name":"Woodtown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.97849,
+    53.57026,
+    -6.97849,
+    53.57026
+],
+  "geometry": {"coordinates":[-6.97849,53.57026],"type":"Point"}
+}

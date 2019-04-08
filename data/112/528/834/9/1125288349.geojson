@@ -1,0 +1,80 @@
+{
+  "id": 1125288349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0525525,53.27383,-9.0525525,53.27383",
+    "geom:latitude":53.27383,
+    "geom:longitude":-9.052552,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.27383,
+    "lbl:longitude":-9.052552,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Eyre Square",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4999,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1312835,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072430,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072430,
+        "qs_pg:id":1312835
+    },
+    "wof:country":"IE",
+    "wof:created":1497042807,
+    "wof:geomhash":"f8724489ebe56925e9eb3ed34220c1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125288349,
+            "region_id":85685055
+        }
+    ],
+    "wof:id":1125288349,
+    "wof:lastmodified":1509387472,
+    "wof:name":"Eyre Square",
+    "wof:parent_id":85685055,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0525525,
+    53.27383,
+    -9.0525525,
+    53.27383
+],
+  "geometry": {"coordinates":[-9.0525525,53.27383],"type":"Point"}
+}

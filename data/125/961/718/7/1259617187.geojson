@@ -1,0 +1,66 @@
+{
+  "id": 1259617187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.70878,53.13136,-9.70878,53.13136",
+    "geom:latitude":53.13136,
+    "geom:longitude":-9.70878,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Baile na Creige",
+    "gn:country_code":"IE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10628716,
+    "gn:latitude":53.13136,
+    "gn:longitude":-9.70878,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Baile na Creige",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10628716
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"dde924c240c2c6c3a1af4c6625a00c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259617187,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1259617187,
+    "wof:lastmodified":1536666287,
+    "wof:name":"Baile na Creige",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.70878,
+    53.13136,
+    -9.70878,
+    53.13136
+],
+  "geometry": {"coordinates":[-9.70878,53.13136],"type":"Point"}
+}

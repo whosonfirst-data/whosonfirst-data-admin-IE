@@ -1,0 +1,133 @@
+{
+  "id": 1126013503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.76667,54.8,-7.76667,54.8",
+    "geom:latitude":54.8,
+    "geom:longitude":-7.76667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":54.8,
+    "lbl:longitude":-7.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043d\u043e\u0440\u043b\u0430\u0440"
+    ],
+    "name:dan_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:dut_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:eng_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:fre_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:ger_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:gle_x_preferred":[
+        "Srath an Url\u00e1ir"
+    ],
+    "name:glv_x_preferred":[
+        "Srath an Url\u00e1ir"
+    ],
+    "name:ind_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:ita_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30e9\u30ce\u30fc\u30e9\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043d\u043e\u0440\u043b\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Stranorlar"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961337,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stranorlar",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013706,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562291,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961337,
+        "gp:id":562291,
+        "qs_pg:id":1013706,
+        "wd:id":"Q783750"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300414,
+    "wof:geomhash":"35ce2a574e5d70384d529743e12c739f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126013503,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1126013503,
+    "wof:lastmodified":1534379340,
+    "wof:name":"Stranorlar",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        101805073
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.76667,
+    54.8,
+    -7.76667,
+    54.8
+],
+  "geometry": {"coordinates":[-7.76667,54.8],"type":"Point"}
+}

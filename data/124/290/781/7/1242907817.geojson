@@ -1,0 +1,66 @@
+{
+  "id": 1242907817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98194,52.62972,-6.98194,52.62972",
+    "geom:latitude":52.62972,
+    "geom:longitude":-6.98194,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Ballyellin Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302824,
+    "gn:latitude":52.62972,
+    "gn:longitude":-6.98194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyellin Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302824
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"57bef9759a6ca89d8c851490aa9cbf4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242907817,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1242907817,
+    "wof:lastmodified":1537081920,
+    "wof:name":"Ballyellin Cross Roads",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98194,
+    52.62971999999999,
+    -6.98194,
+    52.62971999999999
+],
+  "geometry": {"coordinates":[-6.98194,52.62971999999999],"type":"Point"}
+}

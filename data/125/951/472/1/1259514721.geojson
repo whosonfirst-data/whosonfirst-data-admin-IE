@@ -1,0 +1,66 @@
+{
+  "id": 1259514721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04833,53.06444,-7.04833,53.06444",
+    "geom:latitude":53.06444,
+    "geom:longitude":-7.04833,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Cloney",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314377,
+    "gn:latitude":53.06444,
+    "gn:longitude":-7.04833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cloney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314377
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1d984b766ba0cc6e22f35ca58937491e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259514721,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1259514721,
+    "wof:lastmodified":1536813346,
+    "wof:name":"Cloney",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04833,
+    53.06444000000001,
+    -7.04833,
+    53.06444000000001
+],
+  "geometry": {"coordinates":[-7.04833,53.06444000000001],"type":"Point"}
+}

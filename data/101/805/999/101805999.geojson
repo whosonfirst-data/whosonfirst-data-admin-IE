@@ -1,0 +1,144 @@
+{
+  "id": 101805999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":1504195.758512,
+    "geom:bbox":"-8.95634073894,52.5155487066,-8.92227053165,52.5354722403",
+    "geom:latitude":52.523924,
+    "geom:longitude":-8.941045,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1470,
+    "gn:population":1550,
+    "iso:country":"IE",
+    "lbl:latitude":52.52258,
+    "lbl:longitude":-8.943884,
+    "mps:latitude":52.52258,
+    "mps:longitude":-8.943884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0442\u0445\u043a\u0435\u0430\u043b\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:dut_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:eng_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:eus_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:fre_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:ger_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Caola"
+    ],
+    "name:ita_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:pol_x_preferred":[
+        "Rathkeale"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Rathkeale"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Rathkeale Urban",
+    "qs:la_lc":"*IE2303127123",
+    "qs:level":"locality",
+    "qs:loc":"Rathkeale",
+    "qs:loc_alt":"Rathkeale",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961905,
+    "qs_pg:gn_pop":1470,
+    "qs_pg:name":"Rathkeale",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":161,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1253031,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562036,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":418,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961905,
+        "gp:id":562036,
+        "qs:id":1253031,
+        "qs_pg:id":1253031,
+        "wd:id":"Q1006749",
+        "wk:page":"Rathkeale"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"19e47fdad15413c27077771d6770e64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805999,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101805999,
+    "wof:lastmodified":1534379340,
+    "wof:name":"Rathkeale",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":1550,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125848663
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95634073894024,
+    52.5155487065656,
+    -8.92227053164714,
+    52.53547224025209
+],
+  "geometry": {"coordinates":[[[-8.95204794865293,52.53547224025209],[-8.94936865504025,52.52942845826396],[-8.94507627674096,52.53012488771907],[-8.94545890122117,52.53098830616352],[-8.94402805535083,52.53122042038876],[-8.94364545639991,52.53035699671238],[-8.94221462227353,52.53058908862556],[-8.94144953057366,52.52886222549398],[-8.94288031364187,52.52863014404335],[-8.94173273734282,52.52603985175233],[-8.93457906710978,52.52720000975665],[-8.93496144652738,52.52806346844164],[-8.93353064561541,52.52829545403415],[-8.93161905985932,52.52397811676497],[-8.92589622906627,52.52490578377927],[-8.92551406912486,52.52404229010818],[-8.92265262216984,52.52450601068767],[-8.92227053164714,52.5236425047965],[-8.92513192754177,52.52317879466841],[-8.92474980431649,52.52231529745995],[-8.93190292547962,52.52115574939722],[-8.92999194661007,52.51683836747236],[-8.93142240193669,52.51660643276091],[-8.93295125039094,52.52006032093374],[-8.93581232388573,52.51959635846811],[-8.93657696035729,52.52132327102328],[-8.94086862041974,52.52062716788282],[-8.94048621644578,52.51976372817717],[-8.94191671673258,52.51953166487419],[-8.94115191285573,52.51780479060659],[-8.94401277004687,52.51734063369315],[-8.94363034463368,52.51647720436051],[-8.94935179167248,52.5155487065656],[-8.94973431912268,52.51641211497792],[-8.95259501099491,52.51594775318034],[-8.95297760783205,52.51681114935695],[-8.95440795860509,52.51657893761717],[-8.9547905993241,52.51744232678817],[-8.95192983298296,52.51790674365827],[-8.95154724327841,52.51704334402348],[-8.94582564727352,52.5179719519557],[-8.95271323706953,52.53351325078563],[-8.95414411610466,52.53328103022676],[-8.95452696017554,52.5341444136377],[-8.95595785094417,52.53391217076393],[-8.95634073894024,52.53477554716557],[-8.95204794865293,52.53547224025209]]],"type":"Polygon"}
+}

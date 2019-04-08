@@ -1,0 +1,72 @@
+{
+  "id": 1293917611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24362,53.91933,-9.24362,53.91933",
+    "geom:latitude":53.91933,
+    "geom:longitude":-9.24362,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Ross West",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961668,
+    "gn:latitude":53.91933,
+    "gn:longitude":-9.24362,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ross West",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ross West"
+    ],
+    "name:gle_x_preferred":[
+        "An Ros Thiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961668
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2706b70d4638352ebedf72dd8b8e0d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293917611,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293917611,
+    "wof:lastmodified":1537636722,
+    "wof:name":"Ross West",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24362,
+    53.91933,
+    -9.24362,
+    53.91933
+],
+  "geometry": {"coordinates":[-9.24362,53.91933],"type":"Point"}
+}

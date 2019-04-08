@@ -1,0 +1,66 @@
+{
+  "id": 1309942075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.99528,54.11,-8.99528,54.11",
+    "geom:latitude":54.11,
+    "geom:longitude":-8.99528,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Drumsheen",
+    "gn:country_code":"IE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310790,
+    "gn:latitude":54.11,
+    "gn:longitude":-8.99528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Drumsheen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310790
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"25594d4d8b7f6be0b5e5a18668e15e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309942075,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1309942075,
+    "wof:lastmodified":1536734863,
+    "wof:name":"Drumsheen",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.99528,
+    54.11,
+    -8.99528,
+    54.11
+],
+  "geometry": {"coordinates":[-8.99528,54.11],"type":"Point"}
+}

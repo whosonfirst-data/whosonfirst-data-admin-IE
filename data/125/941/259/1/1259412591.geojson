@@ -1,0 +1,71 @@
+{
+  "id": 1259412591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5,52.46111,-6.5,52.46111",
+    "geom:latitude":52.46111,
+    "geom:longitude":-6.5,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Glenbrien",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964074,
+    "gn:latitude":52.46111,
+    "gn:longitude":-6.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glenbrien",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glenbryan",
+        "Glenbrien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964074
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8ede16c01e3d8a5e031a83cc1eb0bf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259412591,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1259412591,
+    "wof:lastmodified":1537636739,
+    "wof:name":"Glenbrien",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5,
+    52.46111,
+    -6.5,
+    52.46111
+],
+  "geometry": {"coordinates":[-6.5,52.46111],"type":"Point"}
+}

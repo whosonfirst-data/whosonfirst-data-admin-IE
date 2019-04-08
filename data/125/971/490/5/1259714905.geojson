@@ -1,0 +1,70 @@
+{
+  "id": 1259714905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23844,52.68574,-8.23844,52.68574",
+    "geom:latitude":52.68574,
+    "geom:longitude":-8.23844,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26.0",
+    "gn:asciiname":"Reardnogy",
+    "gn:country_code":"IE",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643242,
+    "gn:latitude":52.68574,
+    "gn:longitude":-8.23844,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Reardnogy",
+    "gn:population":176,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643242,
+        "wk:page":"Reardnogy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"392ce46d9216e1427325800222cd6ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259714905,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1259714905,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Reardnogy",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":176,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23844,
+    52.68574,
+    -8.23844,
+    52.68574
+],
+  "geometry": {"coordinates":[-8.23844,52.68574],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125412033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.38333,53.7,-7.38333,53.7",
+    "geom:latitude":53.7,
+    "geom:longitude":-7.38333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.7,
+    "lbl:longitude":-7.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Coole"
+    ],
+    "name:gle_x_preferred":[
+        "An Ch\u00fail"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965204,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Coole",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Westmeath",
+    "qs_pg:photos":46,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":81,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189726,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074277,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Westmeath",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965204,
+        "gp:id":20074277,
+        "qs_pg:id":1189726
+    },
+    "wof:country":"IE",
+    "wof:created":1497050520,
+    "wof:geomhash":"8f307d569f6539e6ace3db568ceec76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125412033,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1125412033,
+    "wof:lastmodified":1509390284,
+    "wof:name":"Coole",
+    "wof:parent_id":85685075,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.38333,
+    53.7,
+    -7.38333,
+    53.7
+],
+  "geometry": {"coordinates":[-7.38333,53.7],"type":"Point"}
+}

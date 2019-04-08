@@ -1,0 +1,66 @@
+{
+  "id": 1343598299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98444,53.18389,-6.98444,53.18389",
+    "geom:latitude":53.18389,
+    "geom:longitude":-6.98444,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"O'Neill's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314502,
+    "gn:latitude":53.18389,
+    "gn:longitude":-6.98444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"O\u2019Neill\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314502
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9af1d1bb07fbce51aac71ebe2ff2615a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343598299,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1343598299,
+    "wof:lastmodified":1537042836,
+    "wof:name":"O'Neill's Cross Roads",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98444,
+    53.18389000000001,
+    -6.98444,
+    53.18389000000001
+],
+  "geometry": {"coordinates":[-6.98444,53.18389000000001],"type":"Point"}
+}

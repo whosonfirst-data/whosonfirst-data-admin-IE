@@ -1,0 +1,68 @@
+{
+  "id": 1209451303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.70849,53.71468,-6.70849,53.71468",
+    "geom:latitude":53.71468,
+    "geom:longitude":-6.70849,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Tankardrath",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866941,
+    "gn:latitude":53.71468,
+    "gn:longitude":-6.70849,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Tankardrath",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tankardrath"
+    ],
+    "name:gle_x_preferred":[
+        "Rath an Tancardaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866941
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f6c093eb22979531e8ccc4f2d8dbdeba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209451303
+        }
+    ],
+    "wof:id":1209451303,
+    "wof:lastmodified":1537636796,
+    "wof:name":"Tankardrath",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.70849,
+    53.71468,
+    -6.70849,
+    53.71468
+],
+  "geometry": {"coordinates":[-6.70849,53.71468],"type":"Point"}
+}

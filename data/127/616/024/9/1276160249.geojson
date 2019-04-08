@@ -1,0 +1,66 @@
+{
+  "id": 1276160249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74917,52.91611,-6.74917,52.91611",
+    "geom:latitude":52.91611,
+    "geom:longitude":-6.74917,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Carrigeen Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314167,
+    "gn:latitude":52.91611,
+    "gn:longitude":-6.74917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carrigeen Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314167
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9f92c000c11ecaddd21938b843492b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276160249,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1276160249,
+    "wof:lastmodified":1537010004,
+    "wof:name":"Carrigeen Cross Roads",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74917,
+    52.91611,
+    -6.74917,
+    52.91611
+],
+  "geometry": {"coordinates":[-6.74917,52.91611],"type":"Point"}
+}

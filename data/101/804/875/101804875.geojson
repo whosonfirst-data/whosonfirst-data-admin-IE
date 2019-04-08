@@ -1,0 +1,152 @@
+{
+  "id": 101804875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":836509.342461,
+    "geom:bbox":"-6.93353895549,53.6154894685,-6.90544997229,53.6272801172",
+    "geom:latitude":53.621712,
+    "geom:longitude":-6.919679,
+    "gn:population":2397,
+    "iso:country":"IE",
+    "lbl:latitude":53.621095,
+    "lbl:longitude":-6.920636,
+    "mps:latitude":53.621095,
+    "mps:longitude":-6.920636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Athboy"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0442\u0431\u043e\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Baile \u00c1tha Bu\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Athboy"
+    ],
+    "name:dut_x_preferred":[
+        "Athboy"
+    ],
+    "name:eng_x_preferred":[
+        "Athboy"
+    ],
+    "name:fra_x_preferred":[
+        "Athboy"
+    ],
+    "name:fre_x_preferred":[
+        "Athboy"
+    ],
+    "name:ger_x_preferred":[
+        "Athboy"
+    ],
+    "name:gle_x_preferred":[
+        "Baile \u00c1tha Bu\u00ed"
+    ],
+    "name:glv_x_preferred":[
+        "Baile \u00c1tha Bu\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Athboy"
+    ],
+    "name:lit_x_preferred":[
+        "Atbojus"
+    ],
+    "name:nld_x_preferred":[
+        "Athboy"
+    ],
+    "name:nob_x_preferred":[
+        "Athboy"
+    ],
+    "name:nor_x_preferred":[
+        "Athboy"
+    ],
+    "name:pol_x_preferred":[
+        "Athboy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0431\u043e\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Athboy"
+    ],
+    "name:slo_x_preferred":[
+        "Athboy"
+    ],
+    "name:slv_x_preferred":[
+        "Athboy"
+    ],
+    "name:swe_x_preferred":[
+        "Athboy"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Grennanstown",
+    "qs:la_lc":"*IE2202167035",
+    "qs:level":"locality",
+    "qs:loc":"Athboy",
+    "qs:loc_alt":"Athboy",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":931,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11802736-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966848,
+        "gp:id":559522,
+        "qs:id":143046,
+        "qs_pg:id":143046,
+        "wd:id":"Q754964",
+        "wk:page":"Athboy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fc7e31800555032faa160afe1dc5baec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804875,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101804875,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Athboy",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":2397,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.93353895548802,
+    53.61548946847017,
+    -6.90544997229426,
+    53.6272801172031
+],
+  "geometry": {"coordinates":[[[-6.91099759310424,53.62383642629572],[-6.9099336060857,53.62122567286826],[-6.91288446099639,53.6208091496722],[-6.91323916180818,53.62167939245546],[-6.91766542861018,53.62105445956195],[-6.91695587628277,53.619314001926],[-6.92285715466278,53.61848054817074],[-6.92214744852947,53.61674012397964],[-6.92509789569488,53.61632330995405],[-6.925452796032,53.6171935129741],[-6.92987845114038,53.6165681438539],[-6.92952346666021,53.61569795551952],[-6.9309986303698,53.61548946847017],[-6.93170867308811,53.61722983391911],[-6.9331838795805,53.61702131929167],[-6.93353895548802,53.61789149497764],[-6.92616264969303,53.61893391473353],[-6.92722756267125,53.62154450667026],[-6.93017829323429,53.62112756275195],[-6.93053335567237,53.62199774741708],[-6.93200872904055,53.62178924387888],[-6.93236383720574,53.62265942221893],[-6.92646215163359,53.623493349228],[-6.92610715569481,53.62262315130096],[-6.91577888993714,53.62408180440275],[-6.91648850660732,53.62582226735833],[-6.90615919599111,53.6272801172031],[-6.90544997229426,53.62553958575489],[-6.90692557185707,53.62533138465176],[-6.90657095841561,53.62446112168323],[-6.91099759310424,53.62383642629572]]],"type":"Polygon"}
+}

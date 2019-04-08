@@ -1,0 +1,66 @@
+{
+  "id": 1310535839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.40104,52.23003,-6.40104,52.23003",
+    "geom:latitude":52.23003,
+    "geom:longitude":-6.40104,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Lough",
+    "gn:country_code":"IE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3302136,
+    "gn:latitude":52.23003,
+    "gn:longitude":-6.40104,
+    "gn:modification_date":"2015-02-14",
+    "gn:name":"Lough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302136
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7f47ea86309ae42d1e046025bcf8b03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310535839,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1310535839,
+    "wof:lastmodified":1536872128,
+    "wof:name":"Lough",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.40104,
+    52.23003,
+    -6.40104,
+    52.23003
+],
+  "geometry": {"coordinates":[-6.40104,52.23003],"type":"Point"}
+}

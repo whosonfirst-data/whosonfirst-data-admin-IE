@@ -1,0 +1,66 @@
+{
+  "id": 1242613641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60361,52.19056,-6.60361,52.19056",
+    "geom:latitude":52.19056,
+    "geom:longitude":-6.60361,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Inish",
+    "gn:country_code":"IE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302008,
+    "gn:latitude":52.19056,
+    "gn:longitude":-6.60361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Inish",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302008
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ff4966ee2b2da9110a844a281246ad2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242613641,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1242613641,
+    "wof:lastmodified":1537011011,
+    "wof:name":"Inish",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60361,
+    52.19056,
+    -6.60361,
+    52.19056
+],
+  "geometry": {"coordinates":[-6.60361,52.19056],"type":"Point"}
+}

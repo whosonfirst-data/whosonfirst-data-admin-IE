@@ -1,0 +1,79 @@
+{
+  "id": 1344194071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31694,51.83389,-8.31694,51.83389",
+    "geom:latitude":51.83389,
+    "geom:longitude":-8.31694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ringaskiddy",
+    "gn:country_code":"IE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961819,
+    "gn:latitude":51.83389,
+    "gn:longitude":-8.31694,
+    "gn:modification_date":"2017-07-30",
+    "gn:name":"Ringaskiddy",
+    "gn:population":478,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:gle_x_preferred":[
+        "Rinn an Scid\u00edgh"
+    ],
+    "name:und_x_variant":[
+        "Ringaskiddy-Loughbeg"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961819,
+        "wk:page":"Ringaskiddy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2d4768e41897b1152dd4c92a048ae894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344194071,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1344194071,
+    "wof:lastmodified":1537636723,
+    "wof:name":"Ringaskiddy",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":478,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31694,
+    51.83389,
+    -8.31694,
+    51.83389
+],
+  "geometry": {"coordinates":[-8.31694,51.83389],"type":"Point"}
+}

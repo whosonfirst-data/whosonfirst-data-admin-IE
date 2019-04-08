@@ -1,0 +1,66 @@
+{
+  "id": 1226178681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89605,53.5133,-6.89605,53.5133",
+    "geom:latitude":53.5133,
+    "geom:longitude":-6.89605,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Ballymulmore",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866749,
+    "gn:latitude":53.5133,
+    "gn:longitude":-6.89605,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ballymulmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866749
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e067ed880840b97235e9ad7abab93027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226178681,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226178681,
+    "wof:lastmodified":1537028922,
+    "wof:name":"Ballymulmore",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89605,
+    53.5133,
+    -6.89605,
+    53.5133
+],
+  "geometry": {"coordinates":[-6.89605,53.5133],"type":"Point"}
+}

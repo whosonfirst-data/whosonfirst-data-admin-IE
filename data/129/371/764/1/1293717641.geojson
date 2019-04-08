@@ -1,0 +1,66 @@
+{
+  "id": 1293717641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.38333,54.05,-9.38333,54.05",
+    "geom:latitude":54.05,
+    "geom:longitude":-9.38333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Creevy",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965049,
+    "gn:latitude":54.05,
+    "gn:longitude":-9.38333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Creevy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965049
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"60642a133ba40b3daa6a54694d3d16bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293717641,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293717641,
+    "wof:lastmodified":1536952916,
+    "wof:name":"Creevy",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.38333,
+    54.05,
+    -9.38333,
+    54.05
+],
+  "geometry": {"coordinates":[-9.38333,54.05],"type":"Point"}
+}

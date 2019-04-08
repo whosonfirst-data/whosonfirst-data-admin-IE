@@ -1,0 +1,66 @@
+{
+  "id": 1343389935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06917,51.93222,-9.06917,51.93222",
+    "geom:latitude":51.93222,
+    "geom:longitude":-9.06917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Scronagare",
+    "gn:country_code":"IE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291470,
+    "gn:latitude":51.93222,
+    "gn:longitude":-9.06917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Scronagare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291470
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"85e9dc7d52a466b0c5081f895a83599e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343389935,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1343389935,
+    "wof:lastmodified":1536847021,
+    "wof:name":"Scronagare",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06917,
+    51.93222,
+    -9.06917,
+    51.93222
+],
+  "geometry": {"coordinates":[-9.06917,51.93222],"type":"Point"}
+}

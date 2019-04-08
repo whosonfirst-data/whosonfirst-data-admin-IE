@@ -1,0 +1,66 @@
+{
+  "id": 1326959475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63333,53.66667,-7.63333,53.66667",
+    "geom:latitude":53.66667,
+    "geom:longitude":-7.63333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Crossea",
+    "gn:country_code":"IE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964990,
+    "gn:latitude":53.66667,
+    "gn:longitude":-7.63333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Crossea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964990
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b49e9382b0ade5afbd55f261d82d5481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326959475,
+            "region_id":85685091
+        }
+    ],
+    "wof:id":1326959475,
+    "wof:lastmodified":1536864346,
+    "wof:name":"Crossea",
+    "wof:parent_id":85685091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63333,
+    53.66667,
+    -7.63333,
+    53.66667
+],
+  "geometry": {"coordinates":[-7.63333,53.66667],"type":"Point"}
+}

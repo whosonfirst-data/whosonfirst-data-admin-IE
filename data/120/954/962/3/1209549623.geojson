@@ -1,0 +1,62 @@
+{
+  "id": 1209549623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.16306,52.80611,-7.16306,52.80611",
+    "geom:latitude":52.80611,
+    "geom:longitude":-7.16306,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Ryan's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302482,
+    "gn:latitude":52.80611,
+    "gn:longitude":-7.16306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ryan\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302482
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6067bcdfd6dd39095a3805e5e70c68a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209549623
+        }
+    ],
+    "wof:id":1209549623,
+    "wof:lastmodified":1536283736,
+    "wof:name":"Ryan's Cross Roads",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.1630600000000015,
+    52.80611,
+    -7.1630600000000015,
+    52.80611
+],
+  "geometry": {"coordinates":[-7.16306,52.80611],"type":"Point"}
+}

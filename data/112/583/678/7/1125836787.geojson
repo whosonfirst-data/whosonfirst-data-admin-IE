@@ -1,0 +1,105 @@
+{
+  "id": 1125836787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61139,52.09389,-7.61139,52.09389",
+    "geom:latitude":52.09389,
+    "geom:longitude":-7.61139,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.09389,
+    "lbl:longitude":-7.61139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Abbeyside"
+    ],
+    "name:dut_x_preferred":[
+        "Abbeyside"
+    ],
+    "name:eng_x_preferred":[
+        "Abbeyside"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan na Mainistreach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0431\u0438\u0441\u0430\u0439\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0431\u0456\u0441\u0430\u0439\u0434"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2967089,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Abbeyside",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":297,
+    "qs_pg:photos_1k":60,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":297,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894562,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559408,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967089,
+        "gp:id":559408,
+        "qs_pg:id":894562,
+        "wd:id":"Q2090795"
+    },
+    "wof:country":"IE",
+    "wof:created":1497292749,
+    "wof:geomhash":"2dc887f2244380d42d0fd523830d6418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125836787,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1125836787,
+    "wof:lastmodified":1514450406,
+    "wof:name":"Abbeyside",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61139,
+    52.09389,
+    -7.61139,
+    52.09389
+],
+  "geometry": {"coordinates":[-7.61139,52.09389],"type":"Point"}
+}

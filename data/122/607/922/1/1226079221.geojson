@@ -1,0 +1,66 @@
+{
+  "id": 1226079221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39194,53.9475,-8.39194,53.9475",
+    "geom:latitude":53.9475,
+    "geom:longitude":-8.39194,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Ardlona",
+    "gn:country_code":"IE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310856,
+    "gn:latitude":53.9475,
+    "gn:longitude":-8.39194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ardlona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310856
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e712476786c996ee47bef51e9fc24358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226079221,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1226079221,
+    "wof:lastmodified":1536676948,
+    "wof:name":"Ardlona",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39194,
+    53.9475,
+    -8.39194,
+    53.9475
+],
+  "geometry": {"coordinates":[-8.39194,53.9475],"type":"Point"}
+}

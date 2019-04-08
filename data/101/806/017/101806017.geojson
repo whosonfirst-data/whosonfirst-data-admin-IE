@@ -1,0 +1,94 @@
+{
+  "id": 101806017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":617622.600959,
+    "geom:bbox":"-9.7243914226,52.1393464701,-9.71086899196,52.1524641932",
+    "geom:latitude":52.144353,
+    "geom:longitude":-9.717847,
+    "gn:population":838,
+    "iso:country":"IE",
+    "lbl:latitude":52.143551,
+    "lbl:longitude":-9.716822,
+    "mps:latitude":52.143551,
+    "mps:longitude":-9.716822,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Milltown"
+    ],
+    "name:dut_x_preferred":[
+        "Milltown"
+    ],
+    "name:eng_x_preferred":[
+        "Milltown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Mhuilinn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0442\u0430\u0443\u043d"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kerry",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Milltown",
+    "qs:la_lc":"*IE2503077136",
+    "qs:level":"locality",
+    "qs:loc":"Milltown",
+    "qs:loc_alt":"Milltown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":294,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962611,
+        "gp:id":29387360,
+        "qs:id":7,
+        "wd:id":"Q3775678",
+        "wk:page":"Taverny"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"232787a680da9fc7050dfbb935d81b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806017,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":101806017,
+    "wof:lastmodified":1527715381,
+    "wof:name":"Milltown",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":838,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72439142260254,
+    52.13934647013764,
+    -9.71086899195518,
+    52.15246419316634
+],
+  "geometry": {"coordinates":[[[-9.71739279194168,52.15246419316634],[-9.71306992586261,52.14299690345683],[-9.71165467596421,52.14323797383224],[-9.71086899195518,52.14151661293664],[-9.71511455189687,52.14079338345022],[-9.71472166390629,52.13993271620535],[-9.71755191814145,52.13945048978513],[-9.71794485541989,52.14031114632047],[-9.72360529498798,52.13934647013764],[-9.72439142260254,52.14106773463891],[-9.72297628436519,52.14130893963727],[-9.72376243727712,52.14303020721889],[-9.72093202034659,52.14351258816066],[-9.72132507548179,52.14437322980285],[-9.71990982142802,52.14461440038826],[-9.72148212984882,52.14805696930563],[-9.7186513826523,52.14853930284301],[-9.71983066186965,52.15112124164318],[-9.71841519335879,52.15136239923737],[-9.71880829907673,52.15222304704656],[-9.71739279194168,52.15246419316634]]],"type":"Polygon"}
+}

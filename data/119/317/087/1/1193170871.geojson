@@ -1,0 +1,66 @@
+{
+  "id": 1193170871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.66194,52.2725,-9.66194,52.2725",
+    "geom:latitude":52.2725,
+    "geom:longitude":-9.66194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ballinorig",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3291059,
+    "gn:latitude":52.2725,
+    "gn:longitude":-9.66194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballinorig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291059
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ca98b5a6de2bfad464c80cf992719623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193170871,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1193170871,
+    "wof:lastmodified":1536380645,
+    "wof:name":"Ballinorig",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.66194,
+    52.2725,
+    -9.66194,
+    52.2725
+],
+  "geometry": {"coordinates":[-9.66194,52.2725],"type":"Point"}
+}

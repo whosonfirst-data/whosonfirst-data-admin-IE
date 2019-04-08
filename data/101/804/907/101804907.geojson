@@ -1,0 +1,113 @@
+{
+  "id": 101804907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":468025.851643,
+    "geom:bbox":"-6.39306825554,53.8920635519,-6.38003055941,53.9032709675",
+    "geom:latitude":53.898195,
+    "geom:longitude":-6.386492,
+    "gn:population":1035,
+    "iso:country":"IE",
+    "lbl:latitude":53.897892,
+    "lbl:longitude":-6.386492,
+    "mps:latitude":53.897892,
+    "mps:longitude":-6.386492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Castlebellingham"
+    ],
+    "name:dut_x_preferred":[
+        "Castlebellingham"
+    ],
+    "name:eng_x_preferred":[
+        "Castlebellingham"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Ghearl\u00e1naigh"
+    ],
+    "name:lit_x_preferred":[
+        "Kaslbelinheimas"
+    ],
+    "name:pol_x_preferred":[
+        "Castlebellingham"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0431\u0435\u043b\u043b\u0438\u043d\u0433\u0435\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Castlebellingham"
+    ],
+    "name:unk_x_variant":[
+        "Castlebellingham-Kilsaran"
+    ],
+    "name:wel_x_preferred":[
+        "Castlebellingham"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Louth",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Castlebellingham",
+    "qs:la_lc":"*IE1104147006",
+    "qs:level":"locality",
+    "qs:loc":"Castlebellingham",
+    "qs:loc_alt":"Castlebellingham",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":836,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117da9a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965653,
+        "gp:id":20073338,
+        "qs:id":1032154,
+        "wd:id":"Q5050462",
+        "wk:page":"Castlebellingham"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c7e171fb22cf9f41bfd27fcb917bb1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804907,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":101804907,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"Castlebellingham",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":1035,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.39306825553564,
+    53.8920635519454,
+    -6.38003055941226,
+    53.90327096745659
+],
+  "geometry": {"coordinates":[[[-6.38345138993418,53.89830530932676],[-6.38241064076169,53.89568953408997],[-6.38835874908125,53.89488135659224],[-6.38731781192644,53.89226562686838],[-6.38880471996731,53.8920635519454],[-6.39053984600741,53.89642307081874],[-6.39202688455401,53.89622095394066],[-6.39306825553564,53.89883663482232],[-6.39158113078617,53.89903876609264],[-6.39192826057916,53.899910661842],[-6.38597951515607,53.90071902635106],[-6.38632654742236,53.90159093995157],[-6.3818647640972,53.90219703896184],[-6.38221172755965,53.90306896561412],[-6.38072441141634,53.90327096745659],[-6.38003055941226,53.90152710322542],[-6.38151781806232,53.90132511097352],[-6.38047708451285,53.89870931899264],[-6.38345138993418,53.89830530932676]]],"type":"Polygon"}
+}

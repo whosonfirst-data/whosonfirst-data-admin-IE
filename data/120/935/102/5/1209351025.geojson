@@ -1,0 +1,66 @@
+{
+  "id": 1209351025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18728,53.58828,-6.18728,53.58828",
+    "geom:latitude":53.58828,
+    "geom:longitude":-6.18728,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35",
+    "gn:asciiname":"Balrothery",
+    "gn:country_code":"IE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966378,
+    "gn:latitude":53.58828,
+    "gn:longitude":-6.18728,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Balrothery",
+    "gn:population":1866,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966378,
+        "wk:page":"Balrothery"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"336b15575ba607236c0ca52d3b3be633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209351025
+        }
+    ],
+    "wof:id":1209351025,
+    "wof:lastmodified":1537564849,
+    "wof:name":"Balrothery",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":1866,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18728,
+    53.58828000000001,
+    -6.18728,
+    53.58828000000001
+],
+  "geometry": {"coordinates":[-6.18728,53.58828000000001],"type":"Point"}
+}

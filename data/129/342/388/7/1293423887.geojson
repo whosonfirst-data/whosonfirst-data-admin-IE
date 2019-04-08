@@ -1,0 +1,71 @@
+{
+  "id": 1293423887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.45833,52.94667,-9.45833,52.94667",
+    "geom:latitude":52.94667,
+    "geom:longitude":-9.45833,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Ballylaan",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966543,
+    "gn:latitude":52.94667,
+    "gn:longitude":-9.45833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ballylaan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballylaun",
+        "Ballylaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966543
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2d17086653721c79e28f89c7716389da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293423887,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293423887,
+    "wof:lastmodified":1537636757,
+    "wof:name":"Ballylaan",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.45833,
+    52.94667,
+    -9.45833,
+    52.94667
+],
+  "geometry": {"coordinates":[-9.45833,52.94667],"type":"Point"}
+}

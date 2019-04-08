@@ -1,0 +1,92 @@
+{
+  "id": 1125293721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.72136,51.69405,-9.72136,51.69405",
+    "geom:latitude":51.69405,
+    "geom:longitude":-9.72136,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.69405,
+    "lbl:longitude":-9.72136,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Adrigole"
+    ],
+    "name:gle_x_preferred":[
+        "Eadarg\u00f3il"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2967070,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Adrigole",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":145,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":426074,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071481,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967070,
+        "gp:id":20071481,
+        "qs_pg:id":426074
+    },
+    "wof:country":"IE",
+    "wof:created":1497043045,
+    "wof:geomhash":"e73e6baf84b5650bd10d139bb4e95842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125293721,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125293721,
+    "wof:lastmodified":1509387580,
+    "wof:name":"Adrigole",
+    "wof:parent_id":85684963,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.72136,
+    51.69405,
+    -9.72136,
+    51.69405
+],
+  "geometry": {"coordinates":[-9.72136,51.69405],"type":"Point"}
+}

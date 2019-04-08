@@ -1,0 +1,66 @@
+{
+  "id": 1344188047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.12111,54.10556,-9.12111,54.10556",
+    "geom:latitude":54.10556,
+    "geom:longitude":-9.12111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Rathkip",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315910,
+    "gn:latitude":54.10556,
+    "gn:longitude":-9.12111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rathkip",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315910
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ea24bdc844a7eca946d3ab7a818ae45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344188047,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1344188047,
+    "wof:lastmodified":1536691740,
+    "wof:name":"Rathkip",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.12111,
+    54.10556,
+    -9.12111,
+    54.10556
+],
+  "geometry": {"coordinates":[-9.12111,54.10556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344090669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.0937,53.85796,-9.0937,53.85796",
+    "geom:latitude":53.85796,
+    "geom:longitude":-9.0937,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Sraheens",
+    "gn:country_code":"IE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315827,
+    "gn:latitude":53.85796,
+    "gn:longitude":-9.0937,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sraheens",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sraheens"
+    ],
+    "name:gle_x_preferred":[
+        "Na Sraith\u00edn\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315827
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"50c653a31cc512cd14e147f020ed654f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344090669,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1344090669,
+    "wof:lastmodified":1537636786,
+    "wof:name":"Sraheens",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.0937,
+    53.85796,
+    -9.0937,
+    53.85796
+],
+  "geometry": {"coordinates":[-9.0937,53.85796],"type":"Point"}
+}

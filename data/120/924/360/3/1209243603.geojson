@@ -1,0 +1,63 @@
+{
+  "id": 1209243603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.52667,52.34222,-8.52667,52.34222",
+    "geom:latitude":52.34222,
+    "geom:longitude":-8.52667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Ardpatrick",
+    "gn:country_code":"IE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966900,
+    "gn:latitude":52.34222,
+    "gn:longitude":-8.52667,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ardpatrick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966900,
+        "wk:page":"Ardpatrick"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9d2b332082b0cc62b072213584b9f646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209243603
+        }
+    ],
+    "wof:id":1209243603,
+    "wof:lastmodified":1537564851,
+    "wof:name":"Ardpatrick",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.52667,
+    52.34222000000001,
+    -8.52667,
+    52.34222000000001
+],
+  "geometry": {"coordinates":[-8.52667,52.34222000000001],"type":"Point"}
+}

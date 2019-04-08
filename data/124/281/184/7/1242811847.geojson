@@ -1,0 +1,72 @@
+{
+  "id": 1242811847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95558,54.21198,-9.95558,54.21198",
+    "geom:latitude":54.21198,
+    "geom:longitude":-9.95558,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Alliconaun",
+    "gn:country_code":"IE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805992,
+    "gn:latitude":54.21198,
+    "gn:longitude":-9.95558,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Alliconaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alliconaun"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1il Ti Con\u00e1in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805992
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1ab8974c6aae79ebeb68c2231d4d62f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242811847,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1242811847,
+    "wof:lastmodified":1537636794,
+    "wof:name":"Alliconaun",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95558,
+    54.21198,
+    -9.95558,
+    54.21198
+],
+  "geometry": {"coordinates":[-9.95558,54.21198],"type":"Point"}
+}

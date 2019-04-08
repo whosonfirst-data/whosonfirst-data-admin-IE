@@ -1,0 +1,66 @@
+{
+  "id": 1310139613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09722,54.00833,-8.09722,54.00833",
+    "geom:latitude":54.00833,
+    "geom:longitude":-8.09722,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Drumboylan",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310846,
+    "gn:latitude":54.00833,
+    "gn:longitude":-8.09722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Drumboylan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310846
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6f4e882132105465fda3b67e37a7269c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310139613,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1310139613,
+    "wof:lastmodified":1536947695,
+    "wof:name":"Drumboylan",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09722,
+    54.00833000000001,
+    -8.09722,
+    54.00833000000001
+],
+  "geometry": {"coordinates":[-8.09722,54.00833000000001],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125981751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.63333,52.06667,-9.63333,52.06667",
+    "geom:latitude":52.06667,
+    "geom:longitude":-9.63333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":228,
+    "iso:country":"IE",
+    "lbl:latitude":52.06667,
+    "lbl:longitude":-9.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Beaufort"
+    ],
+    "name:eng_x_preferred":[
+        "Beaufort"
+    ],
+    "name:ger_x_preferred":[
+        "Beaufort"
+    ],
+    "name:gle_x_preferred":[
+        "Lios an Ph\u00faca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0648\u0641\u0648\u0631\u0679\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u06cc\u0631\u06cc"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966272,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Beaufort",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":100,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":100,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559895,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966272,
+        "gp:id":559895,
+        "qs_pg:id":1156413,
+        "wd:id":"Q4877451"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298590,
+    "wof:geomhash":"f2664a95cff58d652019bc8454876e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125981751,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125981751,
+    "wof:lastmodified":1514450424,
+    "wof:name":"Beaufort",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":228,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.63333,
+    52.06667,
+    -9.63333,
+    52.06667
+],
+  "geometry": {"coordinates":[-9.63333,52.06667],"type":"Point"}
+}

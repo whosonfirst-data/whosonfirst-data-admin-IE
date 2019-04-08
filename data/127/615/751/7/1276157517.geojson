@@ -1,0 +1,66 @@
+{
+  "id": 1276157517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20498,53.70291,-8.20498,53.70291",
+    "geom:latitude":53.70291,
+    "geom:longitude":-8.20498,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Four Mile House",
+    "gn:country_code":"IE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964234,
+    "gn:latitude":53.70291,
+    "gn:longitude":-8.20498,
+    "gn:modification_date":"2011-05-25",
+    "gn:name":"Four Mile House",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964234
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a382ae211cb462a49b8023b1dc14a710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276157517,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1276157517,
+    "wof:lastmodified":1537013687,
+    "wof:name":"Four Mile House",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20498,
+    53.70291,
+    -8.20498,
+    53.70291
+],
+  "geometry": {"coordinates":[-8.20498,53.70291],"type":"Point"}
+}

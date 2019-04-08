@@ -1,0 +1,74 @@
+{
+  "id": 101853147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.653867,51.953068,-8.653867,51.953068",
+    "geom:latitude":51.953068,
+    "geom:longitude":-8.653867,
+    "iso:country":"IE",
+    "lbl:latitude":51.953068,
+    "lbl:longitude":-8.653867,
+    "mps:latitude":51.953068,
+    "mps:longitude":-8.653867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cork",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Matehy",
+    "qs:loc_alt":"Matehy",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3291993,
+        "gp:id":91487398,
+        "qs:id":9
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"24ab0ce3ec88a5fa5ac3dc25bc773918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101853147,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":101853147,
+    "wof:lastmodified":1544742219,
+    "wof:name":"Matehy",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.653867,
+    51.953068,
+    -8.653867,
+    51.953068
+],
+  "geometry": {"coordinates":[-8.653867,51.953068],"type":"Point"}
+}

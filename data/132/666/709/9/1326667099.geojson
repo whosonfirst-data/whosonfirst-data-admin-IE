@@ -1,0 +1,66 @@
+{
+  "id": 1326667099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.66111,52.48694,-6.66111,52.48694",
+    "geom:latitude":52.48694,
+    "geom:longitude":-6.66111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"The Leap",
+    "gn:country_code":"IE",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302652,
+    "gn:latitude":52.48694,
+    "gn:longitude":-6.66111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"The Leap",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302652
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8299413b3e9d75b78548328d8842f9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326667099,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1326667099,
+    "wof:lastmodified":1536789929,
+    "wof:name":"The Leap",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.66111,
+    52.48694,
+    -6.66111,
+    52.48694
+],
+  "geometry": {"coordinates":[-6.66111,52.48694],"type":"Point"}
+}

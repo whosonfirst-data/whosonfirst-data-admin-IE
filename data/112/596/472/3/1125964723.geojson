@@ -1,0 +1,109 @@
+{
+  "id": 1125964723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34417,52.01139,-8.34417,52.01139",
+    "geom:latitude":52.01139,
+    "geom:longitude":-8.34417,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1161,
+    "iso:country":"IE",
+    "lbl:latitude":52.01139,
+    "lbl:longitude":-8.34417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Watergrasshill"
+    ],
+    "name:dut_x_preferred":[
+        "Watergrasshill"
+    ],
+    "name:eng_x_preferred":[
+        "Watergrasshill"
+    ],
+    "name:gle_x_preferred":[
+        "Cnoc\u00e1n na Biolra\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u0442\u0435\u0440\u0433\u0440\u0430\u0441\u0445\u0438\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Watergrasshill"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2960987,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Watergrasshill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":381,
+    "qs_pg:photos_1k":77,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":381,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1253024,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562478,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960987,
+        "gp:id":562478,
+        "qs_pg:id":1253024,
+        "wd:id":"Q3776348"
+    },
+    "wof:country":"IE",
+    "wof:created":1497297929,
+    "wof:geomhash":"9664a1911ce6607a8b9095c6edad8e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125964723,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125964723,
+    "wof:lastmodified":1514450679,
+    "wof:name":"Watergrasshill",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":1161,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34417,
+    52.01139,
+    -8.34417,
+    52.01139
+],
+  "geometry": {"coordinates":[-8.34417,52.01139],"type":"Point"}
+}

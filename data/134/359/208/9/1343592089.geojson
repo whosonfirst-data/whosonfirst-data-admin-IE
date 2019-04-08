@@ -1,0 +1,66 @@
+{
+  "id": 1343592089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48972,52.57722,-6.48972,52.57722",
+    "geom:latitude":52.57722,
+    "geom:longitude":-6.48972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Dornan's Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3304410,
+    "gn:latitude":52.57722,
+    "gn:longitude":-6.48972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dornan\u2019s Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3304410
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bc9adee6725e26c46046a2f4db1cbed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343592089,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1343592089,
+    "wof:lastmodified":1537051673,
+    "wof:name":"Dornan's Bridge",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48972,
+    52.57722,
+    -6.48972,
+    52.57722
+],
+  "geometry": {"coordinates":[-6.48972,52.57722],"type":"Point"}
+}

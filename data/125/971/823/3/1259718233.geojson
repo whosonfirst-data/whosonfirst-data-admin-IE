@@ -1,0 +1,64 @@
+{
+  "id": 1259718233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13444,53.18639,-6.13444,53.18639",
+    "geom:latitude":53.18639,
+    "geom:longitude":-6.13444,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Killbride",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315171,
+    "gn:latitude":53.18639,
+    "gn:longitude":-6.13444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killbride",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315171
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e04453e32a60d549b3055807739a4445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1259718233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259718233,
+    "wof:lastmodified":1537016300,
+    "wof:name":"Killbride",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13444,
+    53.18639,
+    -6.13444,
+    53.18639
+],
+  "geometry": {"coordinates":[-6.13444,53.18639],"type":"Point"}
+}

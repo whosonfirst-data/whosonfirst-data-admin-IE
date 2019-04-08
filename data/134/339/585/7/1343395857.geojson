@@ -1,0 +1,72 @@
+{
+  "id": 1343395857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.64756,53.74899,-6.64756,53.74899",
+    "geom:latitude":53.74899,
+    "geom:longitude":-6.64756,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Rathkenny",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961904,
+    "gn:latitude":53.74899,
+    "gn:longitude":-6.64756,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Rathkenny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rathkenny"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Cheannaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961904
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a06199cdeae8335135a85783a22e77a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343395857,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343395857,
+    "wof:lastmodified":1537636724,
+    "wof:name":"Rathkenny",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.64756,
+    53.74899,
+    -6.64756,
+    53.74899
+],
+  "geometry": {"coordinates":[-6.64756,53.74899],"type":"Point"}
+}

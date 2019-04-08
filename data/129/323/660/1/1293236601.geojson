@@ -1,0 +1,66 @@
+{
+  "id": 1293236601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.16222,52.58139,-9.16222,52.58139",
+    "geom:latitude":52.58139,
+    "geom:longitude":-9.16222,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Knocknabooly",
+    "gn:country_code":"IE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310119,
+    "gn:latitude":52.58139,
+    "gn:longitude":-9.16222,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Knocknabooly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310119
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"924191518eeb5cbf46626d77e7fb8943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293236601,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1293236601,
+    "wof:lastmodified":1536651601,
+    "wof:name":"Knocknabooly",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.16222,
+    52.58139,
+    -9.16222,
+    52.58139
+],
+  "geometry": {"coordinates":[-9.16222,52.58139],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209450793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.61028,51.74444,-8.61028,51.74444",
+    "geom:latitude":51.74444,
+    "geom:longitude":-8.61028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballydonaghy Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3293878,
+    "gn:latitude":51.74444,
+    "gn:longitude":-8.61028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballydonaghy Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293878
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"518a1cad0acfcd3f6282fe7fb4ff1ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209450793
+        }
+    ],
+    "wof:id":1209450793,
+    "wof:lastmodified":1536286678,
+    "wof:name":"Ballydonaghy Cross Roads",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.61028,
+    51.74444,
+    -8.61028,
+    51.74444
+],
+  "geometry": {"coordinates":[-8.61028,51.74444],"type":"Point"}
+}

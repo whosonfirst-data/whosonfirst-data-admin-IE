@@ -1,0 +1,71 @@
+{
+  "id": 1226078765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91583,54.32667,-6.91583,54.32667",
+    "geom:latitude":54.32667,
+    "geom:longitude":-6.91583,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Glennan",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964018,
+    "gn:latitude":54.32667,
+    "gn:longitude":-6.91583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glennan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glannan",
+        "Glennan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964018
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"396694fb8f9f735e0cfc27dc2bbc26e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226078765,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1226078765,
+    "wof:lastmodified":1537636738,
+    "wof:name":"Glennan",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91583,
+    54.32666999999999,
+    -6.91583,
+    54.32666999999999
+],
+  "geometry": {"coordinates":[-6.91583,54.32666999999999],"type":"Point"}
+}

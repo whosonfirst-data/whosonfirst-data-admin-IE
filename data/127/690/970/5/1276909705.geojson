@@ -1,0 +1,76 @@
+{
+  "id": 1276909705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34917,52.46389,-8.34917,52.46389",
+    "geom:latitude":52.46389,
+    "geom:longitude":-8.34917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Emly",
+    "gn:country_code":"IE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964411,
+    "gn:latitude":52.46389,
+    "gn:longitude":-8.34917,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Emly",
+    "gn:population":348,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Emly"
+    ],
+    "name:gle_x_preferred":[
+        "Imleach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964411,
+        "wk:page":"Emly"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"93f3daad874032579ce2305c9053c3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276909705,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276909705,
+    "wof:lastmodified":1537636741,
+    "wof:name":"Emly",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34917,
+    52.46389,
+    -8.34917,
+    52.46389
+],
+  "geometry": {"coordinates":[-8.34917,52.46389],"type":"Point"}
+}

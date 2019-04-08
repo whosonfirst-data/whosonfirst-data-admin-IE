@@ -1,0 +1,70 @@
+{
+  "id": 1310036945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09593,54.02057,-9.09593,54.02057",
+    "geom:latitude":54.02057,
+    "geom:longitude":-9.09593,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Corradrishy",
+    "gn:country_code":"IE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965122,
+    "gn:latitude":54.02057,
+    "gn:longitude":-9.09593,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Corradrishy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrowdrisky",
+        "Corradrishy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965122
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d5470ff4f4b1aaf72a059a9a318f7e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310036945,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1310036945,
+    "wof:lastmodified":1537636746,
+    "wof:name":"Corradrishy",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09593,
+    54.02056999999999,
+    -9.09593,
+    54.02056999999999
+],
+  "geometry": {"coordinates":[-9.09593,54.02056999999999],"type":"Point"}
+}

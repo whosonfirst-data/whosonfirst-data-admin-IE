@@ -1,0 +1,76 @@
+{
+  "id": 1310141501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26173,51.65962,-9.26173,51.65962",
+    "geom:latitude":51.65962,
+    "geom:longitude":-9.26173,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Drimoleague",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964671,
+    "gn:latitude":51.65962,
+    "gn:longitude":-9.26173,
+    "gn:modification_date":"2013-11-22",
+    "gn:name":"Drimoleague",
+    "gn:population":468,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drimoleague"
+    ],
+    "name:gle_x_preferred":[
+        "Drom dh\u00e1 Liag"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964671,
+        "wk:page":"Drimoleague"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"95a43d9b8efb27684b70eab7de24e3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310141501,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1310141501,
+    "wof:lastmodified":1537636743,
+    "wof:name":"Drimoleague",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":468,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26173,
+    51.65962,
+    -9.26173,
+    51.65962
+],
+  "geometry": {"coordinates":[-9.26173,51.65962],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 101805997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:area_square_m":727158.857257,
+    "geom:bbox":"-8.72426735878,52.515381883,-8.70860006127,52.5289109095",
+    "geom:latitude":52.52153,
+    "geom:longitude":-8.716615,
+    "gn:population":1157,
+    "iso:country":"IE",
+    "lbl:latitude":52.519738,
+    "lbl:longitude":-8.716615,
+    "mps:latitude":52.519738,
+    "mps:longitude":-8.716615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Croom"
+    ],
+    "name:dut_x_preferred":[
+        "Croom"
+    ],
+    "name:eng_x_preferred":[
+        "Croom"
+    ],
+    "name:fre_x_preferred":[
+        "Croom"
+    ],
+    "name:gle_x_preferred":[
+        "Cromadh"
+    ],
+    "name:lit_x_preferred":[
+        "Krumas"
+    ],
+    "name:pol_x_preferred":[
+        "Croom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Croom"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Croom",
+    "qs:la_lc":"*IE2303127054",
+    "qs:level":"locality",
+    "qs:loc":"Croom",
+    "qs:loc_alt":"Croom",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d8562-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2964999,
+        "gp:id":20073172,
+        "qs:id":1103021,
+        "wd:id":"Q2670286",
+        "wk:page":"Croom, County Limerick"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3238d458e5d80ba073a4e54732235355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805997,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101805997,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1514450478,
+    "wof:name":"Croom",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":1157,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.72426735877957,
+    52.5153818830417,
+    -8.70860006126844,
+    52.5289109094806
+],
+  "geometry": {"coordinates":[[[-8.71154347939182,52.5289109094806],[-8.71116552936854,52.52804662491934],[-8.70973372539981,52.52827591212701],[-8.70860006126844,52.52568303253776],[-8.71289520159598,52.52499516615097],[-8.7125172730037,52.52413088500816],[-8.71538058049032,52.52367223224172],[-8.71424674998497,52.521079409457],[-8.71138359624962,52.52153803118995],[-8.71100574033511,52.52067374312071],[-8.709574168654,52.52090302316174],[-8.70881856256892,52.51917443148693],[-8.71311308300648,52.51848657108383],[-8.71273523034733,52.51762228816233],[-8.71846096439316,52.51670492222962],[-8.71808302743392,52.51584065826324],[-8.72094576147884,52.5153818830417],[-8.72132374966418,52.51624613666257],[-8.72275512185922,52.51601671822988],[-8.72426735877957,52.51947369468462],[-8.71997289392993,52.52016196076607],[-8.72035092174514,52.52102621606792],[-8.71891938058184,52.52125560906654],[-8.7200534962177,52.52384838009465],[-8.72148511424672,52.52361897157436],[-8.72186321476943,52.52448321994291],[-8.72043157111665,52.52471263363805],[-8.72118777545251,52.52644113552526],[-8.71975606691296,52.52667054246638],[-8.72051229271716,52.52839904777056],[-8.71908051928415,52.52862844795692],[-8.71756824291037,52.52517140971867],[-8.71184142291673,52.52608875663441],[-8.71297529536338,52.52868159999451],[-8.71154347939182,52.5289109094806]]],"type":"Polygon"}
+}

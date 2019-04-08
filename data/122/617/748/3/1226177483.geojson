@@ -1,0 +1,72 @@
+{
+  "id": 1226177483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80611,51.86472,-8.80611,51.86472",
+    "geom:latitude":51.86472,
+    "geom:longitude":-8.80611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Farnanes Cross Roads",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964356,
+    "gn:latitude":51.86472,
+    "gn:longitude":-8.80611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Farnanes Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Fearn\u00e1in",
+        "Farnanes",
+        "Farnanes Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964356
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"97453834abae4abaeea4e2509b5d7b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226177483,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226177483,
+    "wof:lastmodified":1537636741,
+    "wof:name":"Farnanes Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80611,
+    51.86472,
+    -8.80611,
+    51.86472
+],
+  "geometry": {"coordinates":[-8.80611,51.86472],"type":"Point"}
+}

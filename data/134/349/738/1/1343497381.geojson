@@ -1,0 +1,66 @@
+{
+  "id": 1343497381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.16278,53.03472,-7.16278,53.03472",
+    "geom:latitude":53.03472,
+    "geom:longitude":-7.16278,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Buddock Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314221,
+    "gn:latitude":53.03472,
+    "gn:longitude":-7.16278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Buddock Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314221
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7f2f8ac8e19f6c9e4135ec749b7bb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343497381,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1343497381,
+    "wof:lastmodified":1536693023,
+    "wof:name":"Buddock Cross Roads",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.16278,
+    53.03471999999999,
+    -7.16278,
+    53.03471999999999
+],
+  "geometry": {"coordinates":[-7.16278,53.03471999999999],"type":"Point"}
+}

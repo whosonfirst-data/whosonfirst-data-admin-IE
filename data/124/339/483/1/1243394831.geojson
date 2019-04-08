@@ -1,0 +1,66 @@
+{
+  "id": 1243394831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.60528,53.99,-6.60528,53.99",
+    "geom:latitude":53.99,
+    "geom:longitude":-6.60528,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Drumnagrella",
+    "gn:country_code":"IE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309713,
+    "gn:latitude":53.99,
+    "gn:longitude":-6.60528,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Drumnagrella",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309713
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b7ca02a0f6361574c6730053f76290a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243394831,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1243394831,
+    "wof:lastmodified":1536879299,
+    "wof:name":"Drumnagrella",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.60528,
+    53.99,
+    -6.60528,
+    53.99
+],
+  "geometry": {"coordinates":[-6.60528,53.99],"type":"Point"}
+}

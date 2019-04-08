@@ -1,0 +1,67 @@
+{
+  "id": 1242713773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.5675,52.79194,-7.5675,52.79194",
+    "geom:latitude":52.79194,
+    "geom:longitude":-7.5675,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Galmoy",
+    "gn:country_code":"IE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964184,
+    "gn:latitude":52.79194,
+    "gn:longitude":-7.5675,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Galmoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964184,
+        "wk:page":"Galmoy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8b0e1eb196304d92ee5cc6bcbfdcdcdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242713773,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1242713773,
+    "wof:lastmodified":1537564844,
+    "wof:name":"Galmoy",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.5675,
+    52.79194,
+    -7.5675,
+    52.79194
+],
+  "geometry": {"coordinates":[-7.5675,52.79194],"type":"Point"}
+}

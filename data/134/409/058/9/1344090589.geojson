@@ -1,0 +1,66 @@
+{
+  "id": 1344090589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.62639,54.93583,-7.62639,54.93583",
+    "geom:latitude":54.93583,
+    "geom:longitude":-7.62639,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Leslie Hill",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309267,
+    "gn:latitude":54.93583,
+    "gn:longitude":-7.62639,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Leslie Hill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309267
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"74bfe8cbd22df12c1f7210a4815e7add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344090589,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1344090589,
+    "wof:lastmodified":1536831224,
+    "wof:name":"Leslie Hill",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.62639,
+    54.93583,
+    -7.62639,
+    54.93583
+],
+  "geometry": {"coordinates":[-7.62639,54.93583],"type":"Point"}
+}

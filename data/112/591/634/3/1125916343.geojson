@@ -1,0 +1,121 @@
+{
+  "id": 1125916343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19944,54.06806,-8.19944,54.06806",
+    "geom:latitude":54.06806,
+    "geom:longitude":-8.19944,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":205,
+    "iso:country":"IE",
+    "lbl:latitude":54.06806,
+    "lbl:longitude":-8.19944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballyfarnon"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0444\u0430\u0440\u043d\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyfarnan"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyfarnan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10e4\u10d0\u10e0\u10dc\u10d0\u10dc\u10d8"
+    ],
+    "name:gla_x_preferred":[
+        "B\u00e9al \u00c1tha Fearn\u00e1in"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha Fearn\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0444\u0430\u0440\u043d\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyfarnan"
+    ],
+    "name:unk_x_variant":[
+        "Ballyfarnon"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966596,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballyfarnan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Roscommon",
+    "qs_pg:photos":96,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":96,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":982951,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Roscommon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966596,
+        "gp:id":559699,
+        "qs_pg:id":982951,
+        "wd:id":"Q1824751"
+    },
+    "wof:country":"IE",
+    "wof:created":1497296326,
+    "wof:geomhash":"206d2a03e1377abdef4259f8c582594f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125916343,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1125916343,
+    "wof:lastmodified":1514450418,
+    "wof:name":"Ballyfarnan",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":205,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19944,
+    54.06806,
+    -8.19944,
+    54.06806
+],
+  "geometry": {"coordinates":[-8.19944,54.06806],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327064213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58056,52.415,-8.58056,52.415",
+    "geom:latitude":52.415,
+    "geom:longitude":-8.58056,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Ballycullane",
+    "gn:country_code":"IE",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309971,
+    "gn:latitude":52.415,
+    "gn:longitude":-8.58056,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballycullane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309971
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ae123446174e4a5fec25ecce507a7a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327064213,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1327064213,
+    "wof:lastmodified":1536714890,
+    "wof:name":"Ballycullane",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58056,
+    52.415,
+    -8.58056,
+    52.415
+],
+  "geometry": {"coordinates":[-8.58056,52.415],"type":"Point"}
+}

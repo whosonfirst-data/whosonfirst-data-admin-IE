@@ -1,0 +1,72 @@
+{
+  "id": 1209849427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.3075,52.20222,-10.3075,52.20222",
+    "geom:latitude":52.20222,
+    "geom:longitude":-10.3075,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ballinloghig",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298558,
+    "gn:latitude":52.20222,
+    "gn:longitude":-10.3075,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Ballinloghig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballinloghig"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Lochaigh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298558
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b50cef42cea865d6a9c1465764a0b2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209849427,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1209849427,
+    "wof:lastmodified":1537636766,
+    "wof:name":"Ballinloghig",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.3075,
+    52.20222,
+    -10.3075,
+    52.20222
+],
+  "geometry": {"coordinates":[-10.3075,52.20222],"type":"Point"}
+}

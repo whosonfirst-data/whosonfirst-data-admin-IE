@@ -1,0 +1,66 @@
+{
+  "id": 1243485633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1625,52.67944,-8.1625,52.67944",
+    "geom:latitude":52.67944,
+    "geom:longitude":-8.1625,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Anglesry Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3305986,
+    "gn:latitude":52.67944,
+    "gn:longitude":-8.1625,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Anglesry Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3305986
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"13f26b54924a824fbe90d2c89315093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243485633,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1243485633,
+    "wof:lastmodified":1536748922,
+    "wof:name":"Anglesry Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1625,
+    52.67944,
+    -8.1625,
+    52.67944
+],
+  "geometry": {"coordinates":[-8.1625,52.67944],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276796109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.05639,53.38639,-9.05639,53.38639",
+    "geom:latitude":53.38639,
+    "geom:longitude":-9.05639,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Coteeny",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312464,
+    "gn:latitude":53.38639,
+    "gn:longitude":-9.05639,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Coteeny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312464
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a09b4af994dee825389e563a120ab580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276796109,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1276796109,
+    "wof:lastmodified":1536655983,
+    "wof:name":"Coteeny",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.05639,
+    53.38639000000001,
+    -9.05639,
+    53.38639000000001
+],
+  "geometry": {"coordinates":[-9.05639,53.38639000000001],"type":"Point"}
+}

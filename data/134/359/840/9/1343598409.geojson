@@ -1,0 +1,79 @@
+{
+  "id": 1343598409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10639,52.67167,-9.10639,52.67167",
+    "geom:latitude":52.67167,
+    "geom:longitude":-9.10639,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Killadysert",
+    "gn:country_code":"IE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963385,
+    "gn:latitude":52.67167,
+    "gn:longitude":-9.10639,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Killadysert",
+    "gn:population":378,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Killadysert"
+    ],
+    "name:gle_x_preferred":[
+        "Cill an D\u00edsirt"
+    ],
+    "name:und_x_variant":[
+        "Kildysart"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963385,
+        "wk:page":"Kildysart"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"75116e10501db2d35adb632646f17c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343598409,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1343598409,
+    "wof:lastmodified":1537636734,
+    "wof:name":"Killadysert",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":378,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10639,
+    52.67167,
+    -9.10639,
+    52.67167
+],
+  "geometry": {"coordinates":[-9.10639,52.67167],"type":"Point"}
+}

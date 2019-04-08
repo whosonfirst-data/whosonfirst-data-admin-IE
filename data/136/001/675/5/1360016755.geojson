@@ -1,0 +1,72 @@
+{
+  "id": 1360016755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.20806,52.23972,-10.20806,52.23972",
+    "geom:latitude":52.23972,
+    "geom:longitude":-10.20806,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Faha",
+    "gn:country_code":"IE",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298569,
+    "gn:latitude":52.23972,
+    "gn:longitude":-10.20806,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Faha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Faha"
+    ],
+    "name:gle_x_preferred":[
+        "An Fhaiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298569
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d1eb3c4d8e936b061a8e48811c1f9ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360016755,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1360016755,
+    "wof:lastmodified":1537636767,
+    "wof:name":"Faha",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.20806,
+    52.23972,
+    -10.20806,
+    52.23972
+],
+  "geometry": {"coordinates":[-10.20806,52.23972],"type":"Point"}
+}

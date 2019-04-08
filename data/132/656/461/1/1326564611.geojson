@@ -1,0 +1,67 @@
+{
+  "id": 1326564611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.31944,54.41111,-8.31944,54.41111",
+    "geom:latitude":54.41111,
+    "geom:longitude":-8.31944,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Largydonnell",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963021,
+    "gn:latitude":54.41111,
+    "gn:longitude":-8.31944,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Largydonnell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963021,
+        "wk:page":"Largydonnell"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5f2cbad3fabe294b3804cbfed5da32cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326564611,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1326564611,
+    "wof:lastmodified":1537564841,
+    "wof:name":"Largydonnell",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.31944,
+    54.41111,
+    -8.31944,
+    54.41111
+],
+  "geometry": {"coordinates":[-8.31944,54.41111],"type":"Point"}
+}

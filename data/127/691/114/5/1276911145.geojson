@@ -1,0 +1,66 @@
+{
+  "id": 1276911145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.78861,52.70972,-7.78861,52.70972",
+    "geom:latitude":52.70972,
+    "geom:longitude":-7.78861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Rossestown",
+    "gn:country_code":"IE",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307890,
+    "gn:latitude":52.70972,
+    "gn:longitude":-7.78861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rossestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307890
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"feca35b3bee4c34764ce529855606a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276911145,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276911145,
+    "wof:lastmodified":1536998471,
+    "wof:name":"Rossestown",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.78861,
+    52.70972,
+    -7.78861,
+    52.70972
+],
+  "geometry": {"coordinates":[-7.78861,52.70972],"type":"Point"}
+}

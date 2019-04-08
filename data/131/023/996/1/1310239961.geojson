@@ -1,0 +1,66 @@
+{
+  "id": 1310239961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55167,54.62333,-8.55167,54.62333",
+    "geom:latitude":54.62333,
+    "geom:longitude":-8.55167,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Croaghbeg",
+    "gn:country_code":"IE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308786,
+    "gn:latitude":54.62333,
+    "gn:longitude":-8.55167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Croaghbeg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308786
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d3364b559011ddb2e6392537d7b04e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310239961,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1310239961,
+    "wof:lastmodified":1536802454,
+    "wof:name":"Croaghbeg",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55167,
+    54.62333,
+    -8.55167,
+    54.62333
+],
+  "geometry": {"coordinates":[-8.55167,54.62333],"type":"Point"}
+}

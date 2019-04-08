@@ -1,0 +1,66 @@
+{
+  "id": 1292940763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.745,53.16056,-8.745,53.16056",
+    "geom:latitude":53.16056,
+    "geom:longitude":-8.745,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Moneen East",
+    "gn:country_code":"IE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312312,
+    "gn:latitude":53.16056,
+    "gn:longitude":-8.745,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Moneen East",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312312
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0a780ad70bf166350b2cfd3e0e31df21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292940763,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1292940763,
+    "wof:lastmodified":1537075167,
+    "wof:name":"Moneen East",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.745,
+    53.16056,
+    -8.745,
+    53.16056
+],
+  "geometry": {"coordinates":[-8.745,53.16056],"type":"Point"}
+}

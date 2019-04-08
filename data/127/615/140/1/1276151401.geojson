@@ -1,0 +1,66 @@
+{
+  "id": 1276151401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.71444,53.19083,-7.71444,53.19083",
+    "geom:latitude":53.19083,
+    "geom:longitude":-7.71444,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Derrydolney",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313820,
+    "gn:latitude":53.19083,
+    "gn:longitude":-7.71444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Derrydolney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313820
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2ab34f7d45bb2dc6ea8e13da288c3782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276151401,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1276151401,
+    "wof:lastmodified":1537021643,
+    "wof:name":"Derrydolney",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.71444,
+    53.19083000000001,
+    -7.71444,
+    53.19083000000001
+],
+  "geometry": {"coordinates":[-7.71444,53.19083000000001],"type":"Point"}
+}

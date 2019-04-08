@@ -1,0 +1,125 @@
+{
+  "id": 1125948703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.28333,51.8,-10.28333,51.8",
+    "geom:latitude":51.8,
+    "geom:longitude":-10.28333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.8,
+    "lbl:longitude":-10.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Baile na Sceilge"
+    ],
+    "name:bre_x_preferred":[
+        "Baile an Sceilg"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u0441\u043a\u0435\u043b\u0438\u0433\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Baile an Sceilg"
+    ],
+    "name:dut_x_preferred":[
+        "Baile na Sceilge"
+    ],
+    "name:eng_x_preferred":[
+        "Ballinskelligs"
+    ],
+    "name:fre_x_preferred":[
+        "Baile na Sceilge"
+    ],
+    "name:ger_x_preferred":[
+        "Ballinskelligs"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Sceilg"
+    ],
+    "name:glg_x_preferred":[
+        "Ballinskelligs - Baile an Sceilg"
+    ],
+    "name:por_x_preferred":[
+        "Ballinskelligs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0441\u043a\u0435\u043b\u043b\u0438\u0433\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinskelligs"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinskelligs"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966711,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballinskelligs",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":342,
+    "qs_pg:photos_1k":69,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":342,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1335964,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966711,
+        "gp:id":559621,
+        "qs_pg:id":1335964,
+        "wd:id":"Q2474158"
+    },
+    "wof:country":"IE",
+    "wof:created":1497297379,
+    "wof:geomhash":"d839860498a545da804836493c4b2306",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125948703,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125948703,
+    "wof:lastmodified":1514450416,
+    "wof:name":"Ballinskelligs",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.28333,
+    51.8,
+    -10.28333,
+    51.8
+],
+  "geometry": {"coordinates":[-10.28333,51.8],"type":"Point"}
+}

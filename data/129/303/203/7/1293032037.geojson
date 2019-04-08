@@ -1,0 +1,73 @@
+{
+  "id": 1293032037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.08806,53.26167,-7.08806,53.26167",
+    "geom:latitude":53.26167,
+    "geom:longitude":-7.08806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Clonbulloge",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965389,
+    "gn:latitude":53.26167,
+    "gn:longitude":-7.08806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Clonbulloge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Clonbulloge"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Bolg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965389
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5a730bdbeace5851f1cad741322fbe5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293032037,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1293032037,
+    "wof:lastmodified":1537636748,
+    "wof:name":"Clonbulloge",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.08806,
+    53.26167,
+    -7.08806,
+    53.26167
+],
+  "geometry": {"coordinates":[-7.08806,53.26167],"type":"Point"}
+}

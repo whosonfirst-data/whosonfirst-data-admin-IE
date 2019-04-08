@@ -1,0 +1,66 @@
+{
+  "id": 1259514349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.71028,51.81306,-8.71028,51.81306",
+    "geom:latitude":51.81306,
+    "geom:longitude":-8.71028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Tuough Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294147,
+    "gn:latitude":51.81306,
+    "gn:longitude":-8.71028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tuough Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294147
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f09f601e511f76dd361af29b5240a057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259514349,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259514349,
+    "wof:lastmodified":1536813876,
+    "wof:name":"Tuough Bridge",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.71028,
+    51.81306,
+    -8.71028,
+    51.81306
+],
+  "geometry": {"coordinates":[-8.71028,51.81306],"type":"Point"}
+}

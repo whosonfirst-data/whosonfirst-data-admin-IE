@@ -1,0 +1,102 @@
+{
+  "id": 1125867947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.47667,54.31833,-8.47667,54.31833",
+    "geom:latitude":54.31833,
+    "geom:longitude":-8.47667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":54.31833,
+    "lbl:longitude":-8.47667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rathcormack"
+    ],
+    "name:dut_x_preferred":[
+        "Rathcormack"
+    ],
+    "name:eng_x_preferred":[
+        "Rathcormack"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d0\u10d7\u10d9\u10dd\u10e0\u10db\u10d0\u10d9\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Chormaic"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3311213,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rathcormack",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Sligo",
+    "qs_pg:photos":144,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":144,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":359490,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387588,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Sligo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311213,
+        "gp:id":29387588,
+        "qs_pg:id":359490,
+        "wd:id":"Q11010406"
+    },
+    "wof:country":"IE",
+    "wof:created":1497294141,
+    "wof:geomhash":"0f5bab8a02cc7549f9e5811d4e1c8c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125867947,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1125867947,
+    "wof:lastmodified":1514450635,
+    "wof:name":"Rathcormack",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47667,
+    54.31833,
+    -8.47667,
+    54.31833
+],
+  "geometry": {"coordinates":[-8.47667,54.31833],"type":"Point"}
+}

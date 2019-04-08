@@ -1,0 +1,62 @@
+{
+  "id": 1209651087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79167,52.275,-6.79167,52.275",
+    "geom:latitude":52.275,
+    "geom:longitude":-6.79167,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Taylorstown Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301874,
+    "gn:latitude":52.275,
+    "gn:longitude":-6.79167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Taylorstown Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301874
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4f9020f802516dad3d36a1cb1d0574b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209651087
+        }
+    ],
+    "wof:id":1209651087,
+    "wof:lastmodified":1536280578,
+    "wof:name":"Taylorstown Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79167,
+    52.275,
+    -6.79167,
+    52.275
+],
+  "geometry": {"coordinates":[-6.79167,52.275],"type":"Point"}
+}

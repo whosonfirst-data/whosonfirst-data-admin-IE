@@ -1,0 +1,66 @@
+{
+  "id": 1310439363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.54028,52.73917,-8.54028,52.73917",
+    "geom:latitude":52.73917,
+    "geom:longitude":-8.54028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Aughboy",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966827,
+    "gn:latitude":52.73917,
+    "gn:longitude":-8.54028,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Aughboy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966827
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d254e982443bba43d3f1383b1a7a7e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310439363,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1310439363,
+    "wof:lastmodified":1537011750,
+    "wof:name":"Aughboy",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54028,
+    52.73917,
+    -8.54028,
+    52.73917
+],
+  "geometry": {"coordinates":[-8.54028,52.73917],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209751253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.35889,55.25833,-7.35889,55.25833",
+    "geom:latitude":55.25833,
+    "geom:longitude":-7.35889,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Magheramore",
+    "gn:country_code":"IE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307732,
+    "gn:latitude":55.25833,
+    "gn:longitude":-7.35889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Magheramore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307732
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b63de5a9b3baaa12cd4b419d2f138673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209751253,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1209751253,
+    "wof:lastmodified":1536392669,
+    "wof:name":"Magheramore",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.35889,
+    55.25833000000001,
+    -7.35889,
+    55.25833000000001
+],
+  "geometry": {"coordinates":[-7.35889,55.25833000000001],"type":"Point"}
+}

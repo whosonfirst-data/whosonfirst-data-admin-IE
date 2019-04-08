@@ -1,0 +1,66 @@
+{
+  "id": 1293525305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.67194,52.52083,-8.67194,52.52083",
+    "geom:latitude":52.52083,
+    "geom:longitude":-8.67194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Monaster",
+    "gn:country_code":"IE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962559,
+    "gn:latitude":52.52083,
+    "gn:longitude":-8.67194,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Monaster",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962559
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a6246d8653f60e98f6473a12a36965cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293525305,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1293525305,
+    "wof:lastmodified":1536732754,
+    "wof:name":"Monaster",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.67194,
+    52.52083,
+    -8.67194,
+    52.52083
+],
+  "geometry": {"coordinates":[-8.67194,52.52083],"type":"Point"}
+}

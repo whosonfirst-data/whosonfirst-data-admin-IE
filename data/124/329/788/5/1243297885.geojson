@@ -1,0 +1,71 @@
+{
+  "id": 1243297885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.38,52.19056,-10.38,52.19056",
+    "geom:latitude":52.19056,
+    "geom:longitude":-10.38,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ballynagall",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966473,
+    "gn:latitude":52.19056,
+    "gn:longitude":-10.38,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Ballynagall",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Baile ne nGall"
+    ],
+    "name:und_x_variant":[
+        "Ballydavid",
+        "Ballynagall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966473,
+        "wk:page":"Ballydavid"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"923a991c5975104e85215f42d69168e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243297885,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243297885,
+    "wof:lastmodified":1537636756,
+    "wof:name":"Ballynagall",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.38,
+    52.19056,
+    -10.38,
+    52.19056
+],
+  "geometry": {"coordinates":[-10.38,52.19056],"type":"Point"}
+}

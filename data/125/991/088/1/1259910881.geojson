@@ -1,0 +1,69 @@
+{
+  "id": 1259910881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9325,51.89,-7.9325,51.89",
+    "geom:latitude":51.89,
+    "geom:longitude":-7.9325,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballymacoda",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966520,
+    "gn:latitude":51.89,
+    "gn:longitude":-7.9325,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Ballymacoda",
+    "gn:population":128,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966520
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c2238512e2416aa586ce56d748e603ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259910881,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259910881,
+    "wof:lastmodified":1536739640,
+    "wof:name":"Ballymacoda",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":128,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9325,
+    51.89,
+    -7.9325,
+    51.89
+],
+  "geometry": {"coordinates":[-7.9325,51.89],"type":"Point"}
+}

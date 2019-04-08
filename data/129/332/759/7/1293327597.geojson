@@ -1,0 +1,66 @@
+{
+  "id": 1293327597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96694,54.35917,-6.96694,54.35917",
+    "geom:latitude":54.35917,
+    "geom:longitude":-6.96694,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Shanco",
+    "gn:country_code":"IE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310678,
+    "gn:latitude":54.35917,
+    "gn:longitude":-6.96694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Shanco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310678
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"38297c28d07b5bf9655249e29a8397a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293327597,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1293327597,
+    "wof:lastmodified":1537016853,
+    "wof:name":"Shanco",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96694,
+    54.35917,
+    -6.96694,
+    54.35917
+],
+  "geometry": {"coordinates":[-6.96694,54.35917],"type":"Point"}
+}

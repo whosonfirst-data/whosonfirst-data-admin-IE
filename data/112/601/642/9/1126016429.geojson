@@ -1,0 +1,93 @@
+{
+  "id": 1126016429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.569679,52.673936,-8.569679,52.673936",
+    "geom:latitude":52.673936,
+    "geom:longitude":-8.569679,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.673936,
+    "lbl:longitude":-8.569679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Athlunkard"
+    ],
+    "name:eng_x_preferred":[
+        "Athlunkard"
+    ],
+    "name:ger_x_preferred":[
+        "Athlunkard"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th Longfoirt"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Athlunkard",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":3908,
+    "qs_pg:photos_1k":792,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3908,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1323344,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387473,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387473,
+        "qs_pg:id":1323344,
+        "wd:id":"Q755657"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300577,
+    "wof:geomhash":"c62fa5cca834f98875a9c05b1257bfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126016429,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1126016429,
+    "wof:lastmodified":1514450412,
+    "wof:name":"Athlunkard",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.569679,
+    52.673936,
+    -8.569679,
+    52.673936
+],
+  "geometry": {"coordinates":[-8.569679,52.673936],"type":"Point"}
+}

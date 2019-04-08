@@ -1,0 +1,63 @@
+{
+  "id": 1209449707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.73111,54.24333,-8.73111,54.24333",
+    "geom:latitude":54.24333,
+    "geom:longitude":-8.73111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Skreen",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961457,
+    "gn:latitude":54.24333,
+    "gn:longitude":-8.73111,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Skreen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961457,
+        "wk:page":"Skreen"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0f6b22dbd96e31cc90c4deb974de663e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209449707
+        }
+    ],
+    "wof:id":1209449707,
+    "wof:lastmodified":1537564838,
+    "wof:name":"Skreen",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.73111,
+    54.24333000000001,
+    -8.73111,
+    54.24333000000001
+],
+  "geometry": {"coordinates":[-8.73111,54.24333000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1210051329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23083,53.62306,-6.23083,53.62306",
+    "geom:latitude":53.62306,
+    "geom:longitude":-6.23083,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"35.0",
+    "gn:asciiname":"Balscaddan",
+    "gn:country_code":"IE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3316383,
+    "gn:latitude":53.62306,
+    "gn:longitude":-6.23083,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Balscaddan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316383
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"488b1608b76cb88210f2e6a935486e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1210051329,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1210051329,
+    "wof:lastmodified":1536373289,
+    "wof:name":"Balscaddan",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23083,
+    53.62306,
+    -6.23083,
+    53.62306
+],
+  "geometry": {"coordinates":[-6.23083,53.62306],"type":"Point"}
+}

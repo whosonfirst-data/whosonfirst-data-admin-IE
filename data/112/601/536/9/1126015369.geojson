@@ -1,0 +1,104 @@
+{
+  "id": 1126015369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11111,53.49667,-6.11111,53.49667",
+    "geom:latitude":53.49667,
+    "geom:longitude":-6.11111,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1763,
+    "gn:population":1372,
+    "iso:country":"IE",
+    "lbl:latitude":53.49667,
+    "lbl:longitude":-6.11111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Portrane"
+    ],
+    "name:eng_x_preferred":[
+        "Portrane"
+    ],
+    "name:fre_x_preferred":[
+        "Portrane"
+    ],
+    "name:gla_x_preferred":[
+        "Port Reachrann"
+    ],
+    "name:gle_x_preferred":[
+        "Port Reachrann"
+    ],
+    "name:ita_x_preferred":[
+        "Portrane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30ec\u30fc\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0440\u0435\u0439\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Portrane"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3230840,
+    "qs_pg:gn_pop":1763,
+    "qs_pg:name":"Portraine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":582083,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230840,
+        "qs_pg:id":582083,
+        "wd:id":"Q2085924"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300515,
+    "wof:geomhash":"8df82d63af5f4164588b49b17c28728f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126015369,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1126015369,
+    "wof:lastmodified":1514450632,
+    "wof:name":"Portraine",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:population":1372,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11111,
+    53.49667,
+    -6.11111,
+    53.49667
+],
+  "geometry": {"coordinates":[-6.11111,53.49667],"type":"Point"}
+}

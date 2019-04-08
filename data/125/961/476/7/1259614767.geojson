@@ -1,0 +1,66 @@
+{
+  "id": 1259614767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.32458,53.78003,-9.32458,53.78003",
+    "geom:latitude":53.78003,
+    "geom:longitude":-9.32458,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Tonaderrew",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130440,
+    "gn:latitude":53.78003,
+    "gn:longitude":-9.32458,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Tonaderrew",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130440
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ea339ed86a6c8a9e2d4ba78881afdff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259614767,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1259614767,
+    "wof:lastmodified":1536669718,
+    "wof:name":"Tonaderrew",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.32458,
+    53.78003,
+    -9.32458,
+    53.78003
+],
+  "geometry": {"coordinates":[-9.32458,53.78003],"type":"Point"}
+}

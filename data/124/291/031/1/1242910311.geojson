@@ -1,0 +1,62 @@
+{
+  "id": 1242910311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.41228,51.48304,-9.41228,51.48304",
+    "geom:latitude":51.48304,
+    "geom:longitude":-9.41228,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Farranacoush",
+    "gn:country_code":"IE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9409566,
+    "gn:latitude":51.48304,
+    "gn:longitude":-9.41228,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Farranacoush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9409566
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"af7c108a9a5c8b2a80c5d7314e829bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242910311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242910311,
+    "wof:lastmodified":1537078253,
+    "wof:name":"Farranacoush",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.41228,
+    51.48304,
+    -9.41228,
+    51.48304
+],
+  "geometry": {"coordinates":[-9.41228,51.48304],"type":"Point"}
+}

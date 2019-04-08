@@ -1,0 +1,66 @@
+{
+  "id": 1226278761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.20861,54.10528,-7.20861,54.10528",
+    "geom:latitude":54.10528,
+    "geom:longitude":-7.20861,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Ballinageeragh",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309875,
+    "gn:latitude":54.10528,
+    "gn:longitude":-7.20861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballinageeragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309875
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6de38f7e433fb9a3cfea77d2744e436c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226278761,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1226278761,
+    "wof:lastmodified":1536885504,
+    "wof:name":"Ballinageeragh",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.20861,
+    54.10528000000001,
+    -7.20861,
+    54.10528000000001
+],
+  "geometry": {"coordinates":[-7.20861,54.10528000000001],"type":"Point"}
+}

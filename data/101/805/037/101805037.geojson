@@ -1,0 +1,160 @@
+{
+  "id": 101805037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000174,
+    "geom:area_square_m":1254625.226627,
+    "geom:bbox":"-9.99625462798,54.2139504147,-9.97779971111,54.2346862553",
+    "geom:latitude":54.223486,
+    "geom:longitude":-9.987636,
+    "gn:population":1089,
+    "iso:country":"IE",
+    "lbl:latitude":54.219676,
+    "lbl:longitude":-9.986727,
+    "mps:latitude":54.219676,
+    "mps:longitude":-9.986727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Belmullet"
+    ],
+    "name:bre_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043c\u0443\u043b\u0435\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u723e\u99ac\u5229\u7279"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:dut_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:eng_x_preferred":[
+        "Belmullet"
+    ],
+    "name:eng_x_variant":[
+        "Belmuliet",
+        "Belmullet (ballina)"
+    ],
+    "name:eus_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:fin_x_preferred":[
+        "Belmullet"
+    ],
+    "name:fra_x_preferred":[
+        "Belmullet"
+    ],
+    "name:fre_x_preferred":[
+        "Belmullet"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10da\u10db\u10d0\u10da\u10d4\u10e2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:gla_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10db\u10d0\u10da\u10d4\u10e2\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Belmaletas"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043c\u0430\u043b\u043b\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Belmullet"
+    ],
+    "name:und_x_variant":[
+        "Beal an Mhuirthead",
+        "B\u00e9al an Mhuirthead"
+    ],
+    "name:unk_x_variant":[
+        "Belmuliet"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"An Geata Mor Thuaidh",
+    "qs:la_lc":"*IE1303157008",
+    "qs:level":"locality",
+    "qs:loc":"Belmullet",
+    "qs:loc_alt":"Belmullet",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2385,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117edcd2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966208,
+        "gp:id":20073402,
+        "qs:id":1032153,
+        "wd:id":"Q816116",
+        "wk:page":"Belmullet"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e3d3f9dd9d9bb12fec49f0c1305a1db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805037,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805037,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642961,
+    "wof:name":"Belmullet",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":1089,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.99625462798127,
+    54.21395041470561,
+    -9.9777997111093,
+    54.23468625532155
+],
+  "geometry": {"coordinates":[[[-9.99140591748983,54.23468625532155],[-9.98969871492653,54.23125117242233],[-9.98525272503002,54.23198907939184],[-9.98354619333509,54.22855389492395],[-9.98502809609795,54.22830796692529],[-9.98460148894901,54.22744917168143],[-9.98756519124521,54.22695727423337],[-9.98628533270988,54.22438091155635],[-9.98480357205273,54.22462685166306],[-9.98395049449471,54.22290925500226],[-9.98246877271828,54.22315516576953],[-9.98161583530407,54.22143754954982],[-9.98013415240956,54.22168343097985],[-9.97970774312034,54.22082461408189],[-9.97822607162988,54.2210704719962],[-9.9777997111093,54.22021164730023],[-9.97928135512132,54.21996579520527],[-9.97885498841015,54.21910697434993],[-9.98033658887289,54.21886111037844],[-9.97905753403262,54.21628465339876],[-9.98350199173404,54.2155470076886],[-9.98307560028053,54.21468820219468],[-9.98751983093916,54.21395041470561],[-9.98837279993234,54.21566798879479],[-9.98985423293567,54.21542201260638],[-9.99241381577042,54.22057465241562],[-9.99093221795545,54.22082066353431],[-9.99434596820322,54.22769078559236],[-9.99582778582862,54.22744472788412],[-9.99625462798127,54.22830347840033],[-9.99329092167517,54.22879558776958],[-9.99499828357574,54.23223061661849],[-9.99351629633873,54.23247666805656],[-9.99437005021707,54.23419418224273],[-9.99140591748983,54.23468625532155]]],"type":"Polygon"}
+}

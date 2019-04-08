@@ -1,0 +1,74 @@
+{
+  "id": 101872759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57908,53.567517,-6.57908,53.567517",
+    "geom:latitude":53.567517,
+    "geom:longitude":-6.57908,
+    "iso:country":"IE",
+    "lbl:latitude":53.567517,
+    "lbl:longitude":-6.57908,
+    "mps:latitude":53.567517,
+    "mps:longitude":-6.57908,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Ireland",
+    "qs:a1":"*Meath",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tara",
+    "qs:loc_alt":"Tara",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1081,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":562129,
+        "qs:id":5
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fe1c6ccb550230a2d01569ac2f638360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101872759,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":101872759,
+    "wof:lastmodified":1544751304,
+    "wof:name":"Tara",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57908,
+    53.567517,
+    -6.57908,
+    53.567517
+],
+  "geometry": {"coordinates":[-6.57908,53.567517],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226478507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.96667,53.25,-7.96667,53.25",
+    "geom:latitude":53.25,
+    "geom:longitude":-7.96667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Bleach Hill",
+    "gn:country_code":"IE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966104,
+    "gn:latitude":53.25,
+    "gn:longitude":-7.96667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Bleach Hill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966104
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"48083b3031da64a44cb85b5e5c2820fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226478507,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1226478507,
+    "wof:lastmodified":1537091648,
+    "wof:name":"Bleach Hill",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.96667,
+    53.25,
+    -7.96667,
+    53.25
+],
+  "geometry": {"coordinates":[-7.96667,53.25],"type":"Point"}
+}

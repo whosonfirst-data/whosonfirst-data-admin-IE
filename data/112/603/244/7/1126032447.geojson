@@ -1,0 +1,105 @@
+{
+  "id": 1126032447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.899955,53.312108,-8.899955,53.312108",
+    "geom:latitude":53.312108,
+    "geom:longitude":-8.899955,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.312108,
+    "lbl:longitude":-8.899955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Carnmore"
+    ],
+    "name:dut_x_preferred":[
+        "Carnmore"
+    ],
+    "name:eng_x_preferred":[
+        "Carnmore"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10dc\u10db\u10dd\u10e0\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "An Carn M\u00f3r"
+    ],
+    "name:glg_x_preferred":[
+        "Carnmore - An Car M\u00f3r"
+    ],
+    "name:nob_x_preferred":[
+        "Carnmore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043d\u043c\u043e\u0440"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Carnmore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":33,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":33,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":775391,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":23700780,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700780,
+        "qs_pg:id":775391,
+        "wd:id":"Q1782612"
+    },
+    "wof:country":"IE",
+    "wof:created":1497301563,
+    "wof:geomhash":"1670b289f94cf1d97d413ce489dfb1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126032447,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1126032447,
+    "wof:lastmodified":1514450435,
+    "wof:name":"Carnmore",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.899955,
+    53.312108,
+    -8.899955,
+    53.312108
+],
+  "geometry": {"coordinates":[-8.899955,53.312108],"type":"Point"}
+}

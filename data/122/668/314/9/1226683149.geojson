@@ -1,0 +1,66 @@
+{
+  "id": 1226683149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.64,52.07167,-8.64,52.07167",
+    "geom:latitude":52.07167,
+    "geom:longitude":-8.64,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Athnaleenta",
+    "gn:country_code":"IE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292529,
+    "gn:latitude":52.07167,
+    "gn:longitude":-8.64,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Athnaleenta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292529
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a4cca5864f9fb23eb0498ea7f5879c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226683149,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226683149,
+    "wof:lastmodified":1536805390,
+    "wof:name":"Athnaleenta",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.64,
+    52.07167000000001,
+    -8.64,
+    52.07167000000001
+],
+  "geometry": {"coordinates":[-8.64,52.07167000000001],"type":"Point"}
+}

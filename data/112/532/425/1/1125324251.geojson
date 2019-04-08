@@ -1,0 +1,80 @@
+{
+  "id": 1125324251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.817115,52.682314,-7.817115,52.682314",
+    "geom:latitude":52.682314,
+    "geom:longitude":-7.817115,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.682314,
+    "lbl:longitude":-7.817115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Thurles Rural",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252296,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074102,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20074102,
+        "qs_pg:id":1252296
+    },
+    "wof:country":"IE",
+    "wof:created":1497044695,
+    "wof:geomhash":"e2d977fcce774ea20fa02923f74eb962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125324251,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1125324251,
+    "wof:lastmodified":1530147523,
+    "wof:name":"Thurles Rural",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.817115,
+    52.682314,
+    -7.817115,
+    52.682314
+],
+  "geometry": {"coordinates":[-7.817115,52.682314],"type":"Point"}
+}

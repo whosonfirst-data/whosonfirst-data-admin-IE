@@ -1,0 +1,66 @@
+{
+  "id": 1226376645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28972,52.82556,-8.28972,52.82556",
+    "geom:latitude":52.82556,
+    "geom:longitude":-8.28972,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Ballylusky",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306492,
+    "gn:latitude":52.82556,
+    "gn:longitude":-8.28972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballylusky",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306492
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fb4c5d293cca0d2416b69ed55769cee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226376645,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1226376645,
+    "wof:lastmodified":1536744760,
+    "wof:name":"Ballylusky",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28972,
+    52.82556,
+    -8.28972,
+    52.82556
+],
+  "geometry": {"coordinates":[-8.28972,52.82556],"type":"Point"}
+}

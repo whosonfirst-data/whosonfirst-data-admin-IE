@@ -1,0 +1,66 @@
+{
+  "id": 1242608489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.83611,51.8075,-8.83611,51.8075",
+    "geom:latitude":51.8075,
+    "geom:longitude":-8.83611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Quarry Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294133,
+    "gn:latitude":51.8075,
+    "gn:longitude":-8.83611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Quarry Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294133
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a824fd4e93dbb7774528aefc1d2d9d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608489,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1242608489,
+    "wof:lastmodified":1537018450,
+    "wof:name":"Quarry Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.83611,
+    51.8075,
+    -8.83611,
+    51.8075
+],
+  "geometry": {"coordinates":[-8.83611,51.8075],"type":"Point"}
+}

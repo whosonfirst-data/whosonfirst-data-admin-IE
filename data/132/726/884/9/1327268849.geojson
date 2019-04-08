@@ -1,0 +1,66 @@
+{
+  "id": 1327268849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.84278,52.03083,-9.84278,52.03083",
+    "geom:latitude":52.03083,
+    "geom:longitude":-9.84278,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Gortrelig",
+    "gn:country_code":"IE",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963932,
+    "gn:latitude":52.03083,
+    "gn:longitude":-9.84278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortrelig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963932
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"99ef7e868d81be88791684b06bff3ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327268849,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1327268849,
+    "wof:lastmodified":1536917542,
+    "wof:name":"Gortrelig",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.84278,
+    52.03083,
+    -9.84278,
+    52.03083
+],
+  "geometry": {"coordinates":[-9.84278,52.03083],"type":"Point"}
+}

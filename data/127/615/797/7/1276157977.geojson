@@ -1,0 +1,71 @@
+{
+  "id": 1276157977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.40417,52.77722,-8.40417,52.77722",
+    "geom:latitude":52.77722,
+    "geom:longitude":-8.40417,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Kilmastulla Bridge",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963269,
+    "gn:latitude":52.77722,
+    "gn:longitude":-8.40417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kilmastulla Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilmastulla",
+        "Kilmastulla Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963269
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"50e5b8fd8dcc89b5542e946f2d6418bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276157977,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276157977,
+    "wof:lastmodified":1537636733,
+    "wof:name":"Kilmastulla Bridge",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.40417,
+    52.77721999999999,
+    -8.40417,
+    52.77721999999999
+],
+  "geometry": {"coordinates":[-8.40417,52.77721999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1344193815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.13806,52.97944,-6.13806,52.97944",
+    "geom:latitude":52.97944,
+    "geom:longitude":-6.13806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Coolnakilly",
+    "gn:country_code":"IE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314997,
+    "gn:latitude":52.97944,
+    "gn:longitude":-6.13806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Coolnakilly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314997
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"576c70c6ae50f607545c2b11aaf6ae43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1344193815,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1344193815,
+    "wof:lastmodified":1536683071,
+    "wof:name":"Coolnakilly",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.13806,
+    52.97944,
+    -6.13806,
+    52.97944
+],
+  "geometry": {"coordinates":[-6.13806,52.97944],"type":"Point"}
+}

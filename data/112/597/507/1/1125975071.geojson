@@ -1,0 +1,102 @@
+{
+  "id": 1125975071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22,52.53639,-7.22,52.53639",
+    "geom:latitude":52.53639,
+    "geom:longitude":-7.22,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.53639,
+    "lbl:longitude":-7.22,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Stoneyford"
+    ],
+    "name:dut_x_preferred":[
+        "Stoneyford"
+    ],
+    "name:eng_x_preferred":[
+        "Stoneyford"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th St\u00fain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u043d\u0438\u0444\u043e\u0440\u0434"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961354,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stonyford",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":992392,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562282,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961354,
+        "gp:id":562282,
+        "qs_pg:id":992392,
+        "wd:id":"Q3776976"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298313,
+    "wof:geomhash":"2ddbad1760aabf4312f59a84fb1958fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125975071,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1125975071,
+    "wof:lastmodified":1553816671,
+    "wof:name":"Stonyford",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22,
+    52.53639,
+    -7.22,
+    52.53639
+],
+  "geometry": {"coordinates":[-7.22,52.53639],"type":"Point"}
+}

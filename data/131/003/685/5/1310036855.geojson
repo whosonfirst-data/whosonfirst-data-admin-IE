@@ -1,0 +1,66 @@
+{
+  "id": 1310036855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.14583,53.405,-8.14583,53.405",
+    "geom:latitude":53.405,
+    "geom:longitude":-8.14583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Bellimeny",
+    "gn:country_code":"IE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313392,
+    "gn:latitude":53.405,
+    "gn:longitude":-8.14583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Bellimeny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313392
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"beee1bda9d62b3e8e4de3224a4e18add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310036855,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1310036855,
+    "wof:lastmodified":1537092305,
+    "wof:name":"Bellimeny",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14583,
+    53.405,
+    -8.14583,
+    53.405
+],
+  "geometry": {"coordinates":[-8.14583,53.405],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1125311485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.149865,53.55688,-10.149865,53.55688",
+    "geom:latitude":53.55688,
+    "geom:longitude":-10.149865,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":53.55688,
+    "lbl:longitude":-10.149865,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Sillerna",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":303,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":772074,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072545,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072545,
+        "qs_pg:id":772074
+    },
+    "wof:country":"IE",
+    "wof:created":1497044012,
+    "wof:geomhash":"6542508987de239008391be88946fac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125311485,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125311485,
+    "wof:lastmodified":1509387900,
+    "wof:name":"Sillerna",
+    "wof:parent_id":85685097,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.149865,
+    53.55688,
+    -10.149865,
+    53.55688
+],
+  "geometry": {"coordinates":[-10.149865,53.55688],"type":"Point"}
+}

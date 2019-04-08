@@ -1,0 +1,79 @@
+{
+  "id": 1327270183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.25298,53.37058,-6.25298,53.37058",
+    "geom:latitude":53.37058,
+    "geom:longitude":-6.25298,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"33.0",
+    "gn:asciiname":"Drumcondra",
+    "gn:country_code":"IE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315312,
+    "gn:latitude":53.37058,
+    "gn:longitude":-6.25298,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Drumcondra",
+    "gn:population":4465,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gla_x_preferred":[
+        "Droim Conrach"
+    ],
+    "name:gle_x_preferred":[
+        "Droim Conrach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043c\u043a\u043e\u043d\u0434\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315312,
+        "wk:page":"Drumcondra%2C_Dublin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7ae8c37389d077cb9a5d056a1b923a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327270183,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1327270183,
+    "wof:lastmodified":1537636784,
+    "wof:name":"Drumcondra",
+    "wof:parent_id":85685015,
+    "wof:placetype":"locality",
+    "wof:population":4465,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.25298,
+    53.37058,
+    -6.25298,
+    53.37058
+],
+  "geometry": {"coordinates":[-6.25298,53.37058],"type":"Point"}
+}

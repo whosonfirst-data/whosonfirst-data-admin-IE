@@ -1,0 +1,96 @@
+{
+  "id": 1125335379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.38333,53.83333,-8.38333,53.83333",
+    "geom:latitude":53.83333,
+    "geom:longitude":-8.38333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":142,
+    "iso:country":"IE",
+    "lbl:latitude":53.83333,
+    "lbl:longitude":-8.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Bellanagare"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha na gCarr"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966233,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bellanagare",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Roscommon",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":234,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311152,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073764,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Roscommon",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966233,
+        "gp:id":20073764,
+        "qs_pg:id":1311152
+    },
+    "wof:country":"IE",
+    "wof:created":1497045374,
+    "wof:geomhash":"41e2dbd5fb16d3c14492f388a6196d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125335379,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1125335379,
+    "wof:lastmodified":1509388484,
+    "wof:name":"Bellanagare",
+    "wof:parent_id":85685113,
+    "wof:placetype":"localadmin",
+    "wof:population":142,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.38333,
+    53.83333,
+    -8.38333,
+    53.83333
+],
+  "geometry": {"coordinates":[-8.38333,53.83333],"type":"Point"}
+}

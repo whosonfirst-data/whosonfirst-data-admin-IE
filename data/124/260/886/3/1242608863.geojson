@@ -1,0 +1,76 @@
+{
+  "id": 1242608863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.135,54.15639,-7.135,54.15639",
+    "geom:latitude":54.15639,
+    "geom:longitude":-7.135,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Newbliss",
+    "gn:country_code":"IE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962293,
+    "gn:latitude":54.15639,
+    "gn:longitude":-7.135,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Newbliss",
+    "gn:population":331,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Newbliss"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00fail Darach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962293,
+        "wk:page":"Newbliss"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2c013c01b75a1f955b108e37d3d802e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608863,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1242608863,
+    "wof:lastmodified":1537636726,
+    "wof:name":"Newbliss",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:population":331,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.135,
+    54.15639,
+    -7.135,
+    54.15639
+],
+  "geometry": {"coordinates":[-7.135,54.15639],"type":"Point"}
+}

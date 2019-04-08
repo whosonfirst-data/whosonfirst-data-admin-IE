@@ -1,0 +1,131 @@
+{
+  "id": 101805965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":747047.874338,
+    "geom:bbox":"-6.98758502185,52.7337265611,-6.97168047427,52.7449677436",
+    "geom:latitude":52.738326,
+    "geom:longitude":-6.979114,
+    "gn:population":828,
+    "iso:country":"IE",
+    "lbl:latitude":52.73762,
+    "lbl:longitude":-6.978993,
+    "mps:latitude":52.73762,
+    "mps:longitude":-6.978993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0438\u0433\u0445\u043b\u0438\u043d\u0431\u0440\u0438\u0434\u0433\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:eng_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:fra_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:fre_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10ee\u10da\u10d8\u10dc\u10d1\u10e0\u10d8\u10ef\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Leithghlinn an Droichid"
+    ],
+    "name:ita_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10ee\u10da\u10d8\u10dc\u10d1\u10e0\u10d8\u10ef\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0445\u043b\u0438\u043d\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:slv_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:spa_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:swe_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Carlow",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Rathornan",
+    "qs:la_lc":"*IE2401017040",
+    "qs:level":"locality",
+    "qs:loc":"Leighlinbridge",
+    "qs:loc_alt":"Leighlinbridge",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":758,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1180083c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2962980,
+        "gp:id":561516,
+        "qs:id":1253030,
+        "qs_pg:id":1253030,
+        "wd:id":"Q1959546",
+        "wk:page":"Leighlinbridge"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f64013bc9ee33a8c1a748e13366df313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805965,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":101805965,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642954,
+    "wof:name":"Leighlinbridge",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:population":828,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98758502185035,
+    52.73372656105613,
+    -6.97168047427078,
+    52.7449677436183
+],
+  "geometry": {"coordinates":[[[-6.97589241673688,52.7449677436183],[-6.97554660642112,52.74409744743917],[-6.97265435771232,52.74451433012206],[-6.97196289439682,52.74277371438643],[-6.97340897165338,52.74256529126427],[-6.97306323852837,52.7416949859952],[-6.975955301738,52.74127809710785],[-6.97491804309919,52.73866720121816],[-6.97202614010132,52.73908406153436],[-6.97168047427078,52.73821375049658],[-6.97312640538394,52.73800533379347],[-6.97174380346729,52.73452409426409],[-6.97318961516703,52.73431567921767],[-6.97353526711214,52.73518598650253],[-6.98365578230283,52.73372656105613],[-6.98400163791268,52.73459683356316],[-6.98544740196542,52.73438826991077],[-6.98579330109351,52.73525853620976],[-6.98723907920186,52.73504995040872],[-6.98758502185035,52.73592021049916],[-6.98613921705237,52.73612880106464],[-6.98717706592458,52.73873958696231],[-6.98573116841231,52.73894817443636],[-6.98642309844405,52.74068870067578],[-6.98497713490093,52.74089728029281],[-6.98463118816483,52.74002701313049],[-6.97884731441826,52.74086113866656],[-6.97953901112476,52.74260170966039],[-6.97664689163281,52.74301868715418],[-6.97733854884729,52.74475927142913],[-6.97589241673688,52.7449677436183]]],"type":"Polygon"}
+}

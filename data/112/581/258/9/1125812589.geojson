@@ -1,0 +1,115 @@
+{
+  "id": 1125812589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03248,51.57814,-9.03248,51.57814",
+    "geom:latitude":51.57814,
+    "geom:longitude":-9.03248,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":534,
+    "iso:country":"IE",
+    "lbl:latitude":51.57814,
+    "lbl:longitude":-9.03248,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:cat_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:dut_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:eng_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:ger_x_preferred":[
+        "Ross Carbery"
+    ],
+    "name:gle_x_preferred":[
+        "Ros \u00d3 gCairbre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441-\u041a\u0430\u0440\u0431\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rosscarbery"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961707,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ross Carbery",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":427,
+    "qs_pg:photos_1k":87,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":427,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1222780,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562131,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961707,
+        "gp:id":562131,
+        "qs_pg:id":1222780,
+        "wd:id":"Q2084128"
+    },
+    "wof:country":"IE",
+    "wof:created":1497291718,
+    "wof:geomhash":"0d4d88868c9296d663b442d995f86e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125812589,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125812589,
+    "wof:lastmodified":1514450645,
+    "wof:name":"Ross Carbery",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":534,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03248,
+    51.57814,
+    -9.03248,
+    51.57814
+],
+  "geometry": {"coordinates":[-9.03248,51.57814],"type":"Point"}
+}

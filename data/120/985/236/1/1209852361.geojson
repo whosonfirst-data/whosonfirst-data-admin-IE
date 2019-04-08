@@ -1,0 +1,66 @@
+{
+  "id": 1209852361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.83472,54.08389,-7.83472,54.08389",
+    "geom:latitude":54.08389,
+    "geom:longitude":-7.83472,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Cromlin",
+    "gn:country_code":"IE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311337,
+    "gn:latitude":54.08389,
+    "gn:longitude":-7.83472,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cromlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311337
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ad74ef4001aeb3d38c8a2d56a68eb30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209852361,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1209852361,
+    "wof:lastmodified":1536387828,
+    "wof:name":"Cromlin",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.83472,
+    54.08389,
+    -7.83472,
+    54.08389
+],
+  "geometry": {"coordinates":[-7.83472,54.08389],"type":"Point"}
+}

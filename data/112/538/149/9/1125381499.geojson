@@ -1,0 +1,99 @@
+{
+  "id": 1125381499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26667,55.25,-7.26667,55.25",
+    "geom:latitude":55.25,
+    "geom:longitude":-7.26667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1581,
+    "gn:population":2534,
+    "iso:country":"IE",
+    "lbl:latitude":55.25,
+    "lbl:longitude":-7.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Carndonagh"
+    ],
+    "name:gle_x_preferred":[
+        "Carn Domhnach"
+    ],
+    "name:unk_x_variant":[
+        "Cardonagh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965761,
+    "qs_pg:gn_pop":1581,
+    "qs_pg:name":"Carndonagh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":215,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1000280,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071898,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965761,
+        "gp:id":20071898,
+        "qs_pg:id":1000280
+    },
+    "wof:country":"IE",
+    "wof:created":1497048075,
+    "wof:geomhash":"f4549bb48870920adfc47d5657cd229a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125381499,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1125381499,
+    "wof:lastmodified":1509389587,
+    "wof:name":"Carndonagh",
+    "wof:parent_id":85685151,
+    "wof:placetype":"localadmin",
+    "wof:population":2534,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26667,
+    55.25,
+    -7.26667,
+    55.25
+],
+  "geometry": {"coordinates":[-7.26667,55.25],"type":"Point"}
+}

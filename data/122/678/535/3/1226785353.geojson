@@ -1,0 +1,70 @@
+{
+  "id": 1226785353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75116,53.68702,-8.75116,53.68702",
+    "geom:latitude":53.68702,
+    "geom:longitude":-8.75116,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Cloonfad",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965298,
+    "gn:latitude":53.68702,
+    "gn:longitude":-8.75116,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Cloonfad",
+    "gn:population":285,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965298,
+        "wk:page":"Cloonfad"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8b4c92632b0a44b0bc67e049a5b17e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226785353,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1226785353,
+    "wof:lastmodified":1537564847,
+    "wof:name":"Cloonfad",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75116,
+    53.68702,
+    -8.75116,
+    53.68702
+],
+  "geometry": {"coordinates":[-8.75116,53.68702],"type":"Point"}
+}

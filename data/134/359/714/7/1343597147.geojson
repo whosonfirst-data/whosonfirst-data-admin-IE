@@ -1,0 +1,70 @@
+{
+  "id": 1343597147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.86667,53.63333,-8.86667,53.63333",
+    "geom:latitude":53.63333,
+    "geom:longitude":-8.86667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Dalgin",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964893,
+    "gn:latitude":53.63333,
+    "gn:longitude":-8.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalgin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolgin",
+        "Dalgin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964893
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d227aeae93cc03dec19c712018e45850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343597147,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343597147,
+    "wof:lastmodified":1537636744,
+    "wof:name":"Dalgin",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.86667,
+    53.63333000000001,
+    -8.86667,
+    53.63333000000001
+],
+  "geometry": {"coordinates":[-8.86667,53.63333000000001],"type":"Point"}
+}

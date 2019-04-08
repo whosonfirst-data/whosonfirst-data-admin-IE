@@ -1,0 +1,66 @@
+{
+  "id": 1260010307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.22306,52.38056,-9.22306,52.38056",
+    "geom:latitude":52.38056,
+    "geom:longitude":-9.22306,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Goulburn Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308196,
+    "gn:latitude":52.38056,
+    "gn:longitude":-9.22306,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Goulburn Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308196
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2f871873e7c74f511c194531d7437ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260010307,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1260010307,
+    "wof:lastmodified":1537090219,
+    "wof:name":"Goulburn Bridge",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.22306,
+    52.38056,
+    -9.22306,
+    52.38056
+],
+  "geometry": {"coordinates":[-9.22306,52.38056],"type":"Point"}
+}

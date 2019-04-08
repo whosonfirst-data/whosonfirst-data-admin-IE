@@ -1,0 +1,70 @@
+{
+  "id": 1293817835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76667,54.01667,-8.76667,54.01667",
+    "geom:latitude":54.01667,
+    "geom:longitude":-8.76667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Carrowwilkin",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965668,
+    "gn:latitude":54.01667,
+    "gn:longitude":-8.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Carrowwilkin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrowilkin",
+        "Carrowwilkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965668
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"39b44ea1060c98d2190ca8f9b011e140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293817835,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1293817835,
+    "wof:lastmodified":1537636750,
+    "wof:name":"Carrowwilkin",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76667,
+    54.01667,
+    -8.76667,
+    54.01667
+],
+  "geometry": {"coordinates":[-8.76667,54.01667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243588097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.36106,52.01245,-9.36106,52.01245",
+    "geom:latitude":52.01245,
+    "geom:longitude":-9.36106,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Glenflesk",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870071,
+    "gn:latitude":52.01245,
+    "gn:longitude":-9.36106,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Glenflesk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870071
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"04985619ef2366567ba948b2fb541fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243588097,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1243588097,
+    "wof:lastmodified":1537095062,
+    "wof:name":"Glenflesk",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.36106,
+    52.01245,
+    -9.36106,
+    52.01245
+],
+  "geometry": {"coordinates":[-9.36106,52.01245],"type":"Point"}
+}

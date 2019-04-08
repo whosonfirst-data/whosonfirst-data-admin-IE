@@ -1,0 +1,66 @@
+{
+  "id": 1193047527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69889,53.55727,-6.69889,53.55727",
+    "geom:latitude":53.55727,
+    "geom:longitude":-6.69889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Knockstown",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866909,
+    "gn:latitude":53.55727,
+    "gn:longitude":-6.69889,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Knockstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866909
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cd942417d7a45fc8d646b81bbc356f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193047527,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1193047527,
+    "wof:lastmodified":1536369155,
+    "wof:name":"Knockstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69889,
+    53.55727,
+    -6.69889,
+    53.55727
+],
+  "geometry": {"coordinates":[-6.69889,53.55727],"type":"Point"}
+}

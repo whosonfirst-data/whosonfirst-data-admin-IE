@@ -1,0 +1,62 @@
+{
+  "id": 1209450093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.35722,53.41389,-9.35722,53.41389",
+    "geom:latitude":53.41389,
+    "geom:longitude":-9.35722,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Rusheeny",
+    "gn:country_code":"IE",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312196,
+    "gn:latitude":53.41389,
+    "gn:longitude":-9.35722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Rusheeny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312196
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8bb134e5ec9bc26f8ae100d8d5e42b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209450093
+        }
+    ],
+    "wof:id":1209450093,
+    "wof:lastmodified":1536286699,
+    "wof:name":"Rusheeny",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.35722,
+    53.41389,
+    -9.35722,
+    53.41389
+],
+  "geometry": {"coordinates":[-9.35722,53.41389],"type":"Point"}
+}

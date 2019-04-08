@@ -1,0 +1,71 @@
+{
+  "id": 1225880359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.9275,51.99056,-7.9275,51.99056",
+    "geom:latitude":51.99056,
+    "geom:longitude":-7.9275,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Redforge Cross Roads",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961853,
+    "gn:latitude":51.99056,
+    "gn:longitude":-7.9275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Redforge Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Redforge",
+        "Redforge Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961853
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"911a6a05f451508849311ce7237f3bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225880359,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1225880359,
+    "wof:lastmodified":1537636723,
+    "wof:name":"Redforge Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.9275,
+    51.99056,
+    -7.9275,
+    51.99056
+],
+  "geometry": {"coordinates":[-7.9275,51.99056],"type":"Point"}
+}

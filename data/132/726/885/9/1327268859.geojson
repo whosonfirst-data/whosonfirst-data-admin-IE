@@ -1,0 +1,66 @@
+{
+  "id": 1327268859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.46111,53.07306,-6.46111,53.07306",
+    "geom:latitude":53.07306,
+    "geom:longitude":-6.46111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Garryknock",
+    "gn:country_code":"IE",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315111,
+    "gn:latitude":53.07306,
+    "gn:longitude":-6.46111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Garryknock",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315111
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"41c2abc3bcf3204efd7b908bb5e25e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327268859,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1327268859,
+    "wof:lastmodified":1536917524,
+    "wof:name":"Garryknock",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.46111,
+    53.07306,
+    -6.46111,
+    53.07306
+],
+  "geometry": {"coordinates":[-6.46111,53.07306],"type":"Point"}
+}

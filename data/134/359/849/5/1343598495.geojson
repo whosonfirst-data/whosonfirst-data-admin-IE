@@ -1,0 +1,70 @@
+{
+  "id": 1343598495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.03333,54.26667,-9.03333,54.26667",
+    "geom:latitude":54.26667,
+    "geom:longitude":-9.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Quignalahy",
+    "gn:country_code":"IE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961982,
+    "gn:latitude":54.26667,
+    "gn:longitude":-9.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Quignalahy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinalahy",
+        "Quignalahy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961982
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b591edf159a26a0da4569900540d64d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343598495,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343598495,
+    "wof:lastmodified":1537636724,
+    "wof:name":"Quignalahy",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.03333,
+    54.26667,
+    -9.03333,
+    54.26667
+],
+  "geometry": {"coordinates":[-9.03333,54.26667],"type":"Point"}
+}

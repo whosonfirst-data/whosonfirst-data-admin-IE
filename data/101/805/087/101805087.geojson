@@ -1,0 +1,148 @@
+{
+  "id": 101805087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:area_square_m":1373995.32629,
+    "geom:bbox":"-8.45505820147,54.6278534972,-8.42836721603,54.6499244998",
+    "geom:latitude":54.637758,
+    "geom:longitude":-8.441445,
+    "gn:population":1297,
+    "iso:country":"IE",
+    "lbl:latitude":54.633487,
+    "lbl:longitude":-8.446096,
+    "mps:latitude":54.633487,
+    "mps:longitude":-8.446096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Killybegs"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0438\u0431\u0435\u0433\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Killybegs"
+    ],
+    "name:deu_x_preferred":[
+        "Killybegs"
+    ],
+    "name:dut_x_preferred":[
+        "Killybegs"
+    ],
+    "name:eng_x_preferred":[
+        "Killybegs"
+    ],
+    "name:eus_x_preferred":[
+        "Killybegs"
+    ],
+    "name:fin_x_preferred":[
+        "Killybegs"
+    ],
+    "name:fre_x_preferred":[
+        "Killybegs"
+    ],
+    "name:ger_x_preferred":[
+        "Killybegs"
+    ],
+    "name:gle_x_preferred":[
+        "Na Cealla Beaga"
+    ],
+    "name:glv_x_preferred":[
+        "Na Cealla Beaga"
+    ],
+    "name:ita_x_preferred":[
+        "Killybegs"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30ea\u30fc\u30d9\u30c3\u30b0\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Kilibegsas"
+    ],
+    "name:nld_x_preferred":[
+        "Killybegs"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u06cc\u0644\u06cc\u0628\u06af\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Killybegs"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0438\u0431\u0435\u0433\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Killybegs"
+    ],
+    "name:unk_x_variant":[
+        "Na Ceala Beaga"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Killybegs",
+    "qs:la_lc":"*IE1102057096",
+    "qs:level":"locality",
+    "qs:loc":"Killybegs",
+    "qs:loc_alt":"Killybegs",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":54.6361,
+    "wd:longitude":-8.4444,
+    "wd:wordcount":1224,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11803e38-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963295,
+        "gp:id":20071959,
+        "qs:id":242342,
+        "wd:id":"Q1741405",
+        "wk:page":"Killybegs"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"63a4b0c8bf1dc926737bd6c9b3d56ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805087,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805087,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642966,
+    "wof:name":"Killybegs",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":1297,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.45505820146883,
+    54.62785349723936,
+    -8.42836721603021,
+    54.64992449978581
+],
+  "geometry": {"coordinates":[[[-8.43107054053866,54.64992449978581],[-8.43027120415593,54.64819523021225],[-8.42876682476509,54.64842265398022],[-8.42836721603021,54.64755801117167],[-8.42987156643466,54.64733059289313],[-8.42867277513523,54.64473667080802],[-8.43168125596867,54.64428181290361],[-8.43088204739081,54.64255254502984],[-8.43389035088205,54.64209763671045],[-8.43309110763386,54.64036838404019],[-8.43459517839739,54.6401409137215],[-8.43379595843362,54.63841166527499],[-8.43529995590245,54.63818418784416],[-8.4349003474108,54.63731956657676],[-8.43941216078582,54.6366370422146],[-8.43861283093645,54.63490782754911],[-8.44162051389532,54.63445274282452],[-8.43962225502582,54.63012973148716],[-8.45465830083657,54.62785349723936],[-8.45505820146883,54.62871804797737],[-8.45355463705079,54.62894575827153],[-8.45395452905439,54.6298103128097],[-8.44944365680959,54.63049335166755],[-8.4522428617687,54.63654530140127],[-8.44923513147489,54.63700064710974],[-8.44963504125388,54.63786521557637],[-8.44813112410009,54.63809286679214],[-8.44853102523814,54.63895743906028],[-8.44702706375796,54.63918507768039],[-8.44742695625325,54.64004965375017],[-8.43990677355794,54.6411876029693],[-8.44030654153613,54.64205220480903],[-8.43579416065234,54.64273477372456],[-8.43699332571407,54.64532861852553],[-8.4354890811004,54.64555612178532],[-8.43628856809363,54.64728535418845],[-8.43478425015479,54.6475128503364],[-8.43518399514488,54.64837746949564],[-8.4336796328576,54.64860495304015],[-8.43407936918049,54.64946957600131],[-8.43107054053866,54.64992449978581]]],"type":"Polygon"}
+}

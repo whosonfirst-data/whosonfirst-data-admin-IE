@@ -1,0 +1,68 @@
+{
+  "id": 1310531659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.95111,53.87444,-9.95111,53.87444",
+    "geom:latitude":53.87444,
+    "geom:longitude":-9.95111,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Cloghmore",
+    "gn:country_code":"IE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965412,
+    "gn:latitude":53.87444,
+    "gn:longitude":-9.95111,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Cloghmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cloghmore"
+    ],
+    "name:gle_x_preferred":[
+        "An Clocich Mh\u00f3ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965412
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"88bcbca44b15a2e0e7efaa1bf4a64b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310531659,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310531659,
+    "wof:lastmodified":1537636749,
+    "wof:name":"Cloghmore",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.95111,
+    53.87444,
+    -9.95111,
+    53.87444
+],
+  "geometry": {"coordinates":[-9.95111,53.87444],"type":"Point"}
+}

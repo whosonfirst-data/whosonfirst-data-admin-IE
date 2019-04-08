@@ -1,0 +1,67 @@
+{
+  "id": 1310334611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.49783,52.3037,-7.49783,52.3037",
+    "geom:latitude":52.3037,
+    "geom:longitude":-7.49783,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"44.0",
+    "gn:asciiname":"Rathgormack",
+    "gn:country_code":"IE",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870980,
+    "gn:latitude":52.3037,
+    "gn:longitude":-7.49783,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Rathgormack",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870980,
+        "wk:page":"Rathgormack"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ede944e6f71e8fb1762bb73b919b03db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310334611,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1310334611,
+    "wof:lastmodified":1537564859,
+    "wof:name":"Rathgormack",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.49783,
+    52.3037,
+    -7.49783,
+    52.3037
+],
+  "geometry": {"coordinates":[-7.49783,52.3037],"type":"Point"}
+}

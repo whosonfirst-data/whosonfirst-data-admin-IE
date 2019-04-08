@@ -1,0 +1,66 @@
+{
+  "id": 1226571447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73889,52.435,-6.73889,52.435",
+    "geom:latitude":52.435,
+    "geom:longitude":-6.73889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Tomfarney",
+    "gn:country_code":"IE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302620,
+    "gn:latitude":52.435,
+    "gn:longitude":-6.73889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tomfarney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302620
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e3666ea2516abb7aa011c03bb110c678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226571447,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1226571447,
+    "wof:lastmodified":1536962072,
+    "wof:name":"Tomfarney",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73889,
+    52.435,
+    -6.73889,
+    52.435
+],
+  "geometry": {"coordinates":[-6.73889,52.435],"type":"Point"}
+}

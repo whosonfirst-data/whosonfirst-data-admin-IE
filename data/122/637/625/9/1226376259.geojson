@@ -1,0 +1,66 @@
+{
+  "id": 1226376259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.23917,52.28722,-8.23917,52.28722",
+    "geom:latitude":52.28722,
+    "geom:longitude":-8.23917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Collyregan",
+    "gn:country_code":"IE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300877,
+    "gn:latitude":52.28722,
+    "gn:longitude":-8.23917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Collyregan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300877
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3cb005439898fffb59d0527f4a718116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226376259,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1226376259,
+    "wof:lastmodified":1536745348,
+    "wof:name":"Collyregan",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.23917,
+    52.28722,
+    -8.23917,
+    52.28722
+],
+  "geometry": {"coordinates":[-8.23917,52.28722],"type":"Point"}
+}

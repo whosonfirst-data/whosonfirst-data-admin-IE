@@ -1,0 +1,80 @@
+{
+  "id": 1125276373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.353917,54.030549,-6.353917,54.030549",
+    "geom:latitude":54.030549,
+    "geom:longitude":-6.353917,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":54.030549,
+    "lbl:longitude":-6.353917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ballymascanlan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Louth",
+    "qs_pg:photos":100,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":317,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1062345,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074561,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Louth",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20074561,
+        "qs_pg:id":1062345
+    },
+    "wof:country":"IE",
+    "wof:created":1497042333,
+    "wof:geomhash":"1dea5072ea131f1528fdc72471163ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125276373,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1125276373,
+    "wof:lastmodified":1509387162,
+    "wof:name":"Ballymascanlan",
+    "wof:parent_id":85685087,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.353917,
+    54.030549,
+    -6.353917,
+    54.030549
+],
+  "geometry": {"coordinates":[-6.353917,54.030549],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293424275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41194,51.83333,-8.41194,51.83333",
+    "geom:latitude":51.83333,
+    "geom:longitude":-8.41194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Balliarea Cross",
+    "gn:country_code":"IE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294192,
+    "gn:latitude":51.83333,
+    "gn:longitude":-8.41194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Balliarea Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294192
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ccd9162f0d435bf1739ad001a4886074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293424275,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293424275,
+    "wof:lastmodified":1536877373,
+    "wof:name":"Balliarea Cross",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41194,
+    51.83333,
+    -8.41194,
+    51.83333
+],
+  "geometry": {"coordinates":[-8.41194,51.83333],"type":"Point"}
+}

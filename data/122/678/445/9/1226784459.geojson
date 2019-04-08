@@ -1,0 +1,72 @@
+{
+  "id": 1226784459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.90194,53.86583,-9.90194,53.86583",
+    "geom:latitude":53.86583,
+    "geom:longitude":-9.90194,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Bolinglanna",
+    "gn:country_code":"IE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230361,
+    "gn:latitude":53.86583,
+    "gn:longitude":-9.90194,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Bolinglanna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bolinglanna"
+    ],
+    "name:gle_x_preferred":[
+        "Buaile an Ghleanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230361
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"df24b6c004f74c6b3ff4a7f05a54afca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226784459,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1226784459,
+    "wof:lastmodified":1537636763,
+    "wof:name":"Bolinglanna",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.90194,
+    53.86583,
+    -9.90194,
+    53.86583
+],
+  "geometry": {"coordinates":[-9.90194,53.86583],"type":"Point"}
+}

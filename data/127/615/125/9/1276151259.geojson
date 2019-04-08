@@ -1,0 +1,66 @@
+{
+  "id": 1276151259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93333,51.98333,-8.93333,51.98333",
+    "geom:latitude":51.98333,
+    "geom:longitude":-8.93333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballynagree",
+    "gn:country_code":"IE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966467,
+    "gn:latitude":51.98333,
+    "gn:longitude":-8.93333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballynagree",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966467
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"67170bd0852ed44fd82ffb2084553f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276151259,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276151259,
+    "wof:lastmodified":1537021832,
+    "wof:name":"Ballynagree",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93333,
+    51.98333,
+    -8.93333,
+    51.98333
+],
+  "geometry": {"coordinates":[-8.93333,51.98333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276695897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.2375,52.92889,-8.2375,52.92889",
+    "geom:latitude":52.92889,
+    "geom:longitude":-8.2375,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Puckaun",
+    "gn:country_code":"IE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961993,
+    "gn:latitude":52.92889,
+    "gn:longitude":-8.2375,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Puckaun",
+    "gn:population":273,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961993
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ec7d17d11fc4ecb218f488521bca39ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276695897,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276695897,
+    "wof:lastmodified":1536790227,
+    "wof:name":"Puckaun",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":273,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.2375,
+    52.92889,
+    -8.2375,
+    52.92889
+],
+  "geometry": {"coordinates":[-8.2375,52.92889],"type":"Point"}
+}

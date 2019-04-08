@@ -1,0 +1,72 @@
+{
+  "id": 1310040625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13333,55.1,-8.13333,55.1",
+    "geom:latitude":55.1,
+    "geom:longitude":-8.13333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Beltany Upper",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966205,
+    "gn:latitude":55.1,
+    "gn:longitude":-8.13333,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Beltany Upper",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beltany Upper"
+    ],
+    "name:gle_x_preferred":[
+        "An Bhealtaine Uachtarach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966205
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"08a194ce64b29dfb02a70740a9dcc077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310040625,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1310040625,
+    "wof:lastmodified":1537636754,
+    "wof:name":"Beltany Upper",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13333,
+    55.1,
+    -8.13333,
+    55.1
+],
+  "geometry": {"coordinates":[-8.13333,55.1],"type":"Point"}
+}

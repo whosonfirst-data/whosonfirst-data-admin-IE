@@ -1,0 +1,72 @@
+{
+  "id": 1209851867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.16222,52.26,-10.16222,52.26",
+    "geom:latitude":52.26,
+    "geom:longitude":-10.16222,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Ballyquin",
+    "gn:country_code":"IE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966423,
+    "gn:latitude":52.26,
+    "gn:longitude":-10.16222,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Ballyquin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballyquin"
+    ],
+    "name:gle_x_preferred":[
+        "Baile U\u00ed Dhuinn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966423
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"38ea7a9b6c54bcc8468dbf311b7a45e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209851867,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1209851867,
+    "wof:lastmodified":1537636755,
+    "wof:name":"Ballyquin",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.16222,
+    52.26,
+    -10.16222,
+    52.26
+],
+  "geometry": {"coordinates":[-10.16222,52.26],"type":"Point"}
+}

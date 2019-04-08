@@ -1,0 +1,121 @@
+{
+  "id": 1125981775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.03722,53.27778,-8.03722,53.27778",
+    "geom:latitude":53.27778,
+    "geom:longitude":-8.03722,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":206,
+    "iso:country":"IE",
+    "lbl:latitude":53.27778,
+    "lbl:longitude":-8.03722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u043d\u043e\u043d\u0431\u0440\u0438\u0434\u0433\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:dut_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:eng_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:fre_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:ger_x_preferred":[
+        "Shannonbridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead na Sionainne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u043d\u043e\u043d\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Shannonbridge"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961516,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Shannonbridge",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":228,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":228,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156420,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562212,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961516,
+        "gp:id":562212,
+        "qs_pg:id":1156420,
+        "wd:id":"Q1973783"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298592,
+    "wof:geomhash":"67ae7eaab351d2a358004e0d4b6a3bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125981775,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125981775,
+    "wof:lastmodified":1514450648,
+    "wof:name":"Shannonbridge",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:population":206,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.03722,
+    53.27778,
+    -8.03722,
+    53.27778
+],
+  "geometry": {"coordinates":[-8.03722,53.27778],"type":"Point"}
+}

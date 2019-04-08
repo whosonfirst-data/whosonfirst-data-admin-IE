@@ -1,0 +1,110 @@
+{
+  "id": 101805863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":488139.593043,
+    "geom:bbox":"-8.01202369902,52.0885749959,-7.99673459329,52.0987734266",
+    "geom:latitude":52.093235,
+    "geom:longitude":-8.005094,
+    "gn:population":962,
+    "iso:country":"IE",
+    "lbl:latitude":52.09278,
+    "lbl:longitude":-8.005848,
+    "mps:latitude":52.09278,
+    "mps:longitude":-8.005848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Tallow"
+    ],
+    "name:deu_x_preferred":[
+        "Tallow"
+    ],
+    "name:dut_x_preferred":[
+        "Tallow"
+    ],
+    "name:eng_x_preferred":[
+        "Tallow"
+    ],
+    "name:eus_x_preferred":[
+        "Tallow"
+    ],
+    "name:ger_x_preferred":[
+        "Tallow"
+    ],
+    "name:gle_x_preferred":[
+        "Tulach an Iarainn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Tallow"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Waterford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Tallow",
+    "qs:la_lc":"*IE2405227086",
+    "qs:level":"locality",
+    "qs:loc":"Tallow",
+    "qs:loc_alt":"Tallow",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":560,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e62a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961282,
+        "gp:id":20074237,
+        "qs:id":5,
+        "wd:id":"Q4450529",
+        "wk:page":"Tallow, County Waterford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0e900abd329e0123a15cf4c017f22e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805863,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":101805863,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642970,
+    "wof:name":"Tallow",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:population":962,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.01202369901512,
+    52.08857499588117,
+    -7.99673459329409,
+    52.09877342656068
+],
+  "geometry": {"coordinates":[[[-8.00635263778179,52.09877342656068],[-8.00491728399618,52.09530543623026],[-8.00065328117711,52.09596678167105],[-8.00029456159638,52.09509976529432],[-7.99887322704939,52.09532017484855],[-7.99851454993956,52.09445315193983],[-7.99709322793547,52.09467353957189],[-7.99673459329409,52.09380651013214],[-7.99957717378118,52.09336572770167],[-7.99921850554438,52.09249870648614],[-8.00348220413133,52.09183742007974],[-8.00240607394903,52.08923639102431],[-8.00666942910061,52.08857499588117],[-8.00738698418314,52.0903089873475],[-8.00880812763069,52.09008847845939],[-8.00988466467754,52.09268943879005],[-8.01130587134696,52.09246889813835],[-8.01202369901512,52.09420285377593],[-8.00775988845913,52.09486445425523],[-8.00847763252125,52.09659843296413],[-8.00705628599246,52.09681894229527],[-8.00777404784202,52.09855292439005],[-8.00635263778179,52.09877342656068]]],"type":"Polygon"}
+}

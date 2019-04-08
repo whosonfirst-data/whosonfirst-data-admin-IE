@@ -1,0 +1,80 @@
+{
+  "id": 1125334823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.936455,52.843061,-6.936455,52.843061",
+    "geom:latitude":52.843061,
+    "geom:longitude":-6.936455,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.843061,
+    "lbl:longitude":-6.936455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Graigue",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119556,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071211,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20071211,
+        "qs_pg:id":1119556
+    },
+    "wof:country":"IE",
+    "wof:created":1497045342,
+    "wof:geomhash":"54648ceb7f953276d23835dd495f88d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125334823,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1125334823,
+    "wof:lastmodified":1509388471,
+    "wof:name":"Graigue",
+    "wof:parent_id":85685005,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.936455,
+    52.843061,
+    -6.936455,
+    52.843061
+],
+  "geometry": {"coordinates":[-6.936455,52.843061],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1126014141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.50417,52.51,-7.50417,52.51",
+    "geom:latitude":52.51,
+    "geom:longitude":-7.50417,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":481,
+    "iso:country":"IE",
+    "lbl:latitude":52.51,
+    "lbl:longitude":-7.50417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Mullinahone"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u043b\u0438\u043d\u0430\u0445\u043e\u043d\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Mullinahone"
+    ],
+    "name:eng_x_preferred":[
+        "Mullinahone"
+    ],
+    "name:fre_x_preferred":[
+        "Mullinahone"
+    ],
+    "name:gle_x_preferred":[
+        "Muileann na hUamhan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043b\u0438\u043d\u0430\u0445\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Mullinahone"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mullinahone",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013846,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561807,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962363,
+        "gp:id":561807,
+        "qs_pg:id":1013846,
+        "wd:id":"Q4278040"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300450,
+    "wof:geomhash":"c69a806efc603b39e6643155aacae29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126014141,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1126014141,
+    "wof:lastmodified":1530148385,
+    "wof:name":"Mullinahone",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:population":481,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50417,
+    52.51,
+    -7.50417,
+    52.51
+],
+  "geometry": {"coordinates":[-7.50417,52.51],"type":"Point"}
+}

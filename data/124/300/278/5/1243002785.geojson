@@ -1,0 +1,70 @@
+{
+  "id": 1243002785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.15917,53.29556,-9.15917,53.29556",
+    "geom:latitude":53.29556,
+    "geom:longitude":-9.15917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Lissagurraun",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312413,
+    "gn:latitude":53.29556,
+    "gn:longitude":-9.15917,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Lissagurraun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Lios an Gharr\u00e1in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312413,
+        "wk:page":"Lissagurraun"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"56803156f945523ceb2c130a16863895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243002785,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1243002785,
+    "wof:lastmodified":1537636780,
+    "wof:name":"Lissagurraun",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.15917,
+    53.29556,
+    -9.15917,
+    53.29556
+],
+  "geometry": {"coordinates":[-9.15917,53.29556],"type":"Point"}
+}

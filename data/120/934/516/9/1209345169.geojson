@@ -1,0 +1,66 @@
+{
+  "id": 1209345169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.18944,52.72306,-6.18944,52.72306",
+    "geom:latitude":52.72306,
+    "geom:longitude":-6.18944,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Castletown",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3226389,
+    "gn:latitude":52.72306,
+    "gn:longitude":-6.18944,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Castletown",
+    "gn:population":1195,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3226389,
+        "wk:page":"Castletown%2C_County_Wexford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"057945117b1a340f12e3fa73cee8ec9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209345169
+        }
+    ],
+    "wof:id":1209345169,
+    "wof:lastmodified":1537564852,
+    "wof:name":"Castletown",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":1195,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18944,
+    52.72306,
+    -6.18944,
+    52.72306
+],
+  "geometry": {"coordinates":[-6.18944,52.72306],"type":"Point"}
+}

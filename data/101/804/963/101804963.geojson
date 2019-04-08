@@ -1,0 +1,155 @@
+{
+  "id": 101804963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000183,
+    "geom:area_square_m":1334406.891656,
+    "geom:bbox":"-8.51347867588,53.7595413219,-8.47383543626,53.7729210353",
+    "geom:latitude":53.766655,
+    "geom:longitude":-8.491371,
+    "gn:population":1985,
+    "iso:country":"IE",
+    "lbl:latitude":53.763374,
+    "lbl:longitude":-8.482812,
+    "mps:latitude":53.763374,
+    "mps:longitude":-8.482812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Castlerea"
+    ],
+    "name:cat_x_preferred":[
+        "Castlerea"
+    ],
+    "name:cze_x_preferred":[
+        "Castlerea"
+    ],
+    "name:deu_x_preferred":[
+        "Castlerea"
+    ],
+    "name:dut_x_preferred":[
+        "Castlerea"
+    ],
+    "name:eng_x_preferred":[
+        "Castlereagh"
+    ],
+    "name:eng_x_variant":[
+        "Castlerea"
+    ],
+    "name:eus_x_preferred":[
+        "Castlerea"
+    ],
+    "name:fra_x_preferred":[
+        "Castlerea"
+    ],
+    "name:fre_x_preferred":[
+        "Castlerea"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10da\u10e0\u10d4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Castlerea"
+    ],
+    "name:gle_x_preferred":[
+        "An Caisle\u00e1n Riabhach"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05dc\u05e8\u05d9\u05d0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Castlerea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30c3\u30b9\u30eb\u30ec\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10da\u10e0\u10d4\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0440\u0435\u0439"
+    ],
+    "name:nld_x_preferred":[
+        "Castlerea"
+    ],
+    "name:pol_x_preferred":[
+        "Castlerea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0440\u0435\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "An Caisle\u00e1n Riabhach"
+    ],
+    "name:swe_x_preferred":[
+        "Castlerea"
+    ],
+    "name:wel_x_preferred":[
+        "An Caisle\u00e1n Riabhach"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Roscommon",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Castlereagh",
+    "qs:la_lc":"*IE1304197032",
+    "qs:level":"locality",
+    "qs:loc":"Castlereagh",
+    "qs:loc_alt":"Castlereagh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":813,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117e0370-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965570,
+        "gp:id":20073776,
+        "qs:id":1311076,
+        "wd:id":"Q1049654",
+        "wk:page":"Castlerea"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2779e64c695fa4fce9325a6a2e8cfa8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804963,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":101804963,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Castlereagh",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":1985,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.51347867587606,
+    53.75954132185387,
+    -8.47383543626324,
+    53.77292103528885
+],
+  "geometry": {"coordinates":[[[-8.49284999956069,53.77292103528885],[-8.49090376570666,53.76859776633569],[-8.48943031727265,53.76882528207119],[-8.48904115603847,53.76796061785592],[-8.48756772058908,53.76818811057643],[-8.48717860622986,53.76732343932804],[-8.48570518376738,53.76755090903384],[-8.48531611628022,53.76668623075341],[-8.47647544104154,53.76805064575683],[-8.47569769465207,53.76632122007913],[-8.47422425293814,53.76654855003949],[-8.47383543626324,53.76568382932754],[-8.47530885042272,53.76545650470177],[-8.47492002550212,53.76459178763207],[-8.47639339755625,53.76436445066435],[-8.47561575053373,53.76263502211714],[-8.48003561408365,53.76195293716881],[-8.47925787900749,53.760223533859],[-8.48367744631827,53.75954132185387],[-8.48406638682945,53.76040600834909],[-8.48553957436638,53.76017856366519],[-8.48592856172968,53.7610432431303],[-8.48740176225112,53.7608157754367],[-8.48817985000358,53.76254511861043],[-8.48965309104869,53.7623176225689],[-8.49198798323926,53.76750557938732],[-8.49346137498924,53.76727803363957],[-8.49385061887153,53.76814268183654],[-8.49827078934845,53.76745992252148],[-8.49788146282765,53.76659529034566],[-8.50377470928657,53.76568471851351],[-8.50416414597657,53.76654932932263],[-8.50563744869822,53.76632163683803],[-8.5068059574229,53.76891544305136],[-8.51269935301292,53.76800443225568],[-8.51347867587606,53.76973358515193],[-8.5061116195119,53.7708723579052],[-8.50650117224535,53.77173695852866],[-8.50355419253469,53.77219235459154],[-8.50316469489735,53.77132774328084],[-8.50169121072156,53.77155540945489],[-8.50130175997458,53.7706907911043],[-8.4954077877062,53.77160125766795],[-8.49579712824806,53.77246589738616],[-8.49284999956069,53.77292103528885]]],"type":"Polygon"}
+}

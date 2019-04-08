@@ -1,0 +1,73 @@
+{
+  "id": 1343892653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.25,54.1,-8.25,54.1",
+    "geom:latitude":54.1,
+    "geom:longitude":-8.25,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Geevagh",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964131,
+    "gn:latitude":54.1,
+    "gn:longitude":-8.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Geevagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Geevagh"
+    ],
+    "name:gle_x_preferred":[
+        "An Ghaobhach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964131,
+        "wk:page":"Geevagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bc4cd8f2a240536215185e77b36be9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343892653,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343892653,
+    "wof:lastmodified":1537636739,
+    "wof:name":"Geevagh",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.25,
+    54.1,
+    -8.25,
+    54.1
+],
+  "geometry": {"coordinates":[-8.25,54.1],"type":"Point"}
+}

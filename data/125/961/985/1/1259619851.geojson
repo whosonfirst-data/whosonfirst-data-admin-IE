@@ -1,0 +1,67 @@
+{
+  "id": 1259619851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.96639,54.28667,-6.96639,54.28667",
+    "geom:latitude":54.28667,
+    "geom:longitude":-6.96639,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22.0",
+    "gn:asciiname":"Tirnaneill Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310638,
+    "gn:latitude":54.28667,
+    "gn:longitude":-6.96639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tirnaneill Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310638,
+        "wk:page":"Tirnaneill"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"68567cf31a8f8eb990e3446a3d9e4c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259619851,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1259619851,
+    "wof:lastmodified":1537564855,
+    "wof:name":"Tirnaneill Cross Roads",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.96639,
+    54.28667,
+    -6.96639,
+    54.28667
+],
+  "geometry": {"coordinates":[-6.96639,54.28667],"type":"Point"}
+}

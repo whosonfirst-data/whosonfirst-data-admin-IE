@@ -1,0 +1,66 @@
+{
+  "id": 1327269845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.56472,52.80222,-8.56472,52.80222",
+    "geom:latitude":52.80222,
+    "geom:longitude":-8.56472,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Kilbane",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963505,
+    "gn:latitude":52.80222,
+    "gn:longitude":-8.56472,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilbane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963505
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c64c9f6b78b3322da23e9422835a9f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327269845,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1327269845,
+    "wof:lastmodified":1536916041,
+    "wof:name":"Kilbane",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.56472,
+    52.80222,
+    -8.56472,
+    52.80222
+],
+  "geometry": {"coordinates":[-8.56472,52.80222],"type":"Point"}
+}

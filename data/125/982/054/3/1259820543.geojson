@@ -1,0 +1,66 @@
+{
+  "id": 1259820543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.58833,55.03417,-7.58833,55.03417",
+    "geom:latitude":55.03417,
+    "geom:longitude":-7.58833,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Gortaway",
+    "gn:country_code":"IE",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307601,
+    "gn:latitude":55.03417,
+    "gn:longitude":-7.58833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Gortaway",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307601
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"52f714452f7418bd450144716ed61c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259820543,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1259820543,
+    "wof:lastmodified":1536868722,
+    "wof:name":"Gortaway",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.58833,
+    55.03417,
+    -7.58833,
+    55.03417
+],
+  "geometry": {"coordinates":[-7.58833,55.03417],"type":"Point"}
+}

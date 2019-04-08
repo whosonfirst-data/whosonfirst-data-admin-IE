@@ -1,0 +1,66 @@
+{
+  "id": 1259412251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93246,53.39633,-9.93246,53.39633",
+    "geom:latitude":53.39633,
+    "geom:longitude":-9.93246,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Boulard",
+    "gn:country_code":"IE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10247800,
+    "gn:latitude":53.39633,
+    "gn:longitude":-9.93246,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Boulard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10247800
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a906e19e6ac56009ae8ae6489c8f2c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259412251,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1259412251,
+    "wof:lastmodified":1536961165,
+    "wof:name":"Boulard",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93246,
+    53.39633000000001,
+    -9.93246,
+    53.39633000000001
+],
+  "geometry": {"coordinates":[-9.93246,53.39633000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243399669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33435,53.86677,-9.33435,53.86677",
+    "geom:latitude":53.86677,
+    "geom:longitude":-9.33435,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kilnageer",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315801,
+    "gn:latitude":53.86677,
+    "gn:longitude":-9.33435,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kilnageer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315801
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8046539c48bc4fae146531951d40fa53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243399669,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1243399669,
+    "wof:lastmodified":1536871975,
+    "wof:name":"Kilnageer",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33435,
+    53.86677,
+    -9.33435,
+    53.86677
+],
+  "geometry": {"coordinates":[-9.33435,53.86677],"type":"Point"}
+}

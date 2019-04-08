@@ -1,0 +1,72 @@
+{
+  "id": 1343698735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.5,53.5,-9.5,53.5",
+    "geom:latitude":53.5,
+    "geom:longitude":-9.5,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Claggan",
+    "gn:country_code":"IE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965492,
+    "gn:latitude":53.5,
+    "gn:longitude":-9.5,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Claggan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Claggan"
+    ],
+    "name:gle_x_preferred":[
+        "An Cloigeann"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965492
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a7885a9470121b6b8937f9101657919d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343698735,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1343698735,
+    "wof:lastmodified":1537636749,
+    "wof:name":"Claggan",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.5,
+    53.5,
+    -9.5,
+    53.5
+],
+  "geometry": {"coordinates":[-9.5,53.5],"type":"Point"}
+}

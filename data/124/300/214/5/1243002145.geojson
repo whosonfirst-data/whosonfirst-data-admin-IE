@@ -1,0 +1,66 @@
+{
+  "id": 1243002145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.73064,53.58457,-6.73064,53.58457",
+    "geom:latitude":53.58457,
+    "geom:longitude":-6.73064,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Balbrigh",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867275,
+    "gn:latitude":53.58457,
+    "gn:longitude":-6.73064,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Balbrigh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867275
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8c897f835cc77700ee53bf07609c2835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243002145,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1243002145,
+    "wof:lastmodified":1536949531,
+    "wof:name":"Balbrigh",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.73064,
+    53.58456999999999,
+    -6.73064,
+    53.58456999999999
+],
+  "geometry": {"coordinates":[-6.73064,53.58456999999999],"type":"Point"}
+}

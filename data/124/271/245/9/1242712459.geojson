@@ -1,0 +1,66 @@
+{
+  "id": 1242712459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63333,54.83333,-7.63333,54.83333",
+    "geom:latitude":54.83333,
+    "geom:longitude":-7.63333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Carnowen",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965755,
+    "gn:latitude":54.83333,
+    "gn:longitude":-7.63333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Carnowen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965755
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"17684f81cf068b29080b0e8dd5515935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242712459,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1242712459,
+    "wof:lastmodified":1536868332,
+    "wof:name":"Carnowen",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63333,
+    54.83333,
+    -7.63333,
+    54.83333
+],
+  "geometry": {"coordinates":[-7.63333,54.83333],"type":"Point"}
+}

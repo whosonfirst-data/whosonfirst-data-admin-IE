@@ -1,0 +1,66 @@
+{
+  "id": 1243098321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76583,53.21667,-8.76583,53.21667",
+    "geom:latitude":53.21667,
+    "geom:longitude":-8.76583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Carrigeen",
+    "gn:country_code":"IE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965704,
+    "gn:latitude":53.21667,
+    "gn:longitude":-8.76583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carrigeen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965704
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"159edd97a741afdb811a989199af4699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243098321,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1243098321,
+    "wof:lastmodified":1536809932,
+    "wof:name":"Carrigeen",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76583,
+    53.21666999999999,
+    -8.76583,
+    53.21666999999999
+],
+  "geometry": {"coordinates":[-8.76583,53.21666999999999],"type":"Point"}
+}

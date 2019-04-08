@@ -1,0 +1,117 @@
+{
+  "id": 101845625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":487825.216282,
+    "geom:bbox":"-7.46439851757,54.93169127,-7.44805840168,54.9386358691",
+    "geom:latitude":54.935157,
+    "geom:longitude":-7.455514,
+    "gn:population":583,
+    "iso:country":"IE",
+    "lbl:latitude":54.935561,
+    "lbl:longitude":-7.452907,
+    "mps:latitude":54.935561,
+    "mps:longitude":-7.452907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "St. Johnston"
+    ],
+    "name:dut_x_preferred":[
+        "St Johnston"
+    ],
+    "name:eng_x_preferred":[
+        "St Johnstown"
+    ],
+    "name:eng_x_variant":[
+        "Saint Johnstown",
+        "St Johnston"
+    ],
+    "name:eus_x_preferred":[
+        "St. Johnston"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Suingean"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Suingean"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30b8\u30e7\u30f3\u30b9\u30c8\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d\u0441\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "St Johnston"
+    ],
+    "name:unk_x_variant":[
+        "Saint Johnston"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"St. Johnstown",
+    "qs:la_lc":"*IE1102057135",
+    "qs:level":"locality",
+    "qs:loc":"Saint Johnstown",
+    "qs:loc_alt":"Saint Johnstown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":975,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c94a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961622,
+        "gp:id":20071996,
+        "qs:id":7,
+        "wd:id":"Q2080441",
+        "wk:page":"St Johnston"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3bcf89e25051ec40e501ed1fb424c618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101845625,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101845625,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642316,
+    "wof:name":"Saint Johnstown",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":583,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46439851756514,
+    54.93169127003154,
+    -7.44805840168169,
+    54.93863586913426
+],
+  "geometry": {"coordinates":[[[-7.45719597669051,54.93863586913426],[-7.45681333331777,54.9377677995397],[-7.45073551523865,54.93863086969037],[-7.44805840168169,54.93255419248538],[-7.45413538052838,54.93169127003154],[-7.45528295656243,54.93429550603702],[-7.45984080408323,54.9336480740069],[-7.45945816916935,54.93278001267851],[-7.46401579275954,54.93213243129958],[-7.46439851756514,54.93300047679674],[-7.46287929463261,54.93321636088638],[-7.46364474334734,54.93495245789472],[-7.46212544558801,54.9351683341867],[-7.46250816949475,54.93603638569846],[-7.46098882687011,54.93625224891395],[-7.4613715404854,54.93712030418993],[-7.45833275060301,54.93755198611177],[-7.45871542395099,54.93842005042944],[-7.45719597669051,54.93863586913426]]],"type":"Polygon"}
+}

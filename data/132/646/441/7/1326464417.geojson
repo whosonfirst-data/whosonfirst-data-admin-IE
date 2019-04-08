@@ -1,0 +1,67 @@
+{
+  "id": 1326464417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.46518,51.87914,-8.46518,51.87914",
+    "geom:latitude":51.87914,
+    "geom:longitude":-8.46518,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Turners Cross",
+    "gn:country_code":"IE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838928,
+    "gn:latitude":51.87914,
+    "gn:longitude":-8.46518,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Turners Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838928,
+        "wk:page":"Turners_Cross_%28stadium%29"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"156156503e7a8ecae263f688c3396c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326464417,
+            "region_id":85684945
+        }
+    ],
+    "wof:id":1326464417,
+    "wof:lastmodified":1537564858,
+    "wof:name":"Turners Cross",
+    "wof:parent_id":85684945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.46518,
+    51.87914,
+    -8.46518,
+    51.87914
+],
+  "geometry": {"coordinates":[-8.46518,51.87914],"type":"Point"}
+}

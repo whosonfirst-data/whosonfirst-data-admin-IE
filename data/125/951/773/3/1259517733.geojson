@@ -1,0 +1,66 @@
+{
+  "id": 1259517733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.19861,52.03278,-8.19861,52.03278",
+    "geom:latitude":52.03278,
+    "geom:longitude":-8.19861,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballyard Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300065,
+    "gn:latitude":52.03278,
+    "gn:longitude":-8.19861,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyard Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300065
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d427eb0a62d14c058e8ecf19dbee9d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259517733,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259517733,
+    "wof:lastmodified":1536809198,
+    "wof:name":"Ballyard Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.19861,
+    52.03278,
+    -8.19861,
+    52.03278
+],
+  "geometry": {"coordinates":[-8.19861,52.03278],"type":"Point"}
+}

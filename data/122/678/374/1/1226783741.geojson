@@ -1,0 +1,66 @@
+{
+  "id": 1226783741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.92667,54.25972,-7.92667,54.25972",
+    "geom:latitude":54.25972,
+    "geom:longitude":-7.92667,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Oggal",
+    "gn:country_code":"IE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311633,
+    "gn:latitude":54.25972,
+    "gn:longitude":-7.92667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Oggal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311633
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c20d35f510d3bf447a876b6a66915ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226783741,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1226783741,
+    "wof:lastmodified":1536660860,
+    "wof:name":"Oggal",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.92667,
+    54.25972,
+    -7.92667,
+    54.25972
+],
+  "geometry": {"coordinates":[-7.92667,54.25972],"type":"Point"}
+}

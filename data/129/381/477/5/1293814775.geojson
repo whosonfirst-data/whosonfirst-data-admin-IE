@@ -1,0 +1,66 @@
+{
+  "id": 1293814775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.44917,52.37444,-7.44917,52.37444",
+    "geom:latitude":52.37444,
+    "geom:longitude":-7.44917,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Figlash",
+    "gn:country_code":"IE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301546,
+    "gn:latitude":52.37444,
+    "gn:longitude":-7.44917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Figlash",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301546
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"98801b4aac14b27c599e6eb355785de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293814775,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1293814775,
+    "wof:lastmodified":1536811870,
+    "wof:name":"Figlash",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.44917,
+    52.37444,
+    -7.44917,
+    52.37444
+],
+  "geometry": {"coordinates":[-7.44917,52.37444],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343396981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46722,52.81556,-7.46722,52.81556",
+    "geom:latitude":52.81556,
+    "geom:longitude":-7.46722,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Graigueavoice",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3308036,
+    "gn:latitude":52.81556,
+    "gn:longitude":-7.46722,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Graigueavoice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308036
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"33ff1ca1d4d1b16074308f759302f6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343396981,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1343396981,
+    "wof:lastmodified":1536836724,
+    "wof:name":"Graigueavoice",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46722,
+    52.81556,
+    -7.46722,
+    52.81556
+],
+  "geometry": {"coordinates":[-7.46722,52.81556],"type":"Point"}
+}

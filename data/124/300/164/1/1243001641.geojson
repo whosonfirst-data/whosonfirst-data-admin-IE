@@ -1,0 +1,66 @@
+{
+  "id": 1243001641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.28167,55.20278,-7.28167,55.20278",
+    "geom:latitude":55.20278,
+    "geom:longitude":-7.28167,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Meenyollan",
+    "gn:country_code":"IE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307698,
+    "gn:latitude":55.20278,
+    "gn:longitude":-7.28167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Meenyollan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307698
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c22ab16ce120f12e4c57ab6b3486f312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243001641,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1243001641,
+    "wof:lastmodified":1536950255,
+    "wof:name":"Meenyollan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.28167,
+    55.20278,
+    -7.28167,
+    55.20278
+],
+  "geometry": {"coordinates":[-7.28167,55.20278],"type":"Point"}
+}

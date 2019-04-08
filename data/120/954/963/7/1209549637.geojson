@@ -1,0 +1,66 @@
+{
+  "id": 1209549637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.75,53.91667,-8.75,53.91667",
+    "geom:latitude":53.91667,
+    "geom:longitude":-8.75,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Glenmullynaha Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964024,
+    "gn:latitude":53.91667,
+    "gn:longitude":-8.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Glenmullynaha Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Glenmullynaha",
+        "Glenmullynaha Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964024
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eb3b83d77b976264f8e8bb0f4f9304d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209549637
+        }
+    ],
+    "wof:id":1209549637,
+    "wof:lastmodified":1537636739,
+    "wof:name":"Glenmullynaha Cross Roads",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.75,
+    53.91667,
+    -8.75,
+    53.91667
+],
+  "geometry": {"coordinates":[-8.75,53.91667],"type":"Point"}
+}

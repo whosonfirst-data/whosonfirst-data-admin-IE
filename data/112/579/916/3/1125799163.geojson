@@ -1,0 +1,99 @@
+{
+  "id": 1125799163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.22639,52.1575,-7.22639,52.1575",
+    "geom:latitude":52.1575,
+    "geom:longitude":-7.22639,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":52.1575,
+    "lbl:longitude":-7.22639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Fenor"
+    ],
+    "name:dut_x_preferred":[
+        "Fenor"
+    ],
+    "name:eng_x_preferred":[
+        "Fenor"
+    ],
+    "name:gle_x_preferred":[
+        "Fionn\u00fair"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964326,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fenor",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":152,
+    "qs_pg:photos_1k":31,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":152,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1164246,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387425,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964326,
+        "gp:id":29387425,
+        "qs_pg:id":1164246,
+        "wd:id":"Q5443565"
+    },
+    "wof:country":"IE",
+    "wof:created":1497291185,
+    "wof:geomhash":"d131adfa8b225d9f23a1c6a177380bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125799163,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1125799163,
+    "wof:lastmodified":1514450501,
+    "wof:name":"Fenor",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.22639,
+    52.1575,
+    -7.22639,
+    52.1575
+],
+  "geometry": {"coordinates":[-7.22639,52.1575],"type":"Point"}
+}

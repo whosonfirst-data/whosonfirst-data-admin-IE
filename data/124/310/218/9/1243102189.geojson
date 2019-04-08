@@ -1,0 +1,67 @@
+{
+  "id": 1243102189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03806,52.79667,-7.03806,52.79667",
+    "geom:latitude":52.79667,
+    "geom:longitude":-7.03806,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"01",
+    "gn:asciiname":"Bilboa",
+    "gn:country_code":"IE",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966166,
+    "gn:latitude":52.79667,
+    "gn:longitude":-7.03806,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Bilboa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966166,
+        "wk:page":"Bilboa"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5745c0e0e18dcf57d368c010e400fd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243102189,
+            "region_id":85684975
+        }
+    ],
+    "wof:id":1243102189,
+    "wof:lastmodified":1537564849,
+    "wof:name":"Bilboa",
+    "wof:parent_id":85684975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03806,
+    52.79667,
+    -7.03806,
+    52.79667
+],
+  "geometry": {"coordinates":[-7.03806,52.79667],"type":"Point"}
+}

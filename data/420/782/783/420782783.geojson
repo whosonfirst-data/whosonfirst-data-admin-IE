@@ -1,0 +1,72 @@
+{
+  "id": 420782783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.27791740322,53.3392764551,-6.27791740322,53.3392764551",
+    "geom:latitude":53.339276,
+    "geom:longitude":-6.277917,
+    "iso:country":"IE",
+    "lbl:latitude":53.339276,
+    "lbl:longitude":-6.277917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":0,
+    "name:gla_x_preferred":[
+        "Na Saoirs\u00ed"
+    ],
+    "name:gle_x_preferred":[
+        "Na Saoirs\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435-\u041b\u0438\u0431\u0435\u0440\u0442\u0438\u0441"
+    ],
+    "wd:wordcount":3833,
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3776828"
+    },
+    "wof:country":"IE",
+    "wof:created":1458871855,
+    "wof:geomhash":"d8f889c2edf52cfcfdf1fe0a6bb14e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":420782783,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":420782783,
+    "wof:lastmodified":1527726677,
+    "wof:name":"The Liberties",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27791740321593,
+    53.33927645507569,
+    -6.27791740321593,
+    53.33927645507569
+],
+  "geometry": {"coordinates":[-6.27791740321593,53.33927645507569],"type":"Point"}
+}

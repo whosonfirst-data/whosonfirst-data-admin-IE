@@ -1,0 +1,62 @@
+{
+  "id": 1293031515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.74083,51.83861,-9.74083,51.83861",
+    "geom:latitude":51.83861,
+    "geom:longitude":-9.74083,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Coornagillagh",
+    "gn:country_code":"IE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3295237,
+    "gn:latitude":51.83861,
+    "gn:longitude":-9.74083,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Coornagillagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3295237
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"18b49c419144a044bc9840bbd3528eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293031515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293031515,
+    "wof:lastmodified":1536947886,
+    "wof:name":"Coornagillagh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.74083,
+    51.83861,
+    -9.74083,
+    51.83861
+],
+  "geometry": {"coordinates":[-9.74083,51.83861],"type":"Point"}
+}

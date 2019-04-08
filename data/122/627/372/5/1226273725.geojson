@@ -1,0 +1,67 @@
+{
+  "id": 1226273725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.31333,55.05444,-7.31333,55.05444",
+    "geom:latitude":55.05444,
+    "geom:longitude":-7.31333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Lenamore",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307666,
+    "gn:latitude":55.05444,
+    "gn:longitude":-7.31333,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Lenamore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307666,
+        "wk:page":"Lenamore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b9ee594338cfb7f5761d348ba04650d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226273725,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1226273725,
+    "wof:lastmodified":1537564854,
+    "wof:name":"Lenamore",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.31333,
+    55.05444,
+    -7.31333,
+    55.05444
+],
+  "geometry": {"coordinates":[-7.31333,55.05444],"type":"Point"}
+}

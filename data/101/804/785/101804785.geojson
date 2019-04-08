@@ -1,0 +1,110 @@
+{
+  "id": 101804785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000062,
+    "geom:area_square_m":458131.897015,
+    "geom:bbox":"-6.82643892491,53.2668138173,-6.81193774158,53.2777186408",
+    "geom:latitude":53.271355,
+    "geom:longitude":-6.819053,
+    "gn:population":669,
+    "iso:country":"IE",
+    "lbl:latitude":53.26998,
+    "lbl:longitude":-6.817955,
+    "mps:latitude":53.26998,
+    "mps:longitude":-6.817955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Robertstown"
+    ],
+    "name:eng_x_preferred":[
+        "Robertstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Roibeard"
+    ],
+    "name:gle_x_variant":[
+        "Baile Riobaird"
+    ],
+    "name:lit_x_preferred":[
+        "Robertstaunas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0431\u0435\u0440\u0442\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Robertstown"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Kildare",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Robertstown",
+    "qs:la_lc":"*IE2201087082",
+    "qs:level":"locality",
+    "qs:loc":"Robertstown",
+    "qs:loc_alt":"Robertstown",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":85.0,
+    "wd:latitude":53.278,
+    "wd:longitude":-6.82,
+    "wd:wordcount":366,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117fedd4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961777,
+        "gp:id":562094,
+        "qs:id":265454,
+        "qs_pg:id":265454,
+        "wd:id":"Q3308027",
+        "wk:page":"Robertstown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5a3d6ae6db7cb4fd695316be16a42f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804785,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":101804785,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Robertstown",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":669,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.8264389249091,
+    53.26681381734937,
+    -6.81193774158447,
+    53.27771864077818
+],
+  "geometry": {"coordinates":[[[-6.82086218053587,53.27771864077818],[-6.81911849516626,53.27336538809595],[-6.81765437037819,53.27357228887229],[-6.81730571249665,53.27270162928977],[-6.8158416023291,53.27290850761653],[-6.81444725309365,53.26942583593484],[-6.81298324023675,53.269632677392],[-6.81193774158447,53.26702064438808],[-6.81340167176364,53.26681381734937],[-6.81375018167626,53.26768449162284],[-6.81960588324603,53.26685698785263],[-6.82065184686655,53.26946894451532],[-6.82211582257685,53.26926201005131],[-6.82316202372181,53.27187393957212],[-6.82609010165544,53.27145998887016],[-6.8264389249091,53.27233061959782],[-6.82204670590579,53.27295153361922],[-6.82379066694,53.27730473820606],[-6.82086218053587,53.27771864077818]]],"type":"Polygon"}
+}

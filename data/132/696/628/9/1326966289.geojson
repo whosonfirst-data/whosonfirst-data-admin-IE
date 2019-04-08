@@ -1,0 +1,66 @@
+{
+  "id": 1326966289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04056,54.07083,-7.04056,54.07083",
+    "geom:latitude":54.07083,
+    "geom:longitude":-7.04056,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Ballynahaia",
+    "gn:country_code":"IE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309610,
+    "gn:latitude":54.07083,
+    "gn:longitude":-7.04056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballynahaia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309610
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7188e74c1b4552ff244edd6a34b0337f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326966289,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1326966289,
+    "wof:lastmodified":1536854562,
+    "wof:name":"Ballynahaia",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04056,
+    54.07083000000001,
+    -7.04056,
+    54.07083000000001
+],
+  "geometry": {"coordinates":[-7.04056,54.07083000000001],"type":"Point"}
+}

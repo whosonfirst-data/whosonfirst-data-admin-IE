@@ -1,0 +1,66 @@
+{
+  "id": 1277106019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.69505,53.59388,-9.69505,53.59388",
+    "geom:latitude":53.59388,
+    "geom:longitude":-9.69505,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Derraheeda",
+    "gn:country_code":"IE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10277854,
+    "gn:latitude":53.59388,
+    "gn:longitude":-9.69505,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Derraheeda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10277854
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"74f8f18a45bf7dc877cca528def5c04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1277106019,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1277106019,
+    "wof:lastmodified":1536734327,
+    "wof:name":"Derraheeda",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.69505,
+    53.59388000000001,
+    -9.69505,
+    53.59388000000001
+],
+  "geometry": {"coordinates":[-9.69505,53.59388000000001],"type":"Point"}
+}

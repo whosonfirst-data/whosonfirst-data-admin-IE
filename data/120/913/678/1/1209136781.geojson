@@ -1,0 +1,62 @@
+{
+  "id": 1209136781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.27509,53.76602,-9.27509,53.76602",
+    "geom:latitude":53.76602,
+    "geom:longitude":-9.27509,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Knockaraha",
+    "gn:country_code":"IE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130636,
+    "gn:latitude":53.76602,
+    "gn:longitude":-9.27509,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Knockaraha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130636
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d033b7a4f053fb27dbeb5e220b2791e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209136781
+        }
+    ],
+    "wof:id":1209136781,
+    "wof:lastmodified":1536296635,
+    "wof:name":"Knockaraha",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.27509,
+    53.76602,
+    -9.27509,
+    53.76602
+],
+  "geometry": {"coordinates":[-9.27509,53.76602],"type":"Point"}
+}

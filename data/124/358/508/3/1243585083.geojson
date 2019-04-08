@@ -1,0 +1,66 @@
+{
+  "id": 1243585083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.04567,54.18413,-10.04567,54.18413",
+    "geom:latitude":54.18413,
+    "geom:longitude":-10.04567,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Manraghrory",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9805168,
+    "gn:latitude":54.18413,
+    "gn:longitude":-10.04567,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Manraghrory",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9805168
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"efc8604d899a4fd3d798d73900dfafe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243585083,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1243585083,
+    "wof:lastmodified":1536602762,
+    "wof:name":"Manraghrory",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.04567,
+    54.18413,
+    -10.04567,
+    54.18413
+],
+  "geometry": {"coordinates":[-10.04567,54.18413],"type":"Point"}
+}

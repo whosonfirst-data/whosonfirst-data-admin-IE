@@ -1,0 +1,62 @@
+{
+  "id": 1209349137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.15694,54.26139,-8.15694,54.26139",
+    "geom:latitude":54.26139,
+    "geom:longitude":-8.15694,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14",
+    "gn:asciiname":"Larkfield",
+    "gn:country_code":"IE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963019,
+    "gn:latitude":54.26139,
+    "gn:longitude":-8.15694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Larkfield",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963019
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"11b813e23a8bd25707e6bebe70899477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209349137
+        }
+    ],
+    "wof:id":1209349137,
+    "wof:lastmodified":1536289806,
+    "wof:name":"Larkfield",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.156939999999999,
+    54.26139000000001,
+    -8.156939999999999,
+    54.26139000000001
+],
+  "geometry": {"coordinates":[-8.15694,54.26139000000001],"type":"Point"}
+}

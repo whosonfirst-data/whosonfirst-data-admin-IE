@@ -1,0 +1,66 @@
+{
+  "id": 1327367821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50306,54.38722,-8.50306,54.38722",
+    "geom:latitude":54.38722,
+    "geom:longitude":-8.50306,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Grogagh",
+    "gn:country_code":"IE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311243,
+    "gn:latitude":54.38722,
+    "gn:longitude":-8.50306,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Grogagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311243
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"077a0f19b6cf4947bb29033ad7171eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327367821,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1327367821,
+    "wof:lastmodified":1536774764,
+    "wof:name":"Grogagh",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50306,
+    54.38721999999999,
+    -8.50306,
+    54.38721999999999
+],
+  "geometry": {"coordinates":[-8.50306,54.38721999999999],"type":"Point"}
+}

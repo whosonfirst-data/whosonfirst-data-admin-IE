@@ -1,0 +1,75 @@
+{
+  "id": 1326959025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.79067,53.72163,-6.79067,53.72163",
+    "geom:latitude":53.72163,
+    "geom:longitude":-6.79067,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Oristown",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962151,
+    "gn:latitude":53.72163,
+    "gn:longitude":-6.79067,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Oristown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oristown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile \u00d3rtha\u00ed"
+    ],
+    "name:gle_x_variant":[
+        "Baile \u00d3ra\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962151
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"41aa21cfa743f7b96f035fe71e5fe3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326959025,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1326959025,
+    "wof:lastmodified":1537636725,
+    "wof:name":"Oristown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.79067,
+    53.72163000000001,
+    -6.79067,
+    53.72163000000001
+],
+  "geometry": {"coordinates":[-6.79067,53.72163000000001],"type":"Point"}
+}

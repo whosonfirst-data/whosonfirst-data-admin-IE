@@ -1,0 +1,119 @@
+{
+  "id": 1125850165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09308,53.5223,-6.09308,53.5223",
+    "geom:latitude":53.5223,
+    "geom:longitude":-6.09308,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7294,
+    "gn:population":9231,
+    "iso:country":"IE",
+    "lbl:latitude":53.5223,
+    "lbl:longitude":-6.09308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u0448"
+    ],
+    "name:dan_x_preferred":[
+        "Rush"
+    ],
+    "name:dut_x_preferred":[
+        "Rush"
+    ],
+    "name:eng_x_preferred":[
+        "Rush"
+    ],
+    "name:fre_x_preferred":[
+        "Rush"
+    ],
+    "name:gle_x_preferred":[
+        "An Ros"
+    ],
+    "name:hun_x_preferred":[
+        "Rush"
+    ],
+    "name:ind_x_preferred":[
+        "Rush"
+    ],
+    "name:ita_x_preferred":[
+        "Rush"
+    ],
+    "name:pol_x_preferred":[
+        "Rush"
+    ],
+    "name:por_x_preferred":[
+        "Rush"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0448"
+    ],
+    "name:slo_x_preferred":[
+        "Rush"
+    ],
+    "name:spa_x_preferred":[
+        "Rush"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961651,
+    "qs_pg:gn_pop":7294,
+    "qs_pg:name":"An Ros",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":143030,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961651,
+        "qs_pg:id":143030,
+        "wd:id":"Q2014213"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293362,
+    "wof:geomhash":"d359bea83f7d320dfd010098bc53034b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125850165,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1125850165,
+    "wof:lastmodified":1514450407,
+    "wof:name":"An Ros",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:population":9231,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09308,
+    53.5223,
+    -6.09308,
+    53.5223
+],
+  "geometry": {"coordinates":[-6.09308,53.5223],"type":"Point"}
+}

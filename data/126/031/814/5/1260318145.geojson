@@ -1,0 +1,77 @@
+{
+  "id": 1260318145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.91694,52.22028,-6.91694,52.22028",
+    "geom:latitude":52.22028,
+    "geom:longitude":-6.91694,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Duncannon",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964544,
+    "gn:latitude":52.22028,
+    "gn:longitude":-6.91694,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Duncannon",
+    "gn:population":328,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Duncannon"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan Canann"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964544,
+        "wk:page":"Duncannon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"aefda8a57859754fefa81a914fb8eb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260318145,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1260318145,
+    "wof:lastmodified":1537636742,
+    "wof:name":"Duncannon",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":328,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.91694,
+    52.22028,
+    -6.91694,
+    52.22028
+],
+  "geometry": {"coordinates":[-6.91694,52.22028],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1310142711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.98333,54.15778,-6.98333,54.15778",
+    "geom:latitude":54.15778,
+    "geom:longitude":-6.98333,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Cremoyle",
+    "gn:country_code":"IE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309857,
+    "gn:latitude":54.15778,
+    "gn:longitude":-6.98333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cremoyle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309857
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"878039f7e42193414b7a2a20db95a750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310142711,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1310142711,
+    "wof:lastmodified":1536943306,
+    "wof:name":"Cremoyle",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.98333,
+    54.15778,
+    -6.98333,
+    54.15778
+],
+  "geometry": {"coordinates":[-6.98333,54.15778],"type":"Point"}
+}

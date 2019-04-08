@@ -1,0 +1,66 @@
+{
+  "id": 1276909885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.09889,52.95944,-6.09889,52.95944",
+    "geom:latitude":52.95944,
+    "geom:longitude":-6.09889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Ballinaclogh",
+    "gn:country_code":"IE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314983,
+    "gn:latitude":52.95944,
+    "gn:longitude":-6.09889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballinaclogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314983
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7d17a2d97583b5363d22332b5954a363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276909885,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1276909885,
+    "wof:lastmodified":1537000257,
+    "wof:name":"Ballinaclogh",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.09889,
+    52.95944,
+    -6.09889,
+    52.95944
+],
+  "geometry": {"coordinates":[-6.09889,52.95944],"type":"Point"}
+}

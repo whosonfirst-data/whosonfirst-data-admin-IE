@@ -1,0 +1,66 @@
+{
+  "id": 1242808433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.16667,53.38333,-8.16667,53.38333",
+    "geom:latitude":53.38333,
+    "geom:longitude":-8.16667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Dundonnell",
+    "gn:country_code":"IE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964534,
+    "gn:latitude":53.38333,
+    "gn:longitude":-8.16667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Dundonnell",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964534
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8858f3520fc75a37606e2b480a6387e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242808433,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1242808433,
+    "wof:lastmodified":1536731579,
+    "wof:name":"Dundonnell",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.16667,
+    53.38333000000001,
+    -8.16667,
+    53.38333000000001
+],
+  "geometry": {"coordinates":[-8.16667,53.38333000000001],"type":"Point"}
+}

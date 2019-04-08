@@ -1,0 +1,112 @@
+{
+  "id": 1125993037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94139,52.28917,-6.94139,52.28917",
+    "geom:latitude":52.28917,
+    "geom:longitude":-6.94139,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":411,
+    "iso:country":"IE",
+    "lbl:latitude":52.28917,
+    "lbl:longitude":-6.94139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Campile"
+    ],
+    "name:cat_x_preferred":[
+        "Campile"
+    ],
+    "name:dut_x_preferred":[
+        "Campile"
+    ],
+    "name:eng_x_preferred":[
+        "Campile"
+    ],
+    "name:gle_x_preferred":[
+        "Ceann Poill"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0430\u0439\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Campile"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965824,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Campile",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wexford",
+    "qs_pg:photos":113,
+    "qs_pg:photos_1k":23,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":113,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281976,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560102,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wexford",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965824,
+        "gp:id":560102,
+        "qs_pg:id":281976,
+        "wd:id":"Q4211690"
+    },
+    "wof:country":"IE",
+    "wof:created":1497299151,
+    "wof:geomhash":"251f8a6621b6a01c5f9eaad627919ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125993037,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1125993037,
+    "wof:lastmodified":1553816684,
+    "wof:name":"Campile",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:population":411,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94139,
+    52.28917,
+    -6.94139,
+    52.28917
+],
+  "geometry": {"coordinates":[-6.94139,52.28917],"type":"Point"}
+}

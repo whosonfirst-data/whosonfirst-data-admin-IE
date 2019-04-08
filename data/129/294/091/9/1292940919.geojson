@@ -1,0 +1,66 @@
+{
+  "id": 1292940919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.93444,52.40944,-9.93444,52.40944",
+    "geom:latitude":52.40944,
+    "geom:longitude":-9.93444,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Tiduff",
+    "gn:country_code":"IE",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230599,
+    "gn:latitude":52.40944,
+    "gn:longitude":-9.93444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tiduff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230599
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"36a165f43af847cf21b2882abdbeba01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292940919,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1292940919,
+    "wof:lastmodified":1537074924,
+    "wof:name":"Tiduff",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.93444,
+    52.40944,
+    -9.93444,
+    52.40944
+],
+  "geometry": {"coordinates":[-9.93444,52.40944],"type":"Point"}
+}

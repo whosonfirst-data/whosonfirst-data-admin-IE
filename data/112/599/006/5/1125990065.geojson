@@ -1,0 +1,112 @@
+{
+  "id": 1125990065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.60028,51.66778,-8.60028,51.66778",
+    "geom:latitude":51.66778,
+    "geom:longitude":-8.60028,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":194,
+    "iso:country":"IE",
+    "lbl:latitude":51.66778,
+    "lbl:longitude":-8.60028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballinspittle"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u0441\u043f\u0438\u0442\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Ballinspittle"
+    ],
+    "name:eng_x_preferred":[
+        "Ballinspittle"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha an Spid\u00e9il"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0441\u043f\u0438\u0442\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinspittle"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966709,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballinspittle",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":918,
+    "qs_pg:photos_1k":186,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":918,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891895,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559622,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966709,
+        "gp:id":559622,
+        "qs_pg:id":891895,
+        "wd:id":"Q4076791"
+    },
+    "wof:country":"IE",
+    "wof:created":1497299015,
+    "wof:geomhash":"9e62c45ab1e5db8ac953efae5df7b1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125990065,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125990065,
+    "wof:lastmodified":1514450416,
+    "wof:name":"Ballinspittle",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":194,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.60028,
+    51.66778,
+    -8.60028,
+    51.66778
+],
+  "geometry": {"coordinates":[-8.60028,51.66778],"type":"Point"}
+}

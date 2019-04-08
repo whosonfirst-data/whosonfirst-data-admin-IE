@@ -1,0 +1,72 @@
+{
+  "id": 1327270785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.56444,54.77278,-7.56444,54.77278",
+    "geom:latitude":54.77278,
+    "geom:longitude":-7.56444,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Graffy",
+    "gn:country_code":"IE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309174,
+    "gn:latitude":54.77278,
+    "gn:longitude":-7.56444,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Graffy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Graffy"
+    ],
+    "name:gle_x_preferred":[
+        "An Ghrafaidh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309174
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5ecfc620cae26ff7b543e4c319e82b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327270785,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1327270785,
+    "wof:lastmodified":1537636776,
+    "wof:name":"Graffy",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.56444,
+    54.77278,
+    -7.56444,
+    54.77278
+],
+  "geometry": {"coordinates":[-7.56444,54.77278],"type":"Point"}
+}

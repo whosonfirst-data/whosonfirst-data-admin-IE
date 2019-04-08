@@ -1,0 +1,72 @@
+{
+  "id": 1309748951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68444,54.02722,-9.68444,54.02722",
+    "geom:latitude":54.02722,
+    "geom:longitude":-9.68444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Owenduff",
+    "gn:country_code":"IE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3316025,
+    "gn:latitude":54.02722,
+    "gn:longitude":-9.68444,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Owenduff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Owenduff"
+    ],
+    "name:gle_x_preferred":[
+        "An Abhainn Dubh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316025
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"45f7e9b683669a63a247dddeb59462d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309748951,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1309748951,
+    "wof:lastmodified":1537636787,
+    "wof:name":"Owenduff",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68444,
+    54.02721999999999,
+    -9.68444,
+    54.02721999999999
+],
+  "geometry": {"coordinates":[-9.68444,54.02721999999999],"type":"Point"}
+}

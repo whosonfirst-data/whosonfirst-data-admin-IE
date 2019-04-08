@@ -1,0 +1,124 @@
+{
+  "id": 1126015131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.28194,52.07694,-8.28194,52.07694",
+    "geom:latitude":52.07694,
+    "geom:longitude":-8.28194,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1534,
+    "iso:country":"IE",
+    "lbl:latitude":52.07694,
+    "lbl:longitude":-8.28194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:dut_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:eng_x_preferred":[
+        "Rathcormack"
+    ],
+    "name:fre_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:ger_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Chormaic"
+    ],
+    "name:ita_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:lit_x_preferred":[
+        "Ratkormakas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043a\u043e\u0440\u043c\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Rathcormac"
+    ],
+    "name:unk_x_variant":[
+        "Rathcormac"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961924,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rathcormack",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":171,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":171,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247452,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562022,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961924,
+        "gp:id":562022,
+        "qs_pg:id":247452,
+        "wd:id":"Q3930472"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300502,
+    "wof:geomhash":"0c42701ddd7cef46e960d1728ee9f2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126015131,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1126015131,
+    "wof:lastmodified":1514450635,
+    "wof:name":"Rathcormack",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":1534,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.28194,
+    52.07694,
+    -8.28194,
+    52.07694
+],
+  "geometry": {"coordinates":[-8.28194,52.07694],"type":"Point"}
+}

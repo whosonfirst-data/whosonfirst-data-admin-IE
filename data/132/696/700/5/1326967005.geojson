@@ -1,0 +1,66 @@
+{
+  "id": 1326967005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.8549,54.0186,-9.8549,54.0186",
+    "geom:latitude":54.0186,
+    "geom:longitude":-9.8549,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Tallagh",
+    "gn:country_code":"IE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9804785,
+    "gn:latitude":54.0186,
+    "gn:longitude":-9.8549,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Tallagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9804785
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0a4f287a771b3fb30612fc941328cf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326967005,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1326967005,
+    "wof:lastmodified":1536853542,
+    "wof:name":"Tallagh",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.8549,
+    54.0186,
+    -9.8549,
+    54.0186
+],
+  "geometry": {"coordinates":[-9.8549,54.0186],"type":"Point"}
+}

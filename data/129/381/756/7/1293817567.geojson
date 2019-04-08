@@ -1,0 +1,66 @@
+{
+  "id": 1293817567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.41806,53.96028,-8.41806,53.96028",
+    "geom:latitude":53.96028,
+    "geom:longitude":-8.41806,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Cuppanagh",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3310857,
+    "gn:latitude":53.96028,
+    "gn:longitude":-8.41806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cuppanagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310857
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3da867c6544b76b9143bd8f822094c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293817567,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1293817567,
+    "wof:lastmodified":1536808031,
+    "wof:name":"Cuppanagh",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41806,
+    53.96028,
+    -8.41806,
+    53.96028
+],
+  "geometry": {"coordinates":[-8.41806,53.96028],"type":"Point"}
+}

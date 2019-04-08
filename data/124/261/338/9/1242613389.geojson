@@ -1,0 +1,66 @@
+{
+  "id": 1242613389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.4,52.15,-9.4,52.15",
+    "geom:latitude":52.15,
+    "geom:longitude":-9.4,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Haremount",
+    "gn:country_code":"IE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963809,
+    "gn:latitude":52.15,
+    "gn:longitude":-9.4,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Haremount",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963809
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"54510b8343c3d1192f0d65f4a58ab809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242613389,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1242613389,
+    "wof:lastmodified":1537011384,
+    "wof:name":"Haremount",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.4,
+    52.15,
+    -9.4,
+    52.15
+],
+  "geometry": {"coordinates":[-9.4,52.15],"type":"Point"}
+}

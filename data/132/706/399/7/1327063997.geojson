@@ -1,0 +1,66 @@
+{
+  "id": 1327063997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.17313,53.81267,-9.17313,53.81267",
+    "geom:latitude":53.81267,
+    "geom:longitude":-9.17313,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Lisnolan",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130523,
+    "gn:latitude":53.81267,
+    "gn:longitude":-9.17313,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Lisnolan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130523
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"780b62abd1f86daf8fb152ad10501490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327063997,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1327063997,
+    "wof:lastmodified":1536715220,
+    "wof:name":"Lisnolan",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.17313,
+    53.81267,
+    -9.17313,
+    53.81267
+],
+  "geometry": {"coordinates":[-9.17313,53.81267],"type":"Point"}
+}

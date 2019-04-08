@@ -1,0 +1,66 @@
+{
+  "id": 1343598293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.98056,53.41556,-7.98056,53.41556",
+    "geom:latitude":53.41556,
+    "geom:longitude":-7.98056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Doyles Bridge",
+    "gn:country_code":"IE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313412,
+    "gn:latitude":53.41556,
+    "gn:longitude":-7.98056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Doyles Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313412
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6fcf51e77402f36761bb733ee8d162ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343598293,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1343598293,
+    "wof:lastmodified":1537042845,
+    "wof:name":"Doyles Bridge",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.98056,
+    53.41556,
+    -7.98056,
+    53.41556
+],
+  "geometry": {"coordinates":[-7.98056,53.41556],"type":"Point"}
+}

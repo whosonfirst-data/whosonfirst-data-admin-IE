@@ -1,0 +1,66 @@
+{
+  "id": 1259617841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.10194,52.24333,-9.10194,52.24333",
+    "geom:latitude":52.24333,
+    "geom:longitude":-9.10194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Tooreendermot",
+    "gn:country_code":"IE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292749,
+    "gn:latitude":52.24333,
+    "gn:longitude":-9.10194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tooreendermot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292749
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"316caefa28aa0fa17ec97a161252c8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259617841,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1259617841,
+    "wof:lastmodified":1536665284,
+    "wof:name":"Tooreendermot",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.10194,
+    52.24333,
+    -9.10194,
+    52.24333
+],
+  "geometry": {"coordinates":[-9.10194,52.24333],"type":"Point"}
+}

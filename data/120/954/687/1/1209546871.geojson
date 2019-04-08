@@ -1,0 +1,76 @@
+{
+  "id": 1209546871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.1,55.13333,-8.1,55.13333",
+    "geom:latitude":55.13333,
+    "geom:longitude":-8.1,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Falcarragh",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964973,
+    "gn:latitude":55.13333,
+    "gn:longitude":-8.1,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Falcarragh",
+    "gn:population":860,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Falcarragh"
+    ],
+    "name:gle_x_preferred":[
+        "An F\u00e1l Carrach"
+    ],
+    "name:und_x_variant":[
+        "Falcaragh",
+        "Crossroads"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964973,
+        "wk:page":"Falcarragh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e64dd4081e723f724e9f22cf3804e798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209546871
+        }
+    ],
+    "wof:id":1209546871,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Falcarragh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":860,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.1,
+    55.13333000000001,
+    -8.1,
+    55.13333000000001
+],
+  "geometry": {"coordinates":[-8.1,55.13333000000001],"type":"Point"}
+}

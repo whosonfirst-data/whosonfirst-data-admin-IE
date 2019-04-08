@@ -1,0 +1,155 @@
+{
+  "id": 101805085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":477888.461735,
+    "geom:bbox":"-8.41734223493,54.7600013365,-8.40105408438,54.7736978164",
+    "geom:latitude":54.764816,
+    "geom:longitude":-8.409036,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2000,
+    "gn:population":731,
+    "iso:country":"IE",
+    "lbl:latitude":54.764831,
+    "lbl:longitude":-8.407678,
+    "mps:latitude":54.764831,
+    "mps:longitude":-8.407678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ardara"
+    ],
+    "name:dut_x_preferred":[
+        "Ardara"
+    ],
+    "name:eng_x_preferred":[
+        "Ardara"
+    ],
+    "name:eng_x_variant":[
+        "Ardarn"
+    ],
+    "name:fra_x_preferred":[
+        "Ardara"
+    ],
+    "name:fre_x_preferred":[
+        "Ardara"
+    ],
+    "name:ger_x_preferred":[
+        "Ardara"
+    ],
+    "name:gle_x_preferred":[
+        "Ard an R\u00e1tha"
+    ],
+    "name:glv_x_preferred":[
+        "Ard an R\u00e1tha"
+    ],
+    "name:ita_x_preferred":[
+        "Ardara"
+    ],
+    "name:pol_x_preferred":[
+        "Ardara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ard an Ratha",
+        "Ard an R\u00e1tha"
+    ],
+    "name:unk_x_variant":[
+        "Ardarn"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Ardara",
+    "qs:la_lc":"*IE1102057004",
+    "qs:level":"locality",
+    "qs:loc":"Ardara",
+    "qs:loc_alt":"Ardara",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966935,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Ardara",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":755,
+    "qs_pg:photos_1k":153,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":755,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1301736,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559482,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ebc2a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966935,
+        "gp:id":559482,
+        "qs:id":1301736,
+        "qs_pg:id":1301736,
+        "wd:id":"Q638551",
+        "wk:page":"Chepniers"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a2b37477295841ff134e24f7f2033e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805085,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805085,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379342,
+    "wof:name":"Ardara",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":731,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125865475
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.41734223493404,
+    54.76000133645363,
+    -8.40105408438296,
+    54.77369781644234
+],
+  "geometry": {"coordinates":[[[-8.40687631875988,54.76828242484851],[-8.40527332354225,54.7648236377035],[-8.40376464004572,54.76505084404823],[-8.40336397151981,54.76418613754572],[-8.40185530176086,54.76441332022995],[-8.40105408438296,54.76268389116422],[-8.40557987213845,54.76200232167736],[-8.40598055818776,54.76286702053721],[-8.41050629440457,54.76218527115122],[-8.40970476761208,54.76045590478219],[-8.41272173105551,54.76000133645363],[-8.41312254260248,54.76086600946735],[-8.41463103031776,54.76063869256814],[-8.41503189148335,54.76150335838872],[-8.41654039291916,54.76127601783003],[-8.41734223493404,54.76300533339651],[-8.4128165091301,54.76368733366348],[-8.41361825778961,54.76541667553494],[-8.40909221767259,54.76609854546558],[-8.40949303508563,54.76696323039602],[-8.40798429492492,54.76719048957017],[-8.40918678221271,54.76978455077369],[-8.40767793899283,54.77001180831394],[-8.40928142476668,54.7734705550277],[-8.40777244926409,54.77369781644234],[-8.40536751847588,54.76850965321779],[-8.40687631875988,54.76828242484851]]],"type":"Polygon"}
+}

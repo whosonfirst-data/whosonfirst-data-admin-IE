@@ -1,0 +1,66 @@
+{
+  "id": 1309834793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.09157,53.62788,-7.09157,53.62788",
+    "geom:latitude":53.62788,
+    "geom:longitude":-7.09157,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Moyleroe Big",
+    "gn:country_code":"IE",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866316,
+    "gn:latitude":53.62788,
+    "gn:longitude":-7.09157,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Moyleroe Big",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866316
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"be2f94230b213fa891265b7fea561164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309834793,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1309834793,
+    "wof:lastmodified":1536889052,
+    "wof:name":"Moyleroe Big",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.09157,
+    53.62788000000001,
+    -7.09157,
+    53.62788000000001
+],
+  "geometry": {"coordinates":[-7.09157,53.62788000000001],"type":"Point"}
+}

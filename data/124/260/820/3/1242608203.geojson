@@ -1,0 +1,77 @@
+{
+  "id": 1242608203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.89333,52.93944,-8.89333,52.93944",
+    "geom:latitude":52.93944,
+    "geom:longitude":-8.89333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Crusheen",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964959,
+    "gn:latitude":52.93944,
+    "gn:longitude":-8.89333,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Crusheen",
+    "gn:population":467,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Crusheen"
+    ],
+    "name:gle_x_preferred":[
+        "Crois\u00edn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964959,
+        "wk:page":"Crusheen%2C_County_Clare"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9f6570df0e93fe716f614493d407e78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608203,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1242608203,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Crusheen",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":467,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.89333,
+    52.93944000000001,
+    -8.89333,
+    52.93944000000001
+],
+  "geometry": {"coordinates":[-8.89333,52.93944000000001],"type":"Point"}
+}

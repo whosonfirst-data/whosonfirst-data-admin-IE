@@ -1,0 +1,80 @@
+{
+  "id": 1125976663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.345516,52.132065,-10.345516,52.132065",
+    "geom:latitude":52.132065,
+    "geom:longitude":-10.345516,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.132065,
+    "lbl:longitude":-10.345516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Cantra",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":242,
+    "qs_pg:photos_1k":49,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":242,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155092,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387704,
+        "qs_pg:id":1155092
+    },
+    "wof:country":"IE",
+    "wof:created":1497298376,
+    "wof:geomhash":"92aedb3efaeec0105d911546bb16780f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125976663,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125976663,
+    "wof:lastmodified":1509404436,
+    "wof:name":"Cantra",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.345516,
+    52.132065,
+    -10.345516,
+    52.132065
+],
+  "geometry": {"coordinates":[-10.345516,52.132065],"type":"Point"}
+}

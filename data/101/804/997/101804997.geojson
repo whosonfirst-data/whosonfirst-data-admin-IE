@@ -1,0 +1,123 @@
+{
+  "id": 101804997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1025683.65733,
+    "geom:bbox":"-7.21691107496,53.8582779113,-7.18723315378,53.8699365619",
+    "geom:latitude":53.864796,
+    "geom:longitude":-7.20243,
+    "gn:population":2568,
+    "iso:country":"IE",
+    "lbl:latitude":53.865435,
+    "lbl:longitude":-7.207602,
+    "mps:latitude":53.865435,
+    "mps:longitude":-7.207602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:fra_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:fre_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Sh\u00e9amais Dhuibh"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Sh\u00e9amais Dhuibh"
+    ],
+    "name:ita_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:pol_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0434\u0436\u0435\u0439\u043c\u0441\u0434\u0430\u0444\u0444"
+    ],
+    "name:slk_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:slo_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyjamesduff"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cavan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Ballyjamesduff",
+    "qs:la_lc":"*IE1101027008",
+    "qs:level":"locality",
+    "qs:loc":"Ballyjamesduff",
+    "qs:loc_alt":"Ballyjamesduff",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1298,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ffaa4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966550,
+        "gp:id":20071250,
+        "qs:id":1019831,
+        "wd:id":"Q252038",
+        "wk:page":"Ballyjamesduff"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cc59e4516d95f2346175504fd89d081e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804997,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":101804997,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642744,
+    "wof:name":"Ballyjamesduff",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:population":2568,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.21691107496042,
+    53.85827791134534,
+    -7.18723315377662,
+    53.86993656193181
+],
+  "geometry": {"coordinates":[[[-7.18723315377662,53.86819806665324],[-7.18871584409487,53.86798627735243],[-7.18798909282754,53.86624778621632],[-7.18947171278518,53.86603598905998],[-7.18874497759759,53.86429750206565],[-7.19319258528418,53.86366203341834],[-7.19246575290936,53.8619235706002],[-7.19394820475287,53.86171172199431],[-7.19431164016419,53.86258094912921],[-7.19579410661214,53.8623690776439],[-7.19652108861811,53.8641075174836],[-7.20541593907643,53.86283585317676],[-7.20359777112606,53.85848989287899],[-7.20508005665585,53.85827791134534],[-7.20544368216923,53.85914710133642],[-7.20692598228766,53.85893509692363],[-7.207653344498,53.86067346246546],[-7.21654719674325,53.85940100062453],[-7.21691107496042,53.86027015110284],[-7.21542877225744,53.86048227775865],[-7.21579264037581,53.86135143177836],[-7.21134556501079,53.86198771958658],[-7.21170936641528,53.86285688717709],[-7.21022695220609,53.86306895239136],[-7.21131838069914,53.8656764613695],[-7.21280087983837,53.86546438111162],[-7.21389255710199,53.86807186178942],[-7.20647949942077,53.86913215959663],[-7.20611573037701,53.86826297576988],[-7.20463310598098,53.86847497670294],[-7.20390567913205,53.86673659460723],[-7.20094050244887,53.86716052280644],[-7.20021326165778,53.86542211477558],[-7.19576556365672,53.86605784296836],[-7.19685619725158,53.86866549791171],[-7.19537351885299,53.86887738659857],[-7.19500998445432,53.8680081647434],[-7.1905619519373,53.86864370853357],[-7.1909254013587,53.86951294541979],[-7.18795992112319,53.86993656193181],[-7.18723315377662,53.86819806665324]]],"type":"Polygon"}
+}

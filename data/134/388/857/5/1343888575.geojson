@@ -1,0 +1,66 @@
+{
+  "id": 1343888575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26191,53.85102,-9.26191,53.85102",
+    "geom:latitude":53.85102,
+    "geom:longitude":-9.26191,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Kilkenny",
+    "gn:country_code":"IE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130170,
+    "gn:latitude":53.85102,
+    "gn:longitude":-9.26191,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kilkenny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130170
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"92a00932d78177cf5bea5ff3b150f4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343888575,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343888575,
+    "wof:lastmodified":1536624178,
+    "wof:name":"Kilkenny",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26191,
+    53.85102,
+    -9.26191,
+    53.85102
+],
+  "geometry": {"coordinates":[-9.26191,53.85102],"type":"Point"}
+}

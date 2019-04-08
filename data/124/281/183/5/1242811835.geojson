@@ -1,0 +1,70 @@
+{
+  "id": 1242811835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.87556,52.53333,-8.87556,52.53333",
+    "geom:latitude":52.53333,
+    "geom:longitude":-8.87556,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Croagh",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965031,
+    "gn:latitude":52.53333,
+    "gn:longitude":-8.87556,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Croagh",
+    "gn:population":222,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965031,
+        "wk:page":"Croagh"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ffba58654b70031ed258cb4f7263c517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242811835,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1242811835,
+    "wof:lastmodified":1537564846,
+    "wof:name":"Croagh",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":222,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.87556,
+    52.53333000000001,
+    -8.87556,
+    52.53333000000001
+],
+  "geometry": {"coordinates":[-8.87556,52.53333000000001],"type":"Point"}
+}

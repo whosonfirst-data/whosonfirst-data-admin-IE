@@ -1,0 +1,73 @@
+{
+  "id": 1276151501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.7775,54.10194,-8.7775,54.10194",
+    "geom:latitude":54.10194,
+    "geom:longitude":-8.7775,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Cloonacool",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965333,
+    "gn:latitude":54.10194,
+    "gn:longitude":-8.7775,
+    "gn:modification_date":"2013-09-04",
+    "gn:name":"Cloonacool",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cloonacool"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain na C\u00faile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965333,
+        "wk:page":"Cloonacool"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"df44f622799a6264bcbe3f2600a89577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276151501,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1276151501,
+    "wof:lastmodified":1537636748,
+    "wof:name":"Cloonacool",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.7775,
+    54.10194,
+    -8.7775,
+    54.10194
+],
+  "geometry": {"coordinates":[-8.7775,54.10194],"type":"Point"}
+}

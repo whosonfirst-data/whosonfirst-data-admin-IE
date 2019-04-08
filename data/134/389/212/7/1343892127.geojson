@@ -1,0 +1,66 @@
+{
+  "id": 1343892127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.13694,55.11722,-8.13694,55.11722",
+    "geom:latitude":55.11722,
+    "geom:longitude":-8.13694,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Cashel Hill",
+    "gn:country_code":"IE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307289,
+    "gn:latitude":55.11722,
+    "gn:longitude":-8.13694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cashel Hill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307289
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"54b59a1c73e593a740efd0525fd40dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343892127,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1343892127,
+    "wof:lastmodified":1536618772,
+    "wof:name":"Cashel Hill",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.13694,
+    55.11722,
+    -8.13694,
+    55.11722
+],
+  "geometry": {"coordinates":[-8.13694,55.11722],"type":"Point"}
+}

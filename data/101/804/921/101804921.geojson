@@ -1,0 +1,128 @@
+{
+  "id": 101804921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":577585.538157,
+    "geom:bbox":"-6.27796879793,53.756488696,-6.25675433231,53.7664751847",
+    "geom:latitude":53.761705,
+    "geom:longitude":-6.267998,
+    "gn:population":1443,
+    "iso:country":"IE",
+    "lbl:latitude":53.762317,
+    "lbl:longitude":-6.268158,
+    "mps:latitude":53.762317,
+    "mps:longitude":-6.268158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:deu_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:dut_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:eng_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:fin_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:ger_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:gle_x_preferred":[
+        "Tearmann Feich\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30e2\u30f3\u30d5\u30a7\u30ad\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:pol_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:por_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u043c\u043e\u043d\u0444\u0435\u043a\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Termonfeckin"
+    ],
+    "name:swe_x_preferred":[
+        "Termonfeckin"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Louth",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Termonfeckin",
+    "qs:la_lc":"*IE1104147038",
+    "qs:level":"locality",
+    "qs:loc":"Termonfeckin",
+    "qs:loc_alt":"Termonfeckin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":903,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117db028-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961231,
+        "gp:id":20073365,
+        "qs:id":334676,
+        "wd:id":"Q21103946",
+        "wk:page":"Termonfeckin Castle"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"96251f3814c70389628f24b590624b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804921,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":101804921,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642758,
+    "wof:name":"Termonfeckin",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:population":1443,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27796879792754,
+    53.75648869595852,
+    -6.25675433230521,
+    53.76647518470594
+],
+  "geometry": {"coordinates":[[[-6.25778263604292,53.76647518470594],[-6.25675433230521,53.76385809247108],[-6.26416928935669,53.76285590549821],[-6.26382641289729,53.76198356247994],[-6.26530933691748,53.76178307604789],[-6.26496644905484,53.76091073645108],[-6.26644933156479,53.76071023683431],[-6.2661064323014,53.75983790065857],[-6.26758927330343,53.75963738785811],[-6.26724636264157,53.75876505510342],[-6.26872916213773,53.75856452911972],[-6.26838624007934,53.75769219978616],[-6.27728259390977,53.75648869595852],[-6.27796879792754,53.75823329640468],[-6.27648604752943,53.7584339346659],[-6.27682914674318,53.75930623765038],[-6.27386354998578,53.75970746989105],[-6.27420660925026,53.76057978104024],[-6.27124090358137,53.76098095107255],[-6.27192695937197,53.76272558837934],[-6.27044402998359,53.76292615599323],[-6.27113009733648,53.76467079750449],[-6.26964709785852,53.76487135667736],[-6.26999012872648,53.76574368019544],[-6.26702403378198,53.76614475424657],[-6.26633810352081,53.76440008692435],[-6.26188903547705,53.76500153510557],[-6.26223190629162,53.76587388364777],[-6.25778263604292,53.76647518470594]]],"type":"Polygon"}
+}

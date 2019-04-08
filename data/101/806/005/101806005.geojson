@@ -1,0 +1,128 @@
+{
+  "id": 101806005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000111,
+    "geom:area_square_m":836748.84871,
+    "geom:bbox":"-8.58499845097,52.392355621,-8.56187906693,52.4078776478",
+    "geom:latitude":52.399413,
+    "geom:longitude":-8.572417,
+    "gn:population":1635,
+    "iso:country":"IE",
+    "lbl:latitude":52.39922,
+    "lbl:longitude":-8.571278,
+    "mps:latitude":52.39922,
+    "mps:longitude":-8.571278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:cat_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:dut_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:eng_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:eus_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:fra_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:fre_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:ger_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Mocheall\u00f3g"
+    ],
+    "name:ita_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:lit_x_preferred":[
+        "Kilmalokas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0430\u043b\u043b\u043e\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:unk_x_variant":[
+        "Kilmailock"
+    ],
+    "name:wel_x_preferred":[
+        "Cill Mocheall\u00f3g"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Kilmallock",
+    "qs:la_lc":"*IE2303127094",
+    "qs:level":"locality",
+    "qs:loc":"Kilmallock",
+    "qs:loc_alt":"Kilmallock",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":803,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117d91ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963275,
+        "gp:id":20073228,
+        "qs:id":238944,
+        "wd:id":"Q2566838",
+        "wk:page":"Kilmallock"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7cbc834c22f671ff43131bf20cac54af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806005,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101806005,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715383,
+    "wof:name":"Kilmallock",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":1635,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58499845096816,
+    52.39235562102556,
+    -8.56187906693242,
+    52.4078776477682
+],
+  "geometry": {"coordinates":[[[-8.57891037005186,52.40678521932807],[-8.57666770925408,52.40159628126094],[-8.56952549850166,52.40273398852105],[-8.56877834353418,52.40100427767436],[-8.56734991213079,52.40123175769156],[-8.56548246585663,52.39690742513324],[-8.56405414863241,52.39713486251469],[-8.56368073863331,52.3962699857704],[-8.56225243350411,52.39649740097246],[-8.56187906693242,52.39563251740981],[-8.56330734654273,52.39540510731996],[-8.56293397235925,52.39454022716313],[-8.56436221302971,52.39431280511906],[-8.56361546734928,52.3925830499112],[-8.56504364356857,52.39235562102556],[-8.56541703296989,52.39322049437055],[-8.56970155763179,52.39253808998672],[-8.57119560049046,52.39599750494102],[-8.57262385057936,52.39576998222782],[-8.57299743159291,52.39663482658324],[-8.57442569376695,52.39640728168956],[-8.57479931821274,52.39727211922201],[-8.57622759246965,52.39704455214729],[-8.57846986859704,52.402233510771],[-8.58132668300811,52.40177826402311],[-8.58170050947518,52.40264307424496],[-8.58027208346971,52.40287071127028],[-8.58139359389588,52.40546514703431],[-8.58425058559169,52.40500982520535],[-8.58499845096816,52.40673942002559],[-8.57785561565817,52.4078776477682],[-8.57748180162884,52.4070128256194],[-8.57891037005186,52.40678521932807]]],"type":"Polygon"}
+}

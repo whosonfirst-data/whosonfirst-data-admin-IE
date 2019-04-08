@@ -1,0 +1,66 @@
+{
+  "id": 1276265723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.95889,51.60139,-8.95889,51.60139",
+    "geom:latitude":51.60139,
+    "geom:longitude":-8.95889,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Creagh",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965066,
+    "gn:latitude":51.60139,
+    "gn:longitude":-8.95889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Creagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965066
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d862ea3ed2fd30d4555a3f40bf0e1eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276265723,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276265723,
+    "wof:lastmodified":1536868003,
+    "wof:name":"Creagh",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.95889,
+    51.60139,
+    -8.95889,
+    51.60139
+],
+  "geometry": {"coordinates":[-8.95889,51.60139],"type":"Point"}
+}

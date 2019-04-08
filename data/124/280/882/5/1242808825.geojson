@@ -1,0 +1,66 @@
+{
+  "id": 1242808825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.315,54.0375,-7.315,54.0375",
+    "geom:latitude":54.0375,
+    "geom:longitude":-7.315,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Ouley",
+    "gn:country_code":"IE",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309552,
+    "gn:latitude":54.0375,
+    "gn:longitude":-7.315,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ouley",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309552
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"00d1b489da35a20fe48919a90590caa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242808825,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1242808825,
+    "wof:lastmodified":1536731046,
+    "wof:name":"Ouley",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.315,
+    54.0375,
+    -7.315,
+    54.0375
+],
+  "geometry": {"coordinates":[-7.315,54.0375],"type":"Point"}
+}

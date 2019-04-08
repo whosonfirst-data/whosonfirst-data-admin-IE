@@ -1,0 +1,66 @@
+{
+  "id": 1360316891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.3825,52.15556,-9.3825,52.15556",
+    "geom:latitude":52.15556,
+    "geom:longitude":-9.3825,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Carker",
+    "gn:country_code":"IE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3290991,
+    "gn:latitude":52.15556,
+    "gn:longitude":-9.3825,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Carker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3290991
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4d8a0ef097c3d2b24479dfbb293b684e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360316891,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1360316891,
+    "wof:lastmodified":1536608473,
+    "wof:name":"Carker",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.3825,
+    52.15556,
+    -9.3825,
+    52.15556
+],
+  "geometry": {"coordinates":[-9.3825,52.15556],"type":"Point"}
+}

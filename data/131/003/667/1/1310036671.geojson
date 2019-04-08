@@ -1,0 +1,66 @@
+{
+  "id": 1310036671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.24194,53.04722,-9.24194,53.04722",
+    "geom:latitude":53.04722,
+    "geom:longitude":-9.24194,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Toomaghera",
+    "gn:country_code":"IE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311730,
+    "gn:latitude":53.04722,
+    "gn:longitude":-9.24194,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Toomaghera",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311730
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"26f15f331ea02b72f0b542db2cca4d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310036671,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1310036671,
+    "wof:lastmodified":1537092572,
+    "wof:name":"Toomaghera",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.24194,
+    53.04722,
+    -9.24194,
+    53.04722
+],
+  "geometry": {"coordinates":[-9.24194,53.04722],"type":"Point"}
+}

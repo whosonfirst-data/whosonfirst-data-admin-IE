@@ -1,0 +1,72 @@
+{
+  "id": 1226676593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75128,53.7274,-6.75128,53.7274",
+    "geom:latitude":53.7274,
+    "geom:longitude":-6.75128,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Clongill",
+    "gn:country_code":"IE",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866897,
+    "gn:latitude":53.7274,
+    "gn:longitude":-6.75128,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Clongill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Clongill"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Ghil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866897
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"bac254186c7448d50f0ce50d94b0707e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226676593,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226676593,
+    "wof:lastmodified":1537636796,
+    "wof:name":"Clongill",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75128,
+    53.7274,
+    -6.75128,
+    53.7274
+],
+  "geometry": {"coordinates":[-6.75128,53.7274],"type":"Point"}
+}

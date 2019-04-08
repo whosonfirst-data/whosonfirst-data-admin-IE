@@ -1,0 +1,66 @@
+{
+  "id": 1310142305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.01677,54.19705,-10.01677,54.19705",
+    "geom:latitude":54.19705,
+    "geom:longitude":-10.01677,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Ardmore Lower",
+    "gn:country_code":"IE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9806015,
+    "gn:latitude":54.19705,
+    "gn:longitude":-10.01677,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Ardmore Lower",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9806015
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a1d0d9986d4691c867f9bb4fdd2c8b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310142305,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1310142305,
+    "wof:lastmodified":1536943888,
+    "wof:name":"Ardmore Lower",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.01677,
+    54.19705,
+    -10.01677,
+    54.19705
+],
+  "geometry": {"coordinates":[-10.01677,54.19705],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 101758553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000125,
+    "geom:area_square_m":921664.006514,
+    "geom:bbox":"-6.18398521425,53.4291913061,-6.16236176515,53.442293977",
+    "geom:latitude":53.436554,
+    "geom:longitude":-6.173366,
+    "gn:population":214,
+    "iso:country":"IE",
+    "lbl:latitude":53.437251,
+    "lbl:longitude":-6.175168,
+    "mps:latitude":53.437251,
+    "mps:longitude":-6.175168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043d\u0441\u0430\u043b\u0435\u0439"
+    ],
+    "name:dan_x_preferred":[
+        "Kinsealy-Drinan"
+    ],
+    "name:dut_x_preferred":[
+        "Kinsealy"
+    ],
+    "name:eng_x_preferred":[
+        "Kinsealy"
+    ],
+    "name:gla_x_preferred":[
+        "Cionn S\u00e1ile"
+    ],
+    "name:gle_x_preferred":[
+        "Cionn S\u00e1ile"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0441\u0438\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kinsaley"
+    ],
+    "name:unk_x_variant":[
+        "Kinsealy"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Fingal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Donabate",
+    "qs:la_lc":"*IE2103267065",
+    "qs:level":"locality",
+    "qs:loc":"Kinsaley",
+    "qs:loc_alt":"Kinsaley",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-very-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":477,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963152,
+        "gp:id":91483792,
+        "qs:id":6,
+        "wd:id":"Q2589436",
+        "wk:page":"Kinsealy"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"917522fa142b7d13f12661a64dc194cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101758553,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":101758553,
+    "wof:lastmodified":1527689309,
+    "wof:name":"Kinsaley",
+    "wof:parent_id":85685045,
+    "wof:placetype":"locality",
+    "wof:population":214,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.18398521425024,
+    53.42919130607635,
+    -6.1623617651486,
+    53.44229397699542
+],
+  "geometry": {"coordinates":[[[-6.16298021498642,53.44036124513553],[-6.16337308679022,53.44030814159674],[-6.1623617651486,53.43768989284894],[-6.16530633752251,53.43729178978379],[-6.16496920759897,53.43641904690708],[-6.16644144677923,53.43621997335669],[-6.16543007318688,53.43360175086241],[-6.16690221547788,53.43340267350783],[-6.16656509634174,53.43252993472152],[-6.16803719793739,53.43233084424338],[-6.16904868985455,53.43494904269926],[-6.17346517182403,53.43435162262176],[-6.17279065858844,53.43260618625868],[-6.17426273784832,53.43240701999014],[-6.17392547826682,53.43153430450735],[-6.17539751683131,53.43133512511844],[-6.17472299174415,53.42958969954992],[-6.17766691871344,53.42919130607635],[-6.17935363790667,53.43355481355752],[-6.1778815403041,53.43375404249718],[-6.17889368861273,53.43637214526308],[-6.18331019637389,53.43577436312353],[-6.18398521425024,53.43751973043447],[-6.18104077599571,53.43791828830228],[-6.18171574855552,53.43966366903288],[-6.17877114744687,53.44006217442279],[-6.17910860267818,53.4409348721527],[-6.17616389489842,53.44133331573022],[-6.17653533610007,53.44229397699542],[-6.17433099618785,53.44048326921029],[-6.17148238668375,53.43960677397837],[-6.1655660438675,53.4402641454023],[-6.16326524388342,53.44059283111437],[-6.16298021498642,53.44036124513553]]],"type":"Polygon"}
+}

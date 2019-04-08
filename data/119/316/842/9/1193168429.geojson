@@ -1,0 +1,66 @@
+{
+  "id": 1193168429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.77667,53.2775,-7.77667,53.2775",
+    "geom:latitude":53.2775,
+    "geom:longitude":-7.77667,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23.0",
+    "gn:asciiname":"Ballydaly",
+    "gn:country_code":"IE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3313918,
+    "gn:latitude":53.2775,
+    "gn:longitude":-7.77667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballydaly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3313918
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ff7e40cb1ad77c0f4bb9abe6c0067e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193168429,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1193168429,
+    "wof:lastmodified":1536383131,
+    "wof:name":"Ballydaly",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.77667,
+    53.2775,
+    -7.77667,
+    53.2775
+],
+  "geometry": {"coordinates":[-7.77667,53.2775],"type":"Point"}
+}

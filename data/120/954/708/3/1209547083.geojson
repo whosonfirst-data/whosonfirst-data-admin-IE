@@ -1,0 +1,62 @@
+{
+  "id": 1209547083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46889,52.72389,-7.46889,52.72389",
+    "geom:latitude":52.72389,
+    "geom:longitude":-7.46889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Clomantagh",
+    "gn:country_code":"IE",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307817,
+    "gn:latitude":52.72389,
+    "gn:longitude":-7.46889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Clomantagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307817
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"39f610ce82343c5d2f2a9bd4bb516416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209547083
+        }
+    ],
+    "wof:id":1209547083,
+    "wof:lastmodified":1536283811,
+    "wof:name":"Clomantagh",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.468889999999999,
+    52.72389,
+    -7.468889999999999,
+    52.72389
+],
+  "geometry": {"coordinates":[-7.46889,52.72389],"type":"Point"}
+}

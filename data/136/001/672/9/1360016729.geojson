@@ -1,0 +1,66 @@
+{
+  "id": 1360016729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.59333,52.83333,-7.59333,52.83333",
+    "geom:latitude":52.83333,
+    "geom:longitude":-7.59333,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Glasha Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3307972,
+    "gn:latitude":52.83333,
+    "gn:longitude":-7.59333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glasha Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307972
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9682b8a4650a703e4764ecaf9dd7314b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360016729,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1360016729,
+    "wof:lastmodified":1537042564,
+    "wof:name":"Glasha Cross Roads",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.59333,
+    52.83333,
+    -7.59333,
+    52.83333
+],
+  "geometry": {"coordinates":[-7.59333,52.83333],"type":"Point"}
+}

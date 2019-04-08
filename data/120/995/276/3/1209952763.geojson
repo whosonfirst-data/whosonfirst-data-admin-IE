@@ -1,0 +1,66 @@
+{
+  "id": 1209952763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95361,53.98583,-7.95361,53.98583",
+    "geom:latitude":53.98583,
+    "geom:longitude":-7.95361,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Kilnagross",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3311371,
+    "gn:latitude":53.98583,
+    "gn:longitude":-7.95361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilnagross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311371
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5e2c2c50de7f47da69a6b5ac71da834e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209952763,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1209952763,
+    "wof:lastmodified":1536381782,
+    "wof:name":"Kilnagross",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95361,
+    53.98583000000001,
+    -7.95361,
+    53.98583000000001
+],
+  "geometry": {"coordinates":[-7.95361,53.98583000000001],"type":"Point"}
+}

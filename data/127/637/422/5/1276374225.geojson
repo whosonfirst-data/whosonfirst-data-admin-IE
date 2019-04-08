@@ -1,0 +1,66 @@
+{
+  "id": 1276374225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80159,53.54239,-6.80159,53.54239",
+    "geom:latitude":53.54239,
+    "geom:longitude":-6.80159,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Commons",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866776,
+    "gn:latitude":53.54239,
+    "gn:longitude":-6.80159,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Commons",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866776
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b3ba6d89c0e2ee1546ad9e4b6c91d802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276374225,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1276374225,
+    "wof:lastmodified":1536723986,
+    "wof:name":"Commons",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80159,
+    53.54239000000001,
+    -6.80159,
+    53.54239000000001
+],
+  "geometry": {"coordinates":[-6.80159,53.54239000000001],"type":"Point"}
+}

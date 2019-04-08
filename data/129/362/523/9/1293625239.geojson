@@ -1,0 +1,66 @@
+{
+  "id": 1293625239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.80778,51.82472,-8.80778,51.82472",
+    "geom:latitude":51.82472,
+    "geom:longitude":-8.80778,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Strawhall Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3294128,
+    "gn:latitude":51.82472,
+    "gn:longitude":-8.80778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Strawhall Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3294128
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"793d21f4225947d7538a51f50c7cf17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293625239,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293625239,
+    "wof:lastmodified":1537082389,
+    "wof:name":"Strawhall Cross Roads",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.80778,
+    51.82472,
+    -8.80778,
+    51.82472
+],
+  "geometry": {"coordinates":[-8.80778,51.82472],"type":"Point"}
+}

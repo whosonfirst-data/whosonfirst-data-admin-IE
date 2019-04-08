@@ -1,0 +1,67 @@
+{
+  "id": 1276910031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.68333,51.86667,-9.68333,51.86667",
+    "geom:latitude":51.86667,
+    "geom:longitude":-9.68333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Templenoe",
+    "gn:country_code":"IE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3230708,
+    "gn:latitude":51.86667,
+    "gn:longitude":-9.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Templenoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3230708,
+        "wk:page":"Templenoe"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7e221d306567b49eb9349f38c760026e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276910031,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1276910031,
+    "wof:lastmodified":1537564852,
+    "wof:name":"Templenoe",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.68333,
+    51.86667,
+    -9.68333,
+    51.86667
+],
+  "geometry": {"coordinates":[-9.68333,51.86667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209450949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.92056,53.145,-6.92056,53.145",
+    "geom:latitude":53.145,
+    "geom:longitude":-6.92056,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Newtown Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314516,
+    "gn:latitude":53.145,
+    "gn:longitude":-6.92056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Newtown Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314516
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"7cf1f2b77a7cca57fe7317ffe78ecabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209450949
+        }
+    ],
+    "wof:id":1209450949,
+    "wof:lastmodified":1536286673,
+    "wof:name":"Newtown Cross Roads",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.920560000000001,
+    53.145,
+    -6.920560000000001,
+    53.145
+],
+  "geometry": {"coordinates":[-6.92056,53.145],"type":"Point"}
+}

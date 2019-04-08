@@ -1,0 +1,66 @@
+{
+  "id": 1276909125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.46778,52.44694,-7.46778,52.44694",
+    "geom:latitude":52.44694,
+    "geom:longitude":-7.46778,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Mullennaglogh",
+    "gn:country_code":"IE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306826,
+    "gn:latitude":52.44694,
+    "gn:longitude":-7.46778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mullennaglogh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306826
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2cdaa5b8ec339b69fa345cd658c4e544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276909125,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1276909125,
+    "wof:lastmodified":1537001330,
+    "wof:name":"Mullennaglogh",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.46778,
+    52.44694000000001,
+    -7.46778,
+    52.44694000000001
+],
+  "geometry": {"coordinates":[-7.46778,52.44694000000001],"type":"Point"}
+}

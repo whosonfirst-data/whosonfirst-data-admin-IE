@@ -1,0 +1,72 @@
+{
+  "id": 1293425687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.4425,52.1575,-10.4425,52.1575",
+    "geom:latitude":52.1575,
+    "geom:longitude":-10.4425,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Teeravane",
+    "gn:country_code":"IE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3298510,
+    "gn:latitude":52.1575,
+    "gn:longitude":-10.4425,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Teeravane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Teeravane"
+    ],
+    "name:gle_x_preferred":[
+        "T\u00edorabh\u00e1in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3298510
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c32a24ee3e636a7fda74c515354b8018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293425687,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1293425687,
+    "wof:lastmodified":1537636766,
+    "wof:name":"Teeravane",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.4425,
+    52.1575,
+    -10.4425,
+    52.1575
+],
+  "geometry": {"coordinates":[-10.4425,52.1575],"type":"Point"}
+}

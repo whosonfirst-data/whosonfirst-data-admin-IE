@@ -1,0 +1,73 @@
+{
+  "id": 1243293253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.42333,52.19444,-10.42333,52.19444",
+    "geom:latitude":52.19444,
+    "geom:longitude":-10.42333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Smerwick",
+    "gn:country_code":"IE",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961415,
+    "gn:latitude":52.19444,
+    "gn:longitude":-10.42333,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Smerwick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Smerwick"
+    ],
+    "name:gle_x_preferred":[
+        "Ard na Caithne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961415,
+        "wk:page":"Ard_na_Caithne"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"76ca8cd7d5e4bfb68633deeb60df9297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243293253,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1243293253,
+    "wof:lastmodified":1537636721,
+    "wof:name":"Smerwick",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.42333,
+    52.19444,
+    -10.42333,
+    52.19444
+],
+  "geometry": {"coordinates":[-10.42333,52.19444],"type":"Point"}
+}

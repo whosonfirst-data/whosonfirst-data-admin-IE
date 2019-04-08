@@ -1,0 +1,72 @@
+{
+  "id": 1242608251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.82861,54.21196,-9.82861,54.21196",
+    "geom:latitude":54.21196,
+    "geom:longitude":-9.82861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Carrowmore",
+    "gn:country_code":"IE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965682,
+    "gn:latitude":54.21196,
+    "gn:longitude":-9.82861,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Carrowmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carrowmore"
+    ],
+    "name:gle_x_preferred":[
+        "An Cheathr\u00fa Mh\u00f3r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965682
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c5a7d463c433d9707a13b9f2f3724ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608251,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1242608251,
+    "wof:lastmodified":1537636750,
+    "wof:name":"Carrowmore",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.82861,
+    54.21196,
+    -9.82861,
+    54.21196
+],
+  "geometry": {"coordinates":[-9.82861,54.21196],"type":"Point"}
+}

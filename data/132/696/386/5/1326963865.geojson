@@ -1,0 +1,66 @@
+{
+  "id": 1326963865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.42667,55.15417,-7.42667,55.15417",
+    "geom:latitude":55.15417,
+    "geom:longitude":-7.42667,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Ballymagan",
+    "gn:country_code":"IE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966517,
+    "gn:latitude":55.15417,
+    "gn:longitude":-7.42667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballymagan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966517
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eaf13c464fe7bcf476bb757574943aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326963865,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1326963865,
+    "wof:lastmodified":1536858017,
+    "wof:name":"Ballymagan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.42667,
+    55.15416999999999,
+    -7.42667,
+    55.15416999999999
+],
+  "geometry": {"coordinates":[-7.42667,55.15416999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193052149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.54056,53.25194,-9.54056,53.25194",
+    "geom:latitude":53.25194,
+    "geom:longitude":-9.54056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Keenaunnagark",
+    "gn:country_code":"IE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312115,
+    "gn:latitude":53.25194,
+    "gn:longitude":-9.54056,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Keenaunnagark",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keenaunnagark"
+    ],
+    "name:gle_x_preferred":[
+        "Caor\u00e1n na gCearc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312115
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8c0d0519c9333d915f2ee77b8821ad95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193052149,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1193052149,
+    "wof:lastmodified":1537636778,
+    "wof:name":"Keenaunnagark",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.54056,
+    53.25194000000001,
+    -9.54056,
+    53.25194000000001
+],
+  "geometry": {"coordinates":[-9.54056,53.25194000000001],"type":"Point"}
+}

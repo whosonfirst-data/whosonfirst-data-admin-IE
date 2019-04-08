@@ -1,0 +1,76 @@
+{
+  "id": 1293518905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.18667,55.14472,-8.18667,55.14472",
+    "geom:latitude":55.14472,
+    "geom:longitude":-8.18667,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Meenlaragh",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962649,
+    "gn:latitude":55.14472,
+    "gn:longitude":-8.18667,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Meenlaragh",
+    "gn:population":442,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meenlaragh"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00edn L\u00e1rach"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962649
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f7d4d3f97ffe5bb53eba9e11a7ecd09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293518905,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1293518905,
+    "wof:lastmodified":1537636728,
+    "wof:name":"Meenlaragh",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.18667,
+    55.14471999999999,
+    -8.18667,
+    55.14471999999999
+],
+  "geometry": {"coordinates":[-8.18667,55.14471999999999],"type":"Point"}
+}

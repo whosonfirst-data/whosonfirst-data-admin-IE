@@ -1,0 +1,66 @@
+{
+  "id": 1326459857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02667,54.03778,-8.02667,54.03778",
+    "geom:latitude":54.03778,
+    "geom:longitude":-8.02667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Aghnagollop",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311299,
+    "gn:latitude":54.03778,
+    "gn:longitude":-8.02667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Aghnagollop",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311299
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f4013ea01f6fd1ca9ad3a53e6ea89699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326459857,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1326459857,
+    "wof:lastmodified":1537085179,
+    "wof:name":"Aghnagollop",
+    "wof:parent_id":85685133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02667,
+    54.03778000000001,
+    -8.02667,
+    54.03778000000001
+],
+  "geometry": {"coordinates":[-8.02667,54.03778000000001],"type":"Point"}
+}

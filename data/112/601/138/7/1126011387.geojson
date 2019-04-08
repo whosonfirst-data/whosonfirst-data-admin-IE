@@ -1,0 +1,127 @@
+{
+  "id": 1126011387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.46667,51.55,-9.46667,51.55",
+    "geom:latitude":51.55,
+    "geom:longitude":-9.46667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":271,
+    "iso:country":"IE",
+    "lbl:latitude":51.55,
+    "lbl:longitude":-9.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0434\u0435\u0445\u043e\u0431"
+    ],
+    "name:cat_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:dut_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:eng_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:fre_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:ger_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al an d\u00e1 Chab"
+    ],
+    "name:ita_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:pol_x_preferred":[
+        "Ballydehob"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0434\u0435\u0445\u043e\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Ballydehob"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966618,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballydehob",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":508,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":508,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":304158,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559686,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966618,
+        "gp:id":559686,
+        "qs_pg:id":304158,
+        "wd:id":"Q805407"
+    },
+    "wof:country":"IE",
+    "wof:created":1497300295,
+    "wof:geomhash":"aa351ff68872d6a11f3c2a51c39a3bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126011387,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1126011387,
+    "wof:lastmodified":1514450418,
+    "wof:name":"Ballydehob",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":271,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.46667,
+    51.55,
+    -9.46667,
+    51.55
+],
+  "geometry": {"coordinates":[-9.46667,51.55],"type":"Point"}
+}

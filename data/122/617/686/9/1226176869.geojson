@@ -1,0 +1,80 @@
+{
+  "id": 1226176869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.23778,53.64056,-6.23778,53.64056",
+    "geom:latitude":53.64056,
+    "geom:longitude":-6.23778,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Gormanston",
+    "gn:country_code":"IE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963959,
+    "gn:latitude":53.64056,
+    "gn:longitude":-6.23778,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Gormanston",
+    "gn:population":500,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gormanston"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Mhic Gorm\u00e1in"
+    ],
+    "name:und_x_variant":[
+        "Gormanstown",
+        "Germanstown"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963959,
+        "wk:page":"Gormanston%2C_County_Meath"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3a526dc4d6e132c3a794156e02492595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226176869,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1226176869,
+    "wof:lastmodified":1537636738,
+    "wof:name":"Gormanston",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.23778,
+    53.64056,
+    -6.23778,
+    53.64056
+],
+  "geometry": {"coordinates":[-6.23778,53.64056],"type":"Point"}
+}

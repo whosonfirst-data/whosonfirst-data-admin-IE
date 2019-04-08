@@ -1,0 +1,66 @@
+{
+  "id": 1327066609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.5025,53.40389,-6.5025,53.40389",
+    "geom:latitude":53.40389,
+    "geom:longitude":-6.5025,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Milestown",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315363,
+    "gn:latitude":53.40389,
+    "gn:longitude":-6.5025,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Milestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315363
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8d255d13d2ee9c9fa22620f19657ad61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327066609,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1327066609,
+    "wof:lastmodified":1536711297,
+    "wof:name":"Milestown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.5025,
+    53.40389,
+    -6.5025,
+    53.40389
+],
+  "geometry": {"coordinates":[-6.5025,53.40389],"type":"Point"}
+}

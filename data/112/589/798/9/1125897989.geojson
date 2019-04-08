@@ -1,0 +1,83 @@
+{
+  "id": 1125897989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.547435,55.196311,-7.547435,55.196311",
+    "geom:latitude":55.196311,
+    "geom:longitude":-7.547435,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":55.196311,
+    "lbl:longitude":-7.547435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dunree"
+    ],
+    "name:eng_x_preferred":[
+        "Dunree"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Dunree",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":406,
+    "qs_pg:photos_1k":82,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":406,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120048,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387528,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"Town",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29387528,
+        "qs_pg:id":1120048,
+        "wd:id":"Q2736802"
+    },
+    "wof:country":"IE",
+    "wof:created":1497295669,
+    "wof:geomhash":"725e41f7776982302470c7c353f60960",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125897989,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125897989,
+    "wof:lastmodified":1514450497,
+    "wof:name":"Dunree",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.547435,
+    55.196311,
+    -7.547435,
+    55.196311
+],
+  "geometry": {"coordinates":[-7.547435,55.196311],"type":"Point"}
+}

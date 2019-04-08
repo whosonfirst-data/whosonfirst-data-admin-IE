@@ -1,0 +1,66 @@
+{
+  "id": 1242608537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94083,52.91472,-6.94083,52.91472",
+    "geom:latitude":52.91472,
+    "geom:longitude":-6.94083,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ballyfoyle",
+    "gn:country_code":"IE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314146,
+    "gn:latitude":52.91472,
+    "gn:longitude":-6.94083,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballyfoyle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314146
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"421b7fe81723ad8f90193eaf72363fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242608537,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1242608537,
+    "wof:lastmodified":1537018380,
+    "wof:name":"Ballyfoyle",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94083,
+    52.91472,
+    -6.94083,
+    52.91472
+],
+  "geometry": {"coordinates":[-6.94083,52.91472],"type":"Point"}
+}

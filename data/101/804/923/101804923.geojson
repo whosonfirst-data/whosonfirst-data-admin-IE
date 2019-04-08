@@ -1,0 +1,133 @@
+{
+  "id": 101804923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":836486.411388,
+    "geom:bbox":"-7.50572271784,53.7714725266,-7.48169637499,53.785128686",
+    "geom:latitude":53.777998,
+    "geom:longitude":-7.49425,
+    "gn:population":1021,
+    "iso:country":"IE",
+    "lbl:latitude":53.777905,
+    "lbl:longitude":-7.495433,
+    "mps:latitude":53.777905,
+    "mps:longitude":-7.495433,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Granard"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0430\u0440\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Granard"
+    ],
+    "name:dut_x_preferred":[
+        "Granard"
+    ],
+    "name:eng_x_preferred":[
+        "Granard"
+    ],
+    "name:fra_x_preferred":[
+        "Granard"
+    ],
+    "name:fre_x_preferred":[
+        "Granard"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d0\u10e0\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Granard"
+    ],
+    "name:gle_x_preferred":[
+        "Gr\u00e1nard"
+    ],
+    "name:ita_x_preferred":[
+        "Granard"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d0\u10e0\u10d3\u10d8"
+    ],
+    "name:nob_x_preferred":[
+        "Granard"
+    ],
+    "name:nor_x_preferred":[
+        "Granard"
+    ],
+    "name:pol_x_preferred":[
+        "Granard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0430\u0440\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Granard"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Longford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Granard Urban",
+    "qs:la_lc":"*IE1202137035",
+    "qs:level":"locality",
+    "qs:loc":"Granard",
+    "qs:loc_alt":"Granard",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1031,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963902,
+        "gp:id":561051,
+        "qs:id":304283,
+        "qs_pg:id":304283,
+        "wd:id":"Q946060",
+        "wk:page":"Granard"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"340a05000dee325bfeca82c2cd13c228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804923,
+            "region_id":85685091
+        }
+    ],
+    "wof:id":101804923,
+    "wof:lastmodified":1527642749,
+    "wof:name":"Granard",
+    "wof:parent_id":85685091,
+    "wof:placetype":"locality",
+    "wof:population":1021,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.50572271784483,
+    53.77147252662081,
+    -7.48169637499433,
+    53.78512868602496
+],
+  "geometry": {"coordinates":[[[-7.4850263557064,53.78100971646649],[-7.48428940770032,53.77927321933606],[-7.49020270679358,53.77841176720489],[-7.48983414816752,53.77754353665523],[-7.49279065850868,53.77711271395168],[-7.49131638344812,53.77363981714404],[-7.48983824736285,53.77385521709738],[-7.48910127615977,53.77211874942338],[-7.49353547465256,53.77147252662081],[-7.49390403517128,53.77234074599664],[-7.49686015431445,53.77190983167463],[-7.49722878927531,53.77277803937983],[-7.49575070859737,53.77299351051306],[-7.49685663965886,53.77559813972601],[-7.50129109243579,53.77495162726041],[-7.50202863994161,53.77668800866934],[-7.50498498463764,53.77625689107424],[-7.50572271784483,53.77799324608225],[-7.5042444963554,53.77820882393365],[-7.50461336251084,53.77907700423162],[-7.50313509911848,53.77929256936534],[-7.50350395562737,53.78016075321904],[-7.49611229050743,53.78123833731831],[-7.495743574215,53.78037012807818],[-7.48539485727434,53.78187796275273],[-7.48613191554625,53.78361445076655],[-7.48465341588286,53.78382979467051],[-7.48502194453346,53.78469804147244],[-7.48206484752961,53.78512868602496],[-7.48169637499433,53.78426042907563],[-7.48317490236553,53.78404512077378],[-7.48243795631237,53.78230861246487],[-7.48391641371973,53.78209329650889],[-7.48354794020429,53.7812250451492],[-7.4850263557064,53.78100971646649]]],"type":"Polygon"}
+}

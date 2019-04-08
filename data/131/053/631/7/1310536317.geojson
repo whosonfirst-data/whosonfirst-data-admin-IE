@@ -1,0 +1,66 @@
+{
+  "id": 1310536317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.06667,53.6,-9.06667,53.6",
+    "geom:latitude":53.6,
+    "geom:longitude":-9.06667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Rathgranagher",
+    "gn:country_code":"IE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961907,
+    "gn:latitude":53.6,
+    "gn:longitude":-9.06667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Rathgranagher",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961907
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ceaf285e83a430207869d3fec425803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310536317,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1310536317,
+    "wof:lastmodified":1536871367,
+    "wof:name":"Rathgranagher",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.06667,
+    53.6,
+    -9.06667,
+    53.6
+],
+  "geometry": {"coordinates":[-9.06667,53.6],"type":"Point"}
+}

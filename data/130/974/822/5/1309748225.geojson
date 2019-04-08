@@ -1,0 +1,76 @@
+{
+  "id": 1309748225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.81944,53.00694,-6.81944,53.00694",
+    "geom:latitude":53.00694,
+    "geom:longitude":-6.81944,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12",
+    "gn:asciiname":"Ballitore",
+    "gn:country_code":"IE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966692,
+    "gn:latitude":53.00694,
+    "gn:longitude":-6.81944,
+    "gn:modification_date":"2013-12-08",
+    "gn:name":"Ballitore",
+    "gn:population":685,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballitore"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al Atha an Tuair"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966692,
+        "wk:page":"Ballitore"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b568bb5e423c622f94abd5f2064c7ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309748225,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1309748225,
+    "wof:lastmodified":1537636759,
+    "wof:name":"Ballitore",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":685,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.81944,
+    53.00694,
+    -6.81944,
+    53.00694
+],
+  "geometry": {"coordinates":[-6.81944,53.00694],"type":"Point"}
+}

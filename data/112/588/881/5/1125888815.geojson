@@ -1,0 +1,145 @@
+{
+  "id": 1125888815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.68333,52.35,-8.68333,52.35",
+    "geom:latitude":52.35,
+    "geom:longitude":-8.68333,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2674,
+    "gn:population":3672,
+    "iso:country":"IE",
+    "lbl:latitude":52.35,
+    "lbl:longitude":-8.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Charleville"
+    ],
+    "name:bre_x_preferred":[
+        "R\u00e1th Luirc"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0440\u043b\u0435\u0432\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Charleville"
+    ],
+    "name:dut_x_preferred":[
+        "Charleville"
+    ],
+    "name:eng_x_preferred":[
+        "Charleville"
+    ],
+    "name:fre_x_preferred":[
+        "Charleville"
+    ],
+    "name:ger_x_preferred":[
+        "Charleville"
+    ],
+    "name:gle_x_preferred":[
+        "An R\u00e1th"
+    ],
+    "name:ita_x_preferred":[
+        "Charleville"
+    ],
+    "name:lit_x_preferred":[
+        "\u010carlvil\u0117"
+    ],
+    "name:nob_x_preferred":[
+        "Charleville"
+    ],
+    "name:pol_x_preferred":[
+        "Charleville"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e-\u041b\u0443\u0438\u0440\u043a"
+    ],
+    "name:slo_x_preferred":[
+        "charleville"
+    ],
+    "name:spa_x_preferred":[
+        "Charleville"
+    ],
+    "name:swe_x_preferred":[
+        "Charleville"
+    ],
+    "name:unk_x_variant":[
+        "Charleville"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965516,
+    "qs_pg:gn_pop":2674,
+    "qs_pg:name":"Rath Luirc",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1336506,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562009,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965516,
+        "gp:id":562009,
+        "qs_pg:id":1336506,
+        "wd:id":"Q1066722"
+    },
+    "wof:country":"IE",
+    "wof:created":1497295222,
+    "wof:geomhash":"294a5f4cc20c37605bdbf6d97ef7f2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125888815,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1125888815,
+    "wof:lastmodified":1514450633,
+    "wof:name":"Rath Luirc",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":3672,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.68333,
+    52.35,
+    -8.68333,
+    52.35
+],
+  "geometry": {"coordinates":[-8.68333,52.35],"type":"Point"}
+}

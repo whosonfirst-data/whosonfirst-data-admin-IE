@@ -1,0 +1,66 @@
+{
+  "id": 1276580975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.7982,53.57381,-6.7982,53.57381",
+    "geom:latitude":53.57381,
+    "geom:longitude":-6.7982,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Steeplestown",
+    "gn:country_code":"IE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867026,
+    "gn:latitude":53.57381,
+    "gn:longitude":-6.7982,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Steeplestown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867026
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ce790d66eb38c1919bc8ddbf56b7493b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276580975,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1276580975,
+    "wof:lastmodified":1536945057,
+    "wof:name":"Steeplestown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.7982,
+    53.57381,
+    -6.7982,
+    53.57381
+],
+  "geometry": {"coordinates":[-6.7982,53.57381],"type":"Point"}
+}

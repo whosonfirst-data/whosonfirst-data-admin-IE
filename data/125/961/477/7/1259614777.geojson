@@ -1,0 +1,66 @@
+{
+  "id": 1259614777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61475,53.72668,-6.61475,53.72668",
+    "geom:latitude":53.72668,
+    "geom:longitude":-6.61475,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Gernonstown",
+    "gn:country_code":"IE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9867220,
+    "gn:latitude":53.72668,
+    "gn:longitude":-6.61475,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gernonstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9867220
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"c5ec8eb079ea52a8eb7842a4aa030a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259614777,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1259614777,
+    "wof:lastmodified":1536669702,
+    "wof:name":"Gernonstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61475,
+    53.72668,
+    -6.61475,
+    53.72668
+],
+  "geometry": {"coordinates":[-6.61475,53.72668],"type":"Point"}
+}

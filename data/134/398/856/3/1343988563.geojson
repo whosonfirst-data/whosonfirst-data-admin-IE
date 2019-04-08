@@ -1,0 +1,66 @@
+{
+  "id": 1343988563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.69111,52.27917,-6.69111,52.27917",
+    "geom:latitude":52.27917,
+    "geom:longitude":-6.69111,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Doyle's Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3301916,
+    "gn:latitude":52.27917,
+    "gn:longitude":-6.69111,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Doyle\u2019s Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3301916
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fcc2d38ea9ce4d0ea858f4516880409d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343988563,
+            "region_id":85684967
+        }
+    ],
+    "wof:id":1343988563,
+    "wof:lastmodified":1536978921,
+    "wof:name":"Doyle's Cross Roads",
+    "wof:parent_id":85684967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.69111,
+    52.27917,
+    -6.69111,
+    52.27917
+],
+  "geometry": {"coordinates":[-6.69111,52.27917],"type":"Point"}
+}

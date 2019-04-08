@@ -1,0 +1,112 @@
+{
+  "id": 101804947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1145341.316771,
+    "geom:bbox":"-9.21917699485,53.247045485,-9.19698781679,53.2610024611",
+    "geom:latitude":53.252826,
+    "geom:longitude":-9.208612,
+    "gn:population":308,
+    "iso:country":"IE",
+    "lbl:latitude":53.25196,
+    "lbl:longitude":-9.209537,
+    "mps:latitude":53.25196,
+    "mps:longitude":-9.209537,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Na Forbacha"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0443\u0440\u0431\u043e\u0433\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Na Forbacha"
+    ],
+    "name:dut_x_preferred":[
+        "Na Forbacha"
+    ],
+    "name:eng_x_preferred":[
+        "Furbogh"
+    ],
+    "name:eng_x_variant":[
+        "Furbo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10e3\u10e0\u10d1\u10dd"
+    ],
+    "name:gle_x_preferred":[
+        "Na Forbacha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0451\u0440\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Furbogh"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Galway",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Furbogh",
+    "qs:la_lc":"*IE1302067097",
+    "qs:level":"locality",
+    "qs:loc":"Furbogh",
+    "qs:loc_alt":"Furbogh",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117f97d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":3312222,
+        "gp:id":23694465,
+        "qs:id":232900,
+        "wd:id":"Q2012973",
+        "wk:page":"Furbo, County Galway"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"78a504859ceaf0f62e64d94f2b660c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804947,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":101804947,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Furbogh",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:population":308,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21917699484754,
+    53.24704548496823,
+    -9.19698781679244,
+    53.26100246112469
+],
+  "geometry": {"coordinates":[[[-9.21192450804426,53.26100246112469],[-9.21112985466533,53.25927818604146],[-9.20822370308497,53.25974986717864],[-9.20742923311252,53.25802556307701],[-9.20888226333557,53.25778974205275],[-9.20729345060255,53.25434113371006],[-9.20584052610673,53.2545769330103],[-9.2050462890515,53.25285260704652],[-9.20068758656259,53.25355986820921],[-9.20148166503344,53.25528422675018],[-9.20002868214988,53.25551995660874],[-9.20042572405589,53.25638213857707],[-9.19897270014195,53.25661785650328],[-9.19698781679244,53.252306901314],[-9.19844070853969,53.25207121052961],[-9.19764683812519,53.25034682656775],[-9.19909966242454,53.25011112927922],[-9.19830581673625,53.24838674889128],[-9.20266404354868,53.24767958544078],[-9.20306103596698,53.24854176026156],[-9.2059665004042,53.24807022031632],[-9.20636356506469,53.24893238245818],[-9.21798505039578,53.24704548496823],[-9.21917699484754,53.24963183011744],[-9.2177242810256,53.24986776934702],[-9.2181216082509,53.25072988618115],[-9.21521608396324,53.25120172343429],[-9.21561337776217,53.25206384930988],[-9.21270774222421,53.25253562799713],[-9.21389958155913,53.25512202727691],[-9.21244666261038,53.25535790687883],[-9.2136385973933,53.25794430604799],[-9.21799754827873,53.25723656626775],[-9.21879242713942,53.2589607906632],[-9.21588636876908,53.25943265627893],[-9.21628378447116,53.26029477660893],[-9.21192450804426,53.26100246112469]]],"type":"Polygon"}
+}

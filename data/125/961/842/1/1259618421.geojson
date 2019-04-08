@@ -1,0 +1,66 @@
+{
+  "id": 1259618421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.03056,54.12306,-7.03056,54.12306",
+    "geom:latitude":54.12306,
+    "geom:longitude":-7.03056,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Glencorick",
+    "gn:country_code":"IE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309850,
+    "gn:latitude":54.12306,
+    "gn:longitude":-7.03056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glencorick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309850
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9c8d18651f178ca296c89481c96fbb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259618421,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1259618421,
+    "wof:lastmodified":1536664415,
+    "wof:name":"Glencorick",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.03056,
+    54.12306,
+    -7.03056,
+    54.12306
+],
+  "geometry": {"coordinates":[-7.03056,54.12306],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1260323077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.89833,54.16389,-6.89833,54.16389",
+    "geom:latitude":54.16389,
+    "geom:longitude":-6.89833,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Corvoy",
+    "gn:country_code":"IE",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3309836,
+    "gn:latitude":54.16389,
+    "gn:longitude":-6.89833,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Corvoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309836
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"585f082005c4a7d97f2695a823fd73c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260323077,
+            "region_id":85685117
+        }
+    ],
+    "wof:id":1260323077,
+    "wof:lastmodified":1536658837,
+    "wof:name":"Corvoy",
+    "wof:parent_id":85685117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.89833,
+    54.16389,
+    -6.89833,
+    54.16389
+],
+  "geometry": {"coordinates":[-6.89833,54.16389],"type":"Point"}
+}

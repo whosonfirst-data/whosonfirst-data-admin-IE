@@ -1,0 +1,80 @@
+{
+  "id": 1125318893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.256756,53.425798,-6.256756,53.425798",
+    "geom:latitude":53.425798,
+    "geom:longitude":-6.256756,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.425798,
+    "lbl:longitude":-6.256756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dublin Airport",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":637,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1109581,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072008,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072008,
+        "qs_pg:id":1109581
+    },
+    "wof:country":"IE",
+    "wof:created":1497044414,
+    "wof:geomhash":"9844a1b9769aa47b803fa58ba917c827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125318893,
+            "region_id":85685045
+        }
+    ],
+    "wof:id":1125318893,
+    "wof:lastmodified":1509388072,
+    "wof:name":"Dublin Airport",
+    "wof:parent_id":85685045,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.256756,
+    53.425798,
+    -6.256756,
+    53.425798
+],
+  "geometry": {"coordinates":[-6.256756,53.425798],"type":"Point"}
+}

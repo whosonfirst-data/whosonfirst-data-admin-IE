@@ -1,0 +1,66 @@
+{
+  "id": 1242905095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15972,52.27861,-7.15972,52.27861",
+    "geom:latitude":52.27861,
+    "geom:longitude":-7.15972,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Granny",
+    "gn:country_code":"IE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963878,
+    "gn:latitude":52.27861,
+    "gn:longitude":-7.15972,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Granny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963878
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4dfa2bc3ea81e01c7cd85dc7268b9f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242905095,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":1242905095,
+    "wof:lastmodified":1537085871,
+    "wof:name":"Granny",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15972,
+    52.27861,
+    -7.15972,
+    52.27861
+],
+  "geometry": {"coordinates":[-7.15972,52.27861],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260015835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.63639,52.93639,-7.63639,52.93639",
+    "geom:latitude":52.93639,
+    "geom:longitude":-7.63639,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Borris in Ossory",
+    "gn:country_code":"IE",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966056,
+    "gn:latitude":52.93639,
+    "gn:longitude":-7.63639,
+    "gn:modification_date":"2017-07-30",
+    "gn:name":"Borris in Ossory",
+    "gn:population":475,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Borris in Ossory"
+    ],
+    "name:gle_x_preferred":[
+        "Buir\u00edos M\u00f3r Osra\u00ed"
+    ],
+    "name:und_x_variant":[
+        "Borris-In-Ossory"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966056,
+        "wk:page":"Borris-in-Ossory"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"05d25239a6544600f43c22a05148f88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260015835,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1260015835,
+    "wof:lastmodified":1537636753,
+    "wof:name":"Borris in Ossory",
+    "wof:parent_id":85685005,
+    "wof:placetype":"locality",
+    "wof:population":475,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.63639,
+    52.93639,
+    -7.63639,
+    52.93639
+],
+  "geometry": {"coordinates":[-7.63639,52.93639],"type":"Point"}
+}

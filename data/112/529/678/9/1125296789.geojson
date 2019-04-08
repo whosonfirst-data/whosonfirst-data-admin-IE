@@ -1,0 +1,141 @@
+{
+  "id": 1125296789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.09,53.94694,-8.09,53.94694",
+    "geom:latitude":53.94694,
+    "geom:longitude":-8.09,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":2389,
+    "gn:population":3980,
+    "iso:country":"IE",
+    "lbl:latitude":53.94694,
+    "lbl:longitude":-8.09,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Cora Droma R\u00faisc"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043a \u043e\u043d \u0428\u0430\u043d\u044a\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Carrick on Shannon"
+    ],
+    "name:gle_x_preferred":[
+        "Cora Droma R\u00faisc"
+    ],
+    "name:glv_x_preferred":[
+        "Cora Droma R\u00faisc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30ea\u30c3\u30af\uff1d\u30aa\u30f3\uff1d\u30b7\u30e3\u30ce\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10e0\u10d8\u10d9-\u10dd\u10dc-\u10e8\u10d4\u10dc\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\ub9ad\uc628\uc100\ub10c"
+    ],
+    "name:lit_x_preferred":[
+        "Karikas prie \u0160anono"
+    ],
+    "name:nor_x_preferred":[
+        "Carrick-on-Shannon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u043a-\u043e\u043d-\u0428\u0430\u043d\u043d\u043e\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043a \u043d\u0430 \u0428\u0435\u043d\u043e\u043d\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Carrick on Shannon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0456\u043a-\u043d\u0430-\u0428\u0430\u043d\u043d\u043e\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Carrick-On-Shannon"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u06a9-\u0622\u0646-\u0634\u06cc\u0646\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u9999\u519c\u6cb3\u7554\u5361\u91cc\u514b"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2965727,
+    "qs_pg:gn_pop":2389,
+    "qs_pg:name":"Carrick-on-shannon",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":78,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":642,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":191512,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072948,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965727,
+        "gp:id":20072948,
+        "qs_pg:id":191512
+    },
+    "wof:country":"IE",
+    "wof:created":1497043188,
+    "wof:geomhash":"239f6680f0d3f1b9b8073b80a4f2efd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125296789,
+            "region_id":85685133
+        }
+    ],
+    "wof:id":1125296789,
+    "wof:lastmodified":1509387639,
+    "wof:name":"Carrick-on-shannon",
+    "wof:parent_id":85685133,
+    "wof:placetype":"localadmin",
+    "wof:population":3980,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.09,
+    53.94694,
+    -8.09,
+    53.94694
+],
+  "geometry": {"coordinates":[-8.09,53.94694],"type":"Point"}
+}

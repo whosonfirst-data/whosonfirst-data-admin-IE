@@ -1,0 +1,73 @@
+{
+  "id": 1343991531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74043,53.70756,-6.74043,53.70756",
+    "geom:latitude":53.70756,
+    "geom:longitude":-6.74043,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Gibstown",
+    "gn:country_code":"IE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866903,
+    "gn:latitude":53.70756,
+    "gn:longitude":-6.74043,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Gibstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gibstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Ghib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866903,
+        "wk:page":"Baile_Ghib"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b760206215c236944b662536456d3019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343991531,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1343991531,
+    "wof:lastmodified":1537636796,
+    "wof:name":"Gibstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74043,
+    53.70756,
+    -6.74043,
+    53.70756
+],
+  "geometry": {"coordinates":[-6.74043,53.70756],"type":"Point"}
+}

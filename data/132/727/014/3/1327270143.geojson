@@ -1,0 +1,78 @@
+{
+  "id": 1327270143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.05667,52.15167,-10.05667,52.15167",
+    "geom:latitude":52.15167,
+    "geom:longitude":-10.05667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Anascaul",
+    "gn:country_code":"IE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966997,
+    "gn:latitude":52.15167,
+    "gn:longitude":-10.05667,
+    "gn:modification_date":"2017-07-29",
+    "gn:name":"Anascaul",
+    "gn:population":299,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anascaul"
+    ],
+    "name:gle_x_preferred":[
+        "Abhainn an Sc\u00e1il"
+    ],
+    "name:und_x_variant":[
+        "Annascaul"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966997
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"64e4c161fa85da82a070764749d34edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327270143,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1327270143,
+    "wof:lastmodified":1537636761,
+    "wof:name":"Anascaul",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":299,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.05667,
+    52.15167,
+    -10.05667,
+    52.15167
+],
+  "geometry": {"coordinates":[-10.05667,52.15167],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209345569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.04472,53.11861,-7.04472,53.11861",
+    "geom:latitude":53.11861,
+    "geom:longitude":-7.04472,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Stramillian",
+    "gn:country_code":"IE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314392,
+    "gn:latitude":53.11861,
+    "gn:longitude":-7.04472,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Stramillian",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314392
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"65874d33107a6eeee755a560e421b4df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209345569
+        }
+    ],
+    "wof:id":1209345569,
+    "wof:lastmodified":1536289924,
+    "wof:name":"Stramillian",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.04472,
+    53.11861,
+    -7.04472,
+    53.11861
+],
+  "geometry": {"coordinates":[-7.04472,53.11861],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1309942375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61139,54.79667,-7.61139,54.79667",
+    "geom:latitude":54.79667,
+    "geom:longitude":-7.61139,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Tirinisk",
+    "gn:country_code":"IE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309183,
+    "gn:latitude":54.79667,
+    "gn:longitude":-7.61139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tirinisk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309183
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"cde49093ce3893238165d5f086e49062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309942375,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1309942375,
+    "wof:lastmodified":1536734432,
+    "wof:name":"Tirinisk",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61139,
+    54.79667,
+    -7.61139,
+    54.79667
+],
+  "geometry": {"coordinates":[-7.61139,54.79667],"type":"Point"}
+}

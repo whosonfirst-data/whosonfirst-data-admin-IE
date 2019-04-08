@@ -1,0 +1,66 @@
+{
+  "id": 1327467595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.20167,52.00972,-8.20167,52.00972",
+    "geom:latitude":52.00972,
+    "geom:longitude":-8.20167,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Peafield",
+    "gn:country_code":"IE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300057,
+    "gn:latitude":52.00972,
+    "gn:longitude":-8.20167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Peafield",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300057
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"777283591404706596ee84c74c13522f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327467595,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1327467595,
+    "wof:lastmodified":1536628273,
+    "wof:name":"Peafield",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.20167,
+    52.00972,
+    -8.20167,
+    52.00972
+],
+  "geometry": {"coordinates":[-8.20167,52.00972],"type":"Point"}
+}

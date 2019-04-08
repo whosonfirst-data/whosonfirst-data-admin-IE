@@ -1,0 +1,66 @@
+{
+  "id": 1327470223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.09417,53.30056,-9.09417,53.30056",
+    "geom:latitude":53.30056,
+    "geom:longitude":-9.09417,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Glenlough",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3312406,
+    "gn:latitude":53.30056,
+    "gn:longitude":-9.09417,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glenlough",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312406
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"585403f1e138756f0f8eda8646f378e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327470223,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1327470223,
+    "wof:lastmodified":1536624089,
+    "wof:name":"Glenlough",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.09417,
+    53.30056,
+    -9.09417,
+    53.30056
+],
+  "geometry": {"coordinates":[-9.09417,53.30056],"type":"Point"}
+}

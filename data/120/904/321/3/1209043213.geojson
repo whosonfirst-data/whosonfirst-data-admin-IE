@@ -1,0 +1,66 @@
+{
+  "id": 1209043213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22333,52.1425,-8.22333,52.1425",
+    "geom:latitude":52.1425,
+    "geom:longitude":-8.22333,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Clondulane",
+    "gn:country_code":"IE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965376,
+    "gn:latitude":52.1425,
+    "gn:longitude":-8.22333,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Clondulane",
+    "gn:population":333,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965376,
+        "wk:page":"Clondulane"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9e88579da2cccdbbb15a793a88187fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209043213
+        }
+    ],
+    "wof:id":1209043213,
+    "wof:lastmodified":1537564847,
+    "wof:name":"Clondulane",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":333,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22333,
+    52.1425,
+    -8.22333,
+    52.1425
+],
+  "geometry": {"coordinates":[-8.22333,52.1425],"type":"Point"}
+}

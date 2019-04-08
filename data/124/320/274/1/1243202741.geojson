@@ -1,0 +1,66 @@
+{
+  "id": 1243202741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.9455,53.56586,-6.9455,53.56586",
+    "geom:latitude":53.56586,
+    "geom:longitude":-6.9455,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Rathcormick",
+    "gn:country_code":"IE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866683,
+    "gn:latitude":53.56586,
+    "gn:longitude":-6.9455,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Rathcormick",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866683
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a0f111036aef834d686fbf325356c311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243202741,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1243202741,
+    "wof:lastmodified":1536660121,
+    "wof:name":"Rathcormick",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.9455,
+    53.56586,
+    -6.9455,
+    53.56586
+],
+  "geometry": {"coordinates":[-6.9455,53.56586],"type":"Point"}
+}

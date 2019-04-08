@@ -1,0 +1,66 @@
+{
+  "id": 1293323883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.14472,53.13861,-6.14472,53.13861",
+    "geom:latitude":53.13861,
+    "geom:longitude":-6.14472,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31.0",
+    "gn:asciiname":"Calary Lower",
+    "gn:country_code":"IE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3315428,
+    "gn:latitude":53.13861,
+    "gn:longitude":-6.14472,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Calary Lower",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315428
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e60decb35d109dd031db090012cfcd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293323883,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1293323883,
+    "wof:lastmodified":1537022012,
+    "wof:name":"Calary Lower",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.14472,
+    53.13861,
+    -6.14472,
+    53.13861
+],
+  "geometry": {"coordinates":[-6.14472,53.13861],"type":"Point"}
+}

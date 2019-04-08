@@ -1,0 +1,111 @@
+{
+  "id": 1125270695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54361,53.33861,-6.54361,53.33861",
+    "geom:latitude":53.33861,
+    "geom:longitude":-6.54361,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18167,
+    "gn:population":19537,
+    "iso:country":"IE",
+    "lbl:latitude":53.33861,
+    "lbl:longitude":-6.54361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043b\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:eng_x_preferred":[
+        "Celbridge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0628\u0631\u06cc\u062c"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Droichid"
+    ],
+    "name:lit_x_preferred":[
+        "Selbrid\u017eas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u723e\u5e03\u91cc\u5947"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965529,
+    "qs_pg:gn_pop":18167,
+    "qs_pg:name":"Celbridge",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kildare",
+    "qs_pg:photos":506,
+    "qs_pg:photos_1k":103,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1352,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":905613,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072756,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kildare",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965529,
+        "gp:id":20072756,
+        "qs_pg:id":905613
+    },
+    "wof:country":"IE",
+    "wof:created":1497042113,
+    "wof:geomhash":"8bc5db8e0208e7ba2b21772a53815bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125270695,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125270695,
+    "wof:lastmodified":1509387011,
+    "wof:name":"Celbridge",
+    "wof:parent_id":85685025,
+    "wof:placetype":"localadmin",
+    "wof:population":19537,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54361,
+    53.33861,
+    -6.54361,
+    53.33861
+],
+  "geometry": {"coordinates":[-6.54361,53.33861],"type":"Point"}
+}

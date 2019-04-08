@@ -1,0 +1,110 @@
+{
+  "id": 101805859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":338703.365514,
+    "geom:bbox":"-7.85918320802,52.1430963827,-7.83854088313,52.1491762163",
+    "geom:latitude":52.146538,
+    "geom:longitude":-7.849647,
+    "gn:population":759,
+    "iso:country":"IE",
+    "lbl:latitude":52.147668,
+    "lbl:longitude":-7.853948,
+    "mps:latitude":52.147668,
+    "mps:longitude":-7.853948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:dut_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:eng_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:eus_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:fra_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:fre_x_preferred":[
+        "Cappoquin"
+    ],
+    "name:gle_x_preferred":[
+        "Ceapach Choinn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043f\u043e\u043a\u0443\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Cappoquin"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Waterford",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Cappoquin",
+    "qs:la_lc":"*IE2405227017",
+    "qs:level":"locality",
+    "qs:loc":"Cappoquin",
+    "qs:loc_alt":"Cappoquin",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1109,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117eea92-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2965786,
+        "gp:id":20074140,
+        "qs:id":1103031,
+        "wd:id":"Q2937555",
+        "wk:page":"Cappoquin"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ad3f22bfa519c8920d6811144f34cecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805859,
+            "region_id":85684953
+        }
+    ],
+    "wof:id":101805859,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642959,
+    "wof:name":"Cappoquin",
+    "wof:parent_id":85684953,
+    "wof:placetype":"locality",
+    "wof:population":759,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.859183208025,
+    52.14309638272039,
+    -7.83854088312569,
+    52.14917621634135
+],
+  "geometry": {"coordinates":[[[-7.85313488266388,52.14917621634135],[-7.85277844694235,52.14830870341103],[-7.85135484140596,52.14852736831534],[-7.85099844821394,52.14765984890596],[-7.84957485541133,52.14787849187849],[-7.84921850474626,52.14701096599077],[-7.84067683303846,52.14832243661175],[-7.84032065236488,52.14745487980434],[-7.83889702127738,52.14767339370576],[-7.83854088312569,52.14680583042446],[-7.84281166165545,52.14615025225618],[-7.84245546404884,52.14528270205062],[-7.8438790059011,52.1450641467992],[-7.84423522899874,52.14593169211673],[-7.84992937085144,52.14505728114784],[-7.84957304579791,52.14418975538553],[-7.85099652389084,52.1439711149315],[-7.85206562661403,52.14657367278465],[-7.85633621373739,52.14591760517089],[-7.85526688164055,52.143315091332],[-7.85669030871224,52.14309638272039],[-7.85740323070604,52.1448313837534],[-7.85882669598556,52.14461264832045],[-7.859183208025,52.14548014156122],[-7.85775971726116,52.14569888188572],[-7.85811622085674,52.14656637842876],[-7.85526915007665,52.14700381774162],[-7.85598210644071,52.14873882562637],[-7.85313488266388,52.14917621634135]]],"type":"Polygon"}
+}

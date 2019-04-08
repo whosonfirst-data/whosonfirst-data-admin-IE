@@ -1,0 +1,66 @@
+{
+  "id": 1309835329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.94508,53.55009,-6.94508,53.55009",
+    "geom:latitude":53.55009,
+    "geom:longitude":-6.94508,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Corballis",
+    "gn:country_code":"IE",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866727,
+    "gn:latitude":53.55009,
+    "gn:longitude":-6.94508,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Corballis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866727
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"6c43ba0fe710d008a995e29995f7e191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309835329,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1309835329,
+    "wof:lastmodified":1536888220,
+    "wof:name":"Corballis",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.94508,
+    53.55009,
+    -6.94508,
+    53.55009
+],
+  "geometry": {"coordinates":[-6.94508,53.55009],"type":"Point"}
+}

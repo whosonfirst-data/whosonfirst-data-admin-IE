@@ -1,0 +1,79 @@
+{
+  "id": 1327368127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.30083,51.79833,-8.30083,51.79833",
+    "geom:latitude":51.79833,
+    "geom:longitude":-8.30083,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Crosshaven",
+    "gn:country_code":"IE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964985,
+    "gn:latitude":51.79833,
+    "gn:longitude":-8.30083,
+    "gn:modification_date":"2017-07-30",
+    "gn:name":"Crosshaven",
+    "gn:population":2093,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Crosshaven"
+    ],
+    "name:gle_x_preferred":[
+        "Bun an T\u00e1bhairne"
+    ],
+    "name:und_x_variant":[
+        "Crosshaven-Churchbay"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964985,
+        "wk:page":"Crosshaven"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"79146b9c395d4319dd629d04d15215ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327368127,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1327368127,
+    "wof:lastmodified":1537636745,
+    "wof:name":"Crosshaven",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":2093,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.30083,
+    51.79833,
+    -8.30083,
+    51.79833
+],
+  "geometry": {"coordinates":[-8.30083,51.79833],"type":"Point"}
+}

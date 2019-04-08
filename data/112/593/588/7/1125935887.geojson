@@ -1,0 +1,93 @@
+{
+  "id": 1125935887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.32833,51.90889,-10.32833,51.90889",
+    "geom:latitude":51.90889,
+    "geom:longitude":-10.32833,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":80,
+    "iso:country":"IE",
+    "lbl:latitude":51.90889,
+    "lbl:longitude":-10.32833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:gle_x_preferred":[
+        "An Caol"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3297707,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chapeltown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":985785,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387492,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297707,
+        "gp:id":29387492,
+        "qs_pg:id":985785
+    },
+    "wof:country":"IE",
+    "wof:created":1497296967,
+    "wof:geomhash":"8a3111663c270ed4ea8ac91f6019d159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125935887,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125935887,
+    "wof:lastmodified":1530148390,
+    "wof:name":"Chapeltown",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.32833,
+    51.90889,
+    -10.32833,
+    51.90889
+],
+  "geometry": {"coordinates":[-10.32833,51.90889],"type":"Point"}
+}

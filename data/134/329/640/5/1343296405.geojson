@@ -1,0 +1,66 @@
+{
+  "id": 1343296405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.92056,53.88583,-9.92056,53.88583",
+    "geom:latitude":53.88583,
+    "geom:longitude":-9.92056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Glassillaun",
+    "gn:country_code":"IE",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315636,
+    "gn:latitude":53.88583,
+    "gn:longitude":-9.92056,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Glassillaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315636
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"04ee91ed86348f961075fbadf83c43ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343296405,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343296405,
+    "wof:lastmodified":1536982300,
+    "wof:name":"Glassillaun",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.92056,
+    53.88583000000001,
+    -9.92056,
+    53.88583000000001
+],
+  "geometry": {"coordinates":[-9.92056,53.88583000000001],"type":"Point"}
+}

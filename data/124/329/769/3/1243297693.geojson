@@ -1,0 +1,66 @@
+{
+  "id": 1243297693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.39806,54.16333,-8.39806,54.16333",
+    "geom:latitude":54.16333,
+    "geom:longitude":-8.39806,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Lissaneeny",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311146,
+    "gn:latitude":54.16333,
+    "gn:longitude":-8.39806,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lissaneeny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311146
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"358374c820fbc12982508431186a99bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243297693,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1243297693,
+    "wof:lastmodified":1537019132,
+    "wof:name":"Lissaneeny",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.39806,
+    54.16333,
+    -8.39806,
+    54.16333
+],
+  "geometry": {"coordinates":[-8.39806,54.16333],"type":"Point"}
+}

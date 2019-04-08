@@ -1,0 +1,80 @@
+{
+  "id": 1125285175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.151429,53.01229,-7.151429,53.01229",
+    "geom:latitude":53.01229,
+    "geom:longitude":-7.151429,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.01229,
+    "lbl:longitude":-7.151429,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Stradbally",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":2242,
+    "qs_pg:photos_1k":454,
+    "qs_pg:photos_9k":26,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5925,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252083,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073099,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073099,
+        "qs_pg:id":1252083
+    },
+    "wof:country":"IE",
+    "wof:created":1497042669,
+    "wof:geomhash":"de6a7706062b30aa9c498a9cddbd3393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125285175,
+            "region_id":85685005
+        }
+    ],
+    "wof:id":1125285175,
+    "wof:lastmodified":1509387403,
+    "wof:name":"Stradbally",
+    "wof:parent_id":85685005,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.151429,
+    53.01229,
+    -7.151429,
+    53.01229
+],
+  "geometry": {"coordinates":[-7.151429,53.01229],"type":"Point"}
+}

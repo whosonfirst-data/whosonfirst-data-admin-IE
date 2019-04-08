@@ -1,0 +1,66 @@
+{
+  "id": 1360022415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.40356,54.01377,-9.40356,54.01377",
+    "geom:latitude":54.01377,
+    "geom:longitude":-9.40356,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Doonaroya",
+    "gn:country_code":"IE",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315782,
+    "gn:latitude":54.01377,
+    "gn:longitude":-9.40356,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Doonaroya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315782
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"12a32a4b69d6b1d8a9599bfbb523ed3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360022415,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1360022415,
+    "wof:lastmodified":1537034441,
+    "wof:name":"Doonaroya",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.40356,
+    54.01377,
+    -9.40356,
+    54.01377
+],
+  "geometry": {"coordinates":[-9.40356,54.01377],"type":"Point"}
+}

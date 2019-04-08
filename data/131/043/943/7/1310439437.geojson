@@ -1,0 +1,66 @@
+{
+  "id": 1310439437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.26167,52.48194,-7.26167,52.48194",
+    "geom:latitude":52.48194,
+    "geom:longitude":-7.26167,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Croan Cross Roads",
+    "gn:country_code":"IE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3302313,
+    "gn:latitude":52.48194,
+    "gn:longitude":-7.26167,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Croan Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3302313
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d9ffd072881e059b0cf55a721ad8d5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310439437,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1310439437,
+    "wof:lastmodified":1537011631,
+    "wof:name":"Croan Cross Roads",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.26167,
+    52.48194,
+    -7.26167,
+    52.48194
+],
+  "geometry": {"coordinates":[-7.26167,52.48194],"type":"Point"}
+}

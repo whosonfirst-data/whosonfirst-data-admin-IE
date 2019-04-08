@@ -1,0 +1,72 @@
+{
+  "id": 1360319215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88167,53.14806,-8.88167,53.14806",
+    "geom:latitude":53.14806,
+    "geom:longitude":-8.88167,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Carrowgarriff",
+    "gn:country_code":"IE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312275,
+    "gn:latitude":53.14806,
+    "gn:longitude":-8.88167,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Carrowgarriff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Carrowgarriff"
+    ],
+    "name:gle_x_preferred":[
+        "An Cheathr\u00fa Gharbh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312275
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"85d088644407619314fcfecc226b9b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360319215,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1360319215,
+    "wof:lastmodified":1537636779,
+    "wof:name":"Carrowgarriff",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88167,
+    53.14806,
+    -8.88167,
+    53.14806
+],
+  "geometry": {"coordinates":[-8.88167,53.14806],"type":"Point"}
+}

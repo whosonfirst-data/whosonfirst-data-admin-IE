@@ -1,0 +1,66 @@
+{
+  "id": 1276909575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.98694,52.24111,-8.98694,52.24111",
+    "geom:latitude":52.24111,
+    "geom:longitude":-8.98694,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Barleyhill",
+    "gn:country_code":"IE",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3292730,
+    "gn:latitude":52.24111,
+    "gn:longitude":-8.98694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Barleyhill",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3292730
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"886080bf04e3d65542d20316ad2bb018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276909575,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1276909575,
+    "wof:lastmodified":1537000721,
+    "wof:name":"Barleyhill",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.98694,
+    52.24111,
+    -8.98694,
+    52.24111
+],
+  "geometry": {"coordinates":[-8.98694,52.24111],"type":"Point"}
+}

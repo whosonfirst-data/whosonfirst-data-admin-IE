@@ -1,0 +1,63 @@
+{
+  "id": 1209248761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.29917,52.91972,-6.29917,52.91972",
+    "geom:latitude":52.91972,
+    "geom:longitude":-6.29917,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"31",
+    "gn:asciiname":"Greenan",
+    "gn:country_code":"IE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963867,
+    "gn:latitude":52.91972,
+    "gn:longitude":-6.29917,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Greenan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963867,
+        "wk:page":"Greenan%2C_County_Wicklow"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8727dc2807e92db9daded1b902526121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209248761
+        }
+    ],
+    "wof:id":1209248761,
+    "wof:lastmodified":1537564844,
+    "wof:name":"Greenan",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.29917,
+    52.91972,
+    -6.29917,
+    52.91972
+],
+  "geometry": {"coordinates":[-6.29917,52.91972],"type":"Point"}
+}

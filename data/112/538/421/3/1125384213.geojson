@@ -1,0 +1,80 @@
+{
+  "id": 1125384213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.006959,52.689039,-7.006959,52.689039",
+    "geom:latitude":52.689039,
+    "geom:longitude":-7.006959,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":52.689039,
+    "lbl:longitude":-7.006959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Shankill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014992,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072918,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072918,
+        "qs_pg:id":1014992
+    },
+    "wof:country":"IE",
+    "wof:created":1497048259,
+    "wof:geomhash":"47bef203718463dedb732dc7da0f6e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125384213,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1125384213,
+    "wof:lastmodified":1509389666,
+    "wof:name":"Shankill",
+    "wof:parent_id":85684979,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.006959,
+    52.689039,
+    -7.006959,
+    52.689039
+],
+  "geometry": {"coordinates":[-7.006959,52.689039],"type":"Point"}
+}

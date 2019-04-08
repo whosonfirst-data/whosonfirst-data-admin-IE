@@ -1,0 +1,71 @@
+{
+  "id": 1193172031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.96278,53.5625,-9.96278,53.5625",
+    "geom:latitude":53.5625,
+    "geom:longitude":-9.96278,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10",
+    "gn:asciiname":"Dawros",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964863,
+    "gn:latitude":53.5625,
+    "gn:longitude":-9.96278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dawros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dawros More",
+        "Dawros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964863
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"eb44c728b7c96ba6f2d9cb8ce1772f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193172031,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1193172031,
+    "wof:lastmodified":1537636744,
+    "wof:name":"Dawros",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.96278,
+    53.5625,
+    -9.96278,
+    53.5625
+],
+  "geometry": {"coordinates":[-9.96278,53.5625],"type":"Point"}
+}

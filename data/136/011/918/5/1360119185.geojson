@@ -1,0 +1,67 @@
+{
+  "id": 1360119185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.10528,52.6925,-7.10528,52.6925",
+    "geom:latitude":52.6925,
+    "geom:longitude":-7.10528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Castlewarren",
+    "gn:country_code":"IE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965541,
+    "gn:latitude":52.6925,
+    "gn:longitude":-7.10528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Castlewarren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965541,
+        "wk:page":"Castlewarren"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"975ee61d67d7b7925d6d8d5140daa2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360119185,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1360119185,
+    "wof:lastmodified":1537564847,
+    "wof:name":"Castlewarren",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.10528,
+    52.6925,
+    -7.10528,
+    52.6925
+],
+  "geometry": {"coordinates":[-7.10528,52.6925],"type":"Point"}
+}

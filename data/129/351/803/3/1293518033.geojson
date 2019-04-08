@@ -1,0 +1,66 @@
+{
+  "id": 1293518033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.93139,53.16444,-8.93139,53.16444",
+    "geom:latitude":53.16444,
+    "geom:longitude":-8.93139,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Tarrea",
+    "gn:country_code":"IE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312270,
+    "gn:latitude":53.16444,
+    "gn:longitude":-8.93139,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tarrea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312270
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fc74cd61ece7ae900cec6dc1c91b131b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293518033,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1293518033,
+    "wof:lastmodified":1536742904,
+    "wof:name":"Tarrea",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.93139,
+    53.16444,
+    -8.93139,
+    53.16444
+],
+  "geometry": {"coordinates":[-8.93139,53.16444],"type":"Point"}
+}

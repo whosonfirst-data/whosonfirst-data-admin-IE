@@ -1,0 +1,66 @@
+{
+  "id": 1293524153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.45694,53.99722,-7.45694,53.99722",
+    "geom:latitude":53.99722,
+    "geom:longitude":-7.45694,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Killykeen",
+    "gn:country_code":"IE",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309521,
+    "gn:latitude":53.99722,
+    "gn:longitude":-7.45694,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killykeen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309521
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"af9cdd5685601a4c8716ddf8893e31b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293524153,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1293524153,
+    "wof:lastmodified":1536734353,
+    "wof:name":"Killykeen",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.45694,
+    53.99722,
+    -7.45694,
+    53.99722
+],
+  "geometry": {"coordinates":[-7.45694,53.99722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259910925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.21278,53.30639,-9.21278,53.30639",
+    "geom:latitude":53.30639,
+    "geom:longitude":-9.21278,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Laughil",
+    "gn:country_code":"IE",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312227,
+    "gn:latitude":53.30639,
+    "gn:longitude":-9.21278,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Laughil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Laughil"
+    ],
+    "name:gle_x_preferred":[
+        "Leamhchoill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312227
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5d0b1b384d12600762a74620f2edf4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1259910925,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1259910925,
+    "wof:lastmodified":1537636779,
+    "wof:name":"Laughil",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.21278,
+    53.30639,
+    -9.21278,
+    53.30639
+],
+  "geometry": {"coordinates":[-9.21278,53.30639],"type":"Point"}
+}

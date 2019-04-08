@@ -1,0 +1,66 @@
+{
+  "id": 1193171997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.91361,52.78611,-7.91361,52.78611",
+    "geom:latitude":52.78611,
+    "geom:longitude":-7.91361,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Goldings Cross",
+    "gn:country_code":"IE",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3306618,
+    "gn:latitude":52.78611,
+    "gn:longitude":-7.91361,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Goldings Cross",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3306618
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"74a3f1308f3619090db6aab9c2d6d24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1193171997,
+            "region_id":1159294375
+        }
+    ],
+    "wof:id":1193171997,
+    "wof:lastmodified":1536379411,
+    "wof:name":"Goldings Cross",
+    "wof:parent_id":1159294375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.91361,
+    52.78611,
+    -7.91361,
+    52.78611
+],
+  "geometry": {"coordinates":[-7.91361,52.78611],"type":"Point"}
+}

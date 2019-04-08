@@ -1,0 +1,105 @@
+{
+  "id": 1125791777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.15222,53.71861,-7.15222,53.71861",
+    "geom:latitude":53.71861,
+    "geom:longitude":-7.15222,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.71861,
+    "lbl:longitude":-7.15222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Drumone"
+    ],
+    "name:dut_x_preferred":[
+        "Drumone"
+    ],
+    "name:eng_x_preferred":[
+        "Drumone"
+    ],
+    "name:gle_x_preferred":[
+        "Droim Eamhna"
+    ],
+    "name:glv_x_preferred":[
+        "Droim Eamhna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043c\u043e\u043d"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964588,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Drumone",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":471174,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560736,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964588,
+        "gp:id":560736,
+        "qs_pg:id":471174,
+        "wd:id":"Q4167675"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290892,
+    "wof:geomhash":"8d2115f801ff36f0cdaf019fd3b3ea40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125791777,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1125791777,
+    "wof:lastmodified":1514450492,
+    "wof:name":"Drumone",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.15222,
+    53.71861,
+    -7.15222,
+    53.71861
+],
+  "geometry": {"coordinates":[-7.15222,53.71861],"type":"Point"}
+}

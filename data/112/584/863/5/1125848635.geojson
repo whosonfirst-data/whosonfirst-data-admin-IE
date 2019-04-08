@@ -1,0 +1,137 @@
+{
+  "id": 1125848635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.76667,53.76667,-8.76667,53.76667",
+    "geom:latitude":53.76667,
+    "geom:longitude":-8.76667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1344,
+    "gn:population":2312,
+    "iso:country":"IE",
+    "lbl:latitude":53.76667,
+    "lbl:longitude":-8.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:bre_x_preferred":[
+        "B\u00e9al \u00c1tha hAmhnais"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0445\u0430\u0443\u043d\u0438\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:eng_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:fre_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10f0\u10dd\u10dc\u10d8\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:gla_x_preferred":[
+        "B\u00e9al \u00c1tha hAmhnais"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha hAmhnais"
+    ],
+    "name:ita_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "name:lit_x_preferred":[
+        "Balihonisas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0445\u043e\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyhaunis"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966566,
+    "qs_pg:gn_pop":1344,
+    "qs_pg:name":"Ballyhaunis",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":282,
+    "qs_pg:photos_1k":57,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":282,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1252986,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559722,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966566,
+        "gp:id":559722,
+        "qs_pg:id":1252986,
+        "wd:id":"Q427043"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293286,
+    "wof:geomhash":"861f7ca2de3ea4cab2f189d637d5dd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125848635,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1125848635,
+    "wof:lastmodified":1534379341,
+    "wof:name":"Ballyhaunis",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":2312,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        101805055
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.76667,
+    53.76667,
+    -8.76667,
+    53.76667
+],
+  "geometry": {"coordinates":[-8.76667,53.76667],"type":"Point"}
+}

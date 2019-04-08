@@ -1,0 +1,66 @@
+{
+  "id": 1293817969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.38889,53.89056,-6.38889,53.89056",
+    "geom:latitude":53.89056,
+    "geom:longitude":-6.38889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Kilsaran",
+    "gn:country_code":"IE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963217,
+    "gn:latitude":53.89056,
+    "gn:longitude":-6.38889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kilsaran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963217
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5155ce1d64ce2c751146f4039b60b7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293817969,
+            "region_id":85685087
+        }
+    ],
+    "wof:id":1293817969,
+    "wof:lastmodified":1536807455,
+    "wof:name":"Kilsaran",
+    "wof:parent_id":85685087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.38889,
+    53.89056,
+    -6.38889,
+    53.89056
+],
+  "geometry": {"coordinates":[-6.38889,53.89056],"type":"Point"}
+}

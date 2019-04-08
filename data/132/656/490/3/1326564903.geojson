@@ -1,0 +1,79 @@
+{
+  "id": 1326564903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.02222,52.68111,-7.02222,52.68111",
+    "geom:latitude":52.68111,
+    "geom:longitude":-7.02222,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13",
+    "gn:asciiname":"Paulstown",
+    "gn:country_code":"IE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960949,
+    "gn:latitude":52.68111,
+    "gn:longitude":-7.02222,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Paulstown",
+    "gn:population":791,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Paulstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Ph\u00f3il"
+    ],
+    "name:und_x_variant":[
+        "Whitehall"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960949,
+        "wk:page":"Paulstown"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"aa9dac0943dd410b2602e1c5f8c18389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326564903,
+            "region_id":85684979
+        }
+    ],
+    "wof:id":1326564903,
+    "wof:lastmodified":1537636718,
+    "wof:name":"Paulstown",
+    "wof:parent_id":85684979,
+    "wof:placetype":"locality",
+    "wof:population":791,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.02222,
+    52.68111,
+    -7.02222,
+    52.68111
+],
+  "geometry": {"coordinates":[-7.02222,52.68111],"type":"Point"}
+}

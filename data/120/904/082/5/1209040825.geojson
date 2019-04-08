@@ -1,0 +1,67 @@
+{
+  "id": 1209040825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88889,52.7975,-8.88889,52.7975",
+    "geom:latitude":52.7975,
+    "geom:longitude":-8.88889,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Ardsollus Bridge",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966889,
+    "gn:latitude":52.7975,
+    "gn:longitude":-8.88889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ardsollus Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ardsollus",
+        "Ardsollus Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966889
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"e43846c050aa075cbb6fb3d92347cb6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209040825
+        }
+    ],
+    "wof:id":1209040825,
+    "wof:lastmodified":1537636761,
+    "wof:name":"Ardsollus Bridge",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88889,
+    52.7975,
+    -8.88889,
+    52.7975
+],
+  "geometry": {"coordinates":[-8.88889,52.7975],"type":"Point"}
+}

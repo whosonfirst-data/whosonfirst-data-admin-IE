@@ -1,0 +1,113 @@
+{
+  "id": 1125864921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.75389,53.29028,-6.75389,53.29028",
+    "geom:latitude":53.29028,
+    "geom:longitude":-6.75389,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1649,
+    "gn:population":2248,
+    "iso:country":"IE",
+    "lbl:latitude":53.29028,
+    "lbl:longitude":-6.75389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u043f\u0435\u0440\u044a\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Prosperous"
+    ],
+    "name:dut_x_preferred":[
+        "Prosperous"
+    ],
+    "name:eng_x_preferred":[
+        "Prosperous"
+    ],
+    "name:fre_x_preferred":[
+        "Prosperous"
+    ],
+    "name:gle_x_preferred":[
+        "An Chorrchoill"
+    ],
+    "name:glg_x_preferred":[
+        "Prosperous"
+    ],
+    "name:ita_x_preferred":[
+        "Prosperous"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u043f\u0435\u0440\u0435\u0441"
+    ],
+    "name:slo_x_preferred":[
+        "Prosperous"
+    ],
+    "name:spa_x_preferred":[
+        "Prosperous"
+    ],
+    "name:swe_x_preferred":[
+        "Prosperous"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961994,
+    "qs_pg:gn_pop":1649,
+    "qs_pg:name":"Prosperous",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":94253,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961994,
+        "qs_pg:id":94253,
+        "wd:id":"Q2528850"
+    },
+    "wof:country":"IE",
+    "wof:created":1497293988,
+    "wof:geomhash":"7e7bd04d062612fb94fdc0b2ae4c1cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125864921,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125864921,
+    "wof:lastmodified":1514450633,
+    "wof:name":"Prosperous",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":2248,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.75389,
+    53.29028,
+    -6.75389,
+    53.29028
+],
+  "geometry": {"coordinates":[-6.75389,53.29028],"type":"Point"}
+}

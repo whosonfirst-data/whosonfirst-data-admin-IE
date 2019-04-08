@@ -1,0 +1,120 @@
+{
+  "id": 1126069915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.11587,53.27722,-6.11587,53.27722",
+    "geom:latitude":53.27722,
+    "geom:longitude":-6.11587,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.27722,
+    "lbl:longitude":-6.11587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sandycove"
+    ],
+    "name:eng_x_preferred":[
+        "Sandycove"
+    ],
+    "name:fre_x_preferred":[
+        "Sandycove"
+    ],
+    "name:gle_x_preferred":[
+        "Cuas an Ghainimh"
+    ],
+    "name:ita_x_preferred":[
+        "Sandycove"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c7\u30a3\u30b3\u30fc\u30f4"
+    ],
+    "name:mlt_x_preferred":[
+        "Sandycove"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0438\u043a\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Sandycove"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6691043,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sandycove",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":3604,
+    "qs_pg:photos_1k":730,
+    "qs_pg:photos_9k":16,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3604,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":487988,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":23700802,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6691043,
+        "gp:id":23700802,
+        "qs_pg:id":487988,
+        "wd:id":"Q2672437"
+    },
+    "wof:country":"IE",
+    "wof:created":1497309718,
+    "wof:geomhash":"9585b3287a7e558064f7f7f3a7e7bea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":1126069915,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":1126069915,
+    "wof:lastmodified":1534379343,
+    "wof:name":"Sandycove",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[
+        85866233
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.11587,
+    53.27722,
+    -6.11587,
+    53.27722
+],
+  "geometry": {"coordinates":[-6.11587,53.27722],"type":"Point"}
+}

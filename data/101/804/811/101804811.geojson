@@ -1,0 +1,128 @@
+{
+  "id": 101804811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":607571.028613,
+    "geom:bbox":"-8.54013120566,52.9011699003,-8.5253037233,52.914049044",
+    "geom:latitude":52.908595,
+    "geom:longitude":-8.53399,
+    "gn:population":816,
+    "iso:country":"IE",
+    "lbl:latitude":52.908814,
+    "lbl:longitude":-8.53472,
+    "mps:latitude":52.908814,
+    "mps:longitude":-8.53472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Scarriff"
+    ],
+    "name:dut_x_preferred":[
+        "Scariff"
+    ],
+    "name:eng_x_preferred":[
+        "Scarriff"
+    ],
+    "name:eng_x_variant":[
+        "Scariff"
+    ],
+    "name:epo_x_preferred":[
+        "Scarriff"
+    ],
+    "name:eus_x_preferred":[
+        "Scarriff"
+    ],
+    "name:fra_x_preferred":[
+        "Scarriff"
+    ],
+    "name:fre_x_preferred":[
+        "Scarriff"
+    ],
+    "name:gle_x_preferred":[
+        "An Scairbh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ab\u30ea\u30d5"
+    ],
+    "name:nld_x_preferred":[
+        "Scariff"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0438\u0444\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Scariff"
+    ],
+    "name:unk_x_variant":[
+        "Scariff"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Clare",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Scarriff",
+    "qs:la_lc":"*IE2301037142",
+    "qs:level":"locality",
+    "qs:loc":"Scarriff",
+    "qs:loc_alt":"Scarriff",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1101,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"11803adc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961574,
+        "gp:id":562183,
+        "qs:id":1142262,
+        "qs_pg:id":1142262,
+        "wd:id":"Q2668587",
+        "wk:page":"Scarriff"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"caa1c40592eac304f2b52288a0a9bc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804811,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":101804811,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642745,
+    "wof:name":"Scarriff",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:population":816,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.54013120565594,
+    52.90116990035,
+    -8.5253037233017,
+    52.91404904398598
+],
+  "geometry": {"coordinates":[[[-8.53922852769352,52.90116990035],[-8.53998682246504,52.90289944374189],[-8.53854227303225,52.90312693145],[-8.53892142179939,52.90399170578803],[-8.53747683229079,52.90421918140487],[-8.54013120565594,52.91027259048445],[-8.53868641857594,52.91050008518272],[-8.53906566220434,52.91136485629715],[-8.5289515814016,52.91295687144054],[-8.52933065965033,52.91382167722043],[-8.52788570935871,52.91404904398598],[-8.52750665737153,52.91318423301203],[-8.52606171950782,52.91341157729215],[-8.5253037233017,52.911681939858],[-8.52819348015316,52.9112272547805],[-8.52781445715095,52.91036244390034],[-8.52925928857104,52.91013508061889],[-8.52850124529266,52.9084054641454],[-8.52994601037074,52.90817809396123],[-8.52956699009627,52.90731328836733],[-8.53245642625438,52.9068585065192],[-8.53207737188995,52.90599370961206],[-8.53496670022423,52.90553886899869],[-8.53458761177649,52.90467408077882],[-8.53603222894947,52.9044466397354],[-8.53527405480304,52.90271706857959],[-8.53671860565692,52.90248962063788],[-8.53633951995977,52.90162483770212],[-8.53922852769352,52.90116990035]]],"type":"Polygon"}
+}

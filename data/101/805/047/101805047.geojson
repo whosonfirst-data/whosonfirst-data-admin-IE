@@ -1,0 +1,109 @@
+{
+  "id": 101805047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":448122.106681,
+    "geom:bbox":"-9.13654631675,53.7976143669,-9.12610372149,53.8103918245",
+    "geom:latitude":53.805508,
+    "geom:longitude":-9.131061,
+    "gn:population":671,
+    "iso:country":"IE",
+    "lbl:latitude":53.806943,
+    "lbl:longitude":-9.131575,
+    "mps:latitude":53.806943,
+    "mps:longitude":-9.131575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Balla"
+    ],
+    "name:eng_x_preferred":[
+        "Balla"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Balla"
+    ],
+    "name:gle_x_preferred":[
+        "Balla"
+    ],
+    "name:ita_x_preferred":[
+        "Balla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Balla"
+    ],
+    "name:vie_x_preferred":[
+        "Balla"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Balla",
+    "qs:la_lc":"*IE1303157014",
+    "qs:level":"locality",
+    "qs:loc":"Balla",
+    "qs:loc_alt":"Balla",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"1180201a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966788,
+        "gp:id":20073380,
+        "qs:id":291468,
+        "wd:id":"Q805124",
+        "wk:page":"Balla, County Mayo"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"80f15043499447f2cd134d920fdff4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805047,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805047,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Balla",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":671,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.13654631674899,
+    53.79761436689017,
+    -9.12610372148885,
+    53.81039182453662
+],
+  "geometry": {"coordinates":[[[-9.1321309038554,53.81039182453662],[-9.13172788352966,53.80952957417446],[-9.12878425420286,53.81000015461007],[-9.12838130844557,53.80913789140504],[-9.12690949848508,53.80937314968247],[-9.12610372148885,53.80764860680949],[-9.12904721717723,53.80717809469633],[-9.12743568453897,53.80372903132934],[-9.12890730064345,53.80349377090607],[-9.12769877900473,53.80090697090276],[-9.12917029820522,53.80067170940657],[-9.12836466239014,53.79894717804052],[-9.12983611197978,53.79871190995834],[-9.12943329674346,53.7978496470713],[-9.13090470400545,53.79761436689017],[-9.13211329144775,53.80020113357568],[-9.13064180235318,53.80043643029751],[-9.13265637777471,53.80474769943743],[-9.13412800327916,53.80451237514245],[-9.13654631674899,53.80968580520988],[-9.1321309038554,53.81039182453662]]],"type":"Polygon"}
+}

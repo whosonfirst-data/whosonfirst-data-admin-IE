@@ -1,0 +1,137 @@
+{
+  "id": 101805069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":866138.244558,
+    "geom:bbox":"-7.61029223522,54.8679417591,-7.58525980343,54.878135218",
+    "geom:latitude":54.8736,
+    "geom:longitude":-7.597723,
+    "gn:population":1157,
+    "iso:country":"IE",
+    "lbl:latitude":54.872801,
+    "lbl:longitude":-7.601706,
+    "mps:latitude":54.872801,
+    "mps:longitude":-7.601706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Raphoe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0444\u043e\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Raphoe"
+    ],
+    "name:deu_x_preferred":[
+        "Raphoe"
+    ],
+    "name:dut_x_preferred":[
+        "Raphoe"
+    ],
+    "name:eng_x_preferred":[
+        "Raphoe"
+    ],
+    "name:eus_x_preferred":[
+        "Raphoe"
+    ],
+    "name:fra_x_preferred":[
+        "Raphoe"
+    ],
+    "name:fre_x_preferred":[
+        "Raphoe"
+    ],
+    "name:ger_x_preferred":[
+        "Raphoe"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Bhoth"
+    ],
+    "name:glv_x_preferred":[
+        "R\u00e1th Bhoth"
+    ],
+    "name:ita_x_preferred":[
+        "Raphoe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d5\u30a9\u30fc"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0430\u0444\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Raphoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0444\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Raphoe"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Figart",
+    "qs:la_lc":"*IE1102057067",
+    "qs:level":"locality",
+    "qs:loc":"Raphoe",
+    "qs:loc_alt":"Raphoe",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1618,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"118037a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961944,
+        "gp:id":20071988,
+        "qs:id":902625,
+        "wd:id":"Q1025561",
+        "wk:page":"Raphoe"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"b3fa2d4f9c6037a1cd202e795926187f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805069,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805069,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642969,
+    "wof:name":"Raphoe",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":1157,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61029223521615,
+    54.86794175907374,
+    -7.58525980343171,
+    54.87813521797813
+],
+  "geometry": {"coordinates":[[[-7.60311873180456,54.87813521797813],[-7.60196381056107,54.87553250632868],[-7.58679823003689,54.87770686734689],[-7.58525980343171,54.87423635149599],[-7.58677630951212,54.87401901899131],[-7.58600715500376,54.87228376245423],[-7.59055640485485,54.87163168689591],[-7.59094106163076,54.87249930002923],[-7.59245747817198,54.87228189959364],[-7.59284218447738,54.8731495058887],[-7.59890782042555,54.8722796998656],[-7.59775340322869,54.86967694000339],[-7.59623710601966,54.86989440305945],[-7.59585236955218,54.86902680806077],[-7.59433608719223,54.86924424750907],[-7.59395140024651,54.86837664567111],[-7.59698389045803,54.86794175907374],[-7.59736863697503,54.86880935030729],[-7.59888488946007,54.86859187424898],[-7.59965450127754,54.87032704149692],[-7.60420334779667,54.86967447167189],[-7.6045882726728,54.87054203707578],[-7.60762082186562,54.87010688839246],[-7.60839084999679,54.87184199336076],[-7.60990716173887,54.87162438094964],[-7.61029223521615,54.87249192581794],[-7.60877589368937,54.87270954353556],[-7.6095460403356,54.87444463926687],[-7.60499674732148,54.87509741442472],[-7.60538176090552,54.87596497590124],[-7.60386527020637,54.87618253631302],[-7.60463529704634,54.87791766526198],[-7.60311873180456,54.87813521797813]]],"type":"Polygon"}
+}

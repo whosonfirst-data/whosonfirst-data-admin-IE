@@ -1,0 +1,66 @@
+{
+  "id": 1242811995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.96389,51.64694,-8.96389,51.64694",
+    "geom:latitude":51.64694,
+    "geom:longitude":-8.96389,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Sleveen",
+    "gn:country_code":"IE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3293527,
+    "gn:latitude":51.64694,
+    "gn:longitude":-8.96389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sleveen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3293527
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1d322d07ffffefd323e065f5572ce333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242811995,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1242811995,
+    "wof:lastmodified":1536726542,
+    "wof:name":"Sleveen",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96389,
+    51.64694,
+    -8.96389,
+    51.64694
+],
+  "geometry": {"coordinates":[-8.96389,51.64694],"type":"Point"}
+}

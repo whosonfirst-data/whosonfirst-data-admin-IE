@@ -1,0 +1,112 @@
+{
+  "id": 101806003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":318741.644917,
+    "geom:bbox":"-8.4784663016,52.5916828411,-8.46655162825,52.5973671613",
+    "geom:latitude":52.594501,
+    "geom:longitude":-8.471974,
+    "gn:population":1279,
+    "iso:country":"IE",
+    "lbl:latitude":52.59427,
+    "lbl:longitude":-8.471974,
+    "mps:latitude":52.59427,
+    "mps:longitude":-8.471974,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:dut_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:eng_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:eus_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:fra_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:fre_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair Chinn Lis"
+    ],
+    "name:ita_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:por_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:spa_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:swe_x_preferred":[
+        "Caherconlish"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Limerick",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Caherconlish West",
+    "qs:la_lc":"*IE2303127036",
+    "qs:level":"locality",
+    "qs:loc":"Caherconlish",
+    "qs:loc_alt":"Caherconlish",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":259,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965865,
+        "gp:id":91491984,
+        "qs:id":3,
+        "wd:id":"Q15119233",
+        "wk:page":"Caherconlish"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"73bb83a00dfaae1aa6368be335a8fc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101806003,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":101806003,
+    "wof:lastmodified":1527715382,
+    "wof:name":"Caherconlish",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":1279,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.47846630160137,
+    52.59168284108631,
+    -8.46655162825471,
+    52.59736716128003
+],
+  "geometry": {"coordinates":[[[-8.46804724026651,52.59627560792956],[-8.46655162825471,52.59281500640691],[-8.47372613091119,52.59168284108631],[-8.47447415920476,52.59341309399736],[-8.47734396891423,52.59296008725323],[-8.47846630160137,52.59555542319015],[-8.46698611804641,52.59736716128003],[-8.46661219581347,52.59650201000068],[-8.46804724026651,52.59627560792956]]],"type":"Polygon"}
+}

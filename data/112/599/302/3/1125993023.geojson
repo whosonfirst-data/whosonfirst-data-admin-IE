@@ -1,0 +1,95 @@
+{
+  "id": 1125993023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.1,51.76667,-10.1,51.76667",
+    "geom:latitude":51.76667,
+    "geom:longitude":-10.1,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":51.76667,
+    "lbl:longitude":-10.1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Caherdaniel"
+    ],
+    "name:gle_x_preferred":[
+        "Cathair D\u00f3nall"
+    ],
+    "name:unk_x_variant":[
+        "Cuherdaniel"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965863,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Caherdaniel",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":736,
+    "qs_pg:photos_1k":149,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":736,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":281975,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560084,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965863,
+        "gp:id":560084,
+        "qs_pg:id":281975
+    },
+    "wof:country":"IE",
+    "wof:created":1497299151,
+    "wof:geomhash":"bece865f03cb06ff393bbf952b515a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125993023,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1125993023,
+    "wof:lastmodified":1509405531,
+    "wof:name":"Caherdaniel",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.1,
+    51.76667,
+    -10.1,
+    51.76667
+],
+  "geometry": {"coordinates":[-10.1,51.76667],"type":"Point"}
+}

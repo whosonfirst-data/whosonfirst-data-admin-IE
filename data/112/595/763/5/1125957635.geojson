@@ -1,0 +1,111 @@
+{
+  "id": 1125957635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.34529,53.64466,-6.34529,53.64466",
+    "geom:latitude":53.64466,
+    "geom:longitude":-6.34529,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"IE",
+    "lbl:latitude":53.64466,
+    "lbl:longitude":-6.34529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Bellewstown"
+    ],
+    "name:dut_x_preferred":[
+        "Bellewstown"
+    ],
+    "name:eng_x_preferred":[
+        "Bellewstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Bheileogaigh"
+    ],
+    "name:glv_x_preferred":[
+        "Baile an Bheileogaigh"
+    ],
+    "name:nob_x_preferred":[
+        "Bellewstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u044c\u044e\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bellewstown"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3316377,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bellewestown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":138,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":138,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":11872,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":29387530,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3316377,
+        "gp:id":29387530,
+        "qs_pg:id":11872,
+        "wd:id":"Q2577964"
+    },
+    "wof:country":"IE",
+    "wof:created":1497297675,
+    "wof:geomhash":"aeeafa86f069a32f26c649e3b0fed2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125957635,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1125957635,
+    "wof:lastmodified":1514450424,
+    "wof:name":"Bellewestown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.34529,
+    53.64466,
+    -6.34529,
+    53.64466
+],
+  "geometry": {"coordinates":[-6.34529,53.64466],"type":"Point"}
+}

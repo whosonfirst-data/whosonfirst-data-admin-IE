@@ -1,0 +1,105 @@
+{
+  "id": 1125320255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.07556,53.83389,-7.07556,53.83389",
+    "geom:latitude":53.83389,
+    "geom:longitude":-7.07556,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":2282,
+    "iso:country":"IE",
+    "lbl:latitude":53.83389,
+    "lbl:longitude":-7.07556,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Virginia"
+    ],
+    "name:gla_x_preferred":[
+        "Achadh an I\u00fair"
+    ],
+    "name:gle_x_preferred":[
+        "Achadh an I\u00fair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961006,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Virginia",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cavan",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":583,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1110423,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071322,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cavan",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961006,
+        "gp:id":20071322,
+        "qs_pg:id":1110423
+    },
+    "wof:country":"IE",
+    "wof:created":1497044494,
+    "wof:geomhash":"30950bace1d9c008405c94c8d1be7353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125320255,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1125320255,
+    "wof:lastmodified":1509388102,
+    "wof:name":"Virginia",
+    "wof:parent_id":85685125,
+    "wof:placetype":"localadmin",
+    "wof:population":2282,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.07556,
+    53.83389,
+    -7.07556,
+    53.83389
+],
+  "geometry": {"coordinates":[-7.07556,53.83389],"type":"Point"}
+}

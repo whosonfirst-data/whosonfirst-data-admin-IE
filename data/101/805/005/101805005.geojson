@@ -1,0 +1,126 @@
+{
+  "id": 101805005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":487929.525532,
+    "geom:bbox":"-7.53353938688,54.0051623559,-7.52015555271,54.0179628961",
+    "geom:latitude":54.012049,
+    "geom:longitude":-7.52748,
+    "gn:population":364,
+    "iso:country":"IE",
+    "lbl:latitude":54.01266,
+    "lbl:longitude":-7.527937,
+    "mps:latitude":54.01266,
+    "mps:longitude":-7.527937,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043b\u0435\u0448\u0430\u043d\u0434\u0440\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:eng_x_preferred":[
+        "Killashandra"
+    ],
+    "name:gla_x_preferred":[
+        "Cill an Seanr\u00e1tha"
+    ],
+    "name:gle_x_preferred":[
+        "Cill an Seanr\u00e1tha"
+    ],
+    "name:gle_x_variant":[
+        "Cill na Seanr\u00e1tha"
+    ],
+    "name:ita_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:pol_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0435\u0448\u0430\u043d\u0434\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:slo_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:swe_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:unk_x_variant":[
+        "Killeshandra"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Cavan",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Killashandra",
+    "qs:la_lc":"*IE1101027057",
+    "qs:level":"locality",
+    "qs:loc":"Killishandra",
+    "qs:loc_alt":"Killishandra",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":2018,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c0296-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963367,
+        "gp:id":561281,
+        "qs:id":1336313,
+        "wd:id":"Q311566",
+        "wk:page":"Killeshandra"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"0ca4996b8f4a7fd179d492410a8041cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805005,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":101805005,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642969,
+    "wof:name":"Killishandra",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:population":364,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.53353938688372,
+    54.00516235591857,
+    -7.52015555270879,
+    54.01796289614208
+],
+  "geometry": {"coordinates":[[[-7.52945280222207,54.01796289614208],[-7.52908044386055,54.01709486673246],[-7.52759410133132,54.0173108941089],[-7.52722179005502,54.01644285804599],[-7.52573546183913,54.01665886239107],[-7.52536319764562,54.01579081967583],[-7.52684949745623,54.01557482045712],[-7.52498831457979,54.01123460962714],[-7.52350215677603,54.01145058321708],[-7.52275787111609,54.00971447795609],[-7.52127175602396,54.00993042339485],[-7.52015555270879,54.00732623869374],[-7.52609958785638,54.00646241102334],[-7.52572744384287,54.00559436690213],[-7.52869932015346,54.00516235591857],[-7.52907152094303,54.00603038978983],[-7.52758556144119,54.00624640935615],[-7.52795775250991,54.00711444682668],[-7.52498573447832,54.00754644251106],[-7.52610224934057,54.01015057651779],[-7.52907443772824,54.00971855008112],[-7.53019129099363,54.01232263959952],[-7.53316359339885,54.01189051079905],[-7.53353597196366,54.01275852733113],[-7.53204979941074,54.01297460580963],[-7.53353938688372,54.01644667717977],[-7.53205308663763,54.01666275826773],[-7.53242550180869,54.01753077742154],[-7.52945280222207,54.01796289614208]]],"type":"Polygon"}
+}

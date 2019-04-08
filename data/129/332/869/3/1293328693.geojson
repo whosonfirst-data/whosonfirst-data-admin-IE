@@ -1,0 +1,66 @@
+{
+  "id": 1293328693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33083,51.80806,-9.33083,51.80806",
+    "geom:latitude":51.80806,
+    "geom:longitude":-9.33083,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Cappaboy Beg",
+    "gn:country_code":"IE",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297306,
+    "gn:latitude":51.80806,
+    "gn:longitude":-9.33083,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Cappaboy Beg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297306
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"24cc50045d1e61b7a097496982d181a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293328693,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293328693,
+    "wof:lastmodified":1537015249,
+    "wof:name":"Cappaboy Beg",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33083,
+    51.80806,
+    -9.33083,
+    51.80806
+],
+  "geometry": {"coordinates":[-9.33083,51.80806],"type":"Point"}
+}

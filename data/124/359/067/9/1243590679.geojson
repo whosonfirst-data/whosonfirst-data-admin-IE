@@ -1,0 +1,70 @@
+{
+  "id": 1243590679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.3575,51.8325,-8.3575,51.8325",
+    "geom:latitude":51.8325,
+    "geom:longitude":-8.3575,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Shanbally",
+    "gn:country_code":"IE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2961530,
+    "gn:latitude":51.8325,
+    "gn:longitude":-8.3575,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Shanbally",
+    "gn:population":337,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2961530,
+        "wk:page":"Shanbally"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d2069b4ac8817cf7f4cdcdc1ac3ec6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243590679,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1243590679,
+    "wof:lastmodified":1537564838,
+    "wof:name":"Shanbally",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":337,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.3575,
+    51.8325,
+    -8.3575,
+    51.8325
+],
+  "geometry": {"coordinates":[-8.3575,51.8325],"type":"Point"}
+}

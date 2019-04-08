@@ -1,0 +1,66 @@
+{
+  "id": 1226783209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.80889,53.22611,-6.80889,53.22611",
+    "geom:latitude":53.22611,
+    "geom:longitude":-6.80889,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"12.0",
+    "gn:asciiname":"Clongorey",
+    "gn:country_code":"IE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3314672,
+    "gn:latitude":53.22611,
+    "gn:longitude":-6.80889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Clongorey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3314672
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ab3dd6a0c3f363ef48ac69ca42ceddfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226783209,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1226783209,
+    "wof:lastmodified":1536661639,
+    "wof:name":"Clongorey",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.80889,
+    53.22611,
+    -6.80889,
+    53.22611
+],
+  "geometry": {"coordinates":[-6.80889,53.22611],"type":"Point"}
+}

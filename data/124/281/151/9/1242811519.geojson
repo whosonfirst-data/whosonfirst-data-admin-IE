@@ -1,0 +1,66 @@
+{
+  "id": 1242811519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.0309,53.64008,-7.0309,53.64008",
+    "geom:latitude":53.64008,
+    "geom:longitude":-7.0309,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Ballinlig",
+    "gn:country_code":"IE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866322,
+    "gn:latitude":53.64008,
+    "gn:longitude":-7.0309,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ballinlig",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866322
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"16cd9036fb1df2560c4e700965fa51d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1242811519,
+            "region_id":85685075
+        }
+    ],
+    "wof:id":1242811519,
+    "wof:lastmodified":1536727234,
+    "wof:name":"Ballinlig",
+    "wof:parent_id":85685075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.0309,
+    53.64008000000001,
+    -7.0309,
+    53.64008000000001
+],
+  "geometry": {"coordinates":[-7.0309,53.64008000000001],"type":"Point"}
+}

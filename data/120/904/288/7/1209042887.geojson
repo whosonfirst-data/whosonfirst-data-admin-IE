@@ -1,0 +1,72 @@
+{
+  "id": 1209042887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11551,53.9807,-9.11551,53.9807",
+    "geom:latitude":53.9807,
+    "geom:longitude":-9.11551,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Foxford",
+    "gn:country_code":"IE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964233,
+    "gn:latitude":53.9807,
+    "gn:longitude":-9.11551,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Foxford",
+    "gn:population":1326,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foxford"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al Easa"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964233,
+        "wk:page":"Foxford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d58f508b038cf7a4aeaada7cc26c4e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633241,
+            "locality_id":1209042887
+        }
+    ],
+    "wof:id":1209042887,
+    "wof:lastmodified":1537636740,
+    "wof:name":"Foxford",
+    "wof:parent_id":85633241,
+    "wof:placetype":"locality",
+    "wof:population":1326,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11551,
+    53.9807,
+    -9.11551,
+    53.9807
+],
+  "geometry": {"coordinates":[-9.11551,53.9807],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1327370239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.37583,51.98056,-8.37583,51.98056",
+    "geom:latitude":51.98056,
+    "geom:longitude":-8.37583,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Ballinvinny North",
+    "gn:country_code":"IE",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300013,
+    "gn:latitude":51.98056,
+    "gn:longitude":-8.37583,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ballinvinny North",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3300013
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a23f3c3616960b9554086b3910fd6b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327370239,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1327370239,
+    "wof:lastmodified":1536771037,
+    "wof:name":"Ballinvinny North",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.37583,
+    51.98056,
+    -8.37583,
+    51.98056
+],
+  "geometry": {"coordinates":[-8.37583,51.98056],"type":"Point"}
+}

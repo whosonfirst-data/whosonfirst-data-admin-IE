@@ -1,0 +1,66 @@
+{
+  "id": 1360016911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.2777,54.01539,-9.2777,54.01539",
+    "geom:latitude":54.01539,
+    "geom:longitude":-9.2777,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Cuilkillew",
+    "gn:country_code":"IE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315781,
+    "gn:latitude":54.01539,
+    "gn:longitude":-9.2777,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Cuilkillew",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315781
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"13fda58ed7b573129c12fbdfe22148d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1360016911,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1360016911,
+    "wof:lastmodified":1537042301,
+    "wof:name":"Cuilkillew",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.2777,
+    54.01539,
+    -9.2777,
+    54.01539
+],
+  "geometry": {"coordinates":[-9.2777,54.01539],"type":"Point"}
+}

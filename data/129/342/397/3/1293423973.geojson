@@ -1,0 +1,72 @@
+{
+  "id": 1293423973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.33333,53.66667,-9.33333,53.66667",
+    "geom:latitude":53.66667,
+    "geom:longitude":-9.33333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20",
+    "gn:asciiname":"Drumcoggy",
+    "gn:country_code":"IE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964616,
+    "gn:latitude":53.66667,
+    "gn:longitude":-9.33333,
+    "gn:modification_date":"2014-03-07",
+    "gn:name":"Drumcoggy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drumcoggy"
+    ],
+    "name:gle_x_preferred":[
+        "Droim Chagaidh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964616
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fe13195778df67bfda041c8a20dc45cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293423973,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1293423973,
+    "wof:lastmodified":1537636742,
+    "wof:name":"Drumcoggy",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.33333,
+    53.66667,
+    -9.33333,
+    53.66667
+],
+  "geometry": {"coordinates":[-9.33333,53.66667],"type":"Point"}
+}

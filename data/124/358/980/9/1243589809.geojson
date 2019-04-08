@@ -1,0 +1,73 @@
+{
+  "id": 1243589809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.57409,53.42414,-6.57409,53.42414",
+    "geom:latitude":53.42414,
+    "geom:longitude":-6.57409,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kilcloon",
+    "gn:country_code":"IE",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643246,
+    "gn:latitude":53.42414,
+    "gn:longitude":-6.57409,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Kilcloon",
+    "gn:population":264,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Cill Chluain"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643246,
+        "wk:page":"Kilcloon"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a6bd0ca6d3ce160307cd43da8147d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243589809,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1243589809,
+    "wof:lastmodified":1537636791,
+    "wof:name":"Kilcloon",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.57409,
+    53.42414,
+    -6.57409,
+    53.42414
+],
+  "geometry": {"coordinates":[-6.57409,53.42414],"type":"Point"}
+}

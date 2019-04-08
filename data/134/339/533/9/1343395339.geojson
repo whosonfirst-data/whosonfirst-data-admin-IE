@@ -1,0 +1,71 @@
+{
+  "id": 1343395339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.6875,54.04806,-8.6875,54.04806",
+    "geom:latitude":54.04806,
+    "geom:longitude":-8.6875,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Powellsborough Cross Roads",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962003,
+    "gn:latitude":54.04806,
+    "gn:longitude":-8.6875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Powellsborough Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Powellsborough",
+        "Powellsborough Cross Roads"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962003
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"74268ce2c5e83a65181f4d20f55aa9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343395339,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1343395339,
+    "wof:lastmodified":1537636724,
+    "wof:name":"Powellsborough Cross Roads",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.6875,
+    54.04806,
+    -8.6875,
+    54.04806
+],
+  "geometry": {"coordinates":[-8.6875,54.04806],"type":"Point"}
+}

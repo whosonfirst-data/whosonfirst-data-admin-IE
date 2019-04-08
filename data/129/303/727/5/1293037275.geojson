@@ -1,0 +1,69 @@
+{
+  "id": 1293037275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.50273,54.29707,-8.50273,54.29707",
+    "geom:latitude":54.29707,
+    "geom:longitude":-8.50273,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Ballincar",
+    "gn:country_code":"IE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643241,
+    "gn:latitude":54.29707,
+    "gn:longitude":-8.50273,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Ballincar",
+    "gn:population":444,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643241
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"936fa445a1084c93dc99d8567c1e29b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293037275,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1293037275,
+    "wof:lastmodified":1536939856,
+    "wof:name":"Ballincar",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:population":444,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.50273,
+    54.29707,
+    -8.50273,
+    54.29707
+],
+  "geometry": {"coordinates":[-8.50273,54.29707],"type":"Point"}
+}

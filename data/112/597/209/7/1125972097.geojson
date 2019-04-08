@@ -1,0 +1,108 @@
+{
+  "id": 1125972097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.618809,53.311339,-9.618809,53.311339",
+    "geom:latitude":53.311339,
+    "geom:longitude":-9.618809,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":53.311339,
+    "lbl:longitude":-9.618809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Leitir M\u00f3ir"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0442\u0435\u0440\u043c\u043e\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Leitir M\u00f3ir"
+    ],
+    "name:dut_x_preferred":[
+        "Leitir M\u00f3ir"
+    ],
+    "name:eng_x_preferred":[
+        "Lettermore"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d4\u10e2\u10d4\u10e0\u10db\u10dd\u10e0\u10d8"
+    ],
+    "name:gle_x_preferred":[
+        "Leitir M\u00f3ir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30bf\u30fc\u30e2\u30a2"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u0442\u0435\u0440\u043c\u043e\u0440"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Lettermore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":234081,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":23700783,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23700783,
+        "qs_pg:id":234081,
+        "wd:id":"Q2588739"
+    },
+    "wof:country":"IE",
+    "wof:created":1497298210,
+    "wof:geomhash":"ab9b8659a1b017b781d15eb9ba7ec782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125972097,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1125972097,
+    "wof:lastmodified":1514450566,
+    "wof:name":"Lettermore",
+    "wof:parent_id":85685097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.618809,
+    53.311339,
+    -9.618809,
+    53.311339
+],
+  "geometry": {"coordinates":[-9.618809,53.311339],"type":"Point"}
+}

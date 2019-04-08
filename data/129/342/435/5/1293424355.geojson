@@ -1,0 +1,66 @@
+{
+  "id": 1293424355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.27778,54.61583,-8.27778,54.61583",
+    "geom:latitude":54.61583,
+    "geom:longitude":-8.27778,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Tullyvoos",
+    "gn:country_code":"IE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308600,
+    "gn:latitude":54.61583,
+    "gn:longitude":-8.27778,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tullyvoos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308600
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"918752b7aa6a1ca50b0b6d31c9cb5f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293424355,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1293424355,
+    "wof:lastmodified":1536877241,
+    "wof:name":"Tullyvoos",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.27778,
+    54.61583,
+    -8.27778,
+    54.61583
+],
+  "geometry": {"coordinates":[-8.27778,54.61583],"type":"Point"}
+}

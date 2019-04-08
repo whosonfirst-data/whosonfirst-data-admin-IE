@@ -1,0 +1,71 @@
+{
+  "id": 1309745771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.60028,52.46194,-9.60028,52.46194",
+    "geom:latitude":52.46194,
+    "geom:longitude":-9.60028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Kilteean",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963204,
+    "gn:latitude":52.46194,
+    "gn:longitude":-9.60028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kilteean",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilteen",
+        "Kilteean"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963204
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"71cb87c6cd8195c9561bfcccfd7b1c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1309745771,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1309745771,
+    "wof:lastmodified":1537636732,
+    "wof:name":"Kilteean",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.60028,
+    52.46194000000001,
+    -9.60028,
+    52.46194000000001
+],
+  "geometry": {"coordinates":[-9.60028,52.46194000000001],"type":"Point"}
+}

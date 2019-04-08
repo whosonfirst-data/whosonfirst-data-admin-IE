@@ -1,0 +1,80 @@
+{
+  "id": 1125415591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.320204,53.244724,-6.320204,53.244724",
+    "geom:latitude":53.244724,
+    "geom:longitude":-6.320204,
+    "gn:gn_country":null,
+    "iso:country":"IE",
+    "lbl:latitude":53.244724,
+    "lbl:longitude":-6.320204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bohernabreena",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":962,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248595,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072068,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20072068,
+        "qs_pg:id":248595
+    },
+    "wof:country":"IE",
+    "wof:created":1497051265,
+    "wof:geomhash":"74b7b5fec3fa816d062cbcb406a79ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125415591,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1125415591,
+    "wof:lastmodified":1509390358,
+    "wof:name":"Bohernabreena",
+    "wof:parent_id":85685009,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.320204,
+    53.244724,
+    -6.320204,
+    53.244724
+],
+  "geometry": {"coordinates":[-6.320204,53.244724],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343495265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.30367,53.88784,-9.30367,53.88784",
+    "geom:latitude":53.88784,
+    "geom:longitude":-9.30367,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"20.0",
+    "gn:asciiname":"Knockaskibbole",
+    "gn:country_code":"IE",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10130182,
+    "gn:latitude":53.88784,
+    "gn:longitude":-9.30367,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Knockaskibbole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10130182
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"1d97898f02dc9ecb82495d8dd0946c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343495265,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":1343495265,
+    "wof:lastmodified":1536696154,
+    "wof:name":"Knockaskibbole",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.30367,
+    53.88784,
+    -9.30367,
+    53.88784
+],
+  "geometry": {"coordinates":[-9.30367,53.88784],"type":"Point"}
+}

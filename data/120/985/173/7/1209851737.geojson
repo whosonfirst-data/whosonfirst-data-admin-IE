@@ -1,0 +1,71 @@
+{
+  "id": 1209851737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.54528,53.76611,-6.54528,53.76611",
+    "geom:latitude":53.76611,
+    "geom:longitude":-6.54528,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Newtownfortescue",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962232,
+    "gn:latitude":53.76611,
+    "gn:longitude":-6.54528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Newtownfortescue",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Newtownfortesque",
+        "Newtownfortescue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962232
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ed62faf20af81b120e4c40f7045c2ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1209851737,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1209851737,
+    "wof:lastmodified":1537636726,
+    "wof:name":"Newtownfortescue",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.54528,
+    53.76611,
+    -6.54528,
+    53.76611
+],
+  "geometry": {"coordinates":[-6.54528,53.76611],"type":"Point"}
+}

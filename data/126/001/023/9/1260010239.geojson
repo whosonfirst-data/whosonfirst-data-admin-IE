@@ -1,0 +1,71 @@
+{
+  "id": 1260010239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.48167,52.68139,-9.48167,52.68139",
+    "geom:latitude":52.68139,
+    "geom:longitude":-9.48167,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Clooncoorha",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965311,
+    "gn:latitude":52.68139,
+    "gn:longitude":-9.48167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Clooncoorha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clooncorha",
+        "Clooncoorha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965311
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"3f73bd6fd377e92b4446191317996c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260010239,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1260010239,
+    "wof:lastmodified":1537636748,
+    "wof:name":"Clooncoorha",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.48167,
+    52.68139,
+    -9.48167,
+    52.68139
+],
+  "geometry": {"coordinates":[-9.48167,52.68139],"type":"Point"}
+}

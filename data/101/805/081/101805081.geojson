@@ -1,0 +1,151 @@
+{
+  "id": 101805081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":278748.928069,
+    "geom:bbox":"-8.1438707633,55.115748137,-8.12904194222,55.1227354608",
+    "geom:latitude":55.119304,
+    "geom:longitude":-8.136685,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":197,
+    "iso:country":"IE",
+    "lbl:latitude":55.119221,
+    "lbl:longitude":-8.136798,
+    "mps:latitude":55.119221,
+    "mps:longitude":-8.136798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Gort an Choirce"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0442\u0430\u0445\u043e\u0440\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Gort an Choirce"
+    ],
+    "name:deu_x_preferred":[
+        "Gortahork"
+    ],
+    "name:dut_x_preferred":[
+        "Gortahork"
+    ],
+    "name:eng_x_preferred":[
+        "Gortahork"
+    ],
+    "name:eus_x_preferred":[
+        "Gort an Choirce"
+    ],
+    "name:fre_x_preferred":[
+        "Gortahork"
+    ],
+    "name:ger_x_preferred":[
+        "Gortahork"
+    ],
+    "name:gle_x_preferred":[
+        "Gort an Choirce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0442\u0430\u0445\u043e\u0440\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Gortahork"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0442\u0430\u0445\u043e\u0440\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Gort An Choirce"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Donegal",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Gortahork",
+    "qs:la_lc":"*IE1102057081",
+    "qs:level":"locality",
+    "qs:loc":"Gortahork",
+    "qs:loc_alt":"Gortahork",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963952,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gortahork",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":59,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":59,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1343819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561012,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":389,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117c8b4e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2963952,
+        "gp:id":561012,
+        "qs:id":1343819,
+        "qs_pg:id":1343819,
+        "wd:id":"Q788778",
+        "wk:page":"Podensac"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"315e76842533e047bb435e455c8db8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805081,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":101805081,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379339,
+    "wof:name":"Gortahork",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125983035
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.14387076329723,
+    55.1157481369645,
+    -8.12904194221568,
+    55.12273546078239
+],
+  "geometry": {"coordinates":[[[-8.13176399192207,55.12273546078239],[-8.13096456838923,55.12100421322322],[-8.12944159313656,55.12122834778103],[-8.12904194221568,55.1203627160487],[-8.13513362981882,55.11946608963507],[-8.13433415023167,55.11773486526192],[-8.13890257244384,55.1170622356484],[-8.1385027737424,55.11619663750929],[-8.14154825065191,55.1157481369645],[-8.14194810921879,55.11661372410089],[-8.14347085419325,55.11638944078629],[-8.14387076329723,55.11725502078275],[-8.14234798839078,55.11747930959962],[-8.14274788816937,55.11834489346074],[-8.13970223165637,55.1187934270161],[-8.14010209217037,55.11965902024411],[-8.13857921056098,55.11988326498107],[-8.13897906174265,55.12074886207409],[-8.13593319181348,55.12119730746315],[-8.13633300371725,55.12206291392255],[-8.13176399192207,55.12273546078239]]],"type":"Polygon"}
+}

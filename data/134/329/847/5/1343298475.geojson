@@ -1,0 +1,70 @@
+{
+  "id": 1343298475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58912,51.72684,-8.58912,51.72684",
+    "geom:latitude":51.72684,
+    "geom:longitude":-8.58912,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Dunderrow",
+    "gn:country_code":"IE",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964536,
+    "gn:latitude":51.72684,
+    "gn:longitude":-8.58912,
+    "gn:modification_date":"2013-12-10",
+    "gn:name":"Dunderrow",
+    "gn:population":197,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964536,
+        "wk:page":"Dunderrow"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"a636456886f53fa7d16081e08771a46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343298475,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1343298475,
+    "wof:lastmodified":1537564845,
+    "wof:name":"Dunderrow",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":197,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58912,
+    51.72684,
+    -8.58912,
+    51.72684
+],
+  "geometry": {"coordinates":[-8.58912,51.72684],"type":"Point"}
+}

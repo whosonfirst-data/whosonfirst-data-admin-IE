@@ -1,0 +1,66 @@
+{
+  "id": 1326464225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.02667,54.7075,-8.02667,54.7075",
+    "geom:latitude":54.7075,
+    "geom:longitude":-8.02667,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Garvagh",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3308416,
+    "gn:latitude":54.7075,
+    "gn:longitude":-8.02667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Garvagh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3308416
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f57d84dcb8b246ba417c07cc8282f4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1326464225,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1326464225,
+    "wof:lastmodified":1537078882,
+    "wof:name":"Garvagh",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.02667,
+    54.7075,
+    -8.02667,
+    54.7075
+],
+  "geometry": {"coordinates":[-8.02667,54.7075],"type":"Point"}
+}

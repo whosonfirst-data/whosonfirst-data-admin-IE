@@ -1,0 +1,80 @@
+{
+  "id": 1125332791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.55144,54.405443,-8.55144,54.405443",
+    "geom:latitude":54.405443,
+    "geom:longitude":-8.55144,
+    "gn:gn_country":"IE",
+    "iso:country":"IE",
+    "lbl:latitude":54.405443,
+    "lbl:longitude":-8.55144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:name":"Lissadill North",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Sligo",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":583,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118143,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073916,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Sligo",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20073916,
+        "qs_pg:id":1118143
+    },
+    "wof:country":"IE",
+    "wof:created":1497045225,
+    "wof:geomhash":"b35fb7d037acb27c6eebb5e0c12590dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "localadmin_id":1125332791,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1125332791,
+    "wof:lastmodified":1509388425,
+    "wof:name":"Lissadill North",
+    "wof:parent_id":85685137,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.55144,
+    54.405443,
+    -8.55144,
+    54.405443
+],
+  "geometry": {"coordinates":[-8.55144,54.405443],"type":"Point"}
+}

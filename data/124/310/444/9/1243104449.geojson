@@ -1,0 +1,66 @@
+{
+  "id": 1243104449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.10889,54.01694,-8.10889,54.01694",
+    "geom:latitude":54.01694,
+    "geom:longitude":-8.10889,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24.0",
+    "gn:asciiname":"Moyoran",
+    "gn:country_code":"IE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3310844,
+    "gn:latitude":54.01694,
+    "gn:longitude":-8.10889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Moyoran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3310844
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"58df189c2b21e7562ecc77ecfc1a0bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243104449,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1243104449,
+    "wof:lastmodified":1536801378,
+    "wof:name":"Moyoran",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.10889,
+    54.01694000000001,
+    -8.10889,
+    54.01694000000001
+],
+  "geometry": {"coordinates":[-8.10889,54.01694000000001],"type":"Point"}
+}

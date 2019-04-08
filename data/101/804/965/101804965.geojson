@@ -1,0 +1,114 @@
+{
+  "id": 101804965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":1573335.89361,
+    "geom:bbox":"-8.59193798301,53.89657908,-8.55637953198,53.909921991",
+    "geom:latitude":53.903306,
+    "geom:longitude":-8.576836,
+    "gn:population":1822,
+    "iso:country":"IE",
+    "lbl:latitude":53.903216,
+    "lbl:longitude":-8.584514,
+    "mps:latitude":53.903216,
+    "mps:longitude":-8.584514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:fra_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:gle_x_preferred":[
+        "Bealach an Doir\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d0\u10ee\u10d0\u10d3\u10d4\u10e0\u10d8\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:pol_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:por_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0430\u0445\u0430\u0434\u0435\u0440\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballaghaderreen"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Roscommon",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:id":0,
+    "qs:la":"Edmondstown",
+    "qs:la_lc":"*IE1304197057",
+    "qs:level":"locality",
+    "qs:loc":"Ballaghaderreen",
+    "qs:loc_alt":"Ballaghaderreen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117ff806-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2966784,
+        "gp:id":20073755,
+        "qs:id":1196924,
+        "wd:id":"Q2119881",
+        "wk:page":"Ballaghaderreen"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"fb0c1aa6e23fdb6433475282b7e8fecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101804965,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":101804965,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"Ballaghaderreen",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:population":1822,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.59193798301067,
+    53.89657908004244,
+    -8.55637953197771,
+    53.90992199098531
+],
+  "geometry": {"coordinates":[[[-8.55794914323212,53.90992199098531],[-8.55637953197771,53.90646450418052],[-8.55785735897518,53.90623607760119],[-8.55824976019392,53.90710044648097],[-8.56711657890924,53.90572948235882],[-8.56672401132494,53.90486514578265],[-8.57411248271603,53.9037222150402],[-8.57293448150671,53.90112927583624],[-8.5714568998813,53.90135788128373],[-8.57106429964426,53.90049355940937],[-8.56663154943249,53.90117925323341],[-8.56545411548143,53.89858622889255],[-8.56693163048362,53.89835769816364],[-8.56653916388439,53.89749335868208],[-8.57244896561951,53.89657908004244],[-8.57284154306211,53.8974433979871],[-8.57579641088063,53.89698614154622],[-8.57697442679478,53.89957905280312],[-8.58436175383758,53.89843552071898],[-8.58475460346858,53.89929979411141],[-8.58918690575422,53.89861344600041],[-8.58957985806779,53.89947770151258],[-8.59105729034991,53.8992488779711],[-8.59145028993959,53.90011312637978],[-8.58997282995341,53.90034195531138],[-8.59193798301067,53.90466319860315],[-8.59046036972109,53.90489203676361],[-8.59124651257144,53.90662053286741],[-8.58976882908894,53.90684936408394],[-8.59016190217125,53.90771361495695],[-8.58572867997492,53.90840001841315],[-8.58533569004561,53.90753575136733],[-8.58385794750177,53.90776451167204],[-8.58346500486846,53.90690023752364],[-8.58198727528105,53.90712897471013],[-8.58041581134944,53.90367183943874],[-8.57598286665092,53.90435787996677],[-8.57676839316787,53.90608648335433],[-8.57529065998511,53.90631513884921],[-8.57568342487235,53.90717944336393],[-8.55794914323212,53.90992199098531]]],"type":"Polygon"}
+}

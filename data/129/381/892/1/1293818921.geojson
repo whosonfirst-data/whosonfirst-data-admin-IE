@@ -1,0 +1,67 @@
+{
+  "id": 1293818921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.35,53.6,-8.35,53.6",
+    "geom:latitude":53.6,
+    "geom:longitude":-8.35,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"24",
+    "gn:asciiname":"Creggs",
+    "gn:country_code":"IE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2965036,
+    "gn:latitude":53.6,
+    "gn:longitude":-8.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Creggs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2965036,
+        "wk:page":"Creggs"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"84d68969f867465dcb1e62211e06d256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293818921,
+            "region_id":85685113
+        }
+    ],
+    "wof:id":1293818921,
+    "wof:lastmodified":1537564846,
+    "wof:name":"Creggs",
+    "wof:parent_id":85685113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.35,
+    53.6,
+    -8.35,
+    53.6
+],
+  "geometry": {"coordinates":[-8.35,53.6],"type":"Point"}
+}

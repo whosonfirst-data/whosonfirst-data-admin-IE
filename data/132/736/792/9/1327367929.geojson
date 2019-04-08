@@ -1,0 +1,77 @@
+{
+  "id": 1327367929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.11028,52.61139,-9.11028,52.61139",
+    "geom:latitude":52.61139,
+    "geom:longitude":-9.11028,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Foynes",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2964225,
+    "gn:latitude":52.61139,
+    "gn:longitude":-9.11028,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Foynes",
+    "gn:population":542,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Foynes"
+    ],
+    "name:gle_x_preferred":[
+        "Faing"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964225,
+        "wk:page":"Foynes"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"2cbf3a91788b43597b4213a204e44d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1327367929,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1327367929,
+    "wof:lastmodified":1537636740,
+    "wof:name":"Foynes",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:population":542,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.11028,
+    52.61139,
+    -9.11028,
+    52.61139
+],
+  "geometry": {"coordinates":[-9.11028,52.61139],"type":"Point"}
+}

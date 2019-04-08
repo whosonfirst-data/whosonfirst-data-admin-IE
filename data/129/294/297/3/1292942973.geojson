@@ -1,0 +1,66 @@
+{
+  "id": 1292942973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.48028,53.31972,-6.48028,53.31972",
+    "geom:latitude":53.31972,
+    "geom:longitude":-6.48028,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Peamount",
+    "gn:country_code":"IE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3315289,
+    "gn:latitude":53.31972,
+    "gn:longitude":-6.48028,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Peamount",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315289
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"59a3e1ce80fad3743af32cdc08df9986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292942973,
+            "region_id":85685009
+        }
+    ],
+    "wof:id":1292942973,
+    "wof:lastmodified":1537071836,
+    "wof:name":"Peamount",
+    "wof:parent_id":85685009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.48028,
+    53.31972,
+    -6.48028,
+    53.31972
+],
+  "geometry": {"coordinates":[-6.48028,53.31972],"type":"Point"}
+}

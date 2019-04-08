@@ -1,0 +1,66 @@
+{
+  "id": 1226572465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.58556,54.20222,-8.58556,54.20222",
+    "geom:latitude":54.20222,
+    "geom:longitude":-8.58556,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Lugnadeffa",
+    "gn:country_code":"IE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962778,
+    "gn:latitude":54.20222,
+    "gn:longitude":-8.58556,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Lugnadeffa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962778
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4db457b68b6a7c89f2fa79d1f46d254f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226572465,
+            "region_id":85685137
+        }
+    ],
+    "wof:id":1226572465,
+    "wof:lastmodified":1536960575,
+    "wof:name":"Lugnadeffa",
+    "wof:parent_id":85685137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.58556,
+    54.20222,
+    -8.58556,
+    54.20222
+],
+  "geometry": {"coordinates":[-8.58556,54.20222],"type":"Point"}
+}

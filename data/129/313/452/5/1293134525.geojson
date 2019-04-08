@@ -1,0 +1,66 @@
+{
+  "id": 1293134525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.88611,52.93389,-8.88611,52.93389",
+    "geom:latitude":52.93389,
+    "geom:longitude":-8.88611,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Walterstown",
+    "gn:country_code":"IE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3311991,
+    "gn:latitude":52.93389,
+    "gn:longitude":-8.88611,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Walterstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3311991
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"ca8172e3132a3b49ac65cab1b2535b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293134525,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1293134525,
+    "wof:lastmodified":1536799076,
+    "wof:name":"Walterstown",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.88611,
+    52.93389000000001,
+    -8.88611,
+    52.93389000000001
+],
+  "geometry": {"coordinates":[-8.88611,52.93389000000001],"type":"Point"}
+}

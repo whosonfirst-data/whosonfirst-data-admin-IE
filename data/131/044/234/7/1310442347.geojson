@@ -1,0 +1,70 @@
+{
+  "id": 1310442347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.34056,51.95639,-8.34056,51.95639",
+    "geom:latitude":51.95639,
+    "geom:longitude":-8.34056,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Knockraha",
+    "gn:country_code":"IE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2963084,
+    "gn:latitude":51.95639,
+    "gn:longitude":-8.34056,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Knockraha",
+    "gn:population":341,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2963084,
+        "wk:page":"Knockraha"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"8aa1249fa6847cd6610002ce40f23542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310442347,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1310442347,
+    "wof:lastmodified":1537564841,
+    "wof:name":"Knockraha",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":341,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.34056,
+    51.95639,
+    -8.34056,
+    51.95639
+],
+  "geometry": {"coordinates":[-8.34056,51.95639],"type":"Point"}
+}

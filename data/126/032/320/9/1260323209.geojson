@@ -1,0 +1,70 @@
+{
+  "id": 1260323209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.49,51.73889,-8.49,51.73889",
+    "geom:latitude":51.73889,
+    "geom:longitude":-8.49,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Belgooly",
+    "gn:country_code":"IE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966245,
+    "gn:latitude":51.73889,
+    "gn:longitude":-8.49,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Belgooly",
+    "gn:population":765,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966245,
+        "wk:page":"Belgooly"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d25d39b5b9c007cf3dc2e80a6822457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260323209,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1260323209,
+    "wof:lastmodified":1537564849,
+    "wof:name":"Belgooly",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":765,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.49,
+    51.73889000000001,
+    -8.49,
+    51.73889000000001
+],
+  "geometry": {"coordinates":[-8.49,51.73889000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1226373971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.29667,51.84556,-10.29667,51.84556",
+    "geom:latitude":51.84556,
+    "geom:longitude":-10.29667,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Killbarly",
+    "gn:country_code":"IE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3297694,
+    "gn:latitude":51.84556,
+    "gn:longitude":-10.29667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Killbarly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3297694
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"43eb2bef7ae156fe820cd6f497153ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1226373971,
+            "region_id":85684991
+        }
+    ],
+    "wof:id":1226373971,
+    "wof:lastmodified":1536748809,
+    "wof:name":"Killbarly",
+    "wof:parent_id":85684991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.29667,
+    51.84556,
+    -10.29667,
+    51.84556
+],
+  "geometry": {"coordinates":[-10.29667,51.84556],"type":"Point"}
+}

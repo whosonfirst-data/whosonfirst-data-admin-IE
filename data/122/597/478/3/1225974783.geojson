@@ -1,0 +1,67 @@
+{
+  "id": 1225974783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.61389,53.22444,-7.61389,53.22444",
+    "geom:latitude":53.22444,
+    "geom:longitude":-7.61389,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"23",
+    "gn:asciiname":"Blue Ball",
+    "gn:country_code":"IE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966095,
+    "gn:latitude":53.22444,
+    "gn:longitude":-7.61389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Blue Ball",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966095,
+        "wk:page":"Blue_Ball%2C_County_Offaly"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"d150e83ded3cf8072a54af8dd7814f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1225974783,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1225974783,
+    "wof:lastmodified":1537564849,
+    "wof:name":"Blue Ball",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.61389,
+    53.22444,
+    -7.61389,
+    53.22444
+],
+  "geometry": {"coordinates":[-7.61389,53.22444],"type":"Point"}
+}

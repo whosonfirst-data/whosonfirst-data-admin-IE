@@ -1,0 +1,66 @@
+{
+  "id": 1292941625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.88765,53.67583,-6.88765,53.67583",
+    "geom:latitude":53.67583,
+    "geom:longitude":-6.88765,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Volvenstown",
+    "gn:country_code":"IE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9866851,
+    "gn:latitude":53.67583,
+    "gn:longitude":-6.88765,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Volvenstown",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9866851
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"f112a678aa2f53d0a6ca89350422ca66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1292941625,
+            "region_id":85685081
+        }
+    ],
+    "wof:id":1292941625,
+    "wof:lastmodified":1537073903,
+    "wof:name":"Volvenstown",
+    "wof:parent_id":85685081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.88765,
+    53.67583000000001,
+    -6.88765,
+    53.67583000000001
+],
+  "geometry": {"coordinates":[-6.88765,53.67583000000001],"type":"Point"}
+}

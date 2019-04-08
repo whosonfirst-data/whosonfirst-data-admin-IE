@@ -1,0 +1,71 @@
+{
+  "id": 1260320813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.73111,52.6225,-9.73111,52.6225",
+    "geom:latitude":52.6225,
+    "geom:longitude":-9.73111,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"03",
+    "gn:asciiname":"Bellia",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2966218,
+    "gn:latitude":52.6225,
+    "gn:longitude":-9.73111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bellia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bellina",
+        "Bellia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966218
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"5379fadd199df3fd7e4070054ea6f312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1260320813,
+            "region_id":85685037
+        }
+    ],
+    "wof:id":1260320813,
+    "wof:lastmodified":1537636754,
+    "wof:name":"Bellia",
+    "wof:parent_id":85685037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.73111,
+    52.6225,
+    -9.73111,
+    52.6225
+],
+  "geometry": {"coordinates":[-9.73111,52.6225],"type":"Point"}
+}

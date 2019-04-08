@@ -1,0 +1,96 @@
+{
+  "id": 1125981715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.61667,53.13333,-6.61667,53.13333",
+    "geom:latitude":53.13333,
+    "geom:longitude":-6.61667,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":872,
+    "iso:country":"IE",
+    "lbl:latitude":53.13333,
+    "lbl:longitude":-6.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ballymore Eustace"
+    ],
+    "name:gle_x_preferred":[
+        "An Baile M\u00f3r"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966496,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballymore Eustace",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kildare",
+    "qs_pg:photos":44,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":44,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1156408,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":559765,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kildare",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2966496,
+        "gp:id":559765,
+        "qs_pg:id":1156408
+    },
+    "wof:country":"IE",
+    "wof:created":1497298587,
+    "wof:geomhash":"f755c60e67e481cb4b60b6899f0b4101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125981715,
+            "region_id":85685025
+        }
+    ],
+    "wof:id":1125981715,
+    "wof:lastmodified":1509404802,
+    "wof:name":"Ballymore Eustace",
+    "wof:parent_id":85685025,
+    "wof:placetype":"locality",
+    "wof:population":872,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.61667,
+    53.13333,
+    -6.61667,
+    53.13333
+],
+  "geometry": {"coordinates":[-6.61667,53.13333],"type":"Point"}
+}

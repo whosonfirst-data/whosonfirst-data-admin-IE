@@ -1,0 +1,101 @@
+{
+  "id": 1125791265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.13083,53.97278,-10.13083,53.97278",
+    "geom:latitude":53.97278,
+    "geom:longitude":-10.13083,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":582,
+    "iso:country":"IE",
+    "lbl:latitude":53.97278,
+    "lbl:longitude":-10.13083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dooagh"
+    ],
+    "name:eng_x_preferred":[
+        "Dooagh"
+    ],
+    "name:gle_x_preferred":[
+        "Dumha Acha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0430\u0445"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964738,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dooagh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":512,
+    "qs_pg:photos_1k":104,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":512,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1080458,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":560651,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2964738,
+        "gp:id":560651,
+        "qs_pg:id":1080458,
+        "wd:id":"Q3776385"
+    },
+    "wof:country":"IE",
+    "wof:created":1497290872,
+    "wof:geomhash":"98608cd21af15028a5e9d6db4d3905a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "locality_id":1125791265,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125791265,
+    "wof:lastmodified":1530148379,
+    "wof:name":"Dooagh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":582,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.13083,
+    53.97278,
+    -10.13083,
+    53.97278
+],
+  "geometry": {"coordinates":[-10.13083,53.97278],"type":"Point"}
+}

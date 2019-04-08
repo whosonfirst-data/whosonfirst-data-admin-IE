@@ -1,0 +1,72 @@
+{
+  "id": 1243207111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.79583,55.24194,-7.79583,55.24194",
+    "geom:latitude":55.24194,
+    "geom:longitude":-7.79583,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Melmore",
+    "gn:country_code":"IE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307536,
+    "gn:latitude":55.24194,
+    "gn:longitude":-7.79583,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Melmore",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Melmore"
+    ],
+    "name:gle_x_preferred":[
+        "An Meall M\u00f3r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307536
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"9ed48fbc7b77b8b87e0a0c4ee95ba2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1243207111,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1243207111,
+    "wof:lastmodified":1537636771,
+    "wof:name":"Melmore",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.79583,
+    55.24194,
+    -7.79583,
+    55.24194
+],
+  "geometry": {"coordinates":[-7.79583,55.24194],"type":"Point"}
+}

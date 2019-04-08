@@ -1,0 +1,68 @@
+{
+  "id": 1310236449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.6475,53.32,-9.6475,53.32",
+    "geom:latitude":53.32,
+    "geom:longitude":-9.6475,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Annaghvaan",
+    "gn:country_code":"IE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3312075,
+    "gn:latitude":53.32,
+    "gn:longitude":-9.6475,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Annaghvaan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Annaghvaan"
+    ],
+    "name:gle_x_preferred":[
+        "Eanach Mhe\u00e1in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3312075
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"222afb845c1f8c1bc701e6c873d5e739",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310236449,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310236449,
+    "wof:lastmodified":1537636778,
+    "wof:name":"Annaghvaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.6475,
+    53.32,
+    -9.6475,
+    53.32
+],
+  "geometry": {"coordinates":[-9.6475,53.32],"type":"Point"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 101805041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000234,
+    "geom:area_square_m":1702808.354972,
+    "geom:bbox":"-8.9609701664,53.9302262995,-8.93343211705,53.9476241935",
+    "geom:latitude":53.939533,
+    "geom:longitude":-8.95011,
+    "gn:population":1435,
+    "iso:country":"IE",
+    "lbl:latitude":53.939042,
+    "lbl:longitude":-8.95011,
+    "mps:latitude":53.939042,
+    "mps:longitude":-8.95011,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Swinford"
+    ],
+    "name:bre_x_preferred":[
+        "B\u00e9al \u00c1tha na Muice"
+    ],
+    "name:deu_x_preferred":[
+        "Swinford"
+    ],
+    "name:dut_x_preferred":[
+        "Swinford"
+    ],
+    "name:eng_x_preferred":[
+        "Swineford"
+    ],
+    "name:eng_x_variant":[
+        "Swinford"
+    ],
+    "name:fra_x_preferred":[
+        "Swinford"
+    ],
+    "name:fre_x_preferred":[
+        "Swinford"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d5\u10d8\u10dc\u10e4\u10dd\u10e0\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Swinford"
+    ],
+    "name:gla_x_preferred":[
+        "B\u00e9al \u00c0tha na Muice"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha na Muice"
+    ],
+    "name:ita_x_preferred":[
+        "Swinford"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d5\u10d8\u10dc\u10e4\u10dd\u10e0\u10d3\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Svinfordas"
+    ],
+    "name:nld_x_preferred":[
+        "Swinford"
+    ],
+    "name:pol_x_preferred":[
+        "Swinford"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0438\u043d\u0444\u043e\u0440\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Swinford"
+    ],
+    "name:swe_x_preferred":[
+        "Swinford"
+    ],
+    "name:unk_x_variant":[
+        "Swineford"
+    ],
+    "qs:a0":"Ireland",
+    "qs:a1":"*Mayo",
+    "qs:a1r":"0",
+    "qs:adm0":"Ireland",
+    "qs:la":"Swineford",
+    "qs:la_lc":"*IE1303157144",
+    "qs:level":"locality",
+    "qs:loc":"Swinford",
+    "qs:loc_alt":"Swinford",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1204,
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"117dcd6a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2961299,
+        "gp:id":562308,
+        "qs:id":246152,
+        "wd:id":"Q2038011",
+        "wk:page":"Swinford"
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"daacc3f1cd9b4427056622f654e9e8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101805041,
+            "region_id":85685145
+        }
+    ],
+    "wof:id":101805041,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815514,
+    "wof:name":"Swinford",
+    "wof:parent_id":85685145,
+    "wof:placetype":"locality",
+    "wof:population":1435,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.96097016640084,
+    53.9302262995231,
+    -8.93343211705223,
+    53.94762419347239
+],
+  "geometry": {"coordinates":[[[-8.95061126719031,53.94762419347239],[-8.9502101634385,53.94676129990745],[-8.94873281050087,53.94699450583795],[-8.94833175431665,53.94613160499949],[-8.94685441391289,53.9463647877343],[-8.94645340529411,53.94550187962329],[-8.94202137651502,53.94620130513744],[-8.94162047065385,53.94533837877026],[-8.93866576471237,53.94580456295165],[-8.93826493401036,53.94494162382404],[-8.93383284499498,53.94564075085464],[-8.93343211705223,53.94477779347903],[-8.93490946750808,53.94454477432799],[-8.93410801628255,53.94281886522634],[-8.93558529649044,53.94258583935238],[-8.93518457320948,53.9417228876261],[-8.93813903328635,53.94125679375361],[-8.93974226690972,53.94470854607545],[-8.94565144795553,53.9437760580646],[-8.94525049923277,53.94291314461719],[-8.94672772925969,53.94267998385436],[-8.94552492009103,53.94009124931705],[-8.94404777283501,53.94032439360382],[-8.94364690395435,53.93946147304251],[-8.94216976923394,53.93969459413881],[-8.94016586208562,53.93537993720804],[-8.95050452362193,53.93374791006192],[-8.94970271431657,53.93202211171183],[-8.95117955061698,53.93178890517561],[-8.95077864832371,53.93092600882284],[-8.95520898421017,53.9302262995231],[-8.95560996921364,53.93108917939946],[-8.95708674530812,53.93085590208625],[-8.95788883033083,53.93258164551122],[-8.95936564650867,53.93234833951732],[-8.96097016640084,53.93579978301881],[-8.95949323993614,53.93603311099014],[-8.95989439225372,53.93689597290717],[-8.95841742315292,53.93712928867762],[-8.95921973254332,53.93885501815799],[-8.95478856940298,53.93955489225709],[-8.95719548041029,53.94473213686683],[-8.95867271536332,53.94449883022708],[-8.95987652329694,53.94708741200282],[-8.95692187277854,53.94755404055996],[-8.9565206386718,53.94669117075625],[-8.95061126719031,53.94762419347239]]],"type":"Polygon"}
+}

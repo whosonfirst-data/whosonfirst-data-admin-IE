@@ -1,0 +1,66 @@
+{
+  "id": 1276481161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.2275,55.13583,-7.2275,55.13583",
+    "geom:latitude":55.13583,
+    "geom:longitude":-7.2275,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"06",
+    "gn:asciiname":"Magheralahan",
+    "gn:country_code":"IE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3307687,
+    "gn:latitude":55.13583,
+    "gn:longitude":-7.2275,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Magheralahan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3307687
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"59d2ea043a71e10dfc532e33b112c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1276481161,
+            "region_id":85685151
+        }
+    ],
+    "wof:id":1276481161,
+    "wof:lastmodified":1537074741,
+    "wof:name":"Magheralahan",
+    "wof:parent_id":85685151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.2275,
+    55.13583000000001,
+    -7.2275,
+    55.13583000000001
+],
+  "geometry": {"coordinates":[-7.2275,55.13583000000001],"type":"Point"}
+}

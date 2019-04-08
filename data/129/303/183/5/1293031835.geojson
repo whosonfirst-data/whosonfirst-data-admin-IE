@@ -1,0 +1,111 @@
+{
+  "id": 1293031835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.97556,54.40056,-6.97556,54.40056",
+    "geom:latitude":54.40056,
+    "geom:longitude":-6.97556,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Moy Bridge",
+    "gn:cc2":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2962441,
+    "gn:latitude":54.40056,
+    "gn:longitude":-6.97556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moy Bridge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moy",
+        "Moy Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        136253055,
+        102191575,
+        102193527,
+        102191577,
+        102191581,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962441
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"4286b694bbd983bf2d375acfbf21caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        },
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "empire_id":136253055,
+            "locality_id":1293031835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293031835,
+    "wof:lastmodified":1537636727,
+    "wof:name":"Moy Bridge",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.97556,
+    54.40056,
+    -6.97556,
+    54.40056
+],
+  "geometry": {"coordinates":[-6.97556,54.40056],"type":"Point"}
+}

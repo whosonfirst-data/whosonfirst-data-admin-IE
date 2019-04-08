@@ -1,0 +1,75 @@
+{
+  "id": 1293136417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-8.22972,51.83056,-8.22972,51.83056",
+    "geom:latitude":51.83056,
+    "geom:longitude":-8.22972,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Whitegate",
+    "gn:country_code":"IE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2960952,
+    "gn:latitude":51.83056,
+    "gn:longitude":-8.22972,
+    "gn:modification_date":"2013-11-26",
+    "gn:name":"Whitegate",
+    "gn:population":1067,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Whitegate"
+    ],
+    "name:gle_x_preferred":[
+        "An Geata B\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2960952
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"78fa3fcbf3aa9f1b5c3ca0d9acd8fe79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1293136417,
+            "region_id":85684963
+        }
+    ],
+    "wof:id":1293136417,
+    "wof:lastmodified":1537636718,
+    "wof:name":"Whitegate",
+    "wof:parent_id":85684963,
+    "wof:placetype":"locality",
+    "wof:population":1067,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.22972,
+    51.83056,
+    -8.22972,
+    51.83056
+],
+  "geometry": {"coordinates":[-8.22972,51.83056],"type":"Point"}
+}

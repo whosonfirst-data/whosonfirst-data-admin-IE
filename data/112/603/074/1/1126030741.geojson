@@ -1,0 +1,92 @@
+{
+  "id": 1126030741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.06347,53.12771,-6.06347,53.12771",
+    "geom:latitude":53.12771,
+    "geom:longitude":-6.06347,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1800,
+    "gn:population":1800,
+    "iso:country":"IE",
+    "lbl:latitude":53.12771,
+    "lbl:longitude":-6.06347,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0440\u043b\u0435\u0441\u043b\u0430\u043d\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Charlesland"
+    ],
+    "name:eng_x_preferred":[
+        "Charlesland"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u043b\u0441\u043b\u0435\u043d\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Charlesland"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6857857,
+    "qs_pg:gn_pop":1800,
+    "qs_pg:name":"Charlesland",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":651769,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6857857,
+        "qs_pg:id":651769,
+        "wd:id":"Q4507407"
+    },
+    "wof:country":"IE",
+    "wof:created":1497301455,
+    "wof:geomhash":"9420a05f70209e10766288163fa6ad6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1126030741,
+            "region_id":85684999
+        }
+    ],
+    "wof:id":1126030741,
+    "wof:lastmodified":1514450448,
+    "wof:name":"Charlesland",
+    "wof:parent_id":85684999,
+    "wof:placetype":"locality",
+    "wof:population":1800,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.06347,
+    53.12771,
+    -6.06347,
+    53.12771
+],
+  "geometry": {"coordinates":[-6.06347,53.12771],"type":"Point"}
+}

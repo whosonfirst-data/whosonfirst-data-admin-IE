@@ -1,0 +1,66 @@
+{
+  "id": 1310440047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.26336,52.58016,-9.26336,52.58016",
+    "geom:latitude":52.58016,
+    "geom:longitude":-9.26336,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Caheragh",
+    "gn:country_code":"IE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869975,
+    "gn:latitude":52.58016,
+    "gn:longitude":-9.26336,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Caheragh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7869975
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"19f788644d8204fc3f80fecd540436c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1310440047,
+            "region_id":85684987
+        }
+    ],
+    "wof:id":1310440047,
+    "wof:lastmodified":1537010720,
+    "wof:name":"Caheragh",
+    "wof:parent_id":85684987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.26336,
+    52.58016,
+    -9.26336,
+    52.58016
+],
+  "geometry": {"coordinates":[-9.26336,52.58016],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343395913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.3925,54.10139,-7.3925,54.10139",
+    "geom:latitude":54.10139,
+    "geom:longitude":-7.3925,
+    "gn:admin1_code":"U",
+    "gn:admin2_code":"02",
+    "gn:asciiname":"Kinagha",
+    "gn:country_code":"IE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3309443,
+    "gn:latitude":54.10139,
+    "gn:longitude":-7.3925,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Kinagha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "iso:country":"IE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3309443
+    },
+    "wof:country":"IE",
+    "wof:geomhash":"30d263e7b30db885dd6b18fa6b212ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1343395913,
+            "region_id":85685125
+        }
+    ],
+    "wof:id":1343395913,
+    "wof:lastmodified":1536838342,
+    "wof:name":"Kinagha",
+    "wof:parent_id":85685125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.3925,
+    54.10139,
+    -7.3925,
+    54.10139
+],
+  "geometry": {"coordinates":[-7.3925,54.10139],"type":"Point"}
+}

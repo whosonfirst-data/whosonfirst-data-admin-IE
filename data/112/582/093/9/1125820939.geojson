@@ -1,0 +1,124 @@
+{
+  "id": 1125820939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.95861,52.88028,-7.95861,52.88028",
+    "geom:latitude":52.88028,
+    "geom:longitude":-7.95861,
+    "gn:gn_country":"IE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":310,
+    "iso:country":"IE",
+    "lbl:latitude":52.88028,
+    "lbl:longitude":-7.95861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Moneygall"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043d\u0435\u0439\u0433\u0430\u043b"
+    ],
+    "name:dut_x_preferred":[
+        "Moneygall"
+    ],
+    "name:eng_x_preferred":[
+        "Moneygall"
+    ],
+    "name:fre_x_preferred":[
+        "Moneygall"
+    ],
+    "name:ger_x_preferred":[
+        "Moneygall"
+    ],
+    "name:gle_x_preferred":[
+        "Muine Gall"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30cb\u30fc\u30b4\u30fc\u30eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0438\u0433\u0430\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Moneygall"
+    ],
+    "name:swe_x_preferred":[
+        "Moneygall"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962549,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Moneygall",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":104,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":104,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":133954,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561731,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2962549,
+        "gp:id":561731,
+        "qs_pg:id":133954,
+        "wd:id":"Q577157"
+    },
+    "wof:country":"IE",
+    "wof:created":1497292061,
+    "wof:geomhash":"8134704aabf764e1037471aa6bfa2a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":1125820939,
+            "region_id":85685041
+        }
+    ],
+    "wof:id":1125820939,
+    "wof:lastmodified":1514450615,
+    "wof:name":"Moneygall",
+    "wof:parent_id":85685041,
+    "wof:placetype":"locality",
+    "wof:population":310,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.95861,
+    52.88028,
+    -7.95861,
+    52.88028
+],
+  "geometry": {"coordinates":[-7.95861,52.88028],"type":"Point"}
+}
