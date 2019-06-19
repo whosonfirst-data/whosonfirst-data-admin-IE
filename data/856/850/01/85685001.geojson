@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Dunlaoghaire-Rathdown County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.264462,
     "lbl:longitude":-6.20053,
     "mps:latitude":53.264462,
@@ -215,7 +218,7 @@
         }
     ],
     "wof:id":85685001,
-    "wof:lastmodified":1553550817,
+    "wof:lastmodified":1560985098,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

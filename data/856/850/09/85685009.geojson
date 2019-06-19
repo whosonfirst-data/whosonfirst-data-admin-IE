@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "South Dublin County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.293352,
     "lbl:longitude":-6.436777,
     "mps:latitude":53.293352,
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":85685009,
-    "wof:lastmodified":1553550825,
+    "wof:lastmodified":1560985097,
     "wof:name":"South Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

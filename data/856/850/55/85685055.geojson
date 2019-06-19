@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Galway City County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.28944,
     "lbl:longitude":-9.058838,
     "mps:latitude":53.28944,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":85685055,
-    "wof:lastmodified":1553550838,
+    "wof:lastmodified":1560985098,
     "wof:name":"Galway City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
