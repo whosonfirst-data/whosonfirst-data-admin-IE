@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Chill Mhant\u00e1in"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":52.984944,
     "lbl:longitude":-6.340102,
     "mps:latitude":52.984944,
@@ -338,7 +344,7 @@
         }
     ],
     "wof:id":85684999,
-    "wof:lastmodified":1553550951,
+    "wof:lastmodified":1560988066,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

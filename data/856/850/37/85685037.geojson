@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae an Chl\u00e1ir"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":52.852054,
     "lbl:longitude":-9.097898,
     "mps:latitude":52.852054,
@@ -333,7 +339,7 @@
         }
     ],
     "wof:id":85685037,
-    "wof:lastmodified":1553551044,
+    "wof:lastmodified":1560987998,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

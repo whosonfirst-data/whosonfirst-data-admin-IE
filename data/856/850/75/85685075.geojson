@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae na hIarmh\u00ed"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.529706,
     "lbl:longitude":-7.408682,
     "mps:latitude":53.529706,
@@ -316,7 +322,7 @@
         }
     ],
     "wof:id":85685075,
-    "wof:lastmodified":1553550848,
+    "wof:lastmodified":1560987995,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

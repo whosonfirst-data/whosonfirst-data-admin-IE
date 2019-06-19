@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Luimnigh"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":52.528499,
     "lbl:longitude":-8.762755,
     "mps:latitude":52.528499,
@@ -266,7 +272,7 @@
         }
     ],
     "wof:id":85684987,
-    "wof:lastmodified":1553550839,
+    "wof:lastmodified":1560988049,
     "wof:name":"Limerick",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

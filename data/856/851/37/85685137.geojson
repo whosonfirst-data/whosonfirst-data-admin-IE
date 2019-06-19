@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Shligigh"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":54.122697,
     "lbl:longitude":-8.778625,
     "mps:latitude":54.122697,
@@ -334,7 +340,7 @@
         }
     ],
     "wof:id":85685137,
-    "wof:lastmodified":1553551064,
+    "wof:lastmodified":1560988041,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

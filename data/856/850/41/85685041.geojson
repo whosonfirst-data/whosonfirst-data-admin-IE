@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae U\u00edbh Fhail\u00ed"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.1887,
     "lbl:longitude":-7.791377,
     "mps:latitude":53.1887,
@@ -325,7 +331,7 @@
         }
     ],
     "wof:id":85685041,
-    "wof:lastmodified":1553550862,
+    "wof:lastmodified":1560988015,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

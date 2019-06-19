@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Ros Com\u00e1in"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.757734,
     "lbl:longitude":-8.199804,
     "mps:latitude":53.757734,
@@ -332,7 +338,7 @@
         }
     ],
     "wof:id":85685113,
-    "wof:lastmodified":1553550898,
+    "wof:lastmodified":1560988044,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

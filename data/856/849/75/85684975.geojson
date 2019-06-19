@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11925,
-    "geom:area_square_m":892956575.514283,
+    "geom:area_square_m":892956575.514287,
     "geom:bbox":"-7.10793783791,52.4636038428,-6.50491658533,52.9179638042",
     "geom:latitude":52.729482,
     "geom:longitude":-6.823152,
@@ -15,6 +15,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "county"
+    ],
+    "label:gle_x_preferred_longname":[
+        "Contae Cheatharlach"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
     ],
     "lbl:latitude":52.725161,
     "lbl:longitude":-6.843704,
@@ -336,7 +342,7 @@
         }
     ],
     "wof:id":85684975,
-    "wof:lastmodified":1553814879,
+    "wof:lastmodified":1560988051,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

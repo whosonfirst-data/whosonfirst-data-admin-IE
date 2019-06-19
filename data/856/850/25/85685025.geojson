@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Chill Dara"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.198018,
     "lbl:longitude":-6.842829,
     "mps:latitude":53.198018,
@@ -333,7 +339,7 @@
         }
     ],
     "wof:id":85685025,
-    "wof:lastmodified":1553550869,
+    "wof:lastmodified":1560988016,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
