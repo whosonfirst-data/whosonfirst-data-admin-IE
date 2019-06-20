@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae an Chabh\u00e1in"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.960495,
     "lbl:longitude":-7.362192,
     "mps:latitude":53.960495,
@@ -333,7 +339,7 @@
         }
     ],
     "wof:id":85685125,
-    "wof:lastmodified":1553550910,
+    "wof:lastmodified":1560988045,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

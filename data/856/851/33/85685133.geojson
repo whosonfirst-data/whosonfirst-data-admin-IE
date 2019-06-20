@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Liatroma"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":54.302569,
     "lbl:longitude":-8.204506,
     "mps:latitude":54.302569,
@@ -347,7 +353,7 @@
         }
     ],
     "wof:id":85685133,
-    "wof:lastmodified":1553550886,
+    "wof:lastmodified":1560988031,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

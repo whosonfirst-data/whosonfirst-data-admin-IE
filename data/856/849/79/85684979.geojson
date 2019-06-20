@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Chill Chainnigh"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":52.548843,
     "lbl:longitude":-7.207567,
     "mps:latitude":52.548843,
@@ -349,7 +355,7 @@
         }
     ],
     "wof:id":85684979,
-    "wof:lastmodified":1553550829,
+    "wof:lastmodified":1560988081,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

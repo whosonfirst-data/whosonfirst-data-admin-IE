@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Fine Gall"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":53.496403,
     "lbl:longitude":-6.257495,
     "mps:latitude":53.496403,
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":85685045,
-    "wof:lastmodified":1553551007,
+    "wof:lastmodified":1560987992,
     "wof:name":"Fingal",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

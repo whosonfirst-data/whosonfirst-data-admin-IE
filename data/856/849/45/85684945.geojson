@@ -13,6 +13,15 @@
     "label:eng_x_preferred_longname":[
         "Cork City County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:gle_x_preferred_longname":[
+        "Corcaigh"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "baile"
+    ],
     "lbl:latitude":51.899076,
     "lbl:longitude":-8.467932,
     "mps:latitude":51.899076,
@@ -23,6 +32,9 @@
     "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
         "Cork City"
+    ],
+    "name:gle_x_preferred":[
+        "Corcaigh"
     ],
     "qs:a0":"Ireland",
     "qs:a0_lc":"IE0000000000",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":85684945,
-    "wof:lastmodified":1553550783,
+    "wof:lastmodified":1560988049,
     "wof:name":"Cork City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -13,6 +13,15 @@
     "label:eng_x_preferred_longname":[
         "Dublin City County"
     ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "label:gle_x_preferred_longname":[
+        "Baile \u00c1tha Cliath"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "baile"
+    ],
     "lbl:latitude":53.355217,
     "lbl:longitude":-6.278252,
     "mps:latitude":53.355217,
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":85685015,
-    "wof:lastmodified":1553550824,
+    "wof:lastmodified":1560988016,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

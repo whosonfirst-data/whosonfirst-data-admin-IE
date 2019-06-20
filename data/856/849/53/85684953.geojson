@@ -16,6 +16,12 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:gle_x_preferred_longname":[
+        "Contae Phort L\u00e1irge"
+    ],
+    "label:gle_x_preferred_placetype":[
+        "contae"
+    ],
     "lbl:latitude":52.229105,
     "lbl:longitude":-7.598119,
     "mps:latitude":52.229105,
@@ -263,7 +269,7 @@
         }
     ],
     "wof:id":85684953,
-    "wof:lastmodified":1553551023,
+    "wof:lastmodified":1560988063,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
