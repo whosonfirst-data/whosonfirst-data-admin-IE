@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Boherbue"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0445\u0435\u0440\u0431\u0443\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Boherbue"
     ],
     "name:eng_x_preferred":[
         "Boherbue"
     ],
+    "name:eus_x_preferred":[
+        "Boherbue"
+    ],
     "name:gle_x_preferred":[
         "An B\u00f3thar Bu\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Boherbue"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0445\u0435\u0440\u0431\u043e\u0439"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125934509,
-    "wof:lastmodified":1514450426,
+    "wof:lastmodified":1561759876,
     "wof:name":"Boherboy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000679,
-    "geom:area_square_m":5150291.699616,
+    "geom:area_square_m":5150291.699614,
     "geom:bbox":"-7.18218145205,52.1466709062,-7.12910013086,52.1849238175",
     "geom:latitude":52.163958,
     "geom:longitude":-7.155952,
@@ -17,25 +17,16 @@
     "mps:longitude":-7.149806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tramore"
-    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u043c\u043e\u0440"
     ],
     "name:cat_x_preferred":[
         "Tramore"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u83ab\u723e"
-    ],
     "name:dan_x_preferred":[
         "Tramore"
     ],
     "name:deu_x_preferred":[
-        "Tramore"
-    ],
-    "name:dut_x_preferred":[
         "Tramore"
     ],
     "name:eng_x_preferred":[
@@ -45,12 +36,6 @@
         "Tramore"
     ],
     "name:fra_x_preferred":[
-        "Tramore"
-    ],
-    "name:fre_x_preferred":[
-        "Tramore"
-    ],
-    "name:ger_x_preferred":[
         "Tramore"
     ],
     "name:gle_x_preferred":[
@@ -134,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642969,
+    "wof:lastmodified":1561759870,
     "wof:name":"Tramore",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

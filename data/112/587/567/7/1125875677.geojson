@@ -21,9 +21,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Fermoy"
-    ],
     "name:bre_x_preferred":[
         "Mainistir Fhear Ma\u00ed"
     ],
@@ -33,13 +30,10 @@
     "name:cat_x_preferred":[
         "Fermoy"
     ],
-    "name:chi_x_preferred":[
-        "\u4f5b\u6469\u4f0a"
-    ],
     "name:dan_x_preferred":[
         "Fermoy"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fermoy"
     ],
     "name:eng_x_preferred":[
@@ -48,10 +42,10 @@
     "name:epo_x_preferred":[
         "Fermoy"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Fermoy"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Fermoy"
     ],
     "name:gle_x_preferred":[
@@ -75,6 +69,9 @@
     "name:lit_x_preferred":[
         "Fermojus"
     ],
+    "name:nld_x_preferred":[
+        "Fermoy"
+    ],
     "name:pol_x_preferred":[
         "Fermoy"
     ],
@@ -92,6 +89,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0645\u0648\u0626\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f5b\u6469\u4f0a"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1125875677,
-    "wof:lastmodified":1534379340,
+    "wof:lastmodified":1561759885,
     "wof:name":"Fermoy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

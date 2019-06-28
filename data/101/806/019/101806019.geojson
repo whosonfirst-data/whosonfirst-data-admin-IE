@@ -17,9 +17,6 @@
     "mps:longitude":-10.269162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Dingle"
-    ],
     "name:bre_x_preferred":[
         "An Daingean"
     ],
@@ -32,9 +29,6 @@
     "name:deu_x_preferred":[
         "Dingle"
     ],
-    "name:dut_x_preferred":[
-        "Dingle"
-    ],
     "name:eng_x_preferred":[
         "Dingle"
     ],
@@ -44,6 +38,9 @@
     "name:eus_x_preferred":[
         "An Daingean"
     ],
+    "name:eus_x_variant":[
+        "Dingle"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0646\u06af\u0644"
     ],
@@ -51,12 +48,6 @@
         "Dingle"
     ],
     "name:fra_x_preferred":[
-        "Dingle"
-    ],
-    "name:fre_x_preferred":[
-        "Dingle"
-    ],
-    "name:ger_x_preferred":[
         "Dingle"
     ],
     "name:gle_x_preferred":[
@@ -92,9 +83,6 @@
     "name:nor_x_preferred":[
         "Dingle"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0646\u06af\u0644"
-    ],
     "name:pol_x_preferred":[
         "An Daingean"
     ],
@@ -109,9 +97,6 @@
     ],
     "name:swe_x_preferred":[
         "Dingle"
-    ],
-    "name:wel_x_preferred":[
-        "An Daingean"
     ],
     "name:zho_min_nan_x_preferred":[
         "Dingle"
@@ -164,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715381,
+    "wof:lastmodified":1561759873,
     "wof:name":"Dingle",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

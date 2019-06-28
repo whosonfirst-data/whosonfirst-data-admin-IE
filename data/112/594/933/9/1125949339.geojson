@@ -19,22 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Carrigtwohill"
-    ],
     "name:cat_x_preferred":[
         "Carrigtwohill"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Carrigtwohill"
     ],
     "name:eng_x_preferred":[
         "Carrigtohill"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Carrigtwohill"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Carrigtwohill"
     ],
     "name:gla_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:lit_x_preferred":[
         "Karigtohilis"
+    ],
+    "name:nld_x_preferred":[
+        "Carrigtwohill"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0440\u0438\u0433\u0442\u043e\u0445\u0438\u043b\u043b"
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125949339,
-    "wof:lastmodified":1514450438,
+    "wof:lastmodified":1561759875,
     "wof:name":"Carrigtwohill",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

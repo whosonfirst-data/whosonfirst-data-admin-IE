@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Athlone"
     ],
-    "name:baq_x_preferred":[
-        "Athlone"
-    ],
     "name:bre_x_preferred":[
         "Baile \u00c1tha Luain"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Athlone"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u9686"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Athlone"
     ],
     "name:dan_x_preferred":[
@@ -44,25 +38,16 @@
     "name:deu_x_preferred":[
         "Athlone"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Athlone"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Athlone"
     ],
     "name:fin_x_preferred":[
         "Athlone"
     ],
     "name:fra_x_preferred":[
-        "Athlone"
-    ],
-    "name:fre_x_preferred":[
-        "Athlone"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d7\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Athlone"
     ],
     "name:gla_x_preferred":[
@@ -101,7 +86,10 @@
     "name:lit_x_preferred":[
         "Atlonas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Athlone"
+    ],
+    "name:nld_x_preferred":[
         "Athlone"
     ],
     "name:nob_x_preferred":[
@@ -119,7 +107,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0442\u043b\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Athlone"
     ],
     "name:spa_x_preferred":[
@@ -136,6 +124,9 @@
     ],
     "name:unk_x_variant":[
         "Baile \u00c1tha Luain"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u9686"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Westmeath",
@@ -182,7 +173,7 @@
         }
     ],
     "wof:id":101804857,
-    "wof:lastmodified":1535390433,
+    "wof:lastmodified":1561759861,
     "wof:name":"Athlone",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

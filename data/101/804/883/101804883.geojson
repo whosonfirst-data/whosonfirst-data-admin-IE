@@ -17,28 +17,22 @@
     "mps:longitude":-6.53815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Slane"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0435"
     ],
-    "name:deu_x_preferred":[
-        "Slane"
+    "name:cym_x_preferred":[
+        "Baile Shl\u00e1ine"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Slane"
     ],
     "name:eng_x_preferred":[
         "Slane"
     ],
+    "name:eus_x_preferred":[
+        "Slane"
+    ],
     "name:fra_x_preferred":[
-        "Slane"
-    ],
-    "name:fre_x_preferred":[
-        "Slane"
-    ],
-    "name:ger_x_preferred":[
         "Slane"
     ],
     "name:gle_x_preferred":[
@@ -73,9 +67,6 @@
     ],
     "name:swe_x_preferred":[
         "Slane"
-    ],
-    "name:wel_x_preferred":[
-        "Baile Shl\u00e1ine"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
@@ -125,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642753,
+    "wof:lastmodified":1561759864,
     "wof:name":"Slane",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

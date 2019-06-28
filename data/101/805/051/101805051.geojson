@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":1653126.74336,
+    "geom:area_square_m":1653126.743362,
     "geom:bbox":"-9.23542966985,53.6141496406,-9.20503422441,53.6294288773",
     "geom:latitude":53.622229,
     "geom:longitude":-9.220178,
@@ -20,9 +20,6 @@
     "mps:longitude":-9.219142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballinrobe"
-    ],
     "name:bre_x_preferred":[
         "Baile an R\u00f3ba"
     ],
@@ -35,22 +32,13 @@
     "name:deu_x_preferred":[
         "Ballinrobe"
     ],
-    "name:dut_x_preferred":[
-        "Ballinrobe"
-    ],
     "name:eng_x_preferred":[
         "Ballinrobe"
     ],
+    "name:eus_x_preferred":[
+        "Ballinrobe"
+    ],
     "name:fra_x_preferred":[
-        "Ballinrobe"
-    ],
-    "name:fre_x_preferred":[
-        "Ballinrobe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10dc\u10e0\u10dd\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Ballinrobe"
     ],
     "name:gla_x_preferred":[
@@ -143,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379342,
+    "wof:lastmodified":1561759871,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

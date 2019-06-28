@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":1533858.081833,
+    "geom:area_square_m":1533858.081832,
     "geom:bbox":"-6.25235182944,52.9198793413,-6.22316147955,52.9403264283",
     "geom:latitude":52.931726,
     "geom:longitude":-6.234256,
@@ -17,16 +17,10 @@
     "mps:longitude":-6.233261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Rathdrum"
-    ],
     "name:eng_x_preferred":[
         "Rathdrum"
     ],
     "name:fra_x_preferred":[
-        "Rathdrum"
-    ],
-    "name:fre_x_preferred":[
         "Rathdrum"
     ],
     "name:gle_x_preferred":[
@@ -45,9 +39,6 @@
         "\u0420\u0430\u0442\u0434\u0440\u0430\u043c"
     ],
     "name:slk_x_preferred":[
-        "Rathdrum"
-    ],
-    "name:slo_x_preferred":[
         "Rathdrum"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561759873,
     "wof:name":"Rathdrum",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

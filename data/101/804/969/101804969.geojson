@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1503655.774046,
+    "geom:area_square_m":1503655.774045,
     "geom:bbox":"-8.31251766669,53.9615520204,-8.27322572989,53.9842285696",
     "geom:latitude":53.972996,
     "geom:longitude":-8.294765,
@@ -23,25 +23,16 @@
     "name:cat_x_preferred":[
         "Boyle"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u4f0a\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Boyle"
     ],
     "name:eng_x_preferred":[
         "Boyle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Boyle"
     ],
     "name:fry_x_preferred":[
-        "Boyle"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Boyle"
     ],
     "name:gle_x_preferred":[
@@ -55,6 +46,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d8\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Boyle"
     ],
     "name:pol_x_preferred":[
         "Boyle"
@@ -70,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Boyle"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u4f0a\u723e"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Roscommon",
@@ -114,7 +111,7 @@
         }
     ],
     "wof:id":101804969,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759863,
     "wof:name":"Boyle",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

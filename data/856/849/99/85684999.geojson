@@ -36,14 +36,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u064a\u0643\u0644\u0627\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u056b\u056f\u056c\u0578\u0578\u0582"
-    ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Wicklow"
-    ],
-    "name:baq_x_preferred":[
-        "Wicklowko konderria"
     ],
     "name:bel_x_preferred":[
         "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0423\u0456\u043a\u043b\u0430\u0443"
@@ -60,17 +54,20 @@
     "name:cat_x_preferred":[
         "Comtat de Wicklow"
     ],
-    "name:chi_x_preferred":[
-        "\u5a01\u514b\u6d1b\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Wicklow"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Wicklow"
     ],
     "name:dan_x_preferred":[
         "County Wicklow"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "County Wicklow"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039f\u03c5\u0390\u03ba\u03bb\u03bf\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Wicklow"
@@ -81,17 +78,17 @@
     "name:epo_x_preferred":[
         "Graflando Wicklow"
     ],
+    "name:eus_x_preferred":[
+        "Wicklowko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u06a9\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Wicklow\u2019n kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Wicklow"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d8\u10d9\u10da\u10dd\u10e3\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "County Wicklow"
     ],
     "name:gla_x_preferred":[
         "Contae Chill Mhant\u00e1in"
@@ -105,9 +102,6 @@
     "name:glv_x_preferred":[
         "Coontae Cheeill Mantan"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039f\u03c5\u0390\u03ba\u03bb\u03bf\u03bf\u03c5"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0ab5\u0abf\u0a95\u0ab2\u0acb"
     ],
@@ -119,6 +113,9 @@
     ],
     "name:hun_x_preferred":[
         "Wicklow megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u056b\u056f\u056c\u0578\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "County Wicklow"
@@ -132,6 +129,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb5\u0cbf\u0c95\u0ccd\u0cb2\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d8\u10d9\u10da\u10dd\u10e3\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc704\ud074\ub85c \uc8fc"
     ],
@@ -144,13 +144,16 @@
     "name:lit_x_preferred":[
         "Viklou grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0438\u043a\u043b\u043e\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0935\u093f\u0938\u094d\u0915\u0949"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u043a\u043b\u043e\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "County Wicklow"
+    ],
+    "name:nld_x_preferred":[
         "County Wicklow"
     ],
     "name:nno_x_preferred":[
@@ -158,9 +161,6 @@
     ],
     "name:nob_x_preferred":[
         "Wicklow"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u06a9\u0644\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u06a9\u0644\u0648"
@@ -171,7 +171,7 @@
     "name:por_x_preferred":[
         "Condado de Wicklow"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Wicklow"
     ],
     "name:rus_x_preferred":[
@@ -183,7 +183,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dd2\u0d9a\u0dca\u0dbd\u0ddd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wicklow"
     ],
     "name:slv_x_preferred":[
@@ -228,8 +228,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Wicklow"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Wicklow"
+    "name:zho_x_preferred":[
+        "\u5a01\u514b\u6d1b\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -344,7 +344,7 @@
         }
     ],
     "wof:id":85684999,
-    "wof:lastmodified":1560988066,
+    "wof:lastmodified":1561759797,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

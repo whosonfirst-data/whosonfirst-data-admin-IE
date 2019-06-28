@@ -17,14 +17,8 @@
     "mps:longitude":-8.461756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballygarvan"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u0433\u0430\u0440\u0432\u0430\u043d"
-    ],
-    "name:dut_x_preferred":[
-        "Ballygarvan"
     ],
     "name:eng_x_preferred":[
         "Ballygarvan"
@@ -34,6 +28,9 @@
     ],
     "name:gle_x_preferred":[
         "Baile Garbh\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Ballygarvan"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0433\u0430\u0440\u0432\u0430\u043d"
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544742212,
+    "wof:lastmodified":1561759872,
     "wof:name":"Ballygarvan",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

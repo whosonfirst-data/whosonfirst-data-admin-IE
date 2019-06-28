@@ -17,26 +17,17 @@
     "mps:longitude":-6.978993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Leighlinbridge"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u0433\u0445\u043b\u0438\u043d\u0431\u0440\u0438\u0434\u0433\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Leighlinbridge"
     ],
     "name:eng_x_preferred":[
         "Leighlinbridge"
     ],
+    "name:eus_x_preferred":[
+        "Leighlinbridge"
+    ],
     "name:fra_x_preferred":[
         "Leighlinbridge"
-    ],
-    "name:fre_x_preferred":[
-        "Leighlinbridge"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10ee\u10da\u10d8\u10dc\u10d1\u10e0\u10d8\u10ef\u10d8"
     ],
     "name:gle_x_preferred":[
         "Leithghlinn an Droichid"
@@ -110,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642954,
+    "wof:lastmodified":1561759866,
     "wof:name":"Leighlinbridge",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

@@ -21,19 +21,16 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u063a\u0644\u0627\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0563\u056c\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Douglas"
-    ],
-    "name:dut_x_preferred":[
-        "Douglas"
-    ],
     "name:eng_x_preferred":[
         "Douglas"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Douglas"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u06af\u0644\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Douglas"
     ],
     "name:gle_x_preferred":[
@@ -42,10 +39,16 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d0\u05d2\u05dc\u05e1"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0563\u056c\u0561\u057d"
+    ],
     "name:ita_x_preferred":[
         "Douglas"
     ],
     "name:lit_x_preferred":[
+        "Douglas"
+    ],
+    "name:nld_x_preferred":[
         "Douglas"
     ],
     "name:nno_x_preferred":[
@@ -53,9 +56,6 @@
     ],
     "name:nob_x_preferred":[
         "Douglas"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u06af\u0644\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Douglas"
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1125415653,
-    "wof:lastmodified":1553816518,
+    "wof:lastmodified":1561759892,
     "wof:name":"Douglas",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

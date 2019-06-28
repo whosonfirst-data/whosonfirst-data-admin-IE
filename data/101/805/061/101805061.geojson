@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000089,
-    "geom:area_square_m":627152.29012,
+    "geom:area_square_m":627152.290121,
     "geom:bbox":"-7.40366875361,55.2733279251,-7.38605312238,55.2909006406",
     "geom:latitude":55.280564,
     "geom:longitude":-7.394532,
@@ -17,14 +17,8 @@
     "mps:longitude":-7.395133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballyliffin"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043b\u0438\u0444\u0438\u043d"
-    ],
-    "name:dut_x_preferred":[
-        "Ballyliffin"
     ],
     "name:eng_x_preferred":[
         "Ballyliffin"
@@ -34,6 +28,9 @@
     ],
     "name:gle_x_preferred":[
         "Baile Lif\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Ballyliffin"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043b\u0438\u0444\u0444\u0438\u043d"
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642969,
+    "wof:lastmodified":1561759870,
     "wof:name":"Ballyliffin",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

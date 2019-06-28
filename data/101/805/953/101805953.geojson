@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":2360830.86484,
+    "geom:area_square_m":2360830.864841,
     "geom:bbox":"-7.94602881297,52.3619009371,-7.91062846581,52.3901011159",
     "geom:latitude":52.376047,
     "geom:longitude":-7.927835,
@@ -17,9 +17,6 @@
     "mps:longitude":-7.931053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Cahir"
-    ],
     "name:bre_x_preferred":[
         "An Chathair"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Cahir"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5408"
-    ],
     "name:dan_x_preferred":[
         "Cahir"
     ],
     "name:deu_x_preferred":[
-        "Cahir"
-    ],
-    "name:dut_x_preferred":[
         "Cahir"
     ],
     "name:eng_x_preferred":[
@@ -48,12 +39,6 @@
         "Cahir"
     ],
     "name:fra_x_preferred":[
-        "Cahir"
-    ],
-    "name:fre_x_preferred":[
-        "Cahir"
-    ],
-    "name:ger_x_preferred":[
         "Cahir"
     ],
     "name:gle_x_preferred":[
@@ -69,9 +54,6 @@
         "Cahir"
     ],
     "name:ltz_x_preferred":[
-        "Cahir"
-    ],
-    "name:may_x_preferred":[
         "Cahir"
     ],
     "name:msa_x_preferred":[
@@ -97,6 +79,9 @@
     ],
     "name:unk_x_variant":[
         "Cahir"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5408"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*South Tipperary",
@@ -142,7 +127,7 @@
         }
     ],
     "wof:id":101805953,
-    "wof:lastmodified":1530148424,
+    "wof:lastmodified":1561759866,
     "wof:name":"Caher",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

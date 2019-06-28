@@ -133,7 +133,8 @@
     ],
     "name:ces_x_variant":[
         "Irsko",
-        "Irsk\u00e1 republika"
+        "Irsk\u00e1 republika",
+        "\u00cdrsko"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u0626\u06cc\u0631\u0644\u06d5\u0646\u062f"
@@ -155,9 +156,6 @@
     ],
     "name:cze_x_colloquial":[
         "Irsko"
-    ],
-    "name:cze_x_preferred":[
-        "\u00cdrsko"
     ],
     "name:cze_x_variant":[
         "Irsk\u00e1 republika"
@@ -609,9 +607,6 @@
         "Irlanda",
         "Republica Irlanda"
     ],
-    "name:rum_x_preferred":[
-        "Irlanda"
-    ],
     "name:rum_x_variant":[
         "Republica Irlanda"
     ],
@@ -966,7 +961,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1538173562,
+    "wof:lastmodified":1561759774,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

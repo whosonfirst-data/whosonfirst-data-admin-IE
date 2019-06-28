@@ -20,9 +20,6 @@
     "name:cat_x_preferred":[
         "Carnew"
     ],
-    "name:dut_x_preferred":[
-        "Carnew"
-    ],
     "name:eng_x_preferred":[
         "Carnew"
     ],
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715371,
+    "wof:lastmodified":1561759873,
     "wof:name":"Carnew",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

@@ -36,9 +36,6 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Dubl\u00edn Sur"
     ],
-    "name:baq_x_preferred":[
-        "Hego Dublineko konderria"
-    ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u09a1\u09be\u09ac\u09b2\u09bf\u09a8"
     ],
@@ -48,14 +45,8 @@
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Dublin"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u90fd\u67cf\u6797\u90e1"
-    ],
     "name:cym_x_preferred":[
         "Swydd De Dulyn"
-    ],
-    "name:cze_x_preferred":[
-        "Ji\u017en\u00ed Dublin"
     ],
     "name:dan_x_preferred":[
         "South Dublin"
@@ -63,8 +54,8 @@
     "name:deu_x_preferred":[
         "South Dublin"
     ],
-    "name:dut_x_preferred":[
-        "South Dublin"
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03bf \u0394\u03bf\u03c5\u03b2\u03bb\u03af\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "South Dublin"
@@ -78,23 +69,11 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Dublin Sud"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Dublin Sud"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7 \u10d3\u10e3\u10d1\u10da\u10d8\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "South Dublin"
-    ],
     "name:gle_x_preferred":[
         "Contae \u00c1tha Cliath Theas"
     ],
     "name:glv_x_preferred":[
         "Divlyn Yiass"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c4\u03b9\u03bf \u0394\u03bf\u03c5\u03b2\u03bb\u03af\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0aa1\u0aac\u0acd\u0ab2\u0abf\u0aa8"
@@ -132,13 +111,13 @@
     "name:lit_x_preferred":[
         "Piet\u0173 Dublinas"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0443\u0436\u0435\u043d \u0414\u0430\u0431\u043b\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0921\u092c\u094d\u0932\u093f\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u0436\u0435\u043d \u0414\u0430\u0431\u043b\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Selatan Dublin"
     ],
     "name:nld_x_preferred":[
@@ -163,9 +142,6 @@
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0da9\u0db6\u0dca\u0dbd\u0dd2\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "South Dublin"
-    ],
-    "name:slo_x_preferred":[
         "South Dublin"
     ],
     "name:spa_x_preferred":[
@@ -197,9 +173,6 @@
     ],
     "name:vie_x_preferred":[
         "Nam Dublin"
-    ],
-    "name:wel_x_preferred":[
-        "Swydd De Dulyn"
     ],
     "name:zho_x_preferred":[
         "\u5357\u90fd\u67cf\u6797\u90e1"
@@ -300,7 +273,7 @@
         }
     ],
     "wof:id":85685009,
-    "wof:lastmodified":1560987997,
+    "wof:lastmodified":1561759724,
     "wof:name":"South Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

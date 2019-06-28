@@ -17,28 +17,22 @@
     "mps:longitude":-8.175507,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Manorhamilton"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u0440\u0445\u0430\u043c\u0438\u043b\u0442\u043e\u043d"
     ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Manorhamilton"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Manorhamilton"
     ],
     "name:eng_x_preferred":[
         "Manorhamilton"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Manorhamilton"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10dd\u10e0\u10f0\u10d0\u10db\u10d8\u10da\u10e2\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Manorhamilton"
     ],
     "name:gle_x_preferred":[
@@ -65,13 +59,7 @@
     "name:slk_x_preferred":[
         "Manorhamilton"
     ],
-    "name:slo_x_preferred":[
-        "Manorhamilton"
-    ],
     "name:swe_x_preferred":[
-        "Manorhamilton"
-    ],
-    "name:wel_x_preferred":[
         "Manorhamilton"
     ],
     "qs:a0":"Ireland",
@@ -119,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642958,
+    "wof:lastmodified":1561759867,
     "wof:name":"Manorhamilton",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

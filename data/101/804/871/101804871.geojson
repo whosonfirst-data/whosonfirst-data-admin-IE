@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000113,
-    "geom:area_square_m":826544.247507,
+    "geom:area_square_m":826544.247506,
     "geom:bbox":"-7.16772381511,53.7617886869,-7.14888624369,53.7760975701",
     "geom:latitude":53.769164,
     "geom:longitude":-7.160317,
@@ -17,19 +17,16 @@
     "mps:longitude":-7.159675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Oldcastle"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0443\u043b\u0434\u043a\u0430\u0441\u044a\u043b"
     ],
     "name:cat_x_preferred":[
         "Oldcastle"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Oldcastle"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oldcastle"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +35,10 @@
     "name:eng_x_variant":[
         "Olcastle"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Oldcastle"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oldcastle"
     ],
     "name:gle_x_preferred":[
@@ -53,13 +50,16 @@
     "name:ita_x_preferred":[
         "Oldcastle"
     ],
+    "name:nld_x_preferred":[
+        "Oldcastle"
+    ],
     "name:pol_x_preferred":[
         "Oldcastle"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0434\u043a\u0430\u0441\u043b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Oldcastle"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759864,
     "wof:name":"Oldcastle",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

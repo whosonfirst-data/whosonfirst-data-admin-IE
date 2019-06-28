@@ -17,16 +17,10 @@
     "mps:longitude":-7.231749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Clones"
-    ],
     "name:cat_x_preferred":[
         "Clones"
     ],
     "name:deu_x_preferred":[
-        "Clones"
-    ],
-    "name:dut_x_preferred":[
         "Clones"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "Clones"
     ],
     "name:fra_x_preferred":[
-        "Clones"
-    ],
-    "name:fre_x_preferred":[
-        "Clones"
-    ],
-    "name:ger_x_preferred":[
         "Clones"
     ],
     "name:gle_x_preferred":[
@@ -69,9 +57,6 @@
         "Clones"
     ],
     "name:slk_x_preferred":[
-        "Clones"
-    ],
-    "name:slo_x_preferred":[
         "Clones"
     ],
     "name:swe_x_preferred":[
@@ -128,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642748,
+    "wof:lastmodified":1561759862,
     "wof:name":"Clones",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

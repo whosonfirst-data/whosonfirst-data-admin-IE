@@ -17,17 +17,11 @@
     "mps:longitude":-9.826867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballyheigue"
-    ],
     "name:bre_x_preferred":[
         "Baile U\u00ed Thaidhg"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u0445\u0435\u0438\u0433\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Ballyheigue"
     ],
     "name:eng_x_preferred":[
         "Ballyheige"
@@ -41,13 +35,13 @@
     "name:fra_x_preferred":[
         "Ballyheigue"
     ],
-    "name:fre_x_preferred":[
-        "Ballyheigue"
-    ],
     "name:gle_x_preferred":[
         "Baile U\u00ed Thaidhg"
     ],
     "name:ita_x_preferred":[
+        "Ballyheigue"
+    ],
+    "name:nld_x_preferred":[
         "Ballyheigue"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544742230,
+    "wof:lastmodified":1561759872,
     "wof:name":"Ballyheige",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

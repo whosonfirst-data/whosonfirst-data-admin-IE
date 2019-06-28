@@ -23,19 +23,13 @@
     "name:cat_x_preferred":[
         "Monasterevin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Monasterevin"
     ],
     "name:eng_x_preferred":[
         "Monasterevin"
     ],
     "name:fra_x_preferred":[
-        "Monasterevin"
-    ],
-    "name:fre_x_preferred":[
-        "Monasterevin"
-    ],
-    "name:ger_x_preferred":[
         "Monasterevin"
     ],
     "name:gle_x_preferred":[
@@ -63,9 +57,6 @@
         "\u041c\u043e\u043d\u0430\u0441\u0442\u0435\u0440\u0435\u0432\u0438\u043d"
     ],
     "name:slk_x_preferred":[
-        "Monasterevin"
-    ],
-    "name:slo_x_preferred":[
         "Monasterevin"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642750,
+    "wof:lastmodified":1561759862,
     "wof:name":"Monasterevin",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

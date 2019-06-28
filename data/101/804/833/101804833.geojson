@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2509723.757858,
+    "geom:area_square_m":2509723.757857,
     "geom:bbox":"-7.63737397997,53.3339444909,-7.57884263537,53.355857514",
     "geom:latitude":53.343984,
     "geom:longitude":-7.613457,
@@ -20,25 +20,22 @@
     "name:ara_x_preferred":[
         "\u0643\u0644\u0627\u0631\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Clara"
-    ],
     "name:cat_x_preferred":[
         "Clara"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u62c9"
+    "name:cym_x_preferred":[
+        "Clara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Clara"
     ],
     "name:eng_x_preferred":[
         "Clara"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Clara"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Clara"
     ],
     "name:gla_x_preferred":[
@@ -56,6 +53,9 @@
     "name:nds_x_preferred":[
         "Clara"
     ],
+    "name:nld_x_preferred":[
+        "Clara"
+    ],
     "name:pol_x_preferred":[
         "Clara"
     ],
@@ -66,9 +66,6 @@
         "Clara"
     ],
     "name:swe_x_preferred":[
-        "Clara"
-    ],
-    "name:wel_x_preferred":[
         "Clara"
     ],
     "name:zho_x_preferred":[
@@ -118,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759861,
     "wof:name":"Clara",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

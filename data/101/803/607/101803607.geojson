@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000557,
-    "geom:area_square_m":4193625.210714,
+    "geom:area_square_m":4193625.210715,
     "geom:bbox":"-6.59328361228,52.4917532951,-6.55318815629,52.5298172433",
     "geom:latitude":52.507818,
     "geom:longitude":-6.570838,
@@ -17,9 +17,6 @@
     "mps:longitude":-6.572813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Enniscorthy"
-    ],
     "name:bre_x_preferred":[
         "Inis C\u00f3rthaidh"
     ],
@@ -29,16 +26,13 @@
     "name:cat_x_preferred":[
         "Enniscorthy"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u5c3c\u65af\u79d1\u897f"
+    "name:cym_x_preferred":[
+        "Enniscorthy"
     ],
     "name:dan_x_preferred":[
         "Enniscorthy"
     ],
     "name:deu_x_preferred":[
-        "Enniscorthy"
-    ],
-    "name:dut_x_preferred":[
         "Enniscorthy"
     ],
     "name:eng_x_preferred":[
@@ -48,15 +42,6 @@
         "Enniscorthy"
     ],
     "name:fra_x_preferred":[
-        "Enniscorthy"
-    ],
-    "name:fre_x_preferred":[
-        "Enniscorthy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10d8\u10e1\u10d9\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Enniscorthy"
     ],
     "name:gle_x_preferred":[
@@ -102,9 +87,6 @@
         "\u0415\u043d\u0438\u0441\u043a\u043e\u0440\u0442\u0438"
     ],
     "name:swe_x_preferred":[
-        "Enniscorthy"
-    ],
-    "name:wel_x_preferred":[
         "Enniscorthy"
     ],
     "name:zho_x_preferred":[
@@ -154,7 +136,7 @@
         }
     ],
     "wof:id":101803607,
-    "wof:lastmodified":1527642770,
+    "wof:lastmodified":1561759866,
     "wof:name":"Enniscorthy",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

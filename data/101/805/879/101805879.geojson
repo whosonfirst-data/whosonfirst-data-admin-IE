@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000849,
-    "geom:area_square_m":6445372.361915,
+    "geom:area_square_m":6445372.361916,
     "geom:bbox":"-8.67045974186,52.1113496853,-8.60755882063,52.1565193087",
     "geom:latitude":52.134321,
     "geom:longitude":-8.64403,
@@ -17,12 +17,6 @@
     "mps:longitude":-8.648504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u056c\u0578\u0578\u0582"
-    ],
-    "name:baq_x_preferred":[
-        "Mallow"
-    ],
     "name:bre_x_preferred":[
         "Mala"
     ],
@@ -32,13 +26,13 @@
     "name:cat_x_preferred":[
         "Mallow"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7f85"
+    "name:cym_x_preferred":[
+        "Mala"
     ],
     "name:dan_x_preferred":[
         "Mallow"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mallow"
     ],
     "name:eng_x_preferred":[
@@ -47,13 +41,13 @@
     "name:epo_x_preferred":[
         "Mallow"
     ],
+    "name:eus_x_preferred":[
+        "Mallow"
+    ],
     "name:fin_x_preferred":[
         "Mallow"
     ],
-    "name:fre_x_preferred":[
-        "Mallow"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mallow"
     ],
     "name:gle_x_preferred":[
@@ -61,6 +55,9 @@
     ],
     "name:gle_x_variant":[
         "Maigh Eala"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u056c\u0578\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Mallow"
@@ -74,7 +71,10 @@
     "name:lit_x_preferred":[
         "Malovas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mallow"
+    ],
+    "name:nld_x_preferred":[
         "Mallow"
     ],
     "name:pol_x_preferred":[
@@ -97,9 +97,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0648\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u0648\u0631\u06a9"
-    ],
-    "name:wel_x_preferred":[
-        "Mala"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u7f85"
@@ -147,7 +144,7 @@
         }
     ],
     "wof:id":101805879,
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561759869,
     "wof:name":"Mallow",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

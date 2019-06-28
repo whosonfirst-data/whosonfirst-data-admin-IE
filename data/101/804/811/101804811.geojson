@@ -17,12 +17,6 @@
     "mps:longitude":-8.53472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Scarriff"
-    ],
-    "name:dut_x_preferred":[
-        "Scariff"
-    ],
     "name:eng_x_preferred":[
         "Scarriff"
     ],
@@ -36,9 +30,6 @@
         "Scarriff"
     ],
     "name:fra_x_preferred":[
-        "Scarriff"
-    ],
-    "name:fre_x_preferred":[
         "Scarriff"
     ],
     "name:gle_x_preferred":[
@@ -107,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642745,
+    "wof:lastmodified":1561759860,
     "wof:name":"Scarriff",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

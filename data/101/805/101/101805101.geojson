@@ -17,9 +17,6 @@
     "mps:longitude":-8.360545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Dungloe"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u044a\u043d\u0433\u043b\u043e\u0443"
     ],
@@ -29,8 +26,8 @@
     "name:deu_x_preferred":[
         "An Cloch\u00e1n Liath"
     ],
-    "name:dut_x_preferred":[
-        "An Cloch\u00e1n Liath"
+    "name:deu_x_variant":[
+        "Dungloe"
     ],
     "name:eng_x_preferred":[
         "Dunglow"
@@ -39,12 +36,6 @@
         "Dungloe"
     ],
     "name:fra_x_preferred":[
-        "Dungloe"
-    ],
-    "name:fre_x_preferred":[
-        "Dungloe"
-    ],
-    "name:ger_x_preferred":[
         "Dungloe"
     ],
     "name:gle_x_preferred":[
@@ -122,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642965,
+    "wof:lastmodified":1561759869,
     "wof:name":"Dunglow",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

@@ -20,12 +20,6 @@
     "name:cat_x_preferred":[
         "Stradbally"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u62c9\u5fb7\u5df4\u5229"
-    ],
-    "name:dut_x_preferred":[
-        "Stradbally"
-    ],
     "name:eng_x_preferred":[
         "Stradbally"
     ],
@@ -43,6 +37,9 @@
     ],
     "name:swe_x_preferred":[
         "Stradbally"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u62c9\u5fb7\u5df4\u5229"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Laois",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642743,
+    "wof:lastmodified":1561759859,
     "wof:name":"Stradbally",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

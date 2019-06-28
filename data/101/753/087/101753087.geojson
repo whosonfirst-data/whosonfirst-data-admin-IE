@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00143,
-    "geom:area_square_m":10529124.095909,
+    "geom:area_square_m":10529124.09591,
     "geom:bbox":"-6.25585979615,53.437819127,-6.19245430426,53.4772308602",
     "geom:latitude":53.456053,
     "geom:longitude":-6.225166,
@@ -17,40 +17,34 @@
     "mps:longitude":-6.228042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Swords"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u043e\u0440\u0434\u0441"
     ],
     "name:cat_x_preferred":[
         "Swords"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6c83\u53f8"
+    "name:ces_x_preferred":[
+        "Swords"
     ],
     "name:cym_x_preferred":[
         "Sord Cholmcille"
     ],
-    "name:cze_x_preferred":[
-        "Swords"
-    ],
     "name:dan_x_preferred":[
         "Swords"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Swords"
     ],
     "name:eng_x_preferred":[
         "Swords"
     ],
+    "name:eus_x_preferred":[
+        "Swords"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0648\u0631\u062f\u0632"
     ],
-    "name:fre_x_preferred":[
-        "Swords"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Swords"
     ],
     "name:gle_x_preferred":[
@@ -77,14 +71,14 @@
     "name:lit_x_preferred":[
         "Sordsas"
     ],
+    "name:nld_x_preferred":[
+        "Swords"
+    ],
     "name:nno_x_preferred":[
         "Swords"
     ],
     "name:nob_x_preferred":[
         "Swords"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0648\u0631\u062f\u0632"
     ],
     "name:pol_x_preferred":[
         "Swords"
@@ -95,7 +89,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u0440\u0434\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Swords"
     ],
     "name:spa_x_preferred":[
@@ -112,9 +106,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u0688\u0632\u060c \u0688\u0628\u0644\u0646"
-    ],
-    "name:wel_x_preferred":[
-        "Sord Cholmcille"
     ],
     "name:zho_x_preferred":[
         "\u65af\u6c83\u53f8"
@@ -162,7 +153,7 @@
         }
     ],
     "wof:id":101753087,
-    "wof:lastmodified":1514450665,
+    "wof:lastmodified":1561759857,
     "wof:name":"Swords",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000042,
-    "geom:area_square_m":318741.644917,
+    "geom:area_square_m":318741.644918,
     "geom:bbox":"-8.4784663016,52.5916828411,-8.46655162825,52.5973671613",
     "geom:latitude":52.594501,
     "geom:longitude":-8.471974,
@@ -17,12 +17,6 @@
     "mps:longitude":-8.471974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Caherconlish"
-    ],
-    "name:dut_x_preferred":[
-        "Caherconlish"
-    ],
     "name:eng_x_preferred":[
         "Caherconlish"
     ],
@@ -32,13 +26,13 @@
     "name:fra_x_preferred":[
         "Caherconlish"
     ],
-    "name:fre_x_preferred":[
-        "Caherconlish"
-    ],
     "name:gle_x_preferred":[
         "Cathair Chinn Lis"
     ],
     "name:ita_x_preferred":[
+        "Caherconlish"
+    ],
+    "name:nld_x_preferred":[
         "Caherconlish"
     ],
     "name:por_x_preferred":[
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101806003,
-    "wof:lastmodified":1527715382,
+    "wof:lastmodified":1561759873,
     "wof:name":"Caherconlish",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -19,16 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Urlingford"
-    ],
     "name:bul_x_preferred":[
         "\u042a\u0440\u043b\u0438\u043d\u0433\u0444\u043e\u0440\u0434"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Urlingford"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Urlingford"
     ],
     "name:gle_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Urlingfordas"
+    ],
+    "name:nld_x_preferred":[
+        "Urlingford"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u043b\u0438\u043d\u0433\u0444\u043e\u0440\u0434"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1126016117,
-    "wof:lastmodified":1514450672,
+    "wof:lastmodified":1561759890,
     "wof:name":"Urlingford",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

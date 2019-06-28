@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00034,
-    "geom:area_square_m":2519755.439897,
+    "geom:area_square_m":2519755.439898,
     "geom:bbox":"-6.20842695302,53.1797638479,-6.16274712799,53.196544232",
     "geom:latitude":53.188891,
     "geom:longitude":-6.187447,
@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Enniskerry"
     ],
-    "name:dut_x_preferred":[
-        "Enniskerry"
-    ],
     "name:eng_x_preferred":[
         "Enniskerry"
     ],
     "name:fra_x_preferred":[
-        "Enniskerry"
-    ],
-    "name:fre_x_preferred":[
-        "Enniskerry"
-    ],
-    "name:ger_x_preferred":[
         "Enniskerry"
     ],
     "name:gle_x_preferred":[
@@ -116,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642743,
+    "wof:lastmodified":1561759859,
     "wof:name":"Enniskerry",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

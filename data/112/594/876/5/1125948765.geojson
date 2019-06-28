@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Ballyduff"
-    ],
     "name:bre_x_preferred":[
         "An Baile Dubh"
-    ],
-    "name:dut_x_preferred":[
-        "Ballyduff"
     ],
     "name:eng_x_preferred":[
         "Ballyduff"
     ],
+    "name:eus_x_preferred":[
+        "Ballyduff"
+    ],
     "name:gle_x_preferred":[
         "An Baile Dubh"
+    ],
+    "name:nld_x_preferred":[
+        "Ballyduff"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0434\u0430\u0444\u0444"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125948765,
-    "wof:lastmodified":1514450418,
+    "wof:lastmodified":1561759875,
     "wof:name":"Ballyduff",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

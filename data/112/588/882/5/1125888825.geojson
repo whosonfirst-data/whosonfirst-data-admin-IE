@@ -25,10 +25,10 @@
     "name:cat_x_preferred":[
         "Loughshinny"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Loughshinny"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Loughshinny"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125888825,
-    "wof:lastmodified":1514450581,
+    "wof:lastmodified":1561759883,
     "wof:name":"Loughshinny",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

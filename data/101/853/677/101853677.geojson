@@ -29,9 +29,6 @@
     "name:bam_x_preferred":[
         "Littleton"
     ],
-    "name:baq_x_preferred":[
-        "Littleton"
-    ],
     "name:bar_x_preferred":[
         "Littleton"
     ],
@@ -41,16 +38,19 @@
     "name:cat_x_preferred":[
         "Littleton"
     ],
+    "name:ces_x_preferred":[
+        "Littleton"
+    ],
     "name:cos_x_preferred":[
         "Littleton"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Littleton"
     ],
     "name:dan_x_preferred":[
         "Littleton"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Littleton"
     ],
     "name:eng_x_preferred":[
@@ -62,22 +62,22 @@
     "name:est_x_preferred":[
         "Littleton"
     ],
+    "name:eus_x_preferred":[
+        "Littleton"
+    ],
     "name:fin_x_preferred":[
         "Littleton"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Littleton"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Littleton"
     ],
     "name:frp_x_preferred":[
         "Littleton"
     ],
     "name:fur_x_preferred":[
-        "Littleton"
-    ],
-    "name:ger_x_preferred":[
         "Littleton"
     ],
     "name:gla_x_preferred":[
@@ -137,19 +137,22 @@
     "name:ltz_x_preferred":[
         "Littleton"
     ],
-    "name:may_x_preferred":[
-        "Littleton"
-    ],
     "name:min_x_preferred":[
         "Littleton"
     ],
     "name:mlg_x_preferred":[
         "Littleton"
     ],
+    "name:msa_x_preferred":[
+        "Littleton"
+    ],
     "name:nap_x_preferred":[
         "Littleton"
     ],
     "name:nds_x_preferred":[
+        "Littleton"
+    ],
+    "name:nld_x_preferred":[
         "Littleton"
     ],
     "name:nno_x_preferred":[
@@ -188,7 +191,7 @@
     "name:roh_x_preferred":[
         "Littleton"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Littleton"
     ],
     "name:rus_x_preferred":[
@@ -200,7 +203,7 @@
     "name:sco_x_preferred":[
         "Littleton"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Littleton"
     ],
     "name:spa_x_preferred":[
@@ -231,9 +234,6 @@
         "Littleton"
     ],
     "name:vol_x_preferred":[
-        "Littleton"
-    ],
-    "name:wel_x_preferred":[
         "Littleton"
     ],
     "name:wln_x_preferred":[
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":101853677,
-    "wof:lastmodified":1553815547,
+    "wof:lastmodified":1561759872,
     "wof:name":"Littleton",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

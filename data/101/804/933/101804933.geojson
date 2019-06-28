@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5567214.979686,
+    "geom:area_square_m":5567214.979682,
     "geom:bbox":"-8.25440253203,53.3129465568,-8.16649413804,53.3436944026",
     "geom:latitude":53.328236,
     "geom:longitude":-8.22166,
@@ -17,9 +17,6 @@
     "mps:longitude":-8.233423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballinasloe"
-    ],
     "name:bre_x_preferred":[
         "B\u00e9al \u00c1tha na Sluaighe"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Ballinasloe"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5229\u7d0d\u65af\u6d1b"
-    ],
     "name:dan_x_preferred":[
         "Ballinasloe"
     ],
     "name:deu_x_preferred":[
-        "Ballinasloe"
-    ],
-    "name:dut_x_preferred":[
         "Ballinasloe"
     ],
     "name:eng_x_preferred":[
@@ -48,15 +39,6 @@
         "Ballinasloe"
     ],
     "name:fra_x_preferred":[
-        "Ballinasloe"
-    ],
-    "name:fre_x_preferred":[
-        "Ballinasloe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10dc\u10d0\u10e1\u10da\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Ballinasloe"
     ],
     "name:gle_x_preferred":[
@@ -86,9 +68,6 @@
     "name:lit_x_preferred":[
         "Balinaslo"
     ],
-    "name:may_x_preferred":[
-        "Ballinasloe"
-    ],
     "name:msa_x_preferred":[
         "Ballinasloe"
     ],
@@ -106,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Ballinasloe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5229\u7d0d\u65af\u6d1b"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Galway",
@@ -154,7 +136,7 @@
         }
     ],
     "wof:id":101804933,
-    "wof:lastmodified":1527642752,
+    "wof:lastmodified":1561759864,
     "wof:name":"Ballinasloe",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

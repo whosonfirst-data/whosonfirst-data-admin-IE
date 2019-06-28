@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1585992.759577,
+    "geom:area_square_m":1585992.759576,
     "geom:bbox":"-6.4528646541,53.275373606,-6.43203347724,53.2934305193",
     "geom:latitude":53.283055,
     "geom:longitude":-6.443303,
@@ -20,20 +20,11 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0433\u0430\u0440\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Saggart"
-    ],
     "name:eng_x_preferred":[
         "Saggart"
     ],
     "name:fra_x_preferred":[
         "Saggart"
-    ],
-    "name:fre_x_preferred":[
-        "Saggart"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d2\u10d0\u10e0\u10e2\u10d8"
     ],
     "name:gla_x_preferred":[
         "Teach Sagard"
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":101760465,
-    "wof:lastmodified":1527689329,
+    "wof:lastmodified":1561759872,
     "wof:name":"Saggart",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

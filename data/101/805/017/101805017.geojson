@@ -17,9 +17,6 @@
     "mps:longitude":-7.865675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Mohill"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u0445\u0438\u043b"
     ],
@@ -29,19 +26,13 @@
     "name:deu_x_preferred":[
         "Mohill"
     ],
-    "name:dut_x_preferred":[
-        "Mohill"
-    ],
     "name:eng_x_preferred":[
         "Mohill"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Mohill"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10f0\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mohill"
     ],
     "name:gle_x_preferred":[
@@ -60,9 +51,6 @@
         "\u041c\u043e\u0445\u0438\u043b\u043b"
     ],
     "name:slk_x_preferred":[
-        "Mohill"
-    ],
-    "name:slo_x_preferred":[
         "Mohill"
     ],
     "name:swe_x_preferred":[
@@ -114,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642967,
+    "wof:lastmodified":1561759870,
     "wof:name":"Mohill",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

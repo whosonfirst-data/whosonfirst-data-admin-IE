@@ -17,16 +17,7 @@
     "mps:longitude":-8.778228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sixmilebridge"
-    ],
     "name:ces_x_preferred":[
-        "Sixmilebridge"
-    ],
-    "name:cze_x_preferred":[
-        "Sixmilebridge"
-    ],
-    "name:dut_x_preferred":[
         "Sixmilebridge"
     ],
     "name:eng_x_preferred":[
@@ -36,9 +27,6 @@
         "Sixmilebridge"
     ],
     "name:fra_x_preferred":[
-        "Sixmilebridge"
-    ],
-    "name:fre_x_preferred":[
         "Sixmilebridge"
     ],
     "name:gle_x_preferred":[
@@ -104,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642753,
+    "wof:lastmodified":1561759864,
     "wof:name":"Sixmilebridge",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

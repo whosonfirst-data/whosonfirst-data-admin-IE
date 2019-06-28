@@ -17,19 +17,16 @@
     "mps:longitude":-8.482812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Castlerea"
-    ],
     "name:cat_x_preferred":[
         "Castlerea"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Castlerea"
+    ],
+    "name:cym_x_preferred":[
+        "An Caisle\u00e1n Riabhach"
     ],
     "name:deu_x_preferred":[
-        "Castlerea"
-    ],
-    "name:dut_x_preferred":[
         "Castlerea"
     ],
     "name:eng_x_preferred":[
@@ -42,15 +39,6 @@
         "Castlerea"
     ],
     "name:fra_x_preferred":[
-        "Castlerea"
-    ],
-    "name:fre_x_preferred":[
-        "Castlerea"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e1\u10da\u10e0\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Castlerea"
     ],
     "name:gle_x_preferred":[
@@ -85,9 +73,6 @@
     ],
     "name:swe_x_preferred":[
         "Castlerea"
-    ],
-    "name:wel_x_preferred":[
-        "An Caisle\u00e1n Riabhach"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Roscommon",
@@ -134,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759860,
     "wof:name":"Castlereagh",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

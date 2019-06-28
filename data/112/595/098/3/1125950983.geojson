@@ -19,19 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Dunmore East"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dunmore East"
     ],
     "name:eng_x_preferred":[
         "Dunmore East"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Dunmore East"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dunmore East"
     ],
     "name:gle_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:lit_x_preferred":[
         "Dunmor Istas"
+    ],
+    "name:nld_x_preferred":[
+        "Dunmore East"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043d\u043c\u043e\u0440-\u0418\u0441\u0442"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125950983,
-    "wof:lastmodified":1514450497,
+    "wof:lastmodified":1561759878,
     "wof:name":"Dunmore East",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

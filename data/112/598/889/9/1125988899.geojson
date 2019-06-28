@@ -19,19 +19,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Brittas"
-    ],
     "name:eng_x_preferred":[
         "Brittas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d8\u10e2\u10d0\u10e1\u10d8"
     ],
     "name:gle_x_preferred":[
         "Briot\u00e1is"
     ],
     "name:glg_x_preferred":[
+        "Brittas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e2\u10d0\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Brittas"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125988899,
-    "wof:lastmodified":1553816681,
+    "wof:lastmodified":1561759889,
     "wof:name":"Brittas",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

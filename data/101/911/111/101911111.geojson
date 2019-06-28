@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":1474040.9283,
+    "geom:area_square_m":1474040.928299,
     "geom:bbox":"-6.07591372764,53.1181131552,-6.0476625572,53.1339768526",
     "geom:latitude":53.125938,
     "geom:longitude":-6.062717,
@@ -16,14 +16,14 @@
     "mps:longitude":-6.065285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Killincarrig"
-    ],
     "name:eng_x_preferred":[
         "Killincarrig"
     ],
     "name:gle_x_preferred":[
         "Coill\u00edn na Carraige"
+    ],
+    "name:nld_x_preferred":[
+        "Killincarrig"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043b\u0438\u043d\u043a\u0430\u0440\u0440\u0438\u0433"
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":101911111,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1561759873,
     "wof:name":"Killincarrig",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

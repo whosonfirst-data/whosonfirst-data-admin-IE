@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1195016.232231,
+    "geom:area_square_m":1195016.23223,
     "geom:bbox":"-7.62492270996,53.6919169334,-7.59652274941,53.7073203801",
     "geom:latitude":53.698465,
     "geom:longitude":-7.612394,
@@ -17,14 +17,17 @@
     "mps:longitude":-7.613363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Edgeworthstown"
-    ],
     "name:bul_x_preferred":[
         "\u0415\u0434\u0436\u0443\u044a\u0440\u0442\u0441\u0442\u0430\u0443\u043d"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Edgeworthstown"
+    ],
+    "name:deu_x_preferred":[
+        "Edgeworthstown"
+    ],
+    "name:ell_x_preferred":[
+        "\u0388\u03c4\u03b6\u03b3\u03bf\u03c5\u03bf\u03c1\u03b8\u03c4\u03b1\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Mostrim"
@@ -32,20 +35,14 @@
     "name:eng_x_variant":[
         "Edgeworthstown"
     ],
+    "name:eus_x_preferred":[
+        "Edgeworthstown"
+    ],
     "name:fra_x_preferred":[
-        "Edgeworthstown"
-    ],
-    "name:fre_x_preferred":[
-        "Edgeworthstown"
-    ],
-    "name:ger_x_preferred":[
         "Edgeworthstown"
     ],
     "name:gle_x_preferred":[
         "Meathas Troim"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03c4\u03b6\u03b3\u03bf\u03c5\u03bf\u03c1\u03b8\u03c4\u03b1\u03bf\u03c5\u03bd"
     ],
     "name:ita_x_preferred":[
         "Edgeworthstown"
@@ -64,9 +61,6 @@
     ],
     "name:unk_x_variant":[
         "Mostrim"
-    ],
-    "name:wel_x_preferred":[
-        "Edgeworthstown"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Longford",
@@ -113,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642756,
+    "wof:lastmodified":1561759865,
     "wof:name":"Edgeworthstown",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

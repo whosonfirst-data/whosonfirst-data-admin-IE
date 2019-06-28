@@ -19,26 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Liscannor"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Liscannor"
     ],
     "name:eng_x_preferred":[
         "Liscannor"
     ],
+    "name:eus_x_preferred":[
+        "Liscannor"
+    ],
     "name:fin_x_preferred":[
         "Liscannor"
     ],
-    "name:fre_x_preferred":[
-        "Liscannor"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Liscannor"
     ],
     "name:gle_x_preferred":[
         "Lios Ceann\u00fair"
+    ],
+    "name:nld_x_preferred":[
+        "Liscannor"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0441\u043a\u0430\u043d\u043d\u043e\u0440"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125791287,
-    "wof:lastmodified":1514450575,
+    "wof:lastmodified":1561759892,
     "wof:name":"Liscannor",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

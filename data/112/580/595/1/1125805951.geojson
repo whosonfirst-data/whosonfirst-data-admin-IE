@@ -18,17 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Kiltealy"
-    ],
-    "name:dut_x_preferred":[
-        "Kiltealy"
-    ],
     "name:eng_x_preferred":[
+        "Kiltealy"
+    ],
+    "name:eus_x_preferred":[
         "Kiltealy"
     ],
     "name:gle_x_preferred":[
         "Cill T\u00e9ile"
+    ],
+    "name:nld_x_preferred":[
+        "Kiltealy"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0442\u0438\u043b\u0438"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1125805951,
-    "wof:lastmodified":1514450552,
+    "wof:lastmodified":1561759885,
     "wof:name":"Kiltealy",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

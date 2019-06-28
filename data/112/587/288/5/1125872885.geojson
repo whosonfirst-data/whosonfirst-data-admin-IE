@@ -19,19 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Laytown"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0439\u0442\u0430\u0443\u043d"
-    ],
-    "name:dut_x_preferred":[
-        "Laytown"
     ],
     "name:eng_x_preferred":[
         "Laytown"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Laytown"
+    ],
+    "name:fra_x_preferred":[
         "Laytown"
     ],
     "name:gle_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:lit_x_preferred":[
         "Leitaunas"
+    ],
+    "name:nld_x_preferred":[
+        "Laytown"
     ],
     "name:pol_x_preferred":[
         "Laytown"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125872885,
-    "wof:lastmodified":1514450558,
+    "wof:lastmodified":1561759885,
     "wof:name":"Laytown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -33,14 +33,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0644\u064a\u062c\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056c\u0561\u0575\u0563\u0578"
-    ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Sligo"
-    ],
-    "name:baq_x_preferred":[
-        "Sligoko konderria"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b8\u09cd\u09b2\u09bf\u0997\u09cb"
@@ -54,17 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat de Sligo"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u840a\u6208\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Sligo"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Sligo"
     ],
     "name:dan_x_preferred":[
         "County Sligo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "County Sligo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a3\u03bb\u03ac\u03b9\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sligo"
@@ -75,17 +72,17 @@
     "name:epo_x_preferred":[
         "Graflando Sligo"
     ],
+    "name:eus_x_preferred":[
+        "Sligoko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u06cc\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sligon kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Sligo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10da\u10d0\u10d8\u10d2\u10dd\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "County Sligo"
     ],
     "name:gla_x_preferred":[
         "Contae Shligigh"
@@ -99,9 +96,6 @@
     "name:glv_x_preferred":[
         "Coontae Shliggee"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a3\u03bb\u03ac\u03b9\u03b3\u03ba\u03bf"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0a97\u0acb"
     ],
@@ -114,10 +108,13 @@
     "name:hun_x_preferred":[
         "Sligo megye"
     ],
-    "name:ice_x_preferred":[
-        "County Sligo"
+    "name:hye_x_preferred":[
+        "\u054d\u056c\u0561\u0575\u0563\u0578"
     ],
     "name:ind_x_preferred":[
+        "County Sligo"
+    ],
+    "name:isl_x_preferred":[
         "County Sligo"
     ],
     "name:ita_x_preferred":[
@@ -128,6 +125,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb8\u0ccd\u0cb2\u0cbf\u0c97\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10da\u10d0\u10d8\u10d2\u10dd\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
     ],
     "name:kor_x_preferred":[
         "\uc2ac\ub77c\uc774\uace0 \uc8fc"
@@ -141,13 +141,16 @@
     "name:lit_x_preferred":[
         "Slaigo grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043b\u0430\u0458\u0433\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0938\u094d\u0932\u093f\u0917\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0430\u0458\u0433\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "County Sligo"
+    ],
+    "name:nld_x_preferred":[
         "County Sligo"
     ],
     "name:nno_x_preferred":[
@@ -155,9 +158,6 @@
     ],
     "name:nob_x_preferred":[
         "Sligo"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u06cc\u06af\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0644\u06cc\u06af\u0648"
@@ -168,7 +168,7 @@
     "name:por_x_preferred":[
         "Condado de Sligo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Sligo"
     ],
     "name:rus_x_preferred":[
@@ -180,7 +180,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dbd\u0dd2\u0d9c\u0ddd \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sligo"
     ],
     "name:slv_x_preferred":[
@@ -225,8 +225,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Sligo"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Sligo"
+    "name:zho_x_preferred":[
+        "\u65af\u840a\u6208\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -340,7 +340,7 @@
         }
     ],
     "wof:id":85685137,
-    "wof:lastmodified":1560988041,
+    "wof:lastmodified":1561759768,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

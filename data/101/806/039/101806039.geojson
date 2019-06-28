@@ -23,9 +23,6 @@
     "name:cat_x_preferred":[
         "Tinahely"
     ],
-    "name:dut_x_preferred":[
-        "Tinahely"
-    ],
     "name:eng_x_preferred":[
         "Tinahely"
     ],
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715375,
+    "wof:lastmodified":1561759873,
     "wof:name":"Tinahely",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

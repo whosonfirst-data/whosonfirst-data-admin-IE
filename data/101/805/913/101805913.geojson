@@ -17,9 +17,6 @@
     "mps:longitude":-8.896393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Clonakilty"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0430\u043a\u0456\u043b\u0442\u044b"
     ],
@@ -32,16 +29,16 @@
     "name:cat_x_preferred":[
         "Clonakilty"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
+        "Clonakilty"
+    ],
+    "name:cym_x_preferred":[
         "Clonakilty"
     ],
     "name:dan_x_preferred":[
         "Clonakilty"
     ],
     "name:deu_x_preferred":[
-        "Clonakilty"
-    ],
-    "name:dut_x_preferred":[
         "Clonakilty"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +48,6 @@
         "Clonakilty"
     ],
     "name:fra_x_preferred":[
-        "Clonakilty"
-    ],
-    "name:fre_x_preferred":[
-        "Clonakilty"
-    ],
-    "name:ger_x_preferred":[
         "Clonakilty"
     ],
     "name:gla_x_preferred":[
@@ -104,9 +95,6 @@
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0648\u0646\u06cc\u06a9\u06cc\u0644\u06cc"
     ],
-    "name:wel_x_preferred":[
-        "Clonakilty"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
     "qs:a1r":"0",
@@ -151,7 +139,7 @@
         }
     ],
     "wof:id":101805913,
-    "wof:lastmodified":1527642963,
+    "wof:lastmodified":1561759869,
     "wof:name":"Clonakilty",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

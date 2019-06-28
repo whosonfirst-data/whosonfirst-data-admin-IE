@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000845,
-    "geom:area_square_m":6226913.852741,
+    "geom:area_square_m":6226913.852744,
     "geom:bbox":"-6.16276929545,53.3900619911,-6.08365303443,53.4403967828",
     "geom:latitude":53.421046,
     "geom:longitude":-6.132179,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Portmarnock"
     ],
-    "name:dut_x_preferred":[
-        "Portmarnock"
-    ],
     "name:eng_x_preferred":[
         "Portmarnock"
     ],
@@ -36,12 +33,6 @@
         "Portmarnock"
     ],
     "name:fra_x_preferred":[
-        "Portmarnock"
-    ],
-    "name:fre_x_preferred":[
-        "Portmarnock"
-    ],
-    "name:ger_x_preferred":[
         "Portmarnock"
     ],
     "name:gle_x_preferred":[
@@ -60,9 +51,6 @@
         "\u041f\u043e\u0440\u0442\u043c\u0430\u0440\u043d\u043e\u043a"
     ],
     "name:slk_x_preferred":[
-        "Portmarnock"
-    ],
-    "name:slo_x_preferred":[
         "Portmarnock"
     ],
     "name:spa_x_preferred":[
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":101753093,
-    "wof:lastmodified":1527641920,
+    "wof:lastmodified":1561759858,
     "wof:name":"Portmarnock",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
