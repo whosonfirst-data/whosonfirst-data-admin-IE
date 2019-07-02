@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Bennettsbridge"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0435\u0442\u0446\u0431\u0440\u0438\u0434\u0433\u0435"
-    ],
-    "name:dut_x_preferred":[
-        "Bennettsbridge"
     ],
     "name:eng_x_preferred":[
         "Bennettsbridge"
     ],
+    "name:eus_x_preferred":[
+        "Bennettsbridge"
+    ],
     "name:gle_x_preferred":[
         "Droichead Bin\u00e9id"
+    ],
+    "name:nld_x_preferred":[
+        "Bennettsbridge"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043d\u043d\u0435\u0442\u0441\u0431\u0440\u0438\u0434\u0436"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125875137,
-    "wof:lastmodified":1514450424,
+    "wof:lastmodified":1561759885,
     "wof:name":"Bennettsbridge",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

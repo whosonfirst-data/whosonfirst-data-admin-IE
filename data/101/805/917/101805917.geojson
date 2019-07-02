@@ -17,9 +17,6 @@
     "mps:longitude":-9.113248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Dunmanway"
-    ],
     "name:bre_x_preferred":[
         "D\u00fan M\u00e1nmha\u00ed"
     ],
@@ -29,9 +26,6 @@
     "name:deu_x_preferred":[
         "Dunmanway"
     ],
-    "name:dut_x_preferred":[
-        "Dunmanway"
-    ],
     "name:eng_x_preferred":[
         "Dunmanway"
     ],
@@ -39,12 +33,6 @@
         "Dunmanway"
     ],
     "name:fra_x_preferred":[
-        "Dunmanway"
-    ],
-    "name:fre_x_preferred":[
-        "Dunmanway"
-    ],
-    "name:ger_x_preferred":[
         "Dunmanway"
     ],
     "name:gle_x_preferred":[
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":101805917,
-    "wof:lastmodified":1527642971,
+    "wof:lastmodified":1561759871,
     "wof:name":"Dunmanway",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

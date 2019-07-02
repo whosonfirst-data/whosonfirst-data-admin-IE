@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001956,
-    "geom:area_square_m":14310193.974425,
+    "geom:area_square_m":14310193.974427,
     "geom:bbox":"-6.39497687876,53.6952404647,-6.29719295853,53.7338240284",
     "geom:latitude":53.715363,
     "geom:longitude":-6.35058,
@@ -19,12 +19,6 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "name:afr_x_preferred":[
-        "Drogheda"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0580\u0578\u0565\u0564\u0561"
-    ],
-    "name:baq_x_preferred":[
         "Drogheda"
     ],
     "name:bel_x_preferred":[
@@ -42,22 +36,13 @@
     "name:ces_x_preferred":[
         "Drogheda"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u7f85\u8d6b\u9054"
-    ],
     "name:cym_x_preferred":[
-        "Drogheda"
-    ],
-    "name:cze_x_preferred":[
         "Drogheda"
     ],
     "name:dan_x_preferred":[
         "Drogheda"
     ],
     "name:deu_x_preferred":[
-        "Drogheda"
-    ],
-    "name:dut_x_preferred":[
         "Drogheda"
     ],
     "name:eng_x_preferred":[
@@ -78,12 +63,6 @@
     "name:fra_x_preferred":[
         "Drogheda"
     ],
-    "name:fre_x_preferred":[
-        "Drogheda"
-    ],
-    "name:ger_x_preferred":[
-        "Drogheda"
-    ],
     "name:gle_x_preferred":[
         "Droichead \u00c1tha"
     ],
@@ -102,6 +81,9 @@
     "name:hun_x_preferred":[
         "Drogheda"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0580\u0578\u0565\u0564\u0561"
+    ],
     "name:ind_x_preferred":[
         "Drogheda"
     ],
@@ -116,9 +98,6 @@
     ],
     "name:lit_x_preferred":[
         "Droeda"
-    ],
-    "name:may_x_preferred":[
-        "Drogheda"
     ],
     "name:msa_x_preferred":[
         "Drogheda"
@@ -135,9 +114,6 @@
     "name:nor_x_preferred":[
         "Drogheda"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0631\u0627\u0647\u06cc\u062f\u0627"
-    ],
     "name:pol_x_preferred":[
         "Drogheda"
     ],
@@ -148,9 +124,6 @@
         "\u0414\u0440\u043e\u044d\u0434\u0430"
     ],
     "name:slk_x_preferred":[
-        "Drogheda"
-    ],
-    "name:slo_x_preferred":[
         "Drogheda"
     ],
     "name:slv_x_preferred":[
@@ -173,9 +146,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0688\u0631\u0627\u06c1\u06cc\u0688\u0627"
-    ],
-    "name:wel_x_preferred":[
-        "Drogheda"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u7f85\u8d6b\u9054"
@@ -319,7 +289,7 @@
         }
     ],
     "wof:id":101804917,
-    "wof:lastmodified":1527642758,
+    "wof:lastmodified":1561759866,
     "wof:name":"Drogheda",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

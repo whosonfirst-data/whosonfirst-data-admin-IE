@@ -18,14 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Magheracloone"
-    ],
     "name:eng_x_preferred":[
         "Magheracloone"
     ],
     "name:gle_x_preferred":[
         "Machaire Cluaine"
+    ],
+    "name:nld_x_preferred":[
+        "Magheracloone"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1126028363,
-    "wof:lastmodified":1514450588,
+    "wof:lastmodified":1561759879,
     "wof:name":"Magheracloone",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

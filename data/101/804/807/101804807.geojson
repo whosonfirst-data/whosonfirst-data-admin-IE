@@ -17,13 +17,10 @@
     "mps:longitude":-9.400662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
+    "name:cym_x_preferred":[
         "Milltown Malbay"
     ],
     "name:deu_x_preferred":[
-        "Milltown Malbay"
-    ],
-    "name:dut_x_preferred":[
         "Milltown Malbay"
     ],
     "name:eng_x_preferred":[
@@ -37,9 +34,6 @@
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0644\u062a\u0627\u0648\u0646 \u0645\u0627\u0644\u200c\u0628\u06cc"
-    ],
-    "name:ger_x_preferred":[
-        "Milltown Malbay"
     ],
     "name:gle_x_preferred":[
         "Sr\u00e1id na Cathrach"
@@ -56,9 +50,6 @@
     "name:nld_x_preferred":[
         "Milltown Malbay"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0644\u062a\u0627\u0648\u0646 \u0645\u0627\u0644\u200c\u0628\u06cc"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u0442\u0430\u0443\u043d-\u041c\u0430\u043b\u0431\u0435\u0439"
     ],
@@ -73,9 +64,6 @@
     ],
     "name:unk_x_variant":[
         "Miltown Malbay"
-    ],
-    "name:wel_x_preferred":[
-        "Milltown Malbay"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
@@ -123,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642754,
+    "wof:lastmodified":1561759864,
     "wof:name":"Milltown Malbay",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

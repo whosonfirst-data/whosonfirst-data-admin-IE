@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Kilbeggan"
     ],
-    "name:dut_x_preferred":[
-        "Kilbeggan"
-    ],
     "name:eng_x_preferred":[
         "Kilbeggan"
     ],
     "name:fra_x_preferred":[
-        "Kilbeggan"
-    ],
-    "name:fre_x_preferred":[
-        "Kilbeggan"
-    ],
-    "name:ger_x_preferred":[
         "Kilbeggan"
     ],
     "name:gle_x_preferred":[
@@ -116,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642756,
+    "wof:lastmodified":1561759865,
     "wof:name":"Kilbeggan",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

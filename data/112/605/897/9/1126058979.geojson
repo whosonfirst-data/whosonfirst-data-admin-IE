@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Tuam"
-    ],
     "name:bre_x_preferred":[
         "Tuaim"
     ],
@@ -31,28 +28,22 @@
     "name:cat_x_preferred":[
         "Tuam"
     ],
-    "name:chi_x_preferred":[
-        "\u5f92\u5b89"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tuam"
     ],
     "name:dan_x_preferred":[
         "Tuam"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tuam"
     ],
     "name:eng_x_preferred":[
         "Tuam"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Tuam"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tuam"
     ],
     "name:gla_x_preferred":[
@@ -82,8 +73,11 @@
     "name:lit_x_preferred":[
         "Tuamas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0443\u0430\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Tuam"
     ],
     "name:pol_x_preferred":[
         "Tuam"
@@ -105,6 +99,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0679\u06cc\u0648\u06cc\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f92\u5b89"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -157,7 +154,7 @@
         }
     ],
     "wof:id":1126058979,
-    "wof:lastmodified":1553816732,
+    "wof:lastmodified":1561759879,
     "wof:name":"Tuam",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

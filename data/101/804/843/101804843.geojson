@@ -17,9 +17,6 @@
     "mps:longitude":-7.905547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Birr"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440"
     ],
@@ -32,28 +29,19 @@
     "name:deu_x_preferred":[
         "Birr"
     ],
-    "name:dut_x_preferred":[
-        "Birr"
-    ],
     "name:eng_x_preferred":[
         "Birr"
     ],
     "name:epo_x_preferred":[
         "Birr"
     ],
+    "name:eus_x_preferred":[
+        "Birr"
+    ],
     "name:fin_x_preferred":[
         "Birr"
     ],
     "name:fra_x_preferred":[
-        "Birr"
-    ],
-    "name:fre_x_preferred":[
-        "Birr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Birr"
     ],
     "name:gle_x_preferred":[
@@ -71,7 +59,7 @@
     "name:lit_x_preferred":[
         "Biras"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0438\u0440"
     ],
     "name:nld_x_preferred":[
@@ -145,7 +133,7 @@
         }
     ],
     "wof:id":101804843,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759861,
     "wof:name":"Birr",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

@@ -17,28 +17,19 @@
     "mps:longitude":-9.319406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Crossmolina"
-    ],
     "name:cat_x_preferred":[
         "Crossmolina"
     ],
     "name:deu_x_preferred":[
         "Crossmolina"
     ],
-    "name:dut_x_preferred":[
-        "Crossmolina"
-    ],
     "name:eng_x_preferred":[
         "Crossmolina"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Crossmolina"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10dd\u10e1\u10db\u10dd\u10da\u10d8\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Crossmolina"
     ],
     "name:gle_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":101805035,
-    "wof:lastmodified":1527642968,
+    "wof:lastmodified":1561759870,
     "wof:name":"Crossmolina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

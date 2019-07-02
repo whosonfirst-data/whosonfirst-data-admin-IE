@@ -17,19 +17,16 @@
     "mps:longitude":-6.269603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Stamullen"
-    ],
-    "name:dut_x_preferred":[
-        "Stamullen"
-    ],
     "name:eng_x_preferred":[
         "Stamullin"
     ],
     "name:eng_x_variant":[
         "Stamullen"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Stamullen"
+    ],
+    "name:fra_x_preferred":[
         "Stamullen"
     ],
     "name:gle_x_preferred":[
@@ -43,6 +40,9 @@
     ],
     "name:nld_x_preferred":[
         "Meath East"
+    ],
+    "name:nld_x_variant":[
+        "Stamullen"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0430\u043b\u043b\u0438\u043d"
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514450663,
+    "wof:lastmodified":1561759858,
     "wof:name":"Stamullin",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":358538.462683,
+    "geom:area_square_m":358538.462682,
     "geom:bbox":"-7.32724531525,53.2317562437,-7.31555981843,53.2404119182",
     "geom:latitude":53.236145,
     "geom:longitude":-7.320654,
@@ -17,16 +17,13 @@
     "mps:longitude":-7.320078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Geashill"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u0435\u0430\u0448\u0438\u043b"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Geashill"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Geashill"
     ],
     "name:gle_x_preferred":[
@@ -86,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642755,
+    "wof:lastmodified":1561759864,
     "wof:name":"Geashill",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

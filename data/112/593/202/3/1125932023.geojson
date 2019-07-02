@@ -19,17 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Carrigans"
-    ],
-    "name:dut_x_preferred":[
-        "Carrigans"
-    ],
     "name:eng_x_preferred":[
+        "Carrigans"
+    ],
+    "name:eus_x_preferred":[
         "Carrigans"
     ],
     "name:gle_x_preferred":[
         "An Carraig\u00edn"
+    ],
+    "name:nld_x_preferred":[
+        "Carrigans"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0440\u0438\u0433\u0430\u043d\u0441"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125932023,
-    "wof:lastmodified":1514450437,
+    "wof:lastmodified":1561759875,
     "wof:name":"Carrigans",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

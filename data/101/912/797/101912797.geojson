@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1782562.966146,
+    "geom:area_square_m":1782562.966145,
     "geom:bbox":"-8.01938865757,53.6660040118,-7.96992530959,53.6822653767",
     "geom:latitude":53.674496,
     "geom:longitude":-7.989527,
@@ -17,17 +17,11 @@
     "mps:longitude":-7.98578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lanesborough\u2013Ballyleague"
-    ],
-    "name:dut_x_preferred":[
-        "Lanesborough\u2013Ballyleague"
-    ],
     "name:eng_x_preferred":[
         "Lanesborough"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10d8\u10dc\u10e1\u10d1\u10dd\u10e0\u10dd-\u10d1\u10d0\u10da\u10d8\u10da\u10d8\u10d2\u10d8"
+    "name:eus_x_preferred":[
+        "Lanesborough\u2013Ballyleague"
     ],
     "name:gle_x_preferred":[
         "B\u00e9al \u00c1tha Liag"
@@ -37,6 +31,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d4\u10d8\u10dc\u10e1\u10d1\u10dd\u10e0\u10dd-\u10d1\u10d0\u10da\u10d8\u10da\u10d8\u10d2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Lanesborough\u2013Ballyleague"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0439\u043d\u0441\u0431\u043e\u0440\u043e-\u0411\u0430\u043b\u043b\u0438\u043b\u0438\u0433"
@@ -111,7 +108,7 @@
         }
     ],
     "wof:id":101912797,
-    "wof:lastmodified":1534379339,
+    "wof:lastmodified":1561759871,
     "wof:name":"Ballyleague",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

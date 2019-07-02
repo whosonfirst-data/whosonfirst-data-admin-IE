@@ -25,13 +25,10 @@
     "name:cat_x_preferred":[
         "Prosperous"
     ],
-    "name:dut_x_preferred":[
-        "Prosperous"
-    ],
     "name:eng_x_preferred":[
         "Prosperous"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Prosperous"
     ],
     "name:gle_x_preferred":[
@@ -43,10 +40,13 @@
     "name:ita_x_preferred":[
         "Prosperous"
     ],
+    "name:nld_x_preferred":[
+        "Prosperous"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0441\u043f\u0435\u0440\u0435\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Prosperous"
     ],
     "name:spa_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125864921,
-    "wof:lastmodified":1514450633,
+    "wof:lastmodified":1561759882,
     "wof:name":"Prosperous",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

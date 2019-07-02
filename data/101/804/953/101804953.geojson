@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1205092.097795,
+    "geom:area_square_m":1205092.097793,
     "geom:bbox":"-8.75453396236,53.2219600063,-8.72022393153,53.2469015527",
     "geom:latitude":53.233007,
     "geom:longitude":-8.739893,
@@ -20,20 +20,11 @@
     "mps:longitude":-8.745871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Craughwell"
-    ],
-    "name:dut_x_preferred":[
-        "Craughwell"
-    ],
     "name:eng_x_preferred":[
         "Craughwell"
     ],
     "name:eus_x_preferred":[
         "Craughwell"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d0\u10ee\u10e3\u10d4\u10da\u10d8"
     ],
     "name:gle_x_preferred":[
         "Creachmhaoil"
@@ -122,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379340,
+    "wof:lastmodified":1561759859,
     "wof:name":"Craughwell",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

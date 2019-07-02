@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000361,
-    "geom:area_square_m":2699286.429916,
+    "geom:area_square_m":2699286.429915,
     "geom:bbox":"-6.75528671916,52.7821517141,-6.71990780297,52.8100852104",
     "geom:latitude":52.799511,
     "geom:longitude":-6.735849,
@@ -17,28 +17,19 @@
     "mps:longitude":-6.742014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tullow"
+    "name:cym_x_preferred":[
+        "An Tulach"
     ],
     "name:deu_x_preferred":[
-        "Tullow"
-    ],
-    "name:dut_x_preferred":[
         "Tullow"
     ],
     "name:eng_x_preferred":[
         "Tullow"
     ],
+    "name:eus_x_preferred":[
+        "Tullow"
+    ],
     "name:fra_x_preferred":[
-        "Tullow"
-    ],
-    "name:fre_x_preferred":[
-        "Tullow"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10dd\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "Tullow"
     ],
     "name:gle_x_preferred":[
@@ -71,17 +62,11 @@
     "name:slk_x_preferred":[
         "Tullow"
     ],
-    "name:slo_x_preferred":[
-        "Tullow"
-    ],
     "name:swe_x_preferred":[
         "Tullow"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0644\u0626\u0648"
-    ],
-    "name:wel_x_preferred":[
-        "An Tulach"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Carlow",
@@ -131,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561759869,
     "wof:name":"Tullow",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

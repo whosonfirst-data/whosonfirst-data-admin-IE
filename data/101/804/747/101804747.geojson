@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2101503.890774,
+    "geom:area_square_m":2101503.890775,
     "geom:bbox":"-7.34625316097,53.1051994275,-7.30599087503,53.1286804892",
     "geom:latitude":53.117738,
     "geom:longitude":-7.324597,
@@ -26,16 +26,10 @@
     "name:dan_x_preferred":[
         "Mountmellick"
     ],
-    "name:dut_x_preferred":[
-        "Mountmellick"
-    ],
     "name:eng_x_preferred":[
         "Mountmellick"
     ],
     "name:fra_x_preferred":[
-        "Mountmellick"
-    ],
-    "name:fre_x_preferred":[
         "Mountmellick"
     ],
     "name:gle_x_preferred":[
@@ -60,9 +54,6 @@
         "\u041c\u0430\u0443\u043d\u0442\u043c\u0435\u043b\u043b\u0438\u043a"
     ],
     "name:slk_x_preferred":[
-        "Mountmellick"
-    ],
-    "name:slo_x_preferred":[
         "Mountmellick"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":101804747,
-    "wof:lastmodified":1527642749,
+    "wof:lastmodified":1561759862,
     "wof:name":"Mountmellick",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "mps:longitude":-6.29477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gorey"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0438"
     ],
@@ -32,9 +29,6 @@
     "name:deu_x_preferred":[
         "Gorey"
     ],
-    "name:dut_x_preferred":[
-        "Gorey"
-    ],
     "name:eng_x_preferred":[
         "Gorey"
     ],
@@ -45,15 +39,6 @@
         "Gorey"
     ],
     "name:fra_x_preferred":[
-        "Gorey"
-    ],
-    "name:fre_x_preferred":[
-        "Gorey"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Gorey"
     ],
     "name:gle_x_preferred":[
@@ -139,7 +124,7 @@
         }
     ],
     "wof:id":101805933,
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561759869,
     "wof:name":"Gorey",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

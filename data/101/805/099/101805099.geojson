@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
-    "geom:area_square_m":5355928.625996,
+    "geom:area_square_m":5355928.625997,
     "geom:bbox":"-7.46586055983,55.1193516903,-7.42767476905,55.1603380376",
     "geom:latitude":55.138677,
     "geom:longitude":-7.448808,
@@ -17,9 +17,6 @@
     "mps:longitude":-7.450402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Buncrana"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u044a\u043d\u043a\u0440\u0430\u043d\u0430"
     ],
@@ -32,9 +29,6 @@
     "name:deu_x_preferred":[
         "Buncrana"
     ],
-    "name:dut_x_preferred":[
-        "Buncrana"
-    ],
     "name:eng_x_preferred":[
         "Buncrana"
     ],
@@ -42,15 +36,6 @@
         "Buncrana"
     ],
     "name:fra_x_preferred":[
-        "Buncrana"
-    ],
-    "name:fre_x_preferred":[
-        "Buncrana"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d9\u10e0\u10d0\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Buncrana"
     ],
     "name:gle_x_preferred":[
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":101805099,
-    "wof:lastmodified":1527642960,
+    "wof:lastmodified":1561759868,
     "wof:name":"Buncrana",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

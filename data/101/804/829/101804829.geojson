@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001136,
-    "geom:area_square_m":8395746.873151,
+    "geom:area_square_m":8395746.873152,
     "geom:bbox":"-7.52483503562,53.2544215821,-7.45949697313,53.3004455875",
     "geom:latitude":53.277527,
     "geom:longitude":-7.49378,
@@ -17,22 +17,16 @@
     "mps:longitude":-7.49378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tullamore"
-    ],
     "name:bul_x_preferred":[
         "\u0422\u044a\u043b\u0430\u043c\u043e\u0440"
     ],
     "name:cat_x_preferred":[
         "Tullamore"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u83ab\u5c14"
-    ],
-    "name:cym_x_preferred":[
+    "name:ces_x_preferred":[
         "Tullamore"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tullamore"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +35,8 @@
     "name:deu_x_preferred":[
         "Tullamore"
     ],
-    "name:dut_x_preferred":[
-        "Tullamore"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03bb\u03b1\u03bc\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tullamore"
@@ -62,15 +56,6 @@
     "name:fra_x_preferred":[
         "Tullamore"
     ],
-    "name:fre_x_preferred":[
-        "Tullamore"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10da\u10d0\u10db\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tullamore"
-    ],
     "name:gla_x_preferred":[
         "Tulach Mh\u00f3r"
     ],
@@ -79,9 +64,6 @@
     ],
     "name:glg_x_preferred":[
         "Tullamore"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bb\u03bb\u03b1\u03bc\u03cc\u03c1"
     ],
     "name:ind_x_preferred":[
         "Tullamore"
@@ -104,17 +86,11 @@
     "name:lit_x_preferred":[
         "Talamoras"
     ],
-    "name:may_x_preferred":[
-        "Tullamore"
-    ],
     "name:msa_x_preferred":[
         "Tullamore"
     ],
     "name:nld_x_preferred":[
         "Tullamore"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0644\u0627\u0645\u0648\u0631"
     ],
     "name:pol_x_preferred":[
         "Tullamore"
@@ -145,9 +121,6 @@
     ],
     "name:urd_x_preferred":[
         "\u0679\u0648\u0644\u0627\u0645\u0648\u0631"
-    ],
-    "name:wel_x_preferred":[
-        "Tullamore"
     ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u83ab\u5c14"
@@ -199,7 +172,7 @@
         }
     ],
     "wof:id":101804829,
-    "wof:lastmodified":1527642745,
+    "wof:lastmodified":1561759860,
     "wof:name":"Tullamore",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

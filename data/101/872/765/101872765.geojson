@@ -17,9 +17,6 @@
     "mps:longitude":-9.305344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "An Spid\u00e9al"
-    ],
     "name:bre_x_preferred":[
         "An Spid\u00e9al"
     ],
@@ -38,9 +35,6 @@
     "name:deu_x_preferred":[
         "An Spid\u00e9al"
     ],
-    "name:dut_x_preferred":[
-        "An Spid\u00e9al"
-    ],
     "name:eng_x_preferred":[
         "Spiddal"
     ],
@@ -54,15 +48,6 @@
         "An Spid\u00e9al"
     ],
     "name:fra_x_preferred":[
-        "An Spid\u00e9al"
-    ],
-    "name:fre_x_preferred":[
-        "An Spid\u00e9al"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10de\u10d8\u10d3\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "An Spid\u00e9al"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +90,6 @@
         "An Spid\u00e9al"
     ],
     "name:swe_x_preferred":[
-        "An Spid\u00e9al"
-    ],
-    "name:wel_x_preferred":[
         "An Spid\u00e9al"
     ],
     "qs:a0":"Ireland",
@@ -157,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544751310,
+    "wof:lastmodified":1561759859,
     "wof:name":"Spiddle",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

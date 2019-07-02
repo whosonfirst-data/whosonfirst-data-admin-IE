@@ -19,17 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Newbawn"
-    ],
-    "name:dut_x_preferred":[
-        "Newbawn"
-    ],
     "name:eng_x_preferred":[
+        "Newbawn"
+    ],
+    "name:eus_x_preferred":[
         "Newbawn"
     ],
     "name:gle_x_preferred":[
         "An B\u00e1bhun Nua"
+    ],
+    "name:nld_x_preferred":[
+        "Newbawn"
     ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e\u0431\u043e\u043d"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125844633,
-    "wof:lastmodified":1514450622,
+    "wof:lastmodified":1561759893,
     "wof:name":"Newbawn",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

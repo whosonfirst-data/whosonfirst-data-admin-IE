@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000242,
-    "geom:area_square_m":1772607.014004,
+    "geom:area_square_m":1772607.014002,
     "geom:bbox":"-6.43641701966,53.6512065098,-6.40284974456,53.670059968",
     "geom:latitude":53.65926,
     "geom:longitude":-6.417233,
@@ -17,9 +17,6 @@
     "mps:longitude":-6.413291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Duleek"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u043b\u0438\u0439\u043a"
     ],
@@ -29,19 +26,13 @@
     "name:deu_x_preferred":[
         "Duleek"
     ],
-    "name:dut_x_preferred":[
-        "Duleek"
-    ],
     "name:eng_x_preferred":[
         "Duleek"
     ],
+    "name:eus_x_preferred":[
+        "Duleek"
+    ],
     "name:fra_x_preferred":[
-        "Duleek"
-    ],
-    "name:fre_x_preferred":[
-        "Duleek"
-    ],
-    "name:ger_x_preferred":[
         "Duleek"
     ],
     "name:gle_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642754,
+    "wof:lastmodified":1561759864,
     "wof:name":"Duleek",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

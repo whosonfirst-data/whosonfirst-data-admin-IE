@@ -17,22 +17,19 @@
     "mps:longitude":-6.984067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Athy"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0434\u0430\u0439"
     ],
     "name:cat_x_preferred":[
         "Athy"
     ],
+    "name:cym_x_preferred":[
+        "Baile \u00c1tha \u00cd"
+    ],
     "name:dan_x_preferred":[
         "Athy"
     ],
     "name:deu_x_preferred":[
-        "Athy"
-    ],
-    "name:dut_x_preferred":[
         "Athy"
     ],
     "name:eng_x_preferred":[
@@ -42,15 +39,6 @@
         "Athy"
     ],
     "name:fra_x_preferred":[
-        "Athy"
-    ],
-    "name:fre_x_preferred":[
-        "Athy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d7\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Athy"
     ],
     "name:gle_x_preferred":[
@@ -92,9 +80,6 @@
     "name:slk_x_preferred":[
         "Athy"
     ],
-    "name:slo_x_preferred":[
-        "Athy"
-    ],
     "name:spa_x_preferred":[
         "Athy"
     ],
@@ -103,9 +88,6 @@
     ],
     "name:swe_x_preferred":[
         "Athy"
-    ],
-    "name:wel_x_preferred":[
-        "Baile \u00c1tha \u00cd"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kildare",
@@ -154,7 +136,7 @@
         }
     ],
     "wof:id":101804797,
-    "wof:lastmodified":1527642742,
+    "wof:lastmodified":1561759859,
     "wof:name":"Athy",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

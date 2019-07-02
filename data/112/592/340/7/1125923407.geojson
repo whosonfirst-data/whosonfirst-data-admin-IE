@@ -22,13 +22,10 @@
     "name:cat_x_preferred":[
         "Sutton"
     ],
-    "name:dut_x_preferred":[
-        "Sutton"
-    ],
     "name:eng_x_preferred":[
         "Sutton"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sutton"
     ],
     "name:gla_x_preferred":[
@@ -38,6 +35,9 @@
         "Cill Fhionntain"
     ],
     "name:ita_x_preferred":[
+        "Sutton"
+    ],
+    "name:nld_x_preferred":[
         "Sutton"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1125923407,
-    "wof:lastmodified":1514450664,
+    "wof:lastmodified":1561759877,
     "wof:name":"Sutton",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

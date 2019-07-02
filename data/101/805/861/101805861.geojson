@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":786991.573029,
+    "geom:area_square_m":786991.57303,
     "geom:bbox":"-7.94137505665,52.1310524025,-7.92216180727,52.1418985789",
     "geom:latitude":52.136921,
     "geom:longitude":-7.930345,
@@ -19,20 +19,17 @@
     "mps:longitude":-7.930199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u057d\u0574\u0578\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Lismore"
-    ],
     "name:cat_x_preferred":[
         "Lismore"
+    ],
+    "name:cym_x_preferred":[
+        "Lios M\u00f3r"
     ],
     "name:deu_x_preferred":[
         "Lismore"
     ],
-    "name:dut_x_preferred":[
-        "Lismore"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c3\u03bc\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Lismore"
@@ -43,23 +40,17 @@
     "name:fra_x_preferred":[
         "Lismore"
     ],
-    "name:fre_x_preferred":[
-        "Lismore"
-    ],
-    "name:ger_x_preferred":[
-        "Lismore"
-    ],
     "name:gla_x_preferred":[
         "Lios M\u00f3r"
     ],
     "name:gle_x_preferred":[
         "Lios M\u00f3r"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03c3\u03bc\u03bf\u03c1"
-    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e1\u05de\u05d5\u05e8"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u057d\u0574\u0578\u0580"
     ],
     "name:ita_x_preferred":[
         "Lismore"
@@ -87,9 +78,6 @@
     ],
     "name:swe_x_preferred":[
         "Lismore"
-    ],
-    "name:wel_x_preferred":[
-        "Lios M\u00f3r"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Waterford",
@@ -152,7 +140,7 @@
         }
     ],
     "wof:id":101805861,
-    "wof:lastmodified":1534379340,
+    "wof:lastmodified":1561759868,
     "wof:name":"Lismore",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":3585323.150576,
+    "geom:area_square_m":3585323.150577,
     "geom:bbox":"-7.08518620317,53.3277967082,-7.03167435201,53.3550293443",
     "geom:latitude":53.341434,
     "geom:longitude":-7.057349,
@@ -17,9 +17,6 @@
     "mps:longitude":-7.0634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Edenderry"
-    ],
     "name:bul_x_preferred":[
         "\u0418\u0434\u044a\u043d\u0434\u0435\u0440\u0438"
     ],
@@ -32,9 +29,6 @@
     "name:deu_x_preferred":[
         "Edenderry"
     ],
-    "name:dut_x_preferred":[
-        "Edenderry"
-    ],
     "name:eng_x_preferred":[
         "Edenderry"
     ],
@@ -42,15 +36,6 @@
         "Edenderry"
     ],
     "name:fra_x_preferred":[
-        "Edenderry"
-    ],
-    "name:fre_x_preferred":[
-        "Edenderry"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d3\u10d4\u10dc\u10d3\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Edenderry"
     ],
     "name:gle_x_preferred":[
@@ -134,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642754,
+    "wof:lastmodified":1561759864,
     "wof:name":"Edenderry",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

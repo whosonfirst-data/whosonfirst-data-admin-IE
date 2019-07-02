@@ -20,25 +20,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Ballincollig"
-    ],
     "name:cat_x_preferred":[
-        "Ballincollig"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6797\u79d1\u5229\u683c"
-    ],
-    "name:dut_x_preferred":[
         "Ballincollig"
     ],
     "name:eng_x_preferred":[
         "Ballincollig"
     ],
+    "name:eus_x_preferred":[
+        "Ballincollig"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u06cc\u0646\u06a9\u0648\u0644\u06cc\u06af"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballincollig"
     ],
     "name:gle_x_preferred":[
@@ -53,8 +47,8 @@
     "name:lit_x_preferred":[
         "Balinkolingas"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u06cc\u0646\u06a9\u0648\u0644\u06cc\u06af"
+    "name:nld_x_preferred":[
+        "Ballincollig"
     ],
     "name:pol_x_preferred":[
         "Ballincollig"
@@ -118,7 +112,7 @@
         }
     ],
     "wof:id":1126058977,
-    "wof:lastmodified":1534379341,
+    "wof:lastmodified":1561759879,
     "wof:name":"Ballincollig",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

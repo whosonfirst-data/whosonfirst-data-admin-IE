@@ -20,20 +20,11 @@
     "name:dan_x_preferred":[
         "Rathcoole"
     ],
-    "name:dut_x_preferred":[
-        "Rathcoole"
-    ],
     "name:eng_x_preferred":[
         "Rathcoole"
     ],
     "name:fra_x_preferred":[
         "Rathcoole"
-    ],
-    "name:fre_x_preferred":[
-        "Rathcoole"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e2\u10d9\u10e3\u10da\u10d8"
     ],
     "name:gle_x_preferred":[
         "Rath C\u00fail"
@@ -53,7 +44,7 @@
     "name:lit_x_preferred":[
         "Ratkulas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u0430\u0442\u043a\u0443\u043b"
     ],
     "name:nld_x_preferred":[
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":101753083,
-    "wof:lastmodified":1553815476,
+    "wof:lastmodified":1561759857,
     "wof:name":"Rathcoole",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

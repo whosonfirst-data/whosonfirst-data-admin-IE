@@ -25,19 +25,19 @@
     "name:dan_x_preferred":[
         "Kilcoole"
     ],
-    "name:dut_x_preferred":[
-        "Kilcoole"
-    ],
     "name:eng_x_preferred":[
         "Kilcoole"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kilcoole"
     ],
     "name:gle_x_preferred":[
         "Cill Chomhghaill"
     ],
     "name:ita_x_preferred":[
+        "Kilcoole"
+    ],
+    "name:nld_x_preferred":[
         "Kilcoole"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125865513,
-    "wof:lastmodified":1514450537,
+    "wof:lastmodified":1561759881,
     "wof:name":"Kilcoole",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

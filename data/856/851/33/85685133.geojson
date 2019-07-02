@@ -36,9 +36,6 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Leitrim"
     ],
-    "name:baq_x_preferred":[
-        "Leitrimeko konderria"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b2\u09bf\u09a4\u09cd\u09b0\u09ae"
     ],
@@ -54,14 +51,8 @@
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Leitrim"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u7279\u91cc\u59c6\u90e1"
-    ],
     "name:cym_x_preferred":[
         "Swydd Leitrim"
-    ],
-    "name:cze_x_preferred":[
-        "Hrabstv\u00ed Leitrim"
     ],
     "name:dan_x_preferred":[
         "County Leitrim"
@@ -69,8 +60,8 @@
     "name:deu_x_preferred":[
         "Leitrim"
     ],
-    "name:dut_x_preferred":[
-        "County Leitrim"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03ad\u03b9\u03c4\u03c1\u03b9\u03bc"
     ],
     "name:eng_x_preferred":[
         "Leitrim"
@@ -81,20 +72,14 @@
     "name:eus_x_preferred":[
         "Leitrim konderria"
     ],
+    "name:eus_x_variant":[
+        "Leitrimeko konderria"
+    ],
     "name:fin_x_preferred":[
         "Leitrimin kreivikunta"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Leitrim"
-    ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Leitrim"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10e2\u10e0\u10d8\u10db\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Leitrim"
     ],
     "name:gla_x_preferred":[
         "Contae Liatroma"
@@ -108,9 +93,6 @@
     "name:glv_x_preferred":[
         "Coontae Lheeahtrim"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03ad\u03b9\u03c4\u03c1\u03b9\u03bc"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0ab2\u0ac7\u0a9f\u0acd\u0ab0\u0ac0\u0aae"
     ],
@@ -120,10 +102,10 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0932\u0940\u091f\u094d\u0930\u093f\u092e"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "County Leitrim"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "County Leitrim"
     ],
     "name:ita_x_preferred":[
@@ -150,17 +132,17 @@
     "name:lit_x_preferred":[
         "Leitrimo grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u0442\u0440\u0438\u043c"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0932\u0940\u091f\u094d\u0930\u093f\u092e"
     ],
-    "name:may_x_preferred":[
-        "County Leitrim"
-    ],
     "name:mkd_x_preferred":[
         "\u041b\u0438\u0442\u0440\u0438\u043c"
+    ],
+    "name:msa_x_preferred":[
+        "County Leitrim"
+    ],
+    "name:nld_x_preferred":[
+        "County Leitrim"
     ],
     "name:nno_x_preferred":[
         "County Leitrim"
@@ -180,9 +162,6 @@
     "name:ron_x_preferred":[
         "Comitatul Leitrim"
     ],
-    "name:rum_x_preferred":[
-        "Comitatul Leitrim"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0442\u0440\u0438\u043c"
     ],
@@ -192,7 +171,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dda\u0dba\u0dd2\u0da7\u0dca\u200d\u0dbb\u0dd3\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Leitrim"
     ],
     "name:spa_x_preferred":[
@@ -233,9 +212,6 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Leitrim"
-    ],
-    "name:wel_x_preferred":[
-        "Swydd Leitrim"
     ],
     "name:zho_x_preferred":[
         "\u5229\u7279\u91cc\u59c6\u90e1"
@@ -353,7 +329,7 @@
         }
     ],
     "wof:id":85685133,
-    "wof:lastmodified":1560988031,
+    "wof:lastmodified":1561759757,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

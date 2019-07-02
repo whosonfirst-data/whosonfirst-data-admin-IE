@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Leap"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u0430\u043f"
-    ],
-    "name:dut_x_preferred":[
-        "Leap"
     ],
     "name:eng_x_preferred":[
         "Leap"
     ],
+    "name:eus_x_preferred":[
+        "Leap"
+    ],
     "name:gle_x_preferred":[
         "An L\u00e9im"
+    ],
+    "name:nld_x_preferred":[
+        "Leap"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043f"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125961741,
-    "wof:lastmodified":1514450558,
+    "wof:lastmodified":1561759888,
     "wof:name":"Leap",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

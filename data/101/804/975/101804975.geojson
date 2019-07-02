@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":1822276.535642,
+    "geom:area_square_m":1822276.535641,
     "geom:bbox":"-6.73023080153,53.9652309674,-6.69975161945,53.9858780017",
     "geom:latitude":53.976098,
     "geom:longitude":-6.717925,
@@ -17,9 +17,6 @@
     "mps:longitude":-6.717694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Carrickmacross"
-    ],
     "name:bre_x_preferred":[
         "Carraig Mhachaire Rois"
     ],
@@ -35,19 +32,13 @@
     "name:deu_x_preferred":[
         "Carrickmacross"
     ],
-    "name:dut_x_preferred":[
-        "Carrickmacross"
-    ],
     "name:eng_x_preferred":[
         "Carrickmacross"
     ],
+    "name:eus_x_preferred":[
+        "Carrickmacross"
+    ],
     "name:fra_x_preferred":[
-        "Carrickmacross"
-    ],
-    "name:fre_x_preferred":[
-        "Carrickmacross"
-    ],
-    "name:ger_x_preferred":[
         "Carrickmacross"
     ],
     "name:gle_x_preferred":[
@@ -75,9 +66,6 @@
         "\u041a\u0430\u0440\u0440\u0438\u043a\u043c\u0430\u043a\u0440\u043e\u0441\u0441"
     ],
     "name:slk_x_preferred":[
-        "Carrickmacross"
-    ],
-    "name:slo_x_preferred":[
         "Carrickmacross"
     ],
     "name:spa_x_preferred":[
@@ -136,7 +124,7 @@
         }
     ],
     "wof:id":101804975,
-    "wof:lastmodified":1527642758,
+    "wof:lastmodified":1561759866,
     "wof:name":"Carrickmacross",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

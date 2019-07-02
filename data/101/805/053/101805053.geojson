@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000397,
-    "geom:area_square_m":2907856.168789,
+    "geom:area_square_m":2907856.16879,
     "geom:bbox":"-9.01554246889,53.706541021,-8.97185858229,53.7408002265",
     "geom:latitude":53.723326,
     "geom:longitude":-8.99731,
@@ -20,31 +20,19 @@
     "mps:longitude":-8.997641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Claremorris"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u044a\u0440\u043c\u043e\u0440\u0438\u0441"
     ],
     "name:deu_x_preferred":[
         "Claremorris"
     ],
-    "name:dut_x_preferred":[
-        "Claremorris"
-    ],
     "name:eng_x_preferred":[
         "Claremorris"
     ],
+    "name:eus_x_preferred":[
+        "Claremorris"
+    ],
     "name:fra_x_preferred":[
-        "Claremorris"
-    ],
-    "name:fre_x_preferred":[
-        "Claremorris"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10da\u10d4\u10e0\u10db\u10dd\u10e0\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Claremorris"
     ],
     "name:gla_x_preferred":[
@@ -159,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379342,
+    "wof:lastmodified":1561759868,
     "wof:name":"Claremorris",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

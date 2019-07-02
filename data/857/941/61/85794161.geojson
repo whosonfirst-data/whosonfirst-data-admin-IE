@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001165,
-    "geom:area_square_m":8616919.549028,
+    "geom:area_square_m":8616919.549029,
     "geom:bbox":"-6.28535688669,53.2371386859,-6.24926299347,53.2980552595",
     "geom:latitude":53.267238,
     "geom:longitude":-6.270525,
@@ -30,16 +30,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0442\u0435\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Ballinteer"
-    ],
     "name:eng_x_preferred":[
         "Ballinteer"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u06cc\u0646\u062a\u06cc\u0631"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballinteer"
     ],
     "name:gle_x_preferred":[
@@ -51,8 +48,8 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30ea\u30f3\u30c6\u30a3\u30a2"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u06cc\u0646\u062a\u06cc\u0631"
+    "name:nld_x_preferred":[
+        "Ballinteer"
     ],
     "name:pol_x_preferred":[
         "Ballinteer"
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530148450,
+    "wof:lastmodified":1561759716,
     "wof:name":"Ballinteer",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

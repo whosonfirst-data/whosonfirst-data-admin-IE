@@ -22,9 +22,6 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0447\u0444\u043e\u0440\u0442\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Rochfortbridge"
-    ],
     "name:eng_x_preferred":[
         "Rochfortbridge"
     ],
@@ -36,6 +33,9 @@
     ],
     "name:lit_x_preferred":[
         "Ro\u010dfortbrid\u017eas"
+    ],
+    "name:nld_x_preferred":[
+        "Rochfortbridge"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0447\u0444\u043e\u0440\u0442\u0431\u0440\u0438\u0434\u0436"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125785773,
-    "wof:lastmodified":1514450638,
+    "wof:lastmodified":1561759892,
     "wof:name":"Rochfortbridge",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

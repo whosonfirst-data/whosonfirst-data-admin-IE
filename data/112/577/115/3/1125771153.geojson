@@ -16,9 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Doora"
-    ],
     "name:eng_x_preferred":[
         "Doora"
     ],
@@ -27,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30fc\u30e9"
+    ],
+    "name:nld_x_preferred":[
+        "Doora"
     ],
     "name:vie_x_preferred":[
         "Doora"
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125771153,
-    "wof:lastmodified":1514450489,
+    "wof:lastmodified":1561759894,
     "wof:name":"Doora",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

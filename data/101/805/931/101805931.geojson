@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
-    "geom:area_square_m":378581.406613,
+    "geom:area_square_m":378581.406612,
     "geom:bbox":"-8.02033352352,51.8251700283,-7.99946203849,51.8331654883",
     "geom:latitude":51.829437,
     "geom:longitude":-8.010121,
@@ -17,19 +17,13 @@
     "mps:longitude":-8.011702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballycotton"
-    ],
-    "name:dut_x_preferred":[
-        "Ballycotton"
-    ],
     "name:eng_x_preferred":[
         "Ballycotton"
     ],
     "name:eus_x_preferred":[
         "Ballycotton"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballycotton"
     ],
     "name:gle_x_preferred":[
@@ -95,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642954,
+    "wof:lastmodified":1561759866,
     "wof:name":"Ballycottin",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

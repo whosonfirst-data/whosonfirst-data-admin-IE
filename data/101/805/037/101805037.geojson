@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000174,
-    "geom:area_square_m":1254625.226627,
+    "geom:area_square_m":1254625.226626,
     "geom:bbox":"-9.99625462798,54.2139504147,-9.97779971111,54.2346862553",
     "geom:latitude":54.223486,
     "geom:longitude":-9.987636,
@@ -17,9 +17,6 @@
     "mps:longitude":-9.986727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Belmullet"
-    ],
     "name:bre_x_preferred":[
         "B\u00e9al an Mhuirthead"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "B\u00e9al an Mhuirthead"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u723e\u99ac\u5229\u7279"
-    ],
     "name:deu_x_preferred":[
-        "B\u00e9al an Mhuirthead"
-    ],
-    "name:dut_x_preferred":[
         "B\u00e9al an Mhuirthead"
     ],
     "name:eng_x_preferred":[
@@ -48,20 +39,14 @@
     "name:eus_x_preferred":[
         "B\u00e9al an Mhuirthead"
     ],
+    "name:eus_x_variant":[
+        "Belmullet"
+    ],
     "name:fin_x_preferred":[
         "Belmullet"
     ],
     "name:fra_x_preferred":[
         "Belmullet"
-    ],
-    "name:fre_x_preferred":[
-        "Belmullet"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10db\u10d0\u10da\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "B\u00e9al an Mhuirthead"
     ],
     "name:gla_x_preferred":[
         "B\u00e9al an Mhuirthead"
@@ -93,6 +78,9 @@
     ],
     "name:unk_x_variant":[
         "Belmuliet"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u99ac\u5229\u7279"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Mayo",
@@ -139,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642961,
+    "wof:lastmodified":1561759868,
     "wof:name":"Belmullet",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

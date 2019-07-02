@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Skryne"
     ],
-    "name:baq_x_preferred":[
-        "Skryne"
-    ],
     "name:bar_x_preferred":[
         "Skryne"
     ],
@@ -37,10 +34,13 @@
     "name:cat_x_preferred":[
         "Skryne"
     ],
+    "name:ces_x_preferred":[
+        "Skryne"
+    ],
     "name:cos_x_preferred":[
         "Skryne"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Skryne"
     ],
     "name:dan_x_preferred":[
@@ -49,7 +49,7 @@
     "name:deu_x_preferred":[
         "Skreen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Skryne"
     ],
     "name:eng_x_preferred":[
@@ -61,19 +61,19 @@
     "name:est_x_preferred":[
         "Skryne"
     ],
+    "name:eus_x_preferred":[
+        "Skryne"
+    ],
     "name:fin_x_preferred":[
         "Skryne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Skryne"
     ],
     "name:frp_x_preferred":[
         "Skryne"
     ],
     "name:fur_x_preferred":[
-        "Skryne"
-    ],
-    "name:ger_x_preferred":[
         "Skryne"
     ],
     "name:gla_x_preferred":[
@@ -97,9 +97,6 @@
     "name:hun_x_preferred":[
         "Skryne"
     ],
-    "name:ice_x_preferred":[
-        "Skryne"
-    ],
     "name:ido_x_preferred":[
         "Skryne"
     ],
@@ -110,6 +107,9 @@
         "Skryne"
     ],
     "name:ind_x_preferred":[
+        "Skryne"
+    ],
+    "name:isl_x_preferred":[
         "Skryne"
     ],
     "name:ita_x_preferred":[
@@ -130,13 +130,13 @@
     "name:ltz_x_preferred":[
         "Skryne"
     ],
-    "name:may_x_preferred":[
-        "Skryne"
-    ],
     "name:min_x_preferred":[
         "Skryne"
     ],
     "name:mlg_x_preferred":[
+        "Skryne"
+    ],
+    "name:msa_x_preferred":[
         "Skryne"
     ],
     "name:nap_x_preferred":[
@@ -147,6 +147,9 @@
     ],
     "name:nld_x_preferred":[
         "Skreen"
+    ],
+    "name:nld_x_variant":[
+        "Skryne"
     ],
     "name:nno_x_preferred":[
         "Skryne"
@@ -175,7 +178,7 @@
     "name:roh_x_preferred":[
         "Skryne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skryne"
     ],
     "name:rus_x_preferred":[
@@ -187,7 +190,7 @@
     "name:sco_x_preferred":[
         "Skryne"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Skryne"
     ],
     "name:slv_x_preferred":[
@@ -215,9 +218,6 @@
         "Skryne"
     ],
     "name:vol_x_preferred":[
-        "Skryne"
-    ],
-    "name:wel_x_preferred":[
         "Skryne"
     ],
     "name:wln_x_preferred":[
@@ -269,7 +269,7 @@
         }
     ],
     "wof:id":101872761,
-    "wof:lastmodified":1544751305,
+    "wof:lastmodified":1561759859,
     "wof:name":"Skreen",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

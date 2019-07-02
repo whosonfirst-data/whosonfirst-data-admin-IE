@@ -21,20 +21,11 @@
     "name:afr_x_preferred":[
         "Cork"
     ],
-    "name:alb_x_preferred":[
-        "Kork"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u056f"
-    ],
     "name:aze_x_preferred":[
         "Kork"
-    ],
-    "name:baq_x_preferred":[
-        "Cork"
     ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u0440\u043a"
@@ -54,20 +45,23 @@
     "name:cat_x_preferred":[
         "Cork"
     ],
+    "name:ces_x_preferred":[
+        "Cork"
+    ],
     "name:che_x_preferred":[
         "\u041a\u043e\u0440\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Cork"
+    "name:cym_x_preferred":[
+        "Corc"
     ],
     "name:dan_x_preferred":[
         "Cork"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cork"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Cork"
@@ -78,22 +72,22 @@
     "name:est_x_preferred":[
         "Cork"
     ],
+    "name:eus_x_preferred":[
+        "Cork"
+    ],
     "name:fao_x_preferred":[
         "Cork"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06a9"
     ],
     "name:fin_x_preferred":[
         "Cork"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cork"
     ],
     "name:fry_x_preferred":[
-        "Cork"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Cork"
     ],
     "name:gla_x_preferred":[
@@ -107,9 +101,6 @@
     ],
     "name:glv_x_preferred":[
         "Corkee"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac9\u0ab0\u0acd\u0a95"
@@ -129,8 +120,8 @@
     "name:hun_x_preferred":[
         "Cork"
     ],
-    "name:ice_x_preferred":[
-        "Cork"
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u056f"
     ],
     "name:ido_x_preferred":[
         "Cork"
@@ -141,6 +132,9 @@
     "name:ind_x_preferred":[
         "Cork"
     ],
+    "name:isl_x_preferred":[
+        "Cork"
+    ],
     "name:ita_x_preferred":[
         "Cork"
     ],
@@ -149,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0cb0\u0ccd\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ucf54\ud06c"
@@ -162,14 +159,11 @@
     "name:lit_x_preferred":[
         "Korkas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0440\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0949\u0930\u094d\u0915"
     ],
-    "name:may_x_preferred":[
-        "Cork"
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0440\u043a"
     ],
     "name:mlt_x_preferred":[
         "Cork"
@@ -177,7 +171,13 @@
     "name:mon_x_preferred":[
         "\u041a\u043e\u0440\u043a"
     ],
+    "name:msa_x_preferred":[
+        "Cork"
+    ],
     "name:nau_x_preferred":[
+        "Cork"
+    ],
+    "name:nld_x_preferred":[
         "Cork"
     ],
     "name:nno_x_preferred":[
@@ -192,9 +192,6 @@
     "name:oss_x_preferred":[
         "\u041a\u043e\u0440\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u06a9"
-    ],
     "name:pms_x_preferred":[
         "Cork"
     ],
@@ -207,7 +204,7 @@
     "name:por_x_preferred":[
         "Cork"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cork"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +216,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddd\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cork"
     ],
     "name:slv_x_preferred":[
@@ -227,6 +224,9 @@
     ],
     "name:spa_x_preferred":[
         "Cork"
+    ],
+    "name:sqi_x_preferred":[
+        "Kork"
     ],
     "name:srd_x_preferred":[
         "Cork"
@@ -288,10 +288,10 @@
     "name:war_x_preferred":[
         "Cork"
     ],
-    "name:wel_x_preferred":[
-        "Corc"
-    ],
     "name:yue_x_preferred":[
+        "\u79d1\u514b"
+    ],
+    "name:zho_x_preferred":[
         "\u79d1\u514b"
     ],
     "qs_pg:aaroncc":"IE",
@@ -340,7 +340,7 @@
         }
     ],
     "wof:id":1125915837,
-    "wof:lastmodified":1534379342,
+    "wof:lastmodified":1561759889,
     "wof:name":"Cork",
     "wof:parent_id":85684945,
     "wof:placetype":"locality",

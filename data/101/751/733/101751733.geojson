@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006481,
-    "geom:area_square_m":48605414.626786,
+    "geom:area_square_m":48605414.626783,
     "geom:bbox":"-8.68810347839,52.613945,-8.500452,52.7042885",
     "geom:latitude":52.661985,
     "geom:longitude":-8.609149,
@@ -24,14 +24,8 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0631\u064a\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0565\u0580\u056b\u056f"
-    ],
     "name:aze_x_preferred":[
         "Limerik"
-    ],
-    "name:baq_x_preferred":[
-        "Limerick"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0456\u043c\u0435\u0440\u044b\u043a"
@@ -48,10 +42,10 @@
     "name:cat_x_preferred":[
         "Limerick"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u9ed8\u91cc\u514b"
+    "name:ces_x_preferred":[
+        "Limerick"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Limerick"
     ],
     "name:dan_x_preferred":[
@@ -63,8 +57,8 @@
     "name:deu_x_preferred":[
         "Limerick"
     ],
-    "name:dut_x_preferred":[
-        "Limerick"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03bc\u03b5\u03c1\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Limerick"
@@ -78,8 +72,14 @@
     "name:est_x_preferred":[
         "Limerick"
     ],
+    "name:eus_x_preferred":[
+        "Limerick"
+    ],
     "name:fao_x_preferred":[
         "Limerick"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0645\u0631\u06a9"
     ],
     "name:fin_x_preferred":[
         "Limerick"
@@ -87,17 +87,8 @@
     "name:fra_x_preferred":[
         "Limerick"
     ],
-    "name:fre_x_preferred":[
-        "Limerick"
-    ],
     "name:fry_x_preferred":[
         "Limmerik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d4\u10e0\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Limerick"
     ],
     "name:gla_x_preferred":[
         "Luimneach"
@@ -110,9 +101,6 @@
     ],
     "name:glv_x_preferred":[
         "Limmeragh"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03bc\u03b5\u03c1\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aae\u0ab0\u0abf\u0a95"
@@ -129,13 +117,16 @@
     "name:hun_x_preferred":[
         "Limerick"
     ],
-    "name:ice_x_preferred":[
-        "Limerick"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0565\u0580\u056b\u056f"
     ],
     "name:ile_x_preferred":[
         "Limerick"
     ],
     "name:ind_x_preferred":[
+        "Limerick"
+    ],
+    "name:isl_x_preferred":[
         "Limerick"
     ],
     "name:ita_x_preferred":[
@@ -146,6 +137,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbf\u0cae\u0cb0\u0cbf\u0c95\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10db\u10d4\u10e0\u10d8\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uba38\ub9ad"
@@ -165,7 +159,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u0930\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Limerick"
     ],
     "name:nau_x_preferred":[
@@ -189,9 +183,6 @@
     "name:oss_x_preferred":[
         "\u041b\u0438\u043c\u0435\u0440\u0438\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0645\u0631\u06a9"
-    ],
     "name:pms_x_preferred":[
         "Limerick"
     ],
@@ -207,9 +198,6 @@
     "name:ron_x_preferred":[
         "Limerick"
     ],
-    "name:rum_x_preferred":[
-        "Limerick"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0435\u0440\u0438\u043a"
     ],
@@ -219,7 +207,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db8\u0dbb\u0dd2\u0d9a\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Limerick"
     ],
     "name:slv_x_preferred":[
@@ -270,8 +258,8 @@
     "name:war_x_preferred":[
         "Limerick"
     ],
-    "name:wel_x_preferred":[
-        "Limerick"
+    "name:zho_x_preferred":[
+        "\u5229\u9ed8\u91cc\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ireland",
@@ -413,7 +401,7 @@
         }
     ],
     "wof:id":101751733,
-    "wof:lastmodified":1530148417,
+    "wof:lastmodified":1561759872,
     "wof:name":"Limerick",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

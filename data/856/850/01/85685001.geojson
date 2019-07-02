@@ -36,38 +36,32 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Dun Laoghaire-Rathdown"
     ],
-    "name:baq_x_preferred":[
-        "Dun Laoghaire-Rathdowneko konderria"
-    ],
     "name:cat_x_preferred":[
         "D\u00fan Laoghaire\u2013Rathdown"
     ],
-    "name:chi_x_preferred":[
-        "\u9127\u840a\u91cc-\u62c9\u65af\u7576\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "D\u00fan Laoghaire \u2013 Rathdown"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd D\u00fan Laoghaire-Rathdown"
     ],
     "name:dan_x_preferred":[
         "Dun Laoghaire-Rathdown"
     ],
-    "name:dut_x_preferred":[
-        "Dun Laoghaire-Rathdown"
+    "name:deu_x_preferred":[
+        "D\u00fan Laoghaire-Rathdown"
     ],
     "name:eng_x_preferred":[
         "Dunlaoghaire-Rathdown"
     ],
+    "name:eus_x_preferred":[
+        "Dun Laoghaire-Rathdowneko konderria"
+    ],
     "name:fin_x_preferred":[
         "Dun Laoghaire-Rathdown"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Dun Laoghaire-Rathdown"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10dc-\u10da\u10d4\u10e0\u10d8-\u10e0\u10d0\u10e2\u10d3\u10d0\u10e3\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "D\u00fan Laoghaire-Rathdown"
     ],
     "name:gle_x_preferred":[
         "D\u00fan Laoghaire-R\u00e1th an D\u00fain"
@@ -84,14 +78,20 @@
     "name:jpn_x_preferred":[
         "\u30c0\u30f3\u30fb\u30ec\u30a2\u30ea\u30fc\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10dc-\u10da\u10d4\u10e0\u10d8-\u10e0\u10d0\u10e2\u10d3\u10d0\u10e3\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ub358\ub808\ub7ec\ub77c\uc2a4\ub358 \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Dan Ler\u0117-Ratdaunas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0430\u043d \u041b\u0438\u0440\u0438-\u0420\u0430\u0442\u0434\u0430\u0443\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Dun Laoghaire-Rathdown"
     ],
     "name:pol_x_preferred":[
         "D\u00fan Laoghaire-Rathdown"
@@ -105,7 +105,7 @@
     "name:sco_x_preferred":[
         "D\u00fan Laoghaire\u2013Rathdown"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "D\u00fan Laoghaire-Rathdown"
     ],
     "name:spa_x_preferred":[
@@ -123,11 +123,11 @@
     "name:urd_x_preferred":[
         "\u0688\u0648\u0646 \u0644\u0627\u0631\u06cc\u2013\u0631\u06cc\u062a\u06be\u0688\u0627\u0648\u0646"
     ],
-    "name:wel_x_preferred":[
-        "Swydd D\u00fan Laoghaire-Rathdown"
-    ],
     "name:yue_x_preferred":[
         "\u6d1b\u5e0c\u4e9e\u5821\uff0d\u6d1b\u5eb7\u9813\u90e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u9127\u840a\u91cc-\u62c9\u65af\u7576\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -224,7 +224,7 @@
         }
     ],
     "wof:id":85685001,
-    "wof:lastmodified":1560988000,
+    "wof:lastmodified":1561759728,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

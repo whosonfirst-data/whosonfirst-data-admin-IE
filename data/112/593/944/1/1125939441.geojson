@@ -22,10 +22,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0442\u0435\u043b"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kilteel"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kilteel"
     ],
     "name:rus_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125939441,
-    "wof:lastmodified":1514450552,
+    "wof:lastmodified":1561759876,
     "wof:name":"Kilteel",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

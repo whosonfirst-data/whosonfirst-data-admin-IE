@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":398478.579217,
+    "geom:area_square_m":398478.579215,
     "geom:bbox":"-7.58357401106,52.0454304553,-7.56012797295,52.0510720239",
     "geom:latitude":52.047888,
     "geom:longitude":-7.570646,
@@ -16,14 +16,8 @@
     "mps:longitude":-7.569847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "An Rinn"
-    ],
     "name:cat_x_preferred":[
         "An Rinn"
-    ],
-    "name:dut_x_preferred":[
-        "Ring"
     ],
     "name:eng_x_preferred":[
         "Ringville"
@@ -31,11 +25,17 @@
     "name:eng_x_variant":[
         "Ring"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "An Rinn"
+    ],
+    "name:fra_x_preferred":[
         "Ring"
     ],
     "name:gle_x_preferred":[
         "An Rinn"
+    ],
+    "name:nld_x_preferred":[
+        "Ring"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043d\u0433"
@@ -89,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1514450638,
+    "wof:lastmodified":1561759868,
     "wof:name":"Ringville",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

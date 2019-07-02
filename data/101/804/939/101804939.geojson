@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000196,
-    "geom:area_square_m":1444062.918571,
+    "geom:area_square_m":1444062.91857,
     "geom:bbox":"-9.34030593854,53.4187592881,-9.30979096028,53.4364052077",
     "geom:latitude":53.427355,
     "geom:longitude":-9.323586,
@@ -20,9 +20,6 @@
     "mps:longitude":-9.324626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Oughterard"
-    ],
     "name:bre_x_preferred":[
         "Uachtar Ard"
     ],
@@ -32,22 +29,13 @@
     "name:deu_x_preferred":[
         "Oughterard"
     ],
-    "name:dut_x_preferred":[
-        "Oughterard"
-    ],
     "name:eng_x_preferred":[
         "Oughterard"
     ],
     "name:eus_x_preferred":[
         "Oughterard"
     ],
-    "name:fre_x_preferred":[
-        "Oughterard"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e2\u10d4\u10e0\u10d0\u10e0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oughterard"
     ],
     "name:gle_x_preferred":[
@@ -140,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379341,
+    "wof:lastmodified":1561759860,
     "wof:name":"Oughterard",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -17,28 +17,19 @@
     "mps:longitude":-7.766663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballymahon"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043c\u0430\u0445\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5229\u99ac\u6d2a"
-    ],
     "name:deu_x_preferred":[
-        "Ballymahon"
-    ],
-    "name:dut_x_preferred":[
         "Ballymahon"
     ],
     "name:eng_x_preferred":[
         "Ballymahon"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ballymahon"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballymahon"
     ],
     "name:gle_x_preferred":[
@@ -47,11 +38,17 @@
     "name:ita_x_preferred":[
         "Ballymahon"
     ],
+    "name:nld_x_preferred":[
+        "Ballymahon"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043c\u0430\u0445\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Ballymahon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5229\u99ac\u6d2a"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Longford",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642757,
+    "wof:lastmodified":1561759865,
     "wof:name":"Ballymahon",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

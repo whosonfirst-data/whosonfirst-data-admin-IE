@@ -36,9 +36,6 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Longford"
     ],
-    "name:baq_x_preferred":[
-        "Longfordeko konderria"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b2\u0982\u09ab\u09cb\u09b0\u09cd\u09a1"
     ],
@@ -51,17 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat de Longford"
     ],
-    "name:chi_x_preferred":[
-        "\u6717\u798f\u5fb7\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Longford"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Longfoirt"
     ],
     "name:dan_x_preferred":[
         "County Longford"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "County Longford"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03cc\u03bd\u03b3\u03ba\u03c6\u03bf\u03c1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Longford"
@@ -73,17 +73,17 @@
     "name:epo_x_preferred":[
         "Graflando Longford"
     ],
+    "name:eus_x_preferred":[
+        "Longfordeko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u0627\u0646\u06af\u0641\u0648\u0631\u062f"
+    ],
     "name:fin_x_preferred":[
         "Longfordin kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Longford"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10dc\u10d2\u10e4\u10dd\u10e0\u10d3\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "County Longford"
     ],
     "name:gla_x_preferred":[
         "Contae an Longfoirt"
@@ -96,9 +96,6 @@
     ],
     "name:glv_x_preferred":[
         "Coontae yn Lhongfort"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03cc\u03bd\u03b3\u03ba\u03c6\u03bf\u03c1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0ab2\u0acb\u0a82\u0a97\u0aab\u0acb\u0ab0\u0acd\u0aa1"
@@ -124,6 +121,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb2\u0cbe\u0c82\u0c97\u0ccd\u0cab\u0ccb\u0cb0\u0ccd\u0ca1\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10dc\u10d2\u10e4\u10dd\u10e0\u10d3\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ub871\ud37c\ub4dc \uc8fc"
     ],
@@ -136,13 +136,16 @@
     "name:lit_x_preferred":[
         "Longfordo grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u043e\u043d\u0433\u0444\u043e\u0440\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0932\u0949\u0902\u0917\u092b\u094b\u0930\u094d\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u043d\u0433\u0444\u043e\u0440\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "County Longford"
+    ],
+    "name:nld_x_preferred":[
         "County Longford"
     ],
     "name:nno_x_preferred":[
@@ -150,9 +153,6 @@
     ],
     "name:nob_x_preferred":[
         "Longford"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u0627\u0646\u06af\u0641\u0648\u0631\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0627\u0646\u06af\u0641\u0648\u0631\u0688"
@@ -163,7 +163,7 @@
     "name:por_x_preferred":[
         "Condado de Longford"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Longford"
     ],
     "name:rus_x_preferred":[
@@ -175,7 +175,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0ddd\u0db1\u0dca\u0d9c\u0dca\u0dc6\u0dbb\u0dca\u0da9\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Longford"
     ],
     "name:slv_x_preferred":[
@@ -220,8 +220,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Longford"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Longfoirt"
+    "name:zho_x_preferred":[
+        "\u6717\u798f\u5fb7\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -336,7 +336,7 @@
         }
     ],
     "wof:id":85685091,
-    "wof:lastmodified":1560987998,
+    "wof:lastmodified":1561759724,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -19,16 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Kildalkey"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0434\u0430\u043b\u043a\u0435\u0439"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kildalkey"
     ],
-    "name:eng_x_preferred":[
+    "name:eus_x_preferred":[
         "Kildalkey"
     ],
     "name:gle_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:glv_x_preferred":[
         "Cill Dealga"
+    ],
+    "name:nld_x_preferred":[
+        "Kildalkey"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0434\u0430\u043b\u043a\u0438"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125805837,
-    "wof:lastmodified":1514450538,
+    "wof:lastmodified":1561759885,
     "wof:name":"Kildalkey",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

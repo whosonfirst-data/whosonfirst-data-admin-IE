@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1005693.436657,
+    "geom:area_square_m":1005693.436656,
     "geom:bbox":"-8.49655036076,54.1750680003,-8.47830459825,54.1878085805",
     "geom:latitude":54.18157,
     "geom:longitude":-8.487542,
@@ -17,23 +17,17 @@
     "mps:longitude":-8.488454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Collooney"
-    ],
     "name:cat_x_preferred":[
-        "Collooney"
-    ],
-    "name:dut_x_preferred":[
         "Collooney"
     ],
     "name:eng_x_preferred":[
         "Collooney"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Collooney"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10e3\u10dc\u10d8"
+    "name:fra_x_preferred":[
+        "Collooney"
     ],
     "name:gle_x_preferred":[
         "C\u00fail Mhuine"
@@ -110,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642967,
+    "wof:lastmodified":1561759870,
     "wof:name":"Collooney",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

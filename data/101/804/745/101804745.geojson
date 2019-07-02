@@ -17,16 +17,10 @@
     "mps:longitude":-7.183448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Portarlington"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u0440\u043b\u0438\u043d\u0433\u0442\u044a\u043d"
     ],
     "name:dan_x_preferred":[
-        "Portarlington"
-    ],
-    "name:dut_x_preferred":[
         "Portarlington"
     ],
     "name:eng_x_preferred":[
@@ -36,9 +30,6 @@
         "Portarlington"
     ],
     "name:fra_x_preferred":[
-        "Portarlington"
-    ],
-    "name:fre_x_preferred":[
         "Portarlington"
     ],
     "name:gle_x_preferred":[
@@ -63,9 +54,6 @@
         "\u041f\u043e\u0440\u0442\u0430\u0440\u043b\u0438\u043d\u0433\u0442\u043e\u043d"
     ],
     "name:slk_x_preferred":[
-        "Portarlington"
-    ],
-    "name:slo_x_preferred":[
         "Portarlington"
     ],
     "name:spa_x_preferred":[
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":101804745,
-    "wof:lastmodified":1527642758,
+    "wof:lastmodified":1561759866,
     "wof:name":"Portarlington",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

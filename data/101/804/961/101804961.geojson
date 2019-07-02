@@ -20,9 +20,6 @@
     "mps:longitude":-8.221691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Portumna"
-    ],
     "name:bre_x_preferred":[
         "Port Omna"
     ],
@@ -32,9 +29,6 @@
     "name:deu_x_preferred":[
         "Portumna"
     ],
-    "name:dut_x_preferred":[
-        "Portumna"
-    ],
     "name:eng_x_preferred":[
         "Portumna"
     ],
@@ -42,15 +36,6 @@
         "Portumna"
     ],
     "name:fra_x_preferred":[
-        "Portumna"
-    ],
-    "name:fre_x_preferred":[
-        "Portumna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10e2\u10d0\u10db\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Portumna"
     ],
     "name:gle_x_preferred":[
@@ -144,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379340,
+    "wof:lastmodified":1561759863,
     "wof:name":"Portumna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

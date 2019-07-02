@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001518,
-    "geom:area_square_m":11385153.329417,
+    "geom:area_square_m":11385153.329415,
     "geom:bbox":"-7.27714875171,52.6310478221,-7.20865126285,52.6798785328",
     "geom:latitude":52.655486,
     "geom:longitude":-7.24768,
@@ -21,9 +21,6 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0643\u064a\u0646\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Kilkenny"
-    ],
     "name:bre_x_preferred":[
         "Cill Chainnigh"
     ],
@@ -33,10 +30,10 @@
     "name:cat_x_preferred":[
         "Kilkenny"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5c14\u80af\u5c3c"
+    "name:ces_x_preferred":[
+        "Kilkenny"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Kilkenny"
     ],
     "name:dan_x_preferred":[
@@ -45,11 +42,14 @@
     "name:deu_x_preferred":[
         "Kilkenny"
     ],
-    "name:dut_x_preferred":[
-        "Kilkenny"
-    ],
     "name:eng_x_preferred":[
         "Kilkenny"
+    ],
+    "name:eus_x_preferred":[
+        "Kilkenny"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0644\u06a9\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kilkenny"
@@ -57,16 +57,7 @@
     "name:fra_x_preferred":[
         "Kilkenny"
     ],
-    "name:fre_x_preferred":[
-        "Kilkenny"
-    ],
     "name:fry_x_preferred":[
-        "Kilkenny"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10da\u10d9\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kilkenny"
     ],
     "name:gle_x_preferred":[
@@ -92,6 +83,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30b1\u30cb\u30fc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d9\u10d4\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0438\u043b\u043a\u0435\u043d\u043d\u0438"
@@ -123,9 +117,6 @@
     "name:oci_x_preferred":[
         "Kilkenny"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0644\u06a9\u0646\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Kilkenny"
     ],
@@ -138,7 +129,7 @@
     "name:sco_x_preferred":[
         "Kilkenny"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kilkenny"
     ],
     "name:slv_x_preferred":[
@@ -171,8 +162,8 @@
     "name:vol_x_preferred":[
         "Cill Chainnigh"
     ],
-    "name:wel_x_preferred":[
-        "Kilkenny"
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u80af\u5c3c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ireland",
@@ -317,7 +308,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815515,
+    "wof:lastmodified":1561759868,
     "wof:name":"Kilkenny",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

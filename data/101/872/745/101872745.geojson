@@ -20,9 +20,6 @@
     "name:cat_x_preferred":[
         "Kilmacanogue"
     ],
-    "name:dut_x_preferred":[
-        "Kilmacanogue"
-    ],
     "name:eng_x_preferred":[
         "Kilmacanoge"
     ],
@@ -81,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544751294,
+    "wof:lastmodified":1561759859,
     "wof:name":"Kilmacanoge",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

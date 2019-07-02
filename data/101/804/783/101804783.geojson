@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001165,
-    "geom:area_square_m":8634978.180988,
+    "geom:area_square_m":8634978.180986,
     "geom:bbox":"-6.82274408714,53.1491450769,-6.7704886675,53.19653587",
     "geom:latitude":53.175543,
     "geom:longitude":-6.79799,
@@ -17,17 +17,11 @@
     "mps:longitude":-6.799884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Newbridge"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u044e\u0431\u0440\u0438\u0434\u0436"
     ],
     "name:cat_x_preferred":[
         "Newbridge"
-    ],
-    "name:chi_x_preferred":[
-        "\u7d10\u5e03\u91cc\u5947"
     ],
     "name:dan_x_preferred":[
         "Newbridge"
@@ -35,8 +29,8 @@
     "name:deu_x_preferred":[
         "Newbridge"
     ],
-    "name:dut_x_preferred":[
-        "Newbridge"
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bf\u03cd\u03bc\u03c0\u03c1\u03b9\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Newbridge"
@@ -47,20 +41,8 @@
     "name:fra_x_preferred":[
         "Newbridge"
     ],
-    "name:fre_x_preferred":[
-        "Newbridge"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e0\u10d8\u10f0\u10d0\u10d3-\u10dc\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Newbridge"
-    ],
     "name:gle_x_preferred":[
         "Droichead Nua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b9\u03bf\u03cd\u03bc\u03c0\u03c1\u03b9\u03c4\u03b6"
     ],
     "name:ind_x_preferred":[
         "Newbridge"
@@ -99,9 +81,6 @@
         "\u0414\u0440\u0438\u0445\u0430\u0434-\u041d\u0443\u0430"
     ],
     "name:slk_x_preferred":[
-        "Newbridge"
-    ],
-    "name:slo_x_preferred":[
         "Newbridge"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +149,7 @@
         }
     ],
     "wof:id":101804783,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759862,
     "wof:name":"Newbridge",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

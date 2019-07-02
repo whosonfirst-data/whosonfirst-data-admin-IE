@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":916069.502315,
+    "geom:area_square_m":916069.502316,
     "geom:bbox":"-8.52128703719,54.2050040545,-8.49995806173,54.2171063265",
     "geom:latitude":54.210898,
     "geom:longitude":-8.510404,
@@ -16,20 +16,14 @@
     "mps:longitude":-8.51202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballysadare"
-    ],
-    "name:dut_x_preferred":[
-        "Ballysadare"
-    ],
     "name:eng_x_preferred":[
         "Ballysadare"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ballysadare"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10e1\u10d0\u10d3\u10d0\u10e0\u10d8"
+    "name:fra_x_preferred":[
+        "Ballysadare"
     ],
     "name:gle_x_preferred":[
         "Baile Easa Dara"
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101805027,
-    "wof:lastmodified":1527642966,
+    "wof:lastmodified":1561759870,
     "wof:name":"Ballysadare",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

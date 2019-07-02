@@ -36,9 +36,6 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Monaghan"
     ],
-    "name:baq_x_preferred":[
-        "Monaghaneko konderria"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09ae\u09cb\u09a8\u09be\u0998\u09be\u09a8"
     ],
@@ -51,17 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat de Monaghan"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7eb3\u4ea8\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Monaghan"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Monaghan"
     ],
     "name:dan_x_preferred":[
         "County Monaghan"
     ],
-    "name:dut_x_preferred":[
-        "County Monaghan"
+    "name:deu_x_preferred":[
+        "Monaghan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039c\u03cc\u03bd\u03b1\u03c7\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Monaghan"
@@ -72,17 +72,17 @@
     "name:est_x_preferred":[
         "Monaghani krahvkond"
     ],
+    "name:eus_x_preferred":[
+        "Monaghaneko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0647\u0646"
+    ],
     "name:fin_x_preferred":[
         "Monaghanin kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Monaghan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10d0\u10f0\u10d0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Monaghan"
     ],
     "name:gla_x_preferred":[
         "Contae Mhuineach\u00e1in"
@@ -95,9 +95,6 @@
     ],
     "name:glv_x_preferred":[
         "Coontae Vuinaghan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039c\u03cc\u03bd\u03b1\u03c7\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0aae\u0acb\u0aa8\u0abe\u0a98\u0aa8"
@@ -123,6 +120,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cae\u0cca\u0ca8\u0cbe\u0c98\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10d0\u10f0\u10d0\u10dc\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\ub098\ud55c \uc8fc"
     ],
@@ -135,13 +135,16 @@
     "name:lit_x_preferred":[
         "Monachano grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u043e\u043d\u0430\u0445\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u092e\u094b\u0928\u093e\u0918\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0445\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "County Monaghan"
+    ],
+    "name:nld_x_preferred":[
         "County Monaghan"
     ],
     "name:nno_x_preferred":[
@@ -149,9 +152,6 @@
     ],
     "name:nob_x_preferred":[
         "Monaghan"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0646\u0647\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u0627\u06af\u0627\u0646"
@@ -165,7 +165,7 @@
     "name:que_x_preferred":[
         "Contae Mhuineach\u00e1in"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Monaghan"
     ],
     "name:rus_x_preferred":[
@@ -177,7 +177,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0db1\u0d9c\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Monaghan"
     ],
     "name:spa_x_preferred":[
@@ -219,8 +219,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Monaghan"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Monaghan"
+    "name:zho_x_preferred":[
+        "\u83ab\u7eb3\u4ea8\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -334,7 +334,7 @@
         }
     ],
     "wof:id":85685117,
-    "wof:lastmodified":1560988040,
+    "wof:lastmodified":1561759767,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

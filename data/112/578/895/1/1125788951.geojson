@@ -22,16 +22,13 @@
     "name:dan_x_preferred":[
         "Emo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Emo"
     ],
     "name:eng_x_preferred":[
         "Emo"
     ],
-    "name:fre_x_preferred":[
-        "Emo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Emo"
     ],
     "name:gle_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:lit_x_preferred":[
         "Imas"
+    ],
+    "name:nld_x_preferred":[
+        "Emo"
     ],
     "name:pol_x_preferred":[
         "Emo"
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125788951,
-    "wof:lastmodified":1514450499,
+    "wof:lastmodified":1561759892,
     "wof:name":"Emo",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

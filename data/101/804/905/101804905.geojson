@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":388357.884538,
+    "geom:area_square_m":388357.884539,
     "geom:bbox":"-6.55191386862,53.9462797973,-6.53667988355,53.9545302878",
     "geom:latitude":53.950199,
     "geom:longitude":-6.543038,
@@ -17,17 +17,14 @@
     "mps:longitude":-6.541884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Louth"
-    ],
-    "name:dut_x_preferred":[
-        "Louth"
-    ],
     "name:eng_x_preferred":[
         "Louth"
     ],
     "name:eng_x_variant":[
         "Lubhaidh"
+    ],
+    "name:eus_x_preferred":[
+        "Louth"
     ],
     "name:gle_x_preferred":[
         "L\u00fa"
@@ -37,6 +34,9 @@
     ],
     "name:lit_x_preferred":[
         "Lutas"
+    ],
+    "name:nld_x_preferred":[
+        "Louth"
     ],
     "name:pol_x_preferred":[
         "Louth"
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759863,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

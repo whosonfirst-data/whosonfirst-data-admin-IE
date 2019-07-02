@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000234,
-    "geom:area_square_m":1702808.354972,
+    "geom:area_square_m":1702808.354971,
     "geom:bbox":"-8.9609701664,53.9302262995,-8.93343211705,53.9476241935",
     "geom:latitude":53.939533,
     "geom:longitude":-8.95011,
@@ -17,16 +17,10 @@
     "mps:longitude":-8.95011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Swinford"
-    ],
     "name:bre_x_preferred":[
         "B\u00e9al \u00c1tha na Muice"
     ],
     "name:deu_x_preferred":[
-        "Swinford"
-    ],
-    "name:dut_x_preferred":[
         "Swinford"
     ],
     "name:eng_x_preferred":[
@@ -35,16 +29,10 @@
     "name:eng_x_variant":[
         "Swinford"
     ],
+    "name:eus_x_preferred":[
+        "Swinford"
+    ],
     "name:fra_x_preferred":[
-        "Swinford"
-    ],
-    "name:fre_x_preferred":[
-        "Swinford"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d5\u10d8\u10dc\u10e4\u10dd\u10e0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Swinford"
     ],
     "name:gla_x_preferred":[
@@ -125,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759867,
     "wof:name":"Swinford",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

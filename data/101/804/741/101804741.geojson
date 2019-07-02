@@ -23,13 +23,10 @@
     "name:cat_x_preferred":[
         "Dunlavin"
     ],
-    "name:dut_x_preferred":[
-        "Dunlavin"
-    ],
     "name:eng_x_preferred":[
         "Dunlavin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dunlavin"
     ],
     "name:gle_x_preferred":[
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642750,
+    "wof:lastmodified":1561759862,
     "wof:name":"Dunlavin",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

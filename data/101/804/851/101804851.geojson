@@ -23,13 +23,10 @@
     "name:dan_x_preferred":[
         "Lusk"
     ],
-    "name:dut_x_preferred":[
-        "Lusk"
-    ],
     "name:eng_x_preferred":[
         "Lusk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lusk"
     ],
     "name:gle_x_preferred":[
@@ -40,6 +37,9 @@
     ],
     "name:lit_x_preferred":[
         "Luskas"
+    ],
+    "name:nld_x_preferred":[
+        "Lusk"
     ],
     "name:pol_x_preferred":[
         "Lusk"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101804851,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759861,
     "wof:name":"Lusk",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

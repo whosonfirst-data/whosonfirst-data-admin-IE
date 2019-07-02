@@ -17,9 +17,6 @@
     "mps:longitude":-8.821343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gort"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0442"
     ],
@@ -29,9 +26,6 @@
     "name:deu_x_preferred":[
         "Gort"
     ],
-    "name:dut_x_preferred":[
-        "Gort"
-    ],
     "name:eng_x_preferred":[
         "Gort"
     ],
@@ -39,15 +33,6 @@
         "Gort"
     ],
     "name:fra_x_preferred":[
-        "Gort"
-    ],
-    "name:fre_x_preferred":[
-        "Gort"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Gort"
     ],
     "name:gle_x_preferred":[
@@ -70,6 +55,9 @@
     ],
     "name:lit_x_preferred":[
         "Gortas"
+    ],
+    "name:nld_x_preferred":[
+        "Gort"
     ],
     "name:pol_x_preferred":[
         "Gort"
@@ -128,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759862,
     "wof:name":"Gort",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

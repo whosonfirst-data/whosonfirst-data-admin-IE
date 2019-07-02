@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":388444.566723,
+    "geom:area_square_m":388444.566722,
     "geom:bbox":"-9.15505236594,53.1115133123,-9.14175789523,53.1203725034",
     "geom:latitude":53.115672,
     "geom:longitude":-9.149121,
@@ -17,13 +17,7 @@
     "mps:longitude":-9.149776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ballyvaughan"
-    ],
     "name:deu_x_preferred":[
-        "Ballyvaughan"
-    ],
-    "name:dut_x_preferred":[
         "Ballyvaughan"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +26,7 @@
     "name:eus_x_preferred":[
         "Ballyvaughan"
     ],
-    "name:fre_x_preferred":[
-        "Ballyvaughan"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballyvaughan"
     ],
     "name:gle_x_preferred":[
@@ -90,7 +81,7 @@
         }
     ],
     "wof:id":101804801,
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759865,
     "wof:name":"Ballyvaughan",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

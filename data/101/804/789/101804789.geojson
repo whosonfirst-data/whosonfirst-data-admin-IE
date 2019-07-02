@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3435983.170985,
+    "geom:area_square_m":3435983.170984,
     "geom:bbox":"-6.70884804725,53.2721358313,-6.67341559803,53.304981898",
     "geom:latitude":53.290588,
     "geom:longitude":-6.687757,
@@ -29,9 +29,6 @@
     "name:deu_x_preferred":[
         "Clane"
     ],
-    "name:dut_x_preferred":[
-        "Clane"
-    ],
     "name:eng_x_preferred":[
         "Clane"
     ],
@@ -39,12 +36,6 @@
         "Clane"
     ],
     "name:fra_x_preferred":[
-        "Clane"
-    ],
-    "name:fre_x_preferred":[
-        "Clane"
-    ],
-    "name:ger_x_preferred":[
         "Clane"
     ],
     "name:gle_x_preferred":[
@@ -66,9 +57,6 @@
         "\u041a\u043b\u0435\u0439\u043d"
     ],
     "name:slk_x_preferred":[
-        "Clane"
-    ],
-    "name:slo_x_preferred":[
         "Clane"
     ],
     "name:swe_x_preferred":[
@@ -122,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642758,
+    "wof:lastmodified":1561759866,
     "wof:name":"Clane",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

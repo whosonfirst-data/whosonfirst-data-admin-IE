@@ -36,9 +36,6 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u d'Offaly"
     ],
-    "name:baq_x_preferred":[
-        "Offalyko konderria"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0993\u09ab\u09cd\u09af\u09be\u09b2\u09bf"
     ],
@@ -51,17 +48,20 @@
     "name:cat_x_preferred":[
         "Comtat d'Offaly"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u6cd5\u5229\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Offaly"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Offaly"
     ],
     "name:dan_x_preferred":[
         "County Offaly"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "County Offaly"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u038c\u03c6\u03b1\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Offaly"
@@ -72,17 +72,17 @@
     "name:epo_x_preferred":[
         "Graflando Offaly"
     ],
+    "name:eus_x_preferred":[
+        "Offalyko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Offalyn kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 d'Offaly"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e4\u10d0\u10da\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "County Offaly"
     ],
     "name:gla_x_preferred":[
         "Contae U\u00edbh Fhail\u00ed"
@@ -95,9 +95,6 @@
     ],
     "name:glv_x_preferred":[
         "Coontae U\u00edbh Fhail\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u038c\u03c6\u03b1\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0a93\u0aab\u0ac7\u0ab2\u0ac0"
@@ -120,6 +117,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c86\u0cab\u0cb2\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e4\u10d0\u10da\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ud384\ub9ac \uc8fc"
     ],
@@ -132,13 +132,16 @@
     "name:lit_x_preferred":[
         "Ofalio grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0444\u0430\u043b\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0911\u092b\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041e\u0444\u0430\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "County Offaly"
+    ],
+    "name:nld_x_preferred":[
         "County Offaly"
     ],
     "name:nno_x_preferred":[
@@ -146,9 +149,6 @@
     ],
     "name:nob_x_preferred":[
         "Offaly"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0641\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u0641\u0627\u0644\u06d2"
@@ -159,7 +159,7 @@
     "name:por_x_preferred":[
         "Condado de Offaly"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Offaly"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +171,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0dc6\u0dbd\u0dda \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Offaly"
     ],
     "name:slv_x_preferred":[
@@ -216,8 +216,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Offaly"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Offaly"
+    "name:zho_x_preferred":[
+        "\u5967\u6cd5\u5229\u90e1"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRL",
@@ -331,7 +331,7 @@
         }
     ],
     "wof:id":85685041,
-    "wof:lastmodified":1560988015,
+    "wof:lastmodified":1561759742,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -33,14 +33,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0645\u0631\u064a\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0565\u0580\u056b\u056f"
-    ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Limerick"
-    ],
-    "name:baq_x_preferred":[
-        "Limerickeko konderria"
     ],
     "name:bel_x_preferred":[
         "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041b\u0456\u043c\u0435\u0440\u044b\u043a"
@@ -57,17 +51,20 @@
     "name:cat_x_preferred":[
         "Comtat de Limerick"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u9ed8\u91cc\u514b\u90e1"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Hrabstv\u00ed Limerick"
+    ],
+    "name:cym_x_preferred":[
+        "Swydd Limerick"
     ],
     "name:dan_x_preferred":[
         "County Limerick"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "County Limerick"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03af\u03bc\u03b5\u03c1\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Limerick"
@@ -78,17 +75,17 @@
     "name:est_x_preferred":[
         "Limericki krahvkond"
     ],
+    "name:eus_x_preferred":[
+        "Limerickeko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u06cc\u0645\u0631\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Limerickin kreivikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "comt\u00e9 de Limerick"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d4\u10e0\u10d8\u10d9\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "County Limerick"
     ],
     "name:gla_x_preferred":[
         "Contae Luimnigh"
@@ -102,9 +99,6 @@
     "name:glv_x_preferred":[
         "Coontae Limmeragh"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03af\u03bc\u03b5\u03c1\u03b9\u03ba"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0ab2\u0abf\u0aae\u0ab0\u0abf\u0a95"
     ],
@@ -116,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Limerick megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0574\u0565\u0580\u056b\u056f"
     ],
     "name:ind_x_preferred":[
         "County Limerick"
@@ -129,6 +126,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb2\u0cbf\u0cae\u0cb0\u0cbf\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10db\u10d4\u10e0\u10d8\u10d9\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\uba38\ub9ad \uc8fc"
     ],
@@ -141,13 +141,16 @@
     "name:lit_x_preferred":[
         "Limeriko grafyst\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0435\u0440\u0438\u043a"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0932\u093f\u092e\u0930\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043c\u0435\u0440\u0438\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "County Limerick"
+    ],
+    "name:nld_x_preferred":[
         "County Limerick"
     ],
     "name:nno_x_preferred":[
@@ -155,9 +158,6 @@
     ],
     "name:nob_x_preferred":[
         "Limerick"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u06cc\u0645\u0631\u06cc\u06a9"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0645\u0631\u06a9"
@@ -168,7 +168,7 @@
     "name:por_x_preferred":[
         "Condado de Limerick"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comitatul Limerick"
     ],
     "name:rus_x_preferred":[
@@ -180,7 +180,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db8\u0dd2\u0dbb\u0dd9\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Limerick"
     ],
     "name:spa_x_preferred":[
@@ -219,8 +219,8 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Limerick"
     ],
-    "name:wel_x_preferred":[
-        "Swydd Limerick"
+    "name:zho_x_preferred":[
+        "\u5229\u9ed8\u91cc\u514b\u90e1"
     ],
     "qs:a0":"Ireland",
     "qs:a0_lc":"IE0000000000",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":85684987,
-    "wof:lastmodified":1560988049,
+    "wof:lastmodified":1561759780,
     "wof:name":"Limerick",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

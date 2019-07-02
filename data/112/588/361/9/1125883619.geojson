@@ -21,9 +21,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Ballinrobe"
-    ],
     "name:bre_x_preferred":[
         "Baile an R\u00f3ba"
     ],
@@ -33,19 +30,16 @@
     "name:dan_x_preferred":[
         "Ballinrobe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ballinrobe"
     ],
     "name:eng_x_preferred":[
         "Ballinrobe"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ballinrobe"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10da\u10d8\u10dc\u10e0\u10dd\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ballinrobe"
     ],
     "name:gla_x_preferred":[
@@ -59,6 +53,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10da\u10d8\u10dc\u10e0\u10dd\u10d1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ballinrobe"
     ],
     "name:pol_x_preferred":[
         "Ballinrobe"
@@ -120,7 +117,7 @@
         }
     ],
     "wof:id":1125883619,
-    "wof:lastmodified":1534379341,
+    "wof:lastmodified":1561759883,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

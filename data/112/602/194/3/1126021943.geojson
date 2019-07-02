@@ -21,17 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Doon"
-    ],
-    "name:dut_x_preferred":[
-        "Doon"
-    ],
     "name:eng_x_preferred":[
+        "Doon"
+    ],
+    "name:eus_x_preferred":[
         "Doon"
     ],
     "name:gle_x_preferred":[
         "D\u00fan"
+    ],
+    "name:nld_x_preferred":[
+        "Doon"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043d"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1126021943,
-    "wof:lastmodified":1553816706,
+    "wof:lastmodified":1561759879,
     "wof:name":"Doon",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

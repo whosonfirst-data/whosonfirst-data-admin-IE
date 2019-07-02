@@ -17,9 +17,6 @@
     "mps:longitude":-7.1072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kinnegad"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0435\u0433\u0430\u0434"
     ],
@@ -29,19 +26,13 @@
     "name:deu_x_preferred":[
         "Kinnegad"
     ],
-    "name:dut_x_preferred":[
-        "Kinnegad"
-    ],
     "name:eng_x_preferred":[
         "Kinnegad"
     ],
+    "name:eus_x_preferred":[
+        "Kinnegad"
+    ],
     "name:fra_x_preferred":[
-        "Kinnegad"
-    ],
-    "name:fre_x_preferred":[
-        "Kinnegad"
-    ],
-    "name:ger_x_preferred":[
         "Kinnegad"
     ],
     "name:gle_x_preferred":[
@@ -125,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642747,
+    "wof:lastmodified":1561759861,
     "wof:name":"Kinnegad",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

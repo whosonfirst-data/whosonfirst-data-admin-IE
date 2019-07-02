@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":597473.244711,
+    "geom:area_square_m":597473.244712,
     "geom:bbox":"-6.98180463845,53.9093337664,-6.9663264872,53.9226255007",
     "geom:latitude":53.91667,
     "geom:longitude":-6.972862,
@@ -17,28 +17,19 @@
     "mps:longitude":-6.9721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Bailieborough"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0438\u043b\u0438\u0435\u0431\u043e\u0440\u043e\u0443\u0433\u0445"
     ],
     "name:deu_x_preferred":[
         "Bailieborough"
     ],
-    "name:dut_x_preferred":[
-        "Bailieborough"
-    ],
     "name:eng_x_preferred":[
         "Bailieborough"
     ],
+    "name:eus_x_preferred":[
+        "Bailieborough"
+    ],
     "name:fra_x_preferred":[
-        "Bailieborough"
-    ],
-    "name:fre_x_preferred":[
-        "Bailieborough"
-    ],
-    "name:ger_x_preferred":[
         "Bailieborough"
     ],
     "name:gla_x_preferred":[
@@ -56,6 +47,9 @@
     "name:lit_x_preferred":[
         "Beiliboras"
     ],
+    "name:nld_x_preferred":[
+        "Bailieborough"
+    ],
     "name:pol_x_preferred":[
         "Bailieborough"
     ],
@@ -63,9 +57,6 @@
         "\u0411\u0435\u0439\u043b\u0438\u0431\u043e\u0440\u043e"
     ],
     "name:slk_x_preferred":[
-        "Bailieborough"
-    ],
-    "name:slo_x_preferred":[
         "Bailieborough"
     ],
     "name:swe_x_preferred":[
@@ -120,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642751,
+    "wof:lastmodified":1561759863,
     "wof:name":"Bailieborough",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

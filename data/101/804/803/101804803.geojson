@@ -17,9 +17,6 @@
     "mps:longitude":-9.291955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ennistymon"
-    ],
     "name:bul_x_preferred":[
         "\u0415\u043d\u0438\u0441\u0442\u0438\u043c\u043e\u043d"
     ],
@@ -29,13 +26,7 @@
     "name:ces_x_preferred":[
         "Ennistimon"
     ],
-    "name:cze_x_preferred":[
-        "Ennistimon"
-    ],
     "name:deu_x_preferred":[
-        "Ennistymon"
-    ],
-    "name:dut_x_preferred":[
         "Ennistymon"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "Ennistymon"
     ],
     "name:fra_x_preferred":[
-        "Ennistymon"
-    ],
-    "name:fre_x_preferred":[
-        "Ennistymon"
-    ],
-    "name:ger_x_preferred":[
         "Ennistymon"
     ],
     "name:gle_x_preferred":[
@@ -131,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642747,
+    "wof:lastmodified":1561759861,
     "wof:name":"Ennistimon",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

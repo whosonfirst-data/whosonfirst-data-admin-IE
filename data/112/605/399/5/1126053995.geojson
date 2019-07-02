@@ -21,25 +21,25 @@
     "name:bre_x_preferred":[
         "Cluain Fearta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Clonfert"
     ],
     "name:eng_x_preferred":[
         "Clonfert"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Clonfert"
     ],
     "name:fry_x_preferred":[
-        "Clonfert"
-    ],
-    "name:ger_x_preferred":[
         "Clonfert"
     ],
     "name:gle_x_preferred":[
         "Cluain Fearta"
     ],
     "name:ita_x_preferred":[
+        "Clonfert"
+    ],
+    "name:nld_x_preferred":[
         "Clonfert"
     ],
     "name:pol_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1126053995,
-    "wof:lastmodified":1514450456,
+    "wof:lastmodified":1561759879,
     "wof:name":"Clonfert",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

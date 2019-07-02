@@ -18,23 +18,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Blennerville"
-    ],
     "name:bre_x_preferred":[
         "Cathair U\u00ed Mh\u00f3r\u00e1in"
-    ],
-    "name:dut_x_preferred":[
-        "Blennerville"
     ],
     "name:eng_x_preferred":[
         "Blennerville"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Blennerville"
+    ],
+    "name:fra_x_preferred":[
         "Blennerville"
     ],
     "name:gle_x_preferred":[
         "Cathair U\u00ed Mh\u00f3r\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Blennerville"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125932001,
-    "wof:lastmodified":1514450426,
+    "wof:lastmodified":1561759876,
     "wof:name":"Blennerville",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

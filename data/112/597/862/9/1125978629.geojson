@@ -18,14 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Ballycroy"
-    ],
     "name:eng_x_preferred":[
         "Ballycroy"
     ],
     "name:gle_x_preferred":[
         "Baile Chruaich"
+    ],
+    "name:nld_x_preferred":[
+        "Ballycroy"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125978629,
-    "wof:lastmodified":1514450418,
+    "wof:lastmodified":1561759887,
     "wof:name":"Ballycroy",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

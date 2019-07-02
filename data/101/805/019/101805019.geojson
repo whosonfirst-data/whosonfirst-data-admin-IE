@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001413,
-    "geom:area_square_m":10206095.707184,
+    "geom:area_square_m":10206095.707182,
     "geom:bbox":"-8.51654013321,54.2486525206,-8.44294353537,54.2877427954",
     "geom:latitude":54.270516,
     "geom:longitude":-8.47558,
@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u062c\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Sligo"
-    ],
     "name:bre_x_preferred":[
         "Sligeach"
     ],
@@ -34,10 +31,10 @@
     "name:cat_x_preferred":[
         "Sligo"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u83b1\u6208"
+    "name:ces_x_preferred":[
+        "Sligo"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Sligo"
     ],
     "name:dan_x_preferred":[
@@ -46,8 +43,8 @@
     "name:deu_x_preferred":[
         "Sligo"
     ],
-    "name:dut_x_preferred":[
-        "Sligo"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03ac\u03b9\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sligo"
@@ -58,6 +55,9 @@
     "name:est_x_preferred":[
         "Sligo"
     ],
+    "name:eus_x_preferred":[
+        "Sligo"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0644\u0627\u06cc\u06af\u0648"
     ],
@@ -65,15 +65,6 @@
         "Sligo"
     ],
     "name:fra_x_preferred":[
-        "Sligo"
-    ],
-    "name:fre_x_preferred":[
-        "Sligo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10da\u10d0\u10d8\u10d2\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Sligo"
     ],
     "name:gla_x_preferred":[
@@ -87,9 +78,6 @@
     ],
     "name:glv_x_preferred":[
         "Shliggagh"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bb\u03ac\u03b9\u03b3\u03ba\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d9\u05d9\u05d2\u05d5"
@@ -106,13 +94,16 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30e9\u30a4\u30b4"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10da\u10d0\u10d8\u10d2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc2ac\ub77c\uc774\uace0"
     ],
     "name:lit_x_preferred":[
         "Slaigo"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0458\u0433\u043e"
     ],
     "name:mlt_x_preferred":[
@@ -133,9 +124,6 @@
     "name:oss_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0644\u0627\u06cc\u06af\u0648"
-    ],
     "name:pol_x_preferred":[
         "Sligo"
     ],
@@ -145,7 +133,7 @@
     "name:rus_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sligo"
     ],
     "name:slv_x_preferred":[
@@ -169,8 +157,8 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
     ],
-    "name:wel_x_preferred":[
-        "Sligo"
+    "name:zho_x_preferred":[
+        "\u65af\u83b1\u6208"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ireland",
@@ -311,7 +299,7 @@
         }
     ],
     "wof:id":101805019,
-    "wof:lastmodified":1527642968,
+    "wof:lastmodified":1561759870,
     "wof:name":"Sligo",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

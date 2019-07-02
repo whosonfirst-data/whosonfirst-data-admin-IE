@@ -17,13 +17,7 @@
     "mps:longitude":-6.184799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Carlingford"
-    ],
-    "name:cze_x_preferred":[
-        "Carlingford"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Carlingford"
     ],
     "name:eng_x_preferred":[
@@ -35,11 +29,11 @@
     "name:fra_x_preferred":[
         "Carlingford"
     ],
-    "name:fre_x_preferred":[
-        "Carlingford"
-    ],
     "name:gle_x_preferred":[
         "Cairlinn"
+    ],
+    "name:nld_x_preferred":[
+        "Carlingford"
     ],
     "name:pol_x_preferred":[
         "Carlingford"
@@ -48,9 +42,6 @@
         "\u041a\u0430\u0440\u043b\u0438\u043d\u0433\u0444\u043e\u0440\u0434"
     ],
     "name:slk_x_preferred":[
-        "Carlingford"
-    ],
-    "name:slo_x_preferred":[
         "Carlingford"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561759863,
     "wof:name":"Carlingford",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",
