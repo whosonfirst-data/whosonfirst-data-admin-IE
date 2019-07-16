@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Ballydehob"
     ],
+    "name:ceb_x_preferred":[
+        "Ballydehob"
+    ],
     "name:deu_x_preferred":[
         "Ballydehob"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0434\u0435\u0445\u043e\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Ballydehob"
     ],
     "name:swe_x_preferred":[
         "Ballydehob"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1126011387,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313935,
     "wof:name":"Ballydehob",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

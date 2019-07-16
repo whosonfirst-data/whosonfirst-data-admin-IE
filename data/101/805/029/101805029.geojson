@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Collooney"
     ],
+    "name:ceb_x_preferred":[
+        "Collooney"
+    ],
     "name:eng_x_preferred":[
         "Collooney"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313561,
     "wof:name":"Collooney",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0442\u0440\u0435\u0439"
     ],
+    "name:spa_x_preferred":[
+        "Baltray"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125931963,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313661,
     "wof:name":"Baltray",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

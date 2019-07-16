@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Strokestown"
     ],
+    "name:ceb_x_preferred":[
+        "Strokestown"
+    ],
     "name:eng_x_preferred":[
         "Strokestown"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u043e\u043a\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Strokestown"
     ],
     "name:swe_x_preferred":[
         "Strokestown"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313512,
     "wof:name":"Strokestown",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

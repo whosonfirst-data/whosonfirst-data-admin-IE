@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cym_x_preferred":[
+        "Tuamgraney"
+    ],
     "name:eng_x_preferred":[
         "Tuamgraney"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125908125,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313870,
     "wof:name":"Tuamgraney",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

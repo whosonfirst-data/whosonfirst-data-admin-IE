@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0430\u0441\u043a\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Easky"
+    ],
     "name:eng_x_preferred":[
         "Easky"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Easky"
     ],
     "name:swe_x_preferred":[
         "Easky"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125916391,
-    "wof:lastmodified":1561759889,
+    "wof:lastmodified":1563313921,
     "wof:name":"Easkey",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

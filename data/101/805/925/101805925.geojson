@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Charleville"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00e1th Luirc"
+    ],
     "name:deu_x_preferred":[
         "Charleville"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Charleville"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30eb\u30eb\u30f4\u30a3\u30eb"
     ],
     "name:lit_x_preferred":[
         "\u010carlvil\u0117"
@@ -70,6 +76,9 @@
     ],
     "name:unk_x_variant":[
         "Charleville"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u52d2\u7ef4\u5c14"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
@@ -115,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313551,
     "wof:name":"Rathluirc",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

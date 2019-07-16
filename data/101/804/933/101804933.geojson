@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ballinasloe"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinasloe"
+    ],
     "name:dan_x_preferred":[
         "Ballinasloe"
     ],
@@ -83,6 +86,12 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0430\u0441\u043b\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Ballinasloe"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u0430\u0441\u043b\u043e"
+    ],
     "name:swe_x_preferred":[
         "Ballinasloe"
     ],
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":101804933,
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313497,
     "wof:name":"Ballinasloe",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

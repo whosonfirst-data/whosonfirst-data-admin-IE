@@ -40,6 +40,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u043c\u0435\u0439\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Castlemaine"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125903281,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313871,
     "wof:name":"Castlemaine",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

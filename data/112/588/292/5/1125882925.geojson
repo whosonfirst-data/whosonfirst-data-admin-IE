@@ -22,6 +22,12 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043a\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Roosky"
+    ],
+    "name:deu_x_preferred":[
+        "Roosky"
+    ],
     "name:eng_x_preferred":[
         "Roosky"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Roosky"
     ],
     "name:swe_x_preferred":[
         "Roosky"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125882925,
-    "wof:lastmodified":1561759883,
+    "wof:lastmodified":1563313777,
     "wof:name":"Roosky",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

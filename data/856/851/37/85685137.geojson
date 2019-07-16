@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Sligo"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0421\u043b\u0430\u0439\u0433\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b8\u09cd\u09b2\u09bf\u0997\u09cb"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Sligo"
+    ],
+    "name:ceb_x_preferred":[
+        "Sligo"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Sligo"
@@ -90,6 +96,9 @@
     "name:gle_x_preferred":[
         "Sligeach"
     ],
+    "name:gle_x_variant":[
+        "Contae Shligigh"
+    ],
     "name:glg_x_preferred":[
         "Condado de Sligo"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2ac\ub77c\uc774\uace0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2ac\ub77c\uc774\uace0\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Slegensis"
@@ -340,7 +352,7 @@
         }
     ],
     "wof:id":85685137,
-    "wof:lastmodified":1561759768,
+    "wof:lastmodified":1563312689,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

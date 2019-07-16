@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u043c\u043e\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Rathmore"
+    ],
     "name:deu_x_preferred":[
         "Rathmore"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313519,
     "wof:name":"Rathmore",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

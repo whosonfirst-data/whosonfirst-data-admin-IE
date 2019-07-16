@@ -20,6 +20,9 @@
     "name:bre_x_preferred":[
         "Cathair Saidhbh\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Cahersiveen"
+    ],
     "name:ces_x_preferred":[
         "Cahersiveen"
     ],
@@ -32,6 +35,9 @@
     "name:eng_x_preferred":[
         "Cahersiveen"
     ],
+    "name:epo_x_preferred":[
+        "Cathair Saidhbh\u00edn"
+    ],
     "name:eus_x_preferred":[
         "Cahersiveen"
     ],
@@ -41,8 +47,14 @@
     "name:gle_x_preferred":[
         "Cathair Saidhbh\u00edn"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d4\u05e8\u05e1\u05d9\u05d1\u05d9\u05df"
+    ],
     "name:ita_x_preferred":[
         "Cahersiveen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a2\u30b5\u30a4\u30d3\u30fc\u30f3"
     ],
     "name:lit_x_preferred":[
         "Kersivinas"
@@ -58,6 +70,9 @@
     ],
     "name:sco_x_preferred":[
         "Cathair Saidhbh\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "Cahirciveen"
     ],
     "name:swe_x_preferred":[
         "Cahersiveen"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":101806027,
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313603,
     "wof:name":"Cahersiveen",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

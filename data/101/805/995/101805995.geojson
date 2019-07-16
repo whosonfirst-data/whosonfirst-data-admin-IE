@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u0440\u0438\u043a\u0441\u0443\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Patrickswell"
+    ],
     "name:eng_x_preferred":[
         "Patrickswell"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u0440\u0438\u043a\u0441\u0443\u044d\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Patrickswell"
     ],
     "name:swe_x_preferred":[
         "Patrickswell"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101805995,
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313552,
     "wof:name":"Patrickswell",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

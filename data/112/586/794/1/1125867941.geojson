@@ -22,11 +22,17 @@
     "name:cat_x_preferred":[
         "Enniscrone"
     ],
+    "name:ceb_x_preferred":[
+        "Inishcrone"
+    ],
     "name:deu_x_preferred":[
         "Enniscrone"
     ],
     "name:eng_x_preferred":[
         "Inishcrone"
+    ],
+    "name:eng_x_variant":[
+        "Enniscrone"
     ],
     "name:eus_x_preferred":[
         "Enniscrone"
@@ -51,6 +57,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0438\u0448\u043a\u0440\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Inniscrone"
+    ],
+    "name:swe_x_preferred":[
+        "Inishcrone"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125867941,
-    "wof:lastmodified":1561759881,
+    "wof:lastmodified":1563313768,
     "wof:name":"Inniscrone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -33,6 +33,12 @@
     "name:nld_x_preferred":[
         "Ballynacally"
     ],
+    "name:spa_x_preferred":[
+        "Ballynacally"
+    ],
+    "name:swe_x_preferred":[
+        "Dunloe"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125972733,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313872,
     "wof:name":"Ballynacally",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

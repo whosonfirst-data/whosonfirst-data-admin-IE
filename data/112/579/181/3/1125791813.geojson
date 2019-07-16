@@ -21,8 +21,17 @@
     "name:cat_x_preferred":[
         "Newtownmountkennedy"
     ],
+    "name:ceb_x_preferred":[
+        "Newtownmountkennedy"
+    ],
     "name:eng_x_preferred":[
         "Newtown Mount Kennedy"
+    ],
+    "name:eng_x_variant":[
+        "Newtownmountkennedy"
+    ],
+    "name:eus_x_preferred":[
+        "Newtownmountkennedy"
     ],
     "name:fra_x_preferred":[
         "Newtownmountkennedy"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1125791813,
-    "wof:lastmodified":1561759892,
+    "wof:lastmodified":1563313972,
     "wof:name":"Newtown Mount Kennedy",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

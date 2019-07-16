@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0445\u0435\u0440\u0431\u0443\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Boherbue"
+    ],
     "name:eng_x_preferred":[
         "Boherbue"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0445\u0435\u0440\u0431\u043e\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Boherbue"
     ],
     "name:swe_x_preferred":[
         "Boherbue"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125934509,
-    "wof:lastmodified":1561759876,
+    "wof:lastmodified":1563313665,
     "wof:name":"Boherboy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

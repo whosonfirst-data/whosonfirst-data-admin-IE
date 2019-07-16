@@ -30,7 +30,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0431\u043e\u0434\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ballyboden"
+    ],
     "name:eng_x_preferred":[
+        "Ballyboden"
+    ],
+    "name:eus_x_preferred":[
+        "Ballyboden"
+    ],
+    "name:fra_x_preferred":[
         "Ballyboden"
     ],
     "name:gla_x_preferred":[
@@ -39,8 +51,14 @@
     "name:gle_x_preferred":[
         "Baile Buad\u00e1in"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d1\u05d5\u05d3\u05df"
+    ],
     "name:ita_x_preferred":[
         "Ballyboden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30dc\u30fc\u30c7\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10da\u10d8\u10d1\u10dd\u10d3\u10d4\u10dc\u10d8"
@@ -50,6 +68,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0431\u043e\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyboden"
     ],
     "name:unk_x_variant":[
         "Ballyboden"
@@ -133,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379341,
+    "wof:lastmodified":1563312605,
     "wof:name":"Ballyboden",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

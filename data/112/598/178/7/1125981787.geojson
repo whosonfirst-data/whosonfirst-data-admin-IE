@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u043c\u043e\u043b\u0435\u0430\u0433\u0443\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Timoleague"
+    ],
     "name:deu_x_preferred":[
         "Timoleague"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u043c\u043e\u043b\u0438\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Timoleague"
     ],
     "name:swe_x_preferred":[
         "Timoleague"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125981787,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313927,
     "wof:name":"Timoleague",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

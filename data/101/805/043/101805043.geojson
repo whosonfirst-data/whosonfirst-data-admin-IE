@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Castlebar"
     ],
+    "name:ceb_x_preferred":[
+        "Castlebar"
+    ],
     "name:ces_x_preferred":[
         "Castlebar"
     ],
@@ -52,6 +55,9 @@
         "Castlebar"
     ],
     "name:eus_x_preferred":[
+        "Castlebar"
+    ],
+    "name:fao_x_preferred":[
         "Castlebar"
     ],
     "name:fas_x_preferred":[
@@ -113,6 +119,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0431\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Castlebar"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0431\u0430\u0440"
@@ -177,7 +186,7 @@
         }
     ],
     "wof:id":101805043,
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313563,
     "wof:name":"Castlebar",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -22,7 +22,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u043b\u043e\u0443\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinlough"
+    ],
     "name:eng_x_preferred":[
+        "Ballinlough"
+    ],
+    "name:eus_x_preferred":[
         "Ballinlough"
     ],
     "name:gle_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u043b\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinlough"
     ],
     "name:swe_x_preferred":[
         "Ballinlough"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1125981703,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313927,
     "wof:name":"Ballinlough",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

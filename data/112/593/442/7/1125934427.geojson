@@ -22,8 +22,14 @@
     "name:cat_x_preferred":[
         "Bangor Erris"
     ],
+    "name:ceb_x_preferred":[
+        "Bangor"
+    ],
     "name:eng_x_preferred":[
         "Bangor"
+    ],
+    "name:eng_x_variant":[
+        "Bangor Erris"
     ],
     "name:eus_x_preferred":[
         "Bangor Erris"
@@ -33,6 +39,9 @@
     ],
     "name:gle_x_preferred":[
         "Baingear"
+    ],
+    "name:gle_x_variant":[
+        "Beannchar"
     ],
     "name:ita_x_preferred":[
         "Bangor Erris"
@@ -45,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0433\u043e\u0440-\u042d\u0440\u0440\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Bangor Erris"
     ],
     "name:swe_x_preferred":[
         "Bangor"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125934427,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313663,
     "wof:name":"Bangor",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

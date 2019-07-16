@@ -20,7 +20,13 @@
     "name:cat_x_preferred":[
         "Kilcullen"
     ],
+    "name:ceb_x_preferred":[
+        "Kilcullen"
+    ],
     "name:eng_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:eus_x_preferred":[
         "Kilcullen"
     ],
     "name:fra_x_preferred":[
@@ -45,6 +51,9 @@
         "\u041a\u0438\u043b\u043a\u0430\u043b\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:spa_x_preferred":[
         "Kilcullen"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313465,
     "wof:name":"Kilcullen",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

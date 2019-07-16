@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Baile an Sceilg"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinskelligs"
+    ],
     "name:deu_x_preferred":[
         "Ballinskelligs"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125948703,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313658,
     "wof:name":"Ballinskelligs",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043b\u0441\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Tulsk"
+    ],
     "name:eng_x_preferred":[
         "Tulsk"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0441\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Tulsk"
     ],
     "name:swe_x_preferred":[
         "Tulsk"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125873951,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1563313818,
     "wof:name":"Tulsk",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

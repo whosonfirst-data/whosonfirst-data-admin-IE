@@ -23,10 +23,22 @@
     "name:cat_x_preferred":[
         "Boyle"
     ],
+    "name:ceb_x_preferred":[
+        "Boyle"
+    ],
+    "name:cym_x_preferred":[
+        "Boyle"
+    ],
+    "name:dan_x_preferred":[
+        "Boyle"
+    ],
     "name:deu_x_preferred":[
         "Boyle"
     ],
     "name:eng_x_preferred":[
+        "Boyle"
+    ],
+    "name:eus_x_preferred":[
         "Boyle"
     ],
     "name:fra_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":101804969,
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313494,
     "wof:name":"Boyle",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

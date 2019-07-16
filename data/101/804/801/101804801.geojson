@@ -17,11 +17,17 @@
     "mps:longitude":-9.149776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Blackhead Bay"
+    ],
     "name:deu_x_preferred":[
         "Ballyvaughan"
     ],
     "name:eng_x_preferred":[
         "Ballyvaghan"
+    ],
+    "name:eng_x_variant":[
+        "Ballyvaughan"
     ],
     "name:eus_x_preferred":[
         "Ballyvaughan"
@@ -38,8 +44,14 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0432\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Ballyvaughan"
+    ],
     "name:swe_x_preferred":[
         "Blackhead Bay"
+    ],
+    "name:swe_x_variant":[
+        "Kilcormac"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":101804801,
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313506,
     "wof:name":"Ballyvaughan",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

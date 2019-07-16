@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Lismore"
     ],
+    "name:ceb_x_preferred":[
+        "Lismore"
+    ],
     "name:cym_x_preferred":[
         "Lios M\u00f3r"
     ],
@@ -74,6 +77,9 @@
         "Lios M\u00f3r"
     ],
     "name:slv_x_preferred":[
+        "Lismore"
+    ],
+    "name:spa_x_preferred":[
         "Lismore"
     ],
     "name:swe_x_preferred":[
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":101805861,
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313538,
     "wof:name":"Lismore",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

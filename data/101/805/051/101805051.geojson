@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0440\u043e\u0431\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinrobe"
+    ],
     "name:dan_x_preferred":[
         "Ballinrobe"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0440\u043e\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinrobe"
     ],
     "name:swe_x_preferred":[
         "Ballinrobe"
@@ -131,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313572,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

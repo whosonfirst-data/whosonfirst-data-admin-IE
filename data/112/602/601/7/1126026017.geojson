@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0445\u0430\u0439\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Malahide"
+    ],
     "name:dan_x_preferred":[
         "Malahide"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1126026017,
-    "wof:lastmodified":1561759879,
+    "wof:lastmodified":1563313740,
     "wof:name":"Malahide",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

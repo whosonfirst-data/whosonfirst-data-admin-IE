@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Ardgroom"
     ],
+    "name:ceb_x_preferred":[
+        "Ardgroom"
+    ],
     "name:deu_x_preferred":[
         "Ardgroom"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:swe_x_preferred":[
         "Ardgroom"
+    ],
+    "name:swe_x_variant":[
+        "Rossadrehid"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125844397,
-    "wof:lastmodified":1561759893,
+    "wof:lastmodified":1563313980,
     "wof:name":"Ardgroom",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

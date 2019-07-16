@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u0433\u0430\u0440\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ballygarvan"
+    ],
     "name:eng_x_preferred":[
         "Ballygarvan"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0433\u0430\u0440\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ballygarvan"
     ],
     "name:swe_x_preferred":[
         "Ballygarvan"
@@ -85,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313591,
     "wof:name":"Ballygarvan",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

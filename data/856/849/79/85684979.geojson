@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u064a\u0643\u0646\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u064a\u0644\u0643\u064a\u0646\u064a"
+    ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Kilkenny"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0456\u043b\u043a\u0435\u043d\u0456"
+    ],
+    "name:bel_x_variant":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041a\u0456\u043b\u043a\u0435\u043d\u0456"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0995\u09bf\u09b2\u0995\u09c7\u09a8\u09bf"
@@ -84,6 +90,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0644\u06a9\u0646\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u06cc\u0644\u06a9\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kilkennyn kreivikunta"
     ],
@@ -126,6 +135,9 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30b1\u30cb\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u30ad\u30eb\u30b1\u30cb\u30fc\u5dde"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c95\u0cbf\u0cb2\u0ccd\u0c95\u0cc6\u0ca8\u0cbf"
     ],
@@ -141,14 +153,23 @@
     "name:kor_x_preferred":[
         "\ud0ac\ucf00\ub2c8"
     ],
+    "name:kor_x_variant":[
+        "\ud0ac\ucf00\ub2c8\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Canicopolis"
+    ],
+    "name:lat_x_variant":[
+        "Comitatus Kilkenniensis"
     ],
     "name:lav_x_preferred":[
         "Kilkeni gr\u0101fiste"
     ],
     "name:lit_x_preferred":[
         "Kilkenis"
+    ],
+    "name:lit_x_variant":[
+        "Kilkenio grafyst\u0117"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u093f\u0932\u0915\u0947\u0928\u0940"
@@ -230,6 +251,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u06a9\u06cc\u0646\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u0644\u06a9\u06cc\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Kilkenny"
@@ -355,7 +379,7 @@
         }
     ],
     "wof:id":85684979,
-    "wof:lastmodified":1561759813,
+    "wof:lastmodified":1563312762,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

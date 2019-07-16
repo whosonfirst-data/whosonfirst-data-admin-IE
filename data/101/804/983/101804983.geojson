@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Clones"
     ],
+    "name:ceb_x_preferred":[
+        "Clones"
+    ],
     "name:deu_x_preferred":[
         "Clones"
     ],
@@ -50,6 +53,9 @@
     "name:pol_x_preferred":[
         "Clones"
     ],
+    "name:por_x_preferred":[
+        "Clones"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0441"
     ],
@@ -57,6 +63,9 @@
         "Clones"
     ],
     "name:slk_x_preferred":[
+        "Clones"
+    ],
+    "name:spa_x_preferred":[
         "Clones"
     ],
     "name:swe_x_preferred":[
@@ -113,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759862,
+    "wof:lastmodified":1563313480,
     "wof:name":"Clones",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

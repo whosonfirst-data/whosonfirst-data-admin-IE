@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043c\u0430\u0445\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ballymahon"
+    ],
     "name:deu_x_preferred":[
         "Ballymahon"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043c\u0430\u0445\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ballymahon"
     ],
     "name:swe_x_preferred":[
         "Ballymahon"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313511,
     "wof:name":"Ballymahon",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

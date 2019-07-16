@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Bearna"
     ],
+    "name:ceb_x_preferred":[
+        "Barna"
+    ],
     "name:eng_x_preferred":[
         "Barna"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bearna"
     ],
     "name:swe_x_preferred":[
         "Barna"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":101804945,
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313513,
     "wof:name":"Barna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

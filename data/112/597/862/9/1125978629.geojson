@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Ballycroy"
     ],
+    "name:eus_x_preferred":[
+        "Ballycroy"
+    ],
     "name:gle_x_preferred":[
         "Baile Chruaich"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125978629,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313877,
     "wof:name":"Ballycroy",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

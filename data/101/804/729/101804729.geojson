@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0441\u043a\u0435\u043d\u0440\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Pallaskenry"
+    ],
     "name:eng_x_preferred":[
         "Pallaskenry"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u043b\u0430\u0441\u043a\u0435\u043d\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Pallaskenry"
     ],
     "name:swe_x_preferred":[
         "Pallaskenry"
@@ -83,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313517,
     "wof:name":"Pallaskenry",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

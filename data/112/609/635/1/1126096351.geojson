@@ -21,7 +21,13 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0442\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinteer"
+    ],
     "name:eng_x_preferred":[
+        "Ballinteer"
+    ],
+    "name:eus_x_preferred":[
         "Ballinteer"
     ],
     "name:fas_x_preferred":[
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1126096351,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313940,
     "wof:name":"Ballinteer",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

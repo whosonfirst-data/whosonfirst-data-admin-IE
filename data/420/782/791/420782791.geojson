@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.31018975832,53.3468603932,-6.31018975832,53.3468603932",
     "geom:latitude":53.34686,
     "geom:longitude":-6.31019,
@@ -20,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":0,
+    "name:eng_x_preferred":[
+        "Islandbridge"
+    ],
     "name:gle_x_preferred":[
         "Droichead na hInse"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":420782791,
-    "wof:lastmodified":1527726675,
+    "wof:lastmodified":1563313651,
     "wof:name":"Islandbridge",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

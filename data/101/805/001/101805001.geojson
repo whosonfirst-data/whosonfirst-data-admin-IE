@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0430\u043d\u0430\u043d\u0430\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Bellananagh"
+    ],
     "name:eng_x_preferred":[
         "Bellananagh"
     ],
@@ -27,6 +30,9 @@
         "Ballinagh"
     ],
     "name:eus_x_preferred":[
+        "Ballinagh"
+    ],
+    "name:fra_x_preferred":[
         "Ballinagh"
     ],
     "name:gla_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinagh"
     ],
     "name:swe_x_preferred":[
         "Ballinagh"
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313545,
     "wof:name":"Bellananagh",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

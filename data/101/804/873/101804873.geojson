@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0632\u060c \u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u062b"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u064a\u0644\u0632"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u043b\u0441"
+    ],
     "name:bre_x_preferred":[
         "Kells"
     ],
@@ -27,6 +33,9 @@
         "\u041a\u0435\u043b\u0441"
     ],
     "name:cat_x_preferred":[
+        "Kells"
+    ],
+    "name:ceb_x_preferred":[
         "Kells"
     ],
     "name:ces_x_preferred":[
@@ -98,6 +107,9 @@
     "name:spa_x_preferred":[
         "Kells"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u043b\u0441"
+    ],
     "name:swe_x_preferred":[
         "Kells"
     ],
@@ -109,6 +121,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0644\u0632\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0645\u06cc\u062f\u06be"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u06cc\u0644\u0632"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":101804873,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313472,
     "wof:name":"Kells",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

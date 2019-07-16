@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0438\u043d\u0430\u0445\u043e\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mullinahone"
+    ],
     "name:eng_x_preferred":[
         "Mullinahone"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u043b\u0438\u043d\u0430\u0445\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Mullinahone"
     ],
     "name:swe_x_preferred":[
         "Mullinahone"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126014141,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313932,
     "wof:name":"Mullinahone",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

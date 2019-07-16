@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Ballincollig"
     ],
+    "name:ceb_x_preferred":[
+        "Ballincollig"
+    ],
     "name:eng_x_preferred":[
         "Ballincollig"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313524,
     "wof:name":"Ballincollig",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

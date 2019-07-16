@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0447\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Schull"
+    ],
     "name:eng_x_preferred":[
         "Skull"
     ],
@@ -42,6 +45,9 @@
         "\u0421\u043a\u0430\u043b\u043b"
     ],
     "name:slv_x_preferred":[
+        "Schull"
+    ],
+    "name:spa_x_preferred":[
         "Schull"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313549,
     "wof:name":"Skull",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

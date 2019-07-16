@@ -20,6 +20,12 @@
     "name:afr_x_preferred":[
         "Athlone"
     ],
+    "name:ara_x_preferred":[
+        "\u0623\u062b\u0644\u0648\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Athlone"
+    ],
     "name:bre_x_preferred":[
         "Baile \u00c1tha Luain"
     ],
@@ -27,6 +33,9 @@
         "\u0410\u0442\u043b\u043e\u0443\u043d"
     ],
     "name:cat_x_preferred":[
+        "Athlone"
+    ],
+    "name:ceb_x_preferred":[
         "Athlone"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +52,9 @@
     ],
     "name:eus_x_preferred":[
         "Athlone"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062b\u0644\u0648\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "Athlone"
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":101804857,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313476,
     "wof:name":"Athlone",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

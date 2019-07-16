@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u044a\u043b\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Mitchelstown"
+    ],
     "name:dan_x_preferred":[
         "Mitchelstown"
     ],
@@ -65,7 +68,13 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u0442\u0447\u0435\u043b\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Mitchelstown"
+    ],
     "name:swe_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:szl_x_preferred":[
         "Mitchelstown"
     ],
     "qs:a0":"Ireland",
@@ -113,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313532,
     "wof:name":"Mitchelstown",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Shannonbridge"
     ],
+    "name:ceb_x_preferred":[
+        "Shannonbridge"
+    ],
     "name:deu_x_preferred":[
         "Shannonbridge"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d\u043d\u043e\u043d\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:spa_x_preferred":[
+        "Shannonbridge"
     ],
     "name:swe_x_preferred":[
         "Shannonbridge"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125981775,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313927,
     "wof:name":"Shannonbridge",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

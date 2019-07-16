@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Westport"
     ],
+    "name:ceb_x_preferred":[
+        "Westport"
+    ],
     "name:ces_x_preferred":[
         "Westport"
     ],
@@ -42,6 +45,9 @@
         "Westport"
     ],
     "name:eus_x_preferred":[
+        "Westport"
+    ],
+    "name:fao_x_preferred":[
         "Westport"
     ],
     "name:fra_x_preferred":[
@@ -92,11 +98,23 @@
     "name:rus_x_preferred":[
         "\u0423\u044d\u0441\u0442\u043f\u043e\u0440\u0442"
     ],
+    "name:slv_x_preferred":[
+        "Westport"
+    ],
+    "name:spa_x_preferred":[
+        "Westport"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u0441\u0442\u043f\u043e\u0440\u0442"
+    ],
     "name:swe_x_preferred":[
         "Westport"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0679\u067e\u0648\u0631\u062a\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0645\u06cc\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u06cc\u0633\u0679\u067e\u0648\u0631\u062a"
     ],
     "name:zho_x_preferred":[
         "\u97cb\u65af\u7279\u6ce2\u7279"
@@ -162,7 +180,7 @@
         }
     ],
     "wof:id":101805045,
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313558,
     "wof:name":"Westport",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

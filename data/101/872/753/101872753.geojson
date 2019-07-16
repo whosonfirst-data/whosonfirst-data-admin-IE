@@ -23,8 +23,14 @@
     "name:bre_x_preferred":[
         "Inis M\u00f3r"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0430\u043d\u043c\u043e\u0440\u0435"
+    ],
     "name:cat_x_preferred":[
         "Inis M\u00f3r"
+    ],
+    "name:ceb_x_preferred":[
+        "Aranmore"
     ],
     "name:cym_x_preferred":[
         "Inis M\u00f3r"
@@ -32,11 +38,23 @@
     "name:deu_x_preferred":[
         "\u00c1rainn"
     ],
+    "name:deu_x_variant":[
+        "Inishmore"
+    ],
     "name:ell_x_preferred":[
         "\u038a\u03bd\u03b9\u03c3\u03bc\u03bf\u03c1"
     ],
+    "name:eng_x_preferred":[
+        "Inishmore"
+    ],
+    "name:epo_x_preferred":[
+        "Insulo Ini\u015dmoro"
+    ],
     "name:eus_x_preferred":[
         "Inis M\u00f3r"
+    ],
+    "name:eus_x_variant":[
+        "Inishmore"
     ],
     "name:fin_x_preferred":[
         "Inis M\u00f3r"
@@ -47,8 +65,14 @@
     "name:gle_x_preferred":[
         "Inis M\u00f3r"
     ],
+    "name:glg_x_preferred":[
+        "Inis M\u00f3r"
+    ],
     "name:ita_x_preferred":[
         "Inis M\u00f3r"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30cb\u30b7\u30e5\u30e2\u30a2\u5cf6"
     ],
     "name:nds_x_preferred":[
         "Inishmore"
@@ -59,6 +83,9 @@
     "name:nno_x_preferred":[
         "Inishmore"
     ],
+    "name:nob_x_preferred":[
+        "Inis M\u00f3r"
+    ],
     "name:nor_x_preferred":[
         "Inis M\u00f3r"
     ],
@@ -67,6 +94,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0438\u0448\u043c\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Aranmore"
+    ],
+    "name:tur_x_preferred":[
+        "Inis M\u00f3r"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u5c3c\u4ec0\u83ab\u723e\u5cf6"
@@ -129,7 +162,7 @@
         }
     ],
     "wof:id":101872753,
-    "wof:lastmodified":1544751301,
+    "wof:lastmodified":1563313453,
     "wof:name":"Inishmore",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

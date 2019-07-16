@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Castleconnell"
     ],
+    "name:ceb_x_preferred":[
+        "Castleconnell"
+    ],
     "name:eng_x_preferred":[
         "Castleconnell"
     ],
@@ -44,8 +47,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u043a\u043e\u043d\u043d\u0435\u043b\u043b"
     ],
+    "name:spa_x_preferred":[
+        "Castleconnell"
+    ],
     "name:swe_x_preferred":[
         "Castleconnell"
+    ],
+    "name:swe_x_variant":[
+        "Bailieborough"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Limerick",
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313493,
     "wof:name":"Castleconnell",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

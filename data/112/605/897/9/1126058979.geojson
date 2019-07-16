@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Tuam"
     ],
+    "name:ceb_x_preferred":[
+        "Tuam"
+    ],
     "name:ces_x_preferred":[
         "Tuam"
     ],
@@ -94,6 +97,9 @@
     "name:spa_x_preferred":[
         "Tuam"
     ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u043c"
+    ],
     "name:swe_x_preferred":[
         "Tuam"
     ],
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1126058979,
-    "wof:lastmodified":1561759879,
+    "wof:lastmodified":1563313744,
     "wof:name":"Tuam",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -17,10 +17,19 @@
     "mps:longitude":-7.905547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0440"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440"
     ],
     "name:cat_x_preferred":[
+        "Birr"
+    ],
+    "name:ceb_x_preferred":[
+        "Birr"
+    ],
+    "name:cym_x_preferred":[
         "Birr"
     ],
     "name:dan_x_preferred":[
@@ -53,6 +62,9 @@
     "name:ita_x_preferred":[
         "Birr"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10e0\u10d8"
     ],
@@ -83,11 +95,20 @@
     "name:spa_x_preferred":[
         "Birr"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0440"
+    ],
     "name:swe_x_preferred":[
         "Birr"
     ],
     "name:unk_x_variant":[
         "Parsonstown"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u723e"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Offaly",
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":101804843,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313475,
     "wof:name":"Birr",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

@@ -20,7 +20,13 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0433\u0430\u0440\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Saggart"
+    ],
     "name:eng_x_preferred":[
+        "Saggart"
+    ],
+    "name:eus_x_preferred":[
         "Saggart"
     ],
     "name:fra_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101760465,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313581,
     "wof:name":"Saggart",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

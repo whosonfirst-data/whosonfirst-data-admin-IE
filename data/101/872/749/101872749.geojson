@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0435\u0438\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Killeigh"
+    ],
     "name:eng_x_preferred":[
         "Killeigh"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Killeigh"
     ],
     "name:swe_x_preferred":[
         "Killeigh"
@@ -85,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759859,
+    "wof:lastmodified":1563313455,
     "wof:name":"Killeigh",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

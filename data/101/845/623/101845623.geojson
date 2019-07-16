@@ -32,6 +32,9 @@
     "name:gle_x_preferred":[
         "An Mh\u00ed Thoir"
     ],
+    "name:gle_x_variant":[
+        "Steach Maoil\u00edn"
+    ],
     "name:glv_x_preferred":[
         "Steach Maoil\u00edn"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0430\u043b\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Stamullen"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759858,
+    "wof:lastmodified":1563313451,
     "wof:name":"Stamullin",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u043e\u0440\u0433\u043b\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Killorglin"
+    ],
     "name:deu_x_preferred":[
         "Killorglin"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Killorglin"
+    ],
+    "name:swe_x_variant":[
+        "Castleisland"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kerry",
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313598,
     "wof:name":"Killorglin",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

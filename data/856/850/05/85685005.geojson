@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Laois"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0442\u0441\u0432\u0430 \u041b\u0456\u0456\u0448"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b2\u09be\u0993\u0987\u09b8"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Laois"
+    ],
+    "name:ceb_x_preferred":[
+        "Laois"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Laois"
@@ -79,6 +85,9 @@
     ],
     "name:eus_x_preferred":[
         "Laoiseko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u06cc\u0634"
     ],
     "name:fin_x_preferred":[
         "Laois"
@@ -132,6 +141,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub808\uc774\uc2dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\uc774\uc2dc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Licensis"
@@ -335,7 +347,7 @@
         }
     ],
     "wof:id":85685005,
-    "wof:lastmodified":1561759719,
+    "wof:lastmodified":1563312611,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

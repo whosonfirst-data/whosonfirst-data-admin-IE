@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Skibbereen"
     ],
+    "name:ceb_x_preferred":[
+        "Skibbereen"
+    ],
     "name:cym_x_preferred":[
         "Skibbereen"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eus_x_preferred":[
         "Skibbereen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9\u06cc\u0628\u0631\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Skibbereen"
@@ -50,6 +56,9 @@
     "name:lit_x_preferred":[
         "Skipberinas"
     ],
+    "name:ltz_x_preferred":[
+        "Skibbereen"
+    ],
     "name:nld_x_preferred":[
         "Skibbereen"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0438\u0431\u0431\u0435\u0440\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Skibbereen"
     ],
     "name:swe_x_preferred":[
         "Skibbereen"
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":101805915,
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313549,
     "wof:name":"Skibbereen",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

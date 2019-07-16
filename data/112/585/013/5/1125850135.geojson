@@ -22,10 +22,22 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u0433\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Rathgar"
+    ],
+    "name:dan_x_preferred":[
+        "Rathgar"
+    ],
+    "name:deu_x_preferred":[
+        "Rathgar"
+    ],
     "name:eng_x_preferred":[
         "Rathgar"
     ],
     "name:epo_x_preferred":[
+        "Rathgar"
+    ],
+    "name:eus_x_preferred":[
         "Rathgar"
     ],
     "name:fra_x_preferred":[
@@ -45,6 +57,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b9\u30ac\u30fc"
+    ],
+    "name:ltz_x_preferred":[
+        "Rathgar"
     ],
     "name:nld_x_preferred":[
         "Rathgar"
@@ -112,7 +127,7 @@
         }
     ],
     "wof:id":1125850135,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313944,
     "wof:name":"Rathgar",
     "wof:parent_id":85685015,
     "wof:placetype":"locality",

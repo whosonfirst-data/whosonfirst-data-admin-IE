@@ -40,6 +40,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0438\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "An Rinn"
+    ],
     "name:swe_x_preferred":[
         "Ring"
     ],
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313539,
     "wof:name":"Ringville",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

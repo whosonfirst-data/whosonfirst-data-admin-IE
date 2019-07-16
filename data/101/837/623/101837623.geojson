@@ -32,6 +32,12 @@
     "name:cat_x_preferred":[
         "Naas"
     ],
+    "name:ceb_x_preferred":[
+        "Naas"
+    ],
+    "name:ces_x_preferred":[
+        "Naas"
+    ],
     "name:cym_x_preferred":[
         "Naas"
     ],
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":101837623,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313597,
     "wof:name":"Naas",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

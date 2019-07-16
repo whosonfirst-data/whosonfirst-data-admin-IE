@@ -27,6 +27,9 @@
     "name:gle_x_preferred":[
         "C\u00faan Dor"
     ],
+    "name:gle_x_variant":[
+        "Cuan Dor"
+    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30c9\u30fc\u30eb"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125791277,
-    "wof:lastmodified":1561759892,
+    "wof:lastmodified":1563313972,
     "wof:name":"Glandore",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

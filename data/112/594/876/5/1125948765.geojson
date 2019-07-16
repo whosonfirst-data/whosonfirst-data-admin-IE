@@ -22,6 +22,12 @@
     "name:bre_x_preferred":[
         "An Baile Dubh"
     ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u0434\u0443\u0444"
+    ],
+    "name:ceb_x_preferred":[
+        "Ballyduff"
+    ],
     "name:eng_x_preferred":[
         "Ballyduff"
     ],
@@ -36,6 +42,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0434\u0430\u0444\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyduff"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyduff"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":1125948765,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313658,
     "wof:name":"Ballyduff",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

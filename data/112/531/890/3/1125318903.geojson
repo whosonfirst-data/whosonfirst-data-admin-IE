@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Howth"
     ],
+    "name:ceb_x_preferred":[
+        "Howth"
+    ],
     "name:dan_x_preferred":[
         "Howth"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eus_x_preferred":[
         "Howth"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u062b"
     ],
     "name:fin_x_preferred":[
         "Howth"
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1125318903,
-    "wof:lastmodified":1561759888,
+    "wof:lastmodified":1563313893,
     "wof:name":"Howth",
     "wof:parent_id":85685045,
     "wof:placetype":"localadmin",

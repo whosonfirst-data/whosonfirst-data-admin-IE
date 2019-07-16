@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0443\u043c\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Portumna"
+    ],
     "name:deu_x_preferred":[
         "Portumna"
     ],
@@ -56,8 +59,14 @@
     "name:pol_x_preferred":[
         "Portumna"
     ],
+    "name:por_x_preferred":[
+        "Portumna"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u043c\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Portumna"
     ],
     "name:swe_x_preferred":[
         "Portumna"
@@ -129,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313490,
     "wof:name":"Portumna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

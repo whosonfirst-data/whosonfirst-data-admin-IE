@@ -25,10 +25,16 @@
     "name:cat_x_preferred":[
         "Baltinglass"
     ],
+    "name:ceb_x_preferred":[
+        "Baltinglass"
+    ],
     "name:deu_x_preferred":[
         "Baltinglass"
     ],
     "name:eng_x_preferred":[
+        "Baltinglass"
+    ],
+    "name:eus_x_preferred":[
         "Baltinglass"
     ],
     "name:fra_x_preferred":[
@@ -53,6 +59,9 @@
         "\u0411\u0430\u043b\u0442\u0438\u043d\u0433\u043b\u0430\u0441\u0441"
     ],
     "name:slk_x_preferred":[
+        "Baltinglass"
+    ],
+    "name:spa_x_preferred":[
         "Baltinglass"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125928447,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313692,
     "wof:name":"Baltinglass",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

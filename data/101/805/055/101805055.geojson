@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u0445\u0430\u0443\u043d\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Ballyhaunis"
+    ],
     "name:deu_x_preferred":[
         "Ballyhaunis"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0445\u043e\u043d\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyhaunis"
     ],
     "name:swe_x_preferred":[
         "Ballyhaunis"
@@ -128,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313543,
     "wof:name":"Ballyhaunis",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

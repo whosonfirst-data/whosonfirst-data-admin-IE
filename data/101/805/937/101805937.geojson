@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "New Ross"
     ],
+    "name:ceb_x_preferred":[
+        "New Ross"
+    ],
     "name:dan_x_preferred":[
         "New Ross"
     ],
@@ -68,11 +71,17 @@
     "name:pol_x_preferred":[
         "New Ross"
     ],
+    "name:por_x_preferred":[
+        "New Ross"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e-\u0420\u043e\u0441\u0441"
     ],
     "name:spa_x_preferred":[
         "Nueva Ross"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a\u0443 \u0420\u043e\u0441"
     ],
     "name:swe_x_preferred":[
         "New Ross"
@@ -127,7 +136,7 @@
         }
     ],
     "wof:id":101805937,
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313525,
     "wof:name":"New Ross",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

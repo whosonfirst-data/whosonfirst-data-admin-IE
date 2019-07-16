@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "An Cloch\u00e1n Liath"
     ],
+    "name:ceb_x_preferred":[
+        "Dungloe"
+    ],
     "name:deu_x_preferred":[
         "An Cloch\u00e1n Liath"
     ],
@@ -32,8 +35,14 @@
     "name:eng_x_preferred":[
         "Dunglow"
     ],
+    "name:eng_x_variant":[
+        "Dungloe"
+    ],
     "name:eus_x_preferred":[
         "Dungloe"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u06af\u0644\u0648\u06cc"
     ],
     "name:fra_x_preferred":[
         "Dungloe"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313555,
     "wof:name":"Dunglow",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

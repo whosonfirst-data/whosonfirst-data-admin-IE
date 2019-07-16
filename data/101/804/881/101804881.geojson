@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u043c\u0435\u0441\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kilmessan"
+    ],
     "name:eng_x_preferred":[
         "Kilmessan"
     ],
@@ -86,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313474,
     "wof:name":"Kilmessan",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

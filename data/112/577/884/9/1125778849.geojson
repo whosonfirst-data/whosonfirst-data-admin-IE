@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Rockbrook"
     ],
+    "name:eus_x_preferred":[
+        "Rockbrook"
+    ],
     "name:gla_x_preferred":[
         "Sruth na gCloch"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125778849,
-    "wof:lastmodified":1561759894,
+    "wof:lastmodified":1563313984,
     "wof:name":"Rockbrook",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

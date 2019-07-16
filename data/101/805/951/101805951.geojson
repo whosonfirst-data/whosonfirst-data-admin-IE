@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Tipperary"
     ],
+    "name:ceb_x_preferred":[
+        "Tipperary"
+    ],
     "name:cym_x_preferred":[
         "Tiobraid \u00c1rann"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:gle_x_preferred":[
         "Tiobraid \u00c1rann"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e4\u05e8\u05e8\u05d9"
     ],
     "name:ind_x_preferred":[
         "Tipperary"
@@ -97,6 +103,9 @@
     ],
     "name:spa_x_preferred":[
         "Tipperary"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043f\u0435\u0440\u0430\u0440\u0438"
     ],
     "name:swe_x_preferred":[
         "Tipperary"
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":101805951,
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313554,
     "wof:name":"Tipperary",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

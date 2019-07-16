@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Castletownroche"
+    ],
     "name:deu_x_preferred":[
         "Castletownroche"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0442\u0430\u0443\u043d\u0440\u043e\u0447"
+    ],
+    "name:spa_x_preferred":[
+        "Castletownroche"
     ],
     "name:swe_x_preferred":[
         "Castletownroche"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125797873,
-    "wof:lastmodified":1561759893,
+    "wof:lastmodified":1563313978,
     "wof:name":"Castletownroche",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

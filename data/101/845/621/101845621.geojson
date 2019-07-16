@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0444\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Straffan"
+    ],
     "name:deu_x_preferred":[
         "Straffan"
     ],
     "name:eng_x_preferred":[
+        "Straffan"
+    ],
+    "name:eus_x_preferred":[
         "Straffan"
     ],
     "name:gle_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0444\u0444\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Straffan"
     ],
     "name:swe_x_preferred":[
         "Straffan"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759858,
+    "wof:lastmodified":1563313450,
     "wof:name":"Straffan",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

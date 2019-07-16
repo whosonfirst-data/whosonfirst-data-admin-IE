@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Enniscorthy"
     ],
+    "name:ceb_x_preferred":[
+        "Enniscorthy"
+    ],
     "name:cym_x_preferred":[
         "Enniscorthy"
     ],
@@ -83,10 +86,16 @@
     "name:rus_x_preferred":[
         "\u042d\u043d\u043d\u0438\u0441\u043a\u043e\u0440\u0442\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Enniscorthy"
+    ],
     "name:srp_x_preferred":[
         "\u0415\u043d\u0438\u0441\u043a\u043e\u0440\u0442\u0438"
     ],
     "name:swe_x_preferred":[
+        "Enniscorthy"
+    ],
+    "name:szl_x_preferred":[
         "Enniscorthy"
     ],
     "name:zho_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":101803607,
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313521,
     "wof:name":"Enniscorthy",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

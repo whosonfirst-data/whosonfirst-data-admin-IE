@@ -20,6 +20,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u0431\u0456\u043b\u0435\u0439\u043a\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Abbeyleix"
+    ],
     "name:ces_x_preferred":[
         "Abbeyleix"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313495,
     "wof:name":"Abbeyleix",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

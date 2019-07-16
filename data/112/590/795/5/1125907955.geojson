@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Lisdoonvarna"
     ],
+    "name:ceb_x_preferred":[
+        "Lisdoonvarna"
+    ],
     "name:deu_x_preferred":[
         "Lisdoonvarna"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125907955,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313869,
     "wof:name":"Lisdoonvarna",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

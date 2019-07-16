@@ -35,6 +35,9 @@
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e\u043c\u0430\u0440\u043a\u0435\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Newmarket"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
     "qs:a1r":"0",
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313560,
     "wof:name":"Newmarket",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

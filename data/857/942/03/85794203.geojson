@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16490860.268099,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-6.154501,53.263523,-6.154501,53.263523",
     "geom:latitude":53.263523,
     "geom:longitude":-6.154501,
@@ -27,10 +27,16 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Cabinteely"
+    ],
     "name:deu_x_preferred":[
         "Cabinteely"
     ],
     "name:eng_x_preferred":[
+        "Cabinteely"
+    ],
+    "name:eus_x_preferred":[
         "Cabinteely"
     ],
     "name:fas_x_preferred":[
@@ -48,11 +54,23 @@
     "name:ita_x_preferred":[
         "Cabinteely"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30d3\u30f3\u30c6\u30a3\u30fc\u30ea\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Kabintilis"
+    ],
+    "name:nld_x_preferred":[
+        "Cabinteely"
+    ],
     "name:pol_x_preferred":[
         "Cabinteely"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0431\u0438\u043d\u0442\u0438\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Cabinteely"
     ],
     "name:unk_x_variant":[
         "Cabinteely"
@@ -117,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861469,
+    "wof:lastmodified":1563312606,
     "wof:name":"Cabinteely",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

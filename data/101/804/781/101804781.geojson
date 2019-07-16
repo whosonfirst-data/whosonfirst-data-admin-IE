@@ -17,6 +17,9 @@
     "mps:longitude":-6.904742,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0644\u062f\u064a\u0631"
+    ],
     "name:bre_x_preferred":[
         "Cill Dara"
     ],
@@ -26,8 +29,14 @@
     "name:cat_x_preferred":[
         "Kildare"
     ],
+    "name:ceb_x_preferred":[
+        "Kildare"
+    ],
     "name:ces_x_preferred":[
         "Kildare"
+    ],
+    "name:cym_x_preferred":[
+        "Cill Dara"
     ],
     "name:dan_x_preferred":[
         "Kildare"
@@ -41,6 +50,9 @@
     "name:eus_x_preferred":[
         "Kildare"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0644\u062f\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Kildare"
     ],
@@ -53,16 +65,25 @@
     "name:glv_x_preferred":[
         "Keeill Darey"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05dc\u05d3\u05d0\u05e8"
+    ],
     "name:ind_x_preferred":[
         "Kildare"
     ],
     "name:ita_x_preferred":[
         "Kildare"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30c7\u30a2"
+    ],
     "name:lit_x_preferred":[
         "Kilderas"
     ],
     "name:nld_x_preferred":[
+        "Kildare"
+    ],
+    "name:nob_x_preferred":[
         "Kildare"
     ],
     "name:nor_x_preferred":[
@@ -83,11 +104,17 @@
     "name:slk_x_preferred":[
         "Kildare"
     ],
+    "name:spa_x_preferred":[
+        "Kildare"
+    ],
     "name:swe_x_preferred":[
         "Kildare"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0688\u06cc\u0626\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u723e\u4ee3\u723e\u93ae"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kildare",
@@ -136,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338039,
+    "wof:lastmodified":1563313510,
     "wof:name":"Kildare",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

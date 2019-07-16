@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Waterford"
     ],
+    "name:bar_x_preferred":[
+        "County Waterford"
+    ],
     "name:bel_x_preferred":[
         "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0423\u043e\u0442\u044d\u0440\u0444\u0430\u0440\u0434"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Waterford"
+    ],
+    "name:ceb_x_preferred":[
+        "Waterford"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Waterford"
@@ -68,6 +74,9 @@
     ],
     "name:eng_x_preferred":[
         "Waterford"
+    ],
+    "name:eng_x_variant":[
+        "County Waterford"
     ],
     "name:epo_x_preferred":[
         "Graflando Waterford"
@@ -128,6 +137,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6cc\ud130\ud37c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6cc\ud130\ud37c\ub4dc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Waterfordiensis"
@@ -269,7 +281,7 @@
         }
     ],
     "wof:id":85684953,
-    "wof:lastmodified":1561759794,
+    "wof:lastmodified":1563312733,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Balbriggan"
     ],
+    "name:ceb_x_preferred":[
+        "Balbriggan"
+    ],
     "name:dan_x_preferred":[
         "Balbriggan"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0431\u0440\u0438\u0433\u0433\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Balbriggan"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0431\u0440\u0438\u0433\u0430\u043d"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":101804845,
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313470,
     "wof:name":"Balbriggan",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

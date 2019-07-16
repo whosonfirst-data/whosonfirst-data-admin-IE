@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0443\u043d\u0430\u0431\u0435\u0439\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Donabate"
+    ],
     "name:dan_x_preferred":[
         "Donabate"
     ],
@@ -30,6 +33,9 @@
         "Donabate"
     ],
     "name:eng_x_preferred":[
+        "Donabate"
+    ],
+    "name:eus_x_preferred":[
         "Donabate"
     ],
     "name:fra_x_preferred":[
@@ -54,6 +60,9 @@
         "\u0414\u043e\u043d\u0430\u0431\u0435\u0439\u0442"
     ],
     "name:slk_x_preferred":[
+        "Donabate"
+    ],
+    "name:spa_x_preferred":[
         "Donabate"
     ],
     "name:swe_x_preferred":[
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":101804855,
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313507,
     "wof:name":"Donabate",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

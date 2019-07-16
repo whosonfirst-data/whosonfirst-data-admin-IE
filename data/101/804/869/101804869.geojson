@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Kinnegad"
     ],
+    "name:ceb_x_preferred":[
+        "Kinnegad"
+    ],
     "name:deu_x_preferred":[
         "Kinnegad"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Kinnegad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0633\u06a9"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Westmeath",
@@ -116,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313478,
     "wof:name":"Kinnegad",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:rus_x_preferred":[
         "\u0423\u0438\u043b\u044c\u044f\u043c\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Williamstown"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125956323,
-    "wof:lastmodified":1561759878,
+    "wof:lastmodified":1563313701,
     "wof:name":"Williamstown",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

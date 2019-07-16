@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Sandycove"
     ],
+    "name:eus_x_preferred":[
+        "Sandycove"
+    ],
     "name:fra_x_preferred":[
         "Sandycove"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759814,
+    "wof:lastmodified":1563312763,
     "wof:name":"Sandycove",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

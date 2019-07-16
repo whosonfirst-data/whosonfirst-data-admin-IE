@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Portrane"
     ],
+    "name:eus_x_preferred":[
+        "Portrane"
+    ],
     "name:fra_x_preferred":[
         "Portrane"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126015369,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313936,
     "wof:name":"Portraine",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

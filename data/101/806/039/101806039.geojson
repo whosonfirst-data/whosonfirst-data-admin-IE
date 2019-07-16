@@ -23,7 +23,13 @@
     "name:cat_x_preferred":[
         "Tinahely"
     ],
+    "name:ceb_x_preferred":[
+        "Tinahely"
+    ],
     "name:eng_x_preferred":[
+        "Tinahely"
+    ],
+    "name:eus_x_preferred":[
         "Tinahely"
     ],
     "name:gle_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u043d\u0430\u0445\u0435\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Tinahely"
     ],
     "name:swe_x_preferred":[
         "Tinahely"
@@ -83,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313602,
     "wof:name":"Tinahely",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

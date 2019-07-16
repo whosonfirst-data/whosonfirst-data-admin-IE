@@ -19,7 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u043d\u043e\u043a"
+    ],
     "name:cat_x_preferred":[
+        "Castleknock"
+    ],
+    "name:ceb_x_preferred":[
+        "Castleknock"
+    ],
+    "name:cym_x_preferred":[
         "Castleknock"
     ],
     "name:dan_x_preferred":[
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1125923231,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313694,
     "wof:name":"Castleknock",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

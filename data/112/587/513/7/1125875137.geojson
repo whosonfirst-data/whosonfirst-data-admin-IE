@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u0435\u0442\u0446\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bennettsbridge"
+    ],
     "name:eng_x_preferred":[
         "Bennettsbridge"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125875137,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1563313820,
     "wof:name":"Bennettsbridge",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

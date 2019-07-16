@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00014,
-    "geom:area_square_m":1015668.383839,
+    "geom:area_square_m":1015668.38384,
     "geom:bbox":"-8.53079031845,54.081591602,-8.50646687897,54.0960594992",
     "geom:latitude":54.089239,
     "geom:longitude":-8.518052,
@@ -17,7 +17,19 @@
     "mps:longitude":-8.516855,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0439\u043c\u043e\u0442\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Ballymote"
+    ],
+    "name:deu_x_preferred":[
+        "Ballymote"
+    ],
     "name:eng_x_preferred":[
+        "Ballymote"
+    ],
+    "name:eus_x_preferred":[
         "Ballymote"
     ],
     "name:fra_x_preferred":[
@@ -32,14 +44,26 @@
     "name:ita_x_preferred":[
         "Ballymote"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30e2\u30fc\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10db\u10dd\u10e2\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Ballymote"
     ],
     "name:pol_x_preferred":[
         "Ballymote"
     ],
+    "name:por_x_preferred":[
+        "Ballymote"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043c\u043e\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Ballymote"
     ],
     "name:swe_x_preferred":[
         "Ballymote"
@@ -95,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642957,
+    "wof:lastmodified":1563313528,
     "wof:name":"Ballymote",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Kilmallock"
     ],
+    "name:ceb_x_preferred":[
+        "Kilmallock"
+    ],
     "name:cym_x_preferred":[
         "Cill Mocheall\u00f3g"
     ],
@@ -41,6 +44,9 @@
     "name:ita_x_preferred":[
         "Kilmallock"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30de\u30ed\u30c3\u30af"
+    ],
     "name:lit_x_preferred":[
         "Kilmalokas"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043c\u0430\u043b\u043b\u043e\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmallock"
     ],
     "name:swe_x_preferred":[
         "Kilmallock"
@@ -101,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313607,
     "wof:name":"Kilmallock",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

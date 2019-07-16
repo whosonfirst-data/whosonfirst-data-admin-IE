@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Youghal"
     ],
+    "name:ceb_x_preferred":[
+        "Youghal"
+    ],
+    "name:cym_x_preferred":[
+        "Youghal"
+    ],
     "name:dan_x_preferred":[
         "Youghal"
     ],
@@ -80,6 +86,9 @@
     "name:spa_x_preferred":[
         "Youghal"
     ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u043b"
+    ],
     "name:swe_x_preferred":[
         "Youghal"
     ],
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":101805889,
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313530,
     "wof:name":"Youghal",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

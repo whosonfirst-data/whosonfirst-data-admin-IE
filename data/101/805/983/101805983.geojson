@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0438\u0433\u0443\u0435\u043d\u0430\u043c\u0430\u043d\u0430\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Graiguenamanagh"
+    ],
     "name:deu_x_preferred":[
         "Graiguenamanagh"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u0439\u0433\u043d\u0430\u043c\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Graiguenamanagh"
     ],
     "name:swe_x_preferred":[
         "Graiguenamanagh"
@@ -109,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313547,
     "wof:name":"Graiguenamanagh",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

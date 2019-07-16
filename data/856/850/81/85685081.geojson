@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Meath"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041c\u0456\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09ae\u09bf\u09a5"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Meath"
+    ],
+    "name:ceb_x_preferred":[
+        "An Mh\u00ed"
     ],
     "name:ces_x_preferred":[
         "Meath"
@@ -127,8 +133,14 @@
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10d7\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0442"
+    ],
     "name:kor_x_preferred":[
         "\ubbf8\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubbf8\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Midiensis"
@@ -348,7 +360,7 @@
         }
     ],
     "wof:id":85685081,
-    "wof:lastmodified":1561759723,
+    "wof:lastmodified":1563312620,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

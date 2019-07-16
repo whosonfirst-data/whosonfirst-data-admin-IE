@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Westmeath"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0423\u044d\u0441\u0442\u043c\u0456\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f\u09ae\u09bf\u09a6"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Westmeath"
+    ],
+    "name:ceb_x_preferred":[
+        "An Iarmh\u00ed"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Westmeath"
@@ -74,6 +80,9 @@
     ],
     "name:eus_x_preferred":[
         "Westmeatheko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u062a \u0645\u06cc\u062b"
     ],
     "name:fin_x_preferred":[
         "Westmeath"
@@ -119,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6e8\uc2a4\ud2b8\ubbf8\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6e8\uc2a4\ud2b8\ubbf8\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Midiensis Occidentalis"
@@ -322,7 +334,7 @@
         }
     ],
     "wof:id":85685075,
-    "wof:lastmodified":1561759721,
+    "wof:lastmodified":1563312618,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

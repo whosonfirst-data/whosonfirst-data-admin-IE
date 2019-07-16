@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u0433\u0445\u043b\u0438\u043d\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Leighlinbridge"
+    ],
+    "name:deu_x_preferred":[
+        "Leighlinbridge"
+    ],
     "name:eng_x_preferred":[
         "Leighlinbridge"
     ],
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313524,
     "wof:name":"Leighlinbridge",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

@@ -54,6 +54,9 @@
     "name:cat_x_preferred":[
         "Comtat de Wicklow"
     ],
+    "name:ceb_x_preferred":[
+        "Wicklow"
+    ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Wicklow"
     ],
@@ -134,6 +137,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc704\ud074\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc704\ud074\ub85c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Viclogensis"
@@ -344,7 +350,7 @@
         }
     ],
     "wof:id":85684999,
-    "wof:lastmodified":1561759797,
+    "wof:lastmodified":1563312738,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

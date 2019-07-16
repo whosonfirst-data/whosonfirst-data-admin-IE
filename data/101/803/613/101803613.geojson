@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Killarney"
+    ],
+    "name:bar_x_preferred":[
+        "Killarney"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u043b\u0430\u0440\u043d\u0456"
     ],
@@ -29,6 +35,9 @@
     ],
     "name:cat_x_preferred":[
         "Killarney"
+    ],
+    "name:ceb_x_preferred":[
+        "Cill Airne"
     ],
     "name:cym_x_preferred":[
         "Cill Airne"
@@ -264,7 +273,7 @@
         }
     ],
     "wof:id":101803613,
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313520,
     "wof:name":"Killarney",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

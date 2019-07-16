@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Passage West"
     ],
+    "name:ceb_x_preferred":[
+        "Passage West"
+    ],
     "name:dan_x_preferred":[
         "Passage West"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0441\u0441\u0438\u0434\u0436-\u0423\u044d\u0441\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Passage West"
     ],
     "name:swe_x_preferred":[
         "Passage West"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1125937421,
-    "wof:lastmodified":1561759876,
+    "wof:lastmodified":1563313665,
     "wof:name":"Passage West",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

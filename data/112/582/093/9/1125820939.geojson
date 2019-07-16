@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0435\u0439\u0433\u0430\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Moneygall"
+    ],
     "name:deu_x_preferred":[
         "Moneygall"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125820939,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313941,
     "wof:name":"Moneygall",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

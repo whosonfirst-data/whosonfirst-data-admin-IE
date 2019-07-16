@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Tullamore"
     ],
+    "name:ceb_x_preferred":[
+        "Tullamore"
+    ],
     "name:ces_x_preferred":[
         "Tullamore"
     ],
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101804829,
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313469,
     "wof:name":"Tullamore",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

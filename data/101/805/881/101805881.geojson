@@ -26,7 +26,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0442\u044a\u0440\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Kanturk"
+    ],
     "name:ces_x_preferred":[
+        "Kanturk"
+    ],
+    "name:cym_x_preferred":[
         "Kanturk"
     ],
     "name:deu_x_preferred":[
@@ -65,8 +71,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0451\u0440\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Kanturk"
+    ],
     "name:swe_x_preferred":[
         "Kanturk"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c22\u666e\u6d85\u5c14"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
@@ -135,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313535,
     "wof:name":"Kanturk",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

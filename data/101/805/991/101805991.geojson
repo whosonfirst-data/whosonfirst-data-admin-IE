@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u0444"
     ],
+    "name:ceb_x_preferred":[
+        "Bruff"
+    ],
     "name:eng_x_preferred":[
         "Bruff"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0444\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Bruff"
     ],
     "name:swe_x_preferred":[
         "Bruff"
@@ -110,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313524,
     "wof:name":"Bruff",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

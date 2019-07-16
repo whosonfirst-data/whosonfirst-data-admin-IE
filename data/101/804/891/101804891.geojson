@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u043e\u0443\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Ratoath"
+    ],
     "name:ces_x_preferred":[
         "Ratoath"
     ],
@@ -60,6 +63,9 @@
         "\u0420\u0430\u0442\u043e\u0442"
     ],
     "name:slk_x_preferred":[
+        "Ratoath"
+    ],
+    "name:spa_x_preferred":[
         "Ratoath"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313504,
     "wof:name":"Rathoath",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

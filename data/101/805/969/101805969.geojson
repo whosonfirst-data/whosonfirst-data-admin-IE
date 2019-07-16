@@ -17,6 +17,9 @@
     "mps:longitude":-7.211025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Castlecomer"
+    ],
     "name:eng_x_preferred":[
         "Castlecomer"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u043a\u043e\u043c\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Castlecomer"
     ],
     "name:swe_x_preferred":[
         "Castlecomer"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313554,
     "wof:name":"Castlecomer",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

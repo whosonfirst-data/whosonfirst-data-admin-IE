@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0435\u0432\u0430\u043d\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Buttevant"
+    ],
     "name:deu_x_preferred":[
         "Buttevant"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0442\u0442\u0435\u0432\u044d\u043d\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Buttevant"
     ],
     "name:swe_x_preferred":[
         "Buttevant"
@@ -119,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313536,
     "wof:name":"Buttevant",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

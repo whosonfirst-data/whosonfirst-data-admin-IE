@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Carrigaline"
     ],
+    "name:ceb_x_preferred":[
+        "Carrigaline"
+    ],
     "name:dan_x_preferred":[
         "Carrigaline"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:gle_x_preferred":[
         "Carraig U\u00ed Leighin"
+    ],
+    "name:hun_x_preferred":[
+        "Carrigaline"
     ],
     "name:ita_x_preferred":[
         "Carrigaline"
@@ -128,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313538,
     "wof:name":"Carrigaline",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:fra_x_preferred":[
         "Murrisk"
     ],
+    "name:gla_x_preferred":[
+        "Muraisc"
+    ],
     "name:gle_x_preferred":[
         "Muraisc"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125978855,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313877,
     "wof:name":"Murrisk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

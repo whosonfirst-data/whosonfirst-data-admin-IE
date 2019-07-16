@@ -20,20 +20,38 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0448\u0435\u043b\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kilsheelan"
+    ],
+    "name:deu_x_preferred":[
+        "Kilsheelan"
+    ],
     "name:eng_x_preferred":[
         "Kilsheelan"
     ],
     "name:eus_x_preferred":[
         "Kilsheelan"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0644\u200c\u0634\u06cc\u0644\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kilsheelan"
+    ],
     "name:gle_x_preferred":[
         "Cill Siol\u00e1in"
+    ],
+    "name:gle_x_variant":[
+        "Cill S\u00edol\u00e1in"
     ],
     "name:nld_x_preferred":[
         "Kilsheelan"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0448\u0438\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Kilsheelan"
     ],
     "name:swe_x_preferred":[
         "Kilsheelan"
@@ -79,7 +97,7 @@
         }
     ],
     "wof:id":101805947,
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313549,
     "wof:name":"Kilsheelan",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

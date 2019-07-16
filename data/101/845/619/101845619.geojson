@@ -20,7 +20,13 @@
     "name:bul_x_preferred":[
         "\u0413\u043b\u0435\u043d\u0435\u0430\u043b\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Glenealy"
+    ],
     "name:eng_x_preferred":[
+        "Glenealy"
+    ],
+    "name:eus_x_preferred":[
         "Glenealy"
     ],
     "name:gle_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u0435\u043d\u0438\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Glenealy"
     ],
     "name:swe_x_preferred":[
         "Glenealy"
@@ -84,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759858,
+    "wof:lastmodified":1563313450,
     "wof:name":"Glenealy",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

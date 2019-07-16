@@ -23,13 +23,13 @@
     "name:bel_x_preferred":[
         "\u041d\u0430\u0432\u0430\u043d"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0430\u0432\u0430\u043d"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0432\u0430\u043d"
     ],
     "name:cat_x_preferred":[
+        "Navan"
+    ],
+    "name:ceb_x_preferred":[
         "Navan"
     ],
     "name:ces_x_preferred":[
@@ -52,6 +52,9 @@
     ],
     "name:eus_x_preferred":[
         "Navan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u0627\u0646"
     ],
     "name:fra_x_preferred":[
         "Navan"
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101805851,
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313542,
     "wof:name":"Navan",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0435\u0439\u043c\u043e\u0443\u043d\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Valleymount"
+    ],
     "name:eng_x_preferred":[
+        "Valleymount"
+    ],
+    "name:eus_x_preferred":[
         "Valleymount"
     ],
     "name:fas_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:gle_x_preferred":[
         "Moin an Bhealaigh"
+    ],
+    "name:gle_x_variant":[
+        "An Chrois"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30ea\u30fc\u30de\u30a6\u30f3\u30c8"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125935867,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313661,
     "wof:name":"Valleymount",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

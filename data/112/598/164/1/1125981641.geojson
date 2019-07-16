@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "B\u00e9al \u00c1tha an Ghaorthaidh"
     ],
+    "name:ceb_x_preferred":[
+        "Ballingeary"
+    ],
     "name:deu_x_preferred":[
         "B\u00e9al \u00c1tha an Ghaorthaidh"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0433\u0438\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ballingeary"
     ],
     "name:swe_x_preferred":[
         "Ballingeary"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125981641,
-    "wof:lastmodified":1561759889,
+    "wof:lastmodified":1563313925,
     "wof:name":"Ballingeary",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

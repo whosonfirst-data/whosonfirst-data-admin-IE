@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Carlow"
     ],
+    "name:ceb_x_preferred":[
+        "Carlow"
+    ],
+    "name:ces_x_preferred":[
+        "Carlow"
+    ],
     "name:cym_x_preferred":[
         "Carlow"
     ],
@@ -59,6 +65,12 @@
     "name:glg_x_preferred":[
         "Carlow"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05dc\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Carlow"
+    ],
     "name:ind_x_preferred":[
         "Carlow"
     ],
@@ -81,6 +93,9 @@
         "Carlow"
     ],
     "name:nno_x_preferred":[
+        "Carlow"
+    ],
+    "name:nob_x_preferred":[
         "Carlow"
     ],
     "name:nor_x_preferred":[
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":101805963,
-    "wof:lastmodified":1507750698,
+    "wof:lastmodified":1563313526,
     "wof:name":"Carlow",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

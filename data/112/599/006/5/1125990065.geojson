@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0441\u043f\u0438\u0442\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ballinspittle"
+    ],
     "name:eng_x_preferred":[
         "Ballinspittle"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0441\u043f\u0438\u0442\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinspittle"
     ],
     "name:swe_x_preferred":[
         "Ballinspittle"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125990065,
-    "wof:lastmodified":1561759886,
+    "wof:lastmodified":1563313864,
     "wof:name":"Ballinspittle",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

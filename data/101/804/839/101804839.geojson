@@ -17,6 +17,9 @@
     "mps:longitude":-7.726551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kilcormac"
+    ],
     "name:eng_x_preferred":[
         "Kilcormac"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043a\u043e\u0440\u043c\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Kilcormac"
     ],
     "name:swe_x_preferred":[
         "Kilcormac"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313506,
     "wof:name":"Kilcormac",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

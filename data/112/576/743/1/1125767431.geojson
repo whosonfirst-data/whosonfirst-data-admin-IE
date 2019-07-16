@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0439\u0448\u0430\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Myshall"
+    ],
     "name:cym_x_preferred":[
         "Myshall"
     ],
@@ -49,10 +52,16 @@
     "name:nob_x_preferred":[
         "Myshall"
     ],
+    "name:por_x_preferred":[
+        "Myshall"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0448\u0430\u043b\u043b"
     ],
     "name:sco_x_preferred":[
+        "Myshall"
+    ],
+    "name:spa_x_preferred":[
         "Myshall"
     ],
     "name:swe_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125767431,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313943,
     "wof:name":"Myshall",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

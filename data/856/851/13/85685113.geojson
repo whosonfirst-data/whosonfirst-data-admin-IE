@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u0441\u043a\u043e\u043c\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0420\u0430\u0441\u043a\u043e\u043c\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b0\u09b8\u0995\u09ae\u09a8"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Roscommon"
+    ],
+    "name:ceb_x_preferred":[
+        "Roscommon"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Roscommon"
@@ -108,6 +114,9 @@
     "name:hin_x_preferred":[
         "\u0930\u094c\u0938\u0915\u0949\u092e\u0928 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Roscommon megye"
+    ],
     "name:hye_x_preferred":[
         "\u054c\u0578\u057d\u0584\u0578\u0574\u0578\u0576"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\ucee4\uba3c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\uc2a4\ucee4\uba3c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Roscomensis"
@@ -338,7 +350,7 @@
         }
     ],
     "wof:id":85685113,
-    "wof:lastmodified":1561759771,
+    "wof:lastmodified":1563312693,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

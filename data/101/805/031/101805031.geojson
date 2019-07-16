@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ballina"
     ],
+    "name:ceb_x_preferred":[
+        "Ballina"
+    ],
     "name:cym_x_preferred":[
         "Ballina"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:glg_x_preferred":[
         "Ballina - B\u00e9al an \u00c1tha"
+    ],
+    "name:glg_x_variant":[
+        "Ballina"
     ],
     "name:glv_x_preferred":[
         "Beeal yn Aah"
@@ -107,11 +113,23 @@
     "name:sco_x_preferred":[
         "Ballina"
     ],
+    "name:spa_x_preferred":[
+        "Ballina"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "Ballina"
+    ],
+    "name:szl_x_preferred":[
+        "Ballina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0456\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0646\u0627"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5229\u7eb3"
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":101805031,
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313541,
     "wof:name":"Ballina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

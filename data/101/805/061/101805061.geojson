@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043b\u0438\u0444\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ballyliffin"
+    ],
     "name:eng_x_preferred":[
         "Ballyliffin"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u043b\u0438\u0444\u0444\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyliffin"
     ],
     "name:swe_x_preferred":[
         "Ballyliffin"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313566,
     "wof:name":"Ballyliffin",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

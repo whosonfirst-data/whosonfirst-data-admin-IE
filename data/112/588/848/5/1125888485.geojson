@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u0433\u0430\u0441\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Annagassan"
+    ],
     "name:eng_x_preferred":[
         "Annagassan"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u043d\u0430\u0433\u0430\u0441\u0441\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Annagassan"
     ],
     "name:swe_x_preferred":[
         "Annagassan"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125888485,
-    "wof:lastmodified":1561759883,
+    "wof:lastmodified":1563313782,
     "wof:name":"Annagassan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

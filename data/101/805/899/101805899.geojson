@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Bandon"
     ],
+    "name:ceb_x_preferred":[
+        "Bandon"
+    ],
     "name:cym_x_preferred":[
         "Droichead na Bandan"
     ],
@@ -80,8 +83,17 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0434\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Bandon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u0434\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
         "Bandon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0646\u0688\u0646"
     ],
     "name:zho_x_preferred":[
         "\u73ed\u9813"
@@ -130,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313571,
     "wof:name":"Bandon",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Killincarrig"
     ],
+    "name:eus_x_preferred":[
+        "Killincarrig"
+    ],
     "name:gle_x_preferred":[
         "Coill\u00edn na Carraige"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101911111,
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313608,
     "wof:name":"Killincarrig",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

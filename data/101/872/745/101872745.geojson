@@ -20,8 +20,17 @@
     "name:cat_x_preferred":[
         "Kilmacanogue"
     ],
+    "name:dan_x_preferred":[
+        "Kilmacanogue"
+    ],
     "name:eng_x_preferred":[
         "Kilmacanoge"
+    ],
+    "name:eng_x_variant":[
+        "Kilmacanogue"
+    ],
+    "name:eus_x_preferred":[
+        "Kilmacanogue"
     ],
     "name:gle_x_preferred":[
         "Cill Mochean\u00f3g"
@@ -31,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043c\u0430\u043a\u0430\u043d\u043e\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmacanogue"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Wicklow",
@@ -78,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759859,
+    "wof:lastmodified":1563313458,
     "wof:name":"Kilmacanoge",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",
