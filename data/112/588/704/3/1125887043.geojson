@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kiltartan"
+    ],
     "name:eng_x_preferred":[
         "Kiltartan"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125887043,
-    "wof:lastmodified":1561759883,
+    "wof:lastmodified":1563313780,
     "wof:name":"Kiltartan",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

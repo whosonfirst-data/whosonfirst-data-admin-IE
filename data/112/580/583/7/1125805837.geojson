@@ -22,10 +22,16 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0434\u0430\u043b\u043a\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Kildalkey"
+    ],
     "name:eng_x_preferred":[
         "Kildalkey"
     ],
     "name:eus_x_preferred":[
+        "Kildalkey"
+    ],
+    "name:fra_x_preferred":[
         "Kildalkey"
     ],
     "name:gle_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125805837,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1563313815,
     "wof:name":"Kildalkey",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

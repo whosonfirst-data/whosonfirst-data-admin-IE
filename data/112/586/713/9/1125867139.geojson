@@ -22,10 +22,19 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0435\u0448\u0430\u043d\u0434\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Killeshandra"
+    ],
     "name:eng_x_preferred":[
         "Killashandra"
     ],
+    "name:eng_x_variant":[
+        "Killeshandra"
+    ],
     "name:eus_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:fra_x_preferred":[
         "Killeshandra"
     ],
     "name:gla_x_preferred":[
@@ -47,6 +56,9 @@
         "\u041a\u0438\u043b\u043b\u0435\u0448\u0430\u043d\u0434\u0440\u0430"
     ],
     "name:slk_x_preferred":[
+        "Killeshandra"
+    ],
+    "name:spa_x_preferred":[
         "Killeshandra"
     ],
     "name:swe_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125867139,
-    "wof:lastmodified":1561759881,
+    "wof:lastmodified":1563313767,
     "wof:name":"Killieshandra",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

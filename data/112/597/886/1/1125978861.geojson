@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u043b\u0438\u043d\u0430\u0432\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Mullinavat"
+    ],
     "name:eng_x_preferred":[
         "Mullinavat"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u043b\u0438\u043d\u0430\u0432\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Mullinavat"
     ],
     "name:swe_x_preferred":[
         "Mullinavat"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125978861,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313872,
     "wof:name":"Mullinavat",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

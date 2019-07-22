@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Sneem"
+    ],
     "name:deu_x_preferred":[
         "Sneem"
     ],
@@ -37,6 +40,9 @@
     "name:gle_x_preferred":[
         "An Snaidhm"
     ],
+    "name:gle_x_variant":[
+        "An tSnaidhm"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d9\u05dd"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043d\u0438\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Sneem"
     ],
     "name:swe_x_preferred":[
         "Sneem"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125923397,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313691,
     "wof:name":"Sneem",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Neale"
     ],
+    "name:eus_x_preferred":[
+        "Neale"
+    ],
     "name:gle_x_preferred":[
         "An \u00c9ill"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125956117,
-    "wof:lastmodified":1561759878,
+    "wof:lastmodified":1563313699,
     "wof:name":"Neale",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

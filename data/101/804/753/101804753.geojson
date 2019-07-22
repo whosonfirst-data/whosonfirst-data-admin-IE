@@ -20,7 +20,13 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0443\u043d\u0442\u0440\u0430\u0442\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Mountrath"
+    ],
     "name:eng_x_preferred":[
+        "Mountrath"
+    ],
+    "name:fra_x_preferred":[
         "Mountrath"
     ],
     "name:gle_x_preferred":[
@@ -39,6 +45,9 @@
         "\u041c\u0430\u0443\u043d\u0442\u0440\u0430\u0442"
     ],
     "name:slk_x_preferred":[
+        "Mountrath"
+    ],
+    "name:spa_x_preferred":[
         "Mountrath"
     ],
     "name:swe_x_preferred":[
@@ -89,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313464,
     "wof:name":"Mountrath",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

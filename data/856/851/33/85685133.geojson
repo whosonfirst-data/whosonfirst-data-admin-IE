@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Leitrim"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041b\u0456\u0442\u0440\u044b\u043c"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09b2\u09bf\u09a4\u09cd\u09b0\u09ae"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Leitrim"
+    ],
+    "name:ceb_x_preferred":[
+        "County Leitrim"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Leitrim"
@@ -66,6 +72,9 @@
     "name:eng_x_preferred":[
         "Leitrim"
     ],
+    "name:eng_x_variant":[
+        "County Leitrim"
+    ],
     "name:epo_x_preferred":[
         "Graflando Leitrim"
     ],
@@ -74,6 +83,9 @@
     ],
     "name:eus_x_variant":[
         "Leitrimeko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u06cc\u062a\u0631\u06cc\u0645"
     ],
     "name:fin_x_preferred":[
         "Leitrimin kreivikunta"
@@ -87,6 +99,9 @@
     "name:gle_x_preferred":[
         "Liatroim"
     ],
+    "name:gle_x_variant":[
+        "Contae Liatroma"
+    ],
     "name:glg_x_preferred":[
         "Condado de Leitrim"
     ],
@@ -98,6 +113,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05d8\u05e8\u05d9\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05dc\u05d9\u05d8\u05e8\u05d9\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0932\u0940\u091f\u094d\u0930\u093f\u092e"
@@ -111,6 +129,9 @@
     "name:ita_x_preferred":[
         "Contea di Leitrim"
     ],
+    "name:ita_x_variant":[
+        "Leitrim"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30c8\u30ea\u30e0\u5dde"
     ],
@@ -122,6 +143,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ud2b8\ub9bc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ud2b8\ub9bc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Letrimensis"
@@ -329,7 +353,7 @@
         }
     ],
     "wof:id":85685133,
-    "wof:lastmodified":1561759757,
+    "wof:lastmodified":1563312672,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

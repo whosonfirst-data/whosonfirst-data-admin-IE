@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Mulhuddart"
     ],
+    "name:eus_x_preferred":[
+        "Mulhuddart"
+    ],
     "name:gla_x_preferred":[
         "Mullach Eadrad"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125903151,
-    "wof:lastmodified":1514450617,
+    "wof:lastmodified":1563313868,
     "wof:name":"Mulhuddart",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0430\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Leap"
+    ],
     "name:eng_x_preferred":[
         "Leap"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Leap"
     ],
     "name:swe_x_preferred":[
         "Leap"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125961741,
-    "wof:lastmodified":1561759888,
+    "wof:lastmodified":1563313914,
     "wof:name":"Leap",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -65,8 +65,14 @@
     "name:sco_x_preferred":[
         "Clara"
     ],
+    "name:spa_x_preferred":[
+        "Clara"
+    ],
     "name:swe_x_preferred":[
         "Clara"
+    ],
+    "name:swe_x_variant":[
+        "Killucan"
     ],
     "name:zho_x_preferred":[
         "\u514b\u62c9\u62c9"
@@ -115,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313479,
     "wof:name":"Clara",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

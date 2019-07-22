@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Loughrea"
     ],
+    "name:ceb_x_preferred":[
+        "Loughrea"
+    ],
+    "name:cym_x_preferred":[
+        "Loughrea"
+    ],
     "name:dan_x_preferred":[
         "Loughrea"
     ],
@@ -64,6 +70,12 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0445\u0440\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Loughrea"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u043a\u0440\u0435\u0458"
     ],
     "name:swe_x_preferred":[
         "Loughrea"
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":101804959,
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313490,
     "wof:name":"Loughrea",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

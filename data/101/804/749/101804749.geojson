@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Port Laoise"
     ],
+    "name:cat_x_variant":[
+        "Portlaoise"
+    ],
+    "name:ceb_x_preferred":[
+        "Portlaoise"
+    ],
     "name:cym_x_preferred":[
         "Portlaoise"
     ],
@@ -113,6 +119,9 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442-\u041b\u0438\u0438\u0448\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Portlaoise"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043b\u0438\u0448"
     ],
@@ -178,7 +187,7 @@
         }
     ],
     "wof:id":101804749,
-    "wof:lastmodified":1561759862,
+    "wof:lastmodified":1563313484,
     "wof:name":"Portlaoise",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Corduff"
     ],
+    "name:eus_x_preferred":[
+        "Corduff"
+    ],
     "name:gla_x_preferred":[
         "An Chorr Dhubh"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125868769,
-    "wof:lastmodified":1561759881,
+    "wof:lastmodified":1563313769,
     "wof:name":"Corduff",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

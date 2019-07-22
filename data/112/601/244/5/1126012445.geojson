@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Kilternan"
     ],
+    "name:eus_x_preferred":[
+        "Kilternan"
+    ],
     "name:fra_x_preferred":[
         "Kilternan"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126012445,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313933,
     "wof:name":"Kilternan",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

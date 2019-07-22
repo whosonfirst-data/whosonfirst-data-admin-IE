@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Cavan"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041a\u0430\u0432\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0995\u09ad\u09c7\u09a8"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Cavan"
+    ],
+    "name:ceb_x_preferred":[
+        "An Cabh\u00e1n"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Cavan"
@@ -78,6 +84,9 @@
     ],
     "name:eus_x_preferred":[
         "Cavan konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0648\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Cavanin kreivikunta"
@@ -126,6 +135,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce90\ubc88 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce90\ubc88\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Clarensis"
@@ -339,7 +351,7 @@
         }
     ],
     "wof:id":85685125,
-    "wof:lastmodified":1561759772,
+    "wof:lastmodified":1563312695,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

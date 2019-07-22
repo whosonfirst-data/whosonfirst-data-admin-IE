@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u0442\u0430\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Milltown"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kerry",
     "qs:a1r":"0",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101806017,
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313604,
     "wof:name":"Milltown",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

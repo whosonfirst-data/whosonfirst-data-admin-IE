@@ -23,7 +23,13 @@
     "name:cat_x_preferred":[
         "Thurles"
     ],
+    "name:ceb_x_preferred":[
+        "Thurles"
+    ],
     "name:ces_x_preferred":[
+        "Thurles"
+    ],
+    "name:cym_x_preferred":[
         "Thurles"
     ],
     "name:dan_x_preferred":[
@@ -89,6 +95,12 @@
     "name:rus_x_preferred":[
         "\u0422\u0451\u0440\u043b\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Thurles"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0440\u043b\u0441"
+    ],
     "name:swe_x_preferred":[
         "Thurles"
     ],
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":101806043,
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313604,
     "wof:name":"Thurles",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

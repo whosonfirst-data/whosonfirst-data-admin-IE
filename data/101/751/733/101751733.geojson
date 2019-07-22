@@ -42,6 +42,9 @@
     "name:cat_x_preferred":[
         "Limerick"
     ],
+    "name:ceb_x_preferred":[
+        "Luimneach"
+    ],
     "name:ces_x_preferred":[
         "Limerick"
     ],
@@ -156,6 +159,9 @@
     "name:lit_x_variant":[
         "Limerikas"
     ],
+    "name:ltz_x_preferred":[
+        "Limerick"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u0930\u093f\u0915"
     ],
@@ -234,6 +240,9 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bbf\u0bae\u0bb0\u0bbf\u0b95\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043c\u0435\u0440\u0438\u043a"
+    ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3f\u0c2e\u0c3e\u0c30\u0c3f\u0c15\u0c4d"
     ],
@@ -248,6 +257,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0645\u0631\u06a9"
+    ],
+    "name:uzb_x_preferred":[
+        "Limerik"
     ],
     "name:vie_x_preferred":[
         "Limerick"
@@ -401,7 +413,7 @@
         }
     ],
     "wof:id":101751733,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313585,
     "wof:name":"Limerick",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "An Daingean"
     ],
+    "name:ceb_x_preferred":[
+        "Dingle"
+    ],
     "name:cym_x_preferred":[
         "An Daingean"
     ],
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313605,
     "wof:name":"Dingle",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

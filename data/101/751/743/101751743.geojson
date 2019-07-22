@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u0648\u0627\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Galway"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u043e\u043b\u0443\u044d\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u043b\u0443\u044d\u0439"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09be\u09b2\u0993\u09af\u09bc\u09c7"
@@ -118,6 +124,9 @@
     "name:hye_x_preferred":[
         "\u0533\u0578\u056c\u0578\u0582\u0567\u0575"
     ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0561\u056c\u0578\u0582\u0567\u0575"
+    ],
     "name:ile_x_preferred":[
         "Galway"
     ],
@@ -205,6 +214,9 @@
     "name:slk_x_preferred":[
         "Galway"
     ],
+    "name:slv_x_preferred":[
+        "Galway"
+    ],
     "name:spa_x_preferred":[
         "Galway"
     ],
@@ -222,6 +234,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb2\u0bcd\u0bb5\u0bc7"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u043b\u0432\u0435\u0439"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c3e\u0c32\u0c4d\u0c35\u0c47"
@@ -407,7 +422,7 @@
         }
     ],
     "wof:id":101751743,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313587,
     "wof:name":"Galway",
     "wof:parent_id":85685055,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u0418\u043d\u0438\u0448\u0430\u043d\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Innishannon"
+    ],
     "name:deu_x_preferred":[
         "Innishannon"
     ],
     "name:eng_x_preferred":[
         "Inishannon"
+    ],
+    "name:eng_x_variant":[
+        "Innishannon"
     ],
     "name:eus_x_preferred":[
         "Innishannon"
@@ -38,8 +44,14 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0438\u0448\u0430\u043d\u043d\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Innishannon"
+    ],
     "name:swe_x_preferred":[
         "Innishannon"
+    ],
+    "name:swe_x_variant":[
+        "Monkstown"
     ],
     "name:unk_x_variant":[
         "Innishannon"
@@ -89,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313574,
     "wof:name":"Inishannon",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Carrick-on-Suir"
     ],
+    "name:ceb_x_preferred":[
+        "Carrick-on-Suir"
+    ],
     "name:cym_x_preferred":[
         "Carrick-on-Suir"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0440\u0438\u043a-\u043e\u043d-\u0428\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Carrick-on-Suir"
     ],
     "name:swe_x_preferred":[
         "Carrick-on-Suir"
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":101805945,
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313575,
     "wof:name":"Carrick-on-Suir",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

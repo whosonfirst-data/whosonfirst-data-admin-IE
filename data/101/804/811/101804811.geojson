@@ -17,6 +17,15 @@
     "mps:longitude":-8.53472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Scarriff"
+    ],
+    "name:dan_x_preferred":[
+        "Scarriff"
+    ],
+    "name:deu_x_preferred":[
+        "Scarriff"
+    ],
     "name:eng_x_preferred":[
         "Scarriff"
     ],
@@ -35,14 +44,23 @@
     "name:gle_x_preferred":[
         "An Scairbh"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e7\u05d0\u05e8\u05d9\u05e3"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ab\u30ea\u30d5"
     ],
     "name:nld_x_preferred":[
         "Scariff"
     ],
+    "name:pol_x_preferred":[
+        "Scariff"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0438\u0444\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Scariff"
     ],
     "name:swe_x_preferred":[
         "Scariff"
@@ -98,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313469,
     "wof:name":"Scarriff",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0438\u043d\u0433\u0435\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Daingean"
+    ],
     "name:eng_x_preferred":[
         "Philipstown"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u044d\u043d\u0433\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Daingean"
     ],
     "name:swe_x_preferred":[
         "Daingean"
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313468,
     "wof:name":"Daingean",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

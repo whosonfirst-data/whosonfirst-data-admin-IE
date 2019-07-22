@@ -20,7 +20,13 @@
     "name:cat_x_preferred":[
         "Ballymore Eustace"
     ],
+    "name:ceb_x_preferred":[
+        "Ballymore Eustace"
+    ],
     "name:eng_x_preferred":[
+        "Ballymore Eustace"
+    ],
+    "name:eus_x_preferred":[
         "Ballymore Eustace"
     ],
     "name:gle_x_preferred":[
@@ -33,6 +39,12 @@
         "\u0411\u0430\u043b\u043b\u0438\u043c\u043e\u0440-\u042e\u0441\u0442\u0430\u0441"
     ],
     "name:slk_x_preferred":[
+        "Ballymore Eustace"
+    ],
+    "name:spa_x_preferred":[
+        "Ballymore Eustace"
+    ],
+    "name:swe_x_preferred":[
         "Ballymore Eustace"
     ],
     "qs:a0":"Ireland",
@@ -80,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642743,
+    "wof:lastmodified":1563313463,
     "wof:name":"Ballymore Eustace",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

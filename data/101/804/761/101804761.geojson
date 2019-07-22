@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Rathdowney"
     ],
+    "name:ceb_x_preferred":[
+        "Rathdowney"
+    ],
     "name:ces_x_preferred":[
         "Rathdowney"
     ],
@@ -290,7 +293,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313495,
     "wof:name":"Rathdowney",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

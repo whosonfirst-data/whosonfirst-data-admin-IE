@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u d'Offaly"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041e\u0444\u0430\u043b\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0993\u09ab\u09cd\u09af\u09be\u09b2\u09bf"
     ],
@@ -47,6 +50,12 @@
     ],
     "name:cat_x_preferred":[
         "Comtat d'Offaly"
+    ],
+    "name:cat_x_variant":[
+        "comtat d'Offaly"
+    ],
+    "name:ceb_x_preferred":[
+        "U\u00edbh Fhail\u00ed"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Offaly"
@@ -120,8 +129,14 @@
     "name:kat_x_preferred":[
         "\u10dd\u10e4\u10d0\u10da\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
     ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0444\u0444\u0430\u043b\u0438"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ud384\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud384\ub9ac\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Offalaiensis"
@@ -331,7 +346,7 @@
         }
     ],
     "wof:id":85685041,
-    "wof:lastmodified":1561759742,
+    "wof:lastmodified":1563312649,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

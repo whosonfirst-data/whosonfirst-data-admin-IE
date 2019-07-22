@@ -39,6 +39,9 @@
     "name:ita_x_preferred":[
         "Clonfert"
     ],
+    "name:lat_x_preferred":[
+        "Clonfertum"
+    ],
     "name:nld_x_preferred":[
         "Clonfert"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126053995,
-    "wof:lastmodified":1561759879,
+    "wof:lastmodified":1563313742,
     "wof:name":"Clonfert",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0435\u0430\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Killeagh"
+    ],
     "name:eng_x_preferred":[
         "Killeagh"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Killeagh"
     ],
     "name:swe_x_preferred":[
         "Killeagh"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125845357,
-    "wof:lastmodified":1561759893,
+    "wof:lastmodified":1563313979,
     "wof:name":"Killeagh",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

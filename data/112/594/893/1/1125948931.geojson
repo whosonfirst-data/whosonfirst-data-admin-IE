@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Cill Charthaigh"
     ],
+    "name:ceb_x_preferred":[
+        "Kilcar"
+    ],
     "name:deu_x_preferred":[
         "Kilcar"
     ],
@@ -49,8 +52,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043a\u0430\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Cill Charthaigh"
+    ],
     "name:swe_x_preferred":[
         "Kilcar"
+    ],
+    "name:vol_x_preferred":[
+        "Cabragh"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125948931,
-    "wof:lastmodified":1561759874,
+    "wof:lastmodified":1563313655,
     "wof:name":"Kilcar",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

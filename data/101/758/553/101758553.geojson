@@ -20,10 +20,16 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0441\u0430\u043b\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Kinsaley"
+    ],
     "name:dan_x_preferred":[
         "Kinsealy-Drinan"
     ],
     "name:eng_x_preferred":[
+        "Kinsealy"
+    ],
+    "name:eus_x_preferred":[
         "Kinsealy"
     ],
     "name:gla_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043d\u0441\u0438\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kinsealy"
     ],
     "name:swe_x_preferred":[
         "Kinsaley"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":101758553,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313580,
     "wof:name":"Kinsaley",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

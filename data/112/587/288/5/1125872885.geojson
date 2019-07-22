@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0439\u0442\u0430\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Laytown"
+    ],
     "name:eng_x_preferred":[
         "Laytown"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125872885,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1563313816,
     "wof:name":"Laytown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

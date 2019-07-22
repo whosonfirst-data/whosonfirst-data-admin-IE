@@ -20,10 +20,19 @@
     "name:bul_x_preferred":[
         "\u041b\u044a\u0441\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Lusk"
+    ],
     "name:dan_x_preferred":[
         "Lusk"
     ],
+    "name:deu_x_preferred":[
+        "Lusk"
+    ],
     "name:eng_x_preferred":[
+        "Lusk"
+    ],
+    "name:eus_x_preferred":[
         "Lusk"
     ],
     "name:fra_x_preferred":[
@@ -47,11 +56,17 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0441\u043a"
     ],
+    "name:spa_x_preferred":[
+        "Lusk"
+    ],
     "name:swe_x_preferred":[
         "Lusk"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0633\u06a9\u060c \u0688\u0628\u0644\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0633\u06a9"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Fingal",
@@ -96,7 +111,7 @@
         }
     ],
     "wof:id":101804851,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313478,
     "wof:name":"Lusk",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

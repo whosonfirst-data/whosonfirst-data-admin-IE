@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0441\u044a\u043b\u0444\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Castlefin"
+    ],
     "name:eng_x_preferred":[
         "Castlefin"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0444\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Castlefin"
     ],
     "name:swe_x_preferred":[
         "Castlefin"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":101805079,
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313529,
     "wof:name":"Castlefin",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

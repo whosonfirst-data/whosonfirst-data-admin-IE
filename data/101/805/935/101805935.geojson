@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0424\u044a\u0440\u043d\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Ferns"
+    ],
+    "name:cym_x_preferred":[
+        "Ferns"
+    ],
     "name:deu_x_preferred":[
         "Ferns"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "Alder Trees"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6069\u65af"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Wexford",
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759869,
+    "wof:lastmodified":1563313553,
     "wof:name":"Ferns",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

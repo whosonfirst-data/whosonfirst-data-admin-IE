@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Comtat de Monaghan"
     ],
+    "name:ceb_x_preferred":[
+        "County Monaghan"
+    ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Monaghan"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Monaghan"
+    ],
+    "name:eng_x_variant":[
+        "County Monaghan"
     ],
     "name:epo_x_preferred":[
         "Graflando Monaghan"
@@ -89,6 +95,9 @@
     ],
     "name:gle_x_preferred":[
         "Muineach\u00e1n"
+    ],
+    "name:gle_x_variant":[
+        "Contae Mhuineach\u00e1in"
     ],
     "name:glg_x_preferred":[
         "Condado de Monaghan"
@@ -334,7 +343,7 @@
         }
     ],
     "wof:id":85685117,
-    "wof:lastmodified":1561759767,
+    "wof:lastmodified":1563312686,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

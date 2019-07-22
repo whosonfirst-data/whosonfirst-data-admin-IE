@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Granard"
     ],
+    "name:ceb_x_preferred":[
+        "Granard"
+    ],
     "name:deu_x_preferred":[
         "Granard"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0430\u0440\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Granard"
     ],
     "name:swe_x_preferred":[
         "Granard"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":101804923,
-    "wof:lastmodified":1561759862,
+    "wof:lastmodified":1563313484,
     "wof:name":"Granard",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

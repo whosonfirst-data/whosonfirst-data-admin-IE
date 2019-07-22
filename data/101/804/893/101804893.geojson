@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0414\u044a\u043d\u0448\u043e\u043a\u043b\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Dunshaughlin"
+    ],
     "name:dan_x_preferred":[
         "Dunshaughlin"
     ],
@@ -60,6 +63,9 @@
         "\u0414\u0443\u043d\u0448\u0430\u0443\u043b\u0438\u043d"
     ],
     "name:slk_x_preferred":[
+        "Dunshaughlin"
+    ],
+    "name:spa_x_preferred":[
         "Dunshaughlin"
     ],
     "name:swe_x_preferred":[
@@ -110,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313479,
     "wof:name":"Dunshaughlin",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u063a\u0644\u0627\u0633"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0443\u0433\u043b\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Douglas"
+    ],
+    "name:dan_x_preferred":[
+        "Douglas"
+    ],
     "name:eng_x_preferred":[
         "Douglas"
     ],
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":1125415653,
-    "wof:lastmodified":1561759892,
+    "wof:lastmodified":1563313965,
     "wof:name":"Douglas",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

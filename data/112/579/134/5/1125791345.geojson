@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Rathmullan"
     ],
+    "name:ceb_x_preferred":[
+        "Rathmullan"
+    ],
     "name:deu_x_preferred":[
         "Rathmullan"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0442\u043c\u0430\u043b\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Rathmullen"
     ],
     "name:swe_x_preferred":[
         "Rathmullan"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1125791345,
-    "wof:lastmodified":1561759892,
+    "wof:lastmodified":1563313971,
     "wof:name":"Rathmullan",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Croghan"
     ],
+    "name:eus_x_preferred":[
+        "Croghan"
+    ],
     "name:gle_x_preferred":[
         "Cruach\u00e1n"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1126031995,
-    "wof:lastmodified":1561759880,
+    "wof:lastmodified":1563313750,
     "wof:name":"Croghan",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

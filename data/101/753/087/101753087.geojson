@@ -17,10 +17,16 @@
     "mps:longitude":-6.228042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Sord"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u043e\u0440\u0434\u0441"
     ],
     "name:cat_x_preferred":[
+        "Swords"
+    ],
+    "name:ceb_x_preferred":[
         "Swords"
     ],
     "name:ces_x_preferred":[
@@ -98,14 +104,23 @@
     "name:srp_x_preferred":[
         "\u0421\u043e\u0440\u0434\u0441"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0432\u043e\u0440\u0434\u0441"
+    ],
     "name:swe_x_preferred":[
         "Swords"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u0440\u0434\u0441"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u0434\u0437"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u0688\u0632\u060c \u0688\u0628\u0644\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0648\u0631\u0688\u0632"
     ],
     "name:zho_x_preferred":[
         "\u65af\u6c83\u53f8"
@@ -153,7 +168,7 @@
         }
     ],
     "wof:id":101753087,
-    "wof:lastmodified":1561759857,
+    "wof:lastmodified":1563313448,
     "wof:name":"Swords",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

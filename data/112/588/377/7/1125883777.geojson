@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0435\u0432\u0435\u0440\u0443\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Slieverue"
+    ],
     "name:eng_x_preferred":[
         "Slieverue"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u0438\u0432\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Slieverue"
     ],
     "name:swe_x_preferred":[
         "Slieverue"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125883777,
-    "wof:lastmodified":1561759883,
+    "wof:lastmodified":1563313779,
     "wof:name":"Slieverue",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

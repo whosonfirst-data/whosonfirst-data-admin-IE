@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0418\u043d\u0430\u0433\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Inagh"
+    ],
     "name:deu_x_preferred":[
         "Inagh"
     ],
@@ -44,8 +47,14 @@
     "name:rus_x_preferred":[
         "\u0418\u043d\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Inagh"
+    ],
     "name:swe_x_preferred":[
         "Inagh"
+    ],
+    "name:swe_x_variant":[
+        "Strandhill"
     ],
     "name:unk_x_variant":[
         "Dysert"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313579,
     "wof:name":"Dysart",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

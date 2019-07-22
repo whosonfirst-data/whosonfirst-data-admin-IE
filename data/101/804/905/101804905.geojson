@@ -17,6 +17,9 @@
     "mps:longitude":-6.541884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Louth"
+    ],
     "name:eng_x_preferred":[
         "Louth"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313495,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

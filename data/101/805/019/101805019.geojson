@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u062c\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0644\u0627\u064a\u063a\u0648"
+    ],
     "name:bre_x_preferred":[
         "Sligeach"
     ],
@@ -29,6 +32,9 @@
         "\u0421\u043b\u0430\u0439\u0433\u043e\u0443"
     ],
     "name:cat_x_preferred":[
+        "Sligo"
+    ],
+    "name:ceb_x_preferred":[
         "Sligo"
     ],
     "name:ces_x_preferred":[
@@ -85,6 +91,9 @@
     "name:hun_x_preferred":[
         "Sligo"
     ],
+    "name:ido_x_preferred":[
+        "Sligo"
+    ],
     "name:ind_x_preferred":[
         "Sligo"
     ],
@@ -124,6 +133,9 @@
     "name:oss_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
     ],
+    "name:pms_x_preferred":[
+        "Sligo"
+    ],
     "name:pol_x_preferred":[
         "Sligo"
     ],
@@ -154,8 +166,14 @@
     "name:swe_x_preferred":[
         "Sligo"
     ],
+    "name:tur_x_preferred":[
+        "Sligo"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0439\u0433\u043e"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u83b1\u6208"
     ],
     "name:zho_x_preferred":[
         "\u65af\u83b1\u6208"
@@ -299,7 +317,7 @@
         }
     ],
     "wof:id":101805019,
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313564,
     "wof:name":"Sligo",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

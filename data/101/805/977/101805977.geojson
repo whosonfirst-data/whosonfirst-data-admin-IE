@@ -30,6 +30,9 @@
     "name:cat_x_preferred":[
         "Kilkenny"
     ],
+    "name:ceb_x_preferred":[
+        "Kilkenny"
+    ],
     "name:ces_x_preferred":[
         "Kilkenny"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Kilkenny"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bb\u03ba\u03b5\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kilkenny"
@@ -65,6 +71,9 @@
     ],
     "name:glg_x_preferred":[
         "Kilkenny - Cill Chainnigh"
+    ],
+    "name:glg_x_variant":[
+        "Kilkenny"
     ],
     "name:glv_x_preferred":[
         "Keeill Chennee"
@@ -121,6 +130,9 @@
         "Kilkenny"
     ],
     "name:por_x_preferred":[
+        "Kilkenny"
+    ],
+    "name:ron_x_preferred":[
         "Kilkenny"
     ],
     "name:rus_x_preferred":[
@@ -308,7 +320,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313546,
     "wof:name":"Kilkenny",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

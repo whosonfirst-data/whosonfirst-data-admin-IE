@@ -29,6 +29,21 @@
     "name:bre_x_preferred":[
         "Cluain Tarbh"
     ],
+    "name:cat_x_preferred":[
+        "Clontarf"
+    ],
+    "name:ceb_x_preferred":[
+        "Clontarf"
+    ],
+    "name:dan_x_preferred":[
+        "Clontarf"
+    ],
+    "name:deu_x_preferred":[
+        "Clontarf"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03bf\u03bd\u03c4\u03ac\u03c1\u03c6"
+    ],
     "name:eng_x_preferred":[
         "Clontarf"
     ],
@@ -37,6 +52,9 @@
     ],
     "name:eus_x_preferred":[
         "Clontarf"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u0646\u062a\u0627\u0631\u0641"
     ],
     "name:fra_x_preferred":[
         "Clontarf"
@@ -47,7 +65,25 @@
     "name:gle_x_preferred":[
         "Cluain Tarbh"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d1\u05dc\u05d9\u05df"
+    ],
     "name:ita_x_preferred":[
+        "Clontarf"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30f3\u30bf\u30fc\u30d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10dd\u10dc\u10e2\u10d0\u10e0\u10e4\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Klontarfas"
+    ],
+    "name:nld_x_preferred":[
+        "Clontarf"
+    ],
+    "name:nob_x_preferred":[
         "Clontarf"
     ],
     "name:nor_x_preferred":[
@@ -59,11 +95,20 @@
     "name:rus_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0442\u0430\u0440\u0444"
     ],
+    "name:slv_x_preferred":[
+        "Clontarf"
+    ],
     "name:spa_x_preferred":[
+        "Clontarf"
+    ],
+    "name:swe_x_preferred":[
         "Clontarf"
     ],
     "name:unk_x_variant":[
         "Clontarf"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0644\u0648\u0646\u0679\u0627\u0631\u0641"
     ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
@@ -123,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530148451,
+    "wof:lastmodified":1563312606,
     "wof:name":"Clontarf",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

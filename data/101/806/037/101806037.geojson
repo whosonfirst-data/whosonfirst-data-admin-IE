@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Arklow"
     ],
+    "name:ceb_x_preferred":[
+        "Arklow"
+    ],
     "name:ces_x_preferred":[
         "Arklow"
     ],
@@ -92,6 +95,9 @@
     "name:slk_x_preferred":[
         "Arklow"
     ],
+    "name:spa_x_preferred":[
+        "Arklow"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u043a\u043b\u043e\u0443"
     ],
@@ -144,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759873,
+    "wof:lastmodified":1563313602,
     "wof:name":"Arklow",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

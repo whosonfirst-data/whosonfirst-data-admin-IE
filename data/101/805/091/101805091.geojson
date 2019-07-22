@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Ballyshannon"
     ],
+    "name:ceb_x_preferred":[
+        "Ballyshannon"
+    ],
     "name:ces_x_preferred":[
         "Ballyshannon"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:eus_x_preferred":[
         "Ballyshannon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc \u0634\u0627\u0646\u0648\u0646"
     ],
     "name:fra_x_preferred":[
         "Ballyshannon"
@@ -84,6 +90,9 @@
         "\u0411\u0430\u043b\u043b\u0438\u0448\u0430\u043d\u043d\u043e\u043d"
     ],
     "name:slv_x_preferred":[
+        "Ballyshannon"
+    ],
+    "name:spa_x_preferred":[
         "Ballyshannon"
     ],
     "name:swe_x_preferred":[
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":101805091,
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313537,
     "wof:name":"Ballyshannon",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

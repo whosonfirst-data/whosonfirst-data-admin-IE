@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u043b\u0438\u0439\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Duleek"
+    ],
     "name:dan_x_preferred":[
         "Duleek"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043b\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Duleek"
     ],
     "name:swe_x_preferred":[
         "Duleek"
@@ -116,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313500,
     "wof:name":"Duleek",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

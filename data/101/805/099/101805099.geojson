@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Buncrana"
     ],
+    "name:ceb_x_preferred":[
+        "Buncrana"
+    ],
     "name:dan_x_preferred":[
         "Buncrana"
     ],
@@ -71,6 +74,9 @@
     "name:spa_x_preferred":[
         "Buncrana"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u0440\u0430\u043d\u0430"
+    ],
     "name:swe_x_preferred":[
         "Buncrana"
     ],
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":101805099,
-    "wof:lastmodified":1561759868,
+    "wof:lastmodified":1563313541,
     "wof:name":"Buncrana",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

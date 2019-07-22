@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0445\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Fahan"
+    ],
     "name:eng_x_preferred":[
         "Fahan"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Fahan"
     ],
     "name:swe_x_preferred":[
         "Fahan"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759858,
+    "wof:lastmodified":1563313451,
     "wof:name":"Fahan",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
     "name:gle_x_preferred":[
         "An Baile Beag"
     ],
+    "name:gle_x_variant":[
+        "Littleton"
+    ],
     "name:glg_x_preferred":[
         "Littleton"
     ],
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":101853677,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313592,
     "wof:name":"Littleton",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

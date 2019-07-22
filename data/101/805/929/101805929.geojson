@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Monkstown"
     ],
+    "name:ceb_x_preferred":[
+        "Monkstown"
+    ],
     "name:eng_x_preferred":[
         "Monkstown"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101805929,
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313574,
     "wof:name":"Monkstown",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

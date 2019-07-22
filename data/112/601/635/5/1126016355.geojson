@@ -16,7 +16,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Glenageary"
+    ],
+    "name:dan_x_preferred":[
+        "Glenageary"
+    ],
+    "name:deu_x_preferred":[
+        "Glenageary"
+    ],
     "name:eng_x_preferred":[
+        "Glenageary"
+    ],
+    "name:eus_x_preferred":[
         "Glenageary"
     ],
     "name:gla_x_preferred":[
@@ -30,6 +42,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u0435\u043d\u043d\u0430\u0433\u0438\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Grahormack"
+    ],
+    "name:swe_x_variant":[
+        "Glenageary"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
@@ -77,7 +95,7 @@
         }
     ],
     "wof:id":1126016355,
-    "wof:lastmodified":1561759890,
+    "wof:lastmodified":1563313934,
     "wof:name":"Glenageary",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

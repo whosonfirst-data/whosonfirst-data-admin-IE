@@ -22,6 +22,9 @@
     "name:bre_x_preferred":[
         "B\u00e9al \u00c1tha na Muice"
     ],
+    "name:ceb_x_preferred":[
+        "Swinford"
+    ],
     "name:deu_x_preferred":[
         "Swinford"
     ],
@@ -59,6 +62,9 @@
         "\u0421\u0443\u0438\u043d\u0444\u043e\u0440\u0434"
     ],
     "name:slv_x_preferred":[
+        "Swinford"
+    ],
+    "name:spa_x_preferred":[
         "Swinford"
     ],
     "name:swe_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1126010585,
-    "wof:lastmodified":1561759891,
+    "wof:lastmodified":1563313938,
     "wof:name":"Swinford",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

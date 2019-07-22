@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Fermoy"
     ],
+    "name:ceb_x_preferred":[
+        "Fermoy"
+    ],
     "name:dan_x_preferred":[
         "Fermoy"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:spa_x_preferred":[
         "Fermoy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u043e\u0458"
     ],
     "name:swe_x_preferred":[
         "Fermoy"
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":101805887,
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313531,
     "wof:name":"Fermoy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Kiltegan"
     ],
+    "name:eus_x_preferred":[
+        "Kiltegan"
+    ],
     "name:fra_x_preferred":[
         "Kiltegan"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125928887,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313692,
     "wof:name":"Kiltegan",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:eus_x_preferred":[
         "Mullingar"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u06cc\u0646\u06af\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "mullingar"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:glg_x_preferred":[
         "Mullingar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05d9\u05e0\u05d2\u05e8"
     ],
     "name:hun_x_preferred":[
         "Mullingar"
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":101804865,
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313504,
     "wof:name":"Mullingar",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

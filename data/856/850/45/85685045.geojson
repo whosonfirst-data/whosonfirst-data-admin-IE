@@ -30,11 +30,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u064a\u0646\u063a\u0627\u0644"
+    ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Fingal"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0442\u0441\u0432\u0430 \u0424\u0456\u043d\u0433\u0430\u043b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u09ab\u09bf\u0982\u0997\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Fingal"
+    ],
+    "name:ceb_x_preferred":[
+        "Fingal County"
     ],
     "name:ces_x_preferred":[
         "Fingal"
@@ -48,11 +60,20 @@
     "name:deu_x_preferred":[
         "County Fingal"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03af\u03bd\u03b3\u03ba\u03b1\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Fingal"
     ],
+    "name:eng_x_variant":[
+        "County Fingal"
+    ],
     "name:eus_x_preferred":[
         "Fingaleko konderria"
+    ],
+    "name:fin_x_preferred":[
+        "Fingal"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Fingal"
@@ -66,11 +87,29 @@
     "name:glv_x_preferred":[
         "Fine Goal"
     ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0 \u0aab\u0abf\u0a82\u0a97\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e4\u05d9\u05e0\u05d2\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u092b\u093c\u093f\u0902\u0917\u0932"
+    ],
     "name:ind_x_preferred":[
         "County Fingal"
     ],
     "name:ita_x_preferred":[
         "Contea di Fingal"
+    ],
+    "name:ita_x_variant":[
+        "Fingal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30f3\u30ac\u30eb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cab\u0cbf\u0c82\u0c97\u0cb2\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d8\u10dc\u10d2\u10d0\u10da\u10d8\u10e1 \u10e1\u10d0\u10d2\u10e0\u10d0\u10e4\u10dd"
@@ -78,14 +117,32 @@
     "name:kor_x_preferred":[
         "\ud551\uac78 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud551\uac08 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Fingalas gr\u0101fiste"
+    ],
     "name:lit_x_preferred":[
         "Fingalas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u0909\u0902\u091f\u0940 \u092b\u093f\u0902\u0917\u0932"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0438\u043d\u0433\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "County Fingal"
     ],
     "name:nld_x_preferred":[
         "Fingal"
     ],
     "name:nno_x_preferred":[
         "County Fingal"
+    ],
+    "name:nob_x_preferred":[
+        "Fingal Fylke"
     ],
     "name:pol_x_preferred":[
         "Fingal"
@@ -95,6 +152,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u043d\u0433\u0430\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Fingal"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dd2\u0db1\u0dca\u0d9c\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
     "name:slk_x_preferred":[
         "Fingal"
@@ -111,6 +174,12 @@
     "name:swe_x_preferred":[
         "Fingal"
     ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4c\u0c02\u0c1f\u0c40 \u0c2b\u0c3f\u0c02\u0c17\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e34\u0e19\u0e01\u0e31\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Fingal"
     ],
@@ -119,6 +188,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0646\u06af\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1ea1t Fingal"
     ],
     "name:zho_x_preferred":[
         "\u82ac\u6208\u90e1"
@@ -234,7 +306,7 @@
         }
     ],
     "wof:id":85685045,
-    "wof:lastmodified":1560987992,
+    "wof:lastmodified":1563312613,
     "wof:name":"Fingal",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

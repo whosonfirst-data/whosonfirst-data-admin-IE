@@ -21,7 +21,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
+    "name:ceb_x_preferred":[
+        "Mount Merrion"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Merrion House"
+    ],
     "name:eng_x_preferred":[
+        "Mount Merrion"
+    ],
+    "name:eus_x_preferred":[
         "Mount Merrion"
     ],
     "name:gla_x_preferred":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":420782781,
-    "wof:lastmodified":1527726680,
+    "wof:lastmodified":1563313653,
     "wof:name":"Mount Merrion",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

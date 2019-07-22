@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Trim"
     ],
+    "name:ceb_x_preferred":[
+        "Trim"
+    ],
     "name:dan_x_preferred":[
         "Trim"
     ],
@@ -77,6 +80,9 @@
     "name:spa_x_preferred":[
         "Trim"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0438\u043c"
+    ],
     "name:swa_x_preferred":[
         "Trim"
     ],
@@ -85,6 +91,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0679\u0631\u0645\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0645\u06cc\u062f\u06be"
+    ],
+    "name:urd_x_variant":[
+        "\u0679\u0631\u0645"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":101804879,
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313498,
     "wof:name":"Trim",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

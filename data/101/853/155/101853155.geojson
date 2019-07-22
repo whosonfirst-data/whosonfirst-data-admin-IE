@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Ballyhack"
     ],
+    "name:deu_x_preferred":[
+        "Ballyhack"
+    ],
     "name:eng_x_preferred":[
         "Ballyhack"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0445\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyhack"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Wexford",
@@ -80,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313591,
     "wof:name":"Ballyhack",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

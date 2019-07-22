@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u043a\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Crookstown"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125796065,
-    "wof:lastmodified":1561759893,
+    "wof:lastmodified":1563313975,
     "wof:name":"Crookstown",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Carrickmacross"
     ],
+    "name:ceb_x_preferred":[
+        "Carrickmacross"
+    ],
     "name:dan_x_preferred":[
         "Carrickmacross"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "Carrickmacross"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u043a\u043c\u0430\u043a\u0440\u043e\u0441"
     ],
     "name:swe_x_preferred":[
         "Carrickmacross"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":101804975,
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313518,
     "wof:name":"Carrickmacross",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

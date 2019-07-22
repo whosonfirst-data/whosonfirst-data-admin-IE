@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Roscrea"
     ],
+    "name:ceb_x_preferred":[
+        "Roscrea"
+    ],
     "name:cym_x_preferred":[
         "Ros Cr\u00e9"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:eus_x_preferred":[
         "Roscrea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0633\u06a9\u0631\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Roscrea"
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":101804767,
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313491,
     "wof:name":"Roscrea",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

@@ -20,11 +20,23 @@
     "name:cat_x_preferred":[
         "Stradbally"
     ],
+    "name:ceb_x_preferred":[
+        "Stradbally"
+    ],
     "name:eng_x_preferred":[
+        "Stradbally"
+    ],
+    "name:eus_x_preferred":[
+        "Stradbally"
+    ],
+    "name:fra_x_preferred":[
         "Stradbally"
     ],
     "name:gle_x_preferred":[
         "An Sr\u00e1idbhaile"
+    ],
+    "name:gle_x_variant":[
+        "An tSr\u00e1idbhaile"
     ],
     "name:lit_x_preferred":[
         "Stradbalis"
@@ -89,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759859,
+    "wof:lastmodified":1563313461,
     "wof:name":"Stradbally",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

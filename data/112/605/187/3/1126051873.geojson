@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Ballybrack"
     ],
+    "name:eus_x_preferred":[
+        "Ballybrack"
+    ],
     "name:gla_x_preferred":[
         "An Baile Breac"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1126051873,
-    "wof:lastmodified":1514450417,
+    "wof:lastmodified":1563313742,
     "wof:name":"Ballybrack",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

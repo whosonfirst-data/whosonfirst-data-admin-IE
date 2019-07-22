@@ -24,6 +24,12 @@
     "name:cat_x_preferred":[
         "Tuar Mhic \u00c9adaigh"
     ],
+    "name:dan_x_preferred":[
+        "Toormakeady"
+    ],
+    "name:deu_x_preferred":[
+        "Toormakeady"
+    ],
     "name:eng_x_preferred":[
         "Toormakeady"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125926979,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313696,
     "wof:name":"Tourmakeady",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

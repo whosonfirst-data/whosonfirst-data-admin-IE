@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Na Forbacha"
     ],
+    "name:ceb_x_preferred":[
+        "Furbogh"
+    ],
     "name:eng_x_preferred":[
         "Furbogh"
+    ],
+    "name:eng_x_variant":[
+        "Furbo"
     ],
     "name:eus_x_preferred":[
         "Na Forbacha"
@@ -42,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0451\u0440\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Na Forbacha"
     ],
     "name:swe_x_preferred":[
         "Furbogh"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125967569,
-    "wof:lastmodified":1561759888,
+    "wof:lastmodified":1563313915,
     "wof:name":"Furbogh",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

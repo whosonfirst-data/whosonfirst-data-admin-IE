@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Clifden"
     ],
+    "name:ceb_x_preferred":[
+        "Clifden"
+    ],
     "name:deu_x_preferred":[
         "Clifden"
     ],
@@ -143,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759862,
+    "wof:lastmodified":1563313481,
     "wof:name":"Clifden",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

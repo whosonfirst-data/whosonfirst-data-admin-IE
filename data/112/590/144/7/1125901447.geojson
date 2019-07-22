@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u043c\u0435\u0430\u0434\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kilmeaden"
+    ],
     "name:eng_x_preferred":[
         "Kilmeadan"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043c\u0430\u0434\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmeaden"
     ],
     "name:swe_x_preferred":[
         "Kilmeaden"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125901447,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313869,
     "wof:name":"Kilmeaden",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Cloonbur"
     ],
+    "name:eng_x_variant":[
+        "Clonbur"
+    ],
     "name:eus_x_preferred":[
         "An Fhairche"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125974659,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313874,
     "wof:name":"Clonbur",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

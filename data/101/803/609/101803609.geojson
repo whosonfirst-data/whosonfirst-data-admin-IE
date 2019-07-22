@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0434\u0444\u0438\u043d\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ardfinnan"
+    ],
     "name:eng_x_preferred":[
         "Ardfinnan"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0434\u0444\u0438\u043d\u043d\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ardfinnan"
     ],
     "name:swe_x_preferred":[
         "Ardfinnan"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101803609,
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313521,
     "wof:name":"Ardfinnan",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Athenry"
     ],
+    "name:ceb_x_preferred":[
+        "Athenry"
+    ],
     "name:cym_x_preferred":[
         "Athenry"
     ],
@@ -89,6 +92,9 @@
     "name:slv_x_preferred":[
         "Athenry"
     ],
+    "name:spa_x_preferred":[
+        "Athenry"
+    ],
     "name:swe_x_preferred":[
         "Athenry"
     ],
@@ -139,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759863,
+    "wof:lastmodified":1563313494,
     "wof:name":"Athenry",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0430\u0440\u0434\u043d\u043e\u0433\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Reardnogy"
+    ],
     "name:eng_x_preferred":[
         "Rearcross"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u0440\u043a\u0440\u043e\u0441\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Reardnogy"
     ],
     "name:swe_x_preferred":[
         "Reardnogy"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125998501,
-    "wof:lastmodified":1561759886,
+    "wof:lastmodified":1563313864,
     "wof:name":"Rearcross",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

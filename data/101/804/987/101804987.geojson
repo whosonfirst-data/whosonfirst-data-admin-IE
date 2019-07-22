@@ -67,6 +67,9 @@
     "name:swe_x_preferred":[
         "Ballybay"
     ],
+    "name:swe_x_variant":[
+        "Ballymahon"
+    ],
     "name:unk_x_variant":[
         "B\u00e9al \u00c1tha Beithe"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101804987,
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313511,
     "wof:name":"Ballybay",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:eus_x_preferred":[
         "Wellingtonbridge"
     ],
+    "name:gle_x_preferred":[
+        "Droichead Eoin"
+    ],
     "name:nld_x_preferred":[
         "Wellingtonbridge"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126043633,
-    "wof:lastmodified":1561759880,
+    "wof:lastmodified":1563313747,
     "wof:name":"Wellington Bridge",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

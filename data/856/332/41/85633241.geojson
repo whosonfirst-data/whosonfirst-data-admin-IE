@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:ace_x_preferred":[
+        "Irlandia"
+    ],
     "name:ady_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0435"
     ],
@@ -46,13 +49,17 @@
     "name:ang_x_preferred":[
         "\u012arland"
     ],
+    "name:ang_x_variant":[
+        "\u012arland Cynew\u012bse"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627"
     ],
     "name:ara_x_variant":[
         "\u0627\u064a\u0631\u0644\u0646\u062f\u0627",
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0625\u064a\u0631\u0644\u0646\u062f\u0627",
-        "\u0623\u064a\u0631\u0644\u0627\u0646\u062f\u0627"
+        "\u0623\u064a\u0631\u0644\u0627\u0646\u062f\u0627",
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u072a\u0720\u0722\u0715 (\u0713\u0719\u072a\u072c\u0710)"
@@ -69,17 +76,38 @@
     "name:arz_x_preferred":[
         "\u0627\u064a\u0631\u0644\u0627\u0646\u062f\u0627 (\u062c\u0632\u064a\u0631\u0647)"
     ],
+    "name:arz_x_variant":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u064a\u0631\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:ast_x_preferred":[
         "Islla d'Irlanda"
     ],
     "name:ast_x_variant":[
         "Rep\u00fablica d'Irlanda"
     ],
+    "name:ava_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:aym_x_preferred":[
+        "Irlandiya"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0631\u0644\u0646\u062f"
+    ],
     "name:aze_x_preferred":[
         "\u0130rlandiya"
     ],
+    "name:aze_x_variant":[
+        "\u0130rlandiya Respublikas\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
     "name:bam_x_preferred":[
         "Irilandi"
+    ],
+    "name:bar_x_preferred":[
+        "Irland"
     ],
     "name:bcl_x_preferred":[
         "Irlandya"
@@ -97,10 +125,20 @@
     ],
     "name:ben_x_variant":[
         "\u0986\u09df\u09be\u09b0\u09cd\u09b2\u09a3\u09cd\u09a1",
-        "\u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+        "\u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1",
+        "\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:bho_x_preferred":[
+        "\u0906\u092f\u0930\u0932\u0948\u0902\u0921 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:bis_x_preferred":[
+        "Ireland"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f61\u0f62\u0f0b\u0f63\u0f53\u0f4c\u0f0d"
+    ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f62\u0f0b\u0f63\u0f7a\u0f53\u0f0b\u0f4c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Irska (ostrvo)"
@@ -109,11 +147,17 @@
         "Irska",
         "Republika Irska"
     ],
+    "name:bpy_x_preferred":[
+        "\u0986\u09af\u09bc\u09be\u09b0\u09b2\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
     "name:bre_x_preferred":[
         "Iwerzhon"
     ],
     "name:bre_x_variant":[
         "Republik Iwerzhon"
+    ],
+    "name:bug_x_preferred":[
+        "Irlandia"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
@@ -121,12 +165,21 @@
     "name:bul_x_variant":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
+    "name:bxr_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434"
+    ],
     "name:cat_x_preferred":[
         "Illa d'Irlanda"
     ],
     "name:cat_x_variant":[
         "Irlanda",
         "Rep\u00fablica d'Irlanda"
+    ],
+    "name:cdo_x_preferred":[
+        "\u00c1i-\u012b-l\u00e0ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Irlanda"
     ],
     "name:ces_x_preferred":[
         "Irsko (ostrov)"
@@ -136,17 +189,45 @@
         "Irsk\u00e1 republika",
         "\u00cdrsko"
     ],
+    "name:cha_x_preferred":[
+        "Irlanda"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438"
+    ],
+    "name:chr_x_preferred":[
+        "\u13a0\u13f2\u13b3\u13c2"
+    ],
+    "name:chu_x_preferred":[
+        "\u0404\u0438\u0440\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:chy_x_preferred":[
+        "Ireland"
+    ],
     "name:ckb_x_preferred":[
         "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u0626\u06cc\u0631\u0644\u06d5\u0646\u062f"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u06cc\u0631\u0644\u06d5\u0646\u062f"
     ],
     "name:cor_x_preferred":[
         "Wordhen"
     ],
     "name:cor_x_variant":[
-        "Repoblek Iwerdhon"
+        "Repoblek Iwerdhon",
+        "Repoblek Wordhen"
     ],
     "name:cos_x_preferred":[
         "Irlanda"
+    ],
+    "name:crh_x_preferred":[
+        "\u0130rlandiya"
+    ],
+    "name:csb_x_preferred":[
+        "Irland\u00ebj\u00f4"
     ],
     "name:cym_x_preferred":[
         "Iwerddon"
@@ -171,8 +252,20 @@
         "Republik Irland",
         "Irland"
     ],
+    "name:diq_x_preferred":[
+        "\u0130rlanda"
+    ],
+    "name:div_x_preferred":[
+        "\u0787\u07a6\u0794\u07a6\u078d\u07ad\u0782\u07b0\u0791\u07aa\u078e\u07ac \u0796\u07aa\u0789\u07b0\u0780\u07ab\u0783\u07a8\u0787\u07b0\u0794\u07a7"
+    ],
     "name:dsb_x_preferred":[
         "Irska (kupa)"
+    ],
+    "name:dsb_x_variant":[
+        "Irska"
+    ],
+    "name:dty_x_preferred":[
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f60\u0f72\u0f62\u0f72\u0f0b\u0f63\u0f7a\u0f53\u0f4c\u0f0b"
@@ -185,6 +278,9 @@
     ],
     "name:ell_x_variant":[
         "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1\u03c2"
+    ],
+    "name:eml_x_preferred":[
+        "Irl\u00e0nda"
     ],
     "name:eng_x_preferred":[
         "Ireland"
@@ -216,8 +312,17 @@
     "name:eus_x_preferred":[
         "Irlanda"
     ],
+    "name:eus_x_variant":[
+        "Irlandako Errepublika"
+    ],
     "name:ewe_x_preferred":[
         "Ireland nutome"
+    ],
+    "name:ewe_x_variant":[
+        "Ireland"
+    ],
+    "name:ext_x_preferred":[
+        "Irlanda"
     ],
     "name:fao_x_preferred":[
         "\u00cdrland (oyggj)"
@@ -247,14 +352,29 @@
     "name:fra_x_variant":[
         "Irlande"
     ],
+    "name:frp_x_preferred":[
+        "Irlande"
+    ],
     "name:frr_x_preferred":[
         "Irlun (eilun)"
+    ],
+    "name:frr_x_variant":[
+        "Irl\u00f6nj"
     ],
     "name:fry_x_preferred":[
         "Ierl\u00e2n"
     ],
     "name:ful_x_preferred":[
         "Irlannda"
+    ],
+    "name:fur_x_preferred":[
+        "Irlande"
+    ],
+    "name:gag_x_preferred":[
+        "\u0130rlandiya"
+    ],
+    "name:gan_x_preferred":[
+        "\u611b\u723e\u862d"
     ],
     "name:gla_x_preferred":[
         "\u00c8irinn"
@@ -283,20 +403,42 @@
     "name:gom_x_preferred":[
         "\u0906\u092f\u0930\u094d\u0932\u0902\u0921"
     ],
+    "name:gom_x_variant":[
+        "\u0906\u092f\u0930\u094d\u0932\u0902\u0921 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf39\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
+    "name:grn_x_preferred":[
+        "Ilandia"
+    ],
+    "name:gsw_x_preferred":[
+        "Irland"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0ab0\u0ab2\u0ac7\u0a82\u0aa1\u0aa8\u0ac1\u0a82 \u0a97\u0aa3\u0aa4\u0a82\u0aa4\u0acd\u0ab0"
     ],
     "name:guj_x_variant":[
-        "\u0a86\u0aaf\u0ab0\u0acd\u0ab2\u0ac7\u0a82\u0aa1"
+        "\u0a86\u0aaf\u0ab0\u0acd\u0ab2\u0ac7\u0a82\u0aa1",
+        "\u0a86\u0aaf\u0ab0\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
     ],
     "name:hak_x_preferred":[
         "Oi-ng\u00ec-l\u00e0n-t\u00f3"
     ],
+    "name:hak_x_variant":[
+        "Oi-ng\u00ec-l\u00e0n"
+    ],
+    "name:hat_x_preferred":[
+        "Ilann"
+    ],
     "name:hau_x_preferred":[
         "Ayalan"
+    ],
+    "name:hau_x_variant":[
+        "Ireland"
+    ],
+    "name:haw_x_preferred":[
+        "\u02bbIlelani"
     ],
     "name:hbs_x_preferred":[
         "Irska (otok)"
@@ -347,8 +489,17 @@
     "name:hye_x_variant":[
         "\u053b\u057c\u056c\u0561\u0576\u0564\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u053b\u0580\u056c\u0561\u0576\u057f\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Ireland"
+    ],
     "name:ido_x_preferred":[
         "Irlando"
+    ],
+    "name:ile_x_preferred":[
+        "Irland"
     ],
     "name:ilo_x_preferred":[
         "Irlanda"
@@ -382,8 +533,17 @@
     "name:jam_x_preferred":[
         "Ripoblik a Airilan"
     ],
+    "name:jam_x_variant":[
+        "Airilan"
+    ],
     "name:jav_x_preferred":[
         "Pulo Irlandia"
+    ],
+    "name:jav_x_variant":[
+        "Republik Irlandia"
+    ],
+    "name:jbo_x_preferred":[
+        "airland"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5cf6"
@@ -391,6 +551,9 @@
     "name:jpn_x_variant":[
         "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
         "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd"
+    ],
+    "name:kaa_x_preferred":[
+        "\u0130rlandiya"
     ],
     "name:kab_x_preferred":[
         "Irland"
@@ -401,20 +564,45 @@
     "name:kan_x_preferred":[
         "\u0c90\u0cb0\u0ccd\u0cb2\u0cc6\u0c82\u0ca1\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0c90\u0cb0\u0ccd\u0cb2\u0cc6\u0c82\u0ca1\u0ccd \u0c97\u0ca3\u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0 (\u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8)"
     ],
     "name:kat_x_variant":[
-        "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0"
+        "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0",
+        "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d8\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
+    "name:kbd_x_preferred":[
+        "\u0418\u0440\u043b\u044d\u043d\u0434"
+    ],
+    "name:kbp_x_preferred":[
+        "Ir\u0269land\u0269"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17c0\u179a\u17a1\u1784\u17cb"
     ],
+    "name:khm_x_variant":[
+        "\u179f\u17b6\u1792\u17b6\u179a\u178e\u179a\u178a\u17d2\u178b\u17a2\u17c0\u179a\u17a1\u1784\u17cb"
+    ],
     "name:kik_x_preferred":[
         "Ayalandi"
+    ],
+    "name:kin_x_preferred":[
+        "Irilande"
+    ],
+    "name:kir_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:koi_x_preferred":[
+        "\u0418\u0440\u043c\u0443"
+    ],
+    "name:kom_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
     "name:kon_x_preferred":[
         "Irlande"
@@ -425,15 +613,28 @@
     "name:kor_x_variant":[
         "\uc544\uc77c\ub79c\ub4dc"
     ],
+    "name:krc_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:ksh_x_preferred":[
+        "Irland"
+    ],
     "name:kur_x_preferred":[
         "\u00cerlenda (girav)"
     ],
     "name:kur_x_variant":[
         "Komara \u00cerlanda",
-        "\u0626\u06cc\u0631\u0644\u06d5\u0646\u062f"
+        "\u0626\u06cc\u0631\u0644\u06d5\u0646\u062f",
+        "Komara \u00cerland\u00ea"
+    ],
+    "name:lad_x_preferred":[
+        "Irlanda"
     ],
     "name:lao_x_preferred":[
         "\u0ec4\u0ead\u0ec1\u0ea5\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0ebd\u0e81\u0ea5\u0eb1\u0e87"
     ],
     "name:lat_x_preferred":[
         "Hibernia"
@@ -447,6 +648,12 @@
     "name:lav_x_variant":[
         "\u012arija"
     ],
+    "name:lez_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:lfn_x_preferred":[
+        "Er"
+    ],
     "name:lij_x_preferred":[
         "Irlanda (isoa)"
     ],
@@ -459,11 +666,26 @@
     "name:lin_x_preferred":[
         "Ireland\u025b"
     ],
+    "name:lin_x_variant":[
+        "Irland\u00ed"
+    ],
     "name:lit_x_preferred":[
         "Airijos sala"
     ],
     "name:lit_x_variant":[
         "Airija"
+    ],
+    "name:liv_x_preferred":[
+        "\u012ar\u00f5m\u014d"
+    ],
+    "name:lmo_x_preferred":[
+        "Irlanda"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0627\u06cc\u0631\u0644\u0646\u062f"
+    ],
+    "name:ltg_x_preferred":[
+        "Eireja"
     ],
     "name:ltz_x_preferred":[
         "Irland"
@@ -474,6 +696,9 @@
     "name:lug_x_preferred":[
         "Ayalandi"
     ],
+    "name:lzh_x_preferred":[
+        "\u611b\u723e\u862d\u5171\u548c\u570b"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d2f\u0d7c\u0d32\u0d28\u0d4d\u0d31\u0d4d"
     ],
@@ -483,26 +708,74 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u0930\u094d\u0932\u0902\u0921"
     ],
+    "name:mar_x_variant":[
+        "\u0906\u092f\u0930\u094d\u0932\u0902\u0921\u091a\u0947 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0439"
+    ],
     "name:mkd_x_preferred":[
         "\u0418\u0440\u0441\u043a\u0430"
     ],
     "name:mlg_x_preferred":[
         "Irlandy"
     ],
+    "name:mlg_x_variant":[
+        "Irlanda"
+    ],
     "name:mlt_x_preferred":[
         "Irlanda"
+    ],
+    "name:mlt_x_variant":[
+        "Repubblika tal-Irlanda"
+    ],
+    "name:mon_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434"
+    ],
+    "name:mri_x_preferred":[
+        "Airangi"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438"
     ],
     "name:msa_x_preferred":[
         "Ireland"
     ],
+    "name:msa_x_variant":[
+        "Republik Ireland"
+    ],
+    "name:mwl_x_preferred":[
+        "Irlanda"
+    ],
     "name:mya_x_preferred":[
         "\u1021\u102d\u102f\u1004\u103a\u101a\u102c\u101c\u1014\u103a"
+    ],
+    "name:mya_x_variant":[
+        "\u1021\u102d\u102f\u1004\u103a\u101a\u102c\u101c\u1014\u103a\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
+    ],
+    "name:myv_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u06cc\u0631\u0644\u0646\u062f"
     ],
+    "name:mzn_x_variant":[
+        "\u0627\u06cc\u0631\u0644\u0646\u062f \u062c\u0645\u0647\u0648\u0631\u06cc"
+    ],
+    "name:nah_x_preferred":[
+        "Irtl\u0101lpan"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c0i-n\u00ed-l\u00e2n"
+    ],
+    "name:nap_x_preferred":[
+        "Irlanna"
+    ],
     "name:nau_x_preferred":[
         "Republik Ireland"
+    ],
+    "name:nau_x_variant":[
+        "Ripubrikit Airerand"
     ],
     "name:nde_x_preferred":[
         "Ireland"
@@ -517,7 +790,11 @@
         "\u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
     ],
     "name:nep_x_variant":[
-        "\u0906\u0907\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+        "\u0906\u0907\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0926"
     ],
     "name:nld_x_preferred":[
         "Ierland (eiland)"
@@ -547,17 +824,45 @@
     "name:nrm_x_variant":[
         "R\u00e9publyique d'Irlande"
     ],
+    "name:nso_x_preferred":[
+        "Ireland"
+    ],
     "name:oci_x_preferred":[
         "Irlanda (illa)"
     ],
     "name:oci_x_variant":[
-        "Irlanda"
+        "Irlanda",
+        "Republica d'Irlanda"
+    ],
+    "name:olo_x_preferred":[
+        "Irlandii"
     ],
     "name:ori_x_preferred":[
         "\u0b06\u0b5f\u0b30\u0b32\u0b4d\u0b5f\u0b3e\u0b23\u0b4d\u0b21"
     ],
+    "name:orm_x_preferred":[
+        "Aayerlaandi"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438"
+    ],
+    "name:pag_x_preferred":[
+        "Irlande"
+    ],
     "name:pam_x_preferred":[
         "Republic of Ireland"
+    ],
+    "name:pam_x_variant":[
+        "Irlanda"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a06\u0a07\u0a30\u0a32\u0a48\u0a02\u0a21"
+    ],
+    "name:pap_x_preferred":[
+        "Irlandia"
+    ],
+    "name:pcd_x_preferred":[
+        "Irlinde"
     ],
     "name:pfl_x_preferred":[
         "Irlond"
@@ -568,8 +873,17 @@
     "name:pms_x_preferred":[
         "Irlanda (\u00ecsola)"
     ],
+    "name:pms_x_variant":[
+        "Irlanda"
+    ],
     "name:pnb_x_preferred":[
         "\u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
+    ],
+    "name:pnb_x_variant":[
+        "\u0644\u0648\u06a9\u0631\u0627\u062c \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
+    ],
+    "name:pnt_x_preferred":[
+        "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1"
     ],
     "name:pol_x_preferred":[
         "Irlandia",
@@ -587,6 +901,9 @@
     ],
     "name:que_x_preferred":[
         "Ilanda wat'a"
+    ],
+    "name:que_x_variant":[
+        "Ilanda"
     ],
     "name:rmy_x_preferred":[
         "Irland (dvip)"
@@ -607,11 +924,20 @@
         "Irlanda",
         "Republica Irlanda"
     ],
+    "name:rue_x_preferred":[
+        "\u0406\u0440\u044c\u0441\u043a\u043e"
+    ],
     "name:rum_x_variant":[
         "Republica Irlanda"
     ],
     "name:run_x_preferred":[
         "Irilandi"
+    ],
+    "name:run_x_variant":[
+        "Irlanda"
+    ],
+    "name:rup_x_preferred":[
+        "Irlanda"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f (\u043e\u0441\u0442\u0440\u043e\u0432)"
@@ -622,14 +948,26 @@
     "name:sag_x_preferred":[
         "Irl\u00e2nde"
     ],
+    "name:sah_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430"
+    ],
     "name:san_x_preferred":[
         "\u0906\u092f\u0930\u094d\u0932\u0948\u0902\u0921"
+    ],
+    "name:san_x_variant":[
+        "\u0910\u0930\u094d\u0932\u0947\u0923\u094d\u0921\u094d\u0926\u0947\u0936\u0903"
+    ],
+    "name:scn_x_preferred":[
+        "Irlanna"
     ],
     "name:sco_x_preferred":[
         "Ireland"
     ],
     "name:sco_x_variant":[
         "Republic o Ireland"
+    ],
+    "name:sgs_x_preferred":[
+        "Air\u0117j\u0117"
     ],
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
@@ -646,8 +984,14 @@
     "name:slv_x_variant":[
         "Irska"
     ],
+    "name:sma_x_preferred":[
+        "Iirlaante"
+    ],
     "name:sme_x_preferred":[
         "Irl\u00e1nda"
+    ],
+    "name:sme_x_variant":[
+        "Eire"
     ],
     "name:smo_x_preferred":[
         "Aialani"
@@ -657,6 +1001,9 @@
     ],
     "name:som_x_preferred":[
         "Ayrlaand"
+    ],
+    "name:som_x_variant":[
+        "Ireland"
     ],
     "name:spa_x_preferred":[
         "Irlanda",
@@ -674,14 +1021,29 @@
     "name:srd_x_preferred":[
         "Irlanda (isola)"
     ],
+    "name:srd_x_variant":[
+        "Irlanda"
+    ],
+    "name:srn_x_preferred":[
+        "Irikondre"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0440\u0441\u043a\u0430"
     ],
     "name:srp_x_variant":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0441\u043a\u0430"
     ],
+    "name:ssw_x_preferred":[
+        "IYalendi"
+    ],
+    "name:stq_x_preferred":[
+        "Irlound"
+    ],
     "name:swa_x_preferred":[
         "Ayalandi"
+    ],
+    "name:swa_x_variant":[
+        "Eire"
     ],
     "name:swe_x_preferred":[
         "Irland",
@@ -690,28 +1052,45 @@
     "name:szl_x_preferred":[
         "Irlandyjo (wyspa)"
     ],
+    "name:szl_x_variant":[
+        "Irlandyjo"
+    ],
     "name:tam_x_preferred":[
         "\u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c30\u0c4d \u0c32\u0c3e\u0c02\u0c21\u0c4d"
     ],
+    "name:tet_x_preferred":[
+        "Irlanda"
+    ],
     "name:tgk_x_preferred":[
         "\u04b6\u0443\u043c\u04b3\u04ef\u0440\u0438\u0438 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:tgk_x_variant":[
+        "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
     ],
     "name:tgl_x_preferred":[
         "Irlanda (pulo)"
     ],
     "name:tgl_x_variant":[
         "Ireland",
-        "Republika ng Irlanda"
+        "Republika ng Irlanda",
+        "Irlanda"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
     "name:tha_x_variant":[
         "\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
-        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
+        "\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"
     ],
     "name:tir_x_preferred":[
         "\u12a0\u12e8\u122d\u120b\u1295\u12f5"
@@ -721,6 +1100,12 @@
     ],
     "name:tpi_x_preferred":[
         "Aialan"
+    ],
+    "name:tso_x_preferred":[
+        "Ireland"
+    ],
+    "name:tuk_x_preferred":[
+        "Irlandi\u00fda"
     ],
     "name:tum_x_preferred":[
         "Ireland"
@@ -770,6 +1155,18 @@
     "name:uzb_x_preferred":[
         "Irlandiya oroli"
     ],
+    "name:uzb_x_variant":[
+        "Irlandiya"
+    ],
+    "name:vec_x_preferred":[
+        "Irlanda"
+    ],
+    "name:ven_x_preferred":[
+        "Ireland"
+    ],
+    "name:vep_x_preferred":[
+        "Irlandii"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Ireland"
     ],
@@ -781,8 +1178,14 @@
     "name:vls_x_preferred":[
         "Ierland (eiland)"
     ],
+    "name:vls_x_variant":[
+        "Republiek Ierland"
+    ],
     "name:vol_x_preferred":[
         "Lirey\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Iirimaa"
     ],
     "name:war_x_preferred":[
         "Irlanda"
@@ -790,14 +1193,44 @@
     "name:war_x_variant":[
         "Republika han Irlandia"
     ],
+    "name:wln_x_preferred":[
+        "Irlande"
+    ],
+    "name:wol_x_preferred":[
+        "Irlaand"
+    ],
     "name:wuu_x_preferred":[
         "\u7231\u5c14\u5170\u5c9b"
+    ],
+    "name:wuu_x_variant":[
+        "\u7231\u5c14\u5170"
+    ],
+    "name:xal_x_preferred":[
+        "\u0413\u04d9\u04d9\u043b\u0433\u04af\u0434\u0438\u043d \u041e\u0440\u043d"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05d9\u05e8\u05dc\u05d0\u05e0\u05d3 (\u05d0\u05d9\u05e0\u05d6\u05dc)"
     ],
+    "name:yid_x_variant":[
+        "\u05d0\u05d9\u05e8\u05dc\u05d0\u05e0\u05d3"
+    ],
     "name:yor_x_preferred":[
         "Or\u00edl\u1eb9\u0301\u00e8de Ailandi"
+    ],
+    "name:yor_x_variant":[
+        "\u00cdr\u1eb9\u0301l\u00e1nd\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u611b\u723e\u862d\u5171\u548c\u570b"
+    ],
+    "name:zea_x_preferred":[
+        "Ierland"
+    ],
+    "name:zha_x_preferred":[
+        "Aiwjlanz Gunghozgoz"
     ],
     "name:zho_min_nan_x_preferred":[
         "\u00c9ire-t\u00f3"
@@ -815,6 +1248,9 @@
     ],
     "name:zul_x_preferred":[
         "i-Ireland"
+    ],
+    "name:zul_x_variant":[
+        "I-Ayilendi"
     ],
     "ne:abbrev":"Ire.",
     "ne:abbrev_len":4,
@@ -961,7 +1397,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1561759774,
+    "wof:lastmodified":1563312701,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -17,10 +17,16 @@
     "mps:longitude":-7.393593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Durrow"
+    ],
     "name:deu_x_preferred":[
         "Durrow"
     ],
     "name:eng_x_preferred":[
+        "Durrow"
+    ],
+    "name:eus_x_preferred":[
         "Durrow"
     ],
     "name:gle_x_preferred":[
@@ -38,7 +44,13 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0440\u043e\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Durrow"
+    ],
     "name:swe_x_preferred":[
+        "Durrow"
+    ],
+    "name:szl_x_preferred":[
         "Durrow"
     ],
     "qs:a0":"Ireland",
@@ -88,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313497,
     "wof:name":"Durrow",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

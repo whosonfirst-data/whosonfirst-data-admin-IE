@@ -19,11 +19,17 @@
     "name:eng_x_preferred":[
         "Pontoon"
     ],
+    "name:eus_x_preferred":[
+        "Pontoon"
+    ],
     "name:fra_x_preferred":[
         "Pontoon"
     ],
     "name:gle_x_preferred":[
         "Pont Abhann"
+    ],
+    "name:gle_x_variant":[
+        "Pont\u00fan"
     ],
     "name:ita_x_preferred":[
         "Pontoon"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125994421,
-    "wof:lastmodified":1561759886,
+    "wof:lastmodified":1563313866,
     "wof:name":"Pontoon",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

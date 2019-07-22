@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Raheen"
     ],
+    "name:eus_x_preferred":[
+        "Raheen"
+    ],
     "name:gle_x_preferred":[
         "An R\u00e1ith\u00edn"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1126027913,
-    "wof:lastmodified":1561759879,
+    "wof:lastmodified":1563313738,
     "wof:name":"Raheen",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

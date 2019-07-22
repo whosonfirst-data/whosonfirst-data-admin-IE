@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Cond\u00e1u de Clare"
     ],
+    "name:bel_x_preferred":[
+        "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u041a\u043b\u044d\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf \u0995\u09cd\u09b2\u09c7\u09af\u09bc\u09be\u09b0"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Comtat de Clare"
+    ],
+    "name:ceb_x_preferred":[
+        "An Cl\u00e1r"
     ],
     "name:ces_x_preferred":[
         "Hrabstv\u00ed Clare"
@@ -132,6 +138,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud074\ub798\uc5b4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud074\ub798\uc5b4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Comitatus Clarensis"
@@ -339,7 +348,7 @@
         }
     ],
     "wof:id":85685037,
-    "wof:lastmodified":1561759725,
+    "wof:lastmodified":1563312625,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

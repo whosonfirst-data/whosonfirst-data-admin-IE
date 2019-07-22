@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Millstreet"
     ],
+    "name:ceb_x_preferred":[
+        "Millstreet"
+    ],
     "name:dan_x_preferred":[
         "Millstreet"
     ],
@@ -50,6 +53,9 @@
         "Sr\u00e1id an Mhuilinn"
     ],
     "name:glg_x_preferred":[
+        "Millstreet"
+    ],
+    "name:ind_x_preferred":[
         "Millstreet"
     ],
     "name:ita_x_preferred":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1125950503,
-    "wof:lastmodified":1561759878,
+    "wof:lastmodified":1563313705,
     "wof:name":"Millstreet",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

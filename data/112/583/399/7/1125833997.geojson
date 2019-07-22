@@ -43,6 +43,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0440\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Moroe"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Murroe",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125833997,
-    "wof:lastmodified":1561759894,
+    "wof:lastmodified":1563313985,
     "wof:name":"Murroe",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Killala"
     ],
+    "name:ceb_x_preferred":[
+        "Killala"
+    ],
     "name:dan_x_preferred":[
         "Killala"
     ],
@@ -62,8 +65,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043b\u0430\u043b\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Killala"
+    ],
     "name:swe_x_preferred":[
         "Killala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u7279\u798f\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u62c9\u62c9"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Mayo",
@@ -110,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313569,
     "wof:name":"Killala",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0433\u0438\u0440\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Rosslare Harbour"
+    ],
     "name:unk_x_variant":[
         "Ballygeary"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101912591,
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313580,
     "wof:name":"Rosslare Harbour",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

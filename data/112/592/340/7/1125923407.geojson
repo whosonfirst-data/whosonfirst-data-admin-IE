@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Sutton"
     ],
+    "name:eus_x_preferred":[
+        "Sutton"
+    ],
     "name:fra_x_preferred":[
         "Sutton"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125923407,
-    "wof:lastmodified":1561759877,
+    "wof:lastmodified":1563313695,
     "wof:name":"Sutton",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

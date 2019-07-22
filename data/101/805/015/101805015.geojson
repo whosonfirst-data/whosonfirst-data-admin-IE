@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Carrick-on-Shannon"
     ],
+    "name:ceb_x_preferred":[
+        "Carrick-on-Shannon"
+    ],
     "name:cym_x_preferred":[
         "Carrick-on-Shannon"
     ],
@@ -162,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313528,
     "wof:name":"Carrick-on-Shannon",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

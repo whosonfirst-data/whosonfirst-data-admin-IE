@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0415\u043d\u0444\u0438\u0439\u043b\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Enfield"
+    ],
     "name:ces_x_preferred":[
         "Enfield"
     ],
@@ -60,6 +63,9 @@
         "\u042d\u043d\u0444\u0438\u043b\u0434"
     ],
     "name:slk_x_preferred":[
+        "Enfield"
+    ],
+    "name:spa_x_preferred":[
         "Enfield"
     ],
     "name:swe_x_preferred":[
@@ -115,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759865,
+    "wof:lastmodified":1563313507,
     "wof:name":"Innfield",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

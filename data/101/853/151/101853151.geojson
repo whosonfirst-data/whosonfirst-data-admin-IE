@@ -32,6 +32,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043c\u043e\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Kilmore"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Wexford",
     "qs:a1r":"0",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101853151,
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313590,
     "wof:name":"Kilmore",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

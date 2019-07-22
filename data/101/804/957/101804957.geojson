@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Gort"
     ],
+    "name:ceb_x_preferred":[
+        "Gort"
+    ],
     "name:deu_x_preferred":[
         "Gort"
     ],
@@ -68,8 +71,14 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Gort"
+    ],
     "name:swe_x_preferred":[
         "Gort"
+    ],
+    "name:swe_x_variant":[
+        "Dunlavin"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Galway",
@@ -116,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759862,
+    "wof:lastmodified":1563313488,
     "wof:name":"Gort",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

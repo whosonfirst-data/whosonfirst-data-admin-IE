@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0430\u043d\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Delgany"
+    ],
     "name:eng_x_preferred":[
+        "Delgany"
+    ],
+    "name:eus_x_preferred":[
         "Delgany"
     ],
     "name:gle_x_preferred":[
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313594,
     "wof:name":"Delgany",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

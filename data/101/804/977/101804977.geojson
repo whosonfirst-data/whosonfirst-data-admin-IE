@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0418\u043d\u0438\u0441\u043a\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Inniskeen"
+    ],
     "name:eng_x_preferred":[
         "Inishkeen"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u043d\u0438\u0448\u043a\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Inniskeen"
     ],
     "name:swe_x_preferred":[
         "Inniskeen"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313480,
     "wof:name":"Inishkeen",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

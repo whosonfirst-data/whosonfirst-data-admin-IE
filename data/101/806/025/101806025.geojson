@@ -23,7 +23,31 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0442\u043e\u0443\u044a\u043b"
     ],
+    "name:cat_x_preferred":[
+        "Listowel"
+    ],
+    "name:ceb_x_preferred":[
+        "Listowel"
+    ],
+    "name:cym_x_preferred":[
+        "Lios Tuathail"
+    ],
+    "name:dan_x_preferred":[
+        "Listowel"
+    ],
+    "name:deu_x_preferred":[
+        "Listowel"
+    ],
     "name:eng_x_preferred":[
+        "Listowel"
+    ],
+    "name:eus_x_preferred":[
+        "Listowel"
+    ],
+    "name:fra_x_preferred":[
+        "Listowel"
+    ],
+    "name:fry_x_preferred":[
         "Listowel"
     ],
     "name:gla_x_preferred":[
@@ -32,11 +56,41 @@
     "name:gle_x_preferred":[
         "Lios Tuathail"
     ],
+    "name:ind_x_preferred":[
+        "Listowel"
+    ],
+    "name:ita_x_preferred":[
+        "Listowel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b9\u30c8\u30fc\u30a8\u30eb"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\uc2a4\ud1a0\uc6f0"
     ],
+    "name:lit_x_preferred":[
+        "Listovelis"
+    ],
+    "name:nld_x_preferred":[
+        "Listowel"
+    ],
+    "name:nob_x_preferred":[
+        "Listowel"
+    ],
+    "name:pol_x_preferred":[
+        "Listowel"
+    ],
+    "name:por_x_preferred":[
+        "Listowel"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0441\u0442\u043e\u0443\u044d\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Listowel"
+    ],
+    "name:swe_x_preferred":[
+        "Listowel"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0633\u0679\u0648\u0644"
@@ -106,7 +160,7 @@
         }
     ],
     "wof:id":101806025,
-    "wof:lastmodified":1534379342,
+    "wof:lastmodified":1563313599,
     "wof:name":"Listowel",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Castlerea"
     ],
+    "name:ceb_x_preferred":[
+        "Castlerea"
+    ],
     "name:ces_x_preferred":[
         "Castlerea"
     ],
@@ -71,6 +74,9 @@
     "name:sco_x_preferred":[
         "An Caisle\u00e1n Riabhach"
     ],
+    "name:spa_x_preferred":[
+        "Castlerea"
+    ],
     "name:swe_x_preferred":[
         "Castlerea"
     ],
@@ -119,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759860,
+    "wof:lastmodified":1563313466,
     "wof:name":"Castlereagh",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

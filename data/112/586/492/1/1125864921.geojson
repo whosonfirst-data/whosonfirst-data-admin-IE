@@ -25,7 +25,13 @@
     "name:cat_x_preferred":[
         "Prosperous"
     ],
+    "name:ceb_x_preferred":[
+        "Prosperous"
+    ],
     "name:eng_x_preferred":[
+        "Prosperous"
+    ],
+    "name:eus_x_preferred":[
         "Prosperous"
     ],
     "name:fra_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125864921,
-    "wof:lastmodified":1561759882,
+    "wof:lastmodified":1563313771,
     "wof:name":"Prosperous",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

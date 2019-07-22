@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Inveran"
     ],
+    "name:eng_x_variant":[
+        "Inverin"
+    ],
     "name:eus_x_preferred":[
         "Indreabh\u00e1n"
     ],
@@ -39,6 +42,9 @@
     "name:ita_x_preferred":[
         "Indreabh\u00e1n"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30d9\u30ea\u30f3"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10dc\u10d5\u10d4\u10e0\u10d8\u10dc\u10d8"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Inverin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0432\u0435\u0440"
     ],
     "name:unk_x_variant":[
         "Inverin"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125888729,
-    "wof:lastmodified":1561759882,
+    "wof:lastmodified":1563313776,
     "wof:name":"Inveran",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

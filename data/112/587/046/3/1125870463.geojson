@@ -22,10 +22,22 @@
     "name:bul_x_preferred":[
         "\u0428\u0430\u043d\u043a\u0438\u043b"
     ],
+    "name:cat_x_preferred":[
+        "Shankill"
+    ],
+    "name:ceb_x_preferred":[
+        "Shankill"
+    ],
     "name:dan_x_preferred":[
         "Shankill"
     ],
+    "name:deu_x_preferred":[
+        "Shankill Castle"
+    ],
     "name:eng_x_preferred":[
+        "Shankill"
+    ],
+    "name:eus_x_preferred":[
         "Shankill"
     ],
     "name:fas_x_preferred":[
@@ -55,8 +67,14 @@
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d\u043a\u0438\u043b\u043b"
     ],
+    "name:spa_x_preferred":[
+        "Shankill"
+    ],
     "name:swe_x_preferred":[
         "Shankill"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0646\u06a9\u0644"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -109,7 +127,7 @@
         }
     ],
     "wof:id":1125870463,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1563313815,
     "wof:name":"Shankill",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

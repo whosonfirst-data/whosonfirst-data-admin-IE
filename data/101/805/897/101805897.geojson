@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "Kinsale"
     ],
+    "name:ceb_x_preferred":[
+        "Kinsale"
+    ],
     "name:ces_x_preferred":[
         "Kinsale"
     ],
     "name:cym_x_preferred":[
         "Cionn tS\u00e1ile"
+    ],
+    "name:cym_x_variant":[
+        "Cionn tS\u00e1ile,"
     ],
     "name:dan_x_preferred":[
         "Kinsale"
@@ -43,6 +49,9 @@
     ],
     "name:eus_x_preferred":[
         "Kinsale"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u0633\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Kinsale"
@@ -94,6 +103,9 @@
     ],
     "name:spa_x_preferred":[
         "Kinsale"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u043d\u0441\u0435\u0458\u043b"
     ],
     "name:swe_x_preferred":[
         "Kinsale"
@@ -158,7 +170,7 @@
         }
     ],
     "wof:id":101805897,
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313573,
     "wof:name":"Kinsale",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001114,
-    "geom:area_square_m":8218951.110988,
+    "geom:area_square_m":8218951.110987,
     "geom:bbox":"-6.1962890625,53.3480088311,-6.13964249591,53.3783356035",
     "geom:latitude":53.362324,
     "geom:longitude":-6.169026,
@@ -30,7 +30,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u0439\u043c\u043e\u0443\u043d\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Dollymount"
+    ],
     "name:eng_x_preferred":[
+        "Dollymount"
+    ],
+    "name:eus_x_preferred":[
         "Dollymount"
     ],
     "name:gla_x_preferred":[
@@ -39,11 +48,17 @@
     "name:gle_x_preferred":[
         "Cnoc\u00e1n Doirinne"
     ],
+    "name:nld_x_preferred":[
+        "Dollymount"
+    ],
     "name:pol_x_preferred":[
         "Dollymount"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u043b\u0438\u043c\u0430\u0443\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Dollymount"
     ],
     "name:unk_x_variant":[
         "Dollymount"
@@ -128,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379339,
+    "wof:lastmodified":1563312607,
     "wof:name":"Dollymount",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

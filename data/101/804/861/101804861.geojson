@@ -20,8 +20,14 @@
     "name:cat_x_preferred":[
         "Moate"
     ],
+    "name:ceb_x_preferred":[
+        "Moate"
+    ],
     "name:cym_x_preferred":[
         "An M\u00f3ta"
+    ],
+    "name:deu_x_preferred":[
+        "Moate"
     ],
     "name:eng_x_preferred":[
         "Moate"
@@ -49,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0443\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Moate"
     ],
     "name:swe_x_preferred":[
         "Moate"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":101804861,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313476,
     "wof:name":"Moate",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

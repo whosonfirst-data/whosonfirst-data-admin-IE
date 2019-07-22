@@ -17,10 +17,40 @@
     "mps:longitude":-7.0634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ang_x_preferred":[
+        "Edenderry"
+    ],
+    "name:arg_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ast_x_preferred":[
+        "Edenderry"
+    ],
+    "name:bar_x_preferred":[
+        "Edenderry"
+    ],
+    "name:bre_x_preferred":[
+        "Edenderry"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0434\u044a\u043d\u0434\u0435\u0440\u0438"
     ],
     "name:cat_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ceb_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ces_x_preferred":[
+        "Edenderry"
+    ],
+    "name:cos_x_preferred":[
+        "Edenderry"
+    ],
+    "name:cym_x_preferred":[
         "Edenderry"
     ],
     "name:dan_x_preferred":[
@@ -32,10 +62,28 @@
     "name:eng_x_preferred":[
         "Edenderry"
     ],
+    "name:epo_x_preferred":[
+        "Edenderry"
+    ],
+    "name:est_x_preferred":[
+        "Edenderry"
+    ],
     "name:eus_x_preferred":[
         "Edenderry"
     ],
+    "name:fin_x_preferred":[
+        "Edenderry"
+    ],
     "name:fra_x_preferred":[
+        "Edenderry"
+    ],
+    "name:frp_x_preferred":[
+        "Edenderry"
+    ],
+    "name:fur_x_preferred":[
+        "Edenderry"
+    ],
+    "name:gla_x_preferred":[
         "Edenderry"
     ],
     "name:gle_x_preferred":[
@@ -44,7 +92,31 @@
     "name:gle_x_variant":[
         "\u00c9aden Doire"
     ],
+    "name:glg_x_preferred":[
+        "Edenderry"
+    ],
+    "name:gsw_x_preferred":[
+        "Edenderry"
+    ],
+    "name:hrv_x_preferred":[
+        "Edenderry"
+    ],
+    "name:hun_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ido_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ile_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ina_x_preferred":[
+        "Edenderry"
+    ],
     "name:ind_x_preferred":[
+        "Edenderry"
+    ],
+    "name:isl_x_preferred":[
         "Edenderry"
     ],
     "name:ita_x_preferred":[
@@ -53,22 +125,121 @@
     "name:kat_x_preferred":[
         "\u10d4\u10d3\u10d4\u10dc\u10d3\u10d4\u10e0\u10d8"
     ],
+    "name:kon_x_preferred":[
+        "Edenderry"
+    ],
+    "name:lij_x_preferred":[
+        "Edenderry"
+    ],
+    "name:lim_x_preferred":[
+        "Edenderry"
+    ],
     "name:lit_x_preferred":[
         "Endenberis"
     ],
+    "name:ltz_x_preferred":[
+        "Edenderry"
+    ],
+    "name:min_x_preferred":[
+        "Edenderry"
+    ],
+    "name:mlg_x_preferred":[
+        "Edenderry"
+    ],
+    "name:msa_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nap_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nds_x_preferred":[
+        "Edenderry"
+    ],
     "name:nld_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nno_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nob_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nrm_x_preferred":[
+        "Edenderry"
+    ],
+    "name:nys_x_preferred":[
+        "Edenderry"
+    ],
+    "name:oci_x_preferred":[
+        "Edenderry"
+    ],
+    "name:pcd_x_preferred":[
+        "Edenderry"
+    ],
+    "name:pms_x_preferred":[
         "Edenderry"
     ],
     "name:pol_x_preferred":[
         "Edenderry"
     ],
+    "name:por_x_preferred":[
+        "Edenderry"
+    ],
+    "name:roh_x_preferred":[
+        "Edenderry"
+    ],
+    "name:ron_x_preferred":[
+        "Edenderry"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0434\u0435\u043d\u0434\u0435\u0440\u0440\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Edenderry"
+    ],
+    "name:sco_x_preferred":[
+        "Edenderry"
+    ],
+    "name:slk_x_preferred":[
+        "Edenderry"
+    ],
+    "name:slv_x_preferred":[
+        "Edenderry"
     ],
     "name:spa_x_preferred":[
         "Edenderry"
     ],
+    "name:srd_x_preferred":[
+        "Edenderry"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0434\u0435\u043d\u0434\u0435\u0440\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Edenderry"
+    ],
     "name:swe_x_preferred":[
+        "Edenderry"
+    ],
+    "name:vec_x_preferred":[
+        "Edenderry"
+    ],
+    "name:vie_x_preferred":[
+        "Edenderry"
+    ],
+    "name:vls_x_preferred":[
+        "Edenderry"
+    ],
+    "name:vol_x_preferred":[
+        "Edenderry"
+    ],
+    "name:wln_x_preferred":[
+        "Edenderry"
+    ],
+    "name:wol_x_preferred":[
+        "Edenderry"
+    ],
+    "name:zul_x_preferred":[
         "Edenderry"
     ],
     "qs:a0":"Ireland",
@@ -119,7 +290,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759864,
+    "wof:lastmodified":1563313502,
     "wof:name":"Edenderry",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

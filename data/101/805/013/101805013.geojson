@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u0440\u0445\u0430\u043c\u0438\u043b\u0442\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Manorhamilton"
+    ],
     "name:cym_x_preferred":[
         "Manorhamilton"
     ],
@@ -57,6 +60,9 @@
         "\u041c\u0430\u043d\u043e\u0440\u0445\u0430\u043c\u0438\u043b\u0442\u043e\u043d"
     ],
     "name:slk_x_preferred":[
+        "Manorhamilton"
+    ],
+    "name:spa_x_preferred":[
         "Manorhamilton"
     ],
     "name:swe_x_preferred":[
@@ -107,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759867,
+    "wof:lastmodified":1563313532,
     "wof:name":"Manorhamilton",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

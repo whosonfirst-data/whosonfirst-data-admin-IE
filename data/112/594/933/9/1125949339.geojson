@@ -22,11 +22,17 @@
     "name:cat_x_preferred":[
         "Carrigtwohill"
     ],
+    "name:ceb_x_preferred":[
+        "Carrigtwohill"
+    ],
     "name:deu_x_preferred":[
         "Carrigtwohill"
     ],
     "name:eng_x_preferred":[
         "Carrigtohill"
+    ],
+    "name:eng_x_variant":[
+        "Carrigtwohill"
     ],
     "name:eus_x_preferred":[
         "Carrigtwohill"
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0440\u0438\u0433\u0442\u043e\u0445\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Carrigtwohill"
     ],
     "name:swe_x_preferred":[
         "Carrigtwohill"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125949339,
-    "wof:lastmodified":1561759875,
+    "wof:lastmodified":1563313657,
     "wof:name":"Carrigtwohill",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

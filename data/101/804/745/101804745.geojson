@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0430\u0440\u043b\u0438\u043d\u0433\u0442\u044a\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Portarlington"
+    ],
     "name:dan_x_preferred":[
         "Portarlington"
     ],
@@ -65,6 +68,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u0631\u0679\u0627\u0631\u0644\u06cc\u0646\u0679\u0646\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u0644\u06cc\u0634"
     ],
+    "name:urd_x_variant":[
+        "\u067e\u0648\u0631\u0679\u0627\u0631\u0644\u06cc\u0646\u0679\u0646"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Laois",
     "qs:a1r":"0",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":101804745,
-    "wof:lastmodified":1561759866,
+    "wof:lastmodified":1563313516,
     "wof:name":"Portarlington",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

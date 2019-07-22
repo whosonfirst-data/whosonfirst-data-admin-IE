@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0428\u0440\u0443\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Shrule"
+    ],
     "name:eng_x_preferred":[
         "Shrule"
     ],
@@ -31,6 +34,9 @@
     "name:gle_x_preferred":[
         "Shruthair"
     ],
+    "name:gle_x_variant":[
+        "Sruthair"
+    ],
     "name:kat_x_preferred":[
         "\u10e8\u10e0\u10e3\u10da\u10d8"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0440\u0443\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Shrule"
     ],
     "name:swe_x_preferred":[
         "Shrule"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125952453,
-    "wof:lastmodified":1561759878,
+    "wof:lastmodified":1563313697,
     "wof:name":"Shrule",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

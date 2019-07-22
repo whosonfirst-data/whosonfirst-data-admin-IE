@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001068,
-    "geom:area_square_m":7890002.6886,
+    "geom:area_square_m":7890002.688599,
     "geom:bbox":"-6.17529783044,53.2846428432,-6.12861083984,53.3261082402",
     "geom:latitude":53.302369,
     "geom:longitude":-6.148051,
@@ -27,11 +27,38 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Monkstown"
+    ],
+    "name:deu_x_preferred":[
+        "Monkstown Castle"
+    ],
     "name:eng_x_preferred":[
+        "Monkstown"
+    ],
+    "name:eus_x_preferred":[
+        "Monkstown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30af\u30b9\u30bf\u30a6\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Monkstown"
+    ],
+    "name:pol_x_preferred":[
+        "Monkstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u043a\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
         "Monkstown"
     ],
     "name:unk_x_variant":[
         "Monkstown"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u514b\u65af\u9813"
     ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
@@ -91,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530148451,
+    "wof:lastmodified":1563312609,
     "wof:name":"Monkstown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

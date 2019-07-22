@@ -25,6 +25,9 @@
     "name:nld_x_preferred":[
         "Fedamore"
     ],
+    "name:spa_x_preferred":[
+        "Fedamore"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Limerick",
     "qs:a1r":"0",
@@ -73,7 +76,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561759872,
+    "wof:lastmodified":1563313590,
     "wof:name":"Fedamore",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

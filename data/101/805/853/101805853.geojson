@@ -23,11 +23,20 @@
     "name:ara_x_preferred":[
         "\u0648\u062a\u064e\u0631\u0641\u0648\u0631\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u062a\u0631\u0641\u0648\u0631\u062f"
+    ],
+    "name:bar_x_preferred":[
+        "Waterford"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u043e\u0442\u044d\u0440\u0444\u0430\u0440\u0434"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09c7\u099f\u09ab\u09cb\u09b0\u09cd\u09a1"
+    ],
+    "name:ben_x_variant":[
+        "\u0993\u09af\u09bc\u09be\u099f\u09be\u09b0\u09ab\u09cb\u09b0\u09cd\u09a1"
     ],
     "name:bre_x_preferred":[
         "Port L\u00e1irge"
@@ -36,6 +45,9 @@
         "\u0423\u043e\u0442\u044a\u0440\u0444\u043e\u0440\u0434"
     ],
     "name:cat_x_preferred":[
+        "Waterford"
+    ],
+    "name:ceb_x_preferred":[
         "Waterford"
     ],
     "name:ces_x_preferred":[
@@ -86,6 +98,9 @@
     "name:gla_x_preferred":[
         "Port L\u00e0irge"
     ],
+    "name:gla_x_variant":[
+        "Port L\u00e1irge"
+    ],
     "name:gle_x_preferred":[
         "Port L\u00e1irge"
     ],
@@ -117,6 +132,9 @@
         "Waterford"
     ],
     "name:ind_x_preferred":[
+        "Waterford"
+    ],
+    "name:isl_x_preferred":[
         "Waterford"
     ],
     "name:ita_x_preferred":[
@@ -200,6 +218,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u043e\u0442\u0435\u0440\u0444\u043e\u0440\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c1f\u0c30\u0c4d\u0c2b\u0c30\u0c4d\u0c21\u0c4d"
     ],
@@ -268,7 +289,7 @@
         }
     ],
     "wof:id":101805853,
-    "wof:lastmodified":1561759870,
+    "wof:lastmodified":1563313568,
     "wof:name":"Waterford",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

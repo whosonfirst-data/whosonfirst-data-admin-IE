@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Rosenallis"
     ],
+    "name:eus_x_preferred":[
+        "Rosenallis"
+    ],
     "name:gle_x_preferred":[
         "Ros Fhionnghlaise"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125867193,
-    "wof:lastmodified":1561759882,
+    "wof:lastmodified":1563313772,
     "wof:name":"Rosenallis",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

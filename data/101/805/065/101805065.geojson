@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":836260.637232,
+    "geom:area_square_m":836260.637231,
     "geom:bbox":"-7.65910497349,55.0288687268,-7.6400004534,55.0440503244",
     "geom:latitude":55.036169,
     "geom:longitude":-7.65018,
@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Ramelton"
     ],
+    "name:ceb_x_preferred":[
+        "Ramelton"
+    ],
     "name:deu_x_preferred":[
         "Ramelton"
     ],
@@ -36,23 +39,47 @@
     "name:eus_x_preferred":[
         "Ramelton"
     ],
+    "name:fra_x_preferred":[
+        "Ramelton"
+    ],
     "name:gle_x_preferred":[
         "R\u00e1th Mealtain"
     ],
     "name:glv_x_preferred":[
         "R\u00e1th Mealt\u00e1in"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05de\u05dc\u05d8\u05d5\u05df"
+    ],
     "name:ita_x_preferred":[
         "Ramelton"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d4\u10da\u10e2\u10dd\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
+        "Ramelton"
+    ],
+    "name:nob_x_preferred":[
         "Ramelton"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043c\u0435\u043b\u0442\u043e\u043d"
     ],
+    "name:slv_x_preferred":[
+        "Ramelton"
+    ],
+    "name:spa_x_preferred":[
+        "Ramelton"
+    ],
+    "name:swe_x_preferred":[
+        "Ramelton"
+    ],
     "name:unk_x_variant":[
         "Ramelton"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u6885\u723e\u9813"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Donegal",
@@ -99,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642959,
+    "wof:lastmodified":1563313536,
     "wof:name":"Rathmelton",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

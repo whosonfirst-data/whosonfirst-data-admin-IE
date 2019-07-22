@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043b\u0441"
     ],
+    "name:spa_x_preferred":[
+        "Kells"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125978847,
-    "wof:lastmodified":1561759887,
+    "wof:lastmodified":1563313876,
     "wof:name":"Kells",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

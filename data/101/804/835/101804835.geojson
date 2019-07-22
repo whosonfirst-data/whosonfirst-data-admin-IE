@@ -20,7 +20,13 @@
     "name:bul_x_preferred":[
         "\u0424\u044a\u0440\u0431\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Ferbane"
+    ],
     "name:eng_x_preferred":[
+        "Ferbane"
+    ],
+    "name:eus_x_preferred":[
         "Ferbane"
     ],
     "name:gle_x_preferred":[
@@ -31,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0424\u0435\u0440\u0431\u0435\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ferbane"
     ],
     "name:swe_x_preferred":[
         "Ferbane"
@@ -81,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642747,
+    "wof:lastmodified":1563313477,
     "wof:name":"Ferbane",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

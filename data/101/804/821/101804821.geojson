@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0648\u0646\u060c \u0643\u0627\u0648\u0646\u062a\u064a \u0643\u0644\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0627\u0646\u0648\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044d\u043d\u0430\u043d"
     ],
@@ -31,6 +34,9 @@
         "\u0428\u0430\u043d\u044a\u043d"
     ],
     "name:cat_x_preferred":[
+        "Shannon"
+    ],
+    "name:ceb_x_preferred":[
         "Shannon"
     ],
     "name:cym_x_preferred":[
@@ -48,6 +54,9 @@
     "name:eus_x_preferred":[
         "Shannon"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Shannon"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d0\u05e0\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Shannon"
     ],
     "name:ind_x_preferred":[
         "Shannon"
@@ -93,14 +105,23 @@
     "name:rus_x_preferred":[
         "\u0428\u0430\u043d\u043d\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Shannon Town"
+    ],
     "name:srp_x_preferred":[
         "\u0428\u0435\u043d\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Shannon"
     ],
+    "name:tur_x_preferred":[
+        "Shannon"
+    ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0646\u0646\u060c \u06a9\u0627\u0624\u0646\u0679\u06cc \u06a9\u0644\u06cc\u0626\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0634\u06cc\u0646\u0646"
     ],
     "name:zho_x_preferred":[
         "\u9999\u5102"
@@ -240,7 +261,7 @@
         }
     ],
     "wof:id":101804821,
-    "wof:lastmodified":1561759861,
+    "wof:lastmodified":1563313473,
     "wof:name":"Shannon",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

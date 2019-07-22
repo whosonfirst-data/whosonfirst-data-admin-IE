@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043d\u0434\u0445\u0438\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Strandhill"
+    ],
     "name:eng_x_preferred":[
         "Strandhill"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0440\u0430\u043d\u0434\u0445\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Strandhill"
     ],
     "name:swe_x_preferred":[
         "Strandhill"
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":101912595,
-    "wof:lastmodified":1561759871,
+    "wof:lastmodified":1563313579,
     "wof:name":"Larass",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",
