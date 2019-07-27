@@ -21,8 +21,17 @@
     "name:eng_x_preferred":[
         "Maghery"
     ],
+    "name:eus_x_preferred":[
+        "Maghery"
+    ],
     "name:gle_x_preferred":[
         "An Machaire"
+    ],
+    "name:msa_x_preferred":[
+        "Maghery"
+    ],
+    "name:pli_x_preferred":[
+        "\u092e\u0918\u0947\u0930\u0940"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":1125367471,
-    "wof:lastmodified":1509389230,
+    "wof:lastmodified":1564214774,
     "wof:name":"Maghery",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

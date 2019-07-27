@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Villierstown"
+    ],
     "name:eng_x_preferred":[
+        "Villierstown"
+    ],
+    "name:eus_x_preferred":[
         "Villierstown"
     ],
     "name:gle_x_preferred":[
         "An Baile Nua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0438\u0435\u0440\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Villierstown"
+    ],
+    "name:swe_x_preferred":[
+        "Villierstown"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276695965,
-    "wof:lastmodified":1537636718,
+    "wof:lastmodified":1564213931,
     "wof:name":"Villierstown",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

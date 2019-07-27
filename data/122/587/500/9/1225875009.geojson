@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Ballybrack"
     ],
+    "name:eus_x_preferred":[
+        "Ballybrack"
+    ],
     "name:gle_x_preferred":[
         "An Baile Breac"
+    ],
+    "name:pol_x_preferred":[
+        "Ballybrack"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0431\u0440\u0430\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225875009,
-    "wof:lastmodified":1537636758,
+    "wof:lastmodified":1564215182,
     "wof:name":"Ballybrack",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

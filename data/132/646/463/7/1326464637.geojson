@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thornford"
+    ],
+    "name:cym_x_preferred":[
+        "Thornford"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0641\u0648\u0631\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Thornford"
+    ],
+    "name:nld_x_preferred":[
+        "Thornford"
+    ],
+    "name:pol_x_preferred":[
+        "Thornford"
+    ],
+    "name:spa_x_preferred":[
+        "Thornford"
+    ],
+    "name:swe_x_preferred":[
+        "Thornford"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1326464637,
-    "wof:lastmodified":1537078235,
+    "wof:lastmodified":1564213483,
     "wof:name":"Thornford",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

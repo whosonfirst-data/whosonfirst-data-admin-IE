@@ -24,6 +24,9 @@
     "name:gle_x_preferred":[
         "An Baile Dubh"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0434\u0430\u0444\u0444"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125873545,
-    "wof:lastmodified":1509397554,
+    "wof:lastmodified":1564214685,
     "wof:name":"Ballyduff",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

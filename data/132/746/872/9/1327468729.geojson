@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Timahoe"
+    ],
+    "name:deu_x_preferred":[
+        "Timahoe"
+    ],
+    "name:eus_x_preferred":[
+        "Timahoe"
+    ],
+    "name:gle_x_preferred":[
+        "Tigh Mochua"
+    ],
+    "name:lit_x_preferred":[
+        "Timaho"
+    ],
+    "name:pol_x_preferred":[
+        "Timahoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0430\u0445\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Timahoe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1327468729,
-    "wof:lastmodified":1536626465,
+    "wof:lastmodified":1564213450,
     "wof:name":"Timahoe",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

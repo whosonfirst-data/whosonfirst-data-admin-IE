@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:dan_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:deu_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:eus_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:fra_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:ita_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10dc\u10e0\u10dd\u10d1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:pol_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0440\u043e\u0431"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinrobe"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinrobe"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ballinrobe",
@@ -61,7 +97,7 @@
         }
     ],
     "wof:id":1125319093,
-    "wof:lastmodified":1509388077,
+    "wof:lastmodified":1564214751,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",

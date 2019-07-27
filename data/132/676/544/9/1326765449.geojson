@@ -26,11 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Eyeries"
+    ],
     "name:eng_x_preferred":[
+        "Eyeries"
+    ],
+    "name:eus_x_preferred":[
+        "Eyeries"
+    ],
+    "name:fra_x_preferred":[
         "Eyeries"
     ],
     "name:gle_x_preferred":[
         "Na hAora\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0440\u0438\u0441"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326765449,
-    "wof:lastmodified":1537636741,
+    "wof:lastmodified":1564213465,
     "wof:name":"Eyeries",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

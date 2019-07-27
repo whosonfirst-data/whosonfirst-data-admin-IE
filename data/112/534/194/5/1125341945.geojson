@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Finnea"
+    ],
+    "name:pol_x_preferred":[
+        "Finnea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043d\u043d\u0438"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Finnea",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125341945,
-    "wof:lastmodified":1509388682,
+    "wof:lastmodified":1564214569,
     "wof:name":"Finnea",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",

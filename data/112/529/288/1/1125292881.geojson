@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Monamolin"
+    ],
+    "name:gle_x_preferred":[
+        "Muine Moling"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u043c\u043e\u043b\u0438\u043d"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1125292881,
-    "wof:lastmodified":1509387566,
+    "wof:lastmodified":1564214670,
     "wof:name":"Monamolin",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",

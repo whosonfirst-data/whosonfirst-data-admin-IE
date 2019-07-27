@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Frosses"
+    ],
+    "name:eus_x_preferred":[
+        "Frosses"
+    ],
+    "name:gle_x_preferred":[
+        "Na Frosa"
+    ],
+    "name:glv_x_preferred":[
+        "Na Frosa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u043e\u0441\u0441\u0438\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226778913,
-    "wof:lastmodified":1537564844,
+    "wof:lastmodified":1564215232,
     "wof:name":"Frosses",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

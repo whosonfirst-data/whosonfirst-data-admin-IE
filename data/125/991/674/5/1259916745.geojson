@@ -27,6 +27,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:eus_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:fra_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:pol_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043a\u043e\u043d\u043d\u0435\u043b\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyconnell"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyconnell"
+    ],
     "name:und_x_variant":[
         "Ballyconnel",
         "Ballyconnell"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1259916745,
-    "wof:lastmodified":1537636758,
+    "wof:lastmodified":1564215011,
     "wof:name":"Ballyconnell",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

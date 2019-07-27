@@ -27,6 +27,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Narin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e8\u05d9\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0580\u056b\u0576"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Narin"
+    ],
     "name:und_x_variant":[
         "Narin",
         "Naran"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1344193475,
-    "wof:lastmodified":1537636726,
+    "wof:lastmodified":1564213647,
     "wof:name":"Naran",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

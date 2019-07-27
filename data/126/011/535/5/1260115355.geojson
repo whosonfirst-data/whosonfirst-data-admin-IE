@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Clohamon"
     ],
+    "name:eus_x_preferred":[
+        "Clohamon"
+    ],
     "name:gle_x_preferred":[
         "Cloch \u00c1mainn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0445\u0430\u043c\u043e\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260115355,
-    "wof:lastmodified":1537636748,
+    "wof:lastmodified":1564214262,
     "wof:name":"Clohamon",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

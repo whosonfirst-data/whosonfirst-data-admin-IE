@@ -32,8 +32,20 @@
     "name:eng_x_preferred":[
         "Doolin"
     ],
+    "name:eus_x_preferred":[
+        "Doolin"
+    ],
+    "name:fin_x_preferred":[
+        "Doolin"
+    ],
+    "name:fra_x_preferred":[
+        "Doolin"
+    ],
     "name:gle_x_preferred":[
         "D\u00falainn"
+    ],
+    "name:glg_x_preferred":[
+        "Doolin"
     ],
     "name:ita_x_preferred":[
         "Doolin"
@@ -44,11 +56,20 @@
     "name:lat_x_preferred":[
         "Doolin"
     ],
+    "name:nld_x_preferred":[
+        "Doolin"
+    ],
+    "name:nor_x_preferred":[
+        "Doolin"
+    ],
     "name:pol_x_preferred":[
         "Doolin"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Doolin"
     ],
     "name:swe_x_preferred":[
         "Doolin"
@@ -81,7 +102,7 @@
         }
     ],
     "wof:id":1276690247,
-    "wof:lastmodified":1537636743,
+    "wof:lastmodified":1564213923,
     "wof:name":"Doolin",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

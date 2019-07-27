@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:eus_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:fra_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:ita_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:nld_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u043a\u043e\u043c\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Castlecomer"
+    ],
+    "name:swe_x_preferred":[
+        "Castlecomer"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Castlecomer",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1125365295,
-    "wof:lastmodified":1509389188,
+    "wof:lastmodified":1564214776,
     "wof:name":"Castlecomer",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",

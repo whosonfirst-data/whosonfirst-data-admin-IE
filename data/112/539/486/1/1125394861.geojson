@@ -19,11 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Castlelyons"
+    ],
+    "name:ceb_x_preferred":[
+        "Castlelyons"
+    ],
+    "name:deu_x_preferred":[
+        "Castlelyons"
+    ],
     "name:eng_x_preferred":[
+        "Castlelyons"
+    ],
+    "name:eus_x_preferred":[
         "Castlelyons"
     ],
     "name:gle_x_preferred":[
         "Caisle\u00e1n \u00d3 Liath\u00e1in"
+    ],
+    "name:pol_x_preferred":[
+        "Castlelyons"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u043b\u0430\u0439\u043e\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Castlelyons"
+    ],
+    "name:swe_x_preferred":[
+        "Castlelyons"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -75,7 +99,7 @@
         }
     ],
     "wof:id":1125394861,
-    "wof:lastmodified":1509389921,
+    "wof:lastmodified":1564214738,
     "wof:name":"Castlelyons",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

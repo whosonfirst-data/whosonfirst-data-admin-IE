@@ -26,6 +26,36 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0434\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Mont Kennedy"
+    ],
+    "name:ceb_x_preferred":[
+        "Mount Kennedy"
+    ],
+    "name:ces_x_preferred":[
+        "Mount Kennedy"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Kennedy"
+    ],
+    "name:ind_x_preferred":[
+        "Gunung Kennedy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u043d\u0435\u0434\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Mount Kennedy"
+    ],
+    "name:swa_x_preferred":[
+        "Mlima Kennedy"
+    ],
+    "name:zho_x_preferred":[
+        "\u80af\u5c3c\u8fea\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1293526209,
-    "wof:lastmodified":1536731448,
+    "wof:lastmodified":1564213731,
     "wof:name":"Mount Kennedy",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

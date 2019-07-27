@@ -24,7 +24,22 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Churchtown"
+    ],
+    "name:deu_x_preferred":[
+        "Churchtown"
+    ],
     "name:eng_x_preferred":[
+        "Churchtown"
+    ],
+    "name:nld_x_preferred":[
+        "Churchtown"
+    ],
+    "name:pol_x_preferred":[
+        "Churchtown"
+    ],
+    "name:swe_x_preferred":[
         "Churchtown"
     ],
     "name:unk_x_variant":[
@@ -83,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269549,
+    "wof:lastmodified":1564213689,
     "wof:name":"Churchtown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

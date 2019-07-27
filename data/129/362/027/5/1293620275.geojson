@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Newtowncashel"
     ],
+    "name:eus_x_preferred":[
+        "Newtowncashel"
+    ],
     "name:gle_x_preferred":[
         "Baile Nua an Chaisil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u0442\u0430\u0443\u043d-\u041a\u0430\u0448\u0435\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293620275,
-    "wof:lastmodified":1537636790,
+    "wof:lastmodified":1564213724,
     "wof:name":"Newtowncashel",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

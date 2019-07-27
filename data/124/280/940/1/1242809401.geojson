@@ -30,8 +30,32 @@
     "name:eng_x_preferred":[
         "Ballinakill"
     ],
+    "name:eus_x_preferred":[
+        "Ballinakill"
+    ],
     "name:gle_x_preferred":[
         "Baile na Coille"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10dc\u10d0\u10d9\u10d8\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Balinakilas"
+    ],
+    "name:nor_x_preferred":[
+        "Ballinakill"
+    ],
+    "name:pol_x_preferred":[
+        "Ballinakill"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0430\u043a\u0438\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinakill"
+    ],
+    "name:swe_x_preferred":[
+        "Ballinakill"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1242809401,
-    "wof:lastmodified":1537636760,
+    "wof:lastmodified":1564214878,
     "wof:name":"Ballinakill",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

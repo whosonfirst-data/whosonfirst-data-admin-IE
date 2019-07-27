@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Killowen"
+    ],
+    "name:eus_x_preferred":[
+        "Killowen"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Eoghain"
+    ],
+    "name:msa_x_preferred":[
+        "Killowen"
+    ],
+    "name:pli_x_preferred":[
+        "\u0915\u093f\u0932\u094d\u0932\u094b\u0935\u0947\u0902"
+    ],
+    "name:spa_x_preferred":[
+        "Killowen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1243297727,
-    "wof:lastmodified":1537019087,
+    "wof:lastmodified":1564214994,
     "wof:name":"Killowen",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

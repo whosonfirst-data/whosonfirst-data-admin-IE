@@ -27,11 +27,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lios P\u00f3il"
+    ],
     "name:eng_x_preferred":[
         "Lispole"
     ],
+    "name:eus_x_preferred":[
+        "Lios P\u00f3il"
+    ],
     "name:gle_x_preferred":[
         "Lios P\u00f3il"
+    ],
+    "name:nld_x_preferred":[
+        "Lispole"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043f\u043e\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1193051807,
-    "wof:lastmodified":1537636729,
+    "wof:lastmodified":1564214217,
     "wof:name":"Lispole",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

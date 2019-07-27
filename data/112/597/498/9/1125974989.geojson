@@ -18,11 +18,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Cur"
+    ],
     "name:eng_x_preferred":[
+        "Cur"
+    ],
+    "name:fin_x_preferred":[
         "Cur"
     ],
     "name:gle_x_preferred":[
         "An Chorr"
+    ],
+    "name:msa_x_preferred":[
+        "Cur"
+    ],
+    "name:spa_x_preferred":[
+        "Cur"
+    ],
+    "name:vie_x_preferred":[
+        "Cur"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1125974989,
-    "wof:lastmodified":1509404303,
+    "wof:lastmodified":1564214745,
     "wof:name":"Cur",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -19,11 +19,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Miltown Malbay"
+    ],
+    "name:deu_x_preferred":[
+        "Milltown Malbay"
+    ],
     "name:eng_x_preferred":[
         "Milltown Malbay"
     ],
+    "name:eus_x_preferred":[
+        "Milltown Malbay"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0644\u062a\u0627\u0648\u0646 \u0645\u0627\u0644\u200c\u0628\u06cc"
+    ],
     "name:gle_x_preferred":[
         "Sr\u00e1id na Cathrach"
+    ],
+    "name:ita_x_preferred":[
+        "Milltown Malbay"
+    ],
+    "name:nld_x_preferred":[
+        "Milltown Malbay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0442\u0430\u0443\u043d-\u041c\u0430\u043b\u0431\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Milltown Malbay"
+    ],
+    "name:swe_x_preferred":[
+        "Miltown Malbay"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u041c\u0438\u043b\u0442\u0430\u0443\u043d \u041c\u043e\u043b\u0431\u0435\u0439"
     ],
     "name:unk_x_variant":[
         "Miltown Malbay"
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":1125316391,
-    "wof:lastmodified":1509388021,
+    "wof:lastmodified":1564214763,
     "wof:name":"Milltown Malbay",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

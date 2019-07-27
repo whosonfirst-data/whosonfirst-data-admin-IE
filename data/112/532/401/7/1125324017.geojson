@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Mainistir Bhuithe"
+    ],
+    "name:eus_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:fra_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:gle_x_preferred":[
+        "Mainistir Bhuithe"
+    ],
+    "name:hun_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:ita_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:nld_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:nor_x_preferred":[
+        "Monasterboice"
+    ],
+    "name:por_x_preferred":[
+        "Mainistir Bhuithe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0442\u0435\u0440\u0431\u043e\u0439\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Mainistir Bhuithe"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Monasterboice",
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":1125324017,
-    "wof:lastmodified":1509388189,
+    "wof:lastmodified":1564214600,
     "wof:name":"Monasterboice",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",

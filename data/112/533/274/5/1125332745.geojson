@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ori_x_preferred":[
+        "Rahona"
+    ],
+    "name:por_x_preferred":[
+        "Rahona"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rahona",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125332745,
-    "wof:lastmodified":1509388423,
+    "wof:lastmodified":1564214552,
     "wof:name":"Rahona",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

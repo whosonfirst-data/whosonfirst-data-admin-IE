@@ -27,11 +27,38 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ros Muc"
+    ],
+    "name:cat_x_preferred":[
+        "Ros Muc"
+    ],
+    "name:cym_x_preferred":[
+        "Ros Muc"
+    ],
     "name:eng_x_preferred":[
         "Rosmuck"
     ],
+    "name:eus_x_preferred":[
+        "Ros Muc"
+    ],
+    "name:fra_x_preferred":[
+        "Ros Muc"
+    ],
     "name:gle_x_preferred":[
         "Ros Muc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10e1\u10db\u10e3\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ros Muc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043c\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Rosmuc"
     ],
     "name:und_x_variant":[
         "Rusmuck"
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1360321651,
-    "wof:lastmodified":1537636722,
+    "wof:lastmodified":1564214466,
     "wof:name":"Rosmuck",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

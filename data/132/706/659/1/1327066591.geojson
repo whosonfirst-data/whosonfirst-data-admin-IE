@@ -26,6 +26,33 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "White Castle"
+    ],
+    "name:deu_x_preferred":[
+        "White Castle"
+    ],
+    "name:ita_x_preferred":[
+        "White Castle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30ef\u30a4\u30c8\u30ad\u30e3\u30c3\u30b9\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud654\uc774\ud2b8 \uce90\uc2ac"
+    ],
+    "name:nld_x_preferred":[
+        "White Castle"
+    ],
+    "name:por_x_preferred":[
+        "White Castle"
+    ],
+    "name:swe_x_preferred":[
+        "White Castle"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u57ce\u5821"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":1327066591,
-    "wof:lastmodified":1536711324,
+    "wof:lastmodified":1564213361,
     "wof:name":"White Castle",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

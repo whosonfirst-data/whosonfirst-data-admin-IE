@@ -21,8 +21,14 @@
     "name:eng_x_preferred":[
         "Cooraclare"
     ],
+    "name:eus_x_preferred":[
+        "Cooraclare"
+    ],
     "name:gle_x_preferred":[
         "Cuar an Chl\u00e1ir"
+    ],
+    "name:nld_x_preferred":[
+        "Cooraclare"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1126028407,
-    "wof:lastmodified":1509407696,
+    "wof:lastmodified":1564214622,
     "wof:name":"Cooraclare",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

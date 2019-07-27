@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gla_x_preferred":[
+        "An Ascaill"
+    ],
+    "name:gle_x_preferred":[
+        "An Ascaill"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10d9\u10d8\u10da\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1193046751,
-    "wof:lastmodified":1536370077,
+    "wof:lastmodified":1564214206,
     "wof:name":"Askill",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

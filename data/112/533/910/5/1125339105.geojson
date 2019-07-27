@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Dunleer"
+    ],
+    "name:eus_x_preferred":[
+        "Dunleer"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan L\u00e9ire"
+    ],
+    "name:ita_x_preferred":[
+        "Dunleer"
+    ],
+    "name:pol_x_preferred":[
+        "Dunleer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u043b\u0438\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Dunleer"
+    ],
+    "name:spa_x_preferred":[
+        "Dunleer"
+    ],
+    "name:swe_x_preferred":[
+        "Dunleer"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Dunleer",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1125339105,
-    "wof:lastmodified":1509388602,
+    "wof:lastmodified":1564214568,
     "wof:name":"Dunleer",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",

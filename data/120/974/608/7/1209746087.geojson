@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Stratford-on-Slaney"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th na Sr\u00e1ide"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0442\u0444\u043e\u0440\u0434-\u043d\u0430-\u0421\u043b\u0435\u0439\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Stratford-on-Slaney"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209746087,
-    "wof:lastmodified":1537564859,
+    "wof:lastmodified":1564214163,
     "wof:name":"Stratford on Slaney",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

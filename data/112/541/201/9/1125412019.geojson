@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cym_x_preferred":[
+        "Elphin"
+    ],
     "name:eng_x_preferred":[
         "Elphin"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125412019,
-    "wof:lastmodified":1509390283,
+    "wof:lastmodified":1564214822,
     "wof:name":"Elphin",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",

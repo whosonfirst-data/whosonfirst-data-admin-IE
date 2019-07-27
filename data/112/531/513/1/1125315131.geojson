@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0432\u0435\u0440\u0441\u043a\u043e\u0440\u0442"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Powerscourt",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125315131,
-    "wof:lastmodified":1509387983,
+    "wof:lastmodified":1564214766,
     "wof:name":"Powerscourt",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",

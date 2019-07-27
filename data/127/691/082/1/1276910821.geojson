@@ -26,11 +26,17 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raheen"
+    ],
     "name:eng_x_preferred":[
         "Raheen"
     ],
     "name:gle_x_preferred":[
         "Na R\u00e1ith\u00edneacha"
+    ],
+    "name:swe_x_preferred":[
+        "Raheen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276910821,
-    "wof:lastmodified":1537636763,
+    "wof:lastmodified":1564214007,
     "wof:name":"Raheen",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

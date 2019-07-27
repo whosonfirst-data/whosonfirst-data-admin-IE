@@ -21,8 +21,23 @@
     "name:eng_x_preferred":[
         "Bellavary"
     ],
+    "name:eus_x_preferred":[
+        "Bellavary"
+    ],
     "name:gle_x_preferred":[
         "B\u00e9al \u00c1tha Bhearaigh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d0\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Bellavary"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430\u0432\u044d\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Bellavary"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1125271177,
-    "wof:lastmodified":1509387024,
+    "wof:lastmodified":1564214658,
     "wof:name":"Bellavary",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",

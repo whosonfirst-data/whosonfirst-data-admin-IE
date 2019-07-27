@@ -26,8 +26,14 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balally"
+    ],
     "name:gle_x_preferred":[
         "Baile Amhlaoibh"
+    ],
+    "name:swe_x_preferred":[
+        "Balally"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259419585,
-    "wof:lastmodified":1537636791,
+    "wof:lastmodified":1564215035,
     "wof:name":"Balally",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

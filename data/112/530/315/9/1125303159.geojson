@@ -18,7 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kilmalkedar"
+    ],
     "name:eng_x_preferred":[
+        "Kilmalkedar"
+    ],
+    "name:fra_x_preferred":[
         "Kilmalkedar"
     ],
     "name:gle_x_preferred":[
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1125303159,
-    "wof:lastmodified":1509387749,
+    "wof:lastmodified":1564214720,
     "wof:name":"Kilmalkedar",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

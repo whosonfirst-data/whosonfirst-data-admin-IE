@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banteer"
+    ],
     "name:eng_x_preferred":[
+        "Banteer"
+    ],
+    "name:eus_x_preferred":[
         "Banteer"
     ],
     "name:gle_x_preferred":[
         "B\u00e1ntir"
+    ],
+    "name:gle_x_variant":[
+        "B\u00e1nt\u00edr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0442\u0438\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Banteer"
+    ],
+    "name:swe_x_preferred":[
+        "Banteer"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243007879,
-    "wof:lastmodified":1537636755,
+    "wof:lastmodified":1564214848,
     "wof:name":"Banteer",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

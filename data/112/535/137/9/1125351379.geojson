@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Mahoonagh"
+    ],
+    "name:gle_x_preferred":[
+        "Maigh Thamhnach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0443\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Castlemahon"
     ],
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1125351379,
-    "wof:lastmodified":1509388860,
+    "wof:lastmodified":1564214588,
     "wof:name":"Mahoonagh",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",

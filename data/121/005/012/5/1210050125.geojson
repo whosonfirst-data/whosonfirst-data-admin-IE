@@ -26,6 +26,36 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Cashel"
+    ],
+    "name:ceb_x_preferred":[
+        "Cashel"
+    ],
+    "name:deu_x_preferred":[
+        "Cashel"
+    ],
+    "name:epo_x_preferred":[
+        "Cashel"
+    ],
+    "name:fra_x_preferred":[
+        "Cashel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b7\u30a7\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e8\u10d4\u10da\u10d8"
+    ],
+    "name:por_x_preferred":[
+        "Cashel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Cashel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1210050125,
-    "wof:lastmodified":1536374606,
+    "wof:lastmodified":1564214197,
     "wof:name":"Cashel",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

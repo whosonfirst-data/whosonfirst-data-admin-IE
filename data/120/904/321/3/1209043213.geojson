@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Clondulane"
+    ],
+    "name:eus_x_preferred":[
+        "Clondulane"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Dall\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0434\u0430\u043b\u0435\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Clondulane"
+    ],
+    "name:swe_x_preferred":[
+        "Clondulane"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209043213,
-    "wof:lastmodified":1537564847,
+    "wof:lastmodified":1564214137,
     "wof:name":"Clondulane",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

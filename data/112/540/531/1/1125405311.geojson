@@ -22,7 +22,22 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Gort"
+    ],
+    "name:ceb_x_preferred":[
+        "Gort"
+    ],
+    "name:deu_x_preferred":[
+        "Gort"
+    ],
     "name:eng_x_preferred":[
+        "Gort"
+    ],
+    "name:eus_x_preferred":[
+        "Gort"
+    ],
+    "name:fra_x_preferred":[
         "Gort"
     ],
     "name:gle_x_preferred":[
@@ -34,11 +49,29 @@
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05e8\u05d8"
     ],
+    "name:ita_x_preferred":[
+        "Gort"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10e0\u10e2\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Gort"
+    ],
+    "name:pol_x_preferred":[
+        "Gort"
+    ],
+    "name:por_x_preferred":[
+        "Gort"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Gort"
+    ],
+    "name:swe_x_preferred":[
+        "Gort"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -90,7 +123,7 @@
         }
     ],
     "wof:id":1125405311,
-    "wof:lastmodified":1509390145,
+    "wof:lastmodified":1564214808,
     "wof:name":"Gort",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",

@@ -29,6 +29,15 @@
     "name:gle_x_preferred":[
         "Cathair B\u00f3 Sine"
     ],
+    "name:nld_x_preferred":[
+        "Caherboshina"
+    ],
+    "name:por_x_preferred":[
+        "Caherboshina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044d\u0440\u0431\u043e\u0448\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343296949,
-    "wof:lastmodified":1537636766,
+    "wof:lastmodified":1564213659,
     "wof:name":"Caherboshina",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

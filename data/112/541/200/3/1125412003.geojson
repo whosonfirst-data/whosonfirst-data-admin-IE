@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kinard"
+    ],
     "name:eng_x_preferred":[
         "Kinard"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125412003,
-    "wof:lastmodified":1509390283,
+    "wof:lastmodified":1564214821,
     "wof:name":"Kinard",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:ceb_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:deu_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:epo_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:eus_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:fra_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:ita_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b9\u30c9\u30a5\u30fc\u30f3\u30d0\u30fc\u30ca"
+    ],
+    "name:nld_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:pol_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:por_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0434\u0443\u043d\u0432\u0430\u0440\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lisdoonvarna"
+    ],
+    "name:swe_x_preferred":[
+        "Lisdoonvarna"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Lisdoonvarna",
@@ -61,7 +103,7 @@
         }
     ],
     "wof:id":1125371157,
-    "wof:lastmodified":1509389323,
+    "wof:lastmodified":1564214709,
     "wof:name":"Lisdoonvarna",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gneevgullia"
+    ],
+    "name:eus_x_preferred":[
+        "Gneeveguilla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0438\u0432\u0433\u0430\u043b\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Gneevgullia"
+    ],
+    "name:swe_x_preferred":[
+        "Gneevgullia"
+    ],
     "name:und_x_variant":[
         "Gneeveguilla",
         "Gneevgullia"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209345139,
-    "wof:lastmodified":1537636738,
+    "wof:lastmodified":1564214155,
     "wof:name":"Gneevgullia",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

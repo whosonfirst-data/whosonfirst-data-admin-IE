@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Churchtown"
+    ],
+    "name:deu_x_preferred":[
+        "Churchtown"
+    ],
     "name:eng_x_preferred":[
         "Churchtown"
     ],
     "name:gle_x_preferred":[
         "Baile an Teampail"
+    ],
+    "name:nld_x_preferred":[
+        "Churchtown"
+    ],
+    "name:pol_x_preferred":[
+        "Churchtown"
+    ],
+    "name:swe_x_preferred":[
+        "Churchtown"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1209652129,
-    "wof:lastmodified":1537636749,
+    "wof:lastmodified":1564214045,
     "wof:name":"Churchtown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

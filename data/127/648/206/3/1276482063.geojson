@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Carraig Airt"
+    ],
+    "name:ceb_x_preferred":[
+        "Carrigart"
+    ],
     "name:eng_x_preferred":[
         "Carrickart"
     ],
+    "name:eus_x_preferred":[
+        "Carraig Airt"
+    ],
     "name:gle_x_preferred":[
         "Carraig Airt"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u0433\u0430\u0440\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Carraig Airt"
+    ],
+    "name:swe_x_preferred":[
+        "Carrigart"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276482063,
-    "wof:lastmodified":1537636751,
+    "wof:lastmodified":1564213987,
     "wof:name":"Carrigart",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

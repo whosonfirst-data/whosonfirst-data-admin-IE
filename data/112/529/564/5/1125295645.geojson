@@ -22,14 +22,50 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u0439\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Clane"
+    ],
+    "name:ceb_x_preferred":[
+        "Clane"
+    ],
+    "name:dan_x_preferred":[
+        "Clane"
+    ],
+    "name:deu_x_preferred":[
+        "Clane"
+    ],
     "name:eng_x_preferred":[
+        "Clane"
+    ],
+    "name:epo_x_preferred":[
+        "Clane"
+    ],
+    "name:eus_x_preferred":[
+        "Clane"
+    ],
+    "name:fra_x_preferred":[
         "Clane"
     ],
     "name:gle_x_preferred":[
         "Claonadh"
     ],
+    "name:ita_x_preferred":[
+        "Clane"
+    ],
+    "name:nld_x_preferred":[
+        "Clane"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043b\u0435\u0439\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Clane"
+    ],
+    "name:spa_x_preferred":[
+        "Clane"
+    ],
+    "name:swe_x_preferred":[
+        "Clane"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0626\u06cc\u0646"
@@ -84,7 +120,7 @@
         }
     ],
     "wof:id":1125295645,
-    "wof:lastmodified":1509387617,
+    "wof:lastmodified":1564214675,
     "wof:name":"Clane",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",

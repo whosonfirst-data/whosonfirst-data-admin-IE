@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Currans"
+    ],
+    "name:gle_x_preferred":[
+        "Na Coirr\u00edn\u00ed"
+    ],
     "name:unk_x_variant":[
         "Curranes"
     ],
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1125420917,
-    "wof:lastmodified":1509390473,
+    "wof:lastmodified":1564214682,
     "wof:name":"Currans",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

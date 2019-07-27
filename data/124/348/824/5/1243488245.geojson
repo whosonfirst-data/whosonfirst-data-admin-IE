@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Killashee"
+    ],
+    "name:eus_x_preferred":[
+        "Killashee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0430\u0448\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Killashee"
+    ],
+    "name:swe_x_preferred":[
+        "Killashee"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243488245,
-    "wof:lastmodified":1537564843,
+    "wof:lastmodified":1564214916,
     "wof:name":"Killashee",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

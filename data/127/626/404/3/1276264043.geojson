@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "D\u00fan Ibhir"
+    ],
+    "name:ceb_x_preferred":[
+        "Dooniver Strand"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00fan Ibhir"
+    ],
     "name:eng_x_preferred":[
         "Dooniver"
     ],
+    "name:eus_x_preferred":[
+        "D\u00fan Ibhir"
+    ],
     "name:gle_x_preferred":[
         "D\u00fan Ibhir"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10dc\u10d8\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Dooniver Strand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1276264043,
-    "wof:lastmodified":1537636794,
+    "wof:lastmodified":1564213906,
     "wof:name":"Dooniver",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

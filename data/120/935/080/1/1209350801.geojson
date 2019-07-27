@@ -26,14 +26,35 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fountainstown"
+    ],
     "name:eng_x_historical":[
         "Ballymontane"
     ],
     "name:eng_x_preferred":[
         "Ballymontane"
     ],
+    "name:eus_x_preferred":[
+        "Fountainstown"
+    ],
     "name:gle_x_preferred":[
         "Baile Mh\u00f3nt\u00e1in"
+    ],
+    "name:gle_x_variant":[
+        "Baile Mhont\u00e1in"
+    ],
+    "name:nor_x_preferred":[
+        "Fountainstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0443\u043d\u0442\u0438\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Fountainstown"
+    ],
+    "name:swe_x_preferred":[
+        "Fountainstown"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209350801,
-    "wof:lastmodified":1537636791,
+    "wof:lastmodified":1564214121,
     "wof:name":"Fountainstown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

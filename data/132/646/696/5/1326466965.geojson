@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Lismire"
+    ],
+    "name:pol_x_preferred":[
+        "Lismire"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043c\u0438\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326466965,
-    "wof:lastmodified":1537564852,
+    "wof:lastmodified":1564213489,
     "wof:name":"Lismire",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

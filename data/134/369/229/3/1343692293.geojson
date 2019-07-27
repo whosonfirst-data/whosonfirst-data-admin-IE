@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carnacon"
+    ],
+    "name:eus_x_preferred":[
+        "Carnacon"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10dc\u10d0\u10d9\u10dd\u10dc\u10d8"
+    ],
+    "name:swe_x_preferred":[
+        "Carnacon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343692293,
-    "wof:lastmodified":1537564859,
+    "wof:lastmodified":1564213626,
     "wof:name":"Carnacon",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

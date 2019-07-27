@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Ballyglass"
     ],
+    "name:eus_x_preferred":[
+        "Ballyglass"
+    ],
     "name:gle_x_preferred":[
         "An Baile Glas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0433\u043b\u0430\u0441\u0441"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326464359,
-    "wof:lastmodified":1537636789,
+    "wof:lastmodified":1564213489,
     "wof:name":"Ballyglass",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

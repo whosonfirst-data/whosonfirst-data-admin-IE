@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fergus"
+    ],
+    "name:fra_x_preferred":[
+        "Fergus"
+    ],
+    "name:ita_x_preferred":[
+        "Fergus"
+    ],
+    "name:nld_x_preferred":[
+        "Fergus"
+    ],
+    "name:nno_x_preferred":[
+        "Fergus"
+    ],
+    "name:por_x_preferred":[
+        "Fergus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u0433\u0443\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1259614297,
-    "wof:lastmodified":1536670474,
+    "wof:lastmodified":1564215070,
     "wof:name":"Fergus",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

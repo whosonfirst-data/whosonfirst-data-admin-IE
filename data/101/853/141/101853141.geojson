@@ -16,8 +16,101 @@
     "mps:longitude":-7.436942,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0628\u0648\u062c\u0646\u0648\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:cat_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:ceb_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:deu_x_preferred":[
+        "Lapugnoy"
+    ],
     "name:eng_x_preferred":[
         "Clonea"
+    ],
+    "name:eus_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:fra_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:hun_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:ind_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:ita_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u043f\u044e\u043d\u044e\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:mlg_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:msa_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:nld_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:oci_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:pcd_x_preferred":[
+        "L\u2019Puno"
+    ],
+    "name:pms_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:pol_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:por_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:ron_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043f\u044e\u043d\u0443\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:spa_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:swe_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043f\u044e\u043d\u044e\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0648\u06af\u0646\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:vol_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:war_x_preferred":[
+        "Lapugnoy"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u76ae\u5c3c\u74e6"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Waterford",
@@ -63,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544742208,
+    "wof:lastmodified":1564214492,
     "wof:name":"Clonea",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

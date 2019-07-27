@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Kiltale"
+    ],
+    "name:gle_x_preferred":[
+        "Cill T\u00e1ile"
+    ],
+    "name:glv_x_preferred":[
+        "Cill T\u00e1ile"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0442\u0435\u0439\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293518371,
-    "wof:lastmodified":1537564842,
+    "wof:lastmodified":1564213839,
     "wof:name":"Kiltale",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

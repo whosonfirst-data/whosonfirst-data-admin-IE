@@ -29,8 +29,20 @@
     "name:eng_x_preferred":[
         "Crookhaven"
     ],
+    "name:eus_x_preferred":[
+        "Crookhaven"
+    ],
     "name:gle_x_preferred":[
         "An Cruach\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Crookhaven"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043a\u0445\u0435\u0439\u0432\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Crookhaven"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209547175,
-    "wof:lastmodified":1537636745,
+    "wof:lastmodified":1564214038,
     "wof:name":"Crookhaven",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

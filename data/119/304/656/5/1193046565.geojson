@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Raheen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1193046565,
-    "wof:lastmodified":1537564853,
+    "wof:lastmodified":1564214207,
     "wof:name":"Raheen",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kildangan"
+    ],
+    "name:eus_x_preferred":[
+        "Kildangan"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Daingin"
+    ],
+    "name:nld_x_preferred":[
+        "Kildangan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0434\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kildangan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1293037955,
-    "wof:lastmodified":1536938855,
+    "wof:lastmodified":1564213809,
     "wof:name":"Kildangan",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

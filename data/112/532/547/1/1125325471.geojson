@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Goleen"
+    ],
+    "name:gle_x_preferred":[
+        "An G\u00f3il\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Goleen"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1125325471,
-    "wof:lastmodified":1509388227,
+    "wof:lastmodified":1564214616,
     "wof:name":"Goleen",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

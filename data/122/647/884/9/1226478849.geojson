@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naul"
+    ],
+    "name:swe_x_preferred":[
+        "Naul"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226478849,
-    "wof:lastmodified":1537091108,
+    "wof:lastmodified":1564215214,
     "wof:name":"Naul",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

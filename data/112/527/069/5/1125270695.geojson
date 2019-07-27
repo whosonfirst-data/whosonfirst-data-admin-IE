@@ -22,20 +22,65 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0431\u0440\u0438\u0434\u0436"
     ],
+    "name:ceb_x_preferred":[
+        "Celbridge"
+    ],
+    "name:dan_x_preferred":[
+        "Celbridge"
+    ],
+    "name:deu_x_preferred":[
+        "Celbridge"
+    ],
     "name:eng_x_preferred":[
+        "Celbridge"
+    ],
+    "name:eus_x_preferred":[
         "Celbridge"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0644\u0628\u0631\u06cc\u062c"
     ],
+    "name:fra_x_preferred":[
+        "Celbridge"
+    ],
     "name:gle_x_preferred":[
         "Cill Droichid"
+    ],
+    "name:glg_x_preferred":[
+        "Celbridge"
+    ],
+    "name:ind_x_preferred":[
+        "Celbridge"
+    ],
+    "name:ita_x_preferred":[
+        "Celbridge"
     ],
     "name:lit_x_preferred":[
         "Selbrid\u017eas"
     ],
+    "name:nld_x_preferred":[
+        "Celbridge"
+    ],
+    "name:nor_x_preferred":[
+        "Celbridge"
+    ],
+    "name:pol_x_preferred":[
+        "Celbridge"
+    ],
+    "name:por_x_preferred":[
+        "Celbridge"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043b\u0431\u0440\u0438\u0434\u0436"
+    ],
+    "name:slk_x_preferred":[
+        "Celbridge"
+    ],
+    "name:spa_x_preferred":[
+        "Celbridge"
+    ],
+    "name:swe_x_preferred":[
+        "Celbridge"
     ],
     "name:zho_x_preferred":[
         "\u585e\u723e\u5e03\u91cc\u5947"
@@ -90,7 +135,7 @@
         }
     ],
     "wof:id":1125270695,
-    "wof:lastmodified":1509387011,
+    "wof:lastmodified":1564214662,
     "wof:name":"Celbridge",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",

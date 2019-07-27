@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Drumconrath"
+    ],
+    "name:cym_x_preferred":[
+        "Drumconrath"
+    ],
+    "name:eus_x_preferred":[
+        "Drumconrath"
+    ],
+    "name:gle_x_preferred":[
+        "Droim Conrach"
+    ],
+    "name:glv_x_preferred":[
+        "Droim Conrach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043c\u043a\u043e\u043d\u0434\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Drumconrath"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226277547,
-    "wof:lastmodified":1537564859,
+    "wof:lastmodified":1564215120,
     "wof:name":"Drumconrath",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

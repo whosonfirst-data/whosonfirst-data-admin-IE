@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cloonfad"
+    ],
+    "name:eus_x_preferred":[
+        "Cloonfad"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Fada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10e3\u10dc\u10e4\u10d0\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0443\u043d\u0444\u0430\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Cloonfad"
+    ],
+    "name:swe_x_preferred":[
+        "Cloonfad"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226785353,
-    "wof:lastmodified":1537564847,
+    "wof:lastmodified":1564215221,
     "wof:name":"Cloonfad",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

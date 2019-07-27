@@ -26,6 +26,36 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mulranny"
+    ],
+    "name:deu_x_preferred":[
+        "Mallaranny"
+    ],
+    "name:eus_x_preferred":[
+        "Mulranny"
+    ],
+    "name:fra_x_preferred":[
+        "Mulranny"
+    ],
+    "name:ita_x_preferred":[
+        "Mulranny"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Mulrany"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043b\u0430\u0440\u0430\u043d\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Mulranny"
+    ],
+    "name:swe_x_preferred":[
+        "Mulranny"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1243484745,
-    "wof:lastmodified":1537564859,
+    "wof:lastmodified":1564214916,
     "wof:name":"Mulranny",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

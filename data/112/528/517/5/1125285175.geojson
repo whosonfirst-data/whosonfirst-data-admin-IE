@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Stradbally"
+    ],
+    "name:ceb_x_preferred":[
+        "Stradbally"
+    ],
+    "name:eus_x_preferred":[
+        "Stradbally"
+    ],
+    "name:gle_x_preferred":[
+        "An Sr\u00e1idbhaile"
+    ],
+    "name:lit_x_preferred":[
+        "Stradbalis"
+    ],
+    "name:nld_x_preferred":[
+        "Stradbally"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0434\u0431\u0430\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Stradbally"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Stradbally",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1125285175,
-    "wof:lastmodified":1509387403,
+    "wof:lastmodified":1564214634,
     "wof:name":"Stradbally",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",

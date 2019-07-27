@@ -27,11 +27,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rhode"
+    ],
     "name:eng_x_preferred":[
+        "Rhode"
+    ],
+    "name:eus_x_preferred":[
         "Rhode"
     ],
     "name:gle_x_preferred":[
         "R\u00f3d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Rhode"
     ],
     "name:und_x_variant":[
         "Road"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1326661625,
-    "wof:lastmodified":1537636723,
+    "wof:lastmodified":1564213435,
     "wof:name":"Rhode",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

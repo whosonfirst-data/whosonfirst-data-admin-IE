@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Portmagee"
+    ],
+    "name:eus_x_preferred":[
+        "Portmagee"
+    ],
+    "name:fra_x_preferred":[
+        "Portmagee"
+    ],
+    "name:gle_x_preferred":[
+        "An Caladh"
+    ],
+    "name:ita_x_preferred":[
+        "Portmagee"
+    ],
+    "name:nld_x_preferred":[
+        "Portmagee"
+    ],
+    "name:pol_x_preferred":[
+        "Portmagee"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u043c\u0430\u0433\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Portmagee"
+    ],
+    "name:swe_x_preferred":[
+        "Portmagee"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Portmagee",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1125319067,
-    "wof:lastmodified":1530147547,
+    "wof:lastmodified":1564214753,
     "wof:name":"Portmagee",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

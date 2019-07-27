@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Renmore"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Renmore",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125319003,
-    "wof:lastmodified":1509388075,
+    "wof:lastmodified":1564214751,
     "wof:name":"Renmore",
     "wof:parent_id":85685055,
     "wof:placetype":"localadmin",

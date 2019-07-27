@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Birdhill"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0451\u0440\u0434\u0445\u0438\u043b\u043b"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Birdhill",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125339175,
-    "wof:lastmodified":1530147551,
+    "wof:lastmodified":1564214567,
     "wof:name":"Birdhill",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",

@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Ballybrack"
+    ],
+    "name:pol_x_preferred":[
+        "Ballybrack"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0431\u0440\u0430\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1343993955,
-    "wof:lastmodified":1536971216,
+    "wof:lastmodified":1564213550,
     "wof:name":"Ballybrack",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

@@ -26,11 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Killavullen"
+    ],
     "name:eng_x_preferred":[
         "Killavullen"
     ],
     "name:gle_x_preferred":[
         "Cill an Mhuilinn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0430\u0432\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Killavullen"
+    ],
+    "name:swe_x_preferred":[
+        "Killavullen"
     ],
     "name:und_x_variant":[
         "Killawillin"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1276479609,
-    "wof:lastmodified":1537636734,
+    "wof:lastmodified":1564213964,
     "wof:name":"Killavullen",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

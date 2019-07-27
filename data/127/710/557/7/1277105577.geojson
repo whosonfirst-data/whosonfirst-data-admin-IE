@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Blackwood"
+    ],
+    "name:eus_x_preferred":[
+        "Coill Dubh"
+    ],
+    "name:gle_x_preferred":[
+        "Coill Dubh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0438\u043b\u044c-\u0413\u0443\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Coill Dubh"
+    ],
     "name:und_x_variant":[
         "Coill Dubh"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1277105577,
-    "wof:lastmodified":1537636754,
+    "wof:lastmodified":1564214017,
     "wof:name":"Blackwood",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

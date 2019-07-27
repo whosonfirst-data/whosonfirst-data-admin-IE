@@ -28,17 +28,32 @@
     "name:cat_x_preferred":[
         "Athenry"
     ],
+    "name:ceb_x_preferred":[
+        "Athenry"
+    ],
+    "name:cym_x_preferred":[
+        "Athenry"
+    ],
     "name:deu_x_preferred":[
         "Athenry"
     ],
     "name:eng_x_preferred":[
         "Athenry"
     ],
+    "name:eus_x_preferred":[
+        "Athenry"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062a\u0646\u200c\u0631\u0627\u06cc"
     ],
+    "name:fra_x_preferred":[
+        "Athenry"
+    ],
     "name:gle_x_preferred":[
         "Baile \u00c1tha an R\u00ed"
+    ],
+    "name:glg_x_preferred":[
+        "Athenry"
     ],
     "name:glv_x_preferred":[
         "Aah yn Ree"
@@ -52,7 +67,13 @@
     "name:kor_x_preferred":[
         "\uc544\ub374\ub77c\uc774"
     ],
+    "name:nld_x_preferred":[
+        "Athenry"
+    ],
     "name:nor_x_preferred":[
+        "Athenry"
+    ],
+    "name:pol_x_preferred":[
         "Athenry"
     ],
     "name:por_x_preferred":[
@@ -60,6 +81,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0442\u0435\u043d\u0440\u0430\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Athenry"
+    ],
+    "name:spa_x_preferred":[
+        "Athenry"
+    ],
+    "name:swe_x_preferred":[
+        "Athenry"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -111,7 +141,7 @@
         }
     ],
     "wof:id":1125372153,
-    "wof:lastmodified":1509389346,
+    "wof:lastmodified":1564214703,
     "wof:name":"Athenry",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",

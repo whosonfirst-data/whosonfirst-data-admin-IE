@@ -25,6 +25,9 @@
     "name:gle_x_preferred":[
         "Gleann Fhaidhle"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0438\u043b\u0438"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125287821,
-    "wof:lastmodified":1509387461,
+    "wof:lastmodified":1564214635,
     "wof:name":"Glenealy",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",

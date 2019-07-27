@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Tydavnet"
+    ],
+    "name:fra_x_preferred":[
+        "Tydavnet"
+    ],
+    "name:gle_x_preferred":[
+        "Tigh Damhnata"
+    ],
+    "name:nld_x_preferred":[
+        "Tydavnet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0434\u0430\u0432\u043d\u0435\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309747979,
-    "wof:lastmodified":1537564858,
+    "wof:lastmodified":1564214527,
     "wof:name":"Tydavnet",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

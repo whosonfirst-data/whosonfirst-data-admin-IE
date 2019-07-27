@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Ravensdale"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Ravensdale",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125281627,
-    "wof:lastmodified":1509387307,
+    "wof:lastmodified":1564214638,
     "wof:name":"Ravensdale",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",

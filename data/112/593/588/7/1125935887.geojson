@@ -22,6 +22,15 @@
     "name:gle_x_preferred":[
         "An Caol"
     ],
+    "name:ita_x_preferred":[
+        "Chapeltown"
+    ],
+    "name:pol_x_preferred":[
+        "Chapeltown"
+    ],
+    "name:swe_x_preferred":[
+        "Chapeltown"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1125935887,
-    "wof:lastmodified":1530148390,
+    "wof:lastmodified":1564214548,
     "wof:name":"Chapeltown",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

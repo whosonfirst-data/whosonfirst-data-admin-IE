@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kilmihil"
+    ],
     "name:eng_x_preferred":[
+        "Kilmihil"
+    ],
+    "name:eus_x_preferred":[
         "Kilmihil"
     ],
     "name:gle_x_preferred":[
         "Cill Mhich\u00edl"
+    ],
+    "name:nld_x_preferred":[
+        "Kilmihil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0438\u0445\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmihil"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmihil"
     ],
     "name:und_x_variant":[
         "Cill Mhic\u00edl",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226577117,
-    "wof:lastmodified":1537636733,
+    "wof:lastmodified":1564215168,
     "wof:name":"Kilmihil",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -29,8 +29,23 @@
     "name:eng_x_preferred":[
         "Keel"
     ],
+    "name:eus_x_preferred":[
+        "Keel"
+    ],
+    "name:gla_x_preferred":[
+        "An Caol"
+    ],
     "name:gle_x_preferred":[
         "An Caol"
+    ],
+    "name:ita_x_preferred":[
+        "Keel"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1360316657,
-    "wof:lastmodified":1537636736,
+    "wof:lastmodified":1564214426,
     "wof:name":"Keel",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

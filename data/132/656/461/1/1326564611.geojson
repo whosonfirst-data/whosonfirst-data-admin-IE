@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Largydonnell"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e0\u10d2\u10d8\u10d3\u10dd\u10dc\u10d4\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Largydonnell"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0433\u0438\u0434\u043e\u043d\u043d\u0435\u043b\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0631\u06af\u06cc\u0688\u0648\u0646\u06cc\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326564611,
-    "wof:lastmodified":1537564841,
+    "wof:lastmodified":1564213424,
     "wof:name":"Largydonnell",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

@@ -26,11 +26,35 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Emly"
+    ],
     "name:eng_x_preferred":[
+        "Emly"
+    ],
+    "name:eus_x_preferred":[
         "Emly"
     ],
     "name:gle_x_preferred":[
         "Imleach"
+    ],
+    "name:gle_x_variant":[
+        "Imleach Iubhair"
+    ],
+    "name:ita_x_preferred":[
+        "Emly"
+    ],
+    "name:por_x_preferred":[
+        "Emly"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043c\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Emly"
+    ],
+    "name:swe_x_preferred":[
+        "Emly"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1276909705,
-    "wof:lastmodified":1537636741,
+    "wof:lastmodified":1564213990,
     "wof:name":"Emly",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

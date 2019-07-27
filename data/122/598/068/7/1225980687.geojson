@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Boyerstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Baighe"
+    ],
+    "name:glv_x_preferred":[
+        "Baile Bh\u00e1igh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0439\u0435\u0440\u0441\u0442\u0430\u0443\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1225980687,
-    "wof:lastmodified":1537564860,
+    "wof:lastmodified":1564215203,
     "wof:name":"Boyerstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

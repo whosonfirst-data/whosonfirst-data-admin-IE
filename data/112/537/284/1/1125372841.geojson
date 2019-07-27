@@ -25,6 +25,18 @@
     "name:gle_x_preferred":[
         "R\u00e1th Iomgh\u00e1in"
     ],
+    "name:ita_x_preferred":[
+        "Rathangan"
+    ],
+    "name:nld_x_preferred":[
+        "Rathangan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u0430\u043d\u0433\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Rathangan"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":1125372841,
-    "wof:lastmodified":1509389369,
+    "wof:lastmodified":1564214703,
     "wof:name":"Rathangan",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",

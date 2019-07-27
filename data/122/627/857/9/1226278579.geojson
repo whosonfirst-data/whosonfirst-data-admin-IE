@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Far Druim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1226278579,
-    "wof:lastmodified":1536885783,
+    "wof:lastmodified":1564215123,
     "wof:name":"Fartrin",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

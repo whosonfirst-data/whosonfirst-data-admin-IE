@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Bannow"
+    ],
+    "name:gle_x_preferred":[
+        "Ban\u00fa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u043d\u043e\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u043d\u043e\u0443"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Bannow",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1125311681,
-    "wof:lastmodified":1509387904,
+    "wof:lastmodified":1564214752,
     "wof:name":"Bannow",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",

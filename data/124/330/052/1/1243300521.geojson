@@ -26,6 +26,129 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0646\u062f\u0642 \u0645\u0627\u0626\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Foso"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u0646\u062f\u0642"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u045e"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0432"
+    ],
+    "name:cat_x_preferred":[
+        "Fossat"
+    ],
+    "name:ces_x_preferred":[
+        "P\u0159\u00edkop"
+    ],
+    "name:dan_x_preferred":[
+        "Voldgrav"
+    ],
+    "name:deu_x_preferred":[
+        "Burggraben"
+    ],
+    "name:epo_x_preferred":[
+        "Fosa\u0135o"
+    ],
+    "name:est_x_preferred":[
+        "Vallikraav"
+    ],
+    "name:eus_x_preferred":[
+        "Lubanarro"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u062f\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Vallihauta"
+    ],
+    "name:fra_x_preferred":[
+        "Douve"
+    ],
+    "name:glg_x_preferred":[
+        "Foso"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05e4\u05d9\u05e8"
+    ],
+    "name:ido_x_preferred":[
+        "Fosato"
+    ],
+    "name:ind_x_preferred":[
+        "Parit"
+    ],
+    "name:ita_x_preferred":[
+        "Fossato"
+    ],
+    "name:lat_x_preferred":[
+        "Fossa castrensis"
+    ],
+    "name:lav_x_preferred":[
+        "Aizsarggr\u0101vis"
+    ],
+    "name:lit_x_preferred":[
+        "Gynybinis griovys"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u0435\u0446"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u103b\u102f\u1036\u1038"
+    ],
+    "name:nld_x_preferred":[
+        "Slotgracht"
+    ],
+    "name:nor_x_preferred":[
+        "Vollgrav"
+    ],
+    "name:pol_x_preferred":[
+        "Fosa"
+    ],
+    "name:por_x_preferred":[
+        "Fosso"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218an\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Priekopa"
+    ],
+    "name:slv_x_preferred":[
+        "Obrambni jarek"
+    ],
+    "name:spa_x_preferred":[
+        "Foso"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043d\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Vallgrav"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bb4\u0bbf"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e39\u0e40\u0e21\u0e37\u0e2d\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Hendek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b77\u57ce\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +170,7 @@
         }
     ],
     "wof:id":1243300521,
-    "wof:lastmodified":1537015053,
+    "wof:lastmodified":1564214859,
     "wof:name":"Moat",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

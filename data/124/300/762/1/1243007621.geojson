@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Maigh Chr\u00edod\u00e1in"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0631\u06cc\u0688\u06cc\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243007621,
-    "wof:lastmodified":1537564841,
+    "wof:lastmodified":1564214836,
     "wof:name":"Macreddin",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

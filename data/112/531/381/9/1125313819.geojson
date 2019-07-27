@@ -19,11 +19,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mohill"
+    ],
+    "name:ceb_x_preferred":[
+        "Mohill"
+    ],
+    "name:deu_x_preferred":[
+        "Mohill"
+    ],
     "name:eng_x_preferred":[
+        "Mohill"
+    ],
+    "name:eus_x_preferred":[
         "Mohill"
     ],
     "name:gle_x_preferred":[
         "Maothail"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10f0\u10d8\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Mohill"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u0438\u043b\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Mohill"
+    ],
+    "name:spa_x_preferred":[
+        "Mohill"
+    ],
+    "name:swe_x_preferred":[
+        "Mohill"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -75,7 +105,7 @@
         }
     ],
     "wof:id":1125313819,
-    "wof:lastmodified":1509387948,
+    "wof:lastmodified":1564214769,
     "wof:name":"Mohill",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",

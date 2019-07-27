@@ -26,10 +26,16 @@
     "name:eng_x_variant":[
         "Kilcummin"
     ],
+    "name:eus_x_preferred":[
+        "Kilcummin"
+    ],
     "name:gle_x_preferred":[
         "Cill Chuim\u00edn"
     ],
     "name:nld_x_preferred":[
+        "Kilcummin"
+    ],
+    "name:spa_x_preferred":[
         "Kilcummin"
     ],
     "name:unk_x_variant":[
@@ -80,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544742227,
+    "wof:lastmodified":1564214491,
     "wof:name":"Kilcummin",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

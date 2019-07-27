@@ -19,11 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Cloyne"
+    ],
+    "name:deu_x_preferred":[
+        "Cloyne"
+    ],
     "name:eng_x_preferred":[
+        "Cloyne"
+    ],
+    "name:est_x_preferred":[
+        "Cloyne"
+    ],
+    "name:eus_x_preferred":[
         "Cloyne"
     ],
     "name:gle_x_preferred":[
         "Cluain"
+    ],
+    "name:ita_x_preferred":[
+        "Cloyne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0439\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Cloyne"
+    ],
+    "name:swe_x_preferred":[
+        "Cloyne"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -75,7 +99,7 @@
         }
     ],
     "wof:id":1125415677,
-    "wof:lastmodified":1509390360,
+    "wof:lastmodified":1564214810,
     "wof:name":"Cloyne",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

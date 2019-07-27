@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0441\u043a\u0430\u0434\u0434\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1210051329,
-    "wof:lastmodified":1536373289,
+    "wof:lastmodified":1564214196,
     "wof:name":"Balscaddan",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

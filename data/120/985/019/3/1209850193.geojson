@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ballinamuck"
+    ],
+    "name:eus_x_preferred":[
+        "Ballinamuck"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0430\u043c\u0430\u043a\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Ballinamuck"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209850193,
-    "wof:lastmodified":1537564851,
+    "wof:lastmodified":1564214084,
     "wof:name":"Ballinamuck",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

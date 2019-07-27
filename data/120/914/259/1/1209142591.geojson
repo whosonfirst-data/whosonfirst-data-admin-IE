@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Sallybrook"
+    ],
+    "name:gle_x_preferred":[
+        "Gleann Sail\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043b\u0438\u0431\u0440\u0443\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209142591,
-    "wof:lastmodified":1536296456,
+    "wof:lastmodified":1564214101,
     "wof:name":"Sallybrook",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

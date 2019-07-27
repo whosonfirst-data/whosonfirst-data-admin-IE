@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Rosslare"
     ],
+    "name:eus_x_preferred":[
+        "Rosslare"
+    ],
     "name:gle_x_preferred":[
         "Ros L\u00e1ir"
+    ],
+    "name:spa_x_preferred":[
+        "Rosslare"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1125396955,
-    "wof:lastmodified":1530147542,
+    "wof:lastmodified":1564214733,
     "wof:name":"Rosslare",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

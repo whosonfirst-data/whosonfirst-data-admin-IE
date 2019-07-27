@@ -26,6 +26,81 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rossow"
+    ],
+    "name:dan_x_preferred":[
+        "Rossow"
+    ],
+    "name:deu_x_preferred":[
+        "Rossow"
+    ],
+    "name:epo_x_preferred":[
+        "Rossow"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u0633\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Rossow"
+    ],
+    "name:hun_x_preferred":[
+        "Rossow"
+    ],
+    "name:ita_x_preferred":[
+        "Rossow"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u043e\u0432"
+    ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u043e\u0432"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Rossow"
+    ],
+    "name:nld_x_preferred":[
+        "Rossow"
+    ],
+    "name:pol_x_preferred":[
+        "Rossow"
+    ],
+    "name:por_x_preferred":[
+        "Rossow"
+    ],
+    "name:ron_x_preferred":[
+        "Rossow"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Rossow"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u0441\u043e\u0432"
+    ],
+    "name:uzb_x_preferred":[
+        "Rossow"
+    ],
+    "name:vie_x_preferred":[
+        "Rossow"
+    ],
+    "name:vol_x_preferred":[
+        "Rossow"
+    ],
+    "name:war_x_preferred":[
+        "Rossow"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u7d22"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +122,7 @@
         }
     ],
     "wof:id":1226082287,
-    "wof:lastmodified":1536672339,
+    "wof:lastmodified":1564215250,
     "wof:name":"Rossow",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Clastir"
+    ],
+    "name:dan_x_preferred":[
+        "Mensalgods"
+    ],
+    "name:fin_x_preferred":[
+        "Mensaalitila"
+    ],
+    "name:swe_x_preferred":[
+        "Pr\u00e4stbol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1293134475,
-    "wof:lastmodified":1536799155,
+    "wof:lastmodified":1564213783,
     "wof:name":"Glebe",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

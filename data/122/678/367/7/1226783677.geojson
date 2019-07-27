@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lough Gowna"
+    ],
+    "name:fra_x_preferred":[
+        "Lough Gowna"
+    ],
+    "name:gle_x_preferred":[
+        "Loch Gamhna"
+    ],
+    "name:nno_x_preferred":[
+        "Lough Gowna"
+    ],
+    "name:pol_x_preferred":[
+        "Lough Gowna"
+    ],
+    "name:spa_x_preferred":[
+        "Lough Gowna"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226783677,
-    "wof:lastmodified":1536660956,
+    "wof:lastmodified":1564215224,
     "wof:name":"Lough Gowna",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

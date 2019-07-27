@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0442\u0438\u0441\u0442\u0430\u0443\u043d"
+    ],
     "name:eng_x_preferred":[
+        "Bettystown"
+    ],
+    "name:eus_x_preferred":[
         "Bettystown"
     ],
     "name:gle_x_preferred":[
         "Baile an Bhiataigh"
+    ],
+    "name:ita_x_preferred":[
+        "Bettystown"
+    ],
+    "name:nld_x_preferred":[
+        "Bettystown"
+    ],
+    "name:pol_x_preferred":[
+        "Bettystown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0442\u0442\u0438\u0441\u0442\u0430\u0443\u043d"
     ],
     "name:und_x_variant":[
         "Betaghstown"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1242904163,
-    "wof:lastmodified":1537636754,
+    "wof:lastmodified":1564214964,
     "wof:name":"Bettystown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

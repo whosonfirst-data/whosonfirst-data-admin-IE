@@ -21,6 +21,12 @@
     "name:gle_x_preferred":[
         "Corr na M\u00f3na"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10dc\u10d0\u10db\u10dd\u10dc\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0430\u043c\u043e\u043d\u0430"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1125868305,
-    "wof:lastmodified":1509397141,
+    "wof:lastmodified":1564214648,
     "wof:name":"Cornamona",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

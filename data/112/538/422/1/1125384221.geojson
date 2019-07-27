@@ -16,6 +16,27 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Cloone"
+    ],
+    "name:eus_x_preferred":[
+        "Cloone"
+    ],
+    "name:gle_x_preferred":[
+        "An Chluain"
+    ],
+    "name:ita_x_preferred":[
+        "Cloone"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10da\u10e3\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Cloone"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0443\u043d"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Cloone",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1125384221,
-    "wof:lastmodified":1509389668,
+    "wof:lastmodified":1564214747,
     "wof:name":"Cloone",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",

@@ -27,6 +27,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Ballybrophy"
+    ],
+    "name:lit_x_preferred":[
+        "Balibrofis"
+    ],
+    "name:pol_x_preferred":[
+        "Ballybrophy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0431\u0440\u043e\u0444\u0438"
+    ],
     "name:und_x_variant":[
         "Ballybrophy Junction",
         "Ballybrophy"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327168633,
-    "wof:lastmodified":1537636758,
+    "wof:lastmodified":1564213517,
     "wof:name":"Ballybrophy",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

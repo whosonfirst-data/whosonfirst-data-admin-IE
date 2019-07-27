@@ -19,14 +19,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:ceb_x_preferred":[
+        "Kilcullen"
+    ],
     "name:eng_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:eus_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:fra_x_preferred":[
         "Kilcullen"
     ],
     "name:gle_x_preferred":[
         "Cill Chuillinn"
     ],
+    "name:ita_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:pol_x_preferred":[
+        "Kilcullen"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043a\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:spa_x_preferred":[
+        "Kilcullen"
+    ],
+    "name:swe_x_preferred":[
+        "Kilcullen"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -78,7 +105,7 @@
         }
     ],
     "wof:id":1125313805,
-    "wof:lastmodified":1509387947,
+    "wof:lastmodified":1564214767,
     "wof:name":"Kilcullen",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",

@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Croagh"
+    ],
+    "name:eus_x_preferred":[
+        "Croagh"
+    ],
+    "name:gle_x_preferred":[
+        "Cruach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Croagh"
+    ],
+    "name:swe_x_preferred":[
+        "Croagh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1243488431,
-    "wof:lastmodified":1536744703,
+    "wof:lastmodified":1564214911,
     "wof:name":"Croagh",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

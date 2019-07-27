@@ -26,11 +26,32 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kinlough"
+    ],
     "name:eng_x_preferred":[
+        "Kinlough"
+    ],
+    "name:eus_x_preferred":[
         "Kinlough"
     ],
     "name:gle_x_preferred":[
         "Cionn Locha"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dc\u10da\u10dd\u10ee\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kinlough"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u043b\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Kinlough"
+    ],
+    "name:swe_x_preferred":[
+        "Kinlough"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1326464507,
-    "wof:lastmodified":1537636731,
+    "wof:lastmodified":1564213489,
     "wof:name":"Kinlough",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

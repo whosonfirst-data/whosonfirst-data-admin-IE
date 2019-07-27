@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Ardfield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u0444\u0438\u043b\u0434"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1125402307,
-    "wof:lastmodified":1509390083,
+    "wof:lastmodified":1564214809,
     "wof:name":"Ardfield",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

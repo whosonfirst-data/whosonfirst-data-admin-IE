@@ -32,6 +32,12 @@
     "name:gle_x_preferred":[
         "An tSeanchill"
     ],
+    "name:ita_x_preferred":[
+        "Shankill"
+    ],
+    "name:slk_x_preferred":[
+        "Shankill"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293135371,
-    "wof:lastmodified":1537636780,
+    "wof:lastmodified":1564213788,
     "wof:name":"Shankill",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

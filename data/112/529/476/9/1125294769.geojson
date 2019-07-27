@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "The Grange"
+    ],
+    "name:deu_x_preferred":[
+        "The Grange"
+    ],
+    "name:hun_x_preferred":[
+        "Grange"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"The Grange",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125294769,
-    "wof:lastmodified":1509387600,
+    "wof:lastmodified":1564214669,
     "wof:name":"The Grange",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",

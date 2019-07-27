@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ardpatrick"
+    ],
+    "name:eus_x_preferred":[
+        "Ardpatrick"
+    ],
+    "name:gle_x_preferred":[
+        "Ard P\u00e1draig"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0434\u043f\u0430\u0442\u0440\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -44,7 +56,7 @@
         }
     ],
     "wof:id":1209243603,
-    "wof:lastmodified":1537564851,
+    "wof:lastmodified":1564214072,
     "wof:name":"Ardpatrick",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

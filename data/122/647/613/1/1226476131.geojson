@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Moydow"
+    ],
+    "name:gle_x_preferred":[
+        "Maigh Dumha"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0439\u0434\u043e\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226476131,
-    "wof:lastmodified":1537564840,
+    "wof:lastmodified":1564215214,
     "wof:name":"Moydow",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

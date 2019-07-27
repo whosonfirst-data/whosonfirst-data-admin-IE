@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Blennerville"
+    ],
+    "name:fra_x_preferred":[
+        "Blennerville"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Blennerville",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125302019,
-    "wof:lastmodified":1530147508,
+    "wof:lastmodified":1564214725,
     "wof:name":"Blennerville",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

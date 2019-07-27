@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Sheskin"
+    ],
+    "name:gle_x_preferred":[
+        "An Seisceann"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226374059,
-    "wof:lastmodified":1537564854,
+    "wof:lastmodified":1564215246,
     "wof:name":"Sheskin",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

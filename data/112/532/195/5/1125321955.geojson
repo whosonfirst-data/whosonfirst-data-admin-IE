@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Rathcormack"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Chormaic"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d7\u10d9\u10dd\u10e0\u10db\u10d0\u10d9\u10d8"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rathcormack",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125321955,
-    "wof:lastmodified":1509388137,
+    "wof:lastmodified":1564214593,
     "wof:name":"Rathcormack",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

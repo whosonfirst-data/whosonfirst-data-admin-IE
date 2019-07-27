@@ -32,6 +32,12 @@
     "name:gle_x_preferred":[
         "An Bun Beag"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u0431\u0435\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u0431\u0435\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259820263,
-    "wof:lastmodified":1537636752,
+    "wof:lastmodified":1564215058,
     "wof:name":"Bunbeg",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

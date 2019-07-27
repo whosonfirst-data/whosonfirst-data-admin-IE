@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Port Omna"
+    ],
+    "name:ceb_x_preferred":[
+        "Portumna"
+    ],
+    "name:deu_x_preferred":[
+        "Portumna"
+    ],
+    "name:eus_x_preferred":[
+        "Portumna"
+    ],
+    "name:fra_x_preferred":[
+        "Portumna"
+    ],
+    "name:gle_x_preferred":[
+        "Port Omna"
+    ],
+    "name:ita_x_preferred":[
+        "Portumna"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2\u10d0\u10db\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Portumna"
+    ],
+    "name:pol_x_preferred":[
+        "Portumna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0430\u043c\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Portumna"
+    ],
+    "name:swe_x_preferred":[
+        "Portumna"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Portumna",
@@ -61,7 +100,7 @@
         }
     ],
     "wof:id":1125346029,
-    "wof:lastmodified":1509388764,
+    "wof:lastmodified":1564214572,
     "wof:name":"Portumna",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",

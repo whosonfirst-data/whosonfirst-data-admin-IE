@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Monaseed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0430\u0441\u0438\u0434"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1125328839,
-    "wof:lastmodified":1509388316,
+    "wof:lastmodified":1564214611,
     "wof:name":"Monaseed",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",

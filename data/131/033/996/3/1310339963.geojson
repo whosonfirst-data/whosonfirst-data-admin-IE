@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Shannon Harbour"
+    ],
+    "name:gle_x_preferred":[
+        "Caladh na Sionainne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u043d\u043e\u043d-\u0425\u0430\u0440\u0431\u0435\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310339963,
-    "wof:lastmodified":1537564838,
+    "wof:lastmodified":1564214398,
     "wof:name":"Shannon Harbour",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

@@ -22,14 +22,50 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u044a\u043b\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:dan_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:deu_x_preferred":[
+        "Mitchelstown"
+    ],
     "name:eng_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:eus_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0686\u0644\u0633\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Mitchelstown"
     ],
     "name:gle_x_preferred":[
         "Baile Mhist\u00e9ala"
     ],
+    "name:ind_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:ita_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:pol_x_preferred":[
+        "Mitchelstown"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0442\u0447\u0435\u043b\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:swe_x_preferred":[
+        "Mitchelstown"
+    ],
+    "name:szl_x_preferred":[
+        "Mitchelstown"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -81,7 +117,7 @@
         }
     ],
     "wof:id":1125376003,
-    "wof:lastmodified":1509389459,
+    "wof:lastmodified":1564214708,
     "wof:name":"Mitchelstown",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

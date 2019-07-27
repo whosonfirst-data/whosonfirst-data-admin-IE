@@ -16,6 +16,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Julianstown"
+    ],
+    "name:eus_x_preferred":[
+        "Julianstown"
+    ],
+    "name:gle_x_preferred":[
+        "Baile I\u00faili\u00e1in"
+    ],
+    "name:glv_x_preferred":[
+        "Baile I\u00faili\u00e1in"
+    ],
+    "name:nld_x_preferred":[
+        "Julianstown"
+    ],
+    "name:pol_x_preferred":[
+        "Julianstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043b\u0438\u0430\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Julianstown"
+    ],
+    "name:swe_x_preferred":[
+        "Julianstown"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Julianstown",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1125339963,
-    "wof:lastmodified":1509388629,
+    "wof:lastmodified":1564214550,
     "wof:name":"Julianstown",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",

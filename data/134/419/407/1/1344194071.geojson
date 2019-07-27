@@ -26,11 +26,38 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:ceb_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:deu_x_preferred":[
+        "Ringaskiddy"
+    ],
     "name:eng_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:eus_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:fin_x_preferred":[
+        "Ringaskiddy"
+    ],
+    "name:fra_x_preferred":[
         "Ringaskiddy"
     ],
     "name:gle_x_preferred":[
         "Rinn an Scid\u00edgh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043d\u0433\u0430\u0441\u043a\u0438\u0434\u0434\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ringaskiddy-Loughbeg"
+    ],
+    "name:swe_x_preferred":[
+        "Ringaskiddy"
     ],
     "name:und_x_variant":[
         "Ringaskiddy-Loughbeg"
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1344194071,
-    "wof:lastmodified":1537636723,
+    "wof:lastmodified":1564213645,
     "wof:name":"Ringaskiddy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

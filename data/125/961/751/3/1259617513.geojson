@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oldbawn"
+    ],
+    "name:eus_x_preferred":[
+        "Oldbawn"
+    ],
+    "name:gla_x_preferred":[
+        "An Seanbh\u00e1bh\u00fan"
+    ],
+    "name:gle_x_preferred":[
+        "An Seanbh\u00e1bh\u00fan"
+    ],
+    "name:swe_x_preferred":[
+        "Oldbawn"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1259617513,
-    "wof:lastmodified":1537564857,
+    "wof:lastmodified":1564215067,
     "wof:name":"Oldbawn",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

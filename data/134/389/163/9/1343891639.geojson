@@ -26,6 +26,147 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0633\u0645\u064a\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u071f\u0722\u072a\u0710"
+    ],
+    "name:aze_x_preferred":[
+        "Lira"
+    ],
+    "name:bos_x_preferred":[
+        "Lira"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0440\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Lyra"
+    ],
+    "name:cym_x_preferred":[
+        "Lyra"
+    ],
+    "name:dan_x_preferred":[
+        "Lyre"
+    ],
+    "name:deu_x_preferred":[
+        "Lyra"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cd\u03c1\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Liro"
+    ],
+    "name:est_x_preferred":[
+        "L\u00fc\u00fcra"
+    ],
+    "name:eus_x_preferred":[
+        "Lira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u06af \u0631\u0648\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Lyyra"
+    ],
+    "name:fra_x_preferred":[
+        "Lyre"
+    ],
+    "name:fry_x_preferred":[
+        "Liere"
+    ],
+    "name:gle_x_preferred":[
+        "Lir"
+    ],
+    "name:glg_x_preferred":[
+        "Lira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Lira"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00edra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u0576\u0561\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Liro"
+    ],
+    "name:ind_x_preferred":[
+        "Lira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a4\u30a2\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ub77c"
+    ],
+    "name:lat_x_preferred":[
+        "Lyra"
+    ],
+    "name:lav_x_preferred":[
+        "Lira"
+    ],
+    "name:lit_x_preferred":[
+        "Lyra"
+    ],
+    "name:nld_x_preferred":[
+        "Lier"
+    ],
+    "name:nno_x_preferred":[
+        "Lyre"
+    ],
+    "name:nor_x_preferred":[
+        "Lyre"
+    ],
+    "name:oci_x_preferred":[
+        "Lira"
+    ],
+    "name:pnt_x_preferred":[
+        "\u039b\u03cd\u03c1\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Lira"
+    ],
+    "name:ron_x_preferred":[
+        "Lir\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Lira"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lyra"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0438\u0440\u0438\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Lir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0440\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Lira"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e0n Lia"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u62c9\u7434"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +189,7 @@
         }
     ],
     "wof:id":1343891639,
-    "wof:lastmodified":1536619525,
+    "wof:lastmodified":1564213678,
     "wof:name":"Lyre",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

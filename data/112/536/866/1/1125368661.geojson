@@ -18,6 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Clontibret"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Tiobrad"
+    ],
+    "name:ita_x_preferred":[
+        "Clontibret"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0442\u0438\u0431\u0440\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Clontibret"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +82,7 @@
         }
     ],
     "wof:id":1125368661,
-    "wof:lastmodified":1509389260,
+    "wof:lastmodified":1564214772,
     "wof:name":"Clontibret",
     "wof:parent_id":85685117,
     "wof:placetype":"localadmin",

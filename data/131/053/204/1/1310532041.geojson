@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bouladuff"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u0434\u0430\u0444\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Bouladuff"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310532041,
-    "wof:lastmodified":1537564853,
+    "wof:lastmodified":1564214341,
     "wof:name":"Bouladuff",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

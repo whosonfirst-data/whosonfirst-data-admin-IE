@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:ceb_x_preferred":[
+        "Ross Carbery"
+    ],
+    "name:deu_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:eus_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:fra_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0441-\u041a\u0430\u0440\u0431\u0435\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Rosscarbery"
+    ],
+    "name:swe_x_preferred":[
+        "Rosscarbery"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rosscarbery",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1125339789,
-    "wof:lastmodified":1509388623,
+    "wof:lastmodified":1564214557,
     "wof:name":"Rosscarbery",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
