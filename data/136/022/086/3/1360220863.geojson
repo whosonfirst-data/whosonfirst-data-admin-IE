@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Saltmills"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u056c\u0569\u0574\u056b\u056c\u057d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0442\u043c\u0438\u043b\u043b\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1360220863,
-    "wof:lastmodified":1537564838,
+    "wof:lastmodified":1564214416,
     "wof:name":"Saltmills",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

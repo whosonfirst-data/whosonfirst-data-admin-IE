@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Ninemilehouse"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209650285,
-    "wof:lastmodified":1537564840,
+    "wof:lastmodified":1564214045,
     "wof:name":"Ninemilehouse",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Curraghmore House"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1309840565,
-    "wof:lastmodified":1536880271,
+    "wof:lastmodified":1564214511,
     "wof:name":"Curraghmore",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:gle_x_preferred":[
         "Baile na Finne"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043d\u0442\u0430\u0443\u043d"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1125384531,
-    "wof:lastmodified":1509389675,
+    "wof:lastmodified":1564214747,
     "wof:name":"Fintown",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

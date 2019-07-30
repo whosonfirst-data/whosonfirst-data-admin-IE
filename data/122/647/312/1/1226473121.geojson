@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Vicarstown"
+    ],
+    "name:lit_x_preferred":[
+        "Vikarstaunas"
+    ],
+    "name:pol_x_preferred":[
+        "Vicarstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0430\u0440\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vicarstown"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1226473121,
-    "wof:lastmodified":1536603010,
+    "wof:lastmodified":1564215211,
     "wof:name":"Vicarstown",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

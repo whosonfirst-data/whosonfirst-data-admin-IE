@@ -26,8 +26,17 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Cill Ghallag\u00e1in"
+    ],
     "name:gle_x_preferred":[
         "Cill Ghallag\u00e1in"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d2\u10d0\u10da\u10d0\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0433\u0430\u043b\u043b\u0438\u0433\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260013465,
-    "wof:lastmodified":1537636789,
+    "wof:lastmodified":1564214254,
     "wof:name":"Kilgalligan",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

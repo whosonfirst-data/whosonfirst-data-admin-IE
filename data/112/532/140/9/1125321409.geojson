@@ -16,6 +16,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Myshall"
+    ],
+    "name:deu_x_preferred":[
+        "Myshall"
+    ],
+    "name:eus_x_preferred":[
+        "Myshall"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00edseal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10e8\u10d0\u10da\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Myshall"
+    ],
+    "name:nor_x_preferred":[
+        "Myshall"
+    ],
+    "name:por_x_preferred":[
+        "Myshall"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u0430\u043b\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Myshall"
+    ],
+    "name:swe_x_preferred":[
+        "Myshall"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0645(\u06af\u0627\u0624\u06ba)"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Myshall",
@@ -61,7 +97,7 @@
         }
     ],
     "wof:id":1125321409,
-    "wof:lastmodified":1509388124,
+    "wof:lastmodified":1564214618,
     "wof:name":"Myshall",
     "wof:parent_id":85684975,
     "wof:placetype":"localadmin",

@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Staplestown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0439\u043f\u043b\u0441\u0442\u0430\u0443\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310441623,
-    "wof:lastmodified":1537564856,
+    "wof:lastmodified":1564214366,
     "wof:name":"Staplestown",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

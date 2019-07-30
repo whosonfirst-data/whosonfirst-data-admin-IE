@@ -26,8 +26,20 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Knightstown"
+    ],
+    "name:fra_x_preferred":[
+        "Knightstown"
+    ],
     "name:gle_x_preferred":[
         "Baile an Ridire"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0439\u0442\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Knightstown"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259714235,
-    "wof:lastmodified":1537636731,
+    "wof:lastmodified":1564215047,
     "wof:name":"Knightstown",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

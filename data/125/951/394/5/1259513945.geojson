@@ -26,11 +26,35 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballivor"
+    ],
     "name:eng_x_preferred":[
+        "Ballivor"
+    ],
+    "name:eus_x_preferred":[
+        "Ballivor"
+    ],
+    "name:fra_x_preferred":[
         "Ballivor"
     ],
     "name:gle_x_preferred":[
         "Baile \u00cdomhair"
+    ],
+    "name:glv_x_preferred":[
+        "Baile \u00cdomhair"
+    ],
+    "name:ita_x_preferred":[
+        "Ballivor"
+    ],
+    "name:por_x_preferred":[
+        "Ballivor"
+    ],
+    "name:spa_x_preferred":[
+        "Ballivor"
+    ],
+    "name:swe_x_preferred":[
+        "Ballivor"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1259513945,
-    "wof:lastmodified":1537636759,
+    "wof:lastmodified":1564215084,
     "wof:name":"Ballivor",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -27,6 +27,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pallasgreen"
+    ],
+    "name:eus_x_preferred":[
+        "Pallasgreen"
+    ],
+    "name:gle_x_preferred":[
+        "Pail\u00eds Ghr\u00e9ine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043b\u0430\u0441-\u0413\u0440\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Pallas Grean"
+    ],
+    "name:swe_x_preferred":[
+        "Pallasgreen"
+    ],
     "name:und_x_variant":[
         "New Pallas Grean",
         "Pallas Grean"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343591497,
-    "wof:lastmodified":1537636725,
+    "wof:lastmodified":1564213624,
     "wof:name":"Pallasgreen",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:gle_x_preferred":[
         "An Cheapach"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043f\u0430\u0445"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1193167787,
-    "wof:lastmodified":1537636751,
+    "wof:lastmodified":1564214226,
     "wof:name":"Cappagh",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

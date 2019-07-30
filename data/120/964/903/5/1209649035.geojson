@@ -27,6 +27,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Aghavannagh"
+    ],
+    "name:fra_x_preferred":[
+        "Aghavannagh"
+    ],
+    "name:gle_x_preferred":[
+        "Achadh Bheannach"
+    ],
+    "name:pol_x_preferred":[
+        "Aghavannagh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0430\u0432\u0430\u043d\u043d\u0430\u0445"
+    ],
     "name:und_x_variant":[
         "Aghavannah",
         "Aghavannagh"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209649035,
-    "wof:lastmodified":1537636762,
+    "wof:lastmodified":1564214050,
     "wof:name":"Aghavannagh",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

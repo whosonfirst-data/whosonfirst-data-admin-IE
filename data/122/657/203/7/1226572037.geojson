@@ -26,11 +26,20 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cionn Caslach"
+    ],
     "name:eng_x_preferred":[
         "Kincaslough"
     ],
+    "name:eus_x_preferred":[
+        "Cionn Caslach"
+    ],
     "name:gle_x_preferred":[
         "Cionn Caslach"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u043a\u0430\u0441\u043b\u043e\u0445"
     ],
     "name:und_x_variant":[
         "Kincashla",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226572037,
-    "wof:lastmodified":1537636732,
+    "wof:lastmodified":1564215154,
     "wof:name":"Kincasslagh",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

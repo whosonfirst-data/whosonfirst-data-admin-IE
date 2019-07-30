@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:cor_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:cym_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:eus_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:gla_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:gle_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:sco_x_preferred":[
+        "Crosskeys"
+    ],
+    "name:swe_x_preferred":[
+        "Crosskeys"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1309937329,
-    "wof:lastmodified":1536741445,
+    "wof:lastmodified":1564214515,
     "wof:name":"Crosskeys",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

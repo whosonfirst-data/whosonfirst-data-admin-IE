@@ -26,11 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Glanmire"
+    ],
     "name:eng_x_preferred":[
+        "Glanmire"
+    ],
+    "name:eus_x_preferred":[
         "Glanmire"
     ],
     "name:gle_x_preferred":[
         "Gleann Maghair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u043d\u043c\u0430\u0439\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Glanmire"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193171347,
-    "wof:lastmodified":1537636739,
+    "wof:lastmodified":1564214230,
     "wof:name":"Glanmire",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

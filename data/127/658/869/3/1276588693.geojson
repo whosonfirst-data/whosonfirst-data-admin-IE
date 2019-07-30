@@ -29,8 +29,23 @@
     "name:eng_x_preferred":[
         "Inver"
     ],
+    "name:eus_x_preferred":[
+        "Inver"
+    ],
+    "name:fra_x_preferred":[
+        "Inver"
+    ],
     "name:gle_x_preferred":[
         "An tInbhear"
+    ],
+    "name:glv_x_preferred":[
+        "Inbhear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0432\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0432\u0435\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276588693,
-    "wof:lastmodified":1537636736,
+    "wof:lastmodified":1564213945,
     "wof:name":"Inver",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bear Island"
+    ],
+    "name:epo_x_preferred":[
+        "Insulo B\u00e9arra"
+    ],
+    "name:fra_x_preferred":[
+        "Bere Island"
+    ],
+    "name:gle_x_preferred":[
+        "An tOile\u00e1n M\u00f3r"
+    ],
+    "name:nno_x_preferred":[
+        "Bere Island"
+    ],
+    "name:pol_x_preferred":[
+        "Bere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1309940501,
-    "wof:lastmodified":1536737017,
+    "wof:lastmodified":1564214525,
     "wof:name":"Bere Island",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

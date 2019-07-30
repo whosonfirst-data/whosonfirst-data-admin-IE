@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u043a"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1125320897,
-    "wof:lastmodified":1509388114,
+    "wof:lastmodified":1564214609,
     "wof:name":"Meelick",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",

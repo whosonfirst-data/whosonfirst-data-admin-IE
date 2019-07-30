@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Riverstown"
+    ],
+    "name:ceb_x_preferred":[
+        "Riverstown"
+    ],
+    "name:eus_x_preferred":[
+        "Riverstown"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10d5\u10d4\u10e0\u10e1\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Riverstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0432\u0435\u0440\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Riverstown"
+    ],
+    "name:swe_x_preferred":[
+        "Riverstown"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +59,7 @@
         "gn:id":2961788
     },
     "wof:country":"IE",
-    "wof:geomhash":"c8bdc7dc29cd35ba338e922035313df9",
+    "wof:geomhash":"de8eed4a634dcfd5a1481aeae47394ae",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209547111,
-    "wof:lastmodified":1536283810,
+    "wof:lastmodified":1564214038,
     "wof:name":"Riverstown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +77,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.220280000000002,
+    -6.22028,
     53.99444,
-    -6.220280000000002,
+    -6.22028,
     53.99444
 ],
   "geometry": {"coordinates":[-6.22028,53.99444],"type":"Point"}

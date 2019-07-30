@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Curragh"
+    ],
+    "name:deu_x_preferred":[
+        "Curragh"
+    ],
+    "name:eus_x_preferred":[
+        "Curragh"
+    ],
+    "name:gle_x_preferred":[
+        "An Currach"
+    ],
+    "name:swe_x_preferred":[
+        "Curragh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1343889079,
-    "wof:lastmodified":1536623406,
+    "wof:lastmodified":1564213682,
     "wof:name":"Curragh",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

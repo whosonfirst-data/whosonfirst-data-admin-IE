@@ -32,6 +32,9 @@
     "name:gle_x_preferred":[
         "Cill Torm\u00f3ir"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0442\u043e\u0440\u043c\u0435\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243202581,
-    "wof:lastmodified":1537636732,
+    "wof:lastmodified":1564214975,
     "wof:name":"Kiltormer",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

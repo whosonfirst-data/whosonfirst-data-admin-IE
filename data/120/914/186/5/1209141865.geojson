@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Killamery"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Lamra\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0430\u043c\u0435\u0440\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209141865,
-    "wof:lastmodified":1537564843,
+    "wof:lastmodified":1564214104,
     "wof:name":"Killamery",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

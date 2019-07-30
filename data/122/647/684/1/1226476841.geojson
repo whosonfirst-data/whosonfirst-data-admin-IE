@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kilpedder"
+    ],
+    "name:ceb_x_preferred":[
+        "Kilpedder"
+    ],
+    "name:eus_x_preferred":[
+        "Kilpedder"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Pheadair"
+    ],
+    "name:ita_x_preferred":[
+        "Kilpedder"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043f\u0435\u0434\u0434\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Kilpedder"
+    ],
+    "name:swe_x_preferred":[
+        "Kilpedder"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1226476841,
-    "wof:lastmodified":1537564857,
+    "wof:lastmodified":1564215216,
     "wof:name":"Kilpedder",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

@@ -29,8 +29,20 @@
     "name:eng_x_preferred":[
         "Rathowen"
     ],
+    "name:eus_x_preferred":[
+        "Rathowen"
+    ],
     "name:gle_x_preferred":[
         "R\u00e1th Eoghain"
+    ],
+    "name:nld_x_preferred":[
+        "Rathowen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043e\u0443\u044d\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Rathowen"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326666115,
-    "wof:lastmodified":1537636724,
+    "wof:lastmodified":1564213430,
     "wof:name":"Rathowen",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

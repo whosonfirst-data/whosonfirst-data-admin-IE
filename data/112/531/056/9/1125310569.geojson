@@ -22,14 +22,38 @@
     "name:bre_x_preferred":[
         "Cill Orglan"
     ],
+    "name:ceb_x_preferred":[
+        "Killorglin"
+    ],
+    "name:deu_x_preferred":[
+        "Killorglin"
+    ],
     "name:eng_x_preferred":[
+        "Killorglin"
+    ],
+    "name:eus_x_preferred":[
+        "Killorglin"
+    ],
+    "name:fra_x_preferred":[
         "Killorglin"
     ],
     "name:gle_x_preferred":[
         "Cill Orglan"
     ],
+    "name:ita_x_preferred":[
+        "Killorglin"
+    ],
+    "name:nld_x_preferred":[
+        "Killorglin"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u043b\u043e\u0440\u0433\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Killorglin"
+    ],
+    "name:swe_x_preferred":[
+        "Killorglin"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -81,7 +105,7 @@
         }
     ],
     "wof:id":1125310569,
-    "wof:lastmodified":1509387882,
+    "wof:lastmodified":1564214763,
     "wof:name":"Killorglin",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

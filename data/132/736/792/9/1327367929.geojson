@@ -27,11 +27,44 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0424\u043e\u0439\u043d\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Foynes"
+    ],
+    "name:deu_x_preferred":[
+        "Foynes"
+    ],
     "name:eng_x_preferred":[
+        "Foynes"
+    ],
+    "name:eus_x_preferred":[
+        "Foynes"
+    ],
+    "name:fra_x_preferred":[
         "Foynes"
     ],
     "name:gle_x_preferred":[
         "Faing"
+    ],
+    "name:ita_x_preferred":[
+        "Foynes"
+    ],
+    "name:nor_x_preferred":[
+        "Foynes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0439\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Foynes"
+    ],
+    "name:swe_x_preferred":[
+        "Foynes"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u56e0\u65af"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1327367929,
-    "wof:lastmodified":1537636740,
+    "wof:lastmodified":1564213385,
     "wof:name":"Foynes",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

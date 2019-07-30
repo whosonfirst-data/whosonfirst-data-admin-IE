@@ -29,16 +29,40 @@
     "name:afr_x_preferred":[
         "Athlone"
     ],
+    "name:ara_x_preferred":[
+        "\u0623\u062b\u0644\u0648\u0646"
+    ],
+    "name:bar_x_preferred":[
+        "Athlone"
+    ],
     "name:bre_x_preferred":[
         "Baile \u00c1tha Luain"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0442\u043b\u043e\u0443\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Athlone"
+    ],
+    "name:ces_x_preferred":[
+        "Athlone"
+    ],
+    "name:dan_x_preferred":[
+        "Athlone"
+    ],
     "name:deu_x_preferred":[
         "Athlone"
     ],
     "name:eng_x_preferred":[
+        "Athlone"
+    ],
+    "name:eus_x_preferred":[
+        "Athlone"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062b\u0644\u0648\u0646\u0647"
+    ],
+    "name:fin_x_preferred":[
         "Athlone"
     ],
     "name:fra_x_preferred":[
@@ -47,8 +71,17 @@
     "name:gle_x_preferred":[
         "Baile \u00c1tha Luain"
     ],
+    "name:glg_x_preferred":[
+        "Athlone"
+    ],
     "name:glv_x_preferred":[
         "Balley Aah Luain"
+    ],
+    "name:ile_x_preferred":[
+        "Athlone"
+    ],
+    "name:ind_x_preferred":[
+        "Athlone"
     ],
     "name:ita_x_preferred":[
         "Athlone"
@@ -59,10 +92,22 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d7\u10da\u10dd\u10dc\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\uc560\uc2ac\ub860"
+    ],
     "name:lit_x_preferred":[
         "Atlonas"
     ],
+    "name:msa_x_preferred":[
+        "Athlone"
+    ],
+    "name:nld_x_preferred":[
+        "Athlone"
+    ],
     "name:nor_x_preferred":[
+        "Athlone"
+    ],
+    "name:pol_x_preferred":[
         "Athlone"
     ],
     "name:por_x_preferred":[
@@ -71,14 +116,26 @@
     "name:rus_x_preferred":[
         "\u0410\u0442\u043b\u043e\u043d"
     ],
+    "name:slk_x_preferred":[
+        "Athlone"
+    ],
+    "name:spa_x_preferred":[
+        "Athlone"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0442\u043b\u043e\u043d"
     ],
     "name:swe_x_preferred":[
         "Athlone"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043b\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Baile \u00c1tha Luain"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u65af\u9686"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -102,7 +159,7 @@
         }
     ],
     "wof:id":1293518775,
-    "wof:lastmodified":1537636783,
+    "wof:lastmodified":1564213838,
     "wof:name":"Athlone",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

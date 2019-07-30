@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Killea"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1125412041,
-    "wof:lastmodified":1509390284,
+    "wof:lastmodified":1564214816,
     "wof:name":"Killea",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

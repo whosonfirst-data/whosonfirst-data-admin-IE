@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Lough"
+    ],
+    "name:ita_x_preferred":[
+        "Lough"
+    ],
+    "name:nno_x_preferred":[
+        "Lough"
+    ],
+    "name:nor_x_preferred":[
+        "Lough"
+    ],
+    "name:pol_x_preferred":[
+        "Lough"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1293620389,
-    "wof:lastmodified":1537089486,
+    "wof:lastmodified":1564213719,
     "wof:name":"Lough",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

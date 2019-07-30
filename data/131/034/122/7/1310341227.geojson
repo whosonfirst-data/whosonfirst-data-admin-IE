@@ -26,8 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tinure"
+    ],
     "name:gle_x_preferred":[
         "Tigh an \u00fair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u044c\u044e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Tinure"
+    ],
+    "name:spa_x_preferred":[
+        "Tinure"
+    ],
+    "name:swe_x_preferred":[
+        "Tinure"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310341227,
-    "wof:lastmodified":1537636792,
+    "wof:lastmodified":1564214397,
     "wof:name":"Tinure",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

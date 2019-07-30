@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Taghshinny"
+    ],
+    "name:gle_x_preferred":[
+        "Teach S\u00edn\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u0438\u043d\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310241543,
-    "wof:lastmodified":1537564838,
+    "wof:lastmodified":1564214305,
     "wof:name":"Taghshinny",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Muff"
+    ],
     "name:eng_x_preferred":[
         "Muff"
     ],
     "name:gle_x_preferred":[
         "Magh"
+    ],
+    "name:pol_x_preferred":[
+        "Mufka"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125923349,
-    "wof:lastmodified":1509400938,
+    "wof:lastmodified":1564214579,
     "wof:name":"Muff",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

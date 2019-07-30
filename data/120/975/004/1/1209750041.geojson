@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Lisselton"
+    ],
+    "name:gle_x_preferred":[
+        "Lios Eilt\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0441\u0435\u043b\u0442\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209750041,
-    "wof:lastmodified":1537564841,
+    "wof:lastmodified":1564214188,
     "wof:name":"Lisselton",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

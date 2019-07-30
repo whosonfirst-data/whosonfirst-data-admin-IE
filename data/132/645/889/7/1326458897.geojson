@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Abbeyville"
+    ],
+    "name:deu_x_preferred":[
+        "Abbeyville"
+    ],
+    "name:swe_x_preferred":[
+        "Abbeyville"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1326458897,
-    "wof:lastmodified":1537086608,
+    "wof:lastmodified":1564213407,
     "wof:name":"Abbeyville",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hill House"
+    ],
+    "name:fra_x_preferred":[
+        "Hill House"
+    ],
+    "name:ita_x_preferred":[
+        "Hill House"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1277105469,
-    "wof:lastmodified":1536735126,
+    "wof:lastmodified":1564214021,
     "wof:name":"Hill House",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

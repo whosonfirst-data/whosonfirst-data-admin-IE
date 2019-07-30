@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Balgriffin"
+    ],
+    "name:gla_x_preferred":[
+        "Baile Ghr\u00edf\u00edn"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Ghr\u00edf\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0433\u0440\u0438\u0444\u0444\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260111565,
-    "wof:lastmodified":1537564857,
+    "wof:lastmodified":1564214262,
     "wof:name":"Balgriffin",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

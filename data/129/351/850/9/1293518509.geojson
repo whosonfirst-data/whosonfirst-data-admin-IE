@@ -32,6 +32,12 @@
     "name:gle_x_preferred":[
         "An Baile M\u00f3r"
     ],
+    "name:pol_x_preferred":[
+        "Ballymore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043c\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293518509,
-    "wof:lastmodified":1537636756,
+    "wof:lastmodified":1564213835,
     "wof:name":"Ballymore",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

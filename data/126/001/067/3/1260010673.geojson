@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Slieverue"
+    ],
+    "name:eus_x_preferred":[
+        "Slieverue"
+    ],
+    "name:gle_x_preferred":[
+        "Sliabh Rua"
+    ],
+    "name:pol_x_preferred":[
+        "Slieverue"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Slieverue"
+    ],
+    "name:swe_x_preferred":[
+        "Slieverue"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1260010673,
-    "wof:lastmodified":1537564860,
+    "wof:lastmodified":1564214259,
     "wof:name":"Slieverue",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

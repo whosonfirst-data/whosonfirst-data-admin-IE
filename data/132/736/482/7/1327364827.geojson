@@ -29,6 +29,9 @@
     "name:gle_x_preferred":[
         "F\u00e1lach"
     ],
+    "name:pol_x_preferred":[
+        "Faulagh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327364827,
-    "wof:lastmodified":1537636788,
+    "wof:lastmodified":1564213380,
     "wof:name":"Faulagh",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

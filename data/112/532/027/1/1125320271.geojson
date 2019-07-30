@@ -25,6 +25,12 @@
     "name:gle_x_preferred":[
         "An Mullach"
     ],
+    "name:nld_x_preferred":[
+        "Mullagh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043b\u0430\u0445"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1125320271,
-    "wof:lastmodified":1509388102,
+    "wof:lastmodified":1564214612,
     "wof:name":"Mullagh",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",

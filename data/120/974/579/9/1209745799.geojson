@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Woodford"
+    ],
     "name:eng_x_preferred":[
+        "Woodford"
+    ],
+    "name:eus_x_preferred":[
         "Woodford"
     ],
     "name:gle_x_preferred":[
         "An Ghr\u00e1ig"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e3\u10d3\u10e4\u10dd\u10e0\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u0434\u0444\u043e\u0440\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Woodford"
     ],
     "name:und_x_variant":[
         "An Chr\u00e1ig"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1209745799,
-    "wof:lastmodified":1537636717,
+    "wof:lastmodified":1564214165,
     "wof:name":"Woodford",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

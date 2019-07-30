@@ -21,8 +21,17 @@
     "name:eng_x_preferred":[
         "Greenore"
     ],
+    "name:eus_x_preferred":[
+        "Greenore"
+    ],
     "name:gle_x_preferred":[
         "An Grianfort"
+    ],
+    "name:pol_x_preferred":[
+        "Greenore"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u043e\u0440"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1125360039,
-    "wof:lastmodified":1509389052,
+    "wof:lastmodified":1564214783,
     "wof:name":"Greenore",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

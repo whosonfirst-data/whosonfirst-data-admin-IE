@@ -21,8 +21,17 @@
     "name:eng_x_preferred":[
         "Dromcolliher"
     ],
+    "name:eus_x_preferred":[
+        "Dromcolliher"
+    ],
     "name:gle_x_preferred":[
         "Drom Collachair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u043c\u043a\u043e\u043b\u043b\u0438\u0445\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Drumcollogher"
     ],
     "name:unk_x_variant":[
         "Drumcolliher"
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1125269755,
-    "wof:lastmodified":1509386987,
+    "wof:lastmodified":1564214646,
     "wof:name":"Dromcolliher",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",

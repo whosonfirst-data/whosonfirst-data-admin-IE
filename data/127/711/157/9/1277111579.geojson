@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shanagarry"
+    ],
+    "name:eus_x_preferred":[
+        "Shanagarry"
+    ],
+    "name:gle_x_preferred":[
+        "An Seangharra\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Shanagarry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u0430\u0433\u0430\u0440\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Shanagarry"
+    ],
+    "name:swe_x_preferred":[
+        "Shanagarry"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1277111579,
-    "wof:lastmodified":1537564838,
+    "wof:lastmodified":1564214022,
     "wof:name":"Shanagarry",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

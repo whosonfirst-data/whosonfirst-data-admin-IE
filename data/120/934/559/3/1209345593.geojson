@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Lisryan"
+    ],
+    "name:gle_x_preferred":[
+        "Lios Riain"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0440\u0430\u0439\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209345593,
-    "wof:lastmodified":1537564841,
+    "wof:lastmodified":1564214146,
     "wof:name":"Lisryan",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

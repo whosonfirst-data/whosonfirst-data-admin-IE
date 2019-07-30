@@ -30,6 +30,9 @@
     "name:gle_x_preferred":[
         "Baile ne nGall"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0430\u0433\u0430\u043b\u043b"
+    ],
     "name:und_x_variant":[
         "Ballydavid",
         "Ballynagall"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243297885,
-    "wof:lastmodified":1537636756,
+    "wof:lastmodified":1564214994,
     "wof:name":"Ballynagall",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

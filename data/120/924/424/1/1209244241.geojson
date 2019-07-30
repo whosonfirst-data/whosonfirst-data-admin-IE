@@ -26,6 +26,45 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Cill Rois"
+    ],
+    "name:cat_x_preferred":[
+        "Kilrush"
+    ],
+    "name:ceb_x_preferred":[
+        "Kilrush"
+    ],
+    "name:deu_x_preferred":[
+        "Kilrush"
+    ],
+    "name:eus_x_preferred":[
+        "Kilrush"
+    ],
+    "name:fra_x_preferred":[
+        "Kilrush"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Rois"
+    ],
+    "name:ita_x_preferred":[
+        "Kilrush"
+    ],
+    "name:nld_x_preferred":[
+        "Kilrush"
+    ],
+    "name:pol_x_preferred":[
+        "Kilrush"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u0440\u0430\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Kilrush"
+    ],
+    "name:swe_x_preferred":[
+        "Kilrush"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +74,7 @@
         "gn:id":3314411
     },
     "wof:country":"IE",
-    "wof:geomhash":"09eb67768facb901744d694c4a115062",
+    "wof:geomhash":"5080aa8eb0df166f43c612e459582906",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +82,7 @@
         }
     ],
     "wof:id":1209244241,
-    "wof:lastmodified":1536293220,
+    "wof:lastmodified":1564214069,
     "wof:name":"Kilrush",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +92,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.8677800000000016,
+    -6.86778,
     53.05917,
-    -6.8677800000000016,
+    -6.86778,
     53.05917
 ],
   "geometry": {"coordinates":[-6.86778,53.05917],"type":"Point"}

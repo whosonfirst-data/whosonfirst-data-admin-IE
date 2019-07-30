@@ -26,11 +26,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballitore"
+    ],
     "name:eng_x_preferred":[
+        "Ballitore"
+    ],
+    "name:eus_x_preferred":[
+        "Ballitore"
+    ],
+    "name:fra_x_preferred":[
         "Ballitore"
     ],
     "name:gle_x_preferred":[
         "B\u00e9al Atha an Tuair"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0442\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Ballytore"
+    ],
+    "name:swe_x_preferred":[
+        "Ballitore"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1309748225,
-    "wof:lastmodified":1537636759,
+    "wof:lastmodified":1564214539,
     "wof:name":"Ballitore",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

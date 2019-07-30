@@ -26,6 +26,198 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0633\u0631 \u0627\u0644\u0628\u0631\u062c"
+    ],
+    "name:aze_x_preferred":[
+        "Tauer k\u00f6rp\u00fcs\u00fc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u045e\u044d\u0440\u0441\u043a\u0456 \u043c\u043e\u0441\u0442"
+    ],
+    "name:bre_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0443\u044a\u0440 \u0411\u0440\u0438\u0434\u0436"
+    ],
+    "name:cat_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:ces_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0430\u0443\u044d\u0440 \u043a\u0115\u043f\u0435\u0440\u0115"
+    ],
+    "name:cym_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:dan_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:deu_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:diq_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:epo_x_preferred":[
+        "Tura ponto"
+    ],
+    "name:est_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:eus_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0648\u0631 \u0628\u0631\u06cc\u062c"
+    ],
+    "name:fin_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:fra_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:gle_x_preferred":[
+        "Droichead an T\u00fair"
+    ],
+    "name:hak_x_preferred":[
+        "L\u00f9n-t\u00fbn Thap-khi\u00e2u"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e9\u05e8 \u05de\u05e6\u05d5\u05d3\u05ea \u05dc\u05d5\u05e0\u05d3\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093e\u0935\u0930 \u092c\u094d\u0930\u093f\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0578\u0582\u0565\u0580 \u056f\u0561\u0574\u0578\u0582\u0580\u057b"
+    ],
+    "name:ind_x_preferred":[
+        "Jembatan Menara"
+    ],
+    "name:isl_x_preferred":[
+        "Tower-br\u00fain"
+    ],
+    "name:ita_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30ef\u30fc\u30d6\u30ea\u30c3\u30b8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cb5\u0cb0\u0ccd \u0cac\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd\u0c9c\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0443\u044d\u0440\u0441 \u043a\u04e9\u043f\u0456\u0440\u0456"
+    ],
+    "name:kbp_x_preferred":[
+        "Tower Bridge Kondoloko"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc6cc \ube0c\ub9ac\uc9c0"
+    ],
+    "name:lav_x_preferred":[
+        "Tauera tilts"
+    ],
+    "name:lit_x_preferred":[
+        "Tauerio tiltas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d35\u0d7c \u0d2c\u0d4d\u0d30\u0d3f\u0d21\u0d4d\u0d1c\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0949\u0935\u0930 \u092c\u094d\u0930\u093f\u091c"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0443\u0435\u0440 \u0431\u0440\u0438\u045f"
+    ],
+    "name:msa_x_preferred":[
+        "Jambatan Menara"
+    ],
+    "name:nld_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:nno_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:nor_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:oci_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0679\u0627\u0648\u0631 \u0628\u0631\u062c"
+    ],
+    "name:pol_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:por_x_preferred":[
+        "Ponte da Torre"
+    ],
+    "name:ron_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u044d\u0440\u0441\u043a\u0438\u0439 \u043c\u043e\u0441\u0442"
+    ],
+    "name:scn_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:sco_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:slk_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:slv_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:sqi_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0443\u0435\u0440\u0431\u0440\u0438\u045f"
+    ],
+    "name:swe_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0baa\u0bc1\u0bb0\u0baa\u0bcd \u0baa\u0bbe\u0bb2\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c35\u0c30\u0c4d \u0c35\u0c02\u0c24\u0c46\u0c28"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e1a\u0e23\u0e34\u0e14\u0e08\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Tower Bridge"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0443\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u043c\u0456\u0441\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0648\u0631\u0628\u0631\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "C\u1ea7u Th\u00e1p Lu\u00e2n \u0110\u00f4n"
+    ],
+    "name:war_x_preferred":[
+        "Tore nga Tulay"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e2\u05dd \u05d1\u05e8\u05d9\u05e7"
+    ],
+    "name:zho_x_preferred":[
+        "\u502b\u6566\u5854\u6a4b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +227,7 @@
         "gn:id":3307105
     },
     "wof:country":"IE",
-    "wof:geomhash":"59bd992ea7d62fb42ac8e6660cea92c2",
+    "wof:geomhash":"3358451f694b4a2ec666da166534a5f6",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +235,7 @@
         }
     ],
     "wof:id":1209652275,
-    "wof:lastmodified":1536280542,
+    "wof:lastmodified":1564214040,
     "wof:name":"Tower Bridge",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +245,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.2747199999999985,
+    -7.27472,
     52.7225,
-    -7.2747199999999985,
+    -7.27472,
     52.7225
 ],
   "geometry": {"coordinates":[-7.27472,52.7225],"type":"Point"}

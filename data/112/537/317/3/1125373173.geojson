@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Rathmore"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rathmore",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125373173,
-    "wof:lastmodified":1509389378,
+    "wof:lastmodified":1564214710,
     "wof:name":"Rathmore",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",

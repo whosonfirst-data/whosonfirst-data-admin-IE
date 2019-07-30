@@ -30,8 +30,26 @@
     "name:eng_x_preferred":[
         "Athleague"
     ],
+    "name:eus_x_preferred":[
+        "Athleague"
+    ],
     "name:gle_x_preferred":[
         "\u00c1th Liag"
+    ],
+    "name:ita_x_preferred":[
+        "Athleague"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d7\u10da\u10d8\u10d2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Athleague"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043b\u0438\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Athleague"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1293820417,
-    "wof:lastmodified":1537636761,
+    "wof:lastmodified":1564213779,
     "wof:name":"Athleague",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

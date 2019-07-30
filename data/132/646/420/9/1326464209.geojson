@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Glencastle"
     ],
+    "name:eus_x_preferred":[
+        "Glencastle"
+    ],
     "name:gle_x_preferred":[
         "Gleann Chaisell"
+    ],
+    "name:gle_x_variant":[
+        "Gleann Chaisil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326464209,
-    "wof:lastmodified":1537636795,
+    "wof:lastmodified":1564213487,
     "wof:name":"Glencastle",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

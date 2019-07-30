@@ -16,6 +16,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:ceb_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:deu_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:eus_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e1th Maol\u00e1in"
+    ],
+    "name:gla_x_preferred":[
+        "R\u00e1th Maol\u00e1in"
+    ],
+    "name:gle_x_preferred":[
+        "R\u00e1th Maol\u00e1in"
+    ],
+    "name:ita_x_preferred":[
+        "Rathmullan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043c\u0430\u043b\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Rathmullen"
+    ],
+    "name:swe_x_preferred":[
+        "Rathmullan"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:name":"Rathmullan",
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":1125415589,
-    "wof:lastmodified":1509390358,
+    "wof:lastmodified":1564214811,
     "wof:name":"Rathmullan",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

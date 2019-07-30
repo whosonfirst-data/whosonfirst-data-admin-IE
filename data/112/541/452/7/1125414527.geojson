@@ -19,11 +19,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tinahely"
+    ],
+    "name:ceb_x_preferred":[
+        "Tinahely"
+    ],
     "name:eng_x_preferred":[
+        "Tinahely"
+    ],
+    "name:eus_x_preferred":[
         "Tinahely"
     ],
     "name:gle_x_preferred":[
         "Tigh na h\u00c9ille"
+    ],
+    "name:nld_x_preferred":[
+        "Tinahely"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043d\u0430\u0445\u0435\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Tinahely"
+    ],
+    "name:swe_x_preferred":[
+        "Tinahely"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1125414527,
-    "wof:lastmodified":1509390339,
+    "wof:lastmodified":1564214815,
     "wof:name":"Tinahely",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",

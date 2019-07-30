@@ -18,6 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Bawnboy"
+    ],
+    "name:fra_x_preferred":[
+        "Bawnboy"
+    ],
+    "name:nor_x_preferred":[
+        "Bawnboy"
+    ],
+    "name:pol_x_preferred":[
+        "Bawnboy"
+    ],
+    "name:swe_x_preferred":[
+        "Bawnboy"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +82,7 @@
         }
     ],
     "wof:id":1125369241,
-    "wof:lastmodified":1509389274,
+    "wof:lastmodified":1564214775,
     "wof:name":"Bawnboy",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",

@@ -26,6 +26,36 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carrick"
+    ],
+    "name:deu_x_preferred":[
+        "Carrick"
+    ],
+    "name:fra_x_preferred":[
+        "Carrick"
+    ],
+    "name:fry_x_preferred":[
+        "Carrick"
+    ],
+    "name:ita_x_preferred":[
+        "Carrick"
+    ],
+    "name:nld_x_preferred":[
+        "Carrick"
+    ],
+    "name:nor_x_preferred":[
+        "Carrick"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Carrick"
+    ],
+    "name:swe_x_preferred":[
+        "Carrick"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +77,7 @@
         }
     ],
     "wof:id":1293814847,
-    "wof:lastmodified":1536811768,
+    "wof:lastmodified":1564213858,
     "wof:name":"Carrick",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

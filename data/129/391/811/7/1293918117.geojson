@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Blackhead Bay"
+    ],
+    "name:deu_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:eus_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:fra_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:nld_x_preferred":[
+        "Ballyvaughan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0432\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyvaughan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1293918117,
-    "wof:lastmodified":1536663463,
+    "wof:lastmodified":1564213702,
     "wof:name":"Ballyvaughan",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

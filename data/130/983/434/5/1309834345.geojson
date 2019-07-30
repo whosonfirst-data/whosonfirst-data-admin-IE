@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gurteen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1309834345,
-    "wof:lastmodified":1536889708,
+    "wof:lastmodified":1564214500,
     "wof:name":"Gurteen",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

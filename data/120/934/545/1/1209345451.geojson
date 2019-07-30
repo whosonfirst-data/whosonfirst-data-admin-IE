@@ -26,7 +26,13 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moorestown"
+    ],
     "name:eng_x_preferred":[
+        "Moorestown"
+    ],
+    "name:fra_x_preferred":[
         "Moorestown"
     ],
     "name:gle_x_preferred":[
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209345451,
-    "wof:lastmodified":1537636766,
+    "wof:lastmodified":1564214150,
     "wof:name":"Moorestown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

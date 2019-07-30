@@ -22,11 +22,26 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0438\u0433\u0430\u043b\u0430\u0439\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:ceb_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:dan_x_preferred":[
+        "Carrigaline"
+    ],
     "name:eng_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:eus_x_preferred":[
         "Carrigaline"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0631\u06cc\u06af\u0627\u0644\u0627\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Carrigaline"
     ],
     "name:gla_x_preferred":[
         "Carraig U\u00ed Leighin"
@@ -34,14 +49,38 @@
     "name:gle_x_preferred":[
         "Carraig U\u00ed Leighin"
     ],
+    "name:hun_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:ita_x_preferred":[
+        "Carrigaline"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30ea\u30ac\u30e9\u30a4\u30f3"
     ],
     "name:lit_x_preferred":[
         "Karigalinas"
     ],
+    "name:nld_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:nor_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:pol_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:ron_x_preferred":[
+        "Carrigaline"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0440\u0438\u0433\u0430\u043b\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Carrigaline"
+    ],
+    "name:swe_x_preferred":[
+        "Carrigaline"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0631\u06cc\u06af\u0627\u0644\u0627\u0626\u0646"
@@ -95,7 +134,7 @@
         }
     ],
     "wof:id":1125340815,
-    "wof:lastmodified":1509388656,
+    "wof:lastmodified":1564214575,
     "wof:name":"Carrigaline",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

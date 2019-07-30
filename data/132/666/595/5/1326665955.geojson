@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Kilberry"
     ],
+    "name:eus_x_preferred":[
+        "Kilberry"
+    ],
     "name:gle_x_preferred":[
         "Cill Bhearaigh"
+    ],
+    "name:gle_x_variant":[
+        "Cill Bheiridh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326665955,
-    "wof:lastmodified":1537636736,
+    "wof:lastmodified":1564213428,
     "wof:name":"Kilberry",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

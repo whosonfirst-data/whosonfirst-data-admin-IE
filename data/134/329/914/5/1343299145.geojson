@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Carrigaholt"
+    ],
+    "name:deu_x_preferred":[
+        "Carrigaholt Castle"
+    ],
     "name:eng_x_preferred":[
+        "Carrigaholt"
+    ],
+    "name:eus_x_preferred":[
+        "Carrigaholt"
+    ],
+    "name:fra_x_preferred":[
         "Carrigaholt"
     ],
     "name:gle_x_preferred":[
         "Carraig an Chabhaltaigh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0438\u0433\u0430\u0445\u043e\u043b\u044c\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1343299145,
-    "wof:lastmodified":1537636750,
+    "wof:lastmodified":1564213662,
     "wof:name":"Carrigaholt",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

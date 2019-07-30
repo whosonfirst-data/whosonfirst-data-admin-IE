@@ -33,6 +33,12 @@
     "name:gle_x_preferred":[
         "Glinsce"
     ],
+    "name:hsb_x_preferred":[
+        "Glinsk"
+    ],
+    "name:swe_x_preferred":[
+        "Glinsk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276690733,
-    "wof:lastmodified":1537636738,
+    "wof:lastmodified":1564213932,
     "wof:name":"Glinsk",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

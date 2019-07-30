@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oldtown"
+    ],
+    "name:deu_x_preferred":[
+        "Oldtown"
+    ],
+    "name:pol_x_preferred":[
+        "Oldtown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0434\u0442\u0430\u0443\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043b\u0434\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Oldtown"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +53,7 @@
         "gn:id":3302319
     },
     "wof:country":"IE",
-    "wof:geomhash":"0551044cb355d8ac01dacc768d15ae23",
+    "wof:geomhash":"296172d168dc8b3fe3ce02116967b995",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209136601,
-    "wof:lastmodified":1536296640,
+    "wof:lastmodified":1564214093,
     "wof:name":"Oldtown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.210560000000001,
+    -7.21056,
     52.52,
-    -7.210560000000001,
+    -7.21056,
     52.52
 ],
   "geometry": {"coordinates":[-7.21056,52.52],"type":"Point"}

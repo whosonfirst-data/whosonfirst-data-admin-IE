@@ -32,6 +32,12 @@
     "name:gle_x_preferred":[
         "An Cheathr\u00fa Chaol"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u043e\u0443\u043a\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Carrowkeel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343793197,
-    "wof:lastmodified":1537636793,
+    "wof:lastmodified":1564213590,
     "wof:name":"Carrowkeel",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

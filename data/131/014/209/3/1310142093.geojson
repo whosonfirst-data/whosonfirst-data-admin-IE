@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mullan"
+    ],
+    "name:epo_x_preferred":[
+        "Mullan"
+    ],
+    "name:fra_x_preferred":[
+        "Mullan"
+    ],
+    "name:por_x_preferred":[
+        "Mullan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043b\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1310142093,
-    "wof:lastmodified":1536944200,
+    "wof:lastmodified":1564214331,
     "wof:name":"Mullan",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

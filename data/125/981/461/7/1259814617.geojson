@@ -26,6 +26,42 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kells"
+    ],
+    "name:ces_x_preferred":[
+        "Kells"
+    ],
+    "name:deu_x_preferred":[
+        "Kells"
+    ],
+    "name:eus_x_preferred":[
+        "Kells"
+    ],
+    "name:fra_x_preferred":[
+        "Kells"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Kells"
+    ],
+    "name:nld_x_preferred":[
+        "Kells"
+    ],
+    "name:pol_x_preferred":[
+        "Kells"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Kells"
+    ],
+    "name:swe_x_preferred":[
+        "Kells"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +83,7 @@
         }
     ],
     "wof:id":1259814617,
-    "wof:lastmodified":1536877690,
+    "wof:lastmodified":1564215100,
     "wof:name":"Kells",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vieille"
+    ],
+    "name:ron_x_preferred":[
+        "Cotoroan\u021b\u0103"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1343397299,
-    "wof:lastmodified":1536836236,
+    "wof:lastmodified":1564213544,
     "wof:name":"Crone",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

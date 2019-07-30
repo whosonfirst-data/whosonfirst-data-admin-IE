@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cappamore"
+    ],
     "name:eng_x_preferred":[
+        "Cappamore"
+    ],
+    "name:eus_x_preferred":[
         "Cappamore"
     ],
     "name:gle_x_preferred":[
         "An Cheapach Mh\u00f3r"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043f\u0430\u043c\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Cappamore"
+    ],
+    "name:swe_x_preferred":[
+        "Cappamore"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259516975,
-    "wof:lastmodified":1537636751,
+    "wof:lastmodified":1564215086,
     "wof:name":"Cappamore",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

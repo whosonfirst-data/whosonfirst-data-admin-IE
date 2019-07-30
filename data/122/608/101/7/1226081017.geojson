@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballina"
+    ],
+    "name:eus_x_preferred":[
+        "Ballina"
+    ],
+    "name:ita_x_preferred":[
+        "Ballina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ballina"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226081017,
-    "wof:lastmodified":1537564851,
+    "wof:lastmodified":1564215253,
     "wof:name":"Ballina",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

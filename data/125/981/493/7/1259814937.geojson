@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Dungourney"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00fan Guairne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0433\u043e\u0440\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259814937,
-    "wof:lastmodified":1537564845,
+    "wof:lastmodified":1564215098,
     "wof:name":"Dungourney",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

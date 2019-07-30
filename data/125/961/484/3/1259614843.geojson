@@ -27,6 +27,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Garryspillane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0440\u0438\u0441\u043f\u0438\u043b\u0435\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Garryspillane"
+    ],
     "name:und_x_variant":[
         "Garryspellane",
         "Garryspillane"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259614843,
-    "wof:lastmodified":1537636740,
+    "wof:lastmodified":1564215062,
     "wof:name":"Garryspillane",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

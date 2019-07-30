@@ -32,6 +32,9 @@
     "name:gle_x_preferred":[
         "An R\u00e1th Mh\u00f3r"
     ],
+    "name:spa_x_preferred":[
+        "Rathmore"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209445887,
-    "wof:lastmodified":1537636797,
+    "wof:lastmodified":1564214176,
     "wof:name":"Rathmore",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

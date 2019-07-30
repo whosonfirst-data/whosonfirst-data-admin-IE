@@ -26,6 +26,54 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ceinewydd"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u044e \u041a\u0438\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Cei Newydd"
+    ],
+    "name:ceb_x_preferred":[
+        "New Quay"
+    ],
+    "name:ces_x_preferred":[
+        "New Quay"
+    ],
+    "name:cor_x_preferred":[
+        "Ceinewydd"
+    ],
+    "name:cym_x_preferred":[
+        "Ceinewydd"
+    ],
+    "name:eus_x_preferred":[
+        "New Quay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648 \u06a9\u06cc"
+    ],
+    "name:gla_x_preferred":[
+        "Ceinewydd"
+    ],
+    "name:gle_x_preferred":[
+        "Ceinewydd"
+    ],
+    "name:ita_x_preferred":[
+        "New Quay"
+    ],
+    "name:pol_x_preferred":[
+        "New Quay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e-\u041a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "New Quay"
+    ],
+    "name:swe_x_preferred":[
+        "New Quay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +95,7 @@
         }
     ],
     "wof:id":1226786129,
-    "wof:lastmodified":1536657411,
+    "wof:lastmodified":1564215226,
     "wof:name":"New Quay",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

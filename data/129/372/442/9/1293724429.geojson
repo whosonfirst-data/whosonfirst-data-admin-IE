@@ -26,6 +26,33 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fahan"
+    ],
+    "name:eus_x_preferred":[
+        "Fahan"
+    ],
+    "name:gle_x_preferred":[
+        "Fathain"
+    ],
+    "name:nld_x_preferred":[
+        "Fahan"
+    ],
+    "name:pol_x_preferred":[
+        "Fahan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Fahan"
+    ],
+    "name:swe_x_preferred":[
+        "Fahan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06c1\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1293724429,
-    "wof:lastmodified":1536943373,
+    "wof:lastmodified":1564213878,
     "wof:name":"Fahan",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kilbrin"
+    ],
+    "name:spa_x_preferred":[
+        "Kilbrin"
+    ],
+    "name:swe_x_preferred":[
+        "Kilbrin"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259614851,
-    "wof:lastmodified":1537564843,
+    "wof:lastmodified":1564215060,
     "wof:name":"Kilbrin",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

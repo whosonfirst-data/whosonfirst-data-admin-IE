@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cloughduv"
+    ],
+    "name:eus_x_preferred":[
+        "Cloughduv"
+    ],
+    "name:gle_x_preferred":[
+        "Cloch Dhubh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u0445\u0434\u043e\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Cloughduv"
+    ],
+    "name:swe_x_preferred":[
+        "Cloughduv"
+    ],
     "name:und_x_variant":[
         "Cloghduff"
     ],
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343397061,
-    "wof:lastmodified":1537636791,
+    "wof:lastmodified":1564213533,
     "wof:name":"Cloughduv",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

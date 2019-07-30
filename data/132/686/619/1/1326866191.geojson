@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Cnoc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1326866191,
-    "wof:lastmodified":1536999026,
+    "wof:lastmodified":1564213392,
     "wof:name":"Connagh",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

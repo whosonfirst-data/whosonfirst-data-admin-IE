@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Loona"
+    ],
+    "name:fra_x_preferred":[
+        "Loona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1276259851,
-    "wof:lastmodified":1536876285,
+    "wof:lastmodified":1564213957,
     "wof:name":"Loona",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

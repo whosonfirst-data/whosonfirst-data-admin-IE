@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Tawny"
     ],
+    "name:fra_x_preferred":[
+        "Tawny"
+    ],
     "name:gle_x_preferred":[
         "An Tamhnaigh"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1226680165,
-    "wof:lastmodified":1537636720,
+    "wof:lastmodified":1564215149,
     "wof:name":"Tawny",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dunderrow"
+    ],
+    "name:gle_x_preferred":[
+        "Dun Dar\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Dunderrow"
+    ],
+    "name:swe_x_preferred":[
+        "Dunderrow"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343298475,
-    "wof:lastmodified":1537564845,
+    "wof:lastmodified":1564213666,
     "wof:name":"Dunderrow",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

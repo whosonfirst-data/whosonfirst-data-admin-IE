@@ -19,11 +19,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:ceb_x_preferred":[
+        "Kilmallock"
+    ],
     "name:eng_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:eus_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:fra_x_preferred":[
         "Kilmallock"
     ],
     "name:gle_x_preferred":[
         "Cill Mocheall\u00f3g"
+    ],
+    "name:ita_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0430\u043b\u043b\u043e\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmallock"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmallock"
     ],
     "name:unk_x_variant":[
         "Kilmailock"
@@ -78,7 +102,7 @@
         }
     ],
     "wof:id":1125301755,
-    "wof:lastmodified":1509387725,
+    "wof:lastmodified":1564214721,
     "wof:name":"Kilmallock",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",

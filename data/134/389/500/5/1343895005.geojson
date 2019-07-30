@@ -30,8 +30,17 @@
     "name:eng_x_preferred":[
         "Finuge"
     ],
+    "name:eus_x_preferred":[
+        "Finuge"
+    ],
     "name:gle_x_preferred":[
         "Fionn\u00faig"
+    ],
+    "name:gle_x_variant":[
+        "Fionn\u00f3g"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043d\u0430\u0434\u0436"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343895005,
-    "wof:lastmodified":1537636740,
+    "wof:lastmodified":1564213677,
     "wof:name":"Finuge",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

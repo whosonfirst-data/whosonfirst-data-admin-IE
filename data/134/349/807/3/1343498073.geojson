@@ -26,11 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "S\u00e1ile"
+    ],
     "name:eng_x_preferred":[
         "Salia"
     ],
+    "name:eus_x_preferred":[
+        "S\u00e1ile"
+    ],
     "name:gle_x_preferred":[
         "S\u00e1ile"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0644\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343498073,
-    "wof:lastmodified":1537636722,
+    "wof:lastmodified":1564213604,
     "wof:name":"Salia",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

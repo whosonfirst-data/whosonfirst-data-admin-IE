@@ -30,11 +30,20 @@
     "name:eng_x_preferred":[
         "Labasheeda"
     ],
+    "name:eus_x_preferred":[
+        "Labasheeda"
+    ],
     "name:gle_x_preferred":[
         "Leaba Sh\u00edoda"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0431\u0430\u0448\u0438\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Labbasheeda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u0634\u06cc\u0688\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1276586745,
-    "wof:lastmodified":1537636731,
+    "wof:lastmodified":1564213943,
     "wof:name":"Labasheeda",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

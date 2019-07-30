@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Eyre Square"
+    ],
+    "name:gle_x_preferred":[
+        "An Fhaiche Mh\u00f3r"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Eyre Square",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125288349,
-    "wof:lastmodified":1509387472,
+    "wof:lastmodified":1564214633,
     "wof:name":"Eyre Square",
     "wof:parent_id":85685055,
     "wof:placetype":"localadmin",

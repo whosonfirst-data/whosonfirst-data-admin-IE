@@ -21,8 +21,20 @@
     "name:eng_x_preferred":[
         "Straid"
     ],
+    "name:eus_x_preferred":[
+        "Straid"
+    ],
     "name:gle_x_preferred":[
         "An tSr\u00e1id"
+    ],
+    "name:msa_x_preferred":[
+        "Straid"
+    ],
+    "name:pli_x_preferred":[
+        "\u0938\u094d\u0924\u094d\u0930\u0948\u0926"
+    ],
+    "name:spa_x_preferred":[
+        "Straid"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1125303369,
-    "wof:lastmodified":1509387753,
+    "wof:lastmodified":1564214713,
     "wof:name":"Straid",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

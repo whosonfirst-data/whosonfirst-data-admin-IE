@@ -32,6 +32,12 @@
     "name:gle_x_preferred":[
         "Mullach"
     ],
+    "name:nld_x_preferred":[
+        "Mullagh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043b\u0430\u0445"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243484885,
-    "wof:lastmodified":1537636727,
+    "wof:lastmodified":1564214915,
     "wof:name":"Mullagh",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Crumlin"
+    ],
+    "name:deu_x_preferred":[
+        "Crumlin"
+    ],
+    "name:gle_x_preferred":[
+        "Cromghlinn"
+    ],
+    "name:ita_x_preferred":[
+        "Crumlin"
+    ],
+    "name:slk_x_preferred":[
+        "Crumlin"
+    ],
+    "name:swe_x_preferred":[
+        "Crumlin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1260010531,
-    "wof:lastmodified":1537089895,
+    "wof:lastmodified":1564214252,
     "wof:name":"Crumlin",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

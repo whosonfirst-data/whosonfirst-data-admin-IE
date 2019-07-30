@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "D\u00fan Feart"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1293327859,
-    "wof:lastmodified":1537016477,
+    "wof:lastmodified":1564213824,
     "wof:name":"Danesfort",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

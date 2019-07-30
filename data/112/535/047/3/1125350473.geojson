@@ -19,14 +19,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:deu_x_preferred":[
+        "Kilfenora"
+    ],
     "name:eng_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:epo_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:eus_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:fra_x_preferred":[
         "Kilfenora"
     ],
     "name:gle_x_preferred":[
         "Cill Fhionn\u00farach"
     ],
+    "name:ita_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:nld_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:pol_x_preferred":[
+        "Kilfenora"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0444\u0435\u043d\u043e\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kilfenora"
+    ],
+    "name:swe_x_preferred":[
+        "Kilfenora"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":1125350473,
-    "wof:lastmodified":1509388843,
+    "wof:lastmodified":1564214584,
     "wof:name":"Kilfenora",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

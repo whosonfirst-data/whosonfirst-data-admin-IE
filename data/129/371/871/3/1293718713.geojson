@@ -26,8 +26,17 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gweesalia"
+    ],
+    "name:eus_x_preferred":[
+        "Gweesalia"
+    ],
     "name:gle_x_preferred":[
         "Gaoth S\u00e1ile"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0438\u0441\u0430\u043b\u0438\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293718713,
-    "wof:lastmodified":1537636737,
+    "wof:lastmodified":1564213776,
     "wof:name":"Gweesalia",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

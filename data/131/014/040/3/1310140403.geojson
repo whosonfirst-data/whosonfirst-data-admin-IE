@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mullaghmore"
+    ],
+    "name:fra_x_preferred":[
+        "Mullaghmore"
+    ],
+    "name:swe_x_preferred":[
+        "Mullaghmore"
+    ],
     "name:und_x_variant":[
         "Allerstown"
     ],
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310140403,
-    "wof:lastmodified":1537636796,
+    "wof:lastmodified":1564214328,
     "wof:name":"Mullaghmore",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Athgarvan"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c1th Garbh\u00e1in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0433\u0430\u0440\u0432\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Athgarvan"
+    ],
+    "name:swe_x_preferred":[
+        "Athgarvan"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1293523115,
-    "wof:lastmodified":1537564851,
+    "wof:lastmodified":1564213737,
     "wof:name":"Athgarvan",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

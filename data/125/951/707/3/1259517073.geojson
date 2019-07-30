@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Ballyhale"
     ],
+    "name:eus_x_preferred":[
+        "Ballyhale"
+    ],
     "name:gle_x_preferred":[
         "Baile H\u00e9il"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u0445\u0435\u0439\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyhale"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259517073,
-    "wof:lastmodified":1537636757,
+    "wof:lastmodified":1564215077,
     "wof:name":"Ballyhale",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

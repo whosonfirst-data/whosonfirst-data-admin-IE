@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Dore"
     ],
+    "name:fra_x_preferred":[
+        "Dore"
+    ],
     "name:gle_x_preferred":[
         "Dobhar"
+    ],
+    "name:pol_x_preferred":[
+        "Dore"
+    ],
+    "name:swe_x_preferred":[
+        "Dore"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326564935,
-    "wof:lastmodified":1537636770,
+    "wof:lastmodified":1564213422,
     "wof:name":"Dore",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

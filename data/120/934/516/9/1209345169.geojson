@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Castletown"
+    ],
+    "name:eus_x_preferred":[
+        "Castletown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Castletown"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209345169,
-    "wof:lastmodified":1537564852,
+    "wof:lastmodified":1564214150,
     "wof:name":"Castletown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

@@ -16,6 +16,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Aglish"
+    ],
+    "name:eus_x_preferred":[
+        "Aglish"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0644\u06cc\u0634"
+    ],
+    "name:gle_x_preferred":[
+        "An Eaglais"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u043b\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Aglish"
+    ],
+    "name:swe_x_preferred":[
+        "Aglish"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0644\u06cc\u0634"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Aglish",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1125305561,
-    "wof:lastmodified":1509387796,
+    "wof:lastmodified":1564214713,
     "wof:name":"Aglish",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",

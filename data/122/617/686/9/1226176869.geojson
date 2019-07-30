@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Gormanston"
     ],
+    "name:eus_x_preferred":[
+        "Gormanston"
+    ],
     "name:gle_x_preferred":[
         "Baile Mhic Gorm\u00e1in"
+    ],
+    "name:nor_x_preferred":[
+        "Gormanston"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043c\u0430\u043d\u0441\u0442\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Gormanstown",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1226176869,
-    "wof:lastmodified":1537636738,
+    "wof:lastmodified":1564215107,
     "wof:name":"Gormanston",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

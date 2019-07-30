@@ -26,6 +26,24 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Calverstown"
+    ],
+    "name:ceb_x_preferred":[
+        "Calverstown"
+    ],
+    "name:eus_x_preferred":[
+        "Calverstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0432\u0435\u0440\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Calverstown"
+    ],
+    "name:swe_x_preferred":[
+        "Calverstown"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1209847177,
-    "wof:lastmodified":1537564848,
+    "wof:lastmodified":1564214066,
     "wof:name":"Calverstown",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

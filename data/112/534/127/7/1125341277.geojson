@@ -16,6 +16,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:eus_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:fra_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043e\u043d\u043b\u0438\u043d\u0431\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:swe_x_preferred":[
+        "Swanlinbar"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Swanlinbar",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1125341277,
-    "wof:lastmodified":1509388666,
+    "wof:lastmodified":1564214574,
     "wof:name":"Swanlinbar",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",

@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballyferriter"
+    ],
     "name:eng_x_preferred":[
         "Ballyferriter"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0438\u0444\u0435\u0440\u0440\u0438\u0442\u0435\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u043b\u0438\u0444\u0435\u0440\u0440\u0438\u0442\u0435\u0440"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1242608433,
-    "wof:lastmodified":1537636758,
+    "wof:lastmodified":1564214906,
     "wof:name":"Ballyferriter",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

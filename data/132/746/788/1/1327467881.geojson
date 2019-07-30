@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Corlat"
+    ],
+    "name:gle_x_preferred":[
+        "Corr Leacht"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1327467881,
-    "wof:lastmodified":1536627814,
+    "wof:lastmodified":1564213458,
     "wof:name":"Corlat",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

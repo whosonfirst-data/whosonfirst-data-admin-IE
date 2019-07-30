@@ -18,11 +18,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Clonmacnoise"
+    ],
+    "name:deu_x_preferred":[
+        "Clonmacnoise"
+    ],
     "name:eng_x_preferred":[
+        "Clonmacnoise"
+    ],
+    "name:eus_x_preferred":[
         "Clonmacnoise"
     ],
     "name:gle_x_preferred":[
         "Cluain Mnic N\u00f3is"
+    ],
+    "name:nor_x_preferred":[
+        "Clonmacnoise"
+    ],
+    "name:pol_x_preferred":[
+        "Clonmacnoise"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u043c\u0430\u043a\u043d\u043e\u0439\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Clonmacnoise"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u043c\u0430\u043a\u043d\u043e\u0439\u0441"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1125798037,
-    "wof:lastmodified":1509392709,
+    "wof:lastmodified":1564214826,
     "wof:name":"Clonmacnoise",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

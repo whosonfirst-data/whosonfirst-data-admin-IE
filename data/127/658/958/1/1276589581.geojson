@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Horse and Jockey"
+    ],
+    "name:gle_x_preferred":[
+        "An Marcach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u0441-\u044d\u043d\u0434-\u0414\u0436\u043e\u043a\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276589581,
-    "wof:lastmodified":1537564843,
+    "wof:lastmodified":1564213949,
     "wof:name":"Horse and Jockey",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

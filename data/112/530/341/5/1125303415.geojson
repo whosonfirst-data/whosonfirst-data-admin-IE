@@ -24,6 +24,9 @@
     "name:gle_x_preferred":[
         "Feadamair"
     ],
+    "name:spa_x_preferred":[
+        "Fedamore"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125303415,
-    "wof:lastmodified":1509387754,
+    "wof:lastmodified":1564214720,
     "wof:name":"Fedamore",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",

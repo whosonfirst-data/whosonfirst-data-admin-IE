@@ -26,11 +26,23 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ballymakeery"
+    ],
     "name:eng_x_preferred":[
         "Ballymakeery"
     ],
     "name:gle_x_preferred":[
         "Baile Mhic \u00cdre"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043c\u0430\u043a\u0438\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ballymakeery"
+    ],
+    "name:swe_x_preferred":[
+        "Ballymakeery"
     ],
     "name:und_x_variant":[
         "Ballymakeera"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1243484951,
-    "wof:lastmodified":1537636757,
+    "wof:lastmodified":1564214917,
     "wof:name":"Ballymakeery",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -26,11 +26,35 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grange"
+    ],
+    "name:deu_x_preferred":[
+        "Grange"
+    ],
     "name:eng_x_preferred":[
+        "Grange"
+    ],
+    "name:fra_x_preferred":[
         "Grange"
     ],
     "name:gle_x_preferred":[
         "An Ghr\u00e1inseach"
+    ],
+    "name:ita_x_preferred":[
+        "Grange"
+    ],
+    "name:nld_x_preferred":[
+        "Grange"
+    ],
+    "name:pol_x_preferred":[
+        "Grange"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0436"
+    ],
+    "name:swe_x_preferred":[
+        "Grange"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1193052693,
-    "wof:lastmodified":1537636737,
+    "wof:lastmodified":1564214217,
     "wof:name":"Grange",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

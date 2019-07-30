@@ -26,11 +26,35 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Silvermines"
+    ],
     "name:eng_x_preferred":[
+        "Silvermines"
+    ],
+    "name:eus_x_preferred":[
         "Silvermines"
     ],
     "name:gle_x_preferred":[
         "B\u00e9al \u00c1tha Gabhann"
+    ],
+    "name:nno_x_preferred":[
+        "Silvermines"
+    ],
+    "name:nor_x_preferred":[
+        "Silvermines"
+    ],
+    "name:pol_x_preferred":[
+        "Silvermines"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0432\u0435\u0440\u043c\u0430\u0439\u043d\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Silvermines"
+    ],
+    "name:swe_x_preferred":[
+        "Silvermines"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1309746839,
-    "wof:lastmodified":1537636721,
+    "wof:lastmodified":1564214538,
     "wof:name":"Silvermines",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

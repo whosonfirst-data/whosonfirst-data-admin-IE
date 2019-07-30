@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u044a\u043c\u043b\u0430\u0439\u043d"
+    ],
+    "name:deu_x_preferred":[
+        "Drumline"
+    ],
+    "name:ind_x_preferred":[
+        "Drumline"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Drumline",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1125320549,
-    "wof:lastmodified":1509388107,
+    "wof:lastmodified":1564214600,
     "wof:name":"Drumline",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

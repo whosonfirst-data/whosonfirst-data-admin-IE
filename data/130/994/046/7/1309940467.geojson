@@ -26,8 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raharney"
+    ],
+    "name:eus_x_preferred":[
+        "Raharney"
+    ],
     "name:gle_x_preferred":[
         "R\u00e1th Fhearna"
+    ],
+    "name:nld_x_preferred":[
+        "Raharney"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445\u0430\u0440\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Raharney"
+    ],
+    "name:swe_x_preferred":[
+        "Raharney"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309940467,
-    "wof:lastmodified":1537636724,
+    "wof:lastmodified":1564214517,
     "wof:name":"Raharney",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

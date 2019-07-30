@@ -26,6 +26,15 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Hurlers Cross"
+    ],
+    "name:gle_x_preferred":[
+        "Cros an Iom\u00e1na\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0451\u0440\u043b\u0435\u0440\u0441-\u041a\u0440\u043e\u0441\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243297801,
-    "wof:lastmodified":1537564843,
+    "wof:lastmodified":1564214995,
     "wof:name":"Hurlers Cross",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

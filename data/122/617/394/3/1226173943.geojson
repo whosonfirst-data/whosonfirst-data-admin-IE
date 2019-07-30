@@ -27,6 +27,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Tyholland"
+    ],
+    "name:gle_x_preferred":[
+        "Tigh Thalainn"
+    ],
     "name:und_x_variant":[
         "Tyholland",
         "Tyholland Bridge"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226173943,
-    "wof:lastmodified":1537636718,
+    "wof:lastmodified":1564215113,
     "wof:name":"Tyholland Bridge",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

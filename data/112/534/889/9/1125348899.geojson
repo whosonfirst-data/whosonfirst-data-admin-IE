@@ -16,6 +16,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043d\u043e\u0440\u043b\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:dan_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:deu_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:eus_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:fra_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:ind_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:ita_x_preferred":[
+        "Stranorlar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u043d\u043e\u0440\u043b\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Stranorlar"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Stranorlar",
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1125348899,
-    "wof:lastmodified":1509388811,
+    "wof:lastmodified":1564214570,
     "wof:name":"Stranorlar",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",

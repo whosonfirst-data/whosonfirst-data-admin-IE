@@ -32,6 +32,9 @@
     "name:gle_x_preferred":[
         "Machaire Loiscthe"
     ],
+    "name:nor_x_preferred":[
+        "Rosapenna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343697565,
-    "wof:lastmodified":1537636771,
+    "wof:lastmodified":1564213632,
     "wof:name":"Rosapenna",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

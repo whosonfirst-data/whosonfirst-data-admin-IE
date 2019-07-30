@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Shankill"
+    ],
+    "name:slk_x_preferred":[
+        "Shankill"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Shankill",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1125384213,
-    "wof:lastmodified":1509389666,
+    "wof:lastmodified":1564214749,
     "wof:name":"Shankill",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",

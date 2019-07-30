@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Knockmore"
     ],
+    "name:eus_x_preferred":[
+        "Knockmore"
+    ],
     "name:gle_x_preferred":[
         "An Cnoc M\u00f3r"
+    ],
+    "name:gle_x_variant":[
+        "Cnoc M\u00f3r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276693225,
-    "wof:lastmodified":1537636731,
+    "wof:lastmodified":1564213930,
     "wof:name":"Knockmore",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

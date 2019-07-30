@@ -26,8 +26,14 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "An D\u00fachoraidh"
+    ],
     "name:eng_x_preferred":[
         "Doocharry"
+    ],
+    "name:eus_x_preferred":[
+        "An D\u00fachoraidh"
     ],
     "name:gle_x_preferred":[
         "An D\u00fachoraidh"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276908697,
-    "wof:lastmodified":1537636744,
+    "wof:lastmodified":1564213990,
     "wof:name":"Doochary",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

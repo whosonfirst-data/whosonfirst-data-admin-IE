@@ -16,6 +16,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Crossdoney"
+    ],
+    "name:fra_x_preferred":[
+        "Crossdoney"
+    ],
+    "name:gla_x_preferred":[
+        "Cros Domhnaigh"
+    ],
+    "name:gle_x_preferred":[
+        "Cros Domhnaigh"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Crossdoney",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1125295739,
-    "wof:lastmodified":1509387619,
+    "wof:lastmodified":1564214673,
     "wof:name":"Crossdoney",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",

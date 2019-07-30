@@ -26,8 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Carrowmore"
+    ],
+    "name:eus_x_preferred":[
+        "Carrowmore"
+    ],
+    "name:fin_x_preferred":[
+        "Carrowmore"
+    ],
     "name:gle_x_preferred":[
         "An Cheathr\u00fa Mh\u00f3r"
+    ],
+    "name:ita_x_preferred":[
+        "Carrowmore"
+    ],
+    "name:pol_x_preferred":[
+        "Carrowmore"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u043e\u0443\u043c\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Garrowmore",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1360022425,
-    "wof:lastmodified":1537636750,
+    "wof:lastmodified":1564214472,
     "wof:name":"Carrowmore",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:gle_x_preferred":[
+        "Ros Tiall\u00e1in"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Rostellan",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1125353247,
-    "wof:lastmodified":1530147515,
+    "wof:lastmodified":1564214586,
     "wof:name":"Rostellan",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

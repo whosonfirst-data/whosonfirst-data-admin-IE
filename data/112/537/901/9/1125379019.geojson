@@ -16,6 +16,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Castledermot"
+    ],
+    "name:ceb_x_preferred":[
+        "Castledermot"
+    ],
+    "name:deu_x_preferred":[
+        "Castledermot"
+    ],
+    "name:eus_x_preferred":[
+        "Castledermot"
+    ],
+    "name:fra_x_preferred":[
+        "Castledermot"
+    ],
+    "name:gle_x_preferred":[
+        "D\u00edseart Diarmada"
+    ],
+    "name:hun_x_preferred":[
+        "Castledermoti nagykeresztek"
+    ],
+    "name:ita_x_preferred":[
+        "Castledermot"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0434\u0435\u0440\u043c\u043e\u0442"
+    ],
+    "name:nor_x_preferred":[
+        "Castledermot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u043b\u0434\u0435\u0440\u043c\u0430\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Castledermot"
+    ],
+    "name:spa_x_preferred":[
+        "Castledermot"
+    ],
+    "name:swe_x_preferred":[
+        "Castledermot"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Castledermot",
@@ -61,7 +103,7 @@
         }
     ],
     "wof:id":1125379019,
-    "wof:lastmodified":1509389527,
+    "wof:lastmodified":1564214689,
     "wof:name":"Castledermot",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",

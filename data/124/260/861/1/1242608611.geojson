@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Killea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1242608611,
-    "wof:lastmodified":1537018278,
+    "wof:lastmodified":1564214906,
     "wof:name":"Killea",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

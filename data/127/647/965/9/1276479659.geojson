@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dysart"
+    ],
+    "name:deu_x_preferred":[
+        "Dysart"
+    ],
+    "name:fra_x_preferred":[
+        "Dysart"
+    ],
+    "name:swe_x_preferred":[
+        "Dysart"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1276479659,
-    "wof:lastmodified":1537076784,
+    "wof:lastmodified":1564213959,
     "wof:name":"Dysart",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

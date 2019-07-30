@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Tipperary"
     ],
+    "name:ceb_x_preferred":[
+        "Tipperary"
+    ],
     "name:cym_x_preferred":[
         "Tipperary"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "County Tipperary"
+    ],
+    "name:deu_x_variant":[
+        "Tipperary"
     ],
     "name:epo_x_preferred":[
         "Tipperary"
@@ -69,6 +75,9 @@
     "name:ita_x_preferred":[
         "Contea di Tipperary"
     ],
+    "name:kor_x_preferred":[
+        "\ud2f0\ud37c\ub808\ub9ac"
+    ],
     "name:lat_x_preferred":[
         "Comitatus Tiperariensis"
     ],
@@ -87,10 +96,22 @@
     "name:nob_x_preferred":[
         "Tipperary"
     ],
+    "name:pol_x_preferred":[
+        "Tipperary"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043f\u043f\u0435\u0440\u0435\u0440\u0438"
+    ],
     "name:sco_x_preferred":[
         "Coonty Tipperary"
     ],
     "name:slk_x_preferred":[
+        "Tipperary"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u043f\u0435\u0440\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
         "Tipperary"
     ],
     "name:tur_x_preferred":[
@@ -129,7 +150,7 @@
         }
     ],
     "wof:id":1159294375,
-    "wof:lastmodified":1561759895,
+    "wof:lastmodified":1564214832,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

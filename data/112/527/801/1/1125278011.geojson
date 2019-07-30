@@ -18,8 +18,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Islandeady"
+    ],
     "name:gle_x_preferred":[
         "Oile\u00e1n Eada\u00ed"
+    ],
+    "name:gle_x_variant":[
+        "Oile\u00e1n \u00c9ada\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10da\u10d4\u10dc\u10d3\u10d4\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043b\u0435\u043d\u0434\u0435\u0434\u0438"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1125278011,
-    "wof:lastmodified":1509387204,
+    "wof:lastmodified":1564214661,
     "wof:name":"Islandeady",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",

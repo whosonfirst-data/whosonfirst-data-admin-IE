@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Kilnamona"
+    ],
+    "name:por_x_preferred":[
+        "Kilnamona"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1125396231,
-    "wof:lastmodified":1509389957,
+    "wof:lastmodified":1564214738,
     "wof:name":"Kilnamona",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

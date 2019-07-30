@@ -27,6 +27,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Ballinamult"
+    ],
+    "name:fra_x_preferred":[
+        "Ballinamult"
+    ],
     "name:und_x_variant":[
         "Ballinamult",
         "Ballynamult"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344194413,
-    "wof:lastmodified":1537636756,
+    "wof:lastmodified":1564213643,
     "wof:name":"Ballynamult",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

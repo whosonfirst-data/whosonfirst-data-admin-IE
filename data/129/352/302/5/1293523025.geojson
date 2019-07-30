@@ -26,6 +26,27 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Killiney"
+    ],
+    "name:eus_x_preferred":[
+        "Killiney"
+    ],
+    "name:fra_x_preferred":[
+        "Killiney"
+    ],
+    "name:nld_x_preferred":[
+        "Killiney"
+    ],
+    "name:pol_x_preferred":[
+        "Killiney"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043b\u0438\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Killiney"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1293523025,
-    "wof:lastmodified":1536735937,
+    "wof:lastmodified":1564213735,
     "wof:name":"Killiney",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

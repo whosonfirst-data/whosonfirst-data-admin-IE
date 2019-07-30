@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Kilmeena"
+    ],
     "name:gle_x_preferred":[
         "Cill Mhiona"
+    ],
+    "name:gle_x_variant":[
+        "Cill Mh\u00edona"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0438\u043d\u0430"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1125367511,
-    "wof:lastmodified":1509389231,
+    "wof:lastmodified":1564214780,
     "wof:name":"Kilmeena",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",

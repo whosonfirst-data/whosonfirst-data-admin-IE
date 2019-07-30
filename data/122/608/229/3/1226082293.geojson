@@ -26,6 +26,33 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Whitefield"
+    ],
+    "name:ceb_x_preferred":[
+        "Whitefield"
+    ],
+    "name:deu_x_preferred":[
+        "Whitefield"
+    ],
+    "name:ita_x_preferred":[
+        "Whitefield"
+    ],
+    "name:nld_x_preferred":[
+        "Whitefield"
+    ],
+    "name:pol_x_preferred":[
+        "Whitefield"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0430\u0439\u0442\u0444\u0438\u043b\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Whitefield"
+    ],
+    "name:vol_x_preferred":[
+        "Whitefield"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1226082293,
-    "wof:lastmodified":1536672325,
+    "wof:lastmodified":1564215250,
     "wof:name":"Whitefield",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

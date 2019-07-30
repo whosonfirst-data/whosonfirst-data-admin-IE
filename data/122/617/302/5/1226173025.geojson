@@ -26,6 +26,9 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043f\u0430\u0445"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1226173025,
-    "wof:lastmodified":1537036871,
+    "wof:lastmodified":1564215113,
     "wof:name":"Cappagh",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

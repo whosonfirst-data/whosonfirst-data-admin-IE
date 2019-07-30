@@ -26,11 +26,26 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kilmacow"
+    ],
     "name:eng_x_preferred":[
+        "Kilmacow"
+    ],
+    "name:eus_x_preferred":[
         "Kilmacow"
     ],
     "name:gle_x_preferred":[
         "Cill Mhic Bh\u00faith"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043c\u0430\u043a\u043e\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Kilmacow"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmacow"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293623391,
-    "wof:lastmodified":1537636733,
+    "wof:lastmodified":1564213716,
     "wof:name":"Kilmacow",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

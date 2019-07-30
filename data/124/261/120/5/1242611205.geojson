@@ -26,6 +26,18 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Barnaderg"
+    ],
+    "name:gle_x_preferred":[
+        "Bearna Dhearg"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10dc\u10d0\u10d3\u10d4\u10e0\u10d2\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043d\u0430\u0434\u0435\u0440\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1242611205,
-    "wof:lastmodified":1537564849,
+    "wof:lastmodified":1564214897,
     "wof:name":"Barnaderg",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Glenamoy"
+    ],
     "name:gle_x_preferred":[
         "Gleann na Muaidhe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10d4\u10dc\u10d0\u10db\u10dd\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0435\u043d\u0430\u043c\u043e\u0439"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1125271189,
-    "wof:lastmodified":1509387024,
+    "wof:lastmodified":1564214658,
     "wof:name":"Glenamoy",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",

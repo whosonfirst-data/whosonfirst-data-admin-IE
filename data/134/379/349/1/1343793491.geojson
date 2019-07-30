@@ -26,6 +26,30 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tullyallen"
+    ],
+    "name:eus_x_preferred":[
+        "Tullyallen"
+    ],
+    "name:gle_x_preferred":[
+        "Tulaigh \u00c1lainn"
+    ],
+    "name:ita_x_preferred":[
+        "Tullyallen"
+    ],
+    "name:pol_x_preferred":[
+        "Tullyallen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u043b\u0438\u0430\u043b\u043b\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Tullyallen"
+    ],
+    "name:swe_x_preferred":[
+        "Tullyallen"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1343793491,
-    "wof:lastmodified":1537564837,
+    "wof:lastmodified":1564213580,
     "wof:name":"Tullyallen",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

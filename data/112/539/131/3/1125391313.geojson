@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Moyne"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Moyne",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1125391313,
-    "wof:lastmodified":1530147498,
+    "wof:lastmodified":1564214736,
     "wof:name":"Moyne",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",

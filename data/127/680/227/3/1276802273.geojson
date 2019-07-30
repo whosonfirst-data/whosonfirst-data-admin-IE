@@ -29,8 +29,23 @@
     "name:eng_x_preferred":[
         "Kilcolgan"
     ],
+    "name:eus_x_preferred":[
+        "Kilcolgan"
+    ],
     "name:gle_x_preferred":[
         "Cill Cholg\u00e1in"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d9\u10dd\u10da\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kilcolgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043b\u043a\u043e\u043b\u0433\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Kilcolgan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276802273,
-    "wof:lastmodified":1537636735,
+    "wof:lastmodified":1564213910,
     "wof:name":"Kilcolgan",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

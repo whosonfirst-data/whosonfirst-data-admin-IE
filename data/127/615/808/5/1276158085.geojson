@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Clarecastle"
     ],
+    "name:eus_x_preferred":[
+        "Clarecastle"
+    ],
+    "name:fra_x_preferred":[
+        "Clarecastle"
+    ],
     "name:gle_x_preferred":[
         "Dro\u00edchead an Chl\u00e1ir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u044d\u0440\u043a\u0430\u0441\u043b"
     ],
     "name:und_x_variant":[
         "Clare"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276158085,
-    "wof:lastmodified":1537636749,
+    "wof:lastmodified":1564213976,
     "wof:name":"Clarecastle",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

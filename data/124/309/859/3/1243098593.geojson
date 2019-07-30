@@ -26,6 +26,33 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nobber"
+    ],
+    "name:eus_x_preferred":[
+        "Nobber"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0628\u0631"
+    ],
+    "name:gla_x_preferred":[
+        "An Obair"
+    ],
+    "name:gle_x_preferred":[
+        "An Obair"
+    ],
+    "name:glv_x_preferred":[
+        "An Obair"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0431\u0431\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Nobber"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u4f2f"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1243098593,
-    "wof:lastmodified":1537564840,
+    "wof:lastmodified":1564214851,
     "wof:name":"Nobber",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

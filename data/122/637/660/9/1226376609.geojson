@@ -29,8 +29,17 @@
     "name:eng_x_preferred":[
         "Curraghboy"
     ],
+    "name:eus_x_preferred":[
+        "Curraghboy"
+    ],
     "name:gle_x_preferred":[
         "An Currach Bu\u00ed"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e0\u10d0\u10ee\u10d1\u10dd\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0440\u0430\u0431\u043e\u0439"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226376609,
-    "wof:lastmodified":1537636795,
+    "wof:lastmodified":1564215238,
     "wof:name":"Curraghboy",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -27,11 +27,29 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Omeath"
+    ],
     "name:eng_x_preferred":[
+        "Omeath"
+    ],
+    "name:eus_x_preferred":[
         "Omeath"
     ],
     "name:gle_x_preferred":[
         "\u00d3 M\u00e9ith"
+    ],
+    "name:pol_x_preferred":[
+        "Omeath"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Omeath"
+    ],
+    "name:swe_x_preferred":[
+        "Omeath"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1243008941,
-    "wof:lastmodified":1537636725,
+    "wof:lastmodified":1564214839,
     "wof:name":"Omeath",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

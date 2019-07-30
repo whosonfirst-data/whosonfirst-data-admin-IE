@@ -26,6 +26,12 @@
     "iso:country":"IE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gle_x_preferred":[
+        "Cuan Oisre"
+    ],
+    "name:swe_x_preferred":[
+        "Oysterhaven"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1226577271,
-    "wof:lastmodified":1536954212,
+    "wof:lastmodified":1564215168,
     "wof:name":"Oysterhaven",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

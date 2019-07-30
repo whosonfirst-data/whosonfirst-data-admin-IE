@@ -16,6 +16,45 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:ceb_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:deu_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:eus_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:fra_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:glg_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:ita_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:nld_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:pol_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:por_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u043d\u0435\u0433\u043e\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Kinnegad"
+    ],
+    "name:swe_x_preferred":[
+        "Kinnegad"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Kinnegad",
@@ -61,7 +100,7 @@
         }
     ],
     "wof:id":1125340027,
-    "wof:lastmodified":1509388631,
+    "wof:lastmodified":1564214576,
     "wof:name":"Kinnegad",
     "wof:parent_id":85685075,
     "wof:placetype":"localadmin",
