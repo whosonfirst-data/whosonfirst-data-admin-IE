@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WX"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Loch Garman"
     ],
@@ -344,7 +347,7 @@
         }
     ],
     "wof:id":85684967,
-    "wof:lastmodified":1563312707,
+    "wof:lastmodified":1565717000,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Chill Chainnigh"
     ],
@@ -379,7 +382,7 @@
         }
     ],
     "wof:id":85684979,
-    "wof:lastmodified":1563312762,
+    "wof:lastmodified":1565717012,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

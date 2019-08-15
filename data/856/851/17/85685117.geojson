@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Mhuineach\u00e1in"
     ],
@@ -343,7 +346,7 @@
         }
     ],
     "wof:id":85685117,
-    "wof:lastmodified":1563312686,
+    "wof:lastmodified":1565716989,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

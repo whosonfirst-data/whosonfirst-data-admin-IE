@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RN"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Ros Com\u00e1in"
     ],
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":85685113,
-    "wof:lastmodified":1563312693,
+    "wof:lastmodified":1565716993,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

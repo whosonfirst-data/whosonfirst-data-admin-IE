@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WH"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae na hIarmh\u00ed"
     ],
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":85685075,
-    "wof:lastmodified":1563312618,
+    "wof:lastmodified":1565716964,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

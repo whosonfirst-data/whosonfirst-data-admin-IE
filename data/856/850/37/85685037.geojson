@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae an Chl\u00e1ir"
     ],
@@ -348,7 +351,7 @@
         }
     ],
     "wof:id":85685037,
-    "wof:lastmodified":1563312625,
+    "wof:lastmodified":1565716968,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

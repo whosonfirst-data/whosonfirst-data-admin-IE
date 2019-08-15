@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LS"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Laoise"
     ],
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":85685005,
-    "wof:lastmodified":1563312611,
+    "wof:lastmodified":1565716959,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

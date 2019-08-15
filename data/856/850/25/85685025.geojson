@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Chill Dara"
     ],
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":85685025,
-    "wof:lastmodified":1563312652,
+    "wof:lastmodified":1565716974,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

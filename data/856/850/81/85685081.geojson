@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae na M\u00ed"
     ],
@@ -360,7 +363,7 @@
         }
     ],
     "wof:id":85685081,
-    "wof:lastmodified":1563312620,
+    "wof:lastmodified":1565716965,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

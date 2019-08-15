@@ -17,6 +17,9 @@
     "itu:country_code":[
         "353"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IRE"
+    ],
     "lbl:latitude":53.078731,
     "lbl:longitude":-7.798618,
     "mps:latitude":53.078731,
@@ -1386,9 +1389,6 @@
         }
     ],
     "wof:id":85633241,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "gle"
@@ -1397,7 +1397,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1563312701,
+    "wof:lastmodified":1565716996,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

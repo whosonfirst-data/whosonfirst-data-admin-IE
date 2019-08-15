@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DN"
+    ],
     "label:gle_x_preferred_longname":[
         "D\u00fan Laoghaire\u2013R\u00e1th an D\u00fain"
     ],
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":85685001,
-    "wof:lastmodified":1563312628,
+    "wof:lastmodified":1565716970,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

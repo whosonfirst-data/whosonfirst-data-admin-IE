@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LD"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae an Longfoirt"
     ],
@@ -345,7 +348,7 @@
         }
     ],
     "wof:id":85685091,
-    "wof:lastmodified":1563312624,
+    "wof:lastmodified":1565716967,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

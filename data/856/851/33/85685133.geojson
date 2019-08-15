@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LM"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Liatroma"
     ],
@@ -353,7 +356,7 @@
         }
     ],
     "wof:id":85685133,
-    "wof:lastmodified":1563312672,
+    "wof:lastmodified":1565716987,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

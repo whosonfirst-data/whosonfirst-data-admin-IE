@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LH"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae L\u00fa"
     ],
@@ -366,7 +369,7 @@
         }
     ],
     "wof:id":85685087,
-    "wof:lastmodified":1563312617,
+    "wof:lastmodified":1565716963,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

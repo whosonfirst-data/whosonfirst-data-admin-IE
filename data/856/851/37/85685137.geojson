@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "label:gle_x_preferred_longname":[
         "Contae Shligigh"
     ],
@@ -352,7 +355,7 @@
         }
     ],
     "wof:id":85685137,
-    "wof:lastmodified":1563312689,
+    "wof:lastmodified":1565716991,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

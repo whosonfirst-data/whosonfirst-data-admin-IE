@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DN"
+    ],
     "label:gle_x_preferred_longname":[
         "Baile \u00c1tha Cliath"
     ],
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":85685015,
-    "wof:lastmodified":1560988016,
+    "wof:lastmodified":1565716973,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
