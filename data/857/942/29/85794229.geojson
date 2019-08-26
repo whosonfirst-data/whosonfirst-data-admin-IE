@@ -14,6 +14,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.366436,
     "lbl:longitude":-6.201434,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.339134,
     "mps:longitude":-6.174813,
     "mz:hierarchy_label":1,
@@ -104,9 +105,6 @@
     "name:swe_x_preferred":[
         "Clontarf"
     ],
-    "name:unk_x_variant":[
-        "Clontarf"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0648\u0646\u0679\u0627\u0631\u0641"
     ],
@@ -136,9 +134,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2843,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         101751737,
@@ -149,7 +146,7 @@
     "wof:concordances":{
         "gn:id":2965339,
         "gp:id":560374,
-        "qs:id":906063,
+        "qs_pg:id":906063,
         "wd:id":"Q2328356",
         "wk:page":"Clontarf, Dublin"
     },
@@ -168,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563312606,
+    "wof:lastmodified":1566679512,
     "wof:name":"Clontarf",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

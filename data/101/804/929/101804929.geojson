@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.6975,
     "lbl:longitude":-7.613363,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.6975,
     "mps:longitude":-7.613363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u0434\u0436\u0443\u044a\u0440\u0442\u0441\u0442\u0430\u0443\u043d"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Edgeworthstown"
     ],
-    "name:unk_x_variant":[
-        "Mostrim"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Longford",
     "qs:a1r":"0",
@@ -82,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":607,
     "wof:belongsto":[
@@ -95,7 +95,7 @@
         "fct:id":"117f5da6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964434,
         "gp:id":20073308,
-        "qs:id":1208966,
+        "qs_pg:id":1208966,
         "wd:id":"Q2668583",
         "wk:page":"Edgeworthstown"
     },
@@ -113,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313509,
+    "wof:lastmodified":1566680106,
     "wof:name":"Edgeworthstown",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

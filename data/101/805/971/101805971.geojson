@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.786572,
     "lbl:longitude":-7.33534,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.786572,
     "mps:longitude":-7.33534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u0440\u0430\u0433\u0435\u0442"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":52.783333,
     "wd:longitude":-7.333333,
@@ -97,7 +100,7 @@
         "fct:id":"11800f12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966420,
         "gp:id":20072833,
-        "qs:id":491935,
+        "qs_pg:id":491935,
         "wd:id":"Q2119844",
         "wk:page":"Ballyragget"
     },
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313550,
+    "wof:lastmodified":1566680116,
     "wof:name":"Ballyragget",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

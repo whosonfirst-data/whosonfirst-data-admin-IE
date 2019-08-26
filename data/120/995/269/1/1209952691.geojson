@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.20778,53.56028,-6.16778,53.60028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209952691,
-    "wof:lastmodified":1536381869,
+    "wof:lastmodified":1566679898,
     "wof:name":"Cross of the Cage",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

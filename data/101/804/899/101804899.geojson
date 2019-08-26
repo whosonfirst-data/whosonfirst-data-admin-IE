@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.413848,
     "lbl:longitude":-6.830831,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.413848,
     "mps:longitude":-6.830831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043d\u0444\u0438\u0439\u043b\u0434"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Enfield"
     ],
-    "name:unk_x_variant":[
-        "Enfield"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
     "qs:a1r":"0",
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,6 @@
         "fct:id":"11801fb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964407,
         "gp:id":560807,
-        "qs:id":243294,
         "qs_pg:id":243294,
         "wd:id":"Q392078",
         "wk:page":"Enfield, County Meath"
@@ -121,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313507,
+    "wof:lastmodified":1566680105,
     "wof:name":"Innfield",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.85444,54.73361,-7.81444,54.77361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1276690145,
-    "wof:lastmodified":1536797781,
+    "wof:lastmodified":1566679799,
     "wof:name":"Taughboy",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

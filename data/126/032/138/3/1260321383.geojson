@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.96111,53.35361,-8.92111,53.39361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1260321383,
-    "wof:lastmodified":1536661102,
+    "wof:lastmodified":1566679992,
     "wof:name":"Cloghaun",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

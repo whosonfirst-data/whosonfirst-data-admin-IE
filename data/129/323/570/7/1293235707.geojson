@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.25861,53.29444,-9.21861,53.33444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Finisklin"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293235707,
-    "wof:lastmodified":1537636779,
+    "wof:lastmodified":1566679711,
     "wof:name":"Finisklin",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

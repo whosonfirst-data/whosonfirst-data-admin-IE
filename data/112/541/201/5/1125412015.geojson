@@ -9,14 +9,18 @@
     "geom:bbox":"-7.10056,53.21056,-7.10056,53.21056",
     "geom:latitude":53.21056,
     "geom:longitude":-7.10056,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-7.20056,53.11056,-7.00056,53.31056",
     "lbl:latitude":53.21056,
     "lbl:longitude":-7.10056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eus_x_preferred":[
         "Bracknagh"
@@ -30,7 +34,7 @@
     "name:spa_x_preferred":[
         "Bracknagh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brackagh"
     ],
     "qs_pg:aaroncc":"IE",
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20073671,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Offaly",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1125412015,
-    "wof:lastmodified":1564214822,
+    "wof:lastmodified":1566680305,
     "wof:name":"Bracknagh",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",

@@ -5,13 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":2208345.417974,
+    "geom:area_square_m":2208345.417972,
     "geom:bbox":"-6.30065917969,53.2701404005,-6.27868652344,53.2951621871",
     "geom:latitude":53.284966,
     "geom:longitude":-6.288611,
     "iso:country":"IE",
     "lbl:latitude":53.29109,
     "lbl:longitude":-6.287778,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.286451,
     "mps:longitude":-6.285116,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Willbrook"
-    ],
-    "name:unk_x_variant":[
         "Willbrook"
     ],
     "qs:gn_adm0_cc":"IE",
@@ -56,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751737,
@@ -82,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527269560,
+    "wof:lastmodified":1566679513,
     "wof:name":"Willbrook",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

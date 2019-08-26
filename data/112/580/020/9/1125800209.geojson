@@ -9,14 +9,18 @@
     "geom:bbox":"-8.48333,53.43333,-8.48333,53.43333",
     "geom:latitude":53.43333,
     "geom:longitude":-8.48333,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-8.50333,53.41333,-8.46333,53.45333",
     "lbl:latitude":53.43333,
     "lbl:longitude":-8.48333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Gallach"
@@ -42,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0431\u043b\u0435\u0439\u043a\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castleblakeny"
     ],
     "qs_pg:aaroncc":"IE",
@@ -62,7 +66,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":560206,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Galway",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125800209,
-    "wof:lastmodified":1561759885,
+    "wof:lastmodified":1566680229,
     "wof:name":"Castleblakeney",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

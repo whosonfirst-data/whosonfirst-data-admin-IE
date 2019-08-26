@@ -14,10 +14,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.859307,
     "lbl:longitude":-9.293848,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.859307,
     "mps:longitude":-9.293848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u043b\u0431\u0430\u0440"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2440,
     "wof:belongsto":[
@@ -170,7 +173,6 @@
         "gn:id":2965654,
         "gp:id":91477354,
         "loc:id":"n92025826",
-        "qs:id":1244061,
         "qs_pg:id":1244061,
         "wd:id":"Q749196",
         "wk:page":"Castlebar"
@@ -186,7 +188,7 @@
         }
     ],
     "wof:id":101805043,
-    "wof:lastmodified":1563313563,
+    "wof:lastmodified":1566680119,
     "wof:name":"Castlebar",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

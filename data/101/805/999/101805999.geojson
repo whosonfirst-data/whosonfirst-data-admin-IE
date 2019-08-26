@@ -9,17 +9,19 @@
     "geom:bbox":"-8.95634073894,52.5155487066,-8.92227053165,52.5354722403",
     "geom:latitude":52.523924,
     "geom:longitude":-8.941045,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1470,
-    "gn:population":1550,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":1470,
     "iso:country":"IE",
     "lbl:latitude":52.52258,
     "lbl:longitude":-8.943884,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.52258,
     "mps:longitude":-8.943884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u043a\u0435\u0430\u043b\u0435"
     ],
@@ -99,7 +101,7 @@
     "qs_pg:woe_id":562036,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":418,
     "wof:belongsto":[
@@ -111,7 +113,6 @@
     "wof:concordances":{
         "gn:id":2961905,
         "gp:id":562036,
-        "qs:id":1253031,
         "qs_pg:id":1253031,
         "wd:id":"Q1006749",
         "wk:page":"Rathkeale"
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":101805999,
-    "wof:lastmodified":1563313526,
+    "wof:lastmodified":1566680110,
     "wof:name":"Rathkeale",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.795513,
     "lbl:longitude":-7.682486,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.795513,
     "mps:longitude":-7.682486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0439\u0433\u043e\u0440\u0434\u043e\u043d"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":539,
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         "fct:id":"117c8e00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963292,
         "gp:id":20071961,
-        "qs:id":1001469,
+        "qs_pg:id":1001469,
         "wd:id":"Q6407922",
         "wk:page":"Killygordon"
     },
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313530,
+    "wof:lastmodified":1566680111,
     "wof:name":"Killygordan",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

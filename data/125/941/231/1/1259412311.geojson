@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.9075,54.17833,-6.8675,54.21833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bradox",
         "Braddocks"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259412311,
-    "wof:lastmodified":1537636753,
+    "wof:lastmodified":1566680419,
     "wof:name":"Braddocks",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

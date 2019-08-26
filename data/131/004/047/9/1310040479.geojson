@@ -24,8 +24,12 @@
     "gn:population":8015,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.14083,53.18444,-6.10083,53.22444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310040479,
-    "wof:lastmodified":1537087039,
+    "wof:lastmodified":1566680045,
     "wof:name":"Little Bray",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

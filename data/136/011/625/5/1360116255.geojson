@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.31194,51.83917,-9.27194,51.87917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1360116255,
-    "wof:lastmodified":1536900795,
+    "wof:lastmodified":1566680076,
     "wof:name":"Gortnaloughra",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

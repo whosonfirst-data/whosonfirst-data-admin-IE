@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.42344,51.459,-9.38344,51.499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sherkin Island"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260217799,
-    "wof:lastmodified":1564214282,
+    "wof:lastmodified":1566679986,
     "wof:name":"Sherkin Island",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

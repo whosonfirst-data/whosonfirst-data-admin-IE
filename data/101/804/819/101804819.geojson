@@ -12,10 +12,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.683225,
     "lbl:longitude":-9.644029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.683225,
     "mps:longitude":-9.644029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Cill Chaoi"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2095,
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,7 @@
         "fct:id":"117c19de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963400,
         "gp:id":20071402,
-        "qs:id":1198481,
+        "qs_pg:id":1198481,
         "wd:id":"Q1588602",
         "wk:page":"Kilkee"
     },
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313473,
+    "wof:lastmodified":1566680098,
     "wof:name":"Kilkee",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

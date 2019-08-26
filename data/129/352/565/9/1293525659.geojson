@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.2899,53.77603,-9.2499,53.81603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Errew"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293525659,
-    "wof:lastmodified":1564213734,
+    "wof:lastmodified":1566679694,
     "wof:name":"Errew",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

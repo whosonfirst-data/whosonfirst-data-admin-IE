@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.44528,53.83083,-9.40528,53.87083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0985\u0995\u09cd\u09b7\u09b0"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293129827,
-    "wof:lastmodified":1564213771,
+    "wof:lastmodified":1566679712,
     "wof:name":"Letter",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

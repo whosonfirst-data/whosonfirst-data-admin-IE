@@ -24,8 +24,12 @@
     "gn:population":7197,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.39778,53.33019,-6.35778,53.37019",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Palmerstown"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293134741,
-    "wof:lastmodified":1564213791,
+    "wof:lastmodified":1566679724,
     "wof:name":"Palmerstown",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

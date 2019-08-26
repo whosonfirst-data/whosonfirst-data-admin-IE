@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.06583,51.87528,-8.02583,51.91528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ladysbridge"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276696619,
-    "wof:lastmodified":1537636730,
+    "wof:lastmodified":1566679800,
     "wof:name":"Ladysbridge",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

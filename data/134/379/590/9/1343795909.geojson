@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.02,52.14667,-7.98,52.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1343795909,
-    "wof:lastmodified":1536760051,
+    "wof:lastmodified":1566679452,
     "wof:name":"Corgarve",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

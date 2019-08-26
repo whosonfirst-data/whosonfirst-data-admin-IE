@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.87194,52.60583,-7.83194,52.64583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3307463
     },
     "wof:country":"IE",
-    "wof:geomhash":"068fed170d23d9ef346a8461ea1ded24",
+    "wof:geomhash":"c60a23739385da8efe955a9f75521808",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209243353,
-    "wof:lastmodified":1536293247,
+    "wof:lastmodified":1566679879,
     "wof:name":"Galbertstown",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.851939999999999,
+    -7.85194,
     52.62583000000001,
-    -7.851939999999999,
+    -7.85194,
     52.62583000000001
 ],
   "geometry": {"coordinates":[-7.85194,52.62583000000001],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":548,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.74,52.65167,-7.7,52.69167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276693631,
-    "wof:lastmodified":1536793193,
+    "wof:lastmodified":1566679797,
     "wof:name":"Twomileborris",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

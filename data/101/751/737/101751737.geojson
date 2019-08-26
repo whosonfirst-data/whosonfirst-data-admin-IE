@@ -13,6 +13,8 @@
     "iso:country":"IE",
     "lbl:latitude":53.33928,
     "lbl:longitude":-6.281314,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":53.33928,
     "mps:longitude":-6.281314,
     "mz:hierarchy_label":1,
@@ -532,9 +534,6 @@
     "name:und_x_colloquial":[
         "Baile Atha Cliath"
     ],
-    "name:und_x_preferred":[
-        "Baile \u00c1tha Cliath"
-    ],
     "name:urd_x_preferred":[
         "\u0688\u0628\u0644\u0646"
     ],
@@ -691,7 +690,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -707,7 +706,6 @@
         "gn:id":2964574,
         "gp:id":560743,
         "nyt:id":"49033714685838749971",
-        "qs:id":780305,
         "qs_pg:id":780305,
         "wd:id":"Q1761",
         "wk:page":"Dublin"
@@ -729,7 +727,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313584,
+    "wof:lastmodified":1566680124,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":85685015,

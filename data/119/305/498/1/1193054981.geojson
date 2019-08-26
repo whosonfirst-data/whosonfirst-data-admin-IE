@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.45083,54.71722,-8.41083,54.75722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Aighe"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193054981,
-    "wof:lastmodified":1537636773,
+    "wof:lastmodified":1566679952,
     "wof:name":"Aighe",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

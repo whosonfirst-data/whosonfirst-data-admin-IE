@@ -24,8 +24,12 @@
     "gn:population":257,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.53389,52.12583,-8.49389,52.16583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Killavullen"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276479609,
-    "wof:lastmodified":1564213964,
+    "wof:lastmodified":1566679821,
     "wof:name":"Killavullen",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

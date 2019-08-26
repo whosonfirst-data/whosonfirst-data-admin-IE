@@ -24,8 +24,12 @@
     "gn:population":334,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.01833,52.25083,-6.97833,52.29083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cheekpoint"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360316361,
-    "wof:lastmodified":1564214426,
+    "wof:lastmodified":1566680066,
     "wof:name":"Cheekpoint",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

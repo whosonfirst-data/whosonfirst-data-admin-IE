@@ -25,8 +25,12 @@
     "gn:population":199,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.65158,53.60259,-7.61158,53.64259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Legan"
     ],
@@ -34,8 +38,7 @@
         "Legan"
     ],
     "name:und_x_variant":[
-        "Lenamore",
-        "Legan"
+        "Lenamore"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343889561,
-    "wof:lastmodified":1564213686,
+    "wof:lastmodified":1566679510,
     "wof:name":"Legan",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

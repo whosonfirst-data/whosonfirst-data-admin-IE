@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.769894,
     "lbl:longitude":-7.159675,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.769894,
     "mps:longitude":-7.159675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0443\u043b\u0434\u043a\u0430\u0441\u044a\u043b"
     ],
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,6 @@
         "fct:id":"117ddd50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962179,
         "gp:id":561908,
-        "qs:id":1336474,
         "qs_pg:id":1336474,
         "wd:id":"Q269623",
         "wk:page":"Oldcastle, County Meath"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313500,
+    "wof:lastmodified":1566680104,
     "wof:name":"Oldcastle",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

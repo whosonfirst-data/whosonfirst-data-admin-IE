@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.34889,52.83111,-7.30889,52.87111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3308047
     },
     "wof:country":"IE",
-    "wof:geomhash":"8f8f14ca7bf9e90eb63009e5e1b2268f",
+    "wof:geomhash":"132716df3d6efaaecc81665d54a799f2",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209139757,
-    "wof:lastmodified":1536296543,
+    "wof:lastmodified":1566679892,
     "wof:name":"Rosconnell Bridge",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.328889999999999,
+    -7.32889,
     52.85111,
-    -7.328889999999999,
+    -7.32889,
     52.85111
 ],
   "geometry": {"coordinates":[-7.32889,52.85111],"type":"Point"}

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":51.913304,
     "lbl:longitude":-8.175545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.913304,
     "mps:longitude":-8.175545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u0434\u044a\u043b\u0442\u044a\u043d"
     ],
@@ -99,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1441,
     "wof:belongsto":[
@@ -111,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2962630,
         "gp:id":91480398,
-        "qs:id":1040404,
         "qs_pg:id":1040404,
         "wd:id":"Q595619",
         "wk:page":"Midleton"
@@ -127,7 +129,7 @@
         }
     ],
     "wof:id":101805893,
-    "wof:lastmodified":1563313545,
+    "wof:lastmodified":1566680115,
     "wof:name":"Middleton",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":1414,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.63431,52.68908,-8.59431,52.72908",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "Castlebank"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243104131,
-    "wof:lastmodified":1537636761,
+    "wof:lastmodified":1566680397,
     "wof:name":"Ardnacrusha",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.63056,53.20444,-6.59056,53.24444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Furness"
     ],
@@ -55,8 +59,7 @@
         "Furness"
     ],
     "name:und_x_variant":[
-        "Forenaghts",
-        "Furness"
+        "Forenaghts"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u5185\u65af"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209452073,
-    "wof:lastmodified":1564214170,
+    "wof:lastmodified":1566679928,
     "wof:name":"Furness",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-6.37556,53.38806,-6.37556,53.38806",
     "geom:latitude":53.38806,
     "geom:longitude":-6.37556,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":16511,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-6.39556,53.36806,-6.35556,53.40806",
     "lbl:latitude":53.38806,
     "lbl:longitude":-6.37556,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Blanchardstown"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Blanchardstown"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Blachardstown"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +100,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":559956,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125834461,
-    "wof:lastmodified":1563313986,
+    "wof:lastmodified":1566680313,
     "wof:name":"Blanchardstown",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

@@ -9,15 +9,15 @@
     "geom:bbox":"-6.1962890625,53.3480088311,-6.13964249591,53.3783356035",
     "geom:latitude":53.362324,
     "geom:longitude":-6.169026,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
     "gn:latitude":53.36489,
     "gn:longitude":-6.18032,
-    "gn:population":5070,
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":53.366558,
     "lbl:longitude":-6.174828,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.3602,
     "mps:longitude":-6.169564,
     "mz:hierarchy_label":1,
@@ -58,9 +58,6 @@
         "\u0414\u043e\u043b\u043b\u0438\u043c\u0430\u0443\u043d\u0442"
     ],
     "name:swe_x_preferred":[
-        "Dollymount"
-    ],
-    "name:unk_x_variant":[
         "Dollymount"
     ],
     "qs:gn_adm0_cc":"IE",
@@ -109,10 +106,9 @@
     "qs_pg:woe_id":560634,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":436,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         101751737,
@@ -123,7 +119,6 @@
     "wof:concordances":{
         "gn:id":2964767,
         "gp:id":560634,
-        "qs:id":1080455,
         "qs_pg:id":1080455,
         "wd:id":"Q3776848",
         "wk:page":"Dollymount"
@@ -143,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563312607,
+    "wof:lastmodified":1566679512,
     "wof:name":"Dollymount",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":385,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.54801,52.40125,-6.50801,52.44125",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Oilgate"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243202687,
-    "wof:lastmodified":1537636725,
+    "wof:lastmodified":1566680386,
     "wof:name":"Oilgate",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

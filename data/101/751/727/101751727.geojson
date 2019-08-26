@@ -9,11 +9,13 @@
     "geom:bbox":"-8.5403015,51.857815,-8.3891115,51.923176",
     "geom:latitude":51.889829,
     "geom:longitude":-8.46569,
-    "gn:gn_country":null,
+    "gn:country":null,
     "gn:population":190384,
     "iso:country":"IE",
     "lbl:latitude":51.895477,
     "lbl:longitude":-8.479461,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":51.895477,
     "mps:longitude":-8.479461,
     "mz:hierarchy_label":1,
@@ -453,7 +455,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -467,7 +469,6 @@
         "gn:id":2965140,
         "gp:id":560472,
         "nyt:id":"38765460315562795521",
-        "qs:id":94276,
         "qs_pg:id":94276,
         "wd:id":"Q36647",
         "wk:page":"Cork (city)"
@@ -486,7 +487,7 @@
         }
     ],
     "wof:id":101751727,
-    "wof:lastmodified":1563313588,
+    "wof:lastmodified":1566680124,
     "wof:name":"Cork",
     "wof:parent_id":85684945,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.853931,
     "lbl:longitude":-6.541634,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.853931,
     "mps:longitude":-6.541634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0434\u0438"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1845,
     "wof:belongsto":[
@@ -114,7 +117,6 @@
     "wof:concordances":{
         "gn:id":2966925,
         "gp:id":559486,
-        "qs:id":976349,
         "qs_pg:id":976349,
         "wd:id":"Q638781",
         "wk:page":"Ardee"
@@ -130,7 +132,7 @@
         }
     ],
     "wof:id":101804911,
-    "wof:lastmodified":1563313509,
+    "wof:lastmodified":1566680106,
     "wof:name":"Ardee",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

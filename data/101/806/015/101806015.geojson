@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.106227,
     "lbl:longitude":-9.789865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.106227,
     "mps:longitude":-9.789865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Cill Orglan"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2683,
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         "fct:id":"118022f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963311,
         "gp:id":20072672,
-        "qs:id":1252381,
+        "qs_pg:id":1252381,
         "wd:id":"Q1669399",
         "wk:page":"Killorglin"
     },
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313598,
+    "wof:lastmodified":1566680127,
     "wof:name":"Killorglin",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

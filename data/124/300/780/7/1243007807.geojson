@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.78337,53.60076,-6.74337,53.64076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Churchtown"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243007807,
-    "wof:lastmodified":1564214848,
+    "wof:lastmodified":1566680323,
     "wof:name":"Churchtown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

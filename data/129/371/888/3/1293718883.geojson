@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.81028,53.39694,-6.77028,53.43694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1293718883,
-    "wof:lastmodified":1536951113,
+    "wof:lastmodified":1566679714,
     "wof:name":"Cloncurry",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

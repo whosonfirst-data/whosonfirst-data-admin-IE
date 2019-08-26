@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.73762,
     "lbl:longitude":-6.978993,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.73762,
     "mps:longitude":-6.978993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u0433\u0445\u043b\u0438\u043d\u0431\u0440\u0438\u0434\u0433\u0435"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":758,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"1180083c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962980,
         "gp:id":561516,
-        "qs:id":1253030,
         "qs_pg:id":1253030,
         "wd:id":"Q1959546",
         "wk:page":"Leighlinbridge"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313524,
+    "wof:lastmodified":1566680109,
     "wof:name":"Leighlinbridge",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

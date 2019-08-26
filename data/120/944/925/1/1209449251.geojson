@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.16694,53.37639,-8.12694,53.41639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3313393
     },
     "wof:country":"IE",
-    "wof:geomhash":"a19afbe35d90e68a69b7d77fb8df9af6",
+    "wof:geomhash":"bb5b69cae4b01502dbed592137ac791b",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209449251,
-    "wof:lastmodified":1536286722,
+    "wof:lastmodified":1566679932,
     "wof:name":"Tarloughmore",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.146939999999999,
+    -8.14694,
     53.39639,
-    -8.146939999999999,
+    -8.14694,
     53.39639
 ],
   "geometry": {"coordinates":[-8.14694,53.39639],"type":"Point"}

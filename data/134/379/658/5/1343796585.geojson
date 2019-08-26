@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.32611,53.17472,-6.28611,53.21472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Glencree"
     ],
@@ -37,8 +41,7 @@
         "Glencree"
     ],
     "name:und_x_variant":[
-        "Gleann Cr\u00edthigh",
-        "Glencree"
+        "Gleann Cr\u00edthigh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343796585,
-    "wof:lastmodified":1564213579,
+    "wof:lastmodified":1566679450,
     "wof:name":"Glencree",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

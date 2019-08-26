@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.33095,53.76723,-9.29095,53.80723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cooley"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209646597,
-    "wof:lastmodified":1564214048,
+    "wof:lastmodified":1566679867,
     "wof:name":"Cooley",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

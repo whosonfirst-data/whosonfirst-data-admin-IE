@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.24972,52.59139,-7.20972,52.63139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3302346
     },
     "wof:country":"IE",
-    "wof:geomhash":"b059d7d0b8c9b9db4a425e0b34802f2b",
+    "wof:geomhash":"5c0fce2f609461a0d2b3306ce6006560",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451567,
-    "wof:lastmodified":1536286656,
+    "wof:lastmodified":1566679926,
     "wof:name":"Wallslough",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.229719999999999,
+    -7.22972,
     52.61139,
-    -7.229719999999999,
+    -7.22972,
     52.61139
 ],
   "geometry": {"coordinates":[-7.22972,52.61139],"type":"Point"}

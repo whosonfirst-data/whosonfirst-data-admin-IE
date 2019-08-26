@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":51.829919,
     "lbl:longitude":-8.011702,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.829919,
     "mps:longitude":-8.011702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ballycotton"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":947,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         "fct:id":"117c2f14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966633,
         "gp:id":20071505,
-        "qs:id":248550,
+        "qs_pg:id":248550,
         "wd:id":"Q2418569",
         "wk:page":"Ballycotton"
     },
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313522,
+    "wof:lastmodified":1566680109,
     "wof:name":"Ballycottin",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.226687,
     "lbl:longitude":-8.878772,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":53.226687,
     "mps:longitude":-8.878772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clarinbridge"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":67,
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         "fct:id":"117ce436-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965466,
         "gp:id":20072391,
-        "qs:id":248743,
+        "qs_pg:id":248743,
         "wd:id":"Q2174714",
         "wk:page":"Clarinbridge"
     },
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313468,
+    "wof:lastmodified":1566680096,
     "wof:name":"Clarinbridge",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

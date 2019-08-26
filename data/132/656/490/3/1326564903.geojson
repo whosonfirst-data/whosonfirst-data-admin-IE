@@ -24,8 +24,12 @@
     "gn:population":791,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.04222,52.66111,-7.00222,52.70111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Paulstown"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1326564903,
-    "wof:lastmodified":1564213416,
+    "wof:lastmodified":1566679356,
     "wof:name":"Paulstown",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

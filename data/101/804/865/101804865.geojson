@@ -14,10 +14,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.520938,
     "lbl:longitude":-7.337426,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.520938,
     "mps:longitude":-7.337426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041c\u044a\u043b\u0438\u043d\u0433\u0430\u0440"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":4089,
     "wof:belongsto":[
@@ -169,10 +172,12 @@
     "wof:concordances":{
         "gn:id":2962361,
         "gp:id":561809,
-        "qs:id":1040402,
         "qs_pg:id":238465,
         "wd:id":"Q55308",
         "wk:page":"Mullingar"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1040402
     },
     "wof:country":"IE",
     "wof:geomhash":"35bc7b86fc1a7d6d00477cbc48fd7cb2",
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":101804865,
-    "wof:lastmodified":1563313504,
+    "wof:lastmodified":1566680104,
     "wof:name":"Mullingar",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

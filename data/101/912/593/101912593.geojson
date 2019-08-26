@@ -12,10 +12,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.262767,
     "lbl:longitude":-9.605239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.262767,
     "mps:longitude":-9.605239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "An Cheathr\u00fa Rua"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Carraroe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carrowroe"
     ],
     "qs:a0":"Ireland",
@@ -75,7 +78,7 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":2965746,
         "gp:id":29387430,
-        "qs:id":1065926,
+        "qs_pg:id":1065926,
         "wd:id":"Q482400"
     },
     "wof:country":"IE",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101912593,
-    "wof:lastmodified":1563313578,
+    "wof:lastmodified":1566680123,
     "wof:name":"Carraroe South",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

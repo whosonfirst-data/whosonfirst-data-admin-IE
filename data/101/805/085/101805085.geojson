@@ -9,17 +9,19 @@
     "geom:bbox":"-8.41734223493,54.7600013365,-8.40105408438,54.7736978164",
     "geom:latitude":54.764816,
     "geom:longitude":-8.409036,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2000,
-    "gn:population":731,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":2000,
     "iso:country":"IE",
     "lbl:latitude":54.764831,
     "lbl:longitude":-8.407678,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.764831,
     "mps:longitude":-8.407678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Ardara"
     ],
@@ -60,11 +62,7 @@
         "\u0410\u0440\u0434\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Ard an Ratha",
-        "Ard an R\u00e1tha"
-    ],
-    "name:unk_x_variant":[
-        "Ardarn"
+        "Ard an Ratha"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Donegal",
@@ -100,7 +98,7 @@
     "qs_pg:woe_id":559482,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -113,7 +111,6 @@
         "fct:id":"117ebc2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966935,
         "gp:id":559482,
-        "qs:id":1301736,
         "qs_pg:id":1301736,
         "wd:id":"Q638551",
         "wk:page":"Chepniers"
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313534,
+    "wof:lastmodified":1566680112,
     "wof:name":"Ardara",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

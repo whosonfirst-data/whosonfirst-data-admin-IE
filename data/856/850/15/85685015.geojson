@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.355217,
     "lbl:longitude":-6.278252,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.355217,
     "mps:longitude":-6.278252,
     "mz:hierarchy_label":1,
@@ -111,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":85685015,
-    "wof:lastmodified":1565716973,
+    "wof:lastmodified":1566679557,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

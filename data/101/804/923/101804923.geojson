@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.777905,
     "lbl:longitude":-7.495433,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.777905,
     "mps:longitude":-7.495433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0430\u0440\u0434"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1031,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2963902,
         "gp:id":561051,
-        "qs:id":304283,
         "qs_pg:id":304283,
         "wd:id":"Q946060",
         "wk:page":"Granard"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101804923,
-    "wof:lastmodified":1563313484,
+    "wof:lastmodified":1566680100,
     "wof:name":"Granard",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

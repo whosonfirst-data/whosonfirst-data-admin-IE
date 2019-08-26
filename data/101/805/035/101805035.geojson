@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.099036,
     "lbl:longitude":-9.319406,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.099036,
     "mps:longitude":-9.319406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Crossmolina"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":696,
     "wof:belongsto":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101805035,
-    "wof:lastmodified":1563313565,
+    "wof:lastmodified":1566680119,
     "wof:name":"Crossmolina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

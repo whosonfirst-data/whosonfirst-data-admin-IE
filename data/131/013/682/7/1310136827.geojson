@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.39031,52.48138,-9.35031,52.52138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Moyvane"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310136827,
-    "wof:lastmodified":1564214325,
+    "wof:lastmodified":1566680010,
     "wof:name":"Moyvane",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

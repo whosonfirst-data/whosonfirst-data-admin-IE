@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.83081,54.00952,-9.79081,54.04952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gortbrack South"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326866325,
-    "wof:lastmodified":1537636787,
+    "wof:lastmodified":1566679345,
     "wof:name":"Gortbrack South",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

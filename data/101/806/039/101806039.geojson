@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.798686,
     "lbl:longitude":-6.468261,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.798686,
     "mps:longitude":-6.468261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0438\u043d\u0430\u0445\u0435\u043b\u0439"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":808,
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         "fct:id":"117ea01e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2961204,
         "gp:id":20074550,
-        "qs:id":247377,
+        "qs_pg:id":247377,
         "wd:id":"Q1970360",
         "wk:page":"Tinahely"
     },
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313602,
+    "wof:lastmodified":1566680128,
     "wof:name":"Tinahely",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

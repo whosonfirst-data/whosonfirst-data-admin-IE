@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.640415,
     "lbl:longitude":-9.485395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.640415,
     "mps:longitude":-9.485395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Cill Rois"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2380,
     "wof:belongsto":[
@@ -96,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2963218,
         "gp:id":561375,
-        "qs:id":94267,
         "qs_pg:id":94267,
         "wd:id":"Q963894",
         "wk:page":"Kilrush"
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":101804817,
-    "wof:lastmodified":1563313472,
+    "wof:lastmodified":1566680097,
     "wof:name":"Kilrush",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

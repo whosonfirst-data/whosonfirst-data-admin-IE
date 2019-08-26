@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.78078,53.51163,-6.74078,53.55163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":9867004
     },
     "wof:country":"IE",
-    "wof:geomhash":"beb92da589478d2c7fc01a8d6560e160",
+    "wof:geomhash":"6b484e21892b2c9ae226e6470727a336",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451445,
-    "wof:lastmodified":1536286660,
+    "wof:lastmodified":1566679927,
     "wof:name":"Freffans Little",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.7607800000000005,
+    -6.76078,
     53.53163000000001,
-    -6.7607800000000005,
+    -6.76078,
     53.53163000000001
 ],
   "geometry": {"coordinates":[-6.76078,53.53163000000001],"type":"Point"}

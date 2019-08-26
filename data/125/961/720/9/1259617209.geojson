@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.78306,52.47889,-6.74306,52.51889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Rathnure"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259617209,
-    "wof:lastmodified":1564215074,
+    "wof:lastmodified":1566680438,
     "wof:name":"Rathnure",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.61763,53.82427,-9.57763,53.86427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ardkeen"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276804535,
-    "wof:lastmodified":1564213912,
+    "wof:lastmodified":1566679791,
     "wof:name":"Ardkeen",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

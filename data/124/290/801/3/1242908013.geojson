@@ -24,8 +24,12 @@
     "gn:population":187,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.20333,51.50639,-9.16333,51.54639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Castletownshend"
     ],
@@ -53,9 +57,6 @@
     "name:swe_x_preferred":[
         "Castletownshend"
     ],
-    "name:und_x_variant":[
-        "Castletownsend"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1242908013,
-    "wof:lastmodified":1564214966,
+    "wof:lastmodified":1566680382,
     "wof:name":"Castletownshend",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

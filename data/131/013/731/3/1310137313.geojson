@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.65806,52.56417,-7.61806,52.60417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Mardyke"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310137313,
-    "wof:lastmodified":1564214321,
+    "wof:lastmodified":1566680007,
     "wof:name":"Mardyke",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

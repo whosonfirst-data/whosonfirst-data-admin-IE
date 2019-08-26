@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.15742,53.90989,-9.11742,53.94989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longfield"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1293130387,
-    "wof:lastmodified":1564213785,
+    "wof:lastmodified":1566679721,
     "wof:name":"Longfield",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

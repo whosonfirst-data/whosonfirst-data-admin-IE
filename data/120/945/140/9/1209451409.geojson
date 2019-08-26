@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.60694,54.97056,-7.56694,55.01056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3307612
     },
     "wof:country":"IE",
-    "wof:geomhash":"79bc56e114826a442d66cb72850a48fc",
+    "wof:geomhash":"efee213fcb28f59c52aeece19f4604e2",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451409,
-    "wof:lastmodified":1536286661,
+    "wof:lastmodified":1566679929,
     "wof:name":"Ballybegly",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.5869399999999985,
+    -7.58694,
     54.99056,
-    -7.5869399999999985,
+    -7.58694,
     54.99056
 ],
   "geometry": {"coordinates":[-7.58694,54.99056],"type":"Point"}

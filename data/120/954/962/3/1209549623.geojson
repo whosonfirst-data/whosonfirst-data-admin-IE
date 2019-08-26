@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.18306,52.78611,-7.14306,52.82611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3302482
     },
     "wof:country":"IE",
-    "wof:geomhash":"6067bcdfd6dd39095a3805e5e70c68a6",
+    "wof:geomhash":"3959f7f0bb8216e64158a39e2376273f",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209549623,
-    "wof:lastmodified":1536283736,
+    "wof:lastmodified":1566679858,
     "wof:name":"Ryan's Cross Roads",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.1630600000000015,
+    -7.16306,
     52.80611,
-    -7.1630600000000015,
+    -7.16306,
     52.80611
 ],
   "geometry": {"coordinates":[-7.16306,52.80611],"type":"Point"}

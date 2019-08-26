@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.17321,53.69082,-7.13321,53.73082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gle_x_preferred":[
         "Gort L\u00f3na"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293624157,
-    "wof:lastmodified":1564213718,
+    "wof:lastmodified":1566679686,
     "wof:name":"Gortloney",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

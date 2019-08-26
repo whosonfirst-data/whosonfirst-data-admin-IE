@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.65333,52.81611,-6.61333,52.85611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Milltown"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1225875425,
-    "wof:lastmodified":1564215180,
+    "wof:lastmodified":1566680492,
     "wof:name":"Milltown",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

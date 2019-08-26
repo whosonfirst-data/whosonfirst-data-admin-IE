@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.544977,
     "lbl:longitude":-7.389659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.544977,
     "mps:longitude":-7.389659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Callan"
     ],
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
     "wof:concordances":{
         "gn:id":2965841,
         "gp:id":560093,
-        "qs:id":1336079,
         "qs_pg:id":1336079,
         "wd:id":"Q1027150",
         "wk:page":"Callan, County Kilkenny"
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":101805979,
-    "wof:lastmodified":1563313547,
+    "wof:lastmodified":1566680115,
     "wof:name":"Callan",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

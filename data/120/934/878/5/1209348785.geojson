@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.60944,52.36278,-9.56944,52.40278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209348785,
-    "wof:lastmodified":1536289818,
+    "wof:lastmodified":1566679919,
     "wof:name":"Ballyrechan Bridge",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-7.737518,
     "gn:population":410,
     "iso:country":"IE",
+    "lbl:bbox":"-7.757518,52.618912,-7.717518,52.658912",
     "lbl:latitude":52.638912,
     "lbl:longitude":-7.737518,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.638912,
     "mps:longitude":-7.737518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Littleton"
     ],
@@ -264,7 +268,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -276,7 +280,7 @@
     "wof:concordances":{
         "gn:id":2962852,
         "gp:id":561585,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4263896",
         "wk:page":"Sarrant"
     },
@@ -291,7 +295,7 @@
         }
     ],
     "wof:id":101853677,
-    "wof:lastmodified":1563313592,
+    "wof:lastmodified":1566680125,
     "wof:name":"Littleton",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

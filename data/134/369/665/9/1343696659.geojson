@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.92314,53.66712,-6.88314,53.70712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ballaghboy"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343696659,
-    "wof:lastmodified":1537636797,
+    "wof:lastmodified":1566679482,
     "wof:name":"Fordstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

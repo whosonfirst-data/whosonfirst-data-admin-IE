@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.48556,52.13611,-7.44556,52.17611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3301298
     },
     "wof:country":"IE",
-    "wof:geomhash":"0f0ae4213a63ac5a794dee150562599e",
+    "wof:geomhash":"238d5b6b657caa4dc7a52f3ca5b5b574",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209550337,
-    "wof:lastmodified":1536283715,
+    "wof:lastmodified":1566679871,
     "wof:name":"Drumlohan Cross Roads",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.465560000000001,
+    -7.46556,
     52.15611,
-    -7.465560000000001,
+    -7.46556,
     52.15611
 ],
   "geometry": {"coordinates":[-7.46556,52.15611],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.34111,53.10972,-7.30111,53.14972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bay Bridge"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243102139,
-    "wof:lastmodified":1564215005,
+    "wof:lastmodified":1566680400,
     "wof:name":"Bay Bridge",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

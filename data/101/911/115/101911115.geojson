@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
+    "geom:area_square_m":388430.265,
     "geom:bbox":"-6.09518692674,53.1093136933,-6.08136723626,53.1158210838",
     "geom:latitude":53.11292,
     "geom:longitude":-6.08916,
     "iso:country":"IE",
     "lbl:latitude":53.112227,
     "lbl:longitude":-6.090888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.112227,
     "mps:longitude":-6.090888,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Ireland",
     "qs:a1":"*Wicklow",
     "qs:a1r":"2",
@@ -30,7 +35,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -39,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29387372,
-        "qs:id":1025895,
         "qs_pg:id":1025895
     },
     "wof:country":"IE",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":101911115,
-    "wof:lastmodified":1497301554,
+    "wof:lastmodified":1566680129,
     "wof:name":"Kilpedder East",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

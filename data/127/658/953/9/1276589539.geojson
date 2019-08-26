@@ -24,8 +24,12 @@
     "gn:population":504,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.90047,53.34697,-8.86047,53.38697",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lackagh"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276589539,
-    "wof:lastmodified":1537636730,
+    "wof:lastmodified":1566679805,
     "wof:name":"Lackagh",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.659882,
     "lbl:longitude":-6.413291,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.659882,
     "mps:longitude":-6.413291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u043b\u0438\u0439\u043a"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":592,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"117ff27a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964558,
         "gp:id":560745,
-        "qs:id":1329448,
         "qs_pg:id":1329448,
         "wd:id":"Q765703",
         "wk:page":"Duleek"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313500,
+    "wof:lastmodified":1566680104,
     "wof:name":"Duleek",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

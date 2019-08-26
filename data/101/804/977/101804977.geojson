@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.00294,
     "lbl:longitude":-6.586637,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.00294,
     "mps:longitude":-6.586637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043d\u0438\u0441\u043a\u0435\u043d"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Inniskeen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iniskeen"
     ],
     "qs:a0":"Ireland",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":929,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
         "fct:id":"117ea35c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963640,
         "gp:id":561137,
-        "qs:id":1222653,
         "qs_pg:id":1222653,
         "wd:id":"Q955089",
         "wk:page":"Inniskeen"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313480,
+    "wof:lastmodified":1566680099,
     "wof:name":"Inishkeen",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

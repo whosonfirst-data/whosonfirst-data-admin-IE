@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.903216,
     "lbl:longitude":-8.584514,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.903216,
     "mps:longitude":-8.584514,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0433\u0445\u0430\u0434\u0435\u0440\u0435\u043d"
     ],
@@ -89,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":356,
     "wof:belongsto":[
@@ -102,7 +105,7 @@
         "fct:id":"117ff806-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966784,
         "gp:id":20073755,
-        "qs:id":1196924,
+        "qs_pg:id":1196924,
         "wd:id":"Q2119881",
         "wk:page":"Ballaghaderreen"
     },
@@ -120,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313462,
+    "wof:lastmodified":1566680095,
     "wof:name":"Ballaghaderreen",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

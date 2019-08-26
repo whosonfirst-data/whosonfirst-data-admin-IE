@@ -13,6 +13,8 @@
     "iso:country":"IE",
     "lbl:latitude":52.059294,
     "lbl:longitude":-9.50672,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.059294,
     "mps:longitude":-9.50672,
     "mz:hierarchy_label":1,
@@ -243,7 +245,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -257,7 +259,6 @@
         "gn:id":2963370,
         "gp:id":561280,
         "nyt:id":"N30413764257295603651",
-        "qs:id":1040391,
         "qs_pg:id":1040391,
         "wd:id":"Q623382",
         "wk:page":"Killarney"
@@ -273,7 +274,7 @@
         }
     ],
     "wof:id":101803613,
-    "wof:lastmodified":1563313520,
+    "wof:lastmodified":1566680108,
     "wof:name":"Killarney",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

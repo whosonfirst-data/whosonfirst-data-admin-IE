@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.67472,52.23083,-8.63472,52.27083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Spital"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1209042561,
-    "wof:lastmodified":1564214130,
+    "wof:lastmodified":1566679908,
     "wof:name":"Spital",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

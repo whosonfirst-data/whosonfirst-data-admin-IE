@@ -9,17 +9,19 @@
     "geom:bbox":"-8.98912856301,52.5852464461,-8.96036595958,52.6138682151",
     "geom:latitude":52.600519,
     "geom:longitude":-8.977493,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1149,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":52.601576,
     "lbl:longitude":-8.975314,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.601576,
     "mps:longitude":-8.975314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u043a\u0435\u0430\u0442\u043e\u043d"
     ],
@@ -102,7 +104,7 @@
     "qs_pg:woe_id":559517,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1710,
     "wof:belongsto":[
@@ -114,7 +116,6 @@
     "wof:concordances":{
         "gn:id":2966857,
         "gp:id":559517,
-        "qs:id":1249698,
         "qs_pg:id":1249698,
         "wd:id":"Q573460",
         "wk:page":"Askeaton"
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":101804731,
-    "wof:lastmodified":1563313467,
+    "wof:lastmodified":1566680096,
     "wof:name":"Askeaton",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.79333,52.25583,-9.75333,52.29583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Frogmore"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326660887,
-    "wof:lastmodified":1564213438,
+    "wof:lastmodified":1566679370,
     "wof:name":"Frogmore",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

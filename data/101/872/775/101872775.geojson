@@ -10,12 +10,16 @@
     "geom:latitude":55.021965,
     "geom:longitude":-8.31966,
     "iso:country":"IE",
+    "lbl:bbox":"-8.33966,55.001965,-8.29966,55.041965",
     "lbl:latitude":55.021965,
     "lbl:longitude":-8.31966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.021965,
     "mps:longitude":-8.31966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0430\u0433\u0440\u0439"
     ],
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":336,
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
         "fct:id":"117c7ca8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966989,
         "gp:id":20071879,
-        "qs:id":1311148,
+        "qs_pg:id":1311148,
         "wd:id":"Q2078132"
     },
     "wof:country":"IE",
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313458,
+    "wof:lastmodified":1566680094,
     "wof:name":"Annagary",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

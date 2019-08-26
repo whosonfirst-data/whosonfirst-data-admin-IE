@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.70194,54.03833,-7.66194,54.07833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Woodford"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1327064275,
-    "wof:lastmodified":1564213368,
+    "wof:lastmodified":1566679331,
     "wof:name":"Woodford",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

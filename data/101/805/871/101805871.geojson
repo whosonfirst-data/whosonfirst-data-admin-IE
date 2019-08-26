@@ -9,17 +9,19 @@
     "geom:bbox":"-7.32631519999,52.2846662985,-7.30845806424,52.2994040427",
     "geom:latitude":52.289942,
     "geom:longitude":-7.315745,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1696,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":52.289384,
     "lbl:longitude":-7.314865,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.289384,
     "mps:longitude":-7.314865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Portlaw"
     ],
@@ -84,7 +86,7 @@
     "qs_pg:woe_id":561969,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":409,
     "wof:belongsto":[
@@ -97,7 +99,6 @@
         "fct:id":"117e6072-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962025,
         "gp:id":561969,
-        "qs:id":1336492,
         "qs_pg:id":1336492,
         "wd:id":"Q2082363",
         "wk:page":"Portlaw"
@@ -116,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313562,
+    "wof:lastmodified":1566680119,
     "wof:name":"Portlaw",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

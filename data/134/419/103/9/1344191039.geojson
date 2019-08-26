@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.79639,53.24917,-7.75639,53.28917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Kilcolgan"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1344191039,
-    "wof:lastmodified":1564213641,
+    "wof:lastmodified":1566679484,
     "wof:name":"Kilcolgan",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

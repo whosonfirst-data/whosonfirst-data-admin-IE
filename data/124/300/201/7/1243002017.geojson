@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.49083,51.94639,-8.45083,51.98639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1243002017,
-    "wof:lastmodified":1536949721,
+    "wof:lastmodified":1566680323,
     "wof:name":"Coole West",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

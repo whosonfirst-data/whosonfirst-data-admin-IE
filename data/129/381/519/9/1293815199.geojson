@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-10.26222,51.82778,-10.22222,51.86778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reenroe"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293815199,
-    "wof:lastmodified":1537636723,
+    "wof:lastmodified":1566679760,
     "wof:name":"Reenroe",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

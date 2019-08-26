@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.68194,53.25694,-7.64194,53.29694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3313902
     },
     "wof:country":"IE",
-    "wof:geomhash":"c058b6ac57059273dee1d5dff8da4687",
+    "wof:geomhash":"f8c49f1011a37164742a507e1f7db19d",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209040505,
-    "wof:lastmodified":1536299561,
+    "wof:lastmodified":1566679911,
     "wof:name":"Ballincur",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.661939999999999,
+    -7.66194,
     53.27694,
-    -7.661939999999999,
+    -7.66194,
     53.27694
 ],
   "geometry": {"coordinates":[-7.66194,53.27694],"type":"Point"}

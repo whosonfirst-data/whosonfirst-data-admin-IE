@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":51.76677,
     "lbl:longitude":-8.655932,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.76677,
     "mps:longitude":-8.655932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043d\u0438\u0448\u0430\u043d\u043e\u043d"
     ],
@@ -53,9 +56,6 @@
     "name:swe_x_variant":[
         "Monkstown"
     ],
-    "name:unk_x_variant":[
-        "Innishannon"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
     "qs:a1r":"0",
@@ -70,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":486,
     "wof:belongsto":[
@@ -83,7 +83,7 @@
         "fct:id":"117c5584-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963669,
         "gp:id":20071695,
-        "qs:id":352179,
+        "qs_pg:id":352179,
         "wd:id":"Q4201085",
         "wk:page":"Innishannon"
     },
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313574,
+    "wof:lastmodified":1566680122,
     "wof:name":"Inishannon",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

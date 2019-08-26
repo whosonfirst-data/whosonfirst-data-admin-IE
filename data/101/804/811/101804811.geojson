@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.908814,
     "lbl:longitude":-8.53472,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.908814,
     "mps:longitude":-8.53472,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Scarriff"
     ],
@@ -65,9 +68,6 @@
     "name:swe_x_preferred":[
         "Scariff"
     ],
-    "name:unk_x_variant":[
-        "Scariff"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
     "qs:a1r":"0",
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1101,
     "wof:belongsto":[
@@ -97,7 +97,6 @@
         "fct:id":"11803adc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2961574,
         "gp:id":562183,
-        "qs:id":1142262,
         "qs_pg:id":1142262,
         "wd:id":"Q2668587",
         "wk:page":"Scarriff"
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313469,
+    "wof:lastmodified":1566680097,
     "wof:name":"Scarriff",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"IE",
     "lbl:latitude":52.663971,
     "lbl:longitude":-8.618035,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":52.663971,
     "mps:longitude":-8.618035,
     "mz:hierarchy_label":1,
@@ -381,7 +383,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":10.0,
     "wd:latitude":52.666667,
@@ -397,10 +399,12 @@
         "gn:id":2962943,
         "gp:id":561536,
         "loc:id":"nr2006026003",
-        "qs:id":352810,
-        "qs_pg:id":897868,
+        "qs_pg:id":352810,
         "wd:id":"Q133315",
         "wk:page":"Limerick"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":897868
     },
     "wof:country":"IE",
     "wof:geomhash":"130b27d8e84e3b286a83884c99f0a28b",
@@ -413,7 +417,7 @@
         }
     ],
     "wof:id":101751733,
-    "wof:lastmodified":1563313585,
+    "wof:lastmodified":1566680124,
     "wof:name":"Limerick",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

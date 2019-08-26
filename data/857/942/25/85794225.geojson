@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003769,
-    "geom:area_square_m":27771910.358027,
+    "geom:area_square_m":27771910.358028,
     "geom:bbox":"-6.26008133386,53.3833283046,-6.16156982422,53.4538994156",
     "geom:latitude":53.421682,
     "geom:longitude":-6.212446,
@@ -13,6 +13,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.403763,
     "lbl:longitude":-6.212709,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.413369,
     "mps:longitude":-6.207606,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:eng_x_preferred":[
-        "Clonshag Br."
-    ],
-    "name:unk_x_variant":[
         "Clonshag Br."
     ],
     "qs:gn_adm0_cc":"IE",
@@ -56,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101751737,
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":560372,
-        "qs:id":1078383
+        "qs_pg:id":1078383
     },
     "wof:country":"IE",
     "wof:geomhash":"51f1946bc5583733bc165644adf68d04",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530148451,
+    "wof:lastmodified":1566679513,
     "wof:name":"Clonshaugh",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

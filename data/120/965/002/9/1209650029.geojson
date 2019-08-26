@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.92056,53.23417,-6.88056,53.27417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3314658
     },
     "wof:country":"IE",
-    "wof:geomhash":"5788a3e8df40099d82a1d4e932c45153",
+    "wof:geomhash":"5a1beb7ec737de1ec0ad0dc568d9f4f0",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209650029,
-    "wof:lastmodified":1536280610,
+    "wof:lastmodified":1566679866,
     "wof:name":"Cloncumber",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.9005600000000005,
+    -6.90056,
     53.25417,
-    -6.9005600000000005,
+    -6.90056,
     53.25417
 ],
   "geometry": {"coordinates":[-6.90056,53.25417],"type":"Point"}

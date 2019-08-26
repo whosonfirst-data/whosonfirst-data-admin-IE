@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-10.07959,54.16902,-10.03959,54.20902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Drumreagh"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226682399,
-    "wof:lastmodified":1537636788,
+    "wof:lastmodified":1566680478,
     "wof:name":"Drumreagh",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

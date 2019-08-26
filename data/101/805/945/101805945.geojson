@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.348941,
     "lbl:longitude":-7.407837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.348941,
     "mps:longitude":-7.407837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Carraig na Si\u00faire"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":10.0,
     "wd:latitude":52.346509,
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":2965726,
         "gp:id":560149,
-        "qs:id":143045,
         "qs_pg:id":143045,
         "wd:id":"Q1003187",
         "wk:page":"Carrick-on-Suir"
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101805945,
-    "wof:lastmodified":1563313575,
+    "wof:lastmodified":1566680122,
     "wof:name":"Carrick-on-Suir",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

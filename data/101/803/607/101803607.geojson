@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.507551,
     "lbl:longitude":-6.572813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.507551,
     "mps:longitude":-6.572813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Inis C\u00f3rthaidh"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1967,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":2964403,
         "gp:id":560809,
-        "qs:id":143035,
         "qs_pg:id":143035,
         "wd:id":"Q987759",
         "wk:page":"Enniscorthy"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101803607,
-    "wof:lastmodified":1563313521,
+    "wof:lastmodified":1566680108,
     "wof:name":"Enniscorthy",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

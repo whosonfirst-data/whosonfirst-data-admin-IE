@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.68639,53.37028,-9.64639,53.41028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1360215779,
-    "wof:lastmodified":1536757337,
+    "wof:lastmodified":1566680084,
     "wof:name":"Derryrush",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

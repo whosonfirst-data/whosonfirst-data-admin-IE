@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.951921,
     "lbl:longitude":-8.360545,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.951921,
     "mps:longitude":-8.360545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u043d\u0433\u043b\u043e\u0443"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u0433\u043b\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "Dungloe"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Donegal",
     "qs:a1r":"0",
@@ -91,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":665,
     "wof:belongsto":[
@@ -104,7 +104,7 @@
         "fct:id":"117c870c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964524,
         "gp:id":20071926,
-        "qs:id":276413,
+        "qs_pg:id":276413,
         "wd:id":"Q1265808",
         "wk:page":"Dungloe"
     },
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313555,
+    "wof:lastmodified":1566680117,
     "wof:name":"Dunglow",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

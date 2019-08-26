@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-10.03583,53.55889,-9.99583,53.59889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Letter More"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293726139,
-    "wof:lastmodified":1537636785,
+    "wof:lastmodified":1566679769,
     "wof:name":"Letter More",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

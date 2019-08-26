@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.16482,53.59038,-7.12482,53.63038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1293136539,
-    "wof:lastmodified":1536796227,
+    "wof:lastmodified":1566679724,
     "wof:name":"Mooretown",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

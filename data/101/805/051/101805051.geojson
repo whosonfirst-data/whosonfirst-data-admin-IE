@@ -9,17 +9,19 @@
     "geom:bbox":"-9.23542966985,53.6141496406,-9.20503422441,53.6294288773",
     "geom:latitude":53.622229,
     "geom:longitude":-9.220178,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1707,
-    "gn:population":2704,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":1707,
     "iso:country":"IE",
     "lbl:latitude":53.623375,
     "lbl:longitude":-9.219142,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.623375,
     "mps:longitude":-9.219142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Baile an R\u00f3ba"
     ],
@@ -105,7 +107,7 @@
     "qs_pg:woe_id":559618,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2941,
     "wof:belongsto":[
@@ -118,7 +120,6 @@
         "fct:id":"11803816-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966715,
         "gp:id":559618,
-        "qs:id":976348,
         "qs_pg:id":976348,
         "wd:id":"Q805277",
         "wk:page":"Ballinrobe"
@@ -137,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313572,
+    "wof:lastmodified":1566680121,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

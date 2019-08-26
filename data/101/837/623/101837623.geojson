@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.23321,
     "lbl:longitude":-6.652599,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.23321,
     "mps:longitude":-6.652599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0633"
     ],
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2631,
     "wof:belongsto":[
@@ -165,10 +168,12 @@
     "wof:concordances":{
         "gn:id":2962334,
         "gp:id":561822,
-        "qs:id":1078456,
         "qs_pg:id":352811,
         "wd:id":"Q216038",
         "wk:page":"Naas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078456
     },
     "wof:country":"IE",
     "wof:geomhash":"4ff559ebfbb32311da4fa03c8321da2d",
@@ -181,7 +186,7 @@
         }
     ],
     "wof:id":101837623,
-    "wof:lastmodified":1563313597,
+    "wof:lastmodified":1566680126,
     "wof:name":"Naas",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

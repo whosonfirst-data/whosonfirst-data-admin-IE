@@ -9,17 +9,19 @@
     "geom:bbox":"-9.46102015984,51.6723454266,-9.42507073652,51.6905337796",
     "geom:latitude":51.680609,
     "geom:longitude":-9.443642,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3234,
-    "gn:population":3348,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":3234,
     "iso:country":"IE",
     "lbl:latitude":51.676542,
     "lbl:longitude":-9.440919,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.676542,
     "mps:longitude":-9.440919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Beanntra\u00ed"
     ],
@@ -133,7 +135,7 @@
     "qs_pg:woe_id":559853,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1584,
     "wof:belongsto":[
@@ -145,7 +147,6 @@
     "wof:concordances":{
         "gn:id":2966356,
         "gp:id":559853,
-        "qs:id":1040423,
         "qs_pg:id":1040423,
         "wd:id":"Q807001",
         "wk:page":"Bantry"
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":101805919,
-    "wof:lastmodified":1563313576,
+    "wof:lastmodified":1566680122,
     "wof:name":"Bantry",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

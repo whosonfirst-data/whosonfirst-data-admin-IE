@@ -9,17 +9,19 @@
     "geom:bbox":"-9.50984772306,52.4361438771,-9.4612289332,52.4642789203",
     "geom:latitude":52.44886,
     "geom:longitude":-9.483957,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4143,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
     "gn:population":4143,
     "iso:country":"IE",
     "lbl:latitude":52.449776,
     "lbl:longitude":-9.486048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":52.449776,
     "mps:longitude":-9.486048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0442\u043e\u0443\u044a\u043b"
     ],
@@ -132,7 +134,7 @@
     "qs_pg:woe_id":561581,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3856,
     "wof:belongsto":[
@@ -144,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2962864,
         "gp:id":561581,
-        "qs:id":1211238,
         "qs_pg:id":1211238,
         "wd:id":"Q996487",
         "wk:page":"Listowel"
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":101806025,
-    "wof:lastmodified":1563313599,
+    "wof:lastmodified":1566680127,
     "wof:name":"Listowel",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

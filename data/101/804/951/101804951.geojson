@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.299912,
     "lbl:longitude":-8.748523,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.299912,
     "mps:longitude":-8.748523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Baile \u00c1tha an R\u00ed"
     ],
@@ -112,7 +115,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3175,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
         "gn:id":2966843,
         "gp:id":20072342,
         "nyt:id":"N61938164138713455041",
-        "qs:id":1110442,
+        "qs_pg:id":1110442,
         "wd:id":"Q755389",
         "wk:page":"Athenry"
     },
@@ -145,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313494,
+    "wof:lastmodified":1566680103,
     "wof:name":"Athenry",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

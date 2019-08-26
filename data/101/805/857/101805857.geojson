@@ -12,10 +12,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.04718,
     "lbl:longitude":-7.569847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.04718,
     "mps:longitude":-7.569847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "An Rinn"
     ],
@@ -46,9 +49,6 @@
     "name:swe_x_preferred":[
         "Ring"
     ],
-    "name:unk_x_variant":[
-        "Ring"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Waterford",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -74,7 +74,7 @@
         "fct:id":"117f7476-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2961814,
         "gp:id":20074229,
-        "qs:id":1189724,
+        "qs_pg:id":1189724,
         "wd:id":"Q798788",
         "wk:page":"Ring, County Waterford"
     },
@@ -92,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313539,
+    "wof:lastmodified":1566680113,
     "wof:name":"Ringville",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002522,
-    "geom:area_square_m":18585307.99949,
+    "geom:area_square_m":18585307.999491,
     "geom:bbox":"-6.35735107422,53.3833280524,-6.28143310547,53.4440829381",
     "geom:latitude":53.411732,
     "geom:longitude":-6.315773,
@@ -13,6 +13,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.397833,
     "lbl:longitude":-6.315834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.412019,
     "mps:longitude":-6.310021,
     "mz:hierarchy_label":1,
@@ -43,9 +44,6 @@
     "name:pol_x_preferred":[
         "Tingla"
     ],
-    "name:unk_x_variant":[
-        "Tinglas"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2964574,
@@ -72,7 +70,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -83,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":562362,
-        "qs:id":897861
+        "qs_pg:id":897861
     },
     "wof:country":"IE",
     "wof:geomhash":"83e6e05d1f2776370373a58323ff5ee5",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1530148451,
+    "wof:lastmodified":1566679513,
     "wof:name":"Tinglas",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

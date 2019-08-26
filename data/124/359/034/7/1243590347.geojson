@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.65972,52.67083,-6.61972,52.71083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Watch House Village"
     ],
@@ -34,8 +38,7 @@
         "\u0423\u043e\u0442\u0447-\u0425\u0430\u0443\u0441-\u0412\u0438\u043b\u043b\u0438\u0434\u0436"
     ],
     "name:und_x_variant":[
-        "Watch House",
-        "Watch House Village"
+        "Watch House"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243590347,
-    "wof:lastmodified":1564214929,
+    "wof:lastmodified":1566680363,
     "wof:name":"Watch House Village",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

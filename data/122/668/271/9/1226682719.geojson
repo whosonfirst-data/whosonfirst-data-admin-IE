@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.86056,54.55417,-7.82056,54.59417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Carn"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226682719,
-    "wof:lastmodified":1564215150,
+    "wof:lastmodified":1566680477,
     "wof:name":"Carn",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
