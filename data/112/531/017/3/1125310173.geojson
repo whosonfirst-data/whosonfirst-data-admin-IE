@@ -9,15 +9,18 @@
     "geom:bbox":"-7.74472,52.26444,-7.74472,52.26444",
     "geom:latitude":52.26444,
     "geom:longitude":-7.74472,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":132,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-7.84472,52.16444,-7.64472,52.36444",
     "lbl:latitude":52.26444,
     "lbl:longitude":-7.74472,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Ballymacarbry"
@@ -31,7 +34,7 @@
     "name:swe_x_preferred":[
         "Ballymacarbry"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ballymacarbery"
     ],
     "qs_pg:aaroncc":"IE",
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20074128,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125310173,
-    "wof:lastmodified":1564214762,
+    "wof:lastmodified":1566680269,
     "wof:name":"Ballymacarbry",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",

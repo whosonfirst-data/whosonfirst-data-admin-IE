@@ -9,14 +9,17 @@
     "geom:bbox":"-6.50110096834,52.313378979,-6.44536681367,52.3621720474",
     "geom:latitude":52.334571,
     "geom:longitude":-6.472602,
-    "geonames:id":"2960964,7838931",
+    "gn:id":"2960964,7838931",
     "iso:country":"IE",
     "lbl:latitude":52.333953,
     "lbl:longitude":-6.47091,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.333953,
     "mps:longitude":-6.47091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0423\u044d\u043a\u0441\u0444\u0430\u0440\u0434"
     ],
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -166,7 +169,6 @@
     "wof:concordances":{
         "gn:id":7838931,
         "gp:id":562488,
-        "qs:id":1080465,
         "qs_pg:id":1080465,
         "wd:id":"Q209126"
     },
@@ -181,7 +183,7 @@
         }
     ],
     "wof:id":101805941,
-    "wof:lastmodified":1563313548,
+    "wof:lastmodified":1566680115,
     "wof:name":"Wexford",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

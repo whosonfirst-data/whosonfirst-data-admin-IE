@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.12528,52.6725,-7.08528,52.7125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Castlewarren"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360119185,
-    "wof:lastmodified":1564214450,
+    "wof:lastmodified":1566680078,
     "wof:name":"Castlewarren",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

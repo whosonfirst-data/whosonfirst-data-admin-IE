@@ -9,16 +9,19 @@
     "geom:bbox":"-8.63495715543,51.8772079202,-8.55254808661,51.8965006361",
     "geom:latitude":51.886392,
     "geom:longitude":-8.595334,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":51.887589,
     "lbl:longitude":-8.584409,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.887589,
     "mps:longitude":-8.584409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ballincollig"
     ],
@@ -98,7 +101,7 @@
     "qs_pg:woe_id":559594,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1448,
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,6 @@
         "fct:id":"117c2cf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966749,
         "gp:id":559594,
-        "qs:id":1072276,
         "qs_pg:id":1072276,
         "wd:id":"Q2528844",
         "wk:page":"Ballincollig"
@@ -129,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313524,
+    "wof:lastmodified":1566680110,
     "wof:name":"Ballincollig",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

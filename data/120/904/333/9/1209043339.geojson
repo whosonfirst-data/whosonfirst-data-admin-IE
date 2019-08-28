@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.19652,53.80212,-9.15652,53.84212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209043339,
-    "wof:lastmodified":1536299474,
+    "wof:lastmodified":1566679909,
     "wof:name":"Creaghanboy",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

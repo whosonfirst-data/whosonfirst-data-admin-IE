@@ -24,8 +24,12 @@
     "gn:population":339,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.04327,53.43245,-7.00327,53.47245",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clonard"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1209650143,
-    "wof:lastmodified":1564214041,
+    "wof:lastmodified":1566679863,
     "wof:name":"Clonard",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

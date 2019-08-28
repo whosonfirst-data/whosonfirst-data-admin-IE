@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.73694,53.26972,-6.69694,53.30972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3314707
     },
     "wof:country":"IE",
-    "wof:geomhash":"621d693b58704ea7f36076ec56237b21",
+    "wof:geomhash":"392a7f82ac0a6a88fe48da6f56349bbc",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209040489,
-    "wof:lastmodified":1536299561,
+    "wof:lastmodified":1566679907,
     "wof:name":"Firmount Cross Roads",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.716939999999999,
+    -6.71694,
     53.28972,
-    -6.716939999999999,
+    -6.71694,
     53.28972
 ],
   "geometry": {"coordinates":[-6.71694,53.28972],"type":"Point"}

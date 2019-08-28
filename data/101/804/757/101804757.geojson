@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.917857,
     "lbl:longitude":-7.342849,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.917857,
     "mps:longitude":-7.342849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u0431\u0456\u043b\u0435\u0439\u043a\u0441"
     ],
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":95.0,
     "wd:latitude":52.8992,
@@ -107,7 +110,7 @@
         "fct:id":"117fee38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2967092,
         "gp:id":20073009,
-        "qs:id":246082,
+        "qs_pg:id":246082,
         "wd:id":"Q1650406",
         "wk:page":"Abbeyleix"
     },
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313495,
+    "wof:lastmodified":1566680103,
     "wof:name":"Abbeyleix",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

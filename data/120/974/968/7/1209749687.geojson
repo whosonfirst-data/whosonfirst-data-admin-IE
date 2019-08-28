@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.09279,54.36511,-7.05279,54.40511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gle_x_preferred":[
         "Cill Eanaigh"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209749687,
-    "wof:lastmodified":1564214162,
+    "wof:lastmodified":1566679923,
     "wof:name":"Killanny",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

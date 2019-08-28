@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.001724,
     "lbl:longitude":-7.47252,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.001724,
     "mps:longitude":-7.47252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0443\u043d\u0442\u0440\u0430\u0442\u0445"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":877,
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         "fct:id":"11801bf6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962465,
         "gp:id":20073081,
-        "qs:id":1311075,
+        "qs_pg:id":1311075,
         "wd:id":"Q2083030",
         "wk:page":"Mountrath"
     },
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313464,
+    "wof:lastmodified":1566680096,
     "wof:name":"Mountrath",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

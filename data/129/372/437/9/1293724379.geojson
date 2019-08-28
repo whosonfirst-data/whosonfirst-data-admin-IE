@@ -24,8 +24,12 @@
     "gn:population":503,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.58667,53.46333,-8.54667,53.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Maigh Locha"
     ],
@@ -48,8 +52,7 @@
         "Moylough"
     ],
     "name:und_x_variant":[
-        "Newtown Bellew",
-        "Moylough"
+        "Newtown Bellew"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293724379,
-    "wof:lastmodified":1564213872,
+    "wof:lastmodified":1566679766,
     "wof:name":"Moylough",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"-8.95,53.95,-8.95,53.95",
     "geom:latitude":53.95,
     "geom:longitude":-8.95,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1241,
-    "gn:population":1435,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":1241,
     "iso:country":"IE",
+    "lbl:bbox":"-8.97,53.93,-8.93,53.97",
     "lbl:latitude":53.95,
     "lbl:longitude":-8.95,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "B\u00e9al \u00c1tha na Muice"
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Swinford"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Swineford"
     ],
     "qs_pg:aaroncc":"IE",
@@ -94,7 +97,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":562308,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1126010585,
-    "wof:lastmodified":1563313938,
+    "wof:lastmodified":1566680290,
     "wof:name":"Swinford",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.86778,52.25139,-8.82778,52.29139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327268609,
-    "wof:lastmodified":1536917918,
+    "wof:lastmodified":1566679405,
     "wof:name":"Cappanagoul",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

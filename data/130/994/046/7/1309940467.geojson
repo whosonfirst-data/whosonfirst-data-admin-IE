@@ -24,8 +24,12 @@
     "gn:population":227,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.11543,53.50374,-7.07543,53.54374",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Raharney"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1309940467,
-    "wof:lastmodified":1564214517,
+    "wof:lastmodified":1566680141,
     "wof:name":"Raharney",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

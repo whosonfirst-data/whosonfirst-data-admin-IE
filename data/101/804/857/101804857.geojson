@@ -9,14 +9,17 @@
     "geom:bbox":"-8.02301089403,53.3961365106,-7.88766183286,53.4405386438",
     "geom:latitude":53.424378,
     "geom:longitude":-7.940619,
-    "geonames:id":"2966839,3313472",
+    "gn:id":"2966839,3313472",
     "iso:country":"IE",
     "lbl:latitude":53.428516,
     "lbl:longitude":-7.940076,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.428516,
     "mps:longitude":-7.940076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Athlone"
     ],
@@ -134,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043b\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Baile \u00c1tha Luain"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u9686"
     ],
@@ -156,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":56.0,
     "wd:latitude":53.4333,
     "wd:longitude":-7.95,
@@ -170,9 +170,11 @@
     "wof:concordances":{
         "gn:id":2966839,
         "gp:id":559528,
-        "qs:id":4,
-        "qs_pg:id":1040434,
+        "qs_pg:id":4,
         "wd:id":"Q369911"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1040434
     },
     "wof:country":"IE",
     "wof:geomhash":"e3e1b74e8b3de459d7482b40d21563e5",
@@ -185,7 +187,7 @@
         }
     ],
     "wof:id":101804857,
-    "wof:lastmodified":1563313476,
+    "wof:lastmodified":1566680098,
     "wof:name":"Athlone",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":374,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.18556,51.84333,-8.14556,51.88333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u064a\u0646"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1327470439,
-    "wof:lastmodified":1564213447,
+    "wof:lastmodified":1566679376,
     "wof:name":"Saleen",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

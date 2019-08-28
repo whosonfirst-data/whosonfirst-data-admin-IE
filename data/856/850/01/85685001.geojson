@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.264462,
     "lbl:longitude":-6.20053,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.264462,
     "mps:longitude":-6.20053,
     "mz:hierarchy_label":1,
@@ -216,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241
@@ -239,7 +240,7 @@
         }
     ],
     "wof:id":85685001,
-    "wof:lastmodified":1565716970,
+    "wof:lastmodified":1566679531,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

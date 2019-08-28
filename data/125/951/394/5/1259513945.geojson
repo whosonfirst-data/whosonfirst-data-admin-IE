@@ -24,8 +24,12 @@
     "gn:population":1727,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.98111,53.51167,-6.94111,53.55167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ballivor"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1259513945,
-    "wof:lastmodified":1564215084,
+    "wof:lastmodified":1566680443,
     "wof:name":"Ballivor",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

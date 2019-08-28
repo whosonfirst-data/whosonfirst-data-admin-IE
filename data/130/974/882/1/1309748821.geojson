@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.31,52.28417,-9.27,52.32417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Knoppoge"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309748821,
-    "wof:lastmodified":1537636764,
+    "wof:lastmodified":1566680150,
     "wof:name":"Knoppoge",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

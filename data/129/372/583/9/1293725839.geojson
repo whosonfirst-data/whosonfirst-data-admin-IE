@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.80111,51.74306,-9.76111,51.78306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1293725839,
-    "wof:lastmodified":1536941334,
+    "wof:lastmodified":1566679772,
     "wof:name":"Croanshagh Bridge",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

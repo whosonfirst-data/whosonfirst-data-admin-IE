@@ -24,8 +24,12 @@
     "gn:population":186,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.79296,53.58747,-6.75296,53.62747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326761809,
-    "wof:lastmodified":1536653046,
+    "wof:lastmodified":1566679387,
     "wof:name":"Dunderry",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

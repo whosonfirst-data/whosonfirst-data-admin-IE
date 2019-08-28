@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-10.4,52.17056,-10.36,52.21056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gle_x_preferred":[
         "Baile ne nGall"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243297885,
-    "wof:lastmodified":1564214994,
+    "wof:lastmodified":1566680395,
     "wof:name":"Ballynagall",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

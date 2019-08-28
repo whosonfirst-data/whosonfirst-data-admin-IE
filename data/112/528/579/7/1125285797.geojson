@@ -9,15 +9,18 @@
     "geom:bbox":"-8.86694,52.81861,-8.86694,52.81861",
     "geom:latitude":52.81861,
     "geom:longitude":-8.86694,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":935,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-8.96694,52.71861,-8.76694,52.91861",
     "lbl:latitude":52.81861,
     "lbl:longitude":-8.86694,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Quin"
@@ -37,7 +40,7 @@
     "name:ron_x_preferred":[
         "Quin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quinn"
     ],
     "qs_pg:aaroncc":"IE",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20071459,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125285797,
-    "wof:lastmodified":1564214644,
+    "wof:lastmodified":1566680204,
     "wof:name":"Quin",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",

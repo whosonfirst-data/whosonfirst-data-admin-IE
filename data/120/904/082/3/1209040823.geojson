@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.095,52.9225,-6.055,52.9625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209040823,
-    "wof:lastmodified":1536299552,
+    "wof:lastmodified":1566679907,
     "wof:name":"Ballinteskin Cross Roads",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

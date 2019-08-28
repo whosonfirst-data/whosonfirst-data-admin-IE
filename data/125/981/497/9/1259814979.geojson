@@ -24,8 +24,12 @@
     "gn:population":299,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.0322,53.08557,-6.9922,53.12557",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kildangan"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1259814979,
-    "wof:lastmodified":1564215093,
+    "wof:lastmodified":1566680448,
     "wof:name":"Kildangan",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

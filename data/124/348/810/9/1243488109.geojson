@@ -24,8 +24,12 @@
     "gn:population":3821,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.25985,53.34597,-6.21985,53.38597",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Fairview"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1243488109,
-    "wof:lastmodified":1564214910,
+    "wof:lastmodified":1566680354,
     "wof:name":"Fairview",
     "wof:parent_id":85685015,
     "wof:placetype":"locality",

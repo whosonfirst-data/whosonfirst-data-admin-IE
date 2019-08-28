@@ -9,14 +9,18 @@
     "geom:bbox":"-7.92944,55.17806,-7.92944,55.17806",
     "geom:latitude":55.17806,
     "geom:longitude":-7.92944,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-7.94944,55.15806,-7.90944,55.19806",
     "lbl:latitude":55.17806,
     "lbl:longitude":-7.92944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Portnablagh"
@@ -33,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u043d\u0430\u0431\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Portnablahy"
     ],
     "qs_pg:aaroncc":"IE",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":23700799,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1125982873,
-    "wof:lastmodified":1561759889,
+    "wof:lastmodified":1566680284,
     "wof:name":"Portnablagh",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

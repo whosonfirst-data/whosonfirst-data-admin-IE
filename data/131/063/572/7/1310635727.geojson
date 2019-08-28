@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.34139,54.01667,-9.30139,54.05667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cum"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310635727,
-    "wof:lastmodified":1564214353,
+    "wof:lastmodified":1566680025,
     "wof:name":"Cum",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

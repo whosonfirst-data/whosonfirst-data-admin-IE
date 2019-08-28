@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":51.621724,
     "lbl:longitude":-8.896393,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.621724,
     "mps:longitude":-8.896393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0430\u043a\u0456\u043b\u0442\u044b"
     ],
@@ -117,7 +120,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2152,
     "wof:belongsto":[
@@ -129,7 +132,6 @@
     "wof:concordances":{
         "gn:id":2965402,
         "gp:id":91469450,
-        "qs:id":279364,
         "qs_pg:id":279364,
         "wd:id":"Q996703",
         "wk:page":"Clonakilty"
@@ -145,7 +147,7 @@
         }
     ],
     "wof:id":101805913,
-    "wof:lastmodified":1563313552,
+    "wof:lastmodified":1566680116,
     "wof:name":"Clonakilty",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

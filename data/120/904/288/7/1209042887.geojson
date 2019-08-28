@@ -24,8 +24,12 @@
     "gn:population":1326,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.13551,53.9607,-9.09551,54.0007",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u043e\u043a\u0441\u0444\u043e\u0440\u0434"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1209042887,
-    "wof:lastmodified":1564214128,
+    "wof:lastmodified":1566679907,
     "wof:name":"Foxford",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

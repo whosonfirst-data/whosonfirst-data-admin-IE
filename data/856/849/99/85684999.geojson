@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":52.984944,
     "lbl:longitude":-6.340102,
+    "lbl:min_zoom":8.0,
     "mps:latitude":52.984944,
     "mps:longitude":-6.340102,
     "mz:hierarchy_label":1,
@@ -211,7 +212,7 @@
         "Wicklow"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf  \u0bb5\u0bbf\u0b95\u0bcd\u0bb3\u0bbe"
+        "\u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf \u0bb5\u0bbf\u0b95\u0bcd\u0bb3\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c15\u0c4d\u0c32\u0c4b \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -227,9 +228,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043a\u043b\u043e\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Contae Chill Mhant\u00e1in"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0648\u06cc\u06a9\u0644\u0648"
@@ -312,9 +310,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-04-10",
+    "src:population_date":"2011-04-10",
     "statoids:area_km":"2,025",
     "statoids:area_mi":"782",
     "statoids:as_of_date":"2011-04-10",
@@ -353,11 +351,10 @@
         }
     ],
     "wof:id":85684999,
-    "wof:lastmodified":1565717009,
+    "wof:lastmodified":1566679648,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":136640,
     "wof:population_rank":9,

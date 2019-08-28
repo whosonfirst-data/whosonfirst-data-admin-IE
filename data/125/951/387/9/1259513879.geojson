@@ -24,8 +24,12 @@
     "gn:population":188,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.3207,53.87633,-8.2807,53.91633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259513879,
-    "wof:lastmodified":1536814535,
+    "wof:lastmodified":1566680446,
     "wof:name":"Ballinameen",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

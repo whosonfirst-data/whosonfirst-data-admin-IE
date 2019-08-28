@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.181925,
     "lbl:longitude":-8.488454,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.181925,
     "mps:longitude":-8.488454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Collooney"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":228,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"117e1b44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965248,
         "gp:id":560417,
-        "qs:id":246155,
         "qs_pg:id":246155,
         "wd:id":"Q2436580",
         "wk:page":"Collooney"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313561,
+    "wof:lastmodified":1566680119,
     "wof:name":"Collooney",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

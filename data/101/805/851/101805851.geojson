@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.656849,
     "lbl:longitude":-6.678985,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":53.656849,
     "mps:longitude":-6.678985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0641\u0627\u0646"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "An Uaimh"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0648\u06cc\u0646"
     ],
@@ -156,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -167,10 +167,12 @@
     "wof:concordances":{
         "gn:id":2962308,
         "gp:id":561828,
-        "qs:id":897856,
-        "qs_pg:id":1040401,
+        "qs_pg:id":897856,
         "wd:id":"Q217845",
         "wk:page":"Navan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1040401
     },
     "wof:country":"IE",
     "wof:geomhash":"eb11df5e5dd4c0fceee47535f8a96a22",
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101805851,
-    "wof:lastmodified":1563313542,
+    "wof:lastmodified":1566680114,
     "wof:name":"Navan",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

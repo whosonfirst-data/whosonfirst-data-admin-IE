@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.09062,
     "lbl:longitude":-8.516855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.09062,
     "mps:longitude":-8.516855,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043c\u043e\u0442\u0435"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":76.0,
     "wd:latitude":54.0896,
@@ -100,7 +103,6 @@
         "fct:id":"117e1702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966492,
         "gp:id":559767,
-        "qs:id":386445,
         "qs_pg:id":386445,
         "wd:id":"Q1899651",
         "wk:page":"Ballymote"
@@ -119,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313528,
+    "wof:lastmodified":1566680110,
     "wof:name":"Ballymote",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

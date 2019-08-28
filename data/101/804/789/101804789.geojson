@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.293519,
     "lbl:longitude":-6.686549,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.293519,
     "mps:longitude":-6.686549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u0439\u043d"
     ],
@@ -88,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1291,
     "wof:belongsto":[
@@ -101,7 +104,7 @@
         "fct:id":"117d30d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965484,
         "gp:id":20072758,
-        "qs:id":143042,
+        "qs_pg:id":143042,
         "wd:id":"Q632020",
         "wk:page":"Clane"
     },
@@ -119,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313514,
+    "wof:lastmodified":1566680107,
     "wof:name":"Clane",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

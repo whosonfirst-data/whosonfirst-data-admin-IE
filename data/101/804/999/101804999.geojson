@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.98962,
     "lbl:longitude":-7.36164,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.98962,
     "mps:longitude":-7.36164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "An Cabh\u00e1n"
     ],
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -164,10 +167,12 @@
     "wof:concordances":{
         "gn:id":2965535,
         "gp:id":560248,
-        "qs:id":1078374,
         "qs_pg:id":143043,
         "wd:id":"Q215361",
         "wk:page":"Cavan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1078374
     },
     "wof:country":"IE",
     "wof:geomhash":"b318bfa19602f81dc1f92e4c212dd364",
@@ -180,7 +185,7 @@
         }
     ],
     "wof:id":101804999,
-    "wof:lastmodified":1563313468,
+    "wof:lastmodified":1566680096,
     "wof:name":"Cavan",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

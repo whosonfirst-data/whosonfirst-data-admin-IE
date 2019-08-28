@@ -24,8 +24,12 @@
     "gn:population":1067,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.24972,51.81056,-8.20972,51.85056",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Whitegate"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293136417,
-    "wof:lastmodified":1564213791,
+    "wof:lastmodified":1566679724,
     "wof:name":"Whitegate",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

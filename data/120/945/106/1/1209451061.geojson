@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.66972,52.89694,-7.62972,52.93694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3313502
     },
     "wof:country":"IE",
-    "wof:geomhash":"6086ff62a802bf5989fe80b6570db991",
+    "wof:geomhash":"66b20413b932178828353e1e522758af",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451061,
-    "wof:lastmodified":1536286670,
+    "wof:lastmodified":1566679927,
     "wof:name":"Clonagooden",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.6497199999999985,
+    -7.64972,
     52.91694,
-    -7.6497199999999985,
+    -7.64972,
     52.91694
 ],
   "geometry": {"coordinates":[-7.64972,52.91694],"type":"Point"}

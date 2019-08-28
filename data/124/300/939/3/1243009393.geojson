@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.2675,53.01333,-9.2275,53.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1243009393,
-    "wof:lastmodified":1536939344,
+    "wof:lastmodified":1566680317,
     "wof:name":"Ballygastell",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

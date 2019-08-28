@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.93838,54.14551,-9.89838,54.18551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Loughnahelly"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209446281,
-    "wof:lastmodified":1537636795,
+    "wof:lastmodified":1566679930,
     "wof:name":"Loughnahelly",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",

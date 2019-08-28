@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.55528,52.16278,-9.51528,52.20278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "O\u2019Connell Bridge"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1343296439,
-    "wof:lastmodified":1564213657,
+    "wof:lastmodified":1566679494,
     "wof:name":"O'Connell Bridge",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

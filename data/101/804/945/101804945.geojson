@@ -9,16 +9,19 @@
     "geom:bbox":"-9.17836223248,53.2467465496,-9.14507462301,53.258899194",
     "geom:latitude":53.251815,
     "geom:longitude":-9.16294,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":53.25161,
     "lbl:longitude":-9.157644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.25161,
     "mps:longitude":-9.157644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bearna"
     ],
@@ -89,7 +92,7 @@
     "qs_pg:woe_id":559856,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":597,
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,6 @@
     "wof:concordances":{
         "gn:id":2966341,
         "gp:id":559856,
-        "qs:id":213732,
         "qs_pg:id":213732,
         "wd:id":"Q2311794",
         "wk:page":"Barna"
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101804945,
-    "wof:lastmodified":1563313513,
+    "wof:lastmodified":1566680107,
     "wof:name":"Barna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

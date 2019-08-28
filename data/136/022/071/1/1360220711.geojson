@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.36556,53.39611,-8.32556,53.43611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Kilglass"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360220711,
-    "wof:lastmodified":1564214413,
+    "wof:lastmodified":1566680059,
     "wof:name":"Kilglass",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

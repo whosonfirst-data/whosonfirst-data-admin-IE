@@ -9,14 +9,17 @@
     "geom:bbox":"-8.01938865757,53.6660040118,-7.96992530959,53.6822653767",
     "geom:latitude":53.674496,
     "geom:longitude":-7.989527,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"IE",
     "lbl:latitude":53.670463,
     "lbl:longitude":-7.98578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.670463,
     "mps:longitude":-7.98578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lanesborough"
     ],
@@ -49,9 +52,6 @@
     ],
     "name:swe_x_preferred":[
         "Lanesborough"
-    ],
-    "name:unk_x_variant":[
-        "Lanesborough-Ballyleague"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u06cc\u0633\u0628\u0631\u0648\u06af\u2013\u0628\u06cc\u0644\u06cc \u0644\u06cc\u06af"
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":101912797,
-    "wof:lastmodified":1563313578,
+    "wof:lastmodified":1566680122,
     "wof:name":"Ballyleague",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

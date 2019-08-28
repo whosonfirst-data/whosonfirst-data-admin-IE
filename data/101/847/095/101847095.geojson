@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.832888,
     "lbl:longitude":-7.483858,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.832888,
     "mps:longitude":-7.483858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Lifford"
     ],
@@ -138,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -149,10 +152,12 @@
     "wof:concordances":{
         "gn:id":2962945,
         "gp:id":561535,
-        "qs:id":1327408,
         "qs_pg:id":143032,
         "wd:id":"Q844546",
         "wk:page":"Lifford"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1327408
     },
     "wof:country":"IE",
     "wof:geomhash":"48293920a5701720d44c05c78f413df9",
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":101847095,
-    "wof:lastmodified":1563313589,
+    "wof:lastmodified":1566680124,
     "wof:name":"Lifford",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

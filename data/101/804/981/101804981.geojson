@@ -13,6 +13,8 @@
     "iso:country":"IE",
     "lbl:latitude":54.246504,
     "lbl:longitude":-6.969326,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.246504,
     "mps:longitude":-6.969326,
     "mz:hierarchy_label":1,
@@ -229,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -240,7 +242,6 @@
     "wof:concordances":{
         "gn:id":2962568,
         "gp:id":561718,
-        "qs:id":968362,
         "qs_pg:id":968362,
         "wd:id":"Q373901",
         "wk:page":"Monaghan"
@@ -256,7 +257,7 @@
         }
     ],
     "wof:id":101804981,
-    "wof:lastmodified":1563313517,
+    "wof:lastmodified":1566680108,
     "wof:name":"Monaghan",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

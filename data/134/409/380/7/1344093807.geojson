@@ -24,8 +24,12 @@
     "gn:population":297,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.68945,53.10222,-9.64945,53.14222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Cill R\u00f3n\u00e1in"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1344093807,
-    "wof:lastmodified":1564213572,
+    "wof:lastmodified":1566679446,
     "wof:name":"Kilronan",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

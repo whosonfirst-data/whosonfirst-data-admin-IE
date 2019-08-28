@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.140097,
     "lbl:longitude":-10.269162,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.140097,
     "mps:longitude":-10.269162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "An Daingean"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1942,
     "wof:belongsto":[
@@ -134,7 +137,7 @@
         "gn:id":2964782,
         "gp:id":20072631,
         "nyt:id":"49033817642847495291",
-        "qs:id":1110441,
+        "qs_pg:id":1110441,
         "wd:id":"Q932302",
         "wk:page":"Dingle"
     },
@@ -152,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313605,
+    "wof:lastmodified":1566680128,
     "wof:name":"Dingle",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

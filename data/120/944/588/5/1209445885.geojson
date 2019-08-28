@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.33028,53.84306,-6.29028,53.88306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633241
@@ -35,7 +39,7 @@
         "gn:id":3316436
     },
     "wof:country":"IE",
-    "wof:geomhash":"b93b2c6f19a13a95ad17f1a7135ae85d",
+    "wof:geomhash":"700606616d62a5e85c935b548a762671",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209445885,
-    "wof:lastmodified":1536286820,
+    "wof:lastmodified":1566679931,
     "wof:name":"Martin's Cross",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.3102800000000006,
+    -6.31028,
     53.86306,
-    -6.3102800000000006,
+    -6.31028,
     53.86306
 ],
   "geometry": {"coordinates":[-6.31028,53.86306],"type":"Point"}

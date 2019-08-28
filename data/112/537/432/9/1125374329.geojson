@@ -9,15 +9,18 @@
     "geom:bbox":"-8.65705,51.7654,-8.65705,51.7654",
     "geom:latitude":51.7654,
     "geom:longitude":-8.65705,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":767,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-8.75705,51.6654,-8.55705,51.8654",
     "lbl:latitude":51.7654,
     "lbl:longitude":-8.65705,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Inishannon"
@@ -25,7 +28,7 @@
     "name:gle_x_preferred":[
         "Inis Eon\u00e1in"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Innishannon"
     ],
     "qs_pg:aaroncc":"IE",
@@ -47,7 +50,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20071695,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125374329,
-    "wof:lastmodified":1509389416,
+    "wof:lastmodified":1566680241,
     "wof:name":"Inishannon",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.58861,52.95972,-7.54861,52.99972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243203637,
-    "wof:lastmodified":1537564846,
+    "wof:lastmodified":1566680384,
     "wof:name":"Coolrain",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

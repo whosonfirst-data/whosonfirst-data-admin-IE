@@ -24,8 +24,12 @@
     "gn:population":287,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.55333,53.56333,-7.51333,53.60333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ballynacarrigy"
     ],
@@ -50,9 +54,6 @@
     "name:swe_x_preferred":[
         "Ballynacarrigy"
     ],
-    "name:und_x_variant":[
-        "Ballynacargy"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1242607961,
-    "wof:lastmodified":1564214904,
+    "wof:lastmodified":1566680351,
     "wof:name":"Ballynacarrigy",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

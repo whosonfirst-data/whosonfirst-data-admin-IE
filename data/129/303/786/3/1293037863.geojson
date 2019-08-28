@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.23667,53.44667,-8.19667,53.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Thomas Street"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293037863,
-    "wof:lastmodified":1564213816,
+    "wof:lastmodified":1566679735,
     "wof:name":"Thomas Street",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

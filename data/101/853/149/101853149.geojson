@@ -11,12 +11,16 @@
     "geom:longitude":-6.716051,
     "gn:population":329,
     "iso:country":"IE",
+    "lbl:bbox":"-6.736051,52.42939,-6.696051,52.46939",
     "lbl:latitude":52.44939,
     "lbl:longitude":-6.716051,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.44939,
     "mps:longitude":-6.716051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clonroche"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":571,
     "wof:belongsto":[
@@ -70,7 +74,7 @@
         "fct:id":"117efce4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965343,
         "gp:id":560370,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4224074",
         "wk:page":"Clonroche"
     },
@@ -88,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313593,
+    "wof:lastmodified":1566680126,
     "wof:name":"Clonroche",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

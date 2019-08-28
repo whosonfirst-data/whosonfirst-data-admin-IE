@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.292886,
     "lbl:longitude":-6.5106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.292886,
     "mps:longitude":-6.5106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Vervins"
     ],
@@ -148,7 +151,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -159,7 +162,7 @@
     "wof:concordances":{
         "gn:id":2962281,
         "gp:id":561852,
-        "qs:id":1222742,
+        "qs_pg:id":1222742,
         "wk:page":"Vervins"
     },
     "wof:country":"IE",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101804763,
-    "wof:lastmodified":1564214480,
+    "wof:lastmodified":1566680094,
     "wof:name":"Newcastle",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

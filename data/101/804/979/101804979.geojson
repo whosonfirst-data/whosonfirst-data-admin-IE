@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.342593,
     "lbl:longitude":-6.95816,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.342593,
     "mps:longitude":-6.95816,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043c\u0439\u0432\u0430\u043b\u0435"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":334,
     "wof:belongsto":[
@@ -76,7 +79,6 @@
         "fct:id":"117ea58c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964408,
         "gp:id":560806,
-        "qs:id":1343817,
         "qs_pg:id":1343817,
         "wd:id":"Q955062",
         "wk:page":"Emyvale"
@@ -95,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313481,
+    "wof:lastmodified":1566680099,
     "wof:name":"Emyvale",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

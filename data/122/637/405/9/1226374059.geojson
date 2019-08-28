@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.13667,54.27167,-7.09667,54.31167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Sheskin"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226374059,
-    "wof:lastmodified":1564215246,
+    "wof:lastmodified":1566680528,
     "wof:name":"Sheskin",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

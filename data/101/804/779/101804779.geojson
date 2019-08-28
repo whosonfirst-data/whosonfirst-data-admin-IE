@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.142615,
     "lbl:longitude":-7.05849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.142615,
     "mps:longitude":-7.05849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0441\u0442\u0435\u0440\u0435\u0432\u0438\u043d"
     ],
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Monasterevin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monasterevan"
     ],
     "qs:a0":"Ireland",
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3002,
     "wof:belongsto":[
@@ -103,7 +106,6 @@
         "fct:id":"117d397c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962556,
         "gp:id":561725,
-        "qs:id":216261,
         "qs_pg:id":216261,
         "wd:id":"Q522012",
         "wk:page":"Monasterevin"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313488,
+    "wof:lastmodified":1566680101,
     "wof:name":"Monasterevin",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

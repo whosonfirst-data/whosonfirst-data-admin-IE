@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.762317,
     "lbl:longitude":-6.268158,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":53.762317,
     "mps:longitude":-6.268158,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Termonfeckin"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":903,
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         "fct:id":"117db028-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2961231,
         "gp:id":20073365,
-        "qs:id":334676,
+        "qs_pg:id":334676,
         "wd:id":"Q21103946",
         "wk:page":"Termonfeckin Castle"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313514,
+    "wof:lastmodified":1566680107,
     "wof:name":"Termonfeckin",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

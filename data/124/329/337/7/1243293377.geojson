@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.61278,54.99917,-7.57278,55.03917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fort Stewart"
     ],
@@ -64,8 +68,7 @@
         "\u0424\u043e\u0440\u0442 \u0421\u0442\u0458\u0443\u0430\u0440\u0442"
     ],
     "name:und_x_variant":[
-        "Fort Stewart House",
-        "Fort Stewart"
+        "Fort Stewart House"
     ],
     "name:vol_x_preferred":[
         "Fort Stewart"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1243293377,
-    "wof:lastmodified":1564214983,
+    "wof:lastmodified":1566680390,
     "wof:name":"Fort Stewart",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

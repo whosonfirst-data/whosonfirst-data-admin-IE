@@ -12,10 +12,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.129989,
     "lbl:longitude":-6.901118,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.129989,
     "mps:longitude":-6.901118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ballybay"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_variant":[
         "Ballymahon"
     ],
-    "name:unk_x_variant":[
-        "B\u00e9al \u00c1tha Beithe"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Monaghan",
     "qs:a1r":"0",
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":712,
     "wof:belongsto":[
         102191581,
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":101804987,
-    "wof:lastmodified":1563313511,
+    "wof:lastmodified":1566680106,
     "wof:name":"Ballybay",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

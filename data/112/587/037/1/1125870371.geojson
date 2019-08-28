@@ -9,15 +9,18 @@
     "geom:bbox":"-6.13586,53.29395,-6.13586,53.29395",
     "geom:latitude":53.29395,
     "geom:longitude":-6.13586,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":185400,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
     "gn:population":185400,
     "iso:country":"IE",
+    "lbl:bbox":"-6.15586,53.27395,-6.11586,53.31395",
     "lbl:latitude":53.29395,
     "lbl:longitude":-6.13586,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "D\u00fan Laoghaire"
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d \u041b\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kingstown"
     ],
     "name:urd_x_preferred":[
@@ -152,7 +155,7 @@
     "qs_pg:qs_id":143040,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1125870371,
-    "wof:lastmodified":1563313818,
+    "wof:lastmodified":1566680230,
     "wof:name":"D\u00fan Laoghaire",
     "wof:parent_id":85685001,
     "wof:placetype":"locality",

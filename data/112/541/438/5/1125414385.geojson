@@ -9,15 +9,18 @@
     "geom:bbox":"-6.65611,52.65528,-6.65611,52.65528",
     "geom:latitude":52.65528,
     "geom:longitude":-6.65611,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":2012,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-6.75611,52.55528,-6.55611,52.75528",
     "lbl:latitude":52.65528,
     "lbl:longitude":-6.65611,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_historical":[
         "Newtownbarry",
@@ -33,7 +36,7 @@
     "name:gle_x_preferred":[
         "Bun Cl\u00f3idi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bunclody-Carrickduff"
     ],
     "qs_pg:aaroncc":"IE",
@@ -57,7 +60,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20074445,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125414385,
-    "wof:lastmodified":1509390336,
+    "wof:lastmodified":1566680302,
     "wof:name":"Newtownbarry",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",

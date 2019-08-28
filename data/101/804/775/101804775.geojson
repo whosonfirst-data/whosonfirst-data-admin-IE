@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.752359,
     "lbl:longitude":-7.957155,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.752359,
     "mps:longitude":-7.957155,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u043b\u0435\u0438\u0433\u0445"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":880,
     "wof:belongsto":[
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2966054,
         "gp:id":559983,
-        "qs:id":1329432,
         "qs_pg:id":1329432,
         "wd:id":"Q4094719",
         "wk:page":"Borrisoleigh"
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101804775,
-    "wof:lastmodified":1563313510,
+    "wof:lastmodified":1566680106,
     "wof:name":"Borrisoleigh",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

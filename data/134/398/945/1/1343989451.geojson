@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.65333,53.88,-9.61333,53.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Maryland"
     ],
@@ -545,7 +549,7 @@
         }
     ],
     "wof:id":1343989451,
-    "wof:lastmodified":1564213531,
+    "wof:lastmodified":1566679422,
     "wof:name":"Maryland",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

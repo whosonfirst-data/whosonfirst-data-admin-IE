@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.14498,53.71346,-7.10498,53.75346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Newtown"
     ],
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":1259819479,
-    "wof:lastmodified":1564215096,
+    "wof:lastmodified":1566680450,
     "wof:name":"Newtown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":227,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.21658,55.10534,-7.17658,55.14534",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Quigley's Point"
     ],
@@ -42,8 +46,7 @@
         "Quigley's Point"
     ],
     "name:und_x_variant":[
-        "Quigley\u2019s Point",
-        "Quigleys Point"
+        "Quigley\u2019s Point"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209952585,
-    "wof:lastmodified":1564214111,
+    "wof:lastmodified":1566679898,
     "wof:name":"Quigley's Point",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

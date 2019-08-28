@@ -9,17 +9,19 @@
     "geom:bbox":"-8.59442918214,53.1879371319,-8.54537465698,53.2076892019",
     "geom:latitude":53.200457,
     "geom:longitude":-8.570074,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4296,
-    "gn:population":5062,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":4296,
     "iso:country":"IE",
     "lbl:latitude":53.202606,
     "lbl:longitude":-8.563969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":53.202606,
     "mps:longitude":-8.563969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0445\u0440\u0435\u0439"
     ],
@@ -120,7 +122,7 @@
     "qs_pg:woe_id":561605,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1039,
     "wof:belongsto":[
@@ -132,7 +134,6 @@
     "wof:concordances":{
         "gn:id":2962800,
         "gp:id":561605,
-        "qs:id":243323,
         "qs_pg:id":243323,
         "wd:id":"Q1025582",
         "wk:page":"Loughrea"
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":101804959,
-    "wof:lastmodified":1563313490,
+    "wof:lastmodified":1566680102,
     "wof:name":"Loughrea",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

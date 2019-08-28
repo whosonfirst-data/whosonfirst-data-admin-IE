@@ -25,8 +25,12 @@
     "gn:population":503,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.27937,54.07011,-6.23937,54.11011",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Omeath"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243008941,
-    "wof:lastmodified":1564214839,
+    "wof:lastmodified":1566680319,
     "wof:name":"Omeath",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

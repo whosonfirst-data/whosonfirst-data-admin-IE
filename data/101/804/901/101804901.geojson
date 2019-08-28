@@ -12,10 +12,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.628211,
     "lbl:longitude":-6.540156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":53.628211,
     "mps:longitude":-6.540156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kentstown"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":208,
     "wof:belongsto":[
         102191581,
@@ -73,10 +76,12 @@
     "wof:concordances":{
         "gn:id":7870969,
         "gp:id":29387383,
-        "qs:id":230223,
-        "qs_pg:id":972508,
+        "qs_pg:id":230223,
         "wd:id":"Q2081233",
         "wk:page":"Kentstown"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":972508
     },
     "wof:country":"IE",
     "wof:geomhash":"b703fb57ea5d082e09acbbc9ee660271",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101804901,
-    "wof:lastmodified":1563313463,
+    "wof:lastmodified":1566680095,
     "wof:name":"Kentstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

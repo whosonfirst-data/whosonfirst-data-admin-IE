@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.43944,54.16306,-8.39944,54.20306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1292935353,
-    "wof:lastmodified":1537083001,
+    "wof:lastmodified":1566679699,
     "wof:name":"Doonally",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

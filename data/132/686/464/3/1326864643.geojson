@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.625,52.96861,-6.585,53.00861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1326864643,
-    "wof:lastmodified":1537001292,
+    "wof:lastmodified":1566679344,
     "wof:name":"Kelsha Bridge",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

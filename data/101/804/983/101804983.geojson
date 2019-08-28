@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":54.181537,
     "lbl:longitude":-7.231749,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.181537,
     "mps:longitude":-7.231749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Clones"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":71.0,
     "wd:latitude":54.4,
@@ -103,7 +106,6 @@
         "fct:id":"117ea726-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965367,
         "gp:id":560354,
-        "qs:id":224774,
         "qs_pg:id":224774,
         "wd:id":"Q1102275",
         "wk:page":"Clones"
@@ -122,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313480,
+    "wof:lastmodified":1566680099,
     "wof:name":"Clones",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

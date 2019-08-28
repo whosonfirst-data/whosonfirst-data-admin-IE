@@ -24,8 +24,12 @@
     "gn:population":1084,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.06073,52.92497,-7.02073,52.96497",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ballylinan"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243399271,
-    "wof:lastmodified":1564214872,
+    "wof:lastmodified":1566680335,
     "wof:name":"Ballylinan",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

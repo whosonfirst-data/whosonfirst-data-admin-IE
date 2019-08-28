@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.353496,
     "lbl:longitude":-7.330017,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.353496,
     "mps:longitude":-7.330017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piltown"
     ],
@@ -44,9 +47,6 @@
     "name:swe_x_preferred":[
         "Piltown"
     ],
-    "name:unk_x_variant":[
-        "Pilltown"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kilkenny",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":501,
     "wof:belongsto":[
@@ -76,7 +76,6 @@
         "fct:id":"117d4ee4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2962045,
         "gp:id":561956,
-        "qs:id":1336490,
         "qs_pg:id":1336490,
         "wd:id":"Q3777986",
         "wk:page":"Piltown"
@@ -95,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313450,
+    "wof:lastmodified":1566680092,
     "wof:name":"Piltown",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

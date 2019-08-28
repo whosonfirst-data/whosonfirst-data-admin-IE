@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-10.10775,54.14911,-10.06775,54.18911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leam"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209946153,
-    "wof:lastmodified":1537636793,
+    "wof:lastmodified":1566679915,
     "wof:name":"Leam",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

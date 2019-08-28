@@ -9,17 +9,19 @@
     "geom:bbox":"-10.0297934545,53.4861407573,-10.0019056228,53.495099904",
     "geom:latitude":53.489955,
     "geom:longitude":-10.017613,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1929,
-    "gn:population":2056,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":1929,
     "iso:country":"IE",
     "lbl:latitude":53.490581,
     "lbl:longitude":-10.019726,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.490581,
     "mps:longitude":-10.019726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "An Cloch\u00e1n"
     ],
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":560309,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2118,
     "wof:belongsto":[
@@ -127,7 +129,6 @@
         "fct:id":"117ce49a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2965449,
         "gp:id":560309,
-        "qs:id":247450,
         "qs_pg:id":247450,
         "wd:id":"Q1024913",
         "wk:page":"Clifden"
@@ -146,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313481,
+    "wof:lastmodified":1566680100,
     "wof:name":"Clifden",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.71189,53.59446,-6.67189,53.63446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0644\u064a\u0627\u0645\u0632\u062a\u0627\u0648\u0646"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1242612123,
-    "wof:lastmodified":1564214900,
+    "wof:lastmodified":1566680349,
     "wof:name":"Williamstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

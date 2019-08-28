@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.837317,
     "lbl:longitude":-6.922522,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":52.837317,
     "mps:longitude":-6.922522,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Ceatharlach"
     ],
@@ -150,7 +153,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -162,10 +165,12 @@
         "gn:id":2966883,
         "gp:id":560128,
         "loc:id":"n82127945",
-        "qs:id":1040419,
-        "qs_pg:id":1336074,
+        "qs_pg:id":1040419,
         "wd:id":"Q211703",
         "wk:page":"Carlow"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1336074
     },
     "wof:country":"IE",
     "wof:geomhash":"2a04fc5322895589d62d94c0d1706396",
@@ -178,7 +183,7 @@
         }
     ],
     "wof:id":101805963,
-    "wof:lastmodified":1563313526,
+    "wof:lastmodified":1566680110,
     "wof:name":"Carlow",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

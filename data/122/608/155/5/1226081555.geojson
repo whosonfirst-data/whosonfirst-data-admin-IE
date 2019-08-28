@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-7.99056,53.11694,-7.95056,53.15694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1226081555,
-    "wof:lastmodified":1536673433,
+    "wof:lastmodified":1566680532,
     "wof:name":"Coolaghansglaster",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

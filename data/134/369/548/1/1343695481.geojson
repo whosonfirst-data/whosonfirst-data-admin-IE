@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.97611,54.0625,-6.93611,54.1025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Moyle"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343695481,
-    "wof:lastmodified":1564213640,
+    "wof:lastmodified":1566679484,
     "wof:name":"Moyle",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

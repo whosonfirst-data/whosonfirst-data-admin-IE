@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.03472,52.56639,-7.99472,52.60639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Victoria Bridge"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360221289,
-    "wof:lastmodified":1564214414,
+    "wof:lastmodified":1566680060,
     "wof:name":"Victoria Bridge",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

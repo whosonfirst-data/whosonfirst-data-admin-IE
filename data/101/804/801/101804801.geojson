@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.114967,
     "lbl:longitude":-9.149776,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":53.114967,
     "mps:longitude":-9.149776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blackhead Bay"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1045,
     "wof:belongsto":[
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":2966396,
         "gp:id":559830,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q805457"
     },
     "wof:country":"IE",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101804801,
-    "wof:lastmodified":1563313506,
+    "wof:lastmodified":1566680105,
     "wof:name":"Ballyvaughan",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

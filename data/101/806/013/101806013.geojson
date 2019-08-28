@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":51.883694,
     "lbl:longitude":-9.585456,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.883694,
     "mps:longitude":-9.585456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kenmare"
     ],
@@ -75,9 +78,6 @@
     "name:swe_x_variant":[
         "Carnew"
     ],
-    "name:unk_x_variant":[
-        "Kevmare"
-    ],
     "name:zho_x_preferred":[
         "\u80af\u6885\u723e"
     ],
@@ -95,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1835,
     "wof:belongsto":[
@@ -108,7 +108,7 @@
         "fct:id":"11801570-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963522,
         "gp:id":20072655,
-        "qs:id":217667,
+        "qs_pg:id":217667,
         "wd:id":"Q166232",
         "wk:page":"Kenmare"
     },
@@ -126,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313599,
+    "wof:lastmodified":1566680127,
     "wof:name":"Kenmare",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

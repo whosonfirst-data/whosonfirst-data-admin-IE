@@ -9,17 +9,19 @@
     "geom:bbox":"-8.51919740193,51.9781871492,-8.50813154663,51.9859741628",
     "geom:latitude":51.981784,
     "geom:longitude":-8.513751,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":573,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":51.981441,
     "lbl:longitude":-8.513667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":51.981441,
     "mps:longitude":-8.513667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Babelsberg"
     ],
@@ -114,7 +116,7 @@
     "qs_pg:woe_id":562493,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":46,
     "wof:belongsto":[
@@ -127,7 +129,6 @@
         "fct:id":"117f908c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2960956,
         "gp:id":562493,
-        "qs:id":354152,
         "qs_pg:id":354152,
         "wk:page":"Babelsberg"
     },
@@ -145,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564214490,
+    "wof:lastmodified":1566680121,
     "wof:name":"Whitechurch",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

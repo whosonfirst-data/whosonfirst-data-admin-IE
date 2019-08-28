@@ -13,8 +13,10 @@
     "gn:longitude":-6.16058,
     "gn:population":10038,
     "iso:country":"IE",
+    "lbl:bbox":"-6.159501,53.258523,-6.149501,53.268523",
     "lbl:latitude":53.263523,
     "lbl:longitude":-6.154501,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.225769,
     "mps:longitude":-6.166581,
     "mz:hierarchy_label":0,
@@ -72,9 +74,6 @@
     "name:swe_x_preferred":[
         "Cabinteely"
     ],
-    "name:unk_x_variant":[
-        "Cabinteely"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"L",
@@ -101,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1343,
     "wof:belongsto":[
@@ -116,7 +115,7 @@
     "wof:concordances":{
         "gn:id":2965882,
         "gp:id":560072,
-        "qs:id":1211234,
+        "qs_pg:id":1211234,
         "wd:id":"Q1024858",
         "wk:page":"Cabinteely"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563312606,
+    "wof:lastmodified":1566679512,
     "wof:name":"Cabinteely",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

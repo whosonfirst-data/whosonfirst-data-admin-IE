@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.068269,
     "lbl:longitude":-8.821343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":53.068269,
     "mps:longitude":-8.821343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0442"
     ],
@@ -94,7 +97,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":813,
     "wof:belongsto":[
@@ -107,7 +110,7 @@
         "fct:id":"117ced64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963958,
         "gp:id":20072436,
-        "qs:id":1110440,
+        "qs_pg:id":1110440,
         "wd:id":"Q1538454",
         "wk:page":"Gort"
     },
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313488,
+    "wof:lastmodified":1566680101,
     "wof:name":"Gort",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.676172,
     "lbl:longitude":-6.29477,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.676172,
     "mps:longitude":-6.29477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0438"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1172,
     "wof:belongsto":[
@@ -120,7 +123,6 @@
     "wof:concordances":{
         "gn:id":2963962,
         "gp:id":561004,
-        "qs:id":143033,
         "qs_pg:id":143033,
         "wd:id":"Q1004664",
         "wk:page":"Gorey"
@@ -136,7 +138,7 @@
         }
     ],
     "wof:id":101805933,
-    "wof:lastmodified":1563313556,
+    "wof:lastmodified":1566680118,
     "wof:name":"Gorey",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

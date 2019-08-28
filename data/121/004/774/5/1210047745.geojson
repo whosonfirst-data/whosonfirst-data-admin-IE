@@ -24,8 +24,12 @@
     "gn:population":5346,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.59806,53.18278,-6.55806,53.22278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Eadestown"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1210047745,
-    "wof:lastmodified":1564214195,
+    "wof:lastmodified":1566679941,
     "wof:name":"Eadestown",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

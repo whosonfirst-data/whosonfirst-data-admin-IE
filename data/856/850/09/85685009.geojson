@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":53.293352,
     "lbl:longitude":-6.436777,
+    "lbl:min_zoom":8.0,
     "mps:latitude":53.293352,
     "mps:longitude":-6.436777,
     "mz:hierarchy_label":1,
@@ -175,7 +176,7 @@
         "South Dublin"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b9f\u0bc2\u0baa\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9f\u0bc2\u0baa\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c21\u0c2c\u0c4d\u0c32\u0c3f\u0c28\u0c4d"
@@ -270,7 +271,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1198,
     "wof:belongsto":[
         102191581,
@@ -294,7 +295,7 @@
         }
     ],
     "wof:id":85685009,
-    "wof:lastmodified":1565716967,
+    "wof:lastmodified":1566679525,
     "wof:name":"South Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

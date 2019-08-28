@@ -13,6 +13,8 @@
     "iso:country":"IE",
     "lbl:latitude":52.701357,
     "lbl:longitude":-8.907781,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":52.701357,
     "mps:longitude":-8.907781,
     "mz:hierarchy_label":1,
@@ -234,7 +236,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -245,7 +247,6 @@
     "wof:concordances":{
         "gn:id":3310247,
         "gp:id":23406410,
-        "qs:id":274279,
         "qs_pg:id":274279,
         "wd:id":"Q611919",
         "wk:page":"Shannon, County Clare"
@@ -261,7 +262,7 @@
         }
     ],
     "wof:id":101804821,
-    "wof:lastmodified":1563313473,
+    "wof:lastmodified":1566680098,
     "wof:name":"Shannon",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

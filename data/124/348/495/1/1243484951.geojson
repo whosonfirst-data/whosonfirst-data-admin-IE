@@ -24,8 +24,12 @@
     "gn:population":425,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.15333,51.91333,-9.11333,51.95333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ballymakeery"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1243484951,
-    "wof:lastmodified":1564214917,
+    "wof:lastmodified":1566680358,
     "wof:name":"Ballymakeery",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":-9.467265,
     "gn:population":368,
     "iso:country":"IE",
+    "lbl:bbox":"-9.487265,52.078186,-9.447265,52.118186",
     "lbl:latitude":52.098186,
     "lbl:longitude":-9.467265,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":52.098186,
     "mps:longitude":-9.467265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kilcummin"
     ],
@@ -38,9 +42,6 @@
     "name:spa_x_preferred":[
         "Kilcummin"
     ],
-    "name:unk_x_variant":[
-        "Kilcummin Farmhill"
-    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kerry",
     "qs:a1r":"0",
@@ -57,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":436,
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         "fct:id":"117f3722-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2963440,
         "gp:id":20072658,
-        "qs:id":1158758
+        "qs_pg:id":1158758
     },
     "wof:country":"IE",
     "wof:geomhash":"57366a9ac9b4a6044fa7dfff13472553",
@@ -86,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564214491,
+    "wof:lastmodified":1566680124,
     "wof:name":"Kilcummin",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

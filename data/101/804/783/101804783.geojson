@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":53.180148,
     "lbl:longitude":-6.799884,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":53.180148,
     "mps:longitude":-6.799884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Newbridge"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0456\u0445\u0430\u0434-\u041d\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Droichead Nuadh"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2397,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2962290,
         "gp:id":560689,
-        "qs:id":900990,
         "qs_pg:id":900990,
         "wd:id":"Q958397",
         "wk:page":"Newbridge, County Kildare"
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101804783,
-    "wof:lastmodified":1563313486,
+    "wof:lastmodified":1566680101,
     "wof:name":"Newbridge",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

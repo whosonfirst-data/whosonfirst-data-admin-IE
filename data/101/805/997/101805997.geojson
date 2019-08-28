@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":52.519738,
     "lbl:longitude":-8.716615,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":52.519738,
     "mps:longitude":-8.716615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Croom"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +82,7 @@
         "fct:id":"117d8562-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2964999,
         "gp:id":20073172,
-        "qs:id":1103021,
+        "qs_pg:id":1103021,
         "wd:id":"Q2670286",
         "wk:page":"Croom, County Limerick"
     },
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313526,
+    "wof:lastmodified":1566680110,
     "wof:name":"Croom",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

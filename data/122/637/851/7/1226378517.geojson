@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-9.11521,53.75701,-9.07521,53.79701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Monard"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226378517,
-    "wof:lastmodified":1564215238,
+    "wof:lastmodified":1566680524,
     "wof:name":"Monard",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

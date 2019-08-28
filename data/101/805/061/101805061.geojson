@@ -13,10 +13,13 @@
     "iso:country":"IE",
     "lbl:latitude":55.277107,
     "lbl:longitude":-7.395133,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.277107,
     "mps:longitude":-7.395133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0439\u043b\u0438\u0444\u0438\u043d"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0456\u043b\u0456\u0444\u0444\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ballyliffen"
     ],
     "qs:a0":"Ireland",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":339,
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         "fct:id":"117c7ec4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966535,
         "gp:id":20071887,
-        "qs:id":1103003,
+        "qs_pg:id":1103003,
         "wd:id":"Q2078123",
         "wk:page":"Ballyliffin"
     },
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313566,
+    "wof:lastmodified":1566680120,
     "wof:name":"Ballyliffin",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

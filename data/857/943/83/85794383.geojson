@@ -9,15 +9,15 @@
     "geom:bbox":"-6.2324604212,53.3144673698,-6.17889125608,53.3422732873",
     "geom:latitude":53.328792,
     "geom:longitude":-6.205403,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
     "gn:latitude":53.335,
     "gn:longitude":-6.21139,
-    "gn:population":8967,
+    "gn:population":0,
     "iso:country":"IE",
     "lbl:latitude":53.331102,
     "lbl:longitude":-6.215674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.330872,
     "mps:longitude":-6.203235,
     "mz:hierarchy_label":1,
@@ -99,9 +99,6 @@
     "name:swe_x_preferred":[
         "Sandymount"
     ],
-    "name:unk_x_variant":[
-        "Sandymount"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0688\u06cc \u0645\u0627\u0624\u0646\u0679"
     ],
@@ -151,10 +148,9 @@
     "qs_pg:woe_id":562176,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1231,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191581,
         101751737,
@@ -165,7 +161,6 @@
     "wof:concordances":{
         "gn:id":2961589,
         "gp:id":562176,
-        "qs:id":889414,
         "qs_pg:id":889414,
         "wd:id":"Q966849",
         "wk:page":"Sandymount"
@@ -185,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563312610,
+    "wof:lastmodified":1566679513,
     "wof:name":"Sandymount",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

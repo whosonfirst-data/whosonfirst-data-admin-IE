@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-6.5225,53.38389,-6.4825,53.42389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327066609,
-    "wof:lastmodified":1536711297,
+    "wof:lastmodified":1566679326,
     "wof:name":"Milestown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":160,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.49514,52.19889,-8.45514,52.23889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Shanballymore"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1242904749,
-    "wof:lastmodified":1564214964,
+    "wof:lastmodified":1566680381,
     "wof:name":"Shanballymore",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

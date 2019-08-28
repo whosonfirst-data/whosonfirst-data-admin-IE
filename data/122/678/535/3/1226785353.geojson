@@ -24,8 +24,12 @@
     "gn:population":285,
     "gn:timezone":"Europe/Dublin",
     "iso:country":"IE",
+    "lbl:bbox":"-8.77116,53.66702,-8.73116,53.70702",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cloonfad"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226785353,
-    "wof:lastmodified":1564215221,
+    "wof:lastmodified":1566680515,
     "wof:name":"Cloonfad",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

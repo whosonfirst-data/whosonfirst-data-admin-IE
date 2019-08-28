@@ -10,12 +10,16 @@
     "geom:latitude":52.248039,
     "geom:longitude":-6.963338,
     "iso:country":"IE",
+    "lbl:bbox":"-6.983338,52.228039,-6.943338,52.268039",
     "lbl:latitude":52.248039,
     "lbl:longitude":-6.963338,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":52.248039,
     "mps:longitude":-6.963338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ballyhack"
     ],
@@ -56,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":510,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
         "fct:id":"117ecec2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2966574,
         "gp:id":20074366,
-        "qs:id":1103034,
+        "qs_pg:id":1103034,
         "wd:id":"Q4076809",
         "wk:page":"Ballyhack, County Wexford"
     },
@@ -86,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563313591,
+    "wof:lastmodified":1566680125,
     "wof:name":"Ballyhack",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

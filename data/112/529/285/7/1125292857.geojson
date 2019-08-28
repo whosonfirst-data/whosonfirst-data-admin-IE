@@ -9,14 +9,18 @@
     "geom:bbox":"-7.16361,53.29444,-7.16361,53.29444",
     "geom:latitude":53.29444,
     "geom:longitude":-7.16361,
-    "gn:gn_country":"IE",
-    "gn:gn_fcode":"PPLL",
-    "gn:gn_pop":0,
+    "gn:country":"IE",
+    "gn:fcode":"PPLL",
+    "gn:population":0,
     "iso:country":"IE",
+    "lbl:bbox":"-7.26361,53.19444,-7.06361,53.39444",
     "lbl:latitude":53.29444,
     "lbl:longitude":-7.16361,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Esker"
@@ -117,7 +121,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esker Bridge"
     ],
     "name:zho_x_preferred":[
@@ -144,7 +148,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":20073695,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Offaly",
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":1125292857,
-    "wof:lastmodified":1564214677,
+    "wof:lastmodified":1566680223,
     "wof:name":"Esker",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
