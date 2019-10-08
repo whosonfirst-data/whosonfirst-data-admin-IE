@@ -1,10 +1,12 @@
 {
   "id": 101804865,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ie",
+  "properties": {
+    "src:alt_label":"quattroshapes_pg",
     "src:geom":"quattroshapes_pg",
     "wof:geomhash":"44dd8956dc92e074938d15b91f2f56f1",
-    "wof:id":101804865
+    "wof:id":101804865,
+    "wof:repo":"whosonfirst-data-admin-ie"
 },
   "bbox": [
     -7.3423535,
