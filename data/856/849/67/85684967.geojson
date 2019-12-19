@@ -345,7 +345,15 @@
         }
     ],
     "wof:id":85684967,
-    "wof:lastmodified":1566679613,
+    "wof:lang_x_official":[
+        "eng",
+        "gle"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "gle"
+    ],
+    "wof:lastmodified":1576795651,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

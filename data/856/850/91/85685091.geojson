@@ -346,7 +346,15 @@
         }
     ],
     "wof:id":85685091,
-    "wof:lastmodified":1566679526,
+    "wof:lang_x_official":[
+        "eng",
+        "gle"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "gle"
+    ],
+    "wof:lastmodified":1576795699,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
