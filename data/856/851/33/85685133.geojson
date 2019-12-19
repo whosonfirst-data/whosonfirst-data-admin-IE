@@ -354,7 +354,15 @@
         }
     ],
     "wof:id":85685133,
-    "wof:lastmodified":1566679581,
+    "wof:lang_x_official":[
+        "eng",
+        "gle"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "gle"
+    ],
+    "wof:lastmodified":1576795723,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
