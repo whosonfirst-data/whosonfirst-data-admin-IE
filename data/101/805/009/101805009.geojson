@@ -101,6 +101,9 @@
         "wk:page":"Cootehill"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7acbf1167c879a847f3c2309c748801a",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101805009,
-    "wof:lastmodified":1566680114,
+    "wof:lastmodified":1582356307,
     "wof:name":"Cootehill",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

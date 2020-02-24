@@ -78,6 +78,9 @@
         "wk:page":"Freshford, County Kilkenny"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55bbd58815b860e718b7f3c1c7efffe1",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680122,
+    "wof:lastmodified":1582356307,
     "wof:name":"Freshford",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

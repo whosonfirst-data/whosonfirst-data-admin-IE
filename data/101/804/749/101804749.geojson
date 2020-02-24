@@ -179,6 +179,9 @@
         "wk:page":"Port Laoise"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"052e60aeff960e8815b68e2b91d68c5b",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101804749,
-    "wof:lastmodified":1566680100,
+    "wof:lastmodified":1582356305,
     "wof:name":"Portlaoise",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

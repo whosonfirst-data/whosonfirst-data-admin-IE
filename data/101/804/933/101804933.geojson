@@ -137,6 +137,9 @@
         "wk:page":"Ballinasloe"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8914e267a77c43e638ee8fc98ccea87",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101804933,
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1582356305,
     "wof:name":"Ballinasloe",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

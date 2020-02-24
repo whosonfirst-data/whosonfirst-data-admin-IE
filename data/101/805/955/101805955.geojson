@@ -182,6 +182,9 @@
         "wk:page":"Clonmel"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"85b209f3cee0d20d0f84786260ebfdd5",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101805955,
-    "wof:lastmodified":1566680110,
+    "wof:lastmodified":1582356306,
     "wof:name":"Clonmel",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

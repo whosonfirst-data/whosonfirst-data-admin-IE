@@ -79,6 +79,9 @@
         "wk:page":"Clonroche"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9cdf597411c10d9a015c530a4f327cc",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1582356308,
     "wof:name":"Clonroche",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Boyle, County Roscommon"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65d35f30b35236fc1ac4d8011205efe8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101804969,
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1582356305,
     "wof:name":"Boyle",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",

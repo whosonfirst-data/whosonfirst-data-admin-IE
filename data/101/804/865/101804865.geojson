@@ -180,6 +180,9 @@
         "qs_pg:id":1040402
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35bc7b86fc1a7d6d00477cbc48fd7cb2",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101804865,
-    "wof:lastmodified":1566680104,
+    "wof:lastmodified":1582356305,
     "wof:name":"Mullingar",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

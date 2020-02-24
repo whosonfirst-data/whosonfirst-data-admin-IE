@@ -264,6 +264,9 @@
         "wk:page":"Killarney"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1d06400b4e45fefd14c90eba9d855e4",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         }
     ],
     "wof:id":101803613,
-    "wof:lastmodified":1566680108,
+    "wof:lastmodified":1582356306,
     "wof:name":"Killarney",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

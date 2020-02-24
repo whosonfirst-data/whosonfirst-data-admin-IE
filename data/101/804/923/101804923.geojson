@@ -104,6 +104,9 @@
         "wk:page":"Granard"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"340a05000dee325bfeca82c2cd13c228",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101804923,
-    "wof:lastmodified":1566680100,
+    "wof:lastmodified":1582356305,
     "wof:name":"Granard",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

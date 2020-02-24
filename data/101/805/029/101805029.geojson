@@ -96,6 +96,9 @@
         "wk:page":"Collooney"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"015d138827f765ba744b8f63d2ca80a3",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680119,
+    "wof:lastmodified":1582356307,
     "wof:name":"Collooney",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

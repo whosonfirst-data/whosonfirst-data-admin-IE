@@ -113,6 +113,10 @@
         "wk:page":"Kilcock"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a9ddb5419618a48d418f0752a4feb5b2",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Kilcock",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

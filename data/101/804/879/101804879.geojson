@@ -131,6 +131,9 @@
         "wk:page":"Trim, County Meath"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"417c57a0fa56fc9b4d0acbcadc3180f0",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101804879,
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1582356305,
     "wof:name":"Trim",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

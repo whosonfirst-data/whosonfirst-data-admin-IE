@@ -91,6 +91,10 @@
         "wk:page":"Cliffoney"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8aed21624dbe0a12b0ba3c59d739add",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":101872769,
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Cliffony",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

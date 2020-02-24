@@ -178,6 +178,9 @@
         "wk:page":"Castlebar"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"31f3ef6921cf30d436ba8d8a95427cc1",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":101805043,
-    "wof:lastmodified":1566680119,
+    "wof:lastmodified":1582356307,
     "wof:name":"Castlebar",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

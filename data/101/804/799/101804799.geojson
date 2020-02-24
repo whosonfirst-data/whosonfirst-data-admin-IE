@@ -115,6 +115,9 @@
         "wk:page":"Castledermot"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eecae7e1a4a2094d5f0ba534ff3157d6",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680095,
+    "wof:lastmodified":1582356304,
     "wof:name":"Castledermot",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

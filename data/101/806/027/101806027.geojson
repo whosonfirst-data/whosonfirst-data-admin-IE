@@ -116,6 +116,9 @@
         "wk:page":"Cahersiveen"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b04a443ad7472f395c14df280ef34c6a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101806027,
-    "wof:lastmodified":1566680128,
+    "wof:lastmodified":1582356308,
     "wof:name":"Cahersiveen",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

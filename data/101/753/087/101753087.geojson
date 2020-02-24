@@ -160,6 +160,9 @@
         "wk:page":"Swords, Dublin"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de93676bc3ca8a07750c895a8a0c954b",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101753087,
-    "wof:lastmodified":1566680092,
+    "wof:lastmodified":1582356303,
     "wof:name":"Swords",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

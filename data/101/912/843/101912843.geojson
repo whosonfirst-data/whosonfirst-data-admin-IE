@@ -94,6 +94,9 @@
         "wk:page":"Inagh"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68e43855134a0e837ed5c05bcc344958",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566680123,
+    "wof:lastmodified":1582356307,
     "wof:name":"Dysart",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

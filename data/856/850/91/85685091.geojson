@@ -337,6 +337,9 @@
         "wd:id":"Q186220"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47097fa86a4773c4f6120c034a341bb9",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795699,
+    "wof:lastmodified":1582356168,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

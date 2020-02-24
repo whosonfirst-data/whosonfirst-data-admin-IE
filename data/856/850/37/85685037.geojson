@@ -340,6 +340,9 @@
         "wd:id":"Q181862"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d17f4d7b0a757096d8112a0e52b94d1a",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795685,
+    "wof:lastmodified":1582356169,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

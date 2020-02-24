@@ -153,6 +153,9 @@
         "wk:page":"Newbridge, County Kildare"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9dd15309493b5b0d4c5c3fc07ec0ad4",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101804783,
-    "wof:lastmodified":1566680101,
+    "wof:lastmodified":1582356305,
     "wof:name":"Newbridge",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

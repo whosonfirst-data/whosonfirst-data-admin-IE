@@ -107,6 +107,9 @@
         "qs_pg:id":135930
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05b75ba1802f7ea50b4cdde5140e85de",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101912797,
-    "wof:lastmodified":1566680122,
+    "wof:lastmodified":1582356307,
     "wof:name":"Ballyleague",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

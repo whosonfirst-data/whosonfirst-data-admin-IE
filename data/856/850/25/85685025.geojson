@@ -346,6 +346,9 @@
         "wd:id":"Q173332"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6fd0ba61cbf61925db8748ec3020f9d8",
     "wof:hierarchy":[
         {
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795684,
+    "wof:lastmodified":1582356193,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

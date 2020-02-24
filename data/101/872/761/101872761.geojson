@@ -263,6 +263,9 @@
         "wd:id":"Q2399896"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35a7fb8f5beb708f9c9c9c6cb5219d9f",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":101872761,
-    "wof:lastmodified":1566680094,
+    "wof:lastmodified":1582356303,
     "wof:name":"Skreen",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

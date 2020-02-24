@@ -90,6 +90,9 @@
         "wk:page":"Inniskeen"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47abca3ec56d24bd3ecf4a9b87f509fa",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680099,
+    "wof:lastmodified":1582356304,
     "wof:name":"Inishkeen",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

@@ -308,6 +308,9 @@
         "wk:page":"Kilkenny"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba3a6f3411e7222868d81c1221a6e2fd",
     "wof:hierarchy":[
         {
@@ -321,7 +324,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680115,
+    "wof:lastmodified":1582356307,
     "wof:name":"Kilkenny",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

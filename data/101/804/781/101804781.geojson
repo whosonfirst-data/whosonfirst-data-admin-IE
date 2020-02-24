@@ -152,6 +152,9 @@
         "wk:page":"Kildare"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e3213501de96352cfa90c8e4735cb3d",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680106,
+    "wof:lastmodified":1582356306,
     "wof:name":"Kildare",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

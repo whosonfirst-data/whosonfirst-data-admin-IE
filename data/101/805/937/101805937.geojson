@@ -128,6 +128,9 @@
         "wk:page":"New Ross"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8408adba9d9ec6c591234eb060414e4d",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101805937,
-    "wof:lastmodified":1566680110,
+    "wof:lastmodified":1582356306,
     "wof:name":"New Ross",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

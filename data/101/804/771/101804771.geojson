@@ -161,6 +161,9 @@
         "wk:page":"Nenagh"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d96ebc9af87b2da24f9953d06b5fe768",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101804771,
-    "wof:lastmodified":1566680100,
+    "wof:lastmodified":1582356305,
     "wof:name":"Nenagh",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

@@ -111,6 +111,9 @@
         "wk:page":"Monasterevin"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"66c241fced0db4099a69ee77f542cf1f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680101,
+    "wof:lastmodified":1582356305,
     "wof:name":"Monasterevin",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

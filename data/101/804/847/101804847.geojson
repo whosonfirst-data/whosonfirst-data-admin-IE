@@ -116,6 +116,9 @@
         "wk:page":"Skerries, Dublin"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e7e482e6635a814f54309f6bba046d5",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101804847,
-    "wof:lastmodified":1566680104,
+    "wof:lastmodified":1582356305,
     "wof:name":"Skerries",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

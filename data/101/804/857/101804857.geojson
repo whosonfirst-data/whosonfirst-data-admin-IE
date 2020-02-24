@@ -177,6 +177,9 @@
         "qs_pg:id":1040434
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3e1b74e8b3de459d7482b40d21563e5",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101804857,
-    "wof:lastmodified":1566680098,
+    "wof:lastmodified":1582356304,
     "wof:name":"Athlone",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

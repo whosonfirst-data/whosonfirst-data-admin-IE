@@ -89,6 +89,9 @@
         "wk:page":"Durrow, County Laois"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2709b43cfc2ffef5342b9665183c281a",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1582356305,
     "wof:name":"Durrow",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

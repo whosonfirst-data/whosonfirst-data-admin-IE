@@ -80,6 +80,9 @@
         "wk:page":"Borrisoleigh"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3dd4936b703453a4d2a614ee774ca65",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101804775,
-    "wof:lastmodified":1566680106,
+    "wof:lastmodified":1582356306,
     "wof:name":"Borrisoleigh",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

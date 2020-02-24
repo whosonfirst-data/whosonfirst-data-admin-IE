@@ -286,6 +286,9 @@
         "wd:id":"Q822865"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"008fd49ab508ffa4532c05f0e841a9fb",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795682,
+    "wof:lastmodified":1582356167,
     "wof:name":"South Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

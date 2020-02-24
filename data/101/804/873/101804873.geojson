@@ -160,6 +160,9 @@
         "wk:page":"Kells, County Meath"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"124ed158251b98e947c2a6b378ac66c1",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101804873,
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Kells",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

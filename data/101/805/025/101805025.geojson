@@ -114,6 +114,9 @@
         "wk:page":"Tubbercurry"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6a04003f34f839c0e8209e49462f062",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680112,
+    "wof:lastmodified":1582356306,
     "wof:name":"Tobercurry",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

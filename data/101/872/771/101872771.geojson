@@ -78,6 +78,9 @@
         "wk:page":"Walferdange"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8d5f81f05ffec271912bf6679f9b6b1",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Turlough",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

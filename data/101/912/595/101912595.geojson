@@ -94,6 +94,9 @@
         "wk:page":"Strandhill"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2705a84f7ab28c9602c73344ca6922d9",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101912595,
-    "wof:lastmodified":1566680123,
+    "wof:lastmodified":1582356307,
     "wof:name":"Larass",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

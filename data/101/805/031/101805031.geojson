@@ -169,6 +169,9 @@
         "wk:page":"Ballina, County Mayo"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da3a9c874f8774189db56e4676202773",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101805031,
-    "wof:lastmodified":1566680114,
+    "wof:lastmodified":1582356307,
     "wof:name":"Ballina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

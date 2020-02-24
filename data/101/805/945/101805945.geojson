@@ -125,6 +125,9 @@
         "wk:page":"Carrick-on-Suir"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4a3f0354aae88fc51661abfb2fcfcd2",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101805945,
-    "wof:lastmodified":1566680122,
+    "wof:lastmodified":1582356307,
     "wof:name":"Carrick-on-Suir",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

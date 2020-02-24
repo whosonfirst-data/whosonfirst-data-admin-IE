@@ -90,6 +90,9 @@
         "wk:page":"Clogherhead"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fa8439dc3552874ce3b1ffb7b10eb3b",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680107,
+    "wof:lastmodified":1582356306,
     "wof:name":"Clogherhead",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

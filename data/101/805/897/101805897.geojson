@@ -162,6 +162,9 @@
         "wk:page":"Kinsale"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81ae7a316f4212b521b447cb8dbb2034",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101805897,
-    "wof:lastmodified":1566680121,
+    "wof:lastmodified":1582356307,
     "wof:name":"Kinsale",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

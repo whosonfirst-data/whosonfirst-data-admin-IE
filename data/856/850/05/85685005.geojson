@@ -342,6 +342,9 @@
         "wd:id":"Q55299"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"139464a9fa8934b015928a6773d6a12b",
     "wof:hierarchy":[
         {
@@ -359,7 +362,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795681,
+    "wof:lastmodified":1582356157,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

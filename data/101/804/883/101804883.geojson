@@ -111,6 +111,9 @@
         "wk:page":"Slane"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c25527dec1da7f348e482b4c22b3ffe8",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680103,
+    "wof:lastmodified":1582356305,
     "wof:name":"Slane",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

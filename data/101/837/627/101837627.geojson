@@ -285,7 +285,8 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -306,6 +307,10 @@
         "wk:page":"Dundalk"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"885137eab91500c4f98c52e10125274e",
     "wof:hierarchy":[
         {
@@ -316,7 +321,7 @@
         }
     ],
     "wof:id":101837627,
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1582356308,
     "wof:name":"Dundalk",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

@@ -49,6 +49,9 @@
         "qs_pg:id":9
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24ab0ce3ec88a5fa5ac3dc25bc773918",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101853147,
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Matehy",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

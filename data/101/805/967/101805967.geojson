@@ -122,6 +122,9 @@
         "wk:page":"Muine Bheag"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f41ff1f92aa6cab02e848e9eddaa92b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101805967,
-    "wof:lastmodified":1566680117,
+    "wof:lastmodified":1582356307,
     "wof:name":"Bagenalstown",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

@@ -88,6 +88,9 @@
         "wd:id":"Q2078132"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65ed16066e998fecc1d3862955f12f87",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680094,
+    "wof:lastmodified":1582356304,
     "wof:name":"Annagary",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

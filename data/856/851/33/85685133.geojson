@@ -345,6 +345,9 @@
         "wd:id":"Q107397"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"28ad7825dc69513c0c403a9ef7eeace7",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795723,
+    "wof:lastmodified":1582356216,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

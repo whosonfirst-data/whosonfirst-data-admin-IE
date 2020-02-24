@@ -102,6 +102,9 @@
         "wk:page":"Scarriff"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"caa1c40592eac304f2b52288a0a9bc19",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Scarriff",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

@@ -167,6 +167,9 @@
         "wk:page":"Tullamore"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cfd68f5ea68eb0d88787c37fec86ea88",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":101804829,
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Tullamore",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"Stradbally"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd7a992888a149ecd231adcf9e185eb1",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680095,
+    "wof:lastmodified":1582356304,
     "wof:name":"Stradbally",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

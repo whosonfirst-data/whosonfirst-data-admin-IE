@@ -1372,6 +1372,11 @@
     },
     "wof:country":"IE",
     "wof:country_alpha3":"IRL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f01971fab6c32123222b4066078418d",
     "wof:hierarchy":[
         {
@@ -1388,7 +1393,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1566679607,
+    "wof:lastmodified":1582356239,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

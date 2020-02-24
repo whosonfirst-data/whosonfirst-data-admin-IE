@@ -104,6 +104,9 @@
         "wk:page":"Portmarnock"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba5c710142f47a7d94a01abc5bc696c3",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101753093,
-    "wof:lastmodified":1566680092,
+    "wof:lastmodified":1582356303,
     "wof:name":"Portmarnock",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

@@ -349,6 +349,9 @@
         "wd:id":"Q181882"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"11e9e5cb01bd876a0a200f5ca2434505",
     "wof:hierarchy":[
         {
@@ -366,7 +369,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795655,
+    "wof:lastmodified":1582356251,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

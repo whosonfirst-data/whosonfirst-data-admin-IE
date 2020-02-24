@@ -104,6 +104,9 @@
         "wk:page":"Kilrush"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"970ab4993d64b3099078bb48a64a9cd5",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101804817,
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Kilrush",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

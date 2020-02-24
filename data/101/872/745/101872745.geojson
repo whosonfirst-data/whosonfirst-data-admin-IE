@@ -81,6 +81,9 @@
         "wd:id":"Q2546895"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a6e05685d7f803b4b249078142ff3dd",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680094,
+    "wof:lastmodified":1582356304,
     "wof:name":"Kilmacanoge",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

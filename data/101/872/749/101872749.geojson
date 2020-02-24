@@ -82,6 +82,9 @@
         "wk:page":"Killeigh"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72babf785155482f21f9f8bd8bd10d30",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Killeigh",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
         "wk:page":"Templemore"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56893f3d05154c42259f09bd047b037b",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101804773,
-    "wof:lastmodified":1566680107,
+    "wof:lastmodified":1582356306,
     "wof:name":"Templemore",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

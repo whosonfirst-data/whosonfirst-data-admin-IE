@@ -137,6 +137,9 @@
         "wk:page":"Leixlip"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04c8634fb5ec8deadb65bb9fde1dd5cb",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101753085,
-    "wof:lastmodified":1566680091,
+    "wof:lastmodified":1582356303,
     "wof:name":"Leixlip",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
