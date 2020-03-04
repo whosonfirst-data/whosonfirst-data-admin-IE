@@ -113,6 +113,9 @@
         "wk:page":"Rathcoole, County Dublin"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b7e3a7a9d34f4709f48f4e03a988df6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101753083,
-    "wof:lastmodified":1566680091,
+    "wof:lastmodified":1582356302,
     "wof:name":"Rathcoole",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",

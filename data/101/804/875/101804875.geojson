@@ -114,6 +114,9 @@
         "wk:page":"Athboy"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc7e31800555032faa160afe1dc5baec",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680098,
+    "wof:lastmodified":1582356304,
     "wof:name":"Athboy",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

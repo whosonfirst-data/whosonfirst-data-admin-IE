@@ -176,6 +176,9 @@
         "qs_pg:id":1078456
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ff559ebfbb32311da4fa03c8321da2d",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101837623,
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1582356308,
     "wof:name":"Naas",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

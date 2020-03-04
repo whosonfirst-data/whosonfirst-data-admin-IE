@@ -173,6 +173,9 @@
         "wd:id":"Q209126"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"363f1fb51e9204e8ef545f5bb5ad9018",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101805941,
-    "wof:lastmodified":1566680115,
+    "wof:lastmodified":1582356307,
     "wof:name":"Wexford",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

@@ -343,6 +343,9 @@
         "wd:id":"Q187402"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"636cb4d55a540e6d0fa6ee1b34daca19",
     "wof:hierarchy":[
         {
@@ -360,7 +363,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795721,
+    "wof:lastmodified":1582356236,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

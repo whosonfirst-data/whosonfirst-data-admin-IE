@@ -358,6 +358,9 @@
         "wd:id":"Q183539"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afead9e22bd95cb56a7624629672a6eb",
     "wof:hierarchy":[
         {
@@ -375,7 +378,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795698,
+    "wof:lastmodified":1582356163,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

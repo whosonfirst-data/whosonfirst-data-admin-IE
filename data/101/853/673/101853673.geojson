@@ -67,6 +67,9 @@
         "wk:page":"La Chapelle-Moutils"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ebfbd431f7fad88d80e80a633855c1e",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Fedamore",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",

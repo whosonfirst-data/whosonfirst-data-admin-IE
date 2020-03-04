@@ -103,6 +103,9 @@
         "wk:page":"Lusk, Dublin"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76ec1f8472e5499161c2078ecd22371b",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101804851,
-    "wof:lastmodified":1566680099,
+    "wof:lastmodified":1582356304,
     "wof:name":"Lusk",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",

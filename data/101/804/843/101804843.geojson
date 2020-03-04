@@ -146,6 +146,9 @@
         "wk:page":"Francazal"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf66b599b637b365d0294360fc5aa8a5",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101804843,
-    "wof:lastmodified":1566680098,
+    "wof:lastmodified":1582356304,
     "wof:name":"Birr",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

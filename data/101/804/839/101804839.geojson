@@ -84,6 +84,9 @@
         "wk:page":"Kilcormac"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72bb57cdaad1c00c1c4015db3034ca2c",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680105,
+    "wof:lastmodified":1582356306,
     "wof:name":"Kilcormac",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",

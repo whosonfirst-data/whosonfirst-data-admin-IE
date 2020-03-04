@@ -85,6 +85,9 @@
         "wk:page":"Delgany"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f73042bb6aa9f53f38358621467d7e53",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680126,
+    "wof:lastmodified":1582356308,
     "wof:name":"Delgany",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

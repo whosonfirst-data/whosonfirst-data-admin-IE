@@ -119,6 +119,9 @@
         "wk:page":"Macroom"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b34463efda2f13d58899f4879834296",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101803605,
-    "wof:lastmodified":1566680108,
+    "wof:lastmodified":1582356306,
     "wof:name":"Macroom",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

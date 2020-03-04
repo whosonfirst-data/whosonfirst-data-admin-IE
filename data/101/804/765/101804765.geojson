@@ -83,6 +83,9 @@
         "wk:page":"Borrisokane"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a3ca196aa4b0a2c36b05c5e8c6df90e",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101804765,
-    "wof:lastmodified":1566680096,
+    "wof:lastmodified":1582356304,
     "wof:name":"Borrisokane",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

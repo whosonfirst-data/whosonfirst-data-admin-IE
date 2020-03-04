@@ -120,6 +120,9 @@
         "wk:page":"Cabinteely"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"05030553fef4122afd79c1349a71cc7f",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566679512,
+    "wof:lastmodified":1582356147,
     "wof:name":"Cabinteely",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

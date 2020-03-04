@@ -59,6 +59,9 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4488de6a5e2eaf4afe0a0ba0b7a02707",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795693,
+    "wof:lastmodified":1582356172,
     "wof:name":"Galway City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

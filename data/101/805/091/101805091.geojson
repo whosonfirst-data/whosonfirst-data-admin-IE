@@ -145,6 +145,9 @@
         "wk:page":"Ballyshannon"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce12dfdff73411f0f91f8e9350fda497",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101805091,
-    "wof:lastmodified":1566680113,
+    "wof:lastmodified":1582356306,
     "wof:name":"Ballyshannon",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",

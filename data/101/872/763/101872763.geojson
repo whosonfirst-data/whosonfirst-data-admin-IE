@@ -71,6 +71,9 @@
         "wk:page":"Ardcath"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9671bf8ede534e003b48396d95c51a2",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Ardcath",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

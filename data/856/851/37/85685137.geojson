@@ -344,6 +344,9 @@
         "wd:id":"Q179325"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9a8b299846dff57dc13ee91e4aec1cb8",
     "wof:hierarchy":[
         {
@@ -361,7 +364,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795725,
+    "wof:lastmodified":1582356231,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

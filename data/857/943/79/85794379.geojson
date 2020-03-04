@@ -125,6 +125,9 @@
         "wk:page":"Sandyford"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc3688d5f8ddfbcda8df6a53690c9120",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566679513,
+    "wof:lastmodified":1582356147,
     "wof:name":"Sandyford",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

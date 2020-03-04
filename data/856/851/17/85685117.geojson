@@ -335,6 +335,9 @@
         "wd:id":"Q184760"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a62520e97085a278b16a6a58ebf5bb1c",
     "wof:hierarchy":[
         {
@@ -352,7 +355,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795720,
+    "wof:lastmodified":1582356229,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

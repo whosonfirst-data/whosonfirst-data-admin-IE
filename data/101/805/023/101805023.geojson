@@ -108,6 +108,9 @@
         "wk:page":"Ballymote"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56cf69eefac9f53733755f6709b803ee",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680110,
+    "wof:lastmodified":1582356306,
     "wof:name":"Ballymote",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

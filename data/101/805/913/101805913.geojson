@@ -137,6 +137,9 @@
         "wk:page":"Clonakilty"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d55b33a01074e3cb4c3406aa8fd3a33",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101805913,
-    "wof:lastmodified":1566680116,
+    "wof:lastmodified":1582356307,
     "wof:name":"Clonakilty",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

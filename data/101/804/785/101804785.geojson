@@ -87,6 +87,9 @@
         "wk:page":"Robertstown"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a3d6ae6db7cb4fd695316be16a42f88",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680100,
+    "wof:lastmodified":1582356305,
     "wof:name":"Robertstown",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

@@ -292,6 +292,9 @@
         "wk:page":"Drogheda"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f8ce26fa03c08d5e20b70c98b1830c3",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":101804917,
-    "wof:lastmodified":1566680107,
+    "wof:lastmodified":1582356306,
     "wof:name":"Drogheda",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

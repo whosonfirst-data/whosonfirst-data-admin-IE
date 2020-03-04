@@ -329,6 +329,9 @@
         "wd:id":"Q182633"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c93d03227b34742d4d763385330bb8a5",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795694,
+    "wof:lastmodified":1582356164,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

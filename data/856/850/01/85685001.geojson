@@ -231,6 +231,9 @@
         "wd:id":"Q538417"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3435737f65d04629a335f5c4c45d9a2b",
     "wof:hierarchy":[
         {
@@ -248,7 +251,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795680,
+    "wof:lastmodified":1582356171,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

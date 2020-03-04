@@ -108,6 +108,9 @@
         "wk:page":"Oldcastle, County Meath"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccf4c97931fa4d7af708cc3fd84523ad",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680104,
+    "wof:lastmodified":1582356305,
     "wof:name":"Oldcastle",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

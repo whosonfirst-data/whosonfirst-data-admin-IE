@@ -281,6 +281,9 @@
         "wk:page":"Waterford"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bfb769102ca7c35a29dcc8454f875a7",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":101805853,
-    "wof:lastmodified":1566680120,
+    "wof:lastmodified":1582356307,
     "wof:name":"Waterford",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

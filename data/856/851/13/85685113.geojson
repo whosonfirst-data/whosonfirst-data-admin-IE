@@ -342,6 +342,9 @@
         "wd:id":"Q179437"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4faf53ce371c7cbd0f3775d73fb6b30b",
     "wof:hierarchy":[
         {
@@ -359,7 +362,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795718,
+    "wof:lastmodified":1582356234,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

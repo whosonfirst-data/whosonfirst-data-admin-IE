@@ -148,6 +148,9 @@
         "wk:page":"Mallow, County Cork"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a50c4bd462e530be2360fcb2e8780f7a",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101805879,
-    "wof:lastmodified":1566680118,
+    "wof:lastmodified":1582356307,
     "wof:name":"Mallow",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

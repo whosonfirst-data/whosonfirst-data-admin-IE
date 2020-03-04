@@ -308,6 +308,9 @@
         "wk:page":"Sligo"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"37d8d1ac17300e10e0e0b3f98293209d",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":101805019,
-    "wof:lastmodified":1566680119,
+    "wof:lastmodified":1582356307,
     "wof:name":"Sligo",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

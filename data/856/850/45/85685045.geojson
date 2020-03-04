@@ -301,6 +301,9 @@
         "wd:id":"Q520000"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cee5b02e217666a617e6ebe61ba0109",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795690,
+    "wof:lastmodified":1582356160,
     "wof:name":"Fingal",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

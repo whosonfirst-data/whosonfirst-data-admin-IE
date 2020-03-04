@@ -714,6 +714,9 @@
         85685015
     ],
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb7686ac400c7f7db6d337fb047ecd60",
     "wof:hierarchy":[
         {
@@ -727,7 +730,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680124,
+    "wof:lastmodified":1582356308,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":85685015,

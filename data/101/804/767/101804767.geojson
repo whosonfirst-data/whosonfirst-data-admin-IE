@@ -129,6 +129,9 @@
         "wk:page":"Roscrea"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a264726c6e0bcc91c4e6cb119fab2f89",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101804767,
-    "wof:lastmodified":1566680102,
+    "wof:lastmodified":1582356305,
     "wof:name":"Roscrea",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

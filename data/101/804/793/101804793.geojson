@@ -147,6 +147,9 @@
         "wk:page":"Maynooth"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db4f0c2cdc64ddc559dc338d9dc59dd7",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680102,
+    "wof:lastmodified":1582356305,
     "wof:name":"Maynooth",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

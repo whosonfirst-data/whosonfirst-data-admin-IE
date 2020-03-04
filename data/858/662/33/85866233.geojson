@@ -102,6 +102,9 @@
         "wk:page":"Sandycove"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30c24be7aecdecb76af826a1a62c54b9",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566679679,
+    "wof:lastmodified":1582356292,
     "wof:name":"Sandycove",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

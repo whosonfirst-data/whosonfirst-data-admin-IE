@@ -84,6 +84,9 @@
         "qs_pg:id":972508
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b703fb57ea5d082e09acbbc9ee660271",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101804901,
-    "wof:lastmodified":1566680095,
+    "wof:lastmodified":1582356304,
     "wof:name":"Kentstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

@@ -94,6 +94,9 @@
         "wk:page":"Ballyheigue"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d47474d605c86cee91f2e8953e7c9d5",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Ballyheige",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

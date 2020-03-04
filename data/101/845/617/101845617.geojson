@@ -81,6 +81,9 @@
         "wk:page":"Piltown"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"62b7dae47a39e0af3b1cfa4801e49d73",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680092,
+    "wof:lastmodified":1582356303,
     "wof:name":"Piltown",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Drumcliff"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"463cded30c3094598fcfcd2c8bf9313f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101872767,
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Drumcliff",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",

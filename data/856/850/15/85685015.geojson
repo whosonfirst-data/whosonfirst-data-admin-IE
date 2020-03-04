@@ -129,6 +129,9 @@
         101751737
     ],
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"960ab3105313d2a86d64d94d84667d80",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795683,
+    "wof:lastmodified":1582356193,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

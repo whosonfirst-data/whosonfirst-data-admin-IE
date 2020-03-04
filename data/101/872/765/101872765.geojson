@@ -136,6 +136,9 @@
         "wk:page":"Spiddal"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1bdcfaf96e2ddd4975ea1e7440dd824b",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680093,
+    "wof:lastmodified":1582356303,
     "wof:name":"Spiddle",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

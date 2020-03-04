@@ -338,6 +338,9 @@
         "wd:id":"Q184445"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"957a615a5538b11b53115cced0a42a58",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795689,
+    "wof:lastmodified":1582356191,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

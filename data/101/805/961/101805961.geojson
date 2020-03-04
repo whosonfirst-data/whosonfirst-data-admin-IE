@@ -111,6 +111,9 @@
         "wk:page":"Tullow"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d1413ff0553fb0a34fb1a1d70ed405d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680116,
+    "wof:lastmodified":1582356307,
     "wof:name":"Tullow",
     "wof:parent_id":85684975,
     "wof:placetype":"locality",

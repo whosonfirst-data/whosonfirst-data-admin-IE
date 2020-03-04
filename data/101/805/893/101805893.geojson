@@ -119,6 +119,9 @@
         "wk:page":"Midleton"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7da656d9562231abef940151ae84fab",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101805893,
-    "wof:lastmodified":1566680115,
+    "wof:lastmodified":1582356307,
     "wof:name":"Middleton",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

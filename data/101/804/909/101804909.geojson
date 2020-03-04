@@ -94,6 +94,9 @@
         "wk:page":"Dunleer"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fba660cf51552794d8c3e458e150e800",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680094,
+    "wof:lastmodified":1582356304,
     "wof:name":"Dunleer",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

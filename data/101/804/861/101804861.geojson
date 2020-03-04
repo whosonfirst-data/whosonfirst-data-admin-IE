@@ -98,6 +98,9 @@
         "wk:page":"Moate"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97665530d2309177b3652f5d04b50c7b",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101804861,
-    "wof:lastmodified":1566680098,
+    "wof:lastmodified":1582356304,
     "wof:name":"Moate",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",

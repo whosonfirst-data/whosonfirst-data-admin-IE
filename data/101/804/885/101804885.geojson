@@ -111,6 +111,9 @@
         "wk:page":"Duleek"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ec1148c11bcd2d5b4d34b77aa206f7d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680104,
+    "wof:lastmodified":1582356305,
     "wof:name":"Duleek",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

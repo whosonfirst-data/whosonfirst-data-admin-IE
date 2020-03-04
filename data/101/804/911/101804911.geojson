@@ -122,6 +122,9 @@
         "wk:page":"Ardee"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2ab1062e7abb3dd7e94b5bab87d29f3",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101804911,
-    "wof:lastmodified":1566680106,
+    "wof:lastmodified":1582356306,
     "wof:name":"Ardee",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

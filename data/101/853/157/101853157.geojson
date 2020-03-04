@@ -74,6 +74,9 @@
         "qs_pg:id":1158758
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57366a9ac9b4a6044fa7dfff13472553",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680124,
+    "wof:lastmodified":1582356308,
     "wof:name":"Kilcummin",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

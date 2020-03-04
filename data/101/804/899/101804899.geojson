@@ -107,6 +107,9 @@
         "wk:page":"Enfield, County Meath"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb14bdcbc39c217f61e1a3bb8c4b6a92",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680105,
+    "wof:lastmodified":1582356306,
     "wof:name":"Innfield",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

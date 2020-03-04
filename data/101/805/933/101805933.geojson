@@ -128,6 +128,9 @@
         "wk:page":"Gorey"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7743f9e75e26d6cac13749cd10892a93",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101805933,
-    "wof:lastmodified":1566680118,
+    "wof:lastmodified":1582356307,
     "wof:name":"Gorey",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

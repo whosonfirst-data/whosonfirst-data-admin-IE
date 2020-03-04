@@ -90,6 +90,9 @@
         "wk:page":"Carlingford, County Louth"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df6708a60b2870cbc0f0c6d8b1aa68a8",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680102,
+    "wof:lastmodified":1582356305,
     "wof:name":"Carlingford",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

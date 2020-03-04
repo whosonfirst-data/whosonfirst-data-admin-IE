@@ -143,6 +143,9 @@
         "wk:page":"Thurles"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3969398a1519794080804de7fa301fce",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101806043,
-    "wof:lastmodified":1566680128,
+    "wof:lastmodified":1582356308,
     "wof:name":"Thurles",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

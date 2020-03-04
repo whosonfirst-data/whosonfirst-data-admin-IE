@@ -77,6 +77,9 @@
         "wk:page":"Ballyhack, County Wexford"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7c491131eb449d19bbb03781209f007",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Ballyhack",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

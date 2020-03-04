@@ -64,6 +64,9 @@
         "wd:id":"Q3776366"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b061b7f0cf82f9ecb1bfa6d11b930ccd",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101911111,
-    "wof:lastmodified":1566680129,
+    "wof:lastmodified":1582356309,
     "wof:name":"Killincarrig",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",

@@ -90,6 +90,9 @@
         "wk:page":"Straffan"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd3745ae7e890783c933b63b9468337f",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680092,
+    "wof:lastmodified":1582356303,
     "wof:name":"Straffan",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

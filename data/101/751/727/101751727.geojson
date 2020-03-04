@@ -477,6 +477,9 @@
         "qs_pg:id":478991
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"051661ea844e4e39e165c02bbfbc20b1",
     "wof:hierarchy":[
         {
@@ -487,7 +490,7 @@
         }
     ],
     "wof:id":101751727,
-    "wof:lastmodified":1566680124,
+    "wof:lastmodified":1582356308,
     "wof:name":"Cork",
     "wof:parent_id":85684945,
     "wof:placetype":"locality",

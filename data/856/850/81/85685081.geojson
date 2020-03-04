@@ -352,6 +352,9 @@
         "wd:id":"Q183544"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"794626942812cfb53603c10242be300d",
     "wof:hierarchy":[
         {
@@ -369,7 +372,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1576795696,
+    "wof:lastmodified":1582356165,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

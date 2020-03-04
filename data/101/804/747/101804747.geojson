@@ -107,6 +107,9 @@
         "wk:page":"Mountmellick"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"77246b496a0f3bd54353ba56e60802ec",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101804747,
-    "wof:lastmodified":1566680100,
+    "wof:lastmodified":1582356305,
     "wof:name":"Mountmellick",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

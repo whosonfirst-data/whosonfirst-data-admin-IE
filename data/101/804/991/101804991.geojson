@@ -108,6 +108,9 @@
         "wk:page":"Kingscourt"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"32f5abaa70686ca2d89c8d612510f260",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680095,
+    "wof:lastmodified":1582356304,
     "wof:name":"Kingscourt",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",

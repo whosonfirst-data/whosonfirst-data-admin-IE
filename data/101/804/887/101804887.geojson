@@ -87,6 +87,9 @@
         "wk:page":"Julianstown"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dfc02f40c0dad84c4b4b819a9044aa5b",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Julianstown",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",

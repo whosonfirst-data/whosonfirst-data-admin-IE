@@ -122,6 +122,9 @@
         "wk:page":"Carrickmacross"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ac8317e31e76c79d630059b34c036c87",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101804975,
-    "wof:lastmodified":1566680108,
+    "wof:lastmodified":1582356306,
     "wof:name":"Carrickmacross",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

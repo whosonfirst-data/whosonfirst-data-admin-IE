@@ -285,6 +285,9 @@
         "wk:page":"Sarrant"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4df423efbccd94a16cd607df8f57a62",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":101853677,
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Littleton",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

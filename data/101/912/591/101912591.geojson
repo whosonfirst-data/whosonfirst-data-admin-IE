@@ -77,6 +77,9 @@
         "wd:id":"Q2167772"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8be6713da298784bc76b68013a9a1d04",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101912591,
-    "wof:lastmodified":1566680123,
+    "wof:lastmodified":1582356308,
     "wof:name":"Rosslare Harbour",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",

@@ -252,6 +252,9 @@
         "wk:page":"Shannon, County Clare"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d669bad07af98fd3da2a6550cfbec55",
     "wof:hierarchy":[
         {
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":101804821,
-    "wof:lastmodified":1566680098,
+    "wof:lastmodified":1582356304,
     "wof:name":"Shannon",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",

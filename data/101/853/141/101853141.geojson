@@ -147,6 +147,9 @@
         "wk:page":"Lapugnoy"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3883ec267063e1d3fd4145fb2769222c",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566680125,
+    "wof:lastmodified":1582356308,
     "wof:name":"Clonea",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",

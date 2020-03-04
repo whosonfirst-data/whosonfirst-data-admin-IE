@@ -186,6 +186,9 @@
         "wk:page":"Bray"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ccd91a0470a31e53f9bd56a482bf661",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101753081,
-    "wof:lastmodified":1566680092,
+    "wof:lastmodified":1582356303,
     "wof:name":"Bray",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wk:page":"Balbriggan"
     },
     "wof:country":"IE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58e6c395b3addb96db3e96192ef5b342",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101804845,
-    "wof:lastmodified":1566680097,
+    "wof:lastmodified":1582356304,
     "wof:name":"Balbriggan",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
