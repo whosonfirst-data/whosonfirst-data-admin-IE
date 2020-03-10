@@ -320,9 +320,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11817
-        ],
+        "digitalenvoy:region_code":11817,
         "fips:code":"EI29",
         "gn:id":2960972,
         "gp:id":2345272,
@@ -352,7 +350,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538352,
+    "wof:lastmodified":1583882828,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

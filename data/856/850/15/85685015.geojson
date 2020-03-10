@@ -120,9 +120,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            19982
-        ],
+        "digitalenvoy:region_code":19982,
         "fips:code":"EI33",
         "gn:id":7778677,
         "gp:id":2345254,
@@ -152,7 +150,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538319,
+    "wof:lastmodified":1583882790,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

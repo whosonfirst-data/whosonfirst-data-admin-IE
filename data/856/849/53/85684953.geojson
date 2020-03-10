@@ -270,9 +270,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11828
-        ],
+        "digitalenvoy:region_code":11828,
         "fips:code":"EI27",
         "hasc:id":"IE.WD",
         "iso:id":"IE-WD",
@@ -296,7 +294,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538351,
+    "wof:lastmodified":1583882826,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

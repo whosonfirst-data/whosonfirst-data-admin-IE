@@ -337,9 +337,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11837
-        ],
+        "digitalenvoy:region_code":11837,
         "fips:code":"EI12",
         "gn:id":2963435,
         "gp:id":2345257,
@@ -369,7 +367,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538328,
+    "wof:lastmodified":1583882801,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

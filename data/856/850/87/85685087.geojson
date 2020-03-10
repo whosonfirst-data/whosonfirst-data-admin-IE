@@ -349,9 +349,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11826
-        ],
+        "digitalenvoy:region_code":11826,
         "fips:code":"EI19",
         "gn:id":2962793,
         "gp:id":2345263,
@@ -381,7 +379,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538337,
+    "wof:lastmodified":1583882810,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

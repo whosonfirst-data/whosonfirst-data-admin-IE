@@ -334,9 +334,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11843
-        ],
+        "digitalenvoy:region_code":11843,
         "fips:code":"EI02",
         "gn:id":2965534,
         "gp:id":2345250,
@@ -366,7 +364,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538317,
+    "wof:lastmodified":1583882789,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

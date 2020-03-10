@@ -333,9 +333,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11816
-        ],
+        "digitalenvoy:region_code":11816,
         "fips:code":"EI31",
         "gn:id":2960935,
         "gp:id":2345274,
@@ -365,7 +363,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538353,
+    "wof:lastmodified":1583882828,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

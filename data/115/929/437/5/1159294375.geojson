@@ -141,9 +141,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11823
-        ]
+        "digitalenvoy:region_code":11823
     },
     "wof:country":"IE",
     "wof:geomhash":"636444bc7ddfe550d5f5f0684bc65c0b",
@@ -163,7 +161,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538350,
+    "wof:lastmodified":1583882824,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -365,9 +365,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11832
-        ],
+        "digitalenvoy:region_code":11832,
         "fips:code":"EI13",
         "gn:id":2963397,
         "gp:id":2345258,
@@ -397,7 +395,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538328,
+    "wof:lastmodified":1583882801,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

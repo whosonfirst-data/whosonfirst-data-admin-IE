@@ -266,9 +266,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11822
-        ],
+        "digitalenvoy:region_code":11822,
         "wd:id":"Q178626"
     },
     "wof:country":"IE",
@@ -292,7 +290,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538342,
+    "wof:lastmodified":1583882816,
     "wof:name":"Mayo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

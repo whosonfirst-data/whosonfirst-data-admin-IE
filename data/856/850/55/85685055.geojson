@@ -58,9 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11821
-        ]
+        "digitalenvoy:region_code":11821
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -83,7 +81,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538327,
+    "wof:lastmodified":1583882800,
     "wof:name":"Galway City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

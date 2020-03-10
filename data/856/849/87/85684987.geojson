@@ -273,9 +273,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11834
-        ],
+        "digitalenvoy:region_code":11834,
         "fips:code":"EI16",
         "hasc:id":"IE.LK",
         "iso:id":"IE-LK",
@@ -299,7 +297,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538337,
+    "wof:lastmodified":1583882811,
     "wof:name":"Limerick",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -58,9 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28393
-        ]
+        "digitalenvoy:region_code":28393
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -83,7 +81,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538318,
+    "wof:lastmodified":1583882790,
     "wof:name":"Cork City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

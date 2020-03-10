@@ -333,9 +333,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            19999
-        ],
+        "digitalenvoy:region_code":19999,
         "fips:code":"EI24",
         "gn:id":2961731,
         "gp:id":2345268,
@@ -365,7 +363,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538347,
+    "wof:lastmodified":1583882821,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

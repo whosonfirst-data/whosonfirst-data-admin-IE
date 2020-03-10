@@ -340,9 +340,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11820
-        ],
+        "digitalenvoy:region_code":11820,
         "fips:code":"EI01",
         "gn:id":2965767,
         "gp:id":2345249,
@@ -372,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538318,
+    "wof:lastmodified":1583882790,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -329,9 +329,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11819
-        ],
+        "digitalenvoy:region_code":11819,
         "fips:code":"EI23",
         "gn:id":2962187,
         "gp:id":2345267,
@@ -361,7 +359,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538346,
+    "wof:lastmodified":1583882821,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

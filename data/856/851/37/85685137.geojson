@@ -335,9 +335,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11841
-        ],
+        "digitalenvoy:region_code":11841,
         "fips:code":"EI25",
         "gn:id":2961422,
         "gp:id":2345269,
@@ -367,7 +365,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538348,
+    "wof:lastmodified":1583882823,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

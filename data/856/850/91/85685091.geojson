@@ -328,9 +328,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            24109
-        ],
+        "digitalenvoy:region_code":24109,
         "fips:code":"EI18",
         "gn:id":2962839,
         "gp:id":2345262,
@@ -360,7 +358,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538336,
+    "wof:lastmodified":1583882810,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

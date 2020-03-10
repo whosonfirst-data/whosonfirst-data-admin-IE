@@ -333,9 +333,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            19996
-        ],
+        "digitalenvoy:region_code":19996,
         "fips:code":"EI15",
         "gn:id":2963031,
         "gp:id":2345260,
@@ -365,7 +363,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538339,
+    "wof:lastmodified":1583882813,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

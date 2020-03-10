@@ -343,9 +343,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11831
-        ],
+        "digitalenvoy:region_code":11831,
         "fips:code":"EI21",
         "gn:id":2962661,
         "gp:id":2345265,
@@ -375,7 +373,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538340,
+    "wof:lastmodified":1583882813,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

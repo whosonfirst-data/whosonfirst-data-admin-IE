@@ -326,9 +326,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            19997
-        ],
+        "digitalenvoy:region_code":19997,
         "fips:code":"EI22",
         "gn:id":2962567,
         "gp:id":2345266,
@@ -358,7 +356,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538341,
+    "wof:lastmodified":1583882814,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

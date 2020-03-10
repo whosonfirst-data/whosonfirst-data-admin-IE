@@ -331,9 +331,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            19974
-        ],
+        "digitalenvoy:region_code":19974,
         "fips:code":"EI03",
         "gn:id":2965479,
         "gp:id":2345251,
@@ -363,7 +361,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538316,
+    "wof:lastmodified":1583882787,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

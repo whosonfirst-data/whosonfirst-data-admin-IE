@@ -336,9 +336,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            24110
-        ],
+        "digitalenvoy:region_code":24110,
         "fips:code":"EI14",
         "gn:id":2962975,
         "gp:id":2345259,
@@ -368,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538338,
+    "wof:lastmodified":1583882812,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

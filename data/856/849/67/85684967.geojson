@@ -327,9 +327,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11829
-        ],
+        "digitalenvoy:region_code":11829,
         "fips:code":"EI30",
         "gn:id":2960963,
         "gp:id":2345273,
@@ -359,7 +357,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583538354,
+    "wof:lastmodified":1583882830,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
