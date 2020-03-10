@@ -1349,9 +1349,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Ireland",
-        "digitalenvoy:country_code":[
-            372
-        ],
+        "digitalenvoy:country_code":372,
         "fb:id":"en.ireland",
         "fifa:id":"IRL",
         "fips:code":"EI",
@@ -1396,7 +1394,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583529153,
+    "wof:lastmodified":1583797359,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
