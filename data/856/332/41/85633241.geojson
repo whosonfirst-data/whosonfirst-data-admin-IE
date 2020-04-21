@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.446548,
-    "geom:area_square_m":70003035625.557526,
+    "geom:area_square_m":70003035759.122513,
     "geom:bbox":"-10.670106,51.419897,-5.996278,55.446903",
     "geom:latitude":53.175464,
     "geom:longitude":-8.154815,
@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Irlandia"
     ],
@@ -78,6 +81,9 @@
     "name:arg_x_variant":[
         "Irlanda"
     ],
+    "name:ary_x_preferred":[
+        "\u0625\u0631\u0644\u0627\u0646\u062f\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u064a\u0631\u0644\u0627\u0646\u062f\u0627 (\u062c\u0632\u064a\u0631\u0647)"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:bam_x_preferred":[
         "Irilandi"
+    ],
+    "name:ban_x_preferred":[
+        "Irlandia"
     ],
     "name:bar_x_preferred":[
         "Irland"
@@ -250,6 +259,12 @@
         "Irland",
         "Irland (\u00f8)"
     ],
+    "name:deu_at_x_preferred":[
+        "Irland"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Irland"
+    ],
     "name:deu_x_preferred":[
         "Irland (Insel)"
     ],
@@ -286,6 +301,9 @@
     ],
     "name:eml_x_preferred":[
         "Irl\u00e0nda"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Ireland"
     ],
     "name:eng_x_preferred":[
         "Ireland"
@@ -364,7 +382,8 @@
         "Irlun (eilun)"
     ],
     "name:frr_x_variant":[
-        "Irl\u00f6nj"
+        "Irl\u00f6nj",
+        "Irlun"
     ],
     "name:fry_x_preferred":[
         "Ierl\u00e2n"
@@ -380,6 +399,9 @@
     ],
     "name:gan_x_preferred":[
         "\u611b\u723e\u862d"
+    ],
+    "name:gcr_x_preferred":[
+        "Irlann"
     ],
     "name:gla_x_preferred":[
         "\u00c8irinn"
@@ -869,6 +891,9 @@
     "name:pcd_x_preferred":[
         "Irlinde"
     ],
+    "name:pdc_x_preferred":[
+        "Irland"
+    ],
     "name:pfl_x_preferred":[
         "Irlond"
     ],
@@ -1031,6 +1056,12 @@
     ],
     "name:srn_x_preferred":[
         "Irikondre"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Republika Irska"
     ],
     "name:srp_x_preferred":[
         "\u0418\u0440\u0441\u043a\u0430"
@@ -1226,8 +1257,26 @@
     "name:zha_x_preferred":[
         "Aiwjlanz Gunghozgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u7231\u5c14\u5170"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u611b\u723e\u862d"
+    ],
     "name:zho_min_nan_x_preferred":[
         "\u00c9ire-t\u00f3"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u611b\u723e\u862d\u5171\u548c\u570b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u7231\u5c14\u5170\u5171\u548c\u56fd"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u7231\u5c14\u5170\u5171\u548c\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u611b\u723e\u862d"
     ],
     "name:zho_x_preferred":[
         "\u7231\u5c14\u5170\u5c9b"
@@ -1394,7 +1443,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583797359,
+    "wof:lastmodified":1587427734,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
