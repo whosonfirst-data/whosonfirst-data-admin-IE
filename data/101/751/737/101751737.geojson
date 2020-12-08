@@ -719,7 +719,9 @@
         85685015
     ],
     "wof:breaches":[],
-    "wof:capital_of":85633241,
+    "wof:capital_of":[
+        85633241
+    ],
     "wof:concordances":{
         "dbp:id":"Dublin",
         "fb:id":"en.dublin",
@@ -751,7 +753,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1587427739,
+    "wof:lastmodified":1607390878,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":85685015,
