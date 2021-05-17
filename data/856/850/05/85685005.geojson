@@ -11,13 +11,16 @@
     "geom:longitude":-7.355876,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Laois County"
+        "County Laois"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "LS"
+    ],
+    "label:eng_x_variant_longname":[
+        "Laois County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Laoise"
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617131486,
+    "wof:lastmodified":1621288236,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

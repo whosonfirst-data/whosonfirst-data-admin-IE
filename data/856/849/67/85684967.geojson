@@ -11,13 +11,16 @@
     "geom:longitude":-6.571483,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Wexford County"
+        "County Wexford"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "WX"
+    ],
+    "label:eng_x_variant_longname":[
+        "Wexford County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Loch Garman"
@@ -357,7 +360,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882830,
+    "wof:lastmodified":1621288267,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

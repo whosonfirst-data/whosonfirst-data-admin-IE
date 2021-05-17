@@ -11,10 +11,13 @@
     "geom:longitude":-7.957953,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Tipperary County"
+        "County Tipperary"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
+    ],
+    "label:eng_x_variant_longname":[
+        "Tipperary County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Thiobraid \u00c1rann"
@@ -161,7 +164,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617130287,
+    "wof:lastmodified":1621288286,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

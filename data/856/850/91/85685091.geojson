@@ -11,13 +11,16 @@
     "geom:longitude":-7.725083,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Longford County"
+        "County Longford"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "LD"
+    ],
+    "label:eng_x_variant_longname":[
+        "Longford County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae an Longfoirt"
@@ -358,7 +361,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882810,
+    "wof:lastmodified":1621288242,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

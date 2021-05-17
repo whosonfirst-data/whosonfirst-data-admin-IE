@@ -11,13 +11,16 @@
     "geom:longitude":-7.597076,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Waterford County"
+        "County Waterford"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "WD"
+    ],
+    "label:eng_x_variant_longname":[
+        "Waterford County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Phort L\u00e1irge"
@@ -294,7 +297,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882826,
+    "wof:lastmodified":1621288276,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

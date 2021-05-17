@@ -11,13 +11,16 @@
     "geom:longitude":-6.41404,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Louth County"
+        "County Louth"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "LH"
+    ],
+    "label:eng_x_variant_longname":[
+        "Louth County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae L\u00fa"
@@ -379,7 +382,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617130156,
+    "wof:lastmodified":1621288238,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

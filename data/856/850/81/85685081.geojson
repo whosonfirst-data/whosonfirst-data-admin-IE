@@ -11,13 +11,16 @@
     "geom:longitude":-6.731975,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Meath County"
+        "County Meath"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "MH"
+    ],
+    "label:eng_x_variant_longname":[
+        "Meath County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae na M\u00ed"
@@ -373,7 +376,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617131064,
+    "wof:lastmodified":1621288240,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

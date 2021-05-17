@@ -11,13 +11,16 @@
     "geom:longitude":-8.022663,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Leitrim County"
+        "County Leitrim"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "LM"
+    ],
+    "label:eng_x_variant_longname":[
+        "Leitrim County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Liatroma"
@@ -366,7 +369,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882812,
+    "wof:lastmodified":1621288259,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

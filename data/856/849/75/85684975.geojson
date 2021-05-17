@@ -11,13 +11,16 @@
     "geom:longitude":-6.823152,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Carlow County"
+        "County Carlow"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "CW"
+    ],
+    "label:eng_x_variant_longname":[
+        "Carlow County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Cheatharlach"
@@ -370,7 +373,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617131061,
+    "wof:lastmodified":1621288270,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

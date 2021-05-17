@@ -11,13 +11,16 @@
     "geom:longitude":-7.23331,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Kilkenny County"
+        "County Kilkenny"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "KK"
+    ],
+    "label:eng_x_variant_longname":[
+        "Kilkenny County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Chill Chainnigh"
@@ -395,7 +398,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882801,
+    "wof:lastmodified":1621288285,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -11,13 +11,16 @@
     "geom:longitude":-7.44321,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Westmeath County"
+        "County Westmeath"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "WH"
+    ],
+    "label:eng_x_variant_longname":[
+        "Westmeath County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae na hIarmh\u00ed"
@@ -350,7 +353,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882828,
+    "wof:lastmodified":1621288239,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

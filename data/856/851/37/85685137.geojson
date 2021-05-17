@@ -11,13 +11,16 @@
     "geom:longitude":-8.623468,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Sligo County"
+        "County Sligo"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "SO"
+    ],
+    "label:eng_x_variant_longname":[
+        "Sligo County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Shligigh"
@@ -365,7 +368,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882823,
+    "wof:lastmodified":1621288264,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
