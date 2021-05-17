@@ -19,9 +19,16 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Carragh"
+    ],
+    "name:eng_x_variant":[
+        "Cabragh",
+        "Caragh"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -70,8 +77,8 @@
         }
     ],
     "wof:id":1125940763,
-    "wof:lastmodified":1566680155,
-    "wof:name":"Cabragh",
+    "wof:lastmodified":1620429632,
+    "wof:name":"Carragh",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
     "wof:population":882,
