@@ -11,13 +11,16 @@
     "geom:longitude":-7.352391,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Cavan County"
+        "County Cavan"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "CN"
+    ],
+    "label:eng_x_variant_longname":[
+        "Cavan County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae an Chabh\u00e1in"
@@ -364,7 +367,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617131306,
+    "wof:lastmodified":1621288266,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -11,13 +11,16 @@
     "geom:longitude":-6.923475,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Monaghan County"
+        "County Monaghan"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "MN"
+    ],
+    "label:eng_x_variant_longname":[
+        "Monaghan County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Mhuineach\u00e1in"
@@ -356,7 +359,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882814,
+    "wof:lastmodified":1621288263,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

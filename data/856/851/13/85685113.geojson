@@ -11,13 +11,16 @@
     "geom:longitude":-8.246467,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Roscommon County"
+        "County Roscommon"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "RN"
+    ],
+    "label:eng_x_variant_longname":[
+        "Roscommon County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Ros Com\u00e1in"
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882821,
+    "wof:lastmodified":1621288265,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

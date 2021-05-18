@@ -11,13 +11,16 @@
     "geom:longitude":-7.600257,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Offaly County"
+        "County Offaly"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "OY"
+    ],
+    "label:eng_x_variant_longname":[
+        "Offaly County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae U\u00edbh Fhail\u00ed"
@@ -359,7 +362,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617131256,
+    "wof:lastmodified":1621288251,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

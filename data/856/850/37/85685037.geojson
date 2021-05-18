@@ -11,13 +11,16 @@
     "geom:longitude":-9.042809,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Clare County"
+        "County Clare"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "CE"
+    ],
+    "label:eng_x_variant_longname":[
+        "Clare County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae an Chl\u00e1ir"
@@ -361,7 +364,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882787,
+    "wof:lastmodified":1621288242,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

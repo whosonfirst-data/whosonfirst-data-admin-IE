@@ -11,10 +11,13 @@
     "geom:longitude":-9.384428,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Mayo County"
+        "County Mayo"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
+    ],
+    "label:eng_x_variant_longname":[
+        "Mayo County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Mhaigh Eo"
@@ -290,7 +293,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1617130104,
+    "wof:lastmodified":1621288260,
     "wof:name":"Mayo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

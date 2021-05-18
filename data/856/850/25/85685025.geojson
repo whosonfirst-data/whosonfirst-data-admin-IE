@@ -11,13 +11,16 @@
     "geom:longitude":-6.818527,
     "iso:country":"IE",
     "label:eng_x_preferred_longname":[
-        "Kildare County"
+        "County Kildare"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
     ],
     "label:eng_x_preferred_shortcode":[
         "KE"
+    ],
+    "label:eng_x_variant_longname":[
+        "Kildare County"
     ],
     "label:gle_x_preferred_longname":[
         "Contae Chill Dara"
@@ -367,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1583882801,
+    "wof:lastmodified":1621288252,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
