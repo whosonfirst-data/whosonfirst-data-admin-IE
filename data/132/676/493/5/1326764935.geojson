@@ -52,6 +52,9 @@
         "\u10d1\u10d0\u10da\u10d8\u10dc\u10d0"
     ],
     "name:kor_x_preferred":[
+        "\ubc1c\ub9ac\ub098"
+    ],
+    "name:kor_x_variant":[
         "\ubc38\ub9ac\ub098"
     ],
     "name:mlg_x_preferred":[
@@ -72,6 +75,18 @@
     "name:swe_x_preferred":[
         "Ballina"
     ],
+    "name:tur_x_preferred":[
+        "Ballina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0456\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ballina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +98,7 @@
         "gn:id":9884559
     },
     "wof:country":"IE",
-    "wof:geomhash":"afb489651085b7a59b670b6610b99e72",
+    "wof:geomhash":"c603e4dc2977762f1d5f7108d1969a03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":1326764935,
-    "wof:lastmodified":1566679389,
+    "wof:lastmodified":1636502566,
     "wof:name":"Ballina",
     "wof:parent_id":85685075,
     "wof:placetype":"locality",
@@ -104,9 +119,9 @@
 },
   "bbox": [
     -7.42242,
-    53.50709000000001,
+    53.50709,
     -7.42242,
-    53.50709000000001
+    53.50709
 ],
-  "geometry": {"coordinates":[-7.42242,53.50709000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.42242,53.50709],"type":"Point"}
 }

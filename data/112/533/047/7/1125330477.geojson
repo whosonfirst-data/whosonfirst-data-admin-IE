@@ -188,6 +188,9 @@
         "\u0414\u0435\u0440\u0440\u0456"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u06cc\u0631\u06cc\u0646 \u06af\u06cc\u067e"
+    ],
+    "name:urd_x_variant":[
         "\u0688\u06cc\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":1125330477,
-    "wof:lastmodified":1566680161,
+    "wof:lastmodified":1636502595,
     "wof:name":"Derry",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",

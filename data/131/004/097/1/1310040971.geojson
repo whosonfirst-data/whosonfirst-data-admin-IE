@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09b0\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Monroe"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:deu_x_preferred":[
         "Monroe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c1\u03cc"
     ],
     "name:epo_x_preferred":[
         "Monroe"
@@ -57,7 +63,13 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e0\u05e8\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0928\u0930\u094b"
+    ],
     "name:hun_x_preferred":[
+        "Monroe"
+    ],
+    "name:ind_x_preferred":[
         "Monroe"
     ],
     "name:ita_x_preferred":[
@@ -84,6 +96,9 @@
     "name:swe_x_preferred":[
         "Monroe"
     ],
+    "name:vie_x_preferred":[
+        "Monroe"
+    ],
     "name:vol_x_preferred":[
         "Monroe"
     ],
@@ -101,7 +116,7 @@
         "gn:id":3312482
     },
     "wof:country":"IE",
-    "wof:geomhash":"46624a4f2f40d66e359885832694cde8",
+    "wof:geomhash":"a3e3c29913f969829286ede2776987f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":1310040971,
-    "wof:lastmodified":1566680047,
+    "wof:lastmodified":1636502591,
     "wof:name":"Monroe",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",
@@ -122,9 +137,9 @@
 },
   "bbox": [
     -8.90389,
-    53.38583000000001,
+    53.38583,
     -8.90389,
-    53.38583000000001
+    53.38583
 ],
-  "geometry": {"coordinates":[-8.90389,53.38583000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.90389,53.38583],"type":"Point"}
 }

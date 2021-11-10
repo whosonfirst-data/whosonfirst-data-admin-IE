@@ -163,15 +163,24 @@
         "\u0e14\u0e32\u0e27\u0e44\u0e21\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
+        "Mira"
+    ],
+    "name:tur_x_variant":[
         "Mira Ceti"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0631\u0627"
+    ],
     "name:uzb_x_preferred":[
         "Mira"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Mira"
+    ],
+    "name:vie_x_variant":[
         "Mira"
     ],
     "name:war_x_preferred":[
@@ -189,7 +198,7 @@
         "gn:id":3312500
     },
     "wof:country":"IE",
-    "wof:geomhash":"46dd9881018aa0520cecc0b910e96c42",
+    "wof:geomhash":"43bf4665b79f9eacc1a51e73df54dd31",
     "wof:hierarchy":[
         {
             "country_id":85633241,
@@ -197,7 +206,7 @@
         }
     ],
     "wof:id":1209351661,
-    "wof:lastmodified":1566679902,
+    "wof:lastmodified":1636502590,
     "wof:name":"Mira",
     "wof:parent_id":85633241,
     "wof:placetype":"locality",
@@ -208,9 +217,9 @@
 },
   "bbox": [
     -8.81,
-    53.37889000000001,
+    53.37889,
     -8.81,
-    53.37889000000001
+    53.37889
 ],
-  "geometry": {"coordinates":[-8.81,53.37889000000001],"type":"Point"}
+  "geometry": {"coordinates":[-8.81,53.37889],"type":"Point"}
 }

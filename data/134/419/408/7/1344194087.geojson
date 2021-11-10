@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Leitrim"
     ],
+    "name:hun_x_preferred":[
+        "Leitrim"
+    ],
     "name:pol_x_preferred":[
         "Leitrim"
     ],
@@ -56,7 +59,7 @@
         "gn:id":3310634
     },
     "wof:country":"IE",
-    "wof:geomhash":"a74183b0d81f787ed728daae0ee7d6cd",
+    "wof:geomhash":"63231c9dd727bfcbebc37454aa36d806",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1344194087,
-    "wof:lastmodified":1566679486,
+    "wof:lastmodified":1636502567,
     "wof:name":"Leitrim",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",
@@ -77,9 +80,9 @@
 },
   "bbox": [
     -6.88972,
-    54.27028000000001,
+    54.27028,
     -6.88972,
-    54.27028000000001
+    54.27028
 ],
-  "geometry": {"coordinates":[-6.88972,54.27028000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.88972,54.27028],"type":"Point"}
 }

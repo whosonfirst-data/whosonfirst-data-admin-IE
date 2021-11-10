@@ -196,6 +196,9 @@
         "\u0414\u0435\u0440\u0440\u0456"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u06cc\u0631\u06cc\u0646 \u06af\u06cc\u067e"
+    ],
+    "name:urd_x_variant":[
         "\u0688\u06cc\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
@@ -221,7 +224,7 @@
         "gn:id":10277847
     },
     "wof:country":"IE",
-    "wof:geomhash":"5c58a26466c12df4c73a4c0d688ab139",
+    "wof:geomhash":"8c988a7d3a86221a6d391c5c6b8e8f88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":1293231859,
-    "wof:lastmodified":1566679711,
+    "wof:lastmodified":1636502587,
     "wof:name":"Derry",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",
@@ -242,9 +245,9 @@
 },
   "bbox": [
     -9.84109,
-    53.62968000000001,
+    53.62968,
     -9.84109,
-    53.62968000000001
+    53.62968
 ],
-  "geometry": {"coordinates":[-9.84109,53.62968000000001],"type":"Point"}
+  "geometry": {"coordinates":[-9.84109,53.62968],"type":"Point"}
 }

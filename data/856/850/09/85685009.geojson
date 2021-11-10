@@ -197,7 +197,16 @@
         "\u062c\u0646\u0648\u0628\u06cc \u0688\u0628\u0644\u0646"
     ],
     "name:vie_x_preferred":[
+        "South Dublin"
+    ],
+    "name:vie_x_variant":[
         "Nam Dublin"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5357\u90fd\u67cf\u6797"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u90fd\u67cf\u6797"
     ],
     "name:zho_x_preferred":[
         "\u5357\u90fd\u67cf\u6797\u90e1"
@@ -309,7 +318,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288241,
+    "wof:lastmodified":1636502572,
     "wof:name":"South Dublin",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

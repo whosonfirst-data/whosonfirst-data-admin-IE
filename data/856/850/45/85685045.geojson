@@ -103,6 +103,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u092b\u093c\u093f\u0902\u0917\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Fingal"
+    ],
     "name:ind_x_preferred":[
         "County Fingal"
     ],
@@ -324,7 +327,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288237,
+    "wof:lastmodified":1636502568,
     "wof:name":"Fingal",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

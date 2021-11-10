@@ -118,6 +118,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0935\u0947\u0938\u094d\u091f\u092e\u0947\u0925"
     ],
+    "name:hun_x_preferred":[
+        "Westmeath"
+    ],
     "name:ind_x_preferred":[
         "County Westmeath"
     ],
@@ -353,7 +356,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288239,
+    "wof:lastmodified":1636502570,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

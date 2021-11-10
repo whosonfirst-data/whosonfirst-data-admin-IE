@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Leitrim"
     ],
+    "name:hun_x_preferred":[
+        "Leitrim"
+    ],
     "name:pol_x_preferred":[
         "Leitrim"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125323947,
-    "wof:lastmodified":1566680186,
+    "wof:lastmodified":1636502597,
     "wof:name":"Leitrim",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",

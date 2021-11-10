@@ -121,6 +121,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0911\u092b\u0947\u0932\u0940"
     ],
+    "name:hun_x_preferred":[
+        "Offaly"
+    ],
     "name:ind_x_preferred":[
         "County Offaly"
     ],
@@ -362,7 +365,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288251,
+    "wof:lastmodified":1636502574,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

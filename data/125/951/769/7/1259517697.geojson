@@ -45,6 +45,9 @@
     "name:glv_x_preferred":[
         "Lheeahtrim"
     ],
+    "name:hun_x_preferred":[
+        "Leitrim"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e2\u10e0\u10d8\u10db\u10d8"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1259517697,
-    "wof:lastmodified":1566680442,
+    "wof:lastmodified":1636502601,
     "wof:name":"Leitrim",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",

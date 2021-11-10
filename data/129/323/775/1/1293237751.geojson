@@ -355,6 +355,9 @@
         "Joucen"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Swan"
+    ],
+    "name:vie_x_variant":[
         "Thi\u00ean nga"
     ],
     "name:war_x_preferred":[
@@ -387,7 +390,7 @@
         }
     ],
     "wof:id":1293237751,
-    "wof:lastmodified":1566679710,
+    "wof:lastmodified":1636502587,
     "wof:name":"Swan",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

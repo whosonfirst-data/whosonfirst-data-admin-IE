@@ -20,6 +20,30 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0646\u0627\u063a\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u0989\u09a8\u09bf\u099a\u09cd\u09af\u09be\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03af\u03bd\u03b5\u03b1\u03c7\u03b1\u03bd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094d\u092f\u0942\u0928\u093f\u092f\u093e\u091a\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Muineachan"
+    ],
+    "name:por_x_preferred":[
+        "Monaghan"
+    ],
+    "name:tur_x_preferred":[
+        "Muineachan"
+    ],
+    "name:vie_x_preferred":[
+        "Muineachan"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Muineachan",
@@ -65,7 +89,7 @@
         }
     ],
     "wof:id":1125868829,
-    "wof:lastmodified":1566680207,
+    "wof:lastmodified":1636502598,
     "wof:name":"Muineachan",
     "wof:parent_id":85685117,
     "wof:placetype":"locality",

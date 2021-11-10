@@ -33,6 +33,9 @@
     "name:deu_x_preferred":[
         "Killeen"
     ],
+    "name:hun_x_preferred":[
+        "Killeen"
+    ],
     "name:nld_x_preferred":[
         "Killeen"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226376785,
-    "wof:lastmodified":1566680527,
+    "wof:lastmodified":1636502602,
     "wof:name":"Killeen",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",

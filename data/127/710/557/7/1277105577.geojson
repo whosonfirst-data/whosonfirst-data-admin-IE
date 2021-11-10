@@ -40,10 +40,31 @@
         "Coill Dubh"
     ],
     "name:rus_x_preferred":[
+        "\u0411\u043b\u044d\u043a\u0432\u0443\u0434"
+    ],
+    "name:rus_x_variant":[
         "\u041a\u043e\u0438\u043b\u044c-\u0413\u0443\u0432"
     ],
     "name:spa_x_preferred":[
         "Coill Dubh"
+    ],
+    "name:tur_x_preferred":[
+        "Blackwood"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0435\u043a\u0432\u0443\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06cc\u06a9 \u0648\u0648\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Blackwood"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9ed1\u6728\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u62c9\u514b\u4f0d\u5fb7\u6cb3"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +89,7 @@
         }
     ],
     "wof:id":1277105577,
-    "wof:lastmodified":1566679850,
+    "wof:lastmodified":1636502589,
     "wof:name":"Blackwood",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",

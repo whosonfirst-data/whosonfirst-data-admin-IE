@@ -239,6 +239,9 @@
         "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0633\u0644\u0627\u06cc\u06af\u0648\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Sligo"
+    ],
+    "name:vie_x_variant":[
         "H\u1ea1t Sligo"
     ],
     "name:zho_x_preferred":[
@@ -368,7 +371,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288264,
+    "wof:lastmodified":1636502584,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:gle_x_variant":[
         "Br\u00e9anainn"
     ],
+    "name:hun_x_preferred":[
+        "Brandon"
+    ],
     "name:ita_x_preferred":[
         "baia di Brandon"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125883685,
-    "wof:lastmodified":1566680211,
+    "wof:lastmodified":1636502598,
     "wof:name":"Brandon",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",

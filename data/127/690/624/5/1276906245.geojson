@@ -52,6 +52,9 @@
         "\u10d1\u10d0\u10da\u10d8\u10dc\u10d0"
     ],
     "name:kor_x_preferred":[
+        "\ubc1c\ub9ac\ub098"
+    ],
+    "name:kor_x_variant":[
         "\ubc38\ub9ac\ub098"
     ],
     "name:mlg_x_preferred":[
@@ -70,6 +73,18 @@
         "\u0411\u0430\u043b\u043b\u0438\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "Ballina"
+    ],
+    "name:tur_x_preferred":[
+        "Ballina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0456\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Ballina"
     ],
     "src:geom":"geonames",
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":1276906245,
-    "wof:lastmodified":1566679838,
+    "wof:lastmodified":1636502589,
     "wof:name":"Ballina",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",

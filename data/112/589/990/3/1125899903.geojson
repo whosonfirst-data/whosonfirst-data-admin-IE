@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u064a\u062c\u0627\u0644"
     ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09cb\u09a8\u09c7\u0997\u09be\u09b2"
+    ],
     "name:bre_x_preferred":[
         "D\u00fan na nGall"
     ],
@@ -55,6 +58,9 @@
     "name:eus_x_preferred":[
         "Donegal"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Donegal"
     ],
@@ -79,17 +85,26 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e0\u05d2\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u0921\u0928\u0917\u0948\u0932"
+    ],
     "name:hun_x_preferred":[
         "Donegal"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0576\u0565\u0563\u0578\u056c"
     ],
+    "name:ind_x_preferred":[
+        "Donegal"
+    ],
     "name:ita_x_preferred":[
         "Donegal Town"
     ],
     "name:jpn_x_preferred":[
         "\u30c9\u30cb\u30b4\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ub124\uac08"
     ],
     "name:nld_x_preferred":[
         "Donegal"
@@ -109,8 +124,17 @@
     "name:swe_x_preferred":[
         "Donegal"
     ],
+    "name:tur_x_preferred":[
+        "Donegal"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0646\u06cc\u06af\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Donegal"
     ],
     "name:zho_x_preferred":[
         "\u591a\u5167\u52a0\u723e\u90e1"
@@ -164,7 +188,7 @@
         }
     ],
     "wof:id":1125899903,
-    "wof:lastmodified":1566680225,
+    "wof:lastmodified":1636502598,
     "wof:name":"Donegal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
