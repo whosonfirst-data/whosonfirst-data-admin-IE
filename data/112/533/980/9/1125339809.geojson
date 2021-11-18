@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.1266435,53.289922,-6.1266435,53.289922",
+    "geom:bbox":"-6.126644,53.289922,-6.126644,53.289922",
     "geom:latitude":53.289922,
     "geom:longitude":-6.126644,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497045591,
-    "wof:geomhash":"77986334947f9a2ab1e92d61735a38b1",
+    "wof:geomhash":"24e6fdfc5934ffd63c8cdc888bfb9dbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125339809,
-    "wof:lastmodified":1566680167,
+    "wof:lastmodified":1637271416,
     "wof:name":"Dun Laoghaire-Glasthule",
     "wof:parent_id":85685001,
     "wof:placetype":"localadmin",
@@ -75,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.1266435,
+    -6.126644,
     53.289922,
-    -6.1266435,
+    -6.126644,
     53.289922
 ],
-  "geometry": {"coordinates":[-6.1266435,53.289922],"type":"Point"}
+  "geometry": {"coordinates":[-6.126644,53.289922],"type":"Point"}
 }

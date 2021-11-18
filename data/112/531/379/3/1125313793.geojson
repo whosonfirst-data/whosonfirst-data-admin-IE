@@ -3,7 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2018-08-15",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-15",
     "geom:area":0.0,
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1125313793,
-    "wof:lastmodified":1534379339,
+    "wof:lastmodified":1637271454,
     "wof:name":"Ardmore",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.5338685,53.244468,-9.5338685,53.244468",
+    "geom:bbox":"-9.533869,53.244468,-9.533869,53.244468",
     "geom:latitude":53.244468,
     "geom:longitude":-9.533869,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -67,7 +68,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497050064,
-    "wof:geomhash":"a5244ea218e44cc9cc5c6fe2c41ef265",
+    "wof:geomhash":"1d5b0d5fe092d8ec524955dbd1cd0f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1125410675,
-    "wof:lastmodified":1566680306,
+    "wof:lastmodified":1637271466,
     "wof:name":"Kilcummin",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
@@ -87,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.5338685,
+    -9.533869,
     53.244468,
-    -9.5338685,
+    -9.533869,
     53.244468
 ],
-  "geometry": {"coordinates":[-9.5338685,53.244468],"type":"Point"}
+  "geometry": {"coordinates":[-9.533869,53.244468],"type":"Point"}
 }

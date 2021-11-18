@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.9333435,53.090673,-8.9333435,53.090673",
+    "geom:bbox":"-8.933343,53.090673,-8.933343,53.090673",
     "geom:latitude":53.090673,
     "geom:longitude":-8.933343,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497044850,
-    "wof:geomhash":"f1d2ec2af6e35cac95d4748a366cb786",
+    "wof:geomhash":"b441ddbde3514678fb10b5e96ef55751",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125326539,
-    "wof:lastmodified":1566680188,
+    "wof:lastmodified":1637271425,
     "wof:name":"Killinny",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
@@ -75,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.9333435,
+    -8.933343,
     53.090673,
-    -8.9333435,
+    -8.933343,
     53.090673
 ],
-  "geometry": {"coordinates":[-8.9333435,53.090673],"type":"Point"}
+  "geometry": {"coordinates":[-8.933343,53.090673],"type":"Point"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.0669255,53.132019,-6.0669255,53.132019",
+    "geom:bbox":"-6.066925,53.132019,-6.066925,53.132019",
     "geom:latitude":53.132019,
     "geom:longitude":-6.066925,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -77,7 +78,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497045667,
-    "wof:geomhash":"3cd2dd2cc01ecff93f115d27eba033dc",
+    "wof:geomhash":"6209e47fd33535b9aedb8afb2d8d20c0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1125341241,
-    "wof:lastmodified":1566680172,
+    "wof:lastmodified":1637271418,
     "wof:name":"Delgany",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
@@ -97,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.0669255,
+    -6.066925,
     53.132019,
-    -6.0669255,
+    -6.066925,
     53.132019
 ],
-  "geometry": {"coordinates":[-6.0669255,53.132019],"type":"Point"}
+  "geometry": {"coordinates":[-6.066925,53.132019],"type":"Point"}
 }
