@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000018,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.22316,52.51089,-8.22316,52.51089",
-    "geom:latitude":52.51089,
-    "geom:longitude":-8.22316,
+    "geom:bbox":"-8.227027,52.508719,-8.218318,52.51294",
+    "geom:latitude":52.510893,
+    "geom:longitude":-8.223164,
     "gn:admin1_code":"M",
     "gn:admin2_code":"26",
     "gn:asciiname":"Monard",
@@ -23,20 +23,27 @@
     "gn:name":"Monard",
     "gn:population":205,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Monard",
+    "ie-gov:settlement":23024,
     "iso:country":"IE",
-    "lbl:bbox":"-8.24316,52.49089,-8.20316,52.53089",
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Monard"
+    ],
     "name:fra_x_preferred":[
         "Monard"
     ],
     "name:spa_x_preferred":[
         "Monard"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +55,10 @@
         "gn:id":3305767
     },
     "wof:country":"IE",
-    "wof:geomhash":"79c34f7404599d232a5e8d2ac30436bd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f71e91a9bd11b0c3793e2a8ed44a2500",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1293034805,
-    "wof:lastmodified":1566679734,
+    "wof:lastmodified":1637371026,
     "wof:name":"Monard",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.22316,
-    52.51089,
-    -8.22316,
-    52.51089
+    -8.227027,
+    52.508719,
+    -8.218318,
+    52.51294
 ],
-  "geometry": {"coordinates":[-8.22316,52.51089],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.221654,52.512211],[-8.220515,52.511369],[-8.220416,52.511271],[-8.220155,52.511046],[-8.220114,52.510986],[-8.219883,52.511053],[-8.218701,52.511309],[-8.218318,52.510834],[-8.220966,52.510352],[-8.220972,52.510248],[-8.221624,52.509917],[-8.221684,52.50985],[-8.221719,52.509813],[-8.221212,52.509512],[-8.220789,52.509097],[-8.220898,52.509061],[-8.221899,52.508719],[-8.224417,52.509467],[-8.224775,52.509819],[-8.225445,52.50999],[-8.225581,52.510164],[-8.226464,52.509958],[-8.226176,52.511328],[-8.226876,52.511548],[-8.227027,52.511616],[-8.226754,52.512281],[-8.226679,52.512366],[-8.226312,52.51221],[-8.225293,52.511745],[-8.22509,52.511919],[-8.224744,52.512075],[-8.224708,52.512244],[-8.223299,52.51294],[-8.223267,52.512939],[-8.223267,52.512923],[-8.222533,52.512837],[-8.222375,52.512811],[-8.222324,52.512708],[-8.221654,52.512211]]],"type":"Polygon"}
 }
