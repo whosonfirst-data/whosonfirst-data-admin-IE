@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1125923397,
-    "wof:lastmodified":1637371177,
+    "wof:lastmodified":1637709070,
     "wof:name":"Sneem",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",
@@ -132,7 +132,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125286301
+    ],
     "wof:tags":[]
 },
   "bbox": [

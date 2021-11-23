@@ -98,14 +98,16 @@
         }
     ],
     "wof:id":1125354993,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709067,
     "wof:name":"Rathdowney",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:population":1208,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -129,14 +129,16 @@
         }
     ],
     "wof:id":1125310153,
-    "wof:lastmodified":1637271453,
+    "wof:lastmodified":1637709044,
     "wof:name":"Abbeyfeale",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":2007,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101806007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

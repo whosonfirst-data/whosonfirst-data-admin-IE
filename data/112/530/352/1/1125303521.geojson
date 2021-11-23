@@ -97,14 +97,16 @@
         }
     ],
     "wof:id":1125303521,
-    "wof:lastmodified":1637271444,
+    "wof:lastmodified":1637709052,
     "wof:name":"Cappoquin",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
     "wof:population":759,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

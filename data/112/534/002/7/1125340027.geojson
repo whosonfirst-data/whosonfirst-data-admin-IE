@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125340027,
-    "wof:lastmodified":1637271418,
+    "wof:lastmodified":1637709072,
     "wof:name":"Kinnegad",
     "wof:parent_id":85685075,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

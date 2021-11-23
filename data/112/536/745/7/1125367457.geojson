@@ -90,12 +90,14 @@
         }
     ],
     "wof:id":1125367457,
-    "wof:lastmodified":1637271460,
+    "wof:lastmodified":1637709062,
     "wof:name":"Keshcarrigan",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

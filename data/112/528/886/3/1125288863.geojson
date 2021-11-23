@@ -97,14 +97,16 @@
         }
     ],
     "wof:id":1125288863,
-    "wof:lastmodified":1637271427,
+    "wof:lastmodified":1637709075,
     "wof:name":"Ballycastle",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:population":234,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

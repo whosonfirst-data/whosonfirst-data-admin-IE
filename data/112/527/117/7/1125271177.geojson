@@ -93,12 +93,14 @@
         }
     ],
     "wof:id":1125271177,
-    "wof:lastmodified":1637271432,
+    "wof:lastmodified":1637709047,
     "wof:name":"Bellavary",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327064117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

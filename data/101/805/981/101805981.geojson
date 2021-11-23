@@ -83,6 +83,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961224,
+    "qs_pg:gn_pop":1603,
+    "qs_pg:name":"Thomastown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":730,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":960523,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072923,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -90,6 +110,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1336,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -121,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371089,
+    "wof:lastmodified":1637709047,
     "wof:name":"Thomastown",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",
@@ -129,7 +153,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125376013
+    ],
     "wof:tags":[]
 },
   "bbox": [

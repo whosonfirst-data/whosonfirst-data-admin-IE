@@ -127,14 +127,16 @@
         }
     ],
     "wof:id":1125376025,
-    "wof:lastmodified":1637271439,
+    "wof:lastmodified":1637709063,
     "wof:name":"Ratoath",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:population":9043,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

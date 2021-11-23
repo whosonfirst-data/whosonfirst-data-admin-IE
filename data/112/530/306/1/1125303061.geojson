@@ -104,14 +104,16 @@
         }
     ],
     "wof:id":1125303061,
-    "wof:lastmodified":1637271444,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballycotton",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:population":476,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805931
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -589,14 +589,16 @@
         }
     ],
     "wof:id":1125320255,
-    "wof:lastmodified":1637271422,
+    "wof:lastmodified":1637709069,
     "wof:name":"Virginia",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":2282,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

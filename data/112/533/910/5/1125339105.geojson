@@ -93,12 +93,14 @@
         }
     ],
     "wof:id":1125339105,
-    "wof:lastmodified":1637271416,
+    "wof:lastmodified":1637709044,
     "wof:name":"Dunleer",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

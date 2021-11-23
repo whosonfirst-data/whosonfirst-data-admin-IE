@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125304427,
-    "wof:lastmodified":1637271447,
+    "wof:lastmodified":1637709049,
     "wof:name":"Newtown Forbes",
     "wof:parent_id":85685091,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226278551
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -127,14 +127,16 @@
         }
     ],
     "wof:id":1125405305,
-    "wof:lastmodified":1637271461,
+    "wof:lastmodified":1637709060,
     "wof:name":"Oranmore",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":4799,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658713
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

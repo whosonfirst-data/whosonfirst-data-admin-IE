@@ -75,12 +75,14 @@
         }
     ],
     "wof:id":1125321955,
-    "wof:lastmodified":1637271421,
+    "wof:lastmodified":1637709055,
     "wof:name":"Rathcormack",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126015131
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125981715,
-    "wof:lastmodified":1637371161,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballymore Eustace",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -117,7 +117,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125370943
+    ],
     "wof:tags":[]
 },
   "bbox": [

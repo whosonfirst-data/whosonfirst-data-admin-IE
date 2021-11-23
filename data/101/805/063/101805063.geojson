@@ -113,6 +113,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -144,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371151,
+    "wof:lastmodified":1637709051,
     "wof:name":"Milford",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -153,7 +157,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125807953
+        1125807953,
+        1125356521
     ],
     "wof:tags":[]
 },

@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125412007,
-    "wof:lastmodified":1637271465,
+    "wof:lastmodified":1637709058,
     "wof:name":"Kilmaganny",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:population":226,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

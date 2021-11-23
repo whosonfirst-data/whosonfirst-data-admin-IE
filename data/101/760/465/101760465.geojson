@@ -77,6 +77,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"suburbs point-in-poly reup",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Saggart",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":135,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4425,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1297881,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072267,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -84,6 +101,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":784,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -93,6 +114,7 @@
     "wof:concordances":{
         "gn:id":2961636,
         "gp:id":562162,
+        "qs_pg:id":1297881,
         "wd:id":"Q2639382",
         "wk:page":"Saggart"
     },
@@ -110,7 +132,7 @@
         }
     ],
     "wof:id":101760465,
-    "wof:lastmodified":1637371152,
+    "wof:lastmodified":1637709047,
     "wof:name":"Saggart",
     "wof:parent_id":85685009,
     "wof:placetype":"locality",
@@ -118,7 +140,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125330853
+    ],
     "wof:tags":[]
 },
   "bbox": [

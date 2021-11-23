@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125937961,
-    "wof:lastmodified":1637371040,
+    "wof:lastmodified":1637709072,
     "wof:name":"Dromiskin",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",
@@ -117,7 +117,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125411251
+    ],
     "wof:tags":[]
 },
   "bbox": [

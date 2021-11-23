@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1125791345,
-    "wof:lastmodified":1637371128,
+    "wof:lastmodified":1637709052,
     "wof:name":"Rathmullen",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -136,7 +136,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125415589
+    ],
     "wof:tags":[]
 },
   "bbox": [

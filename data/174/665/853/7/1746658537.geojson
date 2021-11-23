@@ -17,15 +17,177 @@
     "mps:longitude":-8.406013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648\u0628\u0648\u0631\u062a"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u044c\u044e\u043f\u0430\u0440\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0989\u09aa\u09cb\u09b0\u09cd\u099f"
+    ],
+    "name:bre_x_preferred":[
+        "Newport"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u044e\u043f\u043e\u0440\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Newport"
+    ],
+    "name:ceb_x_preferred":[
+        "Newport"
+    ],
+    "name:ces_x_preferred":[
+        "Newport"
+    ],
+    "name:cym_x_preferred":[
+        "Newport"
+    ],
+    "name:dan_x_preferred":[
+        "Newport"
+    ],
+    "name:deu_x_preferred":[
+        "Newport"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bf\u03cd\u03c0\u03bf\u03c1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Newport"
     ],
+    "name:epo_x_preferred":[
+        "Newport"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u067e\u0648\u0631\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Newport"
+    ],
+    "name:fra_x_preferred":[
+        "Newport"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5\u05e4\u05d5\u05e8\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094d\u092f\u0942\u092a\u094b\u0930\u094d\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Newport"
+    ],
+    "name:ind_x_preferred":[
+        "Newport"
+    ],
+    "name:isl_x_preferred":[
+        "Newport"
+    ],
+    "name:ita_x_preferred":[
+        "Newport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30dd\u30fc\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub274\ud3ec\ud2b8"
+    ],
+    "name:mlg_x_preferred":[
+        "Newport"
+    ],
+    "name:nds_x_preferred":[
+        "Newport"
+    ],
+    "name:nld_x_preferred":[
+        "Newport"
+    ],
+    "name:nor_x_preferred":[
+        "Newport"
+    ],
+    "name:pol_x_preferred":[
+        "Newport"
+    ],
+    "name:por_x_preferred":[
+        "Newport"
+    ],
+    "name:ron_x_preferred":[
+        "Newport"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044e\u043f\u043e\u0440\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Newport"
+    ],
+    "name:slk_x_preferred":[
+        "Newport"
+    ],
+    "name:spa_x_preferred":[
+        "Newport"
+    ],
+    "name:spa_x_variant":[],
+    "name:srp_x_preferred":[
+        "\u040a\u0443\u043f\u043e\u0440\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Newport"
+    ],
+    "name:tur_x_preferred":[
+        "Newport"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044e\u043f\u043e\u0440\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u067e\u0648\u0631\u0679"
+    ],
+    "name:vie_x_preferred":[
+        "Newport"
+    ],
+    "name:vol_x_preferred":[
+        "Newport"
+    ],
+    "name:war_x_preferred":[
+        "Newport"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7ebd\u6ce2\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d10\u6ce2\u7279"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d10\u6ce2\u7279"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Newport",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":180,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":503,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119595,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074080,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":22005
+        "gp:id":20074080,
+        "ie-gov:id":22005,
+        "qs_pg:id":1119595
     },
     "wof:country":"IE",
     "wof:created":1637371019,
@@ -40,13 +202,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371019,
+    "wof:lastmodified":1637709057,
     "wof:name":"Newport",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125334929
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -91,14 +91,16 @@
         }
     ],
     "wof:id":1125372841,
-    "wof:lastmodified":1637271441,
+    "wof:lastmodified":1637709074,
     "wof:name":"Rathangan",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:population":2374,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658663
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

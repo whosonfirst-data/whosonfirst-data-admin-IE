@@ -25,10 +25,25 @@
     "name:bul_x_preferred":[
         "\u0420\u044a\u0448"
     ],
+    "name:cat_x_preferred":[
+        "Rush"
+    ],
+    "name:ceb_x_preferred":[
+        "Rush"
+    ],
+    "name:ces_x_preferred":[
+        "Rush"
+    ],
     "name:dan_x_preferred":[
         "Rush"
     ],
+    "name:deu_x_preferred":[
+        "Rush"
+    ],
     "name:eng_x_preferred":[
+        "Rush"
+    ],
+    "name:est_x_preferred":[
         "Rush"
     ],
     "name:eus_x_preferred":[
@@ -36,6 +51,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0634"
+    ],
+    "name:fin_x_preferred":[
+        "Rush"
     ],
     "name:fra_x_preferred":[
         "Rush"
@@ -51,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Rush"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c3\u30b7\u30e5"
     ],
     "name:ltz_x_preferred":[
         "Rush"
@@ -73,8 +94,20 @@
     "name:spa_x_preferred":[
         "Rush"
     ],
+    "name:swe_x_preferred":[
+        "Rush"
+    ],
+    "name:tur_x_preferred":[
+        "Rush"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0634"
+    ],
+    "name:vol_x_preferred":[
+        "Rush"
+    ],
+    "name:zho_x_preferred":[
+        "Rush"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Fingal",
@@ -89,12 +122,33 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Rush",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":467,
+    "qs_pg:photos_1k":95,
+    "qs_pg:photos_9k":6,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1358,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891796,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072266,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -122,7 +176,7 @@
         }
     ],
     "wof:id":101804849,
-    "wof:lastmodified":1637371169,
+    "wof:lastmodified":1637709066,
     "wof:name":"Rush",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
@@ -130,7 +184,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125346019
+    ],
     "wof:tags":[]
 },
   "bbox": [

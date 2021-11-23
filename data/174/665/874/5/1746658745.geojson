@@ -17,15 +17,64 @@
     "mps:longitude":-9.523287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Doonbeg"
+    ],
+    "name:ceb_x_preferred":[
+        "Doonbeg"
+    ],
     "name:eng_x_preferred":[
         "Doonbeg"
     ],
+    "name:eus_x_preferred":[
+        "Doonbeg"
+    ],
+    "name:nld_x_preferred":[
+        "Doonbeg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0431\u0435\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Doonbeg"
+    ],
+    "name:swe_x_preferred":[
+        "Doonbeg"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964710,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Doonbeg",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":154,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":334659,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071372,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":16013
+        "gn:id":2964710,
+        "gp:id":20071372,
+        "ie-gov:id":16013,
+        "qs_pg:id":334659
     },
     "wof:country":"IE",
     "wof:created":1637371153,
@@ -40,13 +89,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371153,
+    "wof:lastmodified":1637709044,
     "wof:name":"Doonbeg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":272,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125371965
+    ],
     "wof:tags":[]
 },
   "bbox": [

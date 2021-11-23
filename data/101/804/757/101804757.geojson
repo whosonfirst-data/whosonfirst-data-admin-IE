@@ -25,6 +25,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u0410\u0431\u0456\u043b\u0435\u0439\u043a\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u0431\u0456\u043b\u0435\u0439\u043a\u0441"
+    ],
     "name:ceb_x_preferred":[
         "Abbeyleix"
     ],
@@ -94,6 +97,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2967092,
+    "qs_pg:gn_pop":1711,
+    "qs_pg:name":"Abbeyleix",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":136,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":246082,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073009,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -104,6 +127,10 @@
     "wd:latitude":52.8992,
     "wd:longitude":-7.3575,
     "wd:wordcount":839,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -135,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371086,
+    "wof:lastmodified":1637709067,
     "wof:name":"Abbeyleix",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",
@@ -143,7 +170,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125414205
+    ],
     "wof:tags":[]
 },
   "bbox": [

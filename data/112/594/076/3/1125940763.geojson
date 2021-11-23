@@ -40,6 +40,8 @@
     "qs_pg:name":"Cabragh",
     "qs_pg:name_adm0":"Ireland",
     "qs_pg:name_adm1":"Monaghan",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
     "qs_pg:photos_9k":1,
     "qs_pg:photos_9r":3,
     "qs_pg:photos_all":111,
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1125940763,
-    "wof:lastmodified":1637371177,
+    "wof:lastmodified":1637709073,
     "wof:name":"Carragh",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -94,7 +96,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125332857
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -76,14 +76,16 @@
         }
     ],
     "wof:id":1125303557,
-    "wof:lastmodified":1637271444,
+    "wof:lastmodified":1637709045,
     "wof:name":"Kilmacanoge",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:population":1028,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872745
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

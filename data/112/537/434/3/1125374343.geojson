@@ -107,14 +107,16 @@
         }
     ],
     "wof:id":1125374343,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709067,
     "wof:name":"Milltown",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":199,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658679
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

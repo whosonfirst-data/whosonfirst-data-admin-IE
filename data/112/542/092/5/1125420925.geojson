@@ -76,14 +76,16 @@
         }
     ],
     "wof:id":1125420925,
-    "wof:lastmodified":1637271437,
+    "wof:lastmodified":1637709069,
     "wof:name":"Cloontuskert",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":188,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658561
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

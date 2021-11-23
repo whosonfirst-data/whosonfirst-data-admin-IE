@@ -75,6 +75,8 @@
     "qs_pg:name":"Drumod",
     "qs_pg:name_adm0":"Ireland",
     "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
     "qs_pg:photos_9k":1,
     "qs_pg:photos_9r":1,
     "qs_pg:photos_all":2,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1125934561,
-    "wof:lastmodified":1637371091,
+    "wof:lastmodified":1637709072,
     "wof:name":"Drumod",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",
@@ -130,7 +132,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125332953
+    ],
     "wof:tags":[]
 },
   "bbox": [

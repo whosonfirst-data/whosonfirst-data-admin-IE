@@ -103,14 +103,16 @@
         }
     ],
     "wof:id":1125414511,
-    "wof:lastmodified":1637271465,
+    "wof:lastmodified":1637709045,
     "wof:name":"Castlegregory",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":243,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

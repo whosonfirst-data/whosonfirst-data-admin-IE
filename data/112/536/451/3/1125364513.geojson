@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125364513,
-    "wof:lastmodified":1637271460,
+    "wof:lastmodified":1637709057,
     "wof:name":"Bansha",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

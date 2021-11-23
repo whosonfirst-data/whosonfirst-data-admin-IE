@@ -69,12 +69,14 @@
         }
     ],
     "wof:id":1125374529,
-    "wof:lastmodified":1637271439,
+    "wof:lastmodified":1637709061,
     "wof:name":"Cloghan",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125992191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

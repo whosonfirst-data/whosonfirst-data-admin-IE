@@ -99,14 +99,16 @@
         }
     ],
     "wof:id":1125310139,
-    "wof:lastmodified":1637271453,
+    "wof:lastmodified":1637709074,
     "wof:name":"Rathvilly",
     "wof:parent_id":85684975,
     "wof:placetype":"localadmin",
     "wof:population":881,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

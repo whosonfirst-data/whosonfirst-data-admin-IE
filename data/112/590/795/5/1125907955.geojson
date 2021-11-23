@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":1125907955,
-    "wof:lastmodified":1637371182,
+    "wof:lastmodified":1637709060,
     "wof:name":"Lisdoonvarna",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",
@@ -142,7 +142,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125371157
+    ],
     "wof:tags":[]
 },
   "bbox": [

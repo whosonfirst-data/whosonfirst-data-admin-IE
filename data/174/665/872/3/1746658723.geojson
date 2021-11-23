@@ -17,15 +17,58 @@
     "mps:longitude":-9.28687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cong"
+    ],
+    "name:deu_x_preferred":[
+        "Cong"
+    ],
     "name:eng_x_preferred":[
         "Conga"
     ],
+    "name:gle_x_preferred":[
+        "Conga"
+    ],
+    "name:ita_x_preferred":[
+        "Cong"
+    ],
+    "name:swe_x_preferred":[
+        "Cong"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965239,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cong",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":120,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2185,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":280859,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073423,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":35021
+        "gn:id":2965239,
+        "gp:id":20073423,
+        "ie-gov:id":35021,
+        "qs_pg:id":280859
     },
     "wof:country":"IE",
     "wof:created":1637371138,
@@ -40,13 +83,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371138,
+    "wof:lastmodified":1637709043,
     "wof:name":"Conga",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":178,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125345739
+    ],
     "wof:tags":[]
 },
   "bbox": [

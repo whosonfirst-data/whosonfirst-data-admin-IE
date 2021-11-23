@@ -91,6 +91,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966201,
+    "qs_pg:gn_pop":1277,
+    "qs_pg:name":"Belturbet",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cavan",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":140,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1228989,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071254,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -101,6 +121,10 @@
     "wd:latitude":54.1,
     "wd:longitude":-7.45,
     "wd:wordcount":1574,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cavan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -132,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637370977,
+    "wof:lastmodified":1637709051,
     "wof:name":"Belturbet",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",
@@ -140,7 +164,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125327927
+    ],
     "wof:tags":[]
 },
   "bbox": [

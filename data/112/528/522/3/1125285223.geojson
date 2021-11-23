@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125285223,
-    "wof:lastmodified":1637271430,
+    "wof:lastmodified":1637709063,
     "wof:name":"Clogheen",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125896057
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

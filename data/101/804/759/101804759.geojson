@@ -70,6 +70,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Durrow",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":409,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":66485,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073052,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -77,6 +94,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -109,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371107,
+    "wof:lastmodified":1637709066,
     "wof:name":"Durrow",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",
@@ -117,7 +138,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125341137
+    ],
     "wof:tags":[]
 },
   "bbox": [

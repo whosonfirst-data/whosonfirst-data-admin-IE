@@ -118,14 +118,16 @@
         }
     ],
     "wof:id":1125372399,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709048,
     "wof:name":"Killala",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:population":574,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

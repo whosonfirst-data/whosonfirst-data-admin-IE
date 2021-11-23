@@ -17,15 +17,70 @@
     "mps:longitude":-7.459791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Stradbally"
+    ],
+    "name:ceb_x_preferred":[
+        "Stradbally"
+    ],
     "name:eng_x_preferred":[
         "Stradbally"
     ],
+    "name:eus_x_preferred":[
+        "Stradbally"
+    ],
+    "name:gle_x_preferred":[
+        "An tSr\u00e1idbhaile"
+    ],
+    "name:gle_x_variant":[
+        "An Sr\u00e1idbhaile"
+    ],
+    "name:lit_x_preferred":[
+        "Stradbalis"
+    ],
+    "name:nld_x_preferred":[
+        "Stradbally"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0434\u0431\u0430\u043b\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Stradbally"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961351,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stradbally",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":116,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238940,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074236,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":25008
+        "gn:id":2961351,
+        "gp:id":20074236,
+        "ie-gov:id":25008,
+        "qs_pg:id":238940
     },
     "wof:country":"IE",
     "wof:created":1637371014,
@@ -40,13 +95,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371014,
+    "wof:lastmodified":1637709055,
     "wof:name":"Stradbally",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":420,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125411801
+    ],
     "wof:tags":[]
 },
   "bbox": [

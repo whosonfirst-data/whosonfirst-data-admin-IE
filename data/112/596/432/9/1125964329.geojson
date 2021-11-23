@@ -144,7 +144,7 @@
         }
     ],
     "wof:id":1125964329,
-    "wof:lastmodified":1637371009,
+    "wof:lastmodified":1637709059,
     "wof:name":"Avoca",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",
@@ -152,7 +152,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125399657
+    ],
     "wof:tags":[]
 },
   "bbox": [

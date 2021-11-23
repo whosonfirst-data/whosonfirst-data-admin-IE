@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125332857,
-    "wof:lastmodified":1637271415,
+    "wof:lastmodified":1637709073,
     "wof:name":"Carragh",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125940763
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

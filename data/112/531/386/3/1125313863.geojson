@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125313863,
-    "wof:lastmodified":1637271457,
+    "wof:lastmodified":1637709052,
     "wof:name":"Ardara",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805085
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

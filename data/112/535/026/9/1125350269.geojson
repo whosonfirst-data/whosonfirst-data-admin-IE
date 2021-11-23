@@ -81,12 +81,14 @@
         }
     ],
     "wof:id":1125350269,
-    "wof:lastmodified":1637271420,
+    "wof:lastmodified":1637709045,
     "wof:name":"Clonroche",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101853149
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

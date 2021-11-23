@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125401605,
-    "wof:lastmodified":1637271461,
+    "wof:lastmodified":1637709045,
     "wof:name":"Kill",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101837625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

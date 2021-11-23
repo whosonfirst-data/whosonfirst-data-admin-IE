@@ -106,14 +106,16 @@
         }
     ],
     "wof:id":1125303123,
-    "wof:lastmodified":1637271446,
+    "wof:lastmodified":1637709062,
     "wof:name":"Shercock",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":531,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

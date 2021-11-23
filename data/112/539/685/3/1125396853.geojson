@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125396853,
-    "wof:lastmodified":1637271450,
+    "wof:lastmodified":1637709057,
     "wof:name":"Monivea",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125981165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

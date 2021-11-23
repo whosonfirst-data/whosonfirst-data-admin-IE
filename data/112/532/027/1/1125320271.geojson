@@ -85,14 +85,16 @@
         }
     ],
     "wof:id":1125320271,
-    "wof:lastmodified":1637271425,
+    "wof:lastmodified":1637709043,
     "wof:name":"Mullagh",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":1137,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658817
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

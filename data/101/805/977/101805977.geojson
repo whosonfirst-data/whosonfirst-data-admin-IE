@@ -115,6 +115,9 @@
     "name:lat_x_preferred":[
         "Canicopolis"
     ],
+    "name:lat_x_variant":[
+        "Kilkennia"
+    ],
     "name:lit_x_preferred":[
         "Kilkenis"
     ],
@@ -294,6 +297,22 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":2963398,
+    "qs_pg:gn_pop":21589,
+    "qs_pg:name":"Kilkenny",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1117698,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072883,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -305,6 +324,10 @@
     "wd:latitude":52.6477,
     "wd:longitude":-7.2561,
     "wd:wordcount":9057,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -337,7 +360,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637370983,
+    "wof:lastmodified":1637709051,
     "wof:name":"Kilkenny",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",
@@ -345,7 +368,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125289513
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -102,12 +102,14 @@
         }
     ],
     "wof:id":1125319093,
-    "wof:lastmodified":1637271452,
+    "wof:lastmodified":1637709048,
     "wof:name":"Ballinrobe",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805051
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

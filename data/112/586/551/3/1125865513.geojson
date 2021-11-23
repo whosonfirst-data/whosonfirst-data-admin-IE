@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1125865513,
-    "wof:lastmodified":1637371009,
+    "wof:lastmodified":1637709066,
     "wof:name":"Kilcoole",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",
@@ -127,7 +127,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125293825
+    ],
     "wof:tags":[]
 },
   "bbox": [

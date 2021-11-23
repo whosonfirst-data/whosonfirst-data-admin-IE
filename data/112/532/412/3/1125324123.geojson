@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125324123,
-    "wof:lastmodified":1637271422,
+    "wof:lastmodified":1637709065,
     "wof:name":"Oldcastle",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804871
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

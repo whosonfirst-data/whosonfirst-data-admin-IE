@@ -91,14 +91,16 @@
         }
     ],
     "wof:id":1125345739,
-    "wof:lastmodified":1637271417,
+    "wof:lastmodified":1637709043,
     "wof:name":"Cong",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:population":178,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

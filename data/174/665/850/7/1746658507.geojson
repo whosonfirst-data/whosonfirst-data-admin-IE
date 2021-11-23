@@ -20,12 +20,38 @@
     "name:eng_x_preferred":[
         "Ballinalack"
     ],
+    "name:spa_x_preferred":[
+        "Ballinalack"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ballinalack",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Westmeath",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1016250,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074252,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Westmeath",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":13020
+        "gp:id":20074252,
+        "ie-gov:id":13020,
+        "qs_pg:id":1016250
     },
     "wof:country":"IE",
     "wof:created":1637370998,
@@ -40,13 +66,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637370998,
+    "wof:lastmodified":1637709072,
     "wof:name":"Ballinalack",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125404723
+    ],
     "wof:tags":[]
 },
   "bbox": [

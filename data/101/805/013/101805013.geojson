@@ -85,6 +85,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Manorhamilton",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Leitrim",
+    "qs_pg:photos":187,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":298,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236342,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072994,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -92,6 +109,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2358,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Leitrim",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -123,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371085,
+    "wof:lastmodified":1637709053,
     "wof:name":"Manorhamilton",
     "wof:parent_id":85685133,
     "wof:placetype":"locality",
@@ -132,7 +153,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125950519
+        1125950519,
+        1125411361
     ],
     "wof:tags":[]
 },

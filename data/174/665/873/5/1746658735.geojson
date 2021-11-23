@@ -17,15 +17,56 @@
     "mps:longitude":-7.703813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Swanlinbar"
+    ],
     "name:eng_x_preferred":[
         "Swanlinbar"
     ],
+    "name:eus_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:fra_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043e\u043d\u043b\u0438\u043d\u0431\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Swanlinbar"
+    ],
+    "name:swe_x_preferred":[
+        "Swanlinbar"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Swanlinbar",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cavan",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":66669,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074599,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cavan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":32006
+        "gp:id":20074599,
+        "ie-gov:id":32006,
+        "qs_pg:id":66669
     },
     "wof:country":"IE",
     "wof:created":1637371146,
@@ -40,13 +81,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371146,
+    "wof:lastmodified":1637709044,
     "wof:name":"Swanlinbar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125341277
+    ],
     "wof:tags":[]
 },
   "bbox": [

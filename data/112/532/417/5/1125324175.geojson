@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125324175,
-    "wof:lastmodified":1637271425,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballyclerahan",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

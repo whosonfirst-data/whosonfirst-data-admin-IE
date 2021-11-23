@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125310569,
-    "wof:lastmodified":1637271455,
+    "wof:lastmodified":1637709044,
     "wof:name":"Killorglin",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":2082,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101806015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

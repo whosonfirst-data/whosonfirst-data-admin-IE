@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125332941,
-    "wof:lastmodified":1637271413,
+    "wof:lastmodified":1637709046,
     "wof:name":"Pilltown",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101845617
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

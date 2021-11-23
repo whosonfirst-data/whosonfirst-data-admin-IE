@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125368075,
-    "wof:lastmodified":1637271459,
+    "wof:lastmodified":1637709052,
     "wof:name":"Liscannor",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125791287
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

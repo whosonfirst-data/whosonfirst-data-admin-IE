@@ -99,12 +99,14 @@
         }
     ],
     "wof:id":1125319281,
-    "wof:lastmodified":1637271456,
+    "wof:lastmodified":1637709062,
     "wof:name":"Kilbeggan",
     "wof:parent_id":85685075,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

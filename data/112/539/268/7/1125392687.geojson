@@ -139,14 +139,16 @@
         }
     ],
     "wof:id":1125392687,
-    "wof:lastmodified":1637271448,
+    "wof:lastmodified":1637709075,
     "wof:name":"Castlereagh",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":1985,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804963
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

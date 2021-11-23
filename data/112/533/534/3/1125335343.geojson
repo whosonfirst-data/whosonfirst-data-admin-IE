@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125335343,
-    "wof:lastmodified":1637271412,
+    "wof:lastmodified":1637709045,
     "wof:name":"Annagary",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

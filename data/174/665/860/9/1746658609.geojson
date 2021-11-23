@@ -17,15 +17,55 @@
     "mps:longitude":-9.283882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Glin"
+    ],
     "name:eng_x_preferred":[
         "Glin"
     ],
+    "name:gle_x_preferred":[
+        "An Gleann"
+    ],
+    "name:swe_x_preferred":[
+        "Glin"
+    ],
+    "name:wln_x_preferred":[
+        "Glin"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963998,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Glin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":161,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":229,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":885995,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073209,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":21004
+        "gn:id":2963998,
+        "gp:id":20073209,
+        "ie-gov:id":21004,
+        "qs_pg:id":885995
     },
     "wof:country":"IE",
     "wof:created":1637371072,
@@ -40,13 +80,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371072,
+    "wof:lastmodified":1637709069,
     "wof:name":"Glin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":577,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125342277
+    ],
     "wof:tags":[]
 },
   "bbox": [

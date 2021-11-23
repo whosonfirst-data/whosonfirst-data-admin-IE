@@ -115,14 +115,16 @@
         }
     ],
     "wof:id":1125376013,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709047,
     "wof:name":"Thomastown",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:population":2273,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

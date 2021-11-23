@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125321403,
-    "wof:lastmodified":1637271427,
+    "wof:lastmodified":1637709056,
     "wof:name":"Leighlinbridge",
     "wof:parent_id":85684975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

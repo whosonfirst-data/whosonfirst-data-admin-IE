@@ -94,14 +94,16 @@
         }
     ],
     "wof:id":1125369227,
-    "wof:lastmodified":1637271458,
+    "wof:lastmodified":1637709073,
     "wof:name":"Shinrone",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:population":634,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

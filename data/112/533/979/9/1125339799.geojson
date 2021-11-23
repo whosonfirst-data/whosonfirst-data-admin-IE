@@ -114,12 +114,14 @@
         }
     ],
     "wof:id":1125339799,
-    "wof:lastmodified":1637271414,
+    "wof:lastmodified":1637709063,
     "wof:name":"Donabate",
     "wof:parent_id":85685045,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125357133,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709043,
     "wof:name":"Kentstown",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

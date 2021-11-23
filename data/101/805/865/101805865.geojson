@@ -100,6 +100,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961120,
+    "qs_pg:gn_pop":9164,
+    "qs_pg:name":"Tramore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":420,
+    "qs_pg:photos_1k":85,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2061,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1110469,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074243,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -107,6 +127,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1349,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -138,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637370989,
+    "wof:lastmodified":1637709049,
     "wof:name":"Tramore",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",
@@ -146,7 +170,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125372161
+    ],
     "wof:tags":[]
 },
   "bbox": [

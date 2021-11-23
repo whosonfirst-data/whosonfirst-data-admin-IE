@@ -91,12 +91,14 @@
         }
     ],
     "wof:id":1125281855,
-    "wof:lastmodified":1637271431,
+    "wof:lastmodified":1637709055,
     "wof:name":"Ballydehob",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126011387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

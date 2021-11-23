@@ -102,6 +102,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2307,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -133,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371130,
+    "wof:lastmodified":1637709052,
     "wof:name":"Buttevant",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",
@@ -142,7 +146,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125960109
+        1125960109,
+        1125329829
     ],
     "wof:tags":[]
 },

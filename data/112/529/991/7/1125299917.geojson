@@ -86,14 +86,16 @@
         }
     ],
     "wof:id":1125299917,
-    "wof:lastmodified":1637271433,
+    "wof:lastmodified":1637709073,
     "wof:name":"Ballyhooly",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":412,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

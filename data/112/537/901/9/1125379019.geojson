@@ -108,12 +108,14 @@
         }
     ],
     "wof:id":1125379019,
-    "wof:lastmodified":1637271438,
+    "wof:lastmodified":1637709043,
     "wof:name":"Castledermot",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804799
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

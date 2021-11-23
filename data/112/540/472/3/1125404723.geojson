@@ -69,12 +69,14 @@
         }
     ],
     "wof:id":1125404723,
-    "wof:lastmodified":1637271462,
+    "wof:lastmodified":1637709072,
     "wof:name":"Ballinalack",
     "wof:parent_id":85685075,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

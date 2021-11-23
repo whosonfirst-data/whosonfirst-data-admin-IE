@@ -130,14 +130,16 @@
         }
     ],
     "wof:id":1125376019,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709062,
     "wof:name":"Dunboyne",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:population":6959,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

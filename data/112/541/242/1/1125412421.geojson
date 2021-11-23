@@ -127,14 +127,16 @@
         }
     ],
     "wof:id":1125412421,
-    "wof:lastmodified":1637271463,
+    "wof:lastmodified":1637709049,
     "wof:name":"Killybegs",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:population":1297,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805087
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

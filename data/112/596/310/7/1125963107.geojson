@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1125963107,
-    "wof:lastmodified":1637371165,
+    "wof:lastmodified":1637709059,
     "wof:name":"Pettigo",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -136,7 +136,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125324313
+    ],
     "wof:tags":[]
 },
   "bbox": [

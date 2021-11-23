@@ -80,6 +80,9 @@
     "name:swe_x_variant":[
         "Carnew"
     ],
+    "name:und_x_variant":[
+        "Kevmare"
+    ],
     "name:zho_x_preferred":[
         "\u80af\u6885\u723e"
     ],
@@ -95,6 +98,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963522,
+    "qs_pg:gn_pop":2023,
+    "qs_pg:name":"Kenmare",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":189,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2035,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":217667,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072655,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -102,6 +125,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1835,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -133,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371186,
+    "wof:lastmodified":1637709043,
     "wof:name":"Kenmare",
     "wof:parent_id":85684991,
     "wof:placetype":"locality",
@@ -141,7 +168,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125320759
+    ],
     "wof:tags":[]
 },
   "bbox": [

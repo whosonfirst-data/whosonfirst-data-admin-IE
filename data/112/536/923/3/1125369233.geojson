@@ -103,14 +103,16 @@
         }
     ],
     "wof:id":1125369233,
-    "wof:lastmodified":1637271458,
+    "wof:lastmodified":1637709068,
     "wof:name":"Frenchpark",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":420,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658581
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

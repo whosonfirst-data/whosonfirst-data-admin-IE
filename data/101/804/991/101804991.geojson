@@ -89,6 +89,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kingscourt",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cavan",
+    "qs_pg:photos":209,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":308,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1084720,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071297,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -96,6 +113,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cavan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -128,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371127,
+    "wof:lastmodified":1637709043,
     "wof:name":"Kingscourt",
     "wof:parent_id":85685125,
     "wof:placetype":"locality",
@@ -136,7 +157,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125281845
+    ],
     "wof:tags":[]
 },
   "bbox": [

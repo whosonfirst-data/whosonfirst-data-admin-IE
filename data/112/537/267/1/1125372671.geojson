@@ -98,14 +98,16 @@
         }
     ],
     "wof:id":1125372671,
-    "wof:lastmodified":1637271439,
+    "wof:lastmodified":1637709050,
     "wof:name":"Ballyragget",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:population":1089,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

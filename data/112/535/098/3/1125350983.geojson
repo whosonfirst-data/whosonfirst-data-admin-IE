@@ -100,14 +100,16 @@
         }
     ],
     "wof:id":1125350983,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709042,
     "wof:name":"Ballyhaise",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":620,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658819
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

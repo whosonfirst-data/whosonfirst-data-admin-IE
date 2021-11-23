@@ -129,12 +129,14 @@
         }
     ],
     "wof:id":1125295081,
-    "wof:lastmodified":1637271435,
+    "wof:lastmodified":1637709058,
     "wof:name":"Johnstown",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658653
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

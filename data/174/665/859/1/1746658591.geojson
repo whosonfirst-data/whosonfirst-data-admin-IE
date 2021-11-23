@@ -17,15 +17,61 @@
     "mps:longitude":-6.8956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Glaslough"
+    ],
     "name:eng_x_preferred":[
         "Glasslough"
     ],
+    "name:eus_x_preferred":[
+        "Glaslough"
+    ],
+    "name:gle_x_preferred":[
+        "Glasloch"
+    ],
+    "name:spa_x_preferred":[
+        "Glaslough"
+    ],
+    "name:swe_x_preferred":[
+        "Glaslough"
+    ],
+    "name:und_x_variant":[
+        "Glasslough"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964103,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Glaslough",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Monaghan",
+    "qs_pg:photos":792,
+    "qs_pg:photos_1k":160,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1172,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189736,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074576,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Monaghan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":34011
+        "gn:id":2964103,
+        "gp:id":20074576,
+        "ie-gov:id":34011,
+        "qs_pg:id":1189736
     },
     "wof:country":"IE",
     "wof:created":1637371051,
@@ -40,13 +86,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371051,
+    "wof:lastmodified":1637709074,
     "wof:name":"Glasslough",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":348,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125412037
+    ],
     "wof:tags":[]
 },
   "bbox": [

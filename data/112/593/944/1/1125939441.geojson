@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125939441,
-    "wof:lastmodified":1637371107,
+    "wof:lastmodified":1637709070,
     "wof:name":"Kilteel",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -115,7 +115,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125375125
+    ],
     "wof:tags":[]
 },
   "bbox": [

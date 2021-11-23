@@ -121,14 +121,16 @@
         }
     ],
     "wof:id":1125376003,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709053,
     "wof:name":"Mitchelstown",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":3677,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805873
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

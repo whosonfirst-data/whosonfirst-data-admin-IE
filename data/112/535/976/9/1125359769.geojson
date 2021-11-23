@@ -108,12 +108,14 @@
         }
     ],
     "wof:id":1125359769,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709053,
     "wof:name":"Glenties",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805083
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

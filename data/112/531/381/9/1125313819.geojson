@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125313819,
-    "wof:lastmodified":1637271457,
+    "wof:lastmodified":1637709049,
     "wof:name":"Mohill",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",
     "wof:population":928,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805017
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

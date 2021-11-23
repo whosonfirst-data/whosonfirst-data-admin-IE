@@ -100,14 +100,16 @@
         }
     ],
     "wof:id":1125330269,
-    "wof:lastmodified":1637271415,
+    "wof:lastmodified":1637709058,
     "wof:name":"Inistioge",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:population":260,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658655
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -51,6 +51,8 @@
     "qs_pg:name":"Cloghan",
     "qs_pg:name_adm0":"Ireland",
     "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
     "qs_pg:photos_9k":1,
     "qs_pg:photos_9r":1,
     "qs_pg:photos_all":4,
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":1125992191,
-    "wof:lastmodified":1637371027,
+    "wof:lastmodified":1637709061,
     "wof:name":"Cloghan",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",
@@ -106,7 +108,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125374529
+    ],
     "wof:tags":[]
 },
   "bbox": [

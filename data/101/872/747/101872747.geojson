@@ -90,6 +90,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kilcock",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kildare",
+    "qs_pg:photos":349,
+    "qs_pg:photos_1k":71,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1148,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900344,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072780,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -100,6 +117,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1622,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kildare",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -133,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371096,
+    "wof:lastmodified":1637709045,
     "wof:name":"Kilcock",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -141,7 +162,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125401587
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125287821,
-    "wof:lastmodified":1637271428,
+    "wof:lastmodified":1637709046,
     "wof:name":"Glenealy",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:population":670,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101845619
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125342907,
-    "wof:lastmodified":1637271418,
+    "wof:lastmodified":1637709053,
     "wof:name":"Castlefinn",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

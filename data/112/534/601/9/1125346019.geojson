@@ -126,12 +126,14 @@
         }
     ],
     "wof:id":1125346019,
-    "wof:lastmodified":1637271418,
+    "wof:lastmodified":1637709066,
     "wof:name":"Rush",
     "wof:parent_id":85685045,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

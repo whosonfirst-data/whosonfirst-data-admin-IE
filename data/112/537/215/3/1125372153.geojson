@@ -145,14 +145,16 @@
         }
     ],
     "wof:id":1125372153,
-    "wof:lastmodified":1637271441,
+    "wof:lastmodified":1637709068,
     "wof:name":"Athenry",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":3950,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

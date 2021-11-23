@@ -133,6 +133,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kildare",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kildare",
+    "qs_pg:photos":731,
+    "qs_pg:photos_1k":148,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2249,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900345,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072783,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -140,6 +157,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kildare",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -172,7 +193,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371096,
+    "wof:lastmodified":1637709061,
     "wof:name":"Kildare",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -180,7 +201,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125401597
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -66,6 +66,8 @@
     "qs_pg:name":"Knocktopher",
     "qs_pg:name_adm0":"Ireland",
     "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
     "qs_pg:photos_9k":1,
     "qs_pg:photos_9r":2,
     "qs_pg:photos_all":26,
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125934625,
-    "wof:lastmodified":1637371097,
+    "wof:lastmodified":1637709072,
     "wof:name":"Knocktopher",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",
@@ -121,7 +123,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125319801
+    ],
     "wof:tags":[]
 },
   "bbox": [

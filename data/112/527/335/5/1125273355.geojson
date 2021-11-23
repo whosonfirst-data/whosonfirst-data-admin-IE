@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125273355,
-    "wof:lastmodified":1637271432,
+    "wof:lastmodified":1637709072,
     "wof:name":"Ennistimon",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:population":957,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804803
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

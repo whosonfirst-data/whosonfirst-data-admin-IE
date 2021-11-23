@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125341277,
-    "wof:lastmodified":1637271417,
+    "wof:lastmodified":1637709044,
     "wof:name":"Swanlinbar",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658735
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

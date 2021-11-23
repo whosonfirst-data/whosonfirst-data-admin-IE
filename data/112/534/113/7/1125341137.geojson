@@ -69,12 +69,14 @@
         }
     ],
     "wof:id":1125341137,
-    "wof:lastmodified":1637271418,
+    "wof:lastmodified":1637709066,
     "wof:name":"Durrow",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

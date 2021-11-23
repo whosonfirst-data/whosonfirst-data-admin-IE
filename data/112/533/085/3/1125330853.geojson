@@ -102,12 +102,14 @@
         }
     ],
     "wof:id":1125330853,
-    "wof:lastmodified":1637271413,
+    "wof:lastmodified":1637709047,
     "wof:name":"Saggart",
     "wof:parent_id":85685009,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101760465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

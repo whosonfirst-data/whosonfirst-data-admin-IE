@@ -64,12 +64,14 @@
         }
     ],
     "wof:id":1125293657,
-    "wof:lastmodified":1637271433,
+    "wof:lastmodified":1637709064,
     "wof:name":"Kinvarra",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125883055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

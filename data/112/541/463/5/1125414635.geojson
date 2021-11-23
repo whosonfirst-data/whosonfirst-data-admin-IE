@@ -112,14 +112,16 @@
         }
     ],
     "wof:id":1125414635,
-    "wof:lastmodified":1637271463,
+    "wof:lastmodified":1637709075,
     "wof:name":"Headford",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":889,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

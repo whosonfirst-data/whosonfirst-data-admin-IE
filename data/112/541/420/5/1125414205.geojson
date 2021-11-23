@@ -136,14 +136,16 @@
         }
     ],
     "wof:id":1125414205,
-    "wof:lastmodified":1637271465,
+    "wof:lastmodified":1637709067,
     "wof:name":"Abbeyleix",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:population":1827,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

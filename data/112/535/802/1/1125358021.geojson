@@ -84,14 +84,16 @@
         }
     ],
     "wof:id":1125358021,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709047,
     "wof:name":"Kilcummin",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":368,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101853157
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125374989,
-    "wof:lastmodified":1637271440,
+    "wof:lastmodified":1637709047,
     "wof:name":"Ballintober",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360315723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

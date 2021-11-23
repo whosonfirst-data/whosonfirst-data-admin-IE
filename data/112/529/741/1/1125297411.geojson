@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125297411,
-    "wof:lastmodified":1637271435,
+    "wof:lastmodified":1637709060,
     "wof:name":"Barna",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":1878,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

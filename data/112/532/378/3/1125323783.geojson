@@ -75,12 +75,14 @@
         }
     ],
     "wof:id":1125323783,
-    "wof:lastmodified":1637271423,
+    "wof:lastmodified":1637709056,
     "wof:name":"Fethard",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

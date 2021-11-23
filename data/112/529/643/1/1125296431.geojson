@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125296431,
-    "wof:lastmodified":1637271434,
+    "wof:lastmodified":1637709058,
     "wof:name":"Ballyfarnan",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125916343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

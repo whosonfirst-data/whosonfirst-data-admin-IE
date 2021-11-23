@@ -111,12 +111,14 @@
         }
     ],
     "wof:id":1125278519,
-    "wof:lastmodified":1637271431,
+    "wof:lastmodified":1637709065,
     "wof:name":"Duleek",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804885
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

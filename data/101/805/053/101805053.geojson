@@ -133,6 +133,10 @@
     "wd:latitude":53.7167,
     "wd:longitude":-9.0,
     "wd:wordcount":1726,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -164,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371054,
+    "wof:lastmodified":1637709051,
     "wof:name":"Claremorris",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",
@@ -173,7 +177,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126010593
+        1126010593,
+        1125353293
     ],
     "wof:tags":[]
 },

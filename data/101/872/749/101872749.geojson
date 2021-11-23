@@ -60,6 +60,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Killeigh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1322460,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073709,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes",
@@ -69,6 +86,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -101,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371044,
+    "wof:lastmodified":1637709045,
     "wof:name":"Killeigh",
     "wof:parent_id":85685041,
     "wof:placetype":"locality",
@@ -109,7 +130,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125361811
+    ],
     "wof:tags":[]
 },
   "bbox": [

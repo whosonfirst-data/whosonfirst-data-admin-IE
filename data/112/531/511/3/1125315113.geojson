@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125315113,
-    "wof:lastmodified":1637271454,
+    "wof:lastmodified":1637709069,
     "wof:name":"Monasterevin",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804779
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

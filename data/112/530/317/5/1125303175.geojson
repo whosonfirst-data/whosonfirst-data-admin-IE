@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125303175,
-    "wof:lastmodified":1637271447,
+    "wof:lastmodified":1637709045,
     "wof:name":"Turlough",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:population":272,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

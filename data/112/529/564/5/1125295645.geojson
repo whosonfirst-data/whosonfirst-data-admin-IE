@@ -124,14 +124,16 @@
         }
     ],
     "wof:id":1125295645,
-    "wof:lastmodified":1637271436,
+    "wof:lastmodified":1637709060,
     "wof:name":"Clane",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:population":6702,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

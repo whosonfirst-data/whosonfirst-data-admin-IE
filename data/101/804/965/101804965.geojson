@@ -92,6 +92,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966784,
+    "qs_pg:gn_pop":1389,
+    "qs_pg:name":"Ballaghaderreen",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Roscommon",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":112,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1196924,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073755,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -99,6 +119,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":356,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Roscommon",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -130,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371035,
+    "wof:lastmodified":1637709042,
     "wof:name":"Ballaghaderreen",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",
@@ -139,7 +163,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1326466525
+        1326466525,
+        1125281635
     ],
     "wof:tags":[]
 },

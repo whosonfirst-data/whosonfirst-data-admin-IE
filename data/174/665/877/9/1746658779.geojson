@@ -17,15 +17,64 @@
     "mps:longitude":-7.908413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Creeslough"
+    ],
     "name:eng_x_preferred":[
         "Creeslough"
     ],
+    "name:eus_x_preferred":[
+        "Creeslough"
+    ],
+    "name:gle_x_preferred":[
+        "An Craoslach"
+    ],
+    "name:ita_x_preferred":[
+        "Creeslough"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0441\u043b\u043e\u0445"
+    ],
+    "name:spa_x_preferred":[
+        "Creeslough"
+    ],
+    "name:swe_x_preferred":[
+        "Creeslough"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965056,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Creeslough",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":146,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":248633,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071913,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":33010
+        "gn:id":2965056,
+        "gp:id":20071913,
+        "ie-gov:id":33010,
+        "qs_pg:id":248633
     },
     "wof:country":"IE",
     "wof:created":1637371174,
@@ -40,13 +89,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371174,
+    "wof:lastmodified":1637709065,
     "wof:name":"Creeslough",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":410,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125415617
+    ],
     "wof:tags":[]
 },
   "bbox": [

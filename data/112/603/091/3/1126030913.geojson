@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1126030913,
-    "wof:lastmodified":1637371172,
+    "wof:lastmodified":1637709066,
     "wof:name":"Laghy",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -123,7 +123,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125295799
+    ],
     "wof:tags":[]
 },
   "bbox": [

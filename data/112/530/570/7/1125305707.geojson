@@ -91,14 +91,16 @@
         }
     ],
     "wof:id":1125305707,
-    "wof:lastmodified":1637271448,
+    "wof:lastmodified":1637709059,
     "wof:name":"Fiddown",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:population":366,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

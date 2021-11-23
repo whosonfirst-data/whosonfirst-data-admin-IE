@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125350131,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709067,
     "wof:name":"Abbeydorney",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658677
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

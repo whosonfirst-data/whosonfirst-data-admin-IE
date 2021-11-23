@@ -76,6 +76,9 @@
     "name:swe_x_preferred":[
         "Oldcastle"
     ],
+    "name:tur_x_preferred":[
+        "Oldcastle"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
     "qs:a1r":"0",
@@ -89,6 +92,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Oldcastle",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":1076,
+    "qs_pg:photos_1k":218,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1553,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252189,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073589,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -96,6 +116,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -128,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371046,
+    "wof:lastmodified":1637709065,
     "wof:name":"Oldcastle",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",
@@ -136,7 +160,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125324123
+    ],
     "wof:tags":[]
 },
   "bbox": [

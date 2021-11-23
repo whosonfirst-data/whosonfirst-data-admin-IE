@@ -17,15 +17,64 @@
     "mps:longitude":-9.367972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ballycastle"
+    ],
+    "name:deu_x_preferred":[
+        "Ballycastle"
+    ],
     "name:eng_x_preferred":[
         "Ballycastle"
     ],
+    "name:fra_x_preferred":[
+        "Ballycastle"
+    ],
+    "name:gle_x_preferred":[
+        "Baile an Chaisil"
+    ],
+    "name:nld_x_preferred":[
+        "Ballycastle"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043a\u0430\u0441\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Ballycastle"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966646,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballycastle",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":239,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1095529,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073388,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":29002
+        "gn:id":2966646,
+        "gp:id":20073388,
+        "ie-gov:id":29002,
+        "qs_pg:id":1095529
     },
     "wof:country":"IE",
     "wof:created":1637371060,
@@ -40,13 +89,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371060,
+    "wof:lastmodified":1637709075,
     "wof:name":"Ballycastle",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":234,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125288863
+    ],
     "wof:tags":[]
 },
   "bbox": [

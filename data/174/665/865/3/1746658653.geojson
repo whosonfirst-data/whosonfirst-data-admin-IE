@@ -17,15 +17,101 @@
     "mps:longitude":-7.557323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099c\u09a8\u09b8\u09cd\u099f\u09be\u0989\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Johnstown"
+    ],
+    "name:ceb_x_preferred":[
+        "Johnstown"
+    ],
+    "name:deu_x_preferred":[
+        "Johnstown"
+    ],
     "name:eng_x_preferred":[
         "Johnstown"
     ],
+    "name:fra_x_preferred":[
+        "Johnstown"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0949\u0928\u094d\u0938\u091f\u093e\u0909\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Johnstown"
+    ],
+    "name:ita_x_preferred":[
+        "Johnstown"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30f3\u30ba\u30bf\u30a6\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc874\uc2a4\ud0c0\uc6b4"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017eonstauna"
+    ],
+    "name:nld_x_preferred":[
+        "Johnstown"
+    ],
+    "name:pol_x_preferred":[
+        "Johnstown"
+    ],
+    "name:por_x_preferred":[
+        "Johnstown"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Johnstown"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u043e\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Johnstown"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u043e\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:vol_x_preferred":[
+        "Johnstown"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u7ff0\u57ce"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Johnstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":285820,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072875,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":7017
+        "gp:id":20072875,
+        "ie-gov:id":7017,
+        "qs_pg:id":285820
     },
     "wof:country":"IE",
     "wof:created":1637371099,
@@ -40,13 +126,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371099,
+    "wof:lastmodified":1637709058,
     "wof:name":"Johnstown",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125295081
+    ],
     "wof:tags":[]
 },
   "bbox": [

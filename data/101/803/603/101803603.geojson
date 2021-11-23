@@ -85,6 +85,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Carrigtohill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos":195,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":926,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":236318,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071570,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -96,6 +113,10 @@
     "wd:longitude":-8.266667,
     "wd:population":6665,
     "wd:wordcount":1177,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -127,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371151,
+    "wof:lastmodified":1637709057,
     "wof:name":"Carrigtwohill",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",
@@ -136,7 +157,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125949339
+        1125949339,
+        1125411357
     ],
     "wof:tags":[]
 },

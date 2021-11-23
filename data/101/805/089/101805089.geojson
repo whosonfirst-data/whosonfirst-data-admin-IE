@@ -109,6 +109,9 @@
     "name:nld_x_preferred":[
         "Donegal"
     ],
+    "name:nor_x_preferred":[
+        "Donegal"
+    ],
     "name:pol_x_preferred":[
         "Donegal"
     ],
@@ -117,6 +120,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043d\u0435\u0433\u043e\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Donegal"
+    ],
+    "name:slv_x_preferred":[
+        "Donegal"
     ],
     "name:spa_x_preferred":[
         "Donegal"
@@ -243,6 +252,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Donegal",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2009,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1292680,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071922,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -253,6 +279,10 @@
     "wd:latitude":54.65,
     "wd:longitude":-8.117,
     "wd:wordcount":1397,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -284,7 +314,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371174,
+    "wof:lastmodified":1637709050,
     "wof:name":"Donegal",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -293,7 +323,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125899903
+        1125899903,
+        1125328475
     ],
     "wof:tags":[]
 },

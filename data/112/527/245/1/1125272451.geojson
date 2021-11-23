@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125272451,
-    "wof:lastmodified":1637271431,
+    "wof:lastmodified":1637709064,
     "wof:name":"Ballintra",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125883045
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

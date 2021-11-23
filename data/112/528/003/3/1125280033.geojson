@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125280033,
-    "wof:lastmodified":1637271429,
+    "wof:lastmodified":1637709066,
     "wof:name":"Slane",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804883
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

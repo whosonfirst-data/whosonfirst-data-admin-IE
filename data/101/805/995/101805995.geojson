@@ -67,6 +67,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Patricks Well",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":91,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017758,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073255,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -74,6 +91,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":717,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -101,7 +122,7 @@
         }
     ],
     "wof:id":101805995,
-    "wof:lastmodified":1637371083,
+    "wof:lastmodified":1637709050,
     "wof:name":"Patrickswell",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",
@@ -109,7 +130,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125391269
+    ],
     "wof:tags":[]
 },
   "bbox": [

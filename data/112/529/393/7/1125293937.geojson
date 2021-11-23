@@ -97,14 +97,16 @@
         }
     ],
     "wof:id":1125293937,
-    "wof:lastmodified":1637271436,
+    "wof:lastmodified":1637709055,
     "wof:name":"Clonaslee",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:population":518,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658641
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

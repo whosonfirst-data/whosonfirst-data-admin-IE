@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125346029,
-    "wof:lastmodified":1637271417,
+    "wof:lastmodified":1637709069,
     "wof:name":"Portumna",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

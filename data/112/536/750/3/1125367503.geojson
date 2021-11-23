@@ -100,14 +100,16 @@
         }
     ],
     "wof:id":1125367503,
-    "wof:lastmodified":1637271459,
+    "wof:lastmodified":1637709059,
     "wof:name":"Tullaghan",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",
     "wof:population":228,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

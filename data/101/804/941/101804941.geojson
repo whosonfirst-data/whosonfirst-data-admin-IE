@@ -123,6 +123,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2118,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -154,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371166,
+    "wof:lastmodified":1637709070,
     "wof:name":"Clifden",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",
@@ -163,7 +167,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1126015123
+        1126015123,
+        1125288331
     ],
     "wof:tags":[]
 },

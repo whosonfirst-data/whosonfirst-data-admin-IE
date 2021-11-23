@@ -88,12 +88,14 @@
         }
     ],
     "wof:id":1125286301,
-    "wof:lastmodified":1637271430,
+    "wof:lastmodified":1637709070,
     "wof:name":"Sneem",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125923397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

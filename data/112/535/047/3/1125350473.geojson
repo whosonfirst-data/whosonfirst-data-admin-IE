@@ -112,14 +112,16 @@
         }
     ],
     "wof:id":1125350473,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709061,
     "wof:name":"Kilfenora",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:population":220,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658499
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -85,6 +85,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ballymote",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Sligo",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":170,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252194,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073865,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -96,6 +113,10 @@
     "wd:latitude":54.0896,
     "wd:longitude":-8.5167,
     "wd:wordcount":475,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Sligo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -128,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371037,
+    "wof:lastmodified":1637709054,
     "wof:name":"Ballymote",
     "wof:parent_id":85685137,
     "wof:placetype":"locality",
@@ -136,7 +157,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125324149
+    ],
     "wof:tags":[]
 },
   "bbox": [

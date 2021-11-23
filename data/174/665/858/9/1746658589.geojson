@@ -20,12 +20,54 @@
     "name:eng_x_preferred":[
         "Bracknagh"
     ],
+    "name:eus_x_preferred":[
+        "Bracknagh"
+    ],
+    "name:gle_x_preferred":[
+        "Breac\u00e1nach"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043a\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bracknagh"
+    ],
+    "name:und_x_variant":[
+        "Brackagh"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966033,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bracknagh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Offaly",
+    "qs_pg:photos":35,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":35,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189645,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073671,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Offaly",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":12010
+        "gn:id":2966033,
+        "gp:id":20073671,
+        "ie-gov:id":12010,
+        "qs_pg:id":1189645
     },
     "wof:country":"IE",
     "wof:created":1637371050,
@@ -40,13 +82,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371050,
+    "wof:lastmodified":1637709067,
     "wof:name":"Bracknagh",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125412015
+    ],
     "wof:tags":[]
 },
   "bbox": [

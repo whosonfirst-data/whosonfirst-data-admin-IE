@@ -91,14 +91,16 @@
         }
     ],
     "wof:id":1125351389,
-    "wof:lastmodified":1637271420,
+    "wof:lastmodified":1637709075,
     "wof:name":"Ballinalee",
     "wof:parent_id":85685091,
     "wof:placetype":"localadmin",
     "wof:population":308,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

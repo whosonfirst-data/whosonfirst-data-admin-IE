@@ -69,12 +69,14 @@
         }
     ],
     "wof:id":1125299441,
-    "wof:lastmodified":1637271437,
+    "wof:lastmodified":1637709054,
     "wof:name":"Swineford",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805041
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

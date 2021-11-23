@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125329863,
-    "wof:lastmodified":1637271427,
+    "wof:lastmodified":1637709065,
     "wof:name":"Lackaghbeg",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

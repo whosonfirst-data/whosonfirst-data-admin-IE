@@ -17,15 +17,64 @@
     "mps:longitude":-7.683903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Errill"
+    ],
     "name:eng_x_preferred":[
         "Errill"
     ],
+    "name:eus_x_preferred":[
+        "Errill"
+    ],
+    "name:gle_x_preferred":[
+        "Eir\u00e9il"
+    ],
+    "name:pol_x_preferred":[
+        "Errill"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0440\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Errill"
+    ],
+    "name:swe_x_preferred":[
+        "Errill"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964395,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Errill",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989381,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073055,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":8019
+        "gn:id":2964395,
+        "gp:id":20073055,
+        "ie-gov:id":8019,
+        "qs_pg:id":989381
     },
     "wof:country":"IE",
     "wof:created":1637371106,
@@ -40,13 +89,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371106,
+    "wof:lastmodified":1637709075,
     "wof:name":"Errill",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125373363
+    ],
     "wof:tags":[]
 },
   "bbox": [

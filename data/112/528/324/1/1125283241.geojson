@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125283241,
-    "wof:lastmodified":1637271428,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ardfinnan",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101803609
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

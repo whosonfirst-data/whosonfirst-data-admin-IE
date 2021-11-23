@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125280045,
-    "wof:lastmodified":1637271430,
+    "wof:lastmodified":1637709073,
     "wof:name":"Bellanode",
     "wof:parent_id":85685117,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658571
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

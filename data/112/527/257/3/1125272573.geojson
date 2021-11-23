@@ -105,12 +105,14 @@
         }
     ],
     "wof:id":1125272573,
-    "wof:lastmodified":1637271431,
+    "wof:lastmodified":1637709070,
     "wof:name":"Baltinglass",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125928447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

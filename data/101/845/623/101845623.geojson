@@ -58,6 +58,9 @@
     "name:spa_x_preferred":[
         "Stamullen"
     ],
+    "name:und_x_variant":[
+        "Stamullen"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
     "qs:a1r":"0",
@@ -70,12 +73,36 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-near-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961366,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Stamullin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Meath",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":205,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1094604,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073604,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Meath",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -106,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371046,
+    "wof:lastmodified":1637709046,
     "wof:name":"Stamullen",
     "wof:parent_id":85685081,
     "wof:placetype":"locality",
@@ -114,7 +141,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125285837
+    ],
     "wof:tags":[]
 },
   "bbox": [

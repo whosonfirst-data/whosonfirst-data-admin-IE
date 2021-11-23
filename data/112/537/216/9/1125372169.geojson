@@ -148,14 +148,16 @@
         }
     ],
     "wof:id":1125372169,
-    "wof:lastmodified":1637271438,
+    "wof:lastmodified":1637709048,
     "wof:name":"Dungarvan",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
     "wof:population":7551,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

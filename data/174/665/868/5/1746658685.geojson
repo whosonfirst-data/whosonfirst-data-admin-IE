@@ -17,15 +17,88 @@
     "mps:longitude":-9.732921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Cob"
+    ],
+    "name:dan_x_preferred":[
+        "Vejd\u00e6mning"
+    ],
+    "name:deu_x_preferred":[
+        "Damm"
+    ],
     "name:eng_x_preferred":[
         "Causeway"
     ],
+    "name:epo_x_preferred":[
+        "Digvojo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0646\u200c\u06af\u0630\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Chauss\u00e9e"
+    ],
+    "name:gle_x_preferred":[
+        "An T\u00f3char"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0924\u0941\u0915"
+    ],
+    "name:jpn_x_preferred":[
+        "\u571f\u624b\u9053"
+    ],
+    "name:lim_x_preferred":[
+        "Diek"
+    ],
+    "name:nld_x_preferred":[
+        "Dijk"
+    ],
+    "name:pol_x_preferred":[
+        "Grobla komunikacyjna"
+    ],
+    "name:por_x_preferred":[
+        "Causeway"
+    ],
+    "name:spa_x_preferred":[
+        "Pedrapl\u00e9n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bb0\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bae\u0bcd"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965536,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Causeway",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":49709,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072612,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":19021
+        "gn:id":2965536,
+        "gp:id":20072612,
+        "ie-gov:id":19021,
+        "qs_pg:id":49709
     },
     "wof:country":"IE",
     "wof:created":1637371116,
@@ -40,13 +113,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371116,
+    "wof:lastmodified":1637709073,
     "wof:name":"Causeway",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125409033
+    ],
     "wof:tags":[]
 },
   "bbox": [

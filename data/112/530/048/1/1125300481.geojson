@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125300481,
-    "wof:lastmodified":1637271445,
+    "wof:lastmodified":1637709071,
     "wof:name":"Inishkeen",
     "wof:parent_id":85685117,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

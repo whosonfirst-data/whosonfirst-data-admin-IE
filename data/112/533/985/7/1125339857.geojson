@@ -93,12 +93,14 @@
         }
     ],
     "wof:id":1125339857,
-    "wof:lastmodified":1637271414,
+    "wof:lastmodified":1637709051,
     "wof:name":"Ardfert",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125831325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

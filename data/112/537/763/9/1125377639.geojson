@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125377639,
-    "wof:lastmodified":1637271437,
+    "wof:lastmodified":1637709074,
     "wof:name":"Galbally",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":238,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

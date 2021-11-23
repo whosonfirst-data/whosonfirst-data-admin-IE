@@ -85,6 +85,24 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966420,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballyragget",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":491935,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072833,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -94,6 +112,10 @@
     "wd:latitude":52.783333,
     "wd:longitude":-7.333333,
     "wd:wordcount":839,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -125,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371107,
+    "wof:lastmodified":1637709050,
     "wof:name":"Ballyragget",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",
@@ -133,7 +155,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125372671
+    ],
     "wof:tags":[]
 },
   "bbox": [

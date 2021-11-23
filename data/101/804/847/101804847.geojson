@@ -97,6 +97,23 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Skerries",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":185,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1872,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":430062,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072272,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -105,6 +122,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1545,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":101804847,
-    "wof:lastmodified":1637371126,
+    "wof:lastmodified":1637709065,
     "wof:name":"Skerries",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
@@ -141,7 +162,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125380571
+    ],
     "wof:tags":[]
 },
   "bbox": [

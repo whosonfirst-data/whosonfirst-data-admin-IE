@@ -90,12 +90,14 @@
         }
     ],
     "wof:id":1125287143,
-    "wof:lastmodified":1637271428,
+    "wof:lastmodified":1637709046,
     "wof:name":"Kilmore",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101853151
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

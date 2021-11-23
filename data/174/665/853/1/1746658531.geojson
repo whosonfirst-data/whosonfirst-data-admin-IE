@@ -17,15 +17,57 @@
     "mps:longitude":-6.304699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ballycanew"
+    ],
     "name:eng_x_preferred":[
         "Ballycanew"
     ],
+    "name:eus_x_preferred":[
+        "Ballycanew"
+    ],
+    "name:gle_x_preferred":[
+        "Baile U\u00ed Chonnmha\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0438\u043a\u0430\u043d\u044c\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Ballycanew"
+    ],
+    "name:swe_x_preferred":[
+        "Ballycanew"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966654,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballycanew",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wexford",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":886948,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074362,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wexford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":14007
+        "gn:id":2966654,
+        "gp:id":20074362,
+        "ie-gov:id":14007,
+        "qs_pg:id":886948
     },
     "wof:country":"IE",
     "wof:created":1637371014,
@@ -40,13 +82,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371014,
+    "wof:lastmodified":1637709058,
     "wof:name":"Ballycanew",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":502,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125313809
+    ],
     "wof:tags":[]
 },
   "bbox": [

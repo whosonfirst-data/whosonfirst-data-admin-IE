@@ -20,12 +20,54 @@
     "name:eng_x_preferred":[
         "Clontibret"
     ],
+    "name:eus_x_preferred":[
+        "Clontibret"
+    ],
+    "name:gle_x_preferred":[
+        "Cluain Tiobrad"
+    ],
+    "name:ita_x_preferred":[
+        "Clontibret"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u0442\u0438\u0431\u0440\u0435\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Clontibret"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965338,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Clontibret",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Monaghan",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":968249,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074574,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Monaghan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":34016
+        "gn:id":2965338,
+        "gp:id":20074574,
+        "ie-gov:id":34016,
+        "qs_pg:id":968249
     },
     "wof:country":"IE",
     "wof:created":1637371042,
@@ -40,13 +82,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371042,
+    "wof:lastmodified":1637709072,
     "wof:name":"Clontibret",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125368661
+    ],
     "wof:tags":[]
 },
   "bbox": [

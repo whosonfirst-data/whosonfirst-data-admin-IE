@@ -121,14 +121,16 @@
         }
     ],
     "wof:id":1125300241,
-    "wof:lastmodified":1637271445,
+    "wof:lastmodified":1637709071,
     "wof:name":"Blessington",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:population":5010,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

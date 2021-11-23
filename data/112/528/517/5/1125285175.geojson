@@ -90,12 +90,14 @@
         }
     ],
     "wof:id":1125285175,
-    "wof:lastmodified":1637271428,
+    "wof:lastmodified":1637709044,
     "wof:name":"Stradbally",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

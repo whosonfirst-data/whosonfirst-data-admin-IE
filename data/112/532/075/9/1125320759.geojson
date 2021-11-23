@@ -118,14 +118,16 @@
         }
     ],
     "wof:id":1125320759,
-    "wof:lastmodified":1637271425,
+    "wof:lastmodified":1637709043,
     "wof:name":"Kenmare",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":2175,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101806013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

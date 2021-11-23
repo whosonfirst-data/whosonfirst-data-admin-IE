@@ -93,6 +93,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":821,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -124,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371024,
+    "wof:lastmodified":1637709051,
     "wof:name":"Kilmacthomas",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",
@@ -133,7 +137,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125916385
+        1125916385,
+        1125391357
     ],
     "wof:tags":[]
 },

@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125404835,
-    "wof:lastmodified":1637271461,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballinlough",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125981703
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -126,6 +126,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":517,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -157,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371177,
+    "wof:lastmodified":1637709051,
     "wof:name":"Moville",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -166,7 +170,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125880583
+        1125880583,
+        1125315097
     ],
     "wof:tags":[]
 },

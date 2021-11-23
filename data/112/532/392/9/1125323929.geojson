@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125323929,
-    "wof:lastmodified":1637271424,
+    "wof:lastmodified":1637709045,
     "wof:name":"Glencullen",
     "wof:parent_id":85685001,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658743
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

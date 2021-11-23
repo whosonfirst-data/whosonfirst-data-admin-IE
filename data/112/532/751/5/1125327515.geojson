@@ -81,12 +81,14 @@
         }
     ],
     "wof:id":1125327515,
-    "wof:lastmodified":1637271424,
+    "wof:lastmodified":1637709076,
     "wof:name":"Kilkishen",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

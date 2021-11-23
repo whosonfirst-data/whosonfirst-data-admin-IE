@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125290965,
-    "wof:lastmodified":1637271434,
+    "wof:lastmodified":1637709054,
     "wof:name":"Lisronagh",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125767415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

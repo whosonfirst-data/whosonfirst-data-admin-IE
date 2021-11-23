@@ -102,12 +102,14 @@
         }
     ],
     "wof:id":1125411361,
-    "wof:lastmodified":1637271465,
+    "wof:lastmodified":1637709053,
     "wof:name":"Manorhamilton",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805013
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

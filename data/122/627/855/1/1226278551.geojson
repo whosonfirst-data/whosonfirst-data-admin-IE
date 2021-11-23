@@ -40,6 +40,9 @@
     "name:eus_x_preferred":[
         "Newtownforbes"
     ],
+    "name:gle_x_preferred":[
+        "An Lios Breac"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u044c\u044e\u0442\u0430\u0443\u043d-\u0424\u043e\u0440\u0431\u0441"
     ],
@@ -49,11 +52,35 @@
     "name:swe_x_preferred":[
         "Newtownforbes"
     ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962233,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Newtown Forbes",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Longford",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":19,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":469125,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073332,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "geonames"
     ],
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Longford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -62,6 +89,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7870955,
+        "gp:id":20073332,
+        "qs_pg:id":469125,
         "wk:page":"Newtownforbes"
     },
     "wof:country":"IE",
@@ -78,7 +107,7 @@
         }
     ],
     "wof:id":1226278551,
-    "wof:lastmodified":1637371087,
+    "wof:lastmodified":1637709049,
     "wof:name":"Newtownforbes",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",
@@ -86,7 +115,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125304427
+    ],
     "wof:tags":[]
 },
   "bbox": [

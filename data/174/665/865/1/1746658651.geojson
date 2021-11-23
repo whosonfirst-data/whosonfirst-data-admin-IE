@@ -20,12 +20,46 @@
     "name:eng_x_preferred":[
         "Kilmoganny"
     ],
+    "name:gle_x_preferred":[
+        "Cill Mogeanna"
+    ],
+    "name:und_x_variant":[
+        "Kilmoganny"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963282,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kilmaganny",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":266,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189465,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072890,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":7002
+        "gn:id":2963282,
+        "gp:id":20072890,
+        "ie-gov:id":7002,
+        "qs_pg:id":1189465
     },
     "wof:country":"IE",
     "wof:created":1637371098,
@@ -40,13 +74,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371098,
+    "wof:lastmodified":1637709058,
     "wof:name":"Kilmoganny",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":226,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125412007
+    ],
     "wof:tags":[]
 },
   "bbox": [

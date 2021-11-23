@@ -17,15 +17,50 @@
     "mps:longitude":-7.758726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ballyclerahan"
+    ],
     "name:eng_x_preferred":[
         "Ballyclerahan"
     ],
+    "name:eus_x_preferred":[
+        "Ballyclerahan"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyclerahan"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyclerahan"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ballyclerahan",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Tipperary",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1252208,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073953,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Tipperary",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":23022
+        "gp:id":20073953,
+        "ie-gov:id":23022,
+        "qs_pg:id":1252208
     },
     "wof:country":"IE",
     "wof:created":1637371032,
@@ -40,13 +75,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371032,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballyclerahan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125324175
+    ],
     "wof:tags":[]
 },
   "bbox": [

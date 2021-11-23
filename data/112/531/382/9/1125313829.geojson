@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125313829,
-    "wof:lastmodified":1637271454,
+    "wof:lastmodified":1637709061,
     "wof:name":"Strokestown",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":814,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804973
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

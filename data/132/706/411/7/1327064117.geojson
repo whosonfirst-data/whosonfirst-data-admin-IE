@@ -34,10 +34,52 @@
     "name:eng_x_preferred":[
         "Bellavary"
     ],
+    "name:eus_x_preferred":[
+        "Bellavary"
+    ],
+    "name:gle_x_preferred":[
+        "B\u00e9al \u00c1tha Bhearaigh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10da\u10d0\u10d5\u10d4\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Bellavary"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u0430\u0432\u044d\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Bellavary"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966227,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bellavary",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":49802,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073401,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "geonames"
     ],
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -45,7 +87,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7870959
+        "gn:id":7870959,
+        "gp:id":20073401,
+        "qs_pg:id":49802
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -61,13 +105,15 @@
         }
     ],
     "wof:id":1327064117,
-    "wof:lastmodified":1637371069,
+    "wof:lastmodified":1637709047,
     "wof:name":"Bellavary",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125271177
+    ],
     "wof:tags":[]
 },
   "bbox": [

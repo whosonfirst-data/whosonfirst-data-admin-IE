@@ -110,14 +110,16 @@
         }
     ],
     "wof:id":1125295395,
-    "wof:lastmodified":1637271435,
+    "wof:lastmodified":1637709052,
     "wof:name":"Balla",
     "wof:parent_id":85685145,
     "wof:placetype":"localadmin",
     "wof:population":671,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -23,14 +23,32 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Kells"
+    ],
+    "name:ces_x_preferred":[
+        "Kells"
+    ],
+    "name:deu_x_preferred":[
+        "Kells"
+    ],
     "name:eng_x_preferred":[
         "Kells"
     ],
     "name:eus_x_preferred":[
         "Kells"
     ],
+    "name:fra_x_preferred":[
+        "Kells"
+    ],
     "name:gle_x_preferred":[
         "Ceanannas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Kells"
     ],
     "name:ita_x_preferred":[
         "Kells"
@@ -38,10 +56,19 @@
     "name:nld_x_preferred":[
         "Kells"
     ],
+    "name:pol_x_preferred":[
+        "Kells"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u043b\u0441"
     ],
+    "name:slk_x_preferred":[
+        "Kells"
+    ],
     "name:spa_x_preferred":[
+        "Kells"
+    ],
+    "name:swe_x_preferred":[
         "Kells"
     ],
     "qs_pg:aaroncc":"IE",
@@ -101,7 +128,7 @@
         }
     ],
     "wof:id":1125978847,
-    "wof:lastmodified":1637371099,
+    "wof:lastmodified":1637709059,
     "wof:name":"Kells",
     "wof:parent_id":85684979,
     "wof:placetype":"locality",
@@ -109,7 +136,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125340699
+    ],
     "wof:tags":[]
 },
   "bbox": [

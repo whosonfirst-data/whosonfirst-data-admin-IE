@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1125837471,
-    "wof:lastmodified":1637370995,
+    "wof:lastmodified":1637709051,
     "wof:name":"Dunfanaghy",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -130,7 +130,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125321029
+    ],
     "wof:tags":[]
 },
   "bbox": [

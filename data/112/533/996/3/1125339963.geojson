@@ -93,12 +93,14 @@
         }
     ],
     "wof:id":1125339963,
-    "wof:lastmodified":1637271412,
+    "wof:lastmodified":1637709074,
     "wof:name":"Julianstown",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

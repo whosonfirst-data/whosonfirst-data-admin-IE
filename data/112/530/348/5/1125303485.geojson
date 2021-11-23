@@ -97,14 +97,16 @@
         }
     ],
     "wof:id":1125303485,
-    "wof:lastmodified":1637271445,
+    "wof:lastmodified":1637709064,
     "wof:name":"Geashill",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:population":375,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

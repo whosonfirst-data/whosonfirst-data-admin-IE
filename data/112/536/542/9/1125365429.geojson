@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125365429,
-    "wof:lastmodified":1637271459,
+    "wof:lastmodified":1637709064,
     "wof:name":"Clashmore",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125817907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

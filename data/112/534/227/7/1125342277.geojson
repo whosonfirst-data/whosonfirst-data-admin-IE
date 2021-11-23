@@ -88,14 +88,16 @@
         }
     ],
     "wof:id":1125342277,
-    "wof:lastmodified":1637271416,
+    "wof:lastmodified":1637709069,
     "wof:name":"Glin",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":577,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658609
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

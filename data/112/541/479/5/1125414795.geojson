@@ -72,12 +72,14 @@
         }
     ],
     "wof:id":1125414795,
-    "wof:lastmodified":1637271463,
+    "wof:lastmodified":1637709070,
     "wof:name":"Robertstown",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804785
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

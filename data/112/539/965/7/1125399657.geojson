@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125399657,
-    "wof:lastmodified":1637271448,
+    "wof:lastmodified":1637709059,
     "wof:name":"Ovoca",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125964329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

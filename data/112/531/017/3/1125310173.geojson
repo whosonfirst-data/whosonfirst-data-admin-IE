@@ -84,14 +84,16 @@
         }
     ],
     "wof:id":1125310173,
-    "wof:lastmodified":1637271455,
+    "wof:lastmodified":1637709057,
     "wof:name":"Ballymacarbry",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
     "wof:population":132,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

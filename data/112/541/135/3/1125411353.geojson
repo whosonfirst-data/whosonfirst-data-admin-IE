@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125411353,
-    "wof:lastmodified":1637271462,
+    "wof:lastmodified":1637709048,
     "wof:name":"Killashandra",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805005
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

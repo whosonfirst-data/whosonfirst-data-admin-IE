@@ -124,14 +124,16 @@
         }
     ],
     "wof:id":1125351413,
-    "wof:lastmodified":1637271420,
+    "wof:lastmodified":1637709071,
     "wof:name":"Dunshaughlin",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:population":3903,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

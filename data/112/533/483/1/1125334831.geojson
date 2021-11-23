@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125334831,
-    "wof:lastmodified":1637271413,
+    "wof:lastmodified":1637709058,
     "wof:name":"Gowran",
     "wof:parent_id":85684979,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125983069
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

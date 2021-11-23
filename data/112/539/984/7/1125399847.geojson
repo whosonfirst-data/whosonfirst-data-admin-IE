@@ -100,14 +100,16 @@
         }
     ],
     "wof:id":1125399847,
-    "wof:lastmodified":1637271449,
+    "wof:lastmodified":1637709057,
     "wof:name":"Coolaney",
     "wof:parent_id":85685137,
     "wof:placetype":"localadmin",
     "wof:population":866,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

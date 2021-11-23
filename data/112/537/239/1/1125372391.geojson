@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125372391,
-    "wof:lastmodified":1637271442,
+    "wof:lastmodified":1637709055,
     "wof:name":"Bruff",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

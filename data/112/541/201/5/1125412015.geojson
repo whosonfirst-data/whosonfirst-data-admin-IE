@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125412015,
-    "wof:lastmodified":1637271466,
+    "wof:lastmodified":1637709067,
     "wof:name":"Bracknagh",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658589
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

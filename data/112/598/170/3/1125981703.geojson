@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125981703,
-    "wof:lastmodified":1637371035,
+    "wof:lastmodified":1637709056,
     "wof:name":"Ballinlough",
     "wof:parent_id":85685113,
     "wof:placetype":"locality",
@@ -120,7 +120,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125404835
+    ],
     "wof:tags":[]
 },
   "bbox": [

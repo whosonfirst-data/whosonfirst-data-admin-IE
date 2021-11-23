@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125867153,
-    "wof:lastmodified":1637371173,
+    "wof:lastmodified":1637709065,
     "wof:name":"Kilworth",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",
@@ -112,7 +112,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125410671
+    ],
     "wof:tags":[]
 },
   "bbox": [

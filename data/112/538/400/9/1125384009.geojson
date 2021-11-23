@@ -90,12 +90,14 @@
         }
     ],
     "wof:id":1125384009,
-    "wof:lastmodified":1637271451,
+    "wof:lastmodified":1637709067,
     "wof:name":"Newtown Cunningham",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126030917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125320263,
-    "wof:lastmodified":1637271425,
+    "wof:lastmodified":1637709050,
     "wof:name":"Schull",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":658,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805923
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

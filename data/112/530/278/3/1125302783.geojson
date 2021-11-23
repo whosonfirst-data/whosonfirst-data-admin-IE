@@ -98,14 +98,16 @@
         }
     ],
     "wof:id":1125302783,
-    "wof:lastmodified":1637271447,
+    "wof:lastmodified":1637709071,
     "wof:name":"Ferbane",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:population":1165,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804835
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125282109,
-    "wof:lastmodified":1637271427,
+    "wof:lastmodified":1637709071,
     "wof:name":"Tarbert",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":551,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

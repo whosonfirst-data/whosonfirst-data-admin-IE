@@ -72,12 +72,14 @@
         }
     ],
     "wof:id":1125391747,
-    "wof:lastmodified":1637271449,
+    "wof:lastmodified":1637709050,
     "wof:name":"Liscasey",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243292273
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -69,6 +69,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966989,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Annagary",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":519,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1311148,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071879,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes",
@@ -77,6 +97,10 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":336,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -108,14 +132,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371181,
+    "wof:lastmodified":1637709045,
     "wof:name":"Anagaire",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1193171135
+        1193171135,
+        1125335343
     ],
     "wof:tags":[]
 },

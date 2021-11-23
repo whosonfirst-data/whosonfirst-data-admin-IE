@@ -81,12 +81,14 @@
         }
     ],
     "wof:id":1125339995,
-    "wof:lastmodified":1637271412,
+    "wof:lastmodified":1637709061,
     "wof:name":"Borrisoleigh",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

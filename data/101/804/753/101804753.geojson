@@ -70,6 +70,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962465,
+    "qs_pg:gn_pop":1597,
+    "qs_pg:name":"Mountrath",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Laois",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1311075,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073081,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -77,6 +97,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":877,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Laois",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -108,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371097,
+    "wof:lastmodified":1637709075,
     "wof:name":"Mountrath",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",
@@ -116,7 +140,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125392681
+    ],
     "wof:tags":[]
 },
   "bbox": [

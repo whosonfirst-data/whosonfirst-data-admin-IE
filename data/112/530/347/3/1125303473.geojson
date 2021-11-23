@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125303473,
-    "wof:lastmodified":1637271446,
+    "wof:lastmodified":1637709055,
     "wof:name":"Croom",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":1157,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805997
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

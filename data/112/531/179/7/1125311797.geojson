@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125311797,
-    "wof:lastmodified":1637271456,
+    "wof:lastmodified":1637709052,
     "wof:name":"Rathmelton",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:population":1212,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

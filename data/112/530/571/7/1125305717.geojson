@@ -115,14 +115,16 @@
         }
     ],
     "wof:id":1125305717,
-    "wof:lastmodified":1637271447,
+    "wof:lastmodified":1637709057,
     "wof:name":"Carney",
     "wof:parent_id":85685137,
     "wof:placetype":"localadmin",
     "wof:population":349,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658535
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

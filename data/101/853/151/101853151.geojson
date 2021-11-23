@@ -22,10 +22,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Kilmore"
+    ],
     "name:eng_x_preferred":[
         "Kilmore"
     ],
     "name:eus_x_preferred":[
+        "Kilmore"
+    ],
+    "name:fin_x_preferred":[
+        "Kilmore"
+    ],
+    "name:fra_x_preferred":[
         "Kilmore"
     ],
     "name:gle_x_preferred":[
@@ -40,6 +49,9 @@
     "name:spa_x_preferred":[
         "Kilmore"
     ],
+    "name:swe_x_preferred":[
+        "Kilmore"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Wexford",
     "qs:a1r":"0",
@@ -51,6 +63,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963258,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kilmore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wexford",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":914,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1294236,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074428,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes",
@@ -59,6 +91,10 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":138,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wexford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -66,6 +102,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2963258,
         "gp:id":91490403,
         "qs_pg:id":4,
         "wd:id":"Q4220555"
@@ -85,13 +122,15 @@
         }
     ],
     "wof:id":101853151,
-    "wof:lastmodified":1637371203,
+    "wof:lastmodified":1637709046,
     "wof:name":"Kilmore",
     "wof:parent_id":85684967,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125287143
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -87,12 +87,36 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963400,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kilkee",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2168,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1198481,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071402,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2095,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -124,13 +148,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637370976,
+    "wof:lastmodified":1637709073,
     "wof:name":"Kilkee",
     "wof:parent_id":85685037,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125313771
+    ],
     "wof:tags":[]
 },
   "bbox": [

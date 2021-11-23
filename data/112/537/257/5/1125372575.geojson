@@ -90,12 +90,14 @@
         }
     ],
     "wof:id":1125372575,
-    "wof:lastmodified":1637271439,
+    "wof:lastmodified":1637709061,
     "wof:name":"Tulsk",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125873951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

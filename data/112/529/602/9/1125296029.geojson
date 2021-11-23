@@ -100,14 +100,16 @@
         }
     ],
     "wof:id":1125296029,
-    "wof:lastmodified":1637271434,
+    "wof:lastmodified":1637709068,
     "wof:name":"Castleconnell",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":1917,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804735
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

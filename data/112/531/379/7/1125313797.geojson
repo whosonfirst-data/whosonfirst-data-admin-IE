@@ -118,14 +118,16 @@
         }
     ],
     "wof:id":1125313797,
-    "wof:lastmodified":1637271453,
+    "wof:lastmodified":1637709042,
     "wof:name":"Malin",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:population":106,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

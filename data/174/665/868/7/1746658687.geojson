@@ -17,15 +17,53 @@
     "mps:longitude":-8.396758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ballyhooly"
+    ],
     "name:eng_x_preferred":[
         "Ballyhooly"
     ],
+    "name:gle_x_preferred":[
+        "An Baile \u00c1tha h\u00dalla"
+    ],
+    "name:spa_x_preferred":[
+        "Ballyhooly"
+    ],
+    "name:swe_x_preferred":[
+        "Ballyhooly"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966555,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ballyhooly",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cork",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":491934,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071512,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cork",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":18027
+        "gn:id":2966555,
+        "gp:id":20071512,
+        "ie-gov:id":18027,
+        "qs_pg:id":491934
     },
     "wof:country":"IE",
     "wof:created":1637371118,
@@ -40,13 +78,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371118,
+    "wof:lastmodified":1637709073,
     "wof:name":"Ballyhooly",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":412,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125299917
+    ],
     "wof:tags":[]
 },
   "bbox": [

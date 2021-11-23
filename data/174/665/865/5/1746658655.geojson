@@ -17,15 +17,67 @@
     "mps:longitude":-7.067717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Inistioge"
+    ],
     "name:eng_x_preferred":[
         "Inistioge"
     ],
+    "name:eus_x_preferred":[
+        "Inistioge"
+    ],
+    "name:gle_x_preferred":[
+        "Inis T\u00edog"
+    ],
+    "name:ita_x_preferred":[
+        "Inistioge"
+    ],
+    "name:nld_x_preferred":[
+        "Inistioge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0438\u0448\u0442\u0438\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Inistioge"
+    ],
+    "name:swe_x_preferred":[
+        "Inistioge"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2963609,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Inistioge",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kilkenny",
+    "qs_pg:photos":128,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":662,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1115277,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072872,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kilkenny",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":7015
+        "gn:id":2963609,
+        "gp:id":20072872,
+        "ie-gov:id":7015,
+        "qs_pg:id":1115277
     },
     "wof:country":"IE",
     "wof:created":1637371100,
@@ -40,13 +92,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371100,
+    "wof:lastmodified":1637709058,
     "wof:name":"Inistioge",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":260,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125330269
+    ],
     "wof:tags":[]
 },
   "bbox": [

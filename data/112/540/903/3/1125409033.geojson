@@ -121,14 +121,16 @@
         }
     ],
     "wof:id":1125409033,
-    "wof:lastmodified":1637271462,
+    "wof:lastmodified":1637709073,
     "wof:name":"Causeway",
     "wof:parent_id":85684991,
     "wof:placetype":"localadmin",
     "wof:population":264,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658685
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

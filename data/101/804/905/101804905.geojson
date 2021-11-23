@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Louth"
     ],
+    "name:ces_x_preferred":[
+        "Louth"
+    ],
+    "name:deu_x_preferred":[
+        "Louth"
+    ],
     "name:eng_x_preferred":[
         "Louth"
     ],
@@ -34,16 +40,28 @@
     "name:eus_x_preferred":[
         "Louth"
     ],
+    "name:fra_x_preferred":[
+        "Louth"
+    ],
     "name:gle_x_preferred":[
         "L\u00fa"
     ],
+    "name:hun_x_preferred":[
+        "Louth"
+    ],
     "name:ita_x_preferred":[
         "Louth"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc6b0\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Lutas"
     ],
     "name:nld_x_preferred":[
+        "Louth"
+    ],
+    "name:nor_x_preferred":[
         "Louth"
     ],
     "name:pol_x_preferred":[
@@ -52,8 +70,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0430\u0443\u0442"
     ],
+    "name:slk_x_preferred":[
+        "Louth"
+    ],
     "name:swe_x_preferred":[
         "Louth"
+    ],
+    "name:und_x_variant":[
+        "Lubhaidh"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Louth",
@@ -67,12 +91,36 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962794,
+    "qs_pg:gn_pop":1306,
+    "qs_pg:name":"Louth",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Louth",
+    "qs_pg:photos":13,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":499520,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073356,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Louth",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -104,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371056,
+    "wof:lastmodified":1637709067,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",
@@ -112,7 +160,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125303389
+    ],
     "wof:tags":[]
 },
   "bbox": [

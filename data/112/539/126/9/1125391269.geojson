@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125391269,
-    "wof:lastmodified":1637271449,
+    "wof:lastmodified":1637709050,
     "wof:name":"Patricks Well",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125368661,
-    "wof:lastmodified":1637271457,
+    "wof:lastmodified":1637709072,
     "wof:name":"Clontibret",
     "wof:parent_id":85685117,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658573
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -94,12 +94,14 @@
         }
     ],
     "wof:id":1125319067,
-    "wof:lastmodified":1637271453,
+    "wof:lastmodified":1637709053,
     "wof:name":"Portmagee",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125791327
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -99,12 +99,14 @@
         }
     ],
     "wof:id":1125353271,
-    "wof:lastmodified":1637271420,
+    "wof:lastmodified":1637709055,
     "wof:name":"Castletown",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

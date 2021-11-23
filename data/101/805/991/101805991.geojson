@@ -93,6 +93,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":584,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -124,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371079,
+    "wof:lastmodified":1637709055,
     "wof:name":"Bruff",
     "wof:parent_id":85684987,
     "wof:placetype":"locality",
@@ -133,7 +137,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125883697
+        1125883697,
+        1125372391
     ],
     "wof:tags":[]
 },

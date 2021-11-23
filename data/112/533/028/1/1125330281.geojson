@@ -109,14 +109,16 @@
         }
     ],
     "wof:id":1125330281,
-    "wof:lastmodified":1637271415,
+    "wof:lastmodified":1637709059,
     "wof:name":"Drumshanbo",
     "wof:parent_id":85685133,
     "wof:placetype":"localadmin",
     "wof:population":857,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

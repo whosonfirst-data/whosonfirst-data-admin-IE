@@ -17,15 +17,61 @@
     "mps:longitude":-8.861968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Quin"
+    ],
     "name:eng_x_preferred":[
         "Quin"
     ],
+    "name:fra_x_preferred":[
+        "Quin"
+    ],
+    "name:gle_x_preferred":[
+        "Cuinche"
+    ],
+    "name:ita_x_preferred":[
+        "Quin"
+    ],
+    "name:ron_x_preferred":[
+        "Quin"
+    ],
+    "name:und_x_variant":[
+        "Quinn"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961980,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Quin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Clare",
+    "qs_pg:photos":333,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":808,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1094539,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071459,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Clare",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":16028
+        "gn:id":2961980,
+        "gp:id":20071459,
+        "ie-gov:id":16028,
+        "qs_pg:id":1094539
     },
     "wof:country":"IE",
     "wof:created":1637371142,
@@ -40,13 +86,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371142,
+    "wof:lastmodified":1637709044,
     "wof:name":"Quin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":935,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125285797
+    ],
     "wof:tags":[]
 },
   "bbox": [

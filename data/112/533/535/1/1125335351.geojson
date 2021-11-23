@@ -103,14 +103,16 @@
         }
     ],
     "wof:id":1125335351,
-    "wof:lastmodified":1637271412,
+    "wof:lastmodified":1637709046,
     "wof:name":"Fahan",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:population":569,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101845627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

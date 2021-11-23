@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125394177,
-    "wof:lastmodified":1637271449,
+    "wof:lastmodified":1637709066,
     "wof:name":"Fennagh",
     "wof:parent_id":85684975,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658707
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

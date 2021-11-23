@@ -17,15 +17,88 @@
     "mps:longitude":-6.536821,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u0438\u043d\u0433\u0442\u044a\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Blessington"
+    ],
+    "name:dan_x_preferred":[
+        "Blessington"
+    ],
+    "name:deu_x_preferred":[
+        "Blessington"
+    ],
     "name:eng_x_preferred":[
         "Blessington"
     ],
+    "name:eus_x_preferred":[
+        "Blessington"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0633\u06cc\u0646\u06af\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Blessington"
+    ],
+    "name:gle_x_preferred":[
+        "Baile Coim\u00edn"
+    ],
+    "name:ind_x_preferred":[
+        "Blessington"
+    ],
+    "name:ita_x_preferred":[
+        "Blessington"
+    ],
+    "name:nld_x_preferred":[
+        "Blessington"
+    ],
+    "name:pol_x_preferred":[
+        "Blessington"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0435\u0441\u0441\u0438\u043d\u0433\u0442\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Blessington"
+    ],
+    "name:spa_x_preferred":[
+        "Blessington"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966101,
+    "qs_pg:gn_pop":2874,
+    "qs_pg:name":"Blessington",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":899,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1110471,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074492,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":35026
+        "gn:id":2966101,
+        "gp:id":20074492,
+        "ie-gov:id":35026,
+        "qs_pg:id":1110471
     },
     "wof:country":"IE",
     "wof:created":1637371008,
@@ -40,13 +113,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371008,
+    "wof:lastmodified":1637709071,
     "wof:name":"Blessington",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":5010,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125300241
+    ],
     "wof:tags":[]
 },
   "bbox": [

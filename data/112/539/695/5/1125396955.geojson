@@ -83,14 +83,16 @@
         }
     ],
     "wof:id":1125396955,
-    "wof:lastmodified":1637271449,
+    "wof:lastmodified":1637709047,
     "wof:name":"Rosslare",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",
     "wof:population":1547,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

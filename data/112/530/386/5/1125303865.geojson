@@ -123,12 +123,14 @@
         }
     ],
     "wof:id":1125303865,
-    "wof:lastmodified":1637271448,
+    "wof:lastmodified":1637709068,
     "wof:name":"Roscrea",
     "wof:parent_id":1159294375,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -139,14 +139,16 @@
         }
     ],
     "wof:id":1125270695,
-    "wof:lastmodified":1637271433,
+    "wof:lastmodified":1637709066,
     "wof:name":"Celbridge",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:population":19537,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

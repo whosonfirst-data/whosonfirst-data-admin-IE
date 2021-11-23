@@ -87,12 +87,14 @@
         }
     ],
     "wof:id":1125295799,
-    "wof:lastmodified":1637271436,
+    "wof:lastmodified":1637709066,
     "wof:name":"Laghy",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126030913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

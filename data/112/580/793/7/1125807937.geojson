@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125807937,
-    "wof:lastmodified":1637371167,
+    "wof:lastmodified":1637709062,
     "wof:name":"Kilbrittain",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",
@@ -117,7 +117,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125365141
+    ],
     "wof:tags":[]
 },
   "bbox": [

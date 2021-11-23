@@ -100,7 +100,12 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wd:wordcount":597,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -128,14 +133,17 @@
         }
     ],
     "wof:id":101804945,
-    "wof:lastmodified":1637371115,
+    "wof:lastmodified":1637709060,
     "wof:name":"Bearna",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",
+    "wof:population":1878,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125907109
+        1125907109,
+        1125297411
     ],
     "wof:tags":[]
 },

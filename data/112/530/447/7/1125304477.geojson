@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125304477,
-    "wof:lastmodified":1637271445,
+    "wof:lastmodified":1637709068,
     "wof:name":"Carlingford",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

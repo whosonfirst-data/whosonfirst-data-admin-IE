@@ -105,14 +105,16 @@
         }
     ],
     "wof:id":1125270869,
-    "wof:lastmodified":1637271432,
+    "wof:lastmodified":1637709065,
     "wof:name":"Sixmilebridge",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:population":2507,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

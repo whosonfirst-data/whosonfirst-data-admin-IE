@@ -108,12 +108,14 @@
         }
     ],
     "wof:id":1125371157,
-    "wof:lastmodified":1637271443,
+    "wof:lastmodified":1637709060,
     "wof:name":"Lisdoonvarna",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125907955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

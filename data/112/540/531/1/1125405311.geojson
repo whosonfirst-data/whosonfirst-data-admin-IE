@@ -127,14 +127,16 @@
         }
     ],
     "wof:id":1125405311,
-    "wof:lastmodified":1637271462,
+    "wof:lastmodified":1637709069,
     "wof:name":"Gort",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":2644,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125411935,
-    "wof:lastmodified":1637271463,
+    "wof:lastmodified":1637709048,
     "wof:name":"Kilfinnane",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

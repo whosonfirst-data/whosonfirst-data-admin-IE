@@ -97,14 +97,16 @@
         }
     ],
     "wof:id":1125335379,
-    "wof:lastmodified":1637271414,
+    "wof:lastmodified":1637709069,
     "wof:name":"Bellanagare",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":142,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

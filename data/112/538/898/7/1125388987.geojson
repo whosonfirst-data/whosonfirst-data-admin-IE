@@ -73,14 +73,16 @@
         }
     ],
     "wof:id":1125388987,
-    "wof:lastmodified":1637271452,
+    "wof:lastmodified":1637709046,
     "wof:name":"Ballygarvan",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":540,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101853143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

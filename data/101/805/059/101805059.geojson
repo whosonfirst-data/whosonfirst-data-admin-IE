@@ -79,6 +79,9 @@
     "name:swe_x_preferred":[
         "Carndonagh"
     ],
+    "name:und_x_variant":[
+        "Cardonagh"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Donegal",
     "qs:a1r":"0",
@@ -91,6 +94,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965761,
+    "qs_pg:gn_pop":1581,
+    "qs_pg:name":"Carndonagh",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Donegal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":215,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1000280,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071898,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -101,6 +124,10 @@
     "wd:latitude":55.251389,
     "wd:longitude":-7.261389,
     "wd:wordcount":374,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Donegal",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -132,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371137,
+    "wof:lastmodified":1637709049,
     "wof:name":"Carndonagh",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
@@ -140,7 +167,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125381499
+    ],
     "wof:tags":[]
 },
   "bbox": [

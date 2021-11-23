@@ -78,12 +78,14 @@
         }
     ],
     "wof:id":1125279961,
-    "wof:lastmodified":1637271431,
+    "wof:lastmodified":1637709063,
     "wof:name":"Garristown",
     "wof:parent_id":85685045,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

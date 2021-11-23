@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125356521,
-    "wof:lastmodified":1637271420,
+    "wof:lastmodified":1637709051,
     "wof:name":"Millford",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805063
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

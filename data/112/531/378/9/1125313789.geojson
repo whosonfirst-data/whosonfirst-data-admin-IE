@@ -91,14 +91,16 @@
         }
     ],
     "wof:id":1125313789,
-    "wof:lastmodified":1637271454,
+    "wof:lastmodified":1637709070,
     "wof:name":"Killaloe",
     "wof:parent_id":85685037,
     "wof:placetype":"localadmin",
     "wof:population":1292,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804777
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

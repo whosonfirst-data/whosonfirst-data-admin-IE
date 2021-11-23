@@ -112,14 +112,16 @@
         }
     ],
     "wof:id":1125281635,
-    "wof:lastmodified":1637271429,
+    "wof:lastmodified":1637709042,
     "wof:name":"Ballaghaderreen",
     "wof:parent_id":85685113,
     "wof:placetype":"localadmin",
     "wof:population":1822,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804965
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

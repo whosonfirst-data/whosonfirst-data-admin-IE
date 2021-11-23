@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125303397,
-    "wof:lastmodified":1637271444,
+    "wof:lastmodified":1637709067,
     "wof:name":"Kilberry",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:population":408,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658671
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

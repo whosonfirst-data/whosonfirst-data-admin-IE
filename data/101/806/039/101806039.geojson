@@ -64,6 +64,24 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961204,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tinahely",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Wicklow",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":175,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":247377,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074550,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -71,6 +89,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":808,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Wicklow",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -102,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637370996,
+    "wof:lastmodified":1637709042,
     "wof:name":"Tinahely",
     "wof:parent_id":85684999,
     "wof:placetype":"locality",
@@ -110,7 +132,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125414527
+    ],
     "wof:tags":[]
 },
   "bbox": [

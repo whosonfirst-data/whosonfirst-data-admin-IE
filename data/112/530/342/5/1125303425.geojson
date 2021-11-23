@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125303425,
-    "wof:lastmodified":1637271447,
+    "wof:lastmodified":1637709059,
     "wof:name":"Shanagolden",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":294,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -20,12 +20,35 @@
     "name:eng_x_preferred":[
         "Lackaghbeg"
     ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Lackaghbeg",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Galway",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1294436,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20072492,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Galway",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":27031
+        "gp:id":20072492,
+        "ie-gov:id":27031,
+        "qs_pg:id":1294436
     },
     "wof:country":"IE",
     "wof:created":1637371129,
@@ -40,13 +63,15 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371129,
+    "wof:lastmodified":1637709065,
     "wof:name":"Lackaghbeg",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125329863
+    ],
     "wof:tags":[]
 },
   "bbox": [

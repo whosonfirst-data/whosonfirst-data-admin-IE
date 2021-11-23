@@ -382,14 +382,16 @@
         }
     ],
     "wof:id":1125271783,
-    "wof:lastmodified":1637271433,
+    "wof:lastmodified":1637709071,
     "wof:name":"Bridgetown",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
     "wof:population":385,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658517
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

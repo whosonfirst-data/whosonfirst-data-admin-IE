@@ -115,6 +115,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2034,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":101804855,
-    "wof:lastmodified":1637371133,
+    "wof:lastmodified":1637709063,
     "wof:name":"Donabate",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
@@ -151,7 +155,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1125770045
+        1125770045,
+        1125339799
     ],
     "wof:tags":[]
 },

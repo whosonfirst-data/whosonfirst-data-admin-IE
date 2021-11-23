@@ -94,14 +94,16 @@
         }
     ],
     "wof:id":1125319549,
-    "wof:lastmodified":1637271452,
+    "wof:lastmodified":1637709063,
     "wof:name":"Manorcunningham",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:population":643,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658821
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -234,12 +234,14 @@
         }
     ],
     "wof:id":1125302425,
-    "wof:lastmodified":1637271445,
+    "wof:lastmodified":1637709054,
     "wof:name":"Emo",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125788951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

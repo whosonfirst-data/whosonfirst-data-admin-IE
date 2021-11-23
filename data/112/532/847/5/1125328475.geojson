@@ -129,12 +129,14 @@
         }
     ],
     "wof:id":1125328475,
-    "wof:lastmodified":1637271425,
+    "wof:lastmodified":1637709050,
     "wof:name":"Donegal",
     "wof:parent_id":85685151,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

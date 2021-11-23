@@ -47,6 +47,9 @@
     "name:ita_x_preferred":[
         "Rathcormac"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d7\u10d9\u10dd\u10e0\u10db\u10d0\u10d9\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Ratkormakas"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1126015131,
-    "wof:lastmodified":1637371150,
+    "wof:lastmodified":1637709055,
     "wof:name":"Rathcormac",
     "wof:parent_id":85684963,
     "wof:placetype":"locality",
@@ -127,7 +130,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125321955
+    ],
     "wof:tags":[]
 },
   "bbox": [

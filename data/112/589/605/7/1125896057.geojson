@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1125896057,
-    "wof:lastmodified":1637371004,
+    "wof:lastmodified":1637709063,
     "wof:name":"Clogheen",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",
@@ -124,7 +124,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125285223
+    ],
     "wof:tags":[]
 },
   "bbox": [

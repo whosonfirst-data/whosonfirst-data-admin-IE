@@ -82,14 +82,16 @@
         }
     ],
     "wof:id":1125350229,
-    "wof:lastmodified":1637271419,
+    "wof:lastmodified":1637709050,
     "wof:name":"Ferns",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
     "wof:population":1362,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

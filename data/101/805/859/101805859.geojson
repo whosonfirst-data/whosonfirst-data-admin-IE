@@ -61,6 +61,26 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2965786,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cappoquin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Waterford",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":516,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1103031,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20074140,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
@@ -68,6 +88,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1109,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Waterford",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -99,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371023,
+    "wof:lastmodified":1637709052,
     "wof:name":"Cappoquin",
     "wof:parent_id":85684953,
     "wof:placetype":"locality",
@@ -108,7 +132,8 @@
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1343494961
+        1343494961,
+        1125303521
     ],
     "wof:tags":[]
 },

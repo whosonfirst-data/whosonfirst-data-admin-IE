@@ -79,14 +79,16 @@
         }
     ],
     "wof:id":1125412653,
-    "wof:lastmodified":1637271465,
+    "wof:lastmodified":1637709044,
     "wof:name":"Butlers Bridge",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":282,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

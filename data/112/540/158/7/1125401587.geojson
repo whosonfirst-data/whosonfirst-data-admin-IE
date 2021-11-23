@@ -114,12 +114,14 @@
         }
     ],
     "wof:id":1125401587,
-    "wof:lastmodified":1637271461,
+    "wof:lastmodified":1637709045,
     "wof:name":"Kilcock",
     "wof:parent_id":85685025,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

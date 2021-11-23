@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125411251,
-    "wof:lastmodified":1637271466,
+    "wof:lastmodified":1637709072,
     "wof:name":"Dromiskin",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125937961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

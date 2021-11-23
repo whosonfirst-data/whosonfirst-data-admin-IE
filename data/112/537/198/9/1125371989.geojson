@@ -73,14 +73,16 @@
         }
     ],
     "wof:id":1125371989,
-    "wof:lastmodified":1637271440,
+    "wof:lastmodified":1637709058,
     "wof:name":"Clarina",
     "wof:parent_id":85684987,
     "wof:placetype":"localadmin",
     "wof:population":275,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

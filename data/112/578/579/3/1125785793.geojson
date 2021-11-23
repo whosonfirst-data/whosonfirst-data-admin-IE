@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125785793,
-    "wof:lastmodified":1637371056,
+    "wof:lastmodified":1637709053,
     "wof:name":"Tallanstown",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",
@@ -112,7 +112,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125298907
+    ],
     "wof:tags":[]
 },
   "bbox": [

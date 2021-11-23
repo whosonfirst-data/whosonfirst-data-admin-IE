@@ -114,12 +114,14 @@
         }
     ],
     "wof:id":1125288331,
-    "wof:lastmodified":1637271428,
+    "wof:lastmodified":1637709070,
     "wof:name":"Clifden",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -66,12 +66,14 @@
         }
     ],
     "wof:id":1125410695,
-    "wof:lastmodified":1637271466,
+    "wof:lastmodified":1637709068,
     "wof:name":"Jenkinstown",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658607
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

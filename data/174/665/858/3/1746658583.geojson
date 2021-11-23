@@ -17,15 +17,49 @@
     "mps:longitude":-8.201037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cym_x_preferred":[
+        "Elphin"
+    ],
     "name:eng_x_preferred":[
         "Elphin"
     ],
+    "name:gle_x_preferred":[
+        "Ail Finn"
+    ],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964420,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Elphin",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Roscommon",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1189719,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073803,
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Roscommon",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
-        "ie-gov:id":30012
+        "gn:id":2964420,
+        "gp:id":20073803,
+        "ie-gov:id":30012,
+        "qs_pg:id":1189719
     },
     "wof:country":"IE",
     "wof:created":1637371047,
@@ -40,13 +74,17 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371047,
+    "wof:lastmodified":1637709067,
     "wof:name":"Elphin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":613,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125412019
+    ],
     "wof:tags":[]
 },
   "bbox": [

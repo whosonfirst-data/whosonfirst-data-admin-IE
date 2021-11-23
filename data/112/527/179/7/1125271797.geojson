@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125271797,
-    "wof:lastmodified":1637271433,
+    "wof:lastmodified":1637709064,
     "wof:name":"Duncormick",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1746658831
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

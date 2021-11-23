@@ -124,14 +124,16 @@
         }
     ],
     "wof:id":1125327927,
-    "wof:lastmodified":1637271424,
+    "wof:lastmodified":1637709051,
     "wof:name":"Belturbet",
     "wof:parent_id":85685125,
     "wof:placetype":"localadmin",
     "wof:population":1277,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -84,12 +84,14 @@
         }
     ],
     "wof:id":1125361811,
-    "wof:lastmodified":1637271458,
+    "wof:lastmodified":1637709045,
     "wof:name":"Killeigh",
     "wof:parent_id":85685041,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

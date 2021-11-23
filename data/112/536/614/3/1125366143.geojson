@@ -118,14 +118,16 @@
         }
     ],
     "wof:id":1125366143,
-    "wof:lastmodified":1637271459,
+    "wof:lastmodified":1637709057,
     "wof:name":"Blarney",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":2437,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805909
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

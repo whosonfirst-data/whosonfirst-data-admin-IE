@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Balla"
     ],
+    "name:ces_x_preferred":[
+        "Balla"
+    ],
     "name:deu_x_preferred":[
         "Balla"
     ],
@@ -40,6 +43,12 @@
     "name:gle_x_preferred":[
         "Balla"
     ],
+    "name:hun_x_preferred":[
+        "Balla"
+    ],
+    "name:ind_x_preferred":[
+        "Balla"
+    ],
     "name:ita_x_preferred":[
         "Balla"
     ],
@@ -49,14 +58,23 @@
     "name:nld_x_preferred":[
         "Balla"
     ],
+    "name:pol_x_preferred":[
+        "Balla"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b"
     ],
     "name:spa_x_preferred":[
         "Balla"
     ],
+    "name:srp_x_preferred":[
+        "Balla"
+    ],
     "name:swe_x_preferred":[
         "Balla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0430"
     ],
     "name:vie_x_preferred":[
         "Balla"
@@ -73,12 +91,34 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2966788,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Balla",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Mayo",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":291468,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073380,
     "src:geom":"ie-gov",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Mayo",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -110,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371069,
+    "wof:lastmodified":1637709052,
     "wof:name":"Balla",
     "wof:parent_id":85685145,
     "wof:placetype":"locality",
@@ -118,7 +158,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125295395
+    ],
     "wof:tags":[]
 },
   "bbox": [

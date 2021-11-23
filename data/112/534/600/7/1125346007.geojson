@@ -96,12 +96,14 @@
         }
     ],
     "wof:id":1125346007,
-    "wof:lastmodified":1637271418,
+    "wof:lastmodified":1637709071,
     "wof:name":"Lusk",
     "wof:parent_id":85685045,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804851
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

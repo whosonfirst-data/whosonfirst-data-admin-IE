@@ -106,14 +106,16 @@
         }
     ],
     "wof:id":1125415709,
-    "wof:lastmodified":1637271467,
+    "wof:lastmodified":1637709074,
     "wof:name":"Clarinbridge",
     "wof:parent_id":85685097,
     "wof:placetype":"localadmin",
     "wof:population":389,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804955
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
