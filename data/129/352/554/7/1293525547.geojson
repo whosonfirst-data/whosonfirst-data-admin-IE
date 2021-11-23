@@ -27,7 +27,7 @@
     "lbl:bbox":"-6.77,53.26528,-6.73,53.30528",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
@@ -41,7 +41,7 @@
         "gn:id":3314685
     },
     "wof:country":"IE",
-    "wof:geomhash":"c7ce1f734c0c71896d35bf46c921a6ec",
+    "wof:geomhash":"f97dbd514b6682ad7525673c4237ea67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1293525547,
-    "wof:lastmodified":1566679694,
+    "wof:lastmodified":1637700864,
     "wof:name":"The Hutters Cross Roads",
     "wof:parent_id":85685025,
     "wof:placetype":"locality",
@@ -62,9 +62,9 @@
 },
   "bbox": [
     -6.75,
-    53.28528000000001,
+    53.28528,
     -6.75,
-    53.28528000000001
+    53.28528
 ],
-  "geometry": {"coordinates":[-6.75,53.28528000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.75,53.28528],"type":"Point"}
 }

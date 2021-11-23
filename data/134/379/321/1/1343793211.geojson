@@ -27,7 +27,7 @@
     "lbl:bbox":"-6.3675,53.70972,-6.3275,53.74972",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
@@ -74,7 +74,7 @@
         "gn:id":3316407
     },
     "wof:country":"IE",
-    "wof:geomhash":"d4395444118033eb3d1e930fcb85eba8",
+    "wof:geomhash":"8ea3fb2f967c1fa106a8cf0972edaec0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1343793211,
-    "wof:lastmodified":1566679455,
+    "wof:lastmodified":1637700855,
     "wof:name":"Moneymore",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",
@@ -95,9 +95,9 @@
 },
   "bbox": [
     -6.3475,
-    53.72971999999999,
+    53.72972,
     -6.3475,
-    53.72971999999999
+    53.72972
 ],
-  "geometry": {"coordinates":[-6.3475,53.72971999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.3475,53.72972],"type":"Point"}
 }

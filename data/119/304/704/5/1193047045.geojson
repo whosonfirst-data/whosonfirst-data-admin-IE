@@ -27,7 +27,7 @@
     "lbl:bbox":"-6.1975,53.41528,-6.1575,53.45528",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
@@ -41,7 +41,7 @@
         "gn:id":3316286
     },
     "wof:country":"IE",
-    "wof:geomhash":"0d908c3d5c138bf07b8b9740d2e39b81",
+    "wof:geomhash":"f373bd6f6f904e558f7de3e89ad2e2af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1193047045,
-    "wof:lastmodified":1566679949,
+    "wof:lastmodified":1637700859,
     "wof:name":"Feltrim",
     "wof:parent_id":85685045,
     "wof:placetype":"locality",
@@ -62,9 +62,9 @@
 },
   "bbox": [
     -6.1775,
-    53.43528000000001,
+    53.43528,
     -6.1775,
-    53.43528000000001
+    53.43528
 ],
-  "geometry": {"coordinates":[-6.1775,53.43528000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.1775,53.43528],"type":"Point"}
 }
