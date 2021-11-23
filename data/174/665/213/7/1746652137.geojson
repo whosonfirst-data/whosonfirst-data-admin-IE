@@ -337,6 +337,9 @@
         "unlc:id":"IE-WX",
         "wd:id":"Q184599"
     },
+    "wof:coterminous":[
+        85684967
+    ],
     "wof:country":"IE",
     "wof:created":1637263830,
     "wof:geomhash":"6fd741551b9653f5247d22be78fab293",
@@ -357,7 +360,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263830,
+    "wof:lastmodified":1637696648,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

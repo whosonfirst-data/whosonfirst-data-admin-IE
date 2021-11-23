@@ -343,6 +343,9 @@
         "unlc:id":"IE-WW",
         "wd:id":"Q182591"
     },
+    "wof:coterminous":[
+        85684999
+    ],
     "wof:country":"IE",
     "wof:created":1637263848,
     "wof:geomhash":"644d63a742bd0aed9be6223e6d1a9bb3",
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263848,
+    "wof:lastmodified":1637696622,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

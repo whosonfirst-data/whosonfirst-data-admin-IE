@@ -270,6 +270,9 @@
         "digitalenvoy:region_code":11822,
         "wd:id":"Q178626"
     },
+    "wof:coterminous":[
+        85685145
+    ],
     "wof:country":"IE",
     "wof:created":1637263817,
     "wof:geomhash":"d858581af74c07f4a1771e4e73febb75",
@@ -290,7 +293,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263817,
+    "wof:lastmodified":1637696611,
     "wof:name":"Mayo",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

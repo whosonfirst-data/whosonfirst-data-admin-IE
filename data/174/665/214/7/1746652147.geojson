@@ -277,6 +277,9 @@
         "iso:id":"IE-WD",
         "wd:id":"Q184594"
     },
+    "wof:coterminous":[
+        85684953
+    ],
     "wof:country":"IE",
     "wof:created":1637263845,
     "wof:geomhash":"ccd3f0cfdd16afefc01e6f8da1a2f0a4",
@@ -297,7 +300,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263845,
+    "wof:lastmodified":1637696626,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

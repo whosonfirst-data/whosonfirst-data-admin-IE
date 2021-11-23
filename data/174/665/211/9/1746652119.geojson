@@ -347,6 +347,9 @@
         "unlc:id":"IE-KE",
         "wd:id":"Q173332"
     },
+    "wof:coterminous":[
+        85685025
+    ],
     "wof:country":"IE",
     "wof:created":1637263804,
     "wof:geomhash":"798bedf93bf63faddb3cb7dc75fa092c",
@@ -367,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263804,
+    "wof:lastmodified":1637696577,
     "wof:name":"Kildare",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

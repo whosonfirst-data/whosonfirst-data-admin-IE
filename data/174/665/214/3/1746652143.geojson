@@ -350,6 +350,9 @@
         "unlc:id":"IE-CW",
         "wd:id":"Q181882"
     },
+    "wof:coterminous":[
+        85684975
+    ],
     "wof:country":"IE",
     "wof:created":1637263835,
     "wof:geomhash":"aaccc89907ea02d1abbeee5d625e8645",
@@ -370,7 +373,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263835,
+    "wof:lastmodified":1637696631,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

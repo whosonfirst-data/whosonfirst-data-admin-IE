@@ -351,6 +351,9 @@
         "unlc:id":"IE-LM",
         "wd:id":"Q107397"
     },
+    "wof:coterminous":[
+        1746652123
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -372,7 +375,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1636502583,
+    "wof:lastmodified":1637696608,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -146,6 +146,9 @@
     "wof:concordances":{
         "digitalenvoy:region_code":11823
     },
+    "wof:coterminous":[
+        1159294375
+    ],
     "wof:country":"IE",
     "wof:created":1637263878,
     "wof:geomhash":"602ae4540fb3c41d527a6ab4b4aa75ef",
@@ -166,7 +169,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263878,
+    "wof:lastmodified":1637696619,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

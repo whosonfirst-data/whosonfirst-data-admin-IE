@@ -338,6 +338,9 @@
         "unlc:id":"IE-LD",
         "wd:id":"Q186220"
     },
+    "wof:coterminous":[
+        85685091
+    ],
     "wof:country":"IE",
     "wof:created":1637263785,
     "wof:geomhash":"f151e1426e4e3e921e82cf7ae5db1e78",
@@ -358,7 +361,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263785,
+    "wof:lastmodified":1637696580,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

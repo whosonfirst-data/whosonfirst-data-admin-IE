@@ -359,6 +359,9 @@
         "unlc:id":"IE-LH",
         "wd:id":"Q183539"
     },
+    "wof:coterminous":[
+        85685087
+    ],
     "wof:country":"IE",
     "wof:created":1637263780,
     "wof:geomhash":"7631dd5aefd164c9b413a5303cadf55c",
@@ -379,7 +382,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263780,
+    "wof:lastmodified":1637696657,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

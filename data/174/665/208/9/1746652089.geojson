@@ -343,6 +343,9 @@
         "unlc:id":"IE-LS",
         "wd:id":"Q55299"
     },
+    "wof:coterminous":[
+        85685005
+    ],
     "wof:country":"IE",
     "wof:created":1637263776,
     "wof:geomhash":"6d527c274912e819c7d493151d075382",
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263776,
+    "wof:lastmodified":1637696659,
     "wof:name":"Laois",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

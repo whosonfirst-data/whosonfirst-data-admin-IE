@@ -348,6 +348,9 @@
         "unlc:id":"IE-SO",
         "wd:id":"Q179325"
     },
+    "wof:coterminous":[
+        85685137
+    ],
     "wof:country":"IE",
     "wof:created":1637263824,
     "wof:geomhash":"9f8390080797494e037fcb9c2b8aa54c",
@@ -368,7 +371,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263824,
+    "wof:lastmodified":1637696584,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

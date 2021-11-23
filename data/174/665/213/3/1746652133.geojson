@@ -343,6 +343,9 @@
         "unlc:id":"IE-RN",
         "wd:id":"Q179437"
     },
+    "wof:coterminous":[
+        85685113
+    ],
     "wof:country":"IE",
     "wof:created":1637263826,
     "wof:geomhash":"edfcc0f5e194d2b55ddbdd2257e94e0b",
@@ -363,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263826,
+    "wof:lastmodified":1637696651,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
