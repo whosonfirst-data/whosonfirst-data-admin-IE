@@ -10,30 +10,12 @@
     "geom:latitude":53.712599,
     "geom:longitude":-7.725083,
     "iso:country":"IE",
-    "label:eng_x_preferred_longname":[
-        "County Longford"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
-    "label:eng_x_preferred_shortcode":[
-        "LD"
-    ],
-    "label:eng_x_variant_longname":[
-        "Longford County"
-    ],
-    "label:gle_x_preferred_longname":[
-        "Contae an Longfoirt"
-    ],
-    "label:gle_x_preferred_placetype":[
-        "contae"
-    ],
     "lbl:latitude":53.673466,
     "lbl:longitude":-7.752625,
     "lbl:min_zoom":8.0,
     "mps:latitude":53.673466,
     "mps:longitude":-7.752625,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
@@ -308,18 +290,6 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2011-04-10",
-    "statoids:area_km":"1,044",
-    "statoids:area_mi":"403",
-    "statoids:as_of_date":"2011-04-10",
-    "statoids:capital":"Longford",
-    "statoids:country":"IE",
-    "statoids:gec":"EI18",
-    "statoids:hasc":"IE.LD",
-    "statoids:iso":"LD",
-    "statoids:name":"Longford",
-    "statoids:population":"39000",
-    "statoids:timezone":"+0~",
-    "statoids:type":"county",
     "unlc:subdivision":"IE-LD",
     "wd:wordcount":2733,
     "wof:belongsto":[
@@ -329,7 +299,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":24109,
         "fips:code":"EI18",
         "gn:id":2962839,
         "gp:id":2345262,
@@ -361,11 +330,10 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696580,
+    "wof:lastmodified":1637697395,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":39000,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ie",

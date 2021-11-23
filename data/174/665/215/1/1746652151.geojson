@@ -10,30 +10,12 @@
     "geom:latitude":52.978108,
     "geom:longitude":-6.375657,
     "iso:country":"IE",
-    "label:eng_x_preferred_longname":[
-        "County Wicklow"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
-    "label:eng_x_preferred_shortcode":[
-        "WW"
-    ],
-    "label:eng_x_variant_longname":[
-        "Wicklow County"
-    ],
-    "label:gle_x_preferred_longname":[
-        "Contae Chill Mhant\u00e1in"
-    ],
-    "label:gle_x_preferred_placetype":[
-        "contae"
-    ],
     "lbl:latitude":52.984944,
     "lbl:longitude":-6.340102,
     "lbl:min_zoom":8.0,
     "mps:latitude":52.984944,
     "mps:longitude":-6.340102,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
@@ -313,18 +295,6 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2011-04-10",
-    "statoids:area_km":"2,025",
-    "statoids:area_mi":"782",
-    "statoids:as_of_date":"2011-04-10",
-    "statoids:capital":"Wicklow",
-    "statoids:country":"IE",
-    "statoids:gec":"EI31",
-    "statoids:hasc":"IE.WW",
-    "statoids:iso":"WW",
-    "statoids:name":"Wicklow",
-    "statoids:population":"136640",
-    "statoids:timezone":"+0~",
-    "statoids:type":"county",
     "unlc:subdivision":"IE-WW",
     "wd:wordcount":2138,
     "wof:belongsto":[
@@ -334,7 +304,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":11816,
         "fips:code":"EI31",
         "gn:id":2960935,
         "gp:id":2345274,
@@ -366,11 +335,10 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696622,
+    "wof:lastmodified":1637697416,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":136640,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ie",

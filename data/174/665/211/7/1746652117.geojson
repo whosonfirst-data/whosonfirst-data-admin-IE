@@ -10,31 +10,12 @@
     "geom:latitude":53.35813,
     "geom:longitude":-6.251625,
     "iso:country":"IE",
-    "label:eng_x_preferred_longname":[
-        "Dublin City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
-    "label:eng_x_preferred_shortcode":[
-        "DN"
-    ],
-    "label:eng_x_variant_longname":[
-        "Dublin City County",
-        "County of Dublin City"
-    ],
-    "label:gle_x_preferred_longname":[
-        "Baile \u00c1tha Cliath"
-    ],
-    "label:gle_x_preferred_placetype":[
-        "baile"
-    ],
     "lbl:latitude":53.355217,
     "lbl:longitude":-6.278252,
     "lbl:min_zoom":8.0,
     "mps:latitude":53.355217,
     "mps:longitude":-6.278252,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
@@ -125,7 +106,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":19982,
         "fips:code":"EI33",
         "gn:id":7778677,
         "gp:id":2345254,
@@ -154,7 +134,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637263803,
+    "wof:lastmodified":1637697384,
     "wof:name":"Dublin City",
     "wof:parent_id":85633241,
     "wof:placetype":"county",

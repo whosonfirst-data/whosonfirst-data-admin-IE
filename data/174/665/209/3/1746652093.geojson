@@ -10,30 +10,12 @@
     "geom:latitude":53.909691,
     "geom:longitude":-6.41404,
     "iso:country":"IE",
-    "label:eng_x_preferred_longname":[
-        "County Louth"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
-    "label:eng_x_preferred_shortcode":[
-        "LH"
-    ],
-    "label:eng_x_variant_longname":[
-        "Louth County"
-    ],
-    "label:gle_x_preferred_longname":[
-        "Contae L\u00fa"
-    ],
-    "label:gle_x_preferred_placetype":[
-        "contae"
-    ],
     "lbl:latitude":53.887736,
     "lbl:longitude":-6.492553,
     "lbl:min_zoom":8.0,
     "mps:latitude":53.887736,
     "mps:longitude":-6.492553,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
@@ -329,18 +311,6 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2011-04-10",
-    "statoids:area_km":"823",
-    "statoids:area_mi":"318",
-    "statoids:as_of_date":"2011-04-10",
-    "statoids:capital":"Dundalk",
-    "statoids:country":"IE",
-    "statoids:gec":"EI19",
-    "statoids:hasc":"IE.LH",
-    "statoids:iso":"LH",
-    "statoids:name":"Louth",
-    "statoids:population":"122897",
-    "statoids:timezone":"+0~",
-    "statoids:type":"county",
     "unlc:subdivision":"IE-LH",
     "wd:wordcount":94,
     "wof:belongsto":[
@@ -350,7 +320,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":11826,
         "fips:code":"EI19",
         "gn:id":2962793,
         "gp:id":2345263,
@@ -382,11 +351,10 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696657,
+    "wof:lastmodified":1637697446,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":122897,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-ie",

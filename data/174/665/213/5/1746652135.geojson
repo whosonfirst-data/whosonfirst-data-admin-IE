@@ -10,30 +10,12 @@
     "geom:latitude":53.994893,
     "geom:longitude":-7.352391,
     "iso:country":"IE",
-    "label:eng_x_preferred_longname":[
-        "County Cavan"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "county"
-    ],
-    "label:eng_x_preferred_shortcode":[
-        "CN"
-    ],
-    "label:eng_x_variant_longname":[
-        "Cavan County"
-    ],
-    "label:gle_x_preferred_longname":[
-        "Contae an Chabh\u00e1in"
-    ],
-    "label:gle_x_preferred_placetype":[
-        "contae"
-    ],
     "lbl:latitude":53.960495,
     "lbl:longitude":-7.362192,
     "lbl:min_zoom":8.0,
     "mps:latitude":53.960495,
     "mps:longitude":-7.362192,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
@@ -314,18 +296,6 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
     "src:population_date":"2011-04-10",
-    "statoids:area_km":"1,891",
-    "statoids:area_mi":"730",
-    "statoids:as_of_date":"2011-04-10",
-    "statoids:capital":"Cavan",
-    "statoids:country":"IE",
-    "statoids:gec":"EI02",
-    "statoids:hasc":"IE.CN",
-    "statoids:iso":"CN",
-    "statoids:name":"Cavan",
-    "statoids:population":"73183",
-    "statoids:timezone":"+0~",
-    "statoids:type":"county",
     "unlc:subdivision":"IE-CN",
     "wd:wordcount":2398,
     "wof:belongsto":[
@@ -335,7 +305,6 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":11843,
         "fips:code":"EI02",
         "gn:id":2965534,
         "gp:id":2345250,
@@ -367,11 +336,10 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696652,
+    "wof:lastmodified":1637697442,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
-    "wof:placetype_local":"county",
     "wof:population":73183,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ie",
