@@ -46,6 +46,9 @@
         85685055
     ],
     "wof:breaches":[],
+    "wof:coterminous":[
+        101751743
+    ],
     "wof:country":"IE",
     "wof:created":1637263790,
     "wof:geomhash":"5680592456cd9908e9aa28f2c3e39254",
@@ -66,7 +69,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637697394,
+    "wof:lastmodified":1638308937,
     "wof:name":"Galway City",
     "wof:parent_id":85633241,
     "wof:placetype":"county",
