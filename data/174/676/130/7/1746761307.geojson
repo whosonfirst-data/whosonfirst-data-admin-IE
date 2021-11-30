@@ -1,0 +1,46 @@
+{
+  "id": 1746761307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.372613,53.385523,-6.372613,53.385523",
+    "geom:latitude":53.385523,
+    "geom:longitude":-6.372613,
+    "iso:country":"IE",
+    "lbl:latitude":53.385523,
+    "lbl:longitude":-6.372613,
+    "mps:latitude":53.385523,
+    "mps:longitude":-6.372613,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Blanchardstown"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316562,
+    "wof:geomhash":"b2dab5041d885dda3e501f448c3ae0f7",
+    "wof:hierarchy":[],
+    "wof:id":1746761307,
+    "wof:lastmodified":1638316562,
+    "wof:name":"Blanchardstown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.372613,
+    53.385523,
+    -6.372613,
+    53.385523
+],
+  "geometry": {"coordinates":[-6.372613,53.385523],"type":"Point"}
+}

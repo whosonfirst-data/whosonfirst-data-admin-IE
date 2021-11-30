@@ -1,0 +1,46 @@
+{
+  "id": 1746761181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.241123,53.358628,-6.241123,53.358628",
+    "geom:latitude":53.358628,
+    "geom:longitude":-6.241123,
+    "iso:country":"IE",
+    "lbl:latitude":53.358628,
+    "lbl:longitude":-6.241123,
+    "mps:latitude":53.358628,
+    "mps:longitude":-6.241123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Strand"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316513,
+    "wof:geomhash":"e549960947d4c24b4e20115aa21a63bd",
+    "wof:hierarchy":[],
+    "wof:id":1746761181,
+    "wof:lastmodified":1638316513,
+    "wof:name":"North Strand",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.241123,
+    53.358628,
+    -6.241123,
+    53.358628
+],
+  "geometry": {"coordinates":[-6.241123,53.358628],"type":"Point"}
+}

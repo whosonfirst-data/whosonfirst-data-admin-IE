@@ -1,0 +1,46 @@
+{
+  "id": 1746761163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.274544,53.311917,-6.274544,53.311917",
+    "geom:latitude":53.311917,
+    "geom:longitude":-6.274544,
+    "iso:country":"IE",
+    "lbl:latitude":53.311917,
+    "lbl:longitude":-6.274544,
+    "mps:latitude":53.311917,
+    "mps:longitude":-6.274544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rathgar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316506,
+    "wof:geomhash":"2e329c7f5ef36db7398f87a4a901aeae",
+    "wof:hierarchy":[],
+    "wof:id":1746761163,
+    "wof:lastmodified":1638316506,
+    "wof:name":"Rathgar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.274544,
+    53.311917,
+    -6.274544,
+    53.311917
+],
+  "geometry": {"coordinates":[-6.274544,53.311917],"type":"Point"}
+}

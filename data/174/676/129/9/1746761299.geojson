@@ -1,0 +1,46 @@
+{
+  "id": 1746761299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.438815,53.393968,-6.438815,53.393968",
+    "geom:latitude":53.393968,
+    "geom:longitude":-6.438815,
+    "iso:country":"IE",
+    "lbl:latitude":53.393968,
+    "lbl:longitude":-6.438815,
+    "mps:latitude":53.393968,
+    "mps:longitude":-6.438815,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ongar"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316559,
+    "wof:geomhash":"a9120940487713749a2cd08adfedb54f",
+    "wof:hierarchy":[],
+    "wof:id":1746761299,
+    "wof:lastmodified":1638316559,
+    "wof:name":"Ongar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.438815,
+    53.393968,
+    -6.438815,
+    53.393968
+],
+  "geometry": {"coordinates":[-6.438815,53.393968],"type":"Point"}
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1746761207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.296151,53.366364,-6.296151,53.366364",
+    "geom:latitude":53.366364,
+    "geom:longitude":-6.296151,
+    "iso:country":"IE",
+    "lbl:latitude":53.366364,
+    "lbl:longitude":-6.296151,
+    "mps:latitude":53.366364,
+    "mps:longitude":-6.296151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cobra West"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316524,
+    "wof:geomhash":"fab32e59691fae5bf3a56efef6a64288",
+    "wof:hierarchy":[],
+    "wof:id":1746761207,
+    "wof:lastmodified":1638316524,
+    "wof:name":"Cobra West",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.296151,
+    53.366364,
+    -6.296151,
+    53.366364
+],
+  "geometry": {"coordinates":[-6.296151,53.366364],"type":"Point"}
+}

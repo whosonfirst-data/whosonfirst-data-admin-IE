@@ -1,0 +1,46 @@
+{
+  "id": 1746761273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.351835,53.285154,-6.351835,53.285154",
+    "geom:latitude":53.285154,
+    "geom:longitude":-6.351835,
+    "iso:country":"IE",
+    "lbl:latitude":53.285154,
+    "lbl:longitude":-6.351835,
+    "mps:latitude":53.285154,
+    "mps:longitude":-6.351835,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "New Bawn"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316549,
+    "wof:geomhash":"9566d3d7c1697c32b011662d20472cda",
+    "wof:hierarchy":[],
+    "wof:id":1746761273,
+    "wof:lastmodified":1638316549,
+    "wof:name":"New Bawn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.351835,
+    53.285154,
+    -6.351835,
+    53.285154
+],
+  "geometry": {"coordinates":[-6.351835,53.285154],"type":"Point"}
+}

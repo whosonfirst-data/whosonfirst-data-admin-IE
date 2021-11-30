@@ -1,0 +1,46 @@
+{
+  "id": 1746761075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.050308,53.287127,-9.050308,53.287127",
+    "geom:latitude":53.287127,
+    "geom:longitude":-9.050308,
+    "iso:country":"IE",
+    "lbl:latitude":53.287127,
+    "lbl:longitude":-9.050308,
+    "mps:latitude":53.287127,
+    "mps:longitude":-9.050308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Castlelawn Heights"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316473,
+    "wof:geomhash":"10d1dedb975a58b7a0a31d6b651fd697",
+    "wof:hierarchy":[],
+    "wof:id":1746761075,
+    "wof:lastmodified":1638316473,
+    "wof:name":"Castlelawn Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.050308,
+    53.287127,
+    -9.050308,
+    53.287127
+],
+  "geometry": {"coordinates":[-9.050308,53.287127],"type":"Point"}
+}

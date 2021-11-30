@@ -1,0 +1,46 @@
+{
+  "id": 1746761215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.325874,53.360006,-6.325874,53.360006",
+    "geom:latitude":53.360006,
+    "geom:longitude":-6.325874,
+    "iso:country":"IE",
+    "lbl:latitude":53.360006,
+    "lbl:longitude":-6.325874,
+    "mps:latitude":53.360006,
+    "mps:longitude":-6.325874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Phoenix Park"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316527,
+    "wof:geomhash":"d8ce700232b51844cf45dc1acec2b868",
+    "wof:hierarchy":[],
+    "wof:id":1746761215,
+    "wof:lastmodified":1638316527,
+    "wof:name":"Phoenix Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.325874,
+    53.360006,
+    -6.325874,
+    53.360006
+],
+  "geometry": {"coordinates":[-6.325874,53.360006],"type":"Point"}
+}

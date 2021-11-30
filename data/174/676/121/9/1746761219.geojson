@@ -1,0 +1,46 @@
+{
+  "id": 1746761219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.372272,53.355014,-6.372272,53.355014",
+    "geom:latitude":53.355014,
+    "geom:longitude":-6.372272,
+    "iso:country":"IE",
+    "lbl:latitude":53.355014,
+    "lbl:longitude":-6.372272,
+    "mps:latitude":53.355014,
+    "mps:longitude":-6.372272,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Palmerstown"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316528,
+    "wof:geomhash":"45b3f571b875e512c563add38df6340f",
+    "wof:hierarchy":[],
+    "wof:id":1746761219,
+    "wof:lastmodified":1638316528,
+    "wof:name":"Palmerstown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.372272,
+    53.355014,
+    -6.372272,
+    53.355014
+],
+  "geometry": {"coordinates":[-6.372272,53.355014],"type":"Point"}
+}

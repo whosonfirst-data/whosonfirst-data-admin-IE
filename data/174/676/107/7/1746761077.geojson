@@ -1,0 +1,46 @@
+{
+  "id": 1746761077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.028055,53.283745,-9.028055,53.283745",
+    "geom:latitude":53.283745,
+    "geom:longitude":-9.028055,
+    "iso:country":"IE",
+    "lbl:latitude":53.283745,
+    "lbl:longitude":-9.028055,
+    "mps:latitude":53.283745,
+    "mps:longitude":-9.028055,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wellpark"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316474,
+    "wof:geomhash":"6834ac1c5de410f9c8bda2b17ef987ac",
+    "wof:hierarchy":[],
+    "wof:id":1746761077,
+    "wof:lastmodified":1638316474,
+    "wof:name":"Wellpark",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.028055,
+    53.283745,
+    -9.028055,
+    53.283745
+],
+  "geometry": {"coordinates":[-9.028055,53.283745],"type":"Point"}
+}

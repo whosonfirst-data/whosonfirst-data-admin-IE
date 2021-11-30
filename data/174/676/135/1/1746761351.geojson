@@ -1,0 +1,46 @@
+{
+  "id": 1746761351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.195188,53.27378,-6.195188,53.27378",
+    "geom:latitude":53.27378,
+    "geom:longitude":-6.195188,
+    "iso:country":"IE",
+    "lbl:latitude":53.27378,
+    "lbl:longitude":-6.195188,
+    "mps:latitude":53.27378,
+    "mps:longitude":-6.195188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Leopardstown"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316581,
+    "wof:geomhash":"547febd2635916e69a1957ef383dbf16",
+    "wof:hierarchy":[],
+    "wof:id":1746761351,
+    "wof:lastmodified":1638316581,
+    "wof:name":"Leopardstown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.195188,
+    53.27378,
+    -6.195188,
+    53.27378
+],
+  "geometry": {"coordinates":[-6.195188,53.27378],"type":"Point"}
+}

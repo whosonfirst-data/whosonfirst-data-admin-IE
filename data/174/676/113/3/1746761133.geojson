@@ -1,0 +1,46 @@
+{
+  "id": 1746761133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.446987,51.899412,-8.446987,51.899412",
+    "geom:latitude":51.899412,
+    "geom:longitude":-8.446987,
+    "iso:country":"IE",
+    "lbl:latitude":51.899412,
+    "lbl:longitude":-8.446987,
+    "mps:latitude":51.899412,
+    "mps:longitude":-8.446987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Docklands"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316495,
+    "wof:geomhash":"e89a3953e0cd1cbb6e76280037f77b42",
+    "wof:hierarchy":[],
+    "wof:id":1746761133,
+    "wof:lastmodified":1638316495,
+    "wof:name":"Docklands",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.446987,
+    51.899412,
+    -8.446987,
+    51.899412
+],
+  "geometry": {"coordinates":[-8.446987,51.899412],"type":"Point"}
+}

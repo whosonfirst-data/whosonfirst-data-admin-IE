@@ -1,0 +1,46 @@
+{
+  "id": 1746761235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.27861,53.354517,-6.27861,53.354517",
+    "geom:latitude":53.354517,
+    "geom:longitude":-6.27861,
+    "iso:country":"IE",
+    "lbl:latitude":53.354517,
+    "lbl:longitude":-6.27861,
+    "mps:latitude":53.354517,
+    "mps:longitude":-6.27861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Grangegorman"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316535,
+    "wof:geomhash":"eaedfd0c14e7ee151fa79c3555f1f67e",
+    "wof:hierarchy":[],
+    "wof:id":1746761235,
+    "wof:lastmodified":1638316535,
+    "wof:name":"Grangegorman",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27861,
+    53.354517,
+    -6.27861,
+    53.354517
+],
+  "geometry": {"coordinates":[-6.27861,53.354517],"type":"Point"}
+}

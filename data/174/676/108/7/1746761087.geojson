@@ -1,0 +1,46 @@
+{
+  "id": 1746761087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.008868,53.273735,-9.008868,53.273735",
+    "geom:latitude":53.273735,
+    "geom:longitude":-9.008868,
+    "iso:country":"IE",
+    "lbl:latitude":53.273735,
+    "lbl:longitude":-9.008868,
+    "mps:latitude":53.273735,
+    "mps:longitude":-9.008868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Murrough"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316477,
+    "wof:geomhash":"12801118480f724e6d210ac9cdee041d",
+    "wof:hierarchy":[],
+    "wof:id":1746761087,
+    "wof:lastmodified":1638316477,
+    "wof:name":"Murrough",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.008868,
+    53.273735,
+    -9.008868,
+    53.273735
+],
+  "geometry": {"coordinates":[-9.008868,53.273735],"type":"Point"}
+}

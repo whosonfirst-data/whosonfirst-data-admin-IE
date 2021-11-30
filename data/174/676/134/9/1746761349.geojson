@@ -1,0 +1,46 @@
+{
+  "id": 1746761349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.198872,53.258278,-6.198872,53.258278",
+    "geom:latitude":53.258278,
+    "geom:longitude":-6.198872,
+    "iso:country":"IE",
+    "lbl:latitude":53.258278,
+    "lbl:longitude":-6.198872,
+    "mps:latitude":53.258278,
+    "mps:longitude":-6.198872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ballyogan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316580,
+    "wof:geomhash":"3d260572534eed35b65e057c28eaf39b",
+    "wof:hierarchy":[],
+    "wof:id":1746761349,
+    "wof:lastmodified":1638316580,
+    "wof:name":"Ballyogan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.198872,
+    53.258278,
+    -6.198872,
+    53.258278
+],
+  "geometry": {"coordinates":[-6.198872,53.258278],"type":"Point"}
+}

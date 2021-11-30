@@ -1,0 +1,46 @@
+{
+  "id": 1746761231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.287519,53.351283,-6.287519,53.351283",
+    "geom:latitude":53.351283,
+    "geom:longitude":-6.287519,
+    "iso:country":"IE",
+    "lbl:latitude":53.351283,
+    "lbl:longitude":-6.287519,
+    "mps:latitude":53.351283,
+    "mps:longitude":-6.287519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Oxmantown"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316533,
+    "wof:geomhash":"76ba70b08c211c903451f4a4fc9940ff",
+    "wof:hierarchy":[],
+    "wof:id":1746761231,
+    "wof:lastmodified":1638316533,
+    "wof:name":"Oxmantown",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.287519,
+    53.351283,
+    -6.287519,
+    53.351283
+],
+  "geometry": {"coordinates":[-6.287519,53.351283],"type":"Point"}
+}

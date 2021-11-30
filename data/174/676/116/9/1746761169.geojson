@@ -1,0 +1,46 @@
+{
+  "id": 1746761169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.26483,53.32697,-6.26483,53.32697",
+    "geom:latitude":53.32697,
+    "geom:longitude":-6.26483,
+    "iso:country":"IE",
+    "lbl:latitude":53.32697,
+    "lbl:longitude":-6.26483,
+    "mps:latitude":53.32697,
+    "mps:longitude":-6.26483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rathmines"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316509,
+    "wof:geomhash":"405d5f36c42c83cf8586fb662ab70b18",
+    "wof:hierarchy":[],
+    "wof:id":1746761169,
+    "wof:lastmodified":1638316509,
+    "wof:name":"Rathmines",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.26483,
+    53.32697,
+    -6.26483,
+    53.32697
+],
+  "geometry": {"coordinates":[-6.26483,53.32697],"type":"Point"}
+}

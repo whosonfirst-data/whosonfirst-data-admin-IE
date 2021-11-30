@@ -1,0 +1,46 @@
+{
+  "id": 1746761155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.481929,51.899179,-8.481929,51.899179",
+    "geom:latitude":51.899179,
+    "geom:longitude":-8.481929,
+    "iso:country":"IE",
+    "lbl:latitude":51.899179,
+    "lbl:longitude":-8.481929,
+    "mps:latitude":51.899179,
+    "mps:longitude":-8.481929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "The Marsh"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316503,
+    "wof:geomhash":"c683e233baf01f74275e8bfbfa39ca37",
+    "wof:hierarchy":[],
+    "wof:id":1746761155,
+    "wof:lastmodified":1638316503,
+    "wof:name":"The Marsh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.481929,
+    51.899179,
+    -8.481929,
+    51.899179
+],
+  "geometry": {"coordinates":[-8.481929,51.899179],"type":"Point"}
+}

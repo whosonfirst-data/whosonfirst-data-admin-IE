@@ -1,0 +1,46 @@
+{
+  "id": 1746761177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.226477,53.34189,-6.226477,53.34189",
+    "geom:latitude":53.34189,
+    "geom:longitude":-6.226477,
+    "iso:country":"IE",
+    "lbl:latitude":53.34189,
+    "lbl:longitude":-6.226477,
+    "mps:latitude":53.34189,
+    "mps:longitude":-6.226477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ringsend"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316511,
+    "wof:geomhash":"cb66e5a614f9da1d578ba5a407830624",
+    "wof:hierarchy":[],
+    "wof:id":1746761177,
+    "wof:lastmodified":1638316511,
+    "wof:name":"Ringsend",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.226477,
+    53.34189,
+    -6.226477,
+    53.34189
+],
+  "geometry": {"coordinates":[-6.226477,53.34189],"type":"Point"}
+}

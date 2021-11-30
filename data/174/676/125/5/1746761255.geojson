@@ -1,0 +1,46 @@
+{
+  "id": 1746761255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.343907,53.328598,-6.343907,53.328598",
+    "geom:latitude":53.328598,
+    "geom:longitude":-6.343907,
+    "iso:country":"IE",
+    "lbl:latitude":53.328598,
+    "lbl:longitude":-6.343907,
+    "mps:latitude":53.328598,
+    "mps:longitude":-6.343907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bluebell"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316542,
+    "wof:geomhash":"c41671525805efa24feaa6ad556c4736",
+    "wof:hierarchy":[],
+    "wof:id":1746761255,
+    "wof:lastmodified":1638316542,
+    "wof:name":"Bluebell",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.343907,
+    53.328598,
+    -6.343907,
+    53.328598
+],
+  "geometry": {"coordinates":[-6.343907,53.328598],"type":"Point"}
+}

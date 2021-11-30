@@ -1,0 +1,46 @@
+{
+  "id": 1746761253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.298727,53.321138,-6.298727,53.321138",
+    "geom:latitude":53.321138,
+    "geom:longitude":-6.298727,
+    "iso:country":"IE",
+    "lbl:latitude":53.321138,
+    "lbl:longitude":-6.298727,
+    "mps:latitude":53.321138,
+    "mps:longitude":-6.298727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kimmage"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316541,
+    "wof:geomhash":"76ffcad7ac88204ab1ccd2e8cf788827",
+    "wof:hierarchy":[],
+    "wof:id":1746761253,
+    "wof:lastmodified":1638316541,
+    "wof:name":"Kimmage",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.298727,
+    53.321138,
+    -6.298727,
+    53.321138
+],
+  "geometry": {"coordinates":[-6.298727,53.321138],"type":"Point"}
+}

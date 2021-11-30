@@ -1,0 +1,46 @@
+{
+  "id": 1746761127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-8.446714,51.917088,-8.446714,51.917088",
+    "geom:latitude":51.917088,
+    "geom:longitude":-8.446714,
+    "iso:country":"IE",
+    "lbl:latitude":51.917088,
+    "lbl:longitude":-8.446714,
+    "mps:latitude":51.917088,
+    "mps:longitude":-8.446714,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ballyvolane"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316493,
+    "wof:geomhash":"a94cb975ff412b056fa0d0185f4a04c9",
+    "wof:hierarchy":[],
+    "wof:id":1746761127,
+    "wof:lastmodified":1638316493,
+    "wof:name":"Ballyvolane",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.446714,
+    51.917088,
+    -8.446714,
+    51.917088
+],
+  "geometry": {"coordinates":[-8.446714,51.917088],"type":"Point"}
+}

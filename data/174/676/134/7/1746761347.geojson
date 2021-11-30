@@ -1,0 +1,46 @@
+{
+  "id": 1746761347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.214786,53.253138,-6.214786,53.253138",
+    "geom:latitude":53.253138,
+    "geom:longitude":-6.214786,
+    "iso:country":"IE",
+    "lbl:latitude":53.253138,
+    "lbl:longitude":-6.214786,
+    "mps:latitude":53.253138,
+    "mps:longitude":-6.214786,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Stepaside"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316579,
+    "wof:geomhash":"d06fb9fd6ca59ae6ce304f1fff85c53a",
+    "wof:hierarchy":[],
+    "wof:id":1746761347,
+    "wof:lastmodified":1638316579,
+    "wof:name":"Stepaside",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.214786,
+    53.253138,
+    -6.214786,
+    53.253138
+],
+  "geometry": {"coordinates":[-6.214786,53.253138],"type":"Point"}
+}

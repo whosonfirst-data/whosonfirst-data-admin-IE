@@ -1,0 +1,46 @@
+{
+  "id": 1746761343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.12811,53.25737,-6.12811,53.25737",
+    "geom:latitude":53.25737,
+    "geom:longitude":-6.12811,
+    "iso:country":"IE",
+    "lbl:latitude":53.25737,
+    "lbl:longitude":-6.12811,
+    "mps:latitude":53.25737,
+    "mps:longitude":-6.12811,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ballybrack"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316578,
+    "wof:geomhash":"5c40bd453320b6c65c11187a83223034",
+    "wof:hierarchy":[],
+    "wof:id":1746761343,
+    "wof:lastmodified":1638316578,
+    "wof:name":"Ballybrack",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.12811,
+    53.25737,
+    -6.12811,
+    53.25737
+],
+  "geometry": {"coordinates":[-6.12811,53.25737],"type":"Point"}
+}
