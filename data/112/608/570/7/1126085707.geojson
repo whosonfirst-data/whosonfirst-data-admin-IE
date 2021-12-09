@@ -49,9 +49,10 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101751727,
         85633241,
-        85684945
+        101751727,
+        1746652139,
+        85684963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +67,14 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652139,
             "locality_id":101751727,
             "neighbourhood_id":1126085707,
-            "region_id":85684945
+            "region_id":85684963
         }
     ],
     "wof:id":1126085707,
-    "wof:lastmodified":1566680287,
+    "wof:lastmodified":1639045356,
     "wof:name":"Millfield",
     "wof:parent_id":101751727,
     "wof:placetype":"neighbourhood",

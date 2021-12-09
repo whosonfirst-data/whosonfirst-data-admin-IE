@@ -137,7 +137,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685091,
+        1746652103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,14 +150,17 @@
     "wof:geomhash":"1123f7da5de0b7b59b1906e479b83bde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209649205
+            "county_id":1746652103,
+            "locality_id":1209649205,
+            "region_id":85685091
         }
     ],
     "wof:id":1209649205,
-    "wof:lastmodified":1566679869,
+    "wof:lastmodified":1639043096,
     "wof:name":"Pallas",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f5eb68ca0c1ebfc362e2471b64288ee3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209043277
+            "county_id":1746652123,
+            "locality_id":1209043277,
+            "region_id":85685133
         }
     ],
     "wof:id":1209043277,
-    "wof:lastmodified":1566679912,
+    "wof:lastmodified":1639044660,
     "wof:name":"Gortletteragh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

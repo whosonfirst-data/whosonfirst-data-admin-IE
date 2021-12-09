@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.01704,
     "geom:area_square_m":126050103.587648,
@@ -34,7 +35,7 @@
     "mps:latitude":53.264462,
     "mps:longitude":-6.20053,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
@@ -254,7 +255,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288244,
+    "wof:lastmodified":1637256244,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

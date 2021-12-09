@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.7096045,52.941332,-6.7096045,52.941332",
+    "geom:bbox":"-6.709605,52.941332,-6.709605,52.941332",
     "geom:latitude":52.941332,
     "geom:longitude":-6.709605,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
@@ -94,7 +95,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497042186,
-    "wof:geomhash":"2b5312476c9565c8d7f709e7246fe576",
+    "wof:geomhash":"dcf15283079161a89ab14174294f63b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,20 +105,22 @@
         }
     ],
     "wof:id":1125272573,
-    "wof:lastmodified":1566680214,
+    "wof:lastmodified":1637709070,
     "wof:name":"Baltinglass",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125928447
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -6.7096045,
+    -6.709605,
     52.941332,
-    -6.7096045,
+    -6.709605,
     52.941332
 ],
-  "geometry": {"coordinates":[-6.7096045,52.941332],"type":"Point"}
+  "geometry": {"coordinates":[-6.709605,52.941332],"type":"Point"}
 }

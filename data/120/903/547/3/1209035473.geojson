@@ -59,7 +59,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"88a358d59bd6a155af35699fe911a613",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209035473
+            "county_id":1746652147,
+            "locality_id":1209035473,
+            "region_id":85684953
         }
     ],
     "wof:id":1209035473,
-    "wof:lastmodified":1566679906,
+    "wof:lastmodified":1639037792,
     "wof:name":"Gorteen",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

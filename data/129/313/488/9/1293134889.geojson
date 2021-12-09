@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685081
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652099,
             "locality_id":1293134889,
             "region_id":85685081
         }
     ],
     "wof:id":1293134889,
-    "wof:lastmodified":1566679723,
+    "wof:lastmodified":1639043428,
     "wof:name":"Scurlockstown",
-    "wof:parent_id":85685081,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

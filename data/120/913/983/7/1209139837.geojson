@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e14fdfb65ec260b44d85ddb97d12daa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209139837
+            "county_id":1746652125,
+            "locality_id":1209139837,
+            "region_id":85685145
         }
     ],
     "wof:id":1209139837,
-    "wof:lastmodified":1566679889,
+    "wof:lastmodified":1639039291,
     "wof:name":"Rush Hill",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

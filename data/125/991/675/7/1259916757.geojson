@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000035,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.54667,53.21389,-7.54667,53.21389",
-    "geom:latitude":53.21389,
-    "geom:longitude":-7.54667,
+    "geom:bbox":"-7.561559,53.213059,-7.547579,53.220094",
+    "geom:latitude":53.216279,
+    "geom:longitude":-7.552615,
     "gn:admin1_code":"L",
     "gn:admin2_code":"23.0",
     "gn:asciiname":"Killurin",
@@ -23,14 +23,22 @@
     "gn:name":"Killurin",
     "gn:population":163,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Killurin",
+    "ie-gov:settlement":12026,
     "iso:country":"IE",
-    "lbl:bbox":"-7.56667,53.19389,-7.52667,53.23389",
+    "lbl:latitude":53.215641,
+    "lbl:longitude":-7.551345,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":53.215641,
+    "mps:longitude":-7.551345,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Killurin"
+    ],
+    "name:eng_x_preferred":[
         "Killurin"
     ],
     "name:eus_x_preferred":[
@@ -42,31 +50,40 @@
     "name:swe_x_preferred":[
         "Killurin"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685041
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3313804
     },
     "wof:country":"IE",
-    "wof:geomhash":"ff054c97fba381c34e4b2d11dcf7a10b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c883689bb1bd2c9ac81a085039da09dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652115,
             "locality_id":1259916757,
             "region_id":85685041
         }
     ],
     "wof:id":1259916757,
-    "wof:lastmodified":1566680403,
+    "wof:lastmodified":1639036288,
     "wof:name":"Killurin",
-    "wof:parent_id":85685041,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:population":163,
     "wof:population_rank":1,
@@ -76,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.54667,
-    53.21389,
-    -7.54667,
-    53.21389
+    -7.561559,
+    53.213059,
+    -7.547579,
+    53.220094
 ],
-  "geometry": {"coordinates":[-7.54667,53.21389],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.549962,53.21967],[-7.548202,53.219538],[-7.548183,53.219538],[-7.547579,53.219086],[-7.548967,53.218675],[-7.548844,53.216094],[-7.54915,53.21549],[-7.548198,53.215307],[-7.548423,53.214759],[-7.549688,53.214983],[-7.550063,53.213414],[-7.551312,53.213629],[-7.551685,53.213655],[-7.552986,53.213717],[-7.553292,53.213704],[-7.553398,53.21351],[-7.55399,53.213237],[-7.554294,53.213091],[-7.554741,53.213059],[-7.554938,53.213143],[-7.554539,53.213548],[-7.555591,53.214033],[-7.554569,53.214958],[-7.555916,53.215562],[-7.557588,53.216268],[-7.558896,53.216555],[-7.560033,53.217144],[-7.561559,53.217834],[-7.560611,53.218038],[-7.560284,53.217836],[-7.560032,53.217891],[-7.559546,53.217686],[-7.559216,53.217723],[-7.559345,53.217456],[-7.55744,53.216843],[-7.55699,53.217469],[-7.555461,53.216949],[-7.555033,53.217436],[-7.552813,53.216599],[-7.552297,53.217061],[-7.552266,53.217456],[-7.55088,53.218704],[-7.551124,53.218781],[-7.550752,53.21914],[-7.551663,53.219355],[-7.551208,53.220094],[-7.549962,53.21967]]],"type":"Polygon"}
 }

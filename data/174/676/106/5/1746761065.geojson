@@ -1,0 +1,61 @@
+{
+  "id": 1746761065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.04904,53.269194,-9.04904,53.269194",
+    "geom:latitude":53.269194,
+    "geom:longitude":-9.04904,
+    "iso:country":"IE",
+    "lbl:latitude":53.269194,
+    "lbl:longitude":-9.04904,
+    "mps:latitude":53.269194,
+    "mps:longitude":-9.04904,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "The Docks"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751743,
+        1746652109,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316470,
+    "wof:geomhash":"a95259e38eb85eac974ba4bf23329d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652109,
+            "locality_id":101751743,
+            "neighbourhood_id":1746761065,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1746761065,
+    "wof:lastmodified":1639045327,
+    "wof:name":"The Docks",
+    "wof:parent_id":101751743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.04904,
+    53.269194,
+    -9.04904,
+    53.269194
+],
+  "geometry": {"coordinates":[-9.04904,53.269194],"type":"Point"}
+}

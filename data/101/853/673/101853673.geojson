@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000038,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.595789,52.54694,-8.595789,52.54694",
-    "geom:latitude":52.54694,
-    "geom:longitude":-8.595789,
+    "geom:bbox":"-8.609946,52.542414,-8.594684,52.547166",
+    "geom:latitude":52.54493,
+    "geom:longitude":-8.602399,
+    "ie-gov:settl_name":"Fedamore",
+    "ie-gov:settlement":21043,
     "iso:country":"IE",
-    "lbl:bbox":"-8.615789,52.52694,-8.575789,52.56694",
     "lbl:latitude":52.54694,
     "lbl:longitude":-8.595789,
     "lbl:max_zoom":18.0,
@@ -43,19 +44,45 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
-    "src:geom":"whosonfirst",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2964335,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fedamore",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Limerick",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1103018,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20073193,
+    "src:geom":"ie-gov",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "wd:latitude":52.5456,
     "wd:longitude":-8.605,
     "wd:wordcount":500,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Limerick",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
-        85684987
+        85684987,
+        1746652141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,13 +95,15 @@
     },
     "wof:country":"IE",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "wof:geomhash":"5ebfbd431f7fad88d80e80a633855c1e",
+    "wof:geomhash":"d9d134279d7ad6abfed8fd27873b2a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652141,
             "locality_id":101853673,
             "region_id":85684987
         }
@@ -83,20 +112,22 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582356308,
+    "wof:lastmodified":1639038850,
     "wof:name":"Fedamore",
-    "wof:parent_id":85684987,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125303415
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -8.595789,
-    52.54694,
-    -8.595789,
-    52.54694
+    -8.609946,
+    52.542414,
+    -8.594684,
+    52.547166
 ],
-  "geometry": {"coordinates":[-8.595789,52.54694],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.59509,52.546856],[-8.595022,52.546781],[-8.594774,52.546847],[-8.594684,52.546739],[-8.595281,52.546238],[-8.595932,52.545758],[-8.5966,52.545256],[-8.596941,52.54546],[-8.597441,52.545707],[-8.597648,52.543897],[-8.597506,52.543898],[-8.597381,52.543877],[-8.59731,52.543845],[-8.597184,52.543748],[-8.596381,52.543524],[-8.596732,52.543144],[-8.597244,52.543304],[-8.597421,52.543205],[-8.597714,52.543236],[-8.597731,52.543182],[-8.598577,52.543346],[-8.598485,52.543438],[-8.598878,52.543571],[-8.598641,52.543778],[-8.598953,52.543885],[-8.599444,52.544056],[-8.59957,52.544009],[-8.599698,52.54393],[-8.599781,52.543849],[-8.599852,52.543789],[-8.600173,52.543578],[-8.600409,52.543642],[-8.600395,52.54363],[-8.600545,52.54271],[-8.600662,52.542414],[-8.601363,52.54243],[-8.601724,52.542459],[-8.601803,52.542456],[-8.601931,52.542456],[-8.602281,52.542503],[-8.602436,52.542503],[-8.603121,52.542502],[-8.603205,52.542516],[-8.603247,52.542551],[-8.603263,52.542608],[-8.603616,52.542572],[-8.603701,52.5429],[-8.603933,52.543936],[-8.604083,52.544498],[-8.606778,52.543992],[-8.606661,52.543851],[-8.608454,52.543259],[-8.609091,52.544139],[-8.609059,52.544159],[-8.609946,52.545329],[-8.60788,52.545957],[-8.608062,52.54626],[-8.605684,52.546456],[-8.604471,52.546457],[-8.603929,52.546438],[-8.6028,52.546351],[-8.602195,52.546306],[-8.600835,52.546264],[-8.599805,52.546269],[-8.599741,52.546161],[-8.599626,52.546156],[-8.599452,52.54626],[-8.59925,52.546386],[-8.598913,52.546474],[-8.598568,52.546552],[-8.59754,52.546736],[-8.596468,52.546979],[-8.595337,52.547166],[-8.595286,52.547096],[-8.59518,52.546963],[-8.59509,52.546856]]],"type":"Polygon"}
 }

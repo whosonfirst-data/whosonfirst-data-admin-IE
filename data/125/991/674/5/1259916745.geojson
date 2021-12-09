@@ -62,7 +62,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685137
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,14 +75,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652129,
             "locality_id":1259916745,
             "region_id":85685137
         }
     ],
     "wof:id":1259916745,
-    "wof:lastmodified":1566680404,
+    "wof:lastmodified":1639036329,
     "wof:name":"Ballyconnell",
-    "wof:parent_id":85685137,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

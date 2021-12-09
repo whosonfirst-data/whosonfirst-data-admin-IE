@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"f4608749136151639a51f1a9498c0984",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209546377
+            "county_id":1746652099,
+            "locality_id":1209546377,
+            "region_id":85685081
         }
     ],
     "wof:id":1209546377,
-    "wof:lastmodified":1566679861,
+    "wof:lastmodified":1639038256,
     "wof:name":"Bellewstown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

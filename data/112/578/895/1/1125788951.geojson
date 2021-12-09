@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000106,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.21,53.09611,-7.21,53.09611",
-    "geom:latitude":53.09611,
-    "geom:longitude":-7.21,
+    "geom:bbox":"-7.223679,53.087007,-7.206575,53.101156",
+    "geom:latitude":53.094388,
+    "geom:longitude":-7.21607,
     "gn:country":"IE",
     "gn:fcode":"PPL",
     "gn:population":0,
+    "ie-gov:settl_name":"Emo",
+    "ie-gov:settlement":8017,
     "iso:country":"IE",
-    "lbl:bbox":"-7.23,53.07611,-7.19,53.11611",
     "lbl:latitude":53.09611,
     "lbl:longitude":-7.21,
     "lbl:max_zoom":17.0,
@@ -22,8 +23,35 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Emo"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0645\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Emo"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043c\u0430"
+    ],
+    "name:bug_x_preferred":[
+        "Emo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043c\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Emocore"
+    ],
     "name:ceb_x_preferred":[
         "Emo"
+    ],
+    "name:ces_x_preferred":[
+        "Emo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06cc\u0645\u06c6"
     ],
     "name:dan_x_preferred":[
         "Emo"
@@ -31,10 +59,25 @@
     "name:deu_x_preferred":[
         "Emo"
     ],
+    "name:ell_x_preferred":[
+        "Emo"
+    ],
     "name:eng_x_preferred":[
         "Emo"
     ],
+    "name:epo_x_preferred":[
+        "Emoo"
+    ],
+    "name:est_x_preferred":[
+        "Emo"
+    ],
     "name:eus_x_preferred":[
+        "Emo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0645\u0648"
+    ],
+    "name:fin_x_preferred":[
         "Emo"
     ],
     "name:fra_x_preferred":[
@@ -43,22 +86,118 @@
     "name:gle_x_preferred":[
         "Ioma"
     ],
+    "name:glg_x_preferred":[
+        "Emo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05de\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Emo"
+    ],
+    "name:hun_x_preferred":[
+        "Emo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0574\u0578"
+    ],
+    "name:ina_x_preferred":[
+        "Emo"
+    ],
+    "name:ind_x_preferred":[
+        "Emo"
+    ],
+    "name:isl_x_preferred":[
+        "Tilfinningarokk"
+    ],
+    "name:ita_x_preferred":[
+        "Emo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10db\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ubaa8"
+    ],
+    "name:lav_x_preferred":[
+        "Emo"
+    ],
     "name:lit_x_preferred":[
         "Imas"
     ],
+    "name:ltz_x_preferred":[
+        "Emocore"
+    ],
+    "name:msa_x_preferred":[
+        "Emo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u102e\u1019\u102d\u102f"
+    ],
+    "name:nah_x_preferred":[
+        "Emo"
+    ],
+    "name:new_x_preferred":[
+        "\u090f\u092e\u094b"
+    ],
     "name:nld_x_preferred":[
+        "Emo"
+    ],
+    "name:nno_x_preferred":[
+        "Emo"
+    ],
+    "name:nor_x_preferred":[
         "Emo"
     ],
     "name:pol_x_preferred":[
         "Emo"
     ],
+    "name:por_x_preferred":[
+        "Emo"
+    ],
+    "name:ron_x_preferred":[
+        "Emo"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043c\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Emo"
+    ],
+    "name:slk_x_preferred":[
+        "Emo"
+    ],
+    "name:slv_x_preferred":[
+        "Emo"
     ],
     "name:spa_x_preferred":[
         "Emo"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u043c\u043e"
+    ],
     "name:swe_x_preferred":[
+        "Emo"
+    ],
+    "name:tgl_x_preferred":[
+        "Emo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e35\u0e42\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Emocore"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043c\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Emo"
+    ],
+    "name:vie_x_preferred":[
+        "Emo"
+    ],
+    "name:zho_x_preferred":[
         "Emo"
     ],
     "qs_pg:aaroncc":"IE",
@@ -81,7 +220,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":560805,
-    "src:geom":"qs_pg",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
@@ -91,7 +233,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685005
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,32 +245,38 @@
     },
     "wof:country":"IE",
     "wof:created":1497290786,
-    "wof:geomhash":"ca08bc246fa4660e786d78806d04997c",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"942e8cd211b2b5cd80203c96d9c1ce9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652089,
             "locality_id":1125788951,
             "region_id":85685005
         }
     ],
     "wof:id":1125788951,
-    "wof:lastmodified":1566680294,
+    "wof:lastmodified":1639038492,
     "wof:name":"Emo",
-    "wof:parent_id":85685005,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:population":245,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125302425
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -7.21,
-    53.09611,
-    -7.21,
-    53.09611
+    -7.223679,
+    53.087007,
+    -7.206575,
+    53.101156
 ],
-  "geometry": {"coordinates":[-7.21,53.09611],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.2173,53.099849],[-7.217302,53.099747],[-7.217184,53.099521],[-7.216781,53.099061],[-7.216485,53.098699],[-7.216217,53.098544],[-7.21508,53.097721],[-7.2144,53.097154],[-7.213399,53.097639],[-7.213249,53.097565],[-7.213039,53.097379],[-7.212124,53.097604],[-7.211057,53.097872],[-7.210502,53.098027],[-7.210494,53.098039],[-7.210044,53.098154],[-7.210542,53.098958],[-7.211058,53.098885],[-7.211555,53.099669],[-7.211349,53.100439],[-7.209995,53.100617],[-7.209669,53.100211],[-7.209326,53.099681],[-7.209281,53.099531],[-7.2089,53.098856],[-7.208751,53.098441],[-7.208309,53.09851],[-7.207867,53.097965],[-7.2077,53.097796],[-7.207739,53.097777],[-7.20758,53.09764],[-7.207392,53.097436],[-7.207308,53.097307],[-7.207069,53.096908],[-7.207299,53.096879],[-7.207206,53.096543],[-7.207265,53.096073],[-7.207369,53.095391],[-7.207388,53.095295],[-7.207091,53.09492],[-7.206575,53.09439],[-7.207501,53.094211],[-7.208582,53.093981],[-7.209108,53.094821],[-7.210838,53.094397],[-7.211234,53.095007],[-7.21206,53.094814],[-7.212599,53.094676],[-7.213003,53.094173],[-7.213541,53.093875],[-7.214011,53.093568],[-7.214013,53.093528],[-7.214184,53.093472],[-7.214261,53.093461],[-7.214386,53.093459],[-7.214454,53.093481],[-7.214584,53.09312],[-7.214182,53.091903],[-7.214152,53.091681],[-7.21437,53.090676],[-7.214661,53.089562],[-7.214771,53.089281],[-7.215929,53.088988],[-7.215981,53.08902],[-7.216377,53.088696],[-7.216335,53.088677],[-7.216384,53.088638],[-7.216438,53.088278],[-7.216518,53.087937],[-7.216645,53.087923],[-7.21706,53.0879],[-7.217397,53.08796],[-7.217573,53.087967],[-7.217827,53.088014],[-7.218414,53.088067],[-7.218794,53.087007],[-7.220117,53.087163],[-7.219973,53.087476],[-7.219941,53.087957],[-7.219958,53.088319],[-7.220881,53.088767],[-7.221108,53.089828],[-7.220908,53.09053],[-7.220847,53.090543],[-7.2215,53.091631],[-7.221967,53.091621],[-7.222472,53.091587],[-7.22258,53.091565],[-7.22276,53.091531],[-7.222749,53.091515],[-7.222835,53.091495],[-7.222917,53.091486],[-7.223276,53.091397],[-7.223427,53.091525],[-7.223361,53.091596],[-7.223465,53.091741],[-7.223598,53.091941],[-7.223663,53.092101],[-7.223652,53.092186],[-7.223605,53.092305],[-7.223564,53.092372],[-7.223679,53.092578],[-7.223347,53.092666],[-7.223356,53.092742],[-7.222956,53.092861],[-7.222766,53.092809],[-7.222584,53.092545],[-7.222398,53.092589],[-7.222324,53.092595],[-7.221731,53.092732],[-7.221962,53.093026],[-7.22243,53.093637],[-7.223122,53.094603],[-7.222251,53.094777],[-7.220537,53.095112],[-7.221138,53.09647],[-7.221333,53.09676],[-7.22175,53.09712],[-7.22028,53.09781],[-7.218555,53.100047],[-7.218305,53.099858],[-7.217853,53.099822],[-7.217821,53.100101],[-7.217718,53.101156],[-7.217611,53.10115],[-7.217551,53.101139],[-7.216295,53.100416],[-7.217253,53.099985],[-7.2173,53.099849]]],"type":"Polygon"}
 }

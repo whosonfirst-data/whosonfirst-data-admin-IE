@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"7ece139b90e5cdd49cc0127c72563284",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209451793
+            "county_id":1746652105,
+            "locality_id":1209451793,
+            "region_id":85685037
         }
     ],
     "wof:id":1209451793,
-    "wof:lastmodified":1566679928,
+    "wof:lastmodified":1639041223,
     "wof:name":"Rinecaha",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

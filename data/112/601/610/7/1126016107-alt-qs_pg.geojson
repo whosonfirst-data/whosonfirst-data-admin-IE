@@ -1,0 +1,18 @@
+{
+  "id": 1126016107,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"qs_pg",
+    "src:geom":"qs_pg",
+    "wof:geomhash":"92c72616d0754a32d43f5da2bbe61f64",
+    "wof:id":1126016107,
+    "wof:repo":"whosonfirst-data-admin-ie"
+},
+  "bbox": [
+    -6.94825,
+    52.24389,
+    -6.94825,
+    52.24389
+],
+  "geometry": {"coordinates":[-6.94825,52.24389],"type":"Point"}
+}

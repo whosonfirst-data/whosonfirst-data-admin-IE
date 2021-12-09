@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"927803bdf9854d0b29f37e5434d410fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209549541
+            "county_id":1746652115,
+            "locality_id":1209549541,
+            "region_id":85685041
         }
     ],
     "wof:id":1209549541,
-    "wof:lastmodified":1566679858,
+    "wof:lastmodified":1639044138,
     "wof:name":"Highstreet",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

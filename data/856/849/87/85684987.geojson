@@ -282,6 +282,9 @@
         "iso:id":"IE-LK",
         "wd:id":"Q178283"
     },
+    "wof:coterminous":[
+        1746652141
+    ],
     "wof:country":"IE",
     "wof:geomhash":"4f01a28f13659698633443767511d986",
     "wof:hierarchy":[
@@ -300,7 +303,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288269,
+    "wof:lastmodified":1637696630,
     "wof:name":"Limerick",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

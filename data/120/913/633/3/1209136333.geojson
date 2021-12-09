@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f2f5627089116bb99bee206c911d227e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209136333
+            "county_id":1746652115,
+            "locality_id":1209136333,
+            "region_id":85685041
         }
     ],
     "wof:id":1209136333,
-    "wof:lastmodified":1566679889,
+    "wof:lastmodified":1639037391,
     "wof:name":"Barnan",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

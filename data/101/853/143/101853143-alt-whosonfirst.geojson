@@ -1,0 +1,18 @@
+{
+  "id": 101853143,
+  "type": "Feature",
+  "properties": {
+    "src:alt_label":"whosonfirst",
+    "src:geom":"whosonfirst",
+    "wof:geomhash":"e59622b46643ef75c9739b4e9911fab1",
+    "wof:id":101853143,
+    "wof:repo":"whosonfirst-data-admin-ie"
+},
+  "bbox": [
+    -8.461756,
+    51.823548,
+    -8.461756,
+    51.823548
+],
+  "geometry": {"coordinates":[-8.461756,51.823548],"type":"Point"}
+}

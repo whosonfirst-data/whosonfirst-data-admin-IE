@@ -1,0 +1,61 @@
+{
+  "id": 1746761365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.260235,53.349789,-6.260235,53.349789",
+    "geom:latitude":53.349789,
+    "geom:longitude":-6.260235,
+    "iso:country":"IE",
+    "lbl:latitude":53.349789,
+    "lbl:longitude":-6.260235,
+    "mps:latitude":53.349789,
+    "mps:longitude":-6.260235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Inner City"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316586,
+    "wof:geomhash":"e366a1f3f7b89f731221a66484b5174d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761365,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761365,
+    "wof:lastmodified":1639045352,
+    "wof:name":"North Inner City",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.260235,
+    53.349789,
+    -6.260235,
+    53.349789
+],
+  "geometry": {"coordinates":[-6.260235,53.349789],"type":"Point"}
+}

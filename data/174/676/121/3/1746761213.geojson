@@ -1,0 +1,61 @@
+{
+  "id": 1746761213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.272678,53.360738,-6.272678,53.360738",
+    "geom:latitude":53.360738,
+    "geom:longitude":-6.272678,
+    "iso:country":"IE",
+    "lbl:latitude":53.360738,
+    "lbl:longitude":-6.272678,
+    "mps:latitude":53.360738,
+    "mps:longitude":-6.272678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Phibsborough"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316526,
+    "wof:geomhash":"205e626ff4da083406b5f7e6f990b2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761213,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761213,
+    "wof:lastmodified":1639045325,
+    "wof:name":"Phibsborough",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.272678,
+    53.360738,
+    -6.272678,
+    53.360738
+],
+  "geometry": {"coordinates":[-6.272678,53.360738],"type":"Point"}
+}

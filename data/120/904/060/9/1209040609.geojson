@@ -27,12 +27,15 @@
     "lbl:bbox":"-9.3955,51.4616,-9.3555,51.5016",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"6320f5e0e41642cc404e964a52fe93f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209040609
+            "county_id":1746652153,
+            "locality_id":1209040609,
+            "region_id":85684963
         }
     ],
     "wof:id":1209040609,
-    "wof:lastmodified":1566679911,
+    "wof:lastmodified":1639038161,
     "wof:name":"Yokane",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

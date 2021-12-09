@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.619361,52.0895875,-7.619361,52.0895875",
+    "geom:bbox":"-7.619361,52.089588,-7.619361,52.089588",
     "geom:latitude":52.089588,
     "geom:longitude":-7.619361,
     "gn:country":"IE",
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497044431,
-    "wof:geomhash":"882d108272e79efd7e4e8d101d549039",
+    "wof:geomhash":"3b57c4f919585c53f9ff0931c5b87e51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125319215,
-    "wof:lastmodified":1566680272,
+    "wof:lastmodified":1637271456,
     "wof:name":"Dungarvan Urban A",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
@@ -76,9 +77,9 @@
 },
   "bbox": [
     -7.619361,
-    52.0895875,
+    52.089588,
     -7.619361,
-    52.0895875
+    52.089588
 ],
-  "geometry": {"coordinates":[-7.619361,52.0895875],"type":"Point"}
+  "geometry": {"coordinates":[-7.619361,52.089588],"type":"Point"}
 }

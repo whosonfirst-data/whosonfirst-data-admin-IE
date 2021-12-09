@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +20,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -72,14 +73,16 @@
         }
     ],
     "wof:id":1125388987,
-    "wof:lastmodified":1566680264,
+    "wof:lastmodified":1637709046,
     "wof:name":"Ballygarvan",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:population":540,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101853143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

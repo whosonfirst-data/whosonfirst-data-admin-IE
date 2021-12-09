@@ -346,6 +346,9 @@
         "unlc:id":"IE-CN",
         "wd:id":"Q187402"
     },
+    "wof:coterminous":[
+        1746652135
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -367,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288266,
+    "wof:lastmodified":1637696653,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

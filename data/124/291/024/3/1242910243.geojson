@@ -27,14 +27,15 @@
     "lbl:bbox":"-6.22,52.54667,-6.18,52.58667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1242910243,
             "region_id":85684967
         }
     ],
     "wof:id":1242910243,
-    "wof:lastmodified":1566680377,
+    "wof:lastmodified":1639037051,
     "wof:name":"Polduff",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -28,7 +28,7 @@
     "lbl:bbox":"-6.65972,52.67083,-6.61972,52.71083",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +53,20 @@
         "wk:page":"Watch_House_Village"
     },
     "wof:country":"IE",
-    "wof:geomhash":"751d0dab2859e9deff4b288f77aa4ed4",
+    "wof:geomhash":"ea965a845df066371497c292d85d9824",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1243590347,
             "region_id":85684967
         }
     ],
     "wof:id":1243590347,
-    "wof:lastmodified":1566680363,
+    "wof:lastmodified":1639041235,
     "wof:name":"Watch House Village",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -73,9 +75,9 @@
 },
   "bbox": [
     -6.63972,
-    52.69083000000001,
+    52.69083,
     -6.63972,
-    52.69083000000001
+    52.69083
 ],
-  "geometry": {"coordinates":[-6.63972,52.69083000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.63972,52.69083],"type":"Point"}
 }

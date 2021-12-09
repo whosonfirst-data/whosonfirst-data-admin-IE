@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"44c70c2ed3213ae50ae4f9bf53bce0ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345387
+            "county_id":1746652089,
+            "locality_id":1209345387,
+            "region_id":85685005
         }
     ],
     "wof:id":1209345387,
-    "wof:lastmodified":1566679918,
+    "wof:lastmodified":1639038383,
     "wof:name":"Monnagh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

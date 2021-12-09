@@ -335,7 +335,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -345,14 +348,17 @@
     "wof:geomhash":"480947c0bc4bbd1398a4e4ef234c31db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209251733
+            "county_id":1746652121,
+            "locality_id":1209251733,
+            "region_id":85685151
         }
     ],
     "wof:id":1209251733,
-    "wof:lastmodified":1566679887,
+    "wof:lastmodified":1639044362,
     "wof:name":"Bridgetown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -316,7 +316,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -328,14 +329,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1242611949,
             "region_id":85685025
         }
     ],
     "wof:id":1242611949,
-    "wof:lastmodified":1566680345,
+    "wof:lastmodified":1639043098,
     "wof:name":"Washington",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

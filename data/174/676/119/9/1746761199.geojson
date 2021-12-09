@@ -1,0 +1,61 @@
+{
+  "id": 1746761199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.264109,53.394045,-6.264109,53.394045",
+    "geom:latitude":53.394045,
+    "geom:longitude":-6.264109,
+    "iso:country":"IE",
+    "lbl:latitude":53.394045,
+    "lbl:longitude":-6.264109,
+    "mps:latitude":53.394045,
+    "mps:longitude":-6.264109,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ballymun"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316521,
+    "wof:geomhash":"53475e588fbe0c2ec3d6dd063de853e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761199,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761199,
+    "wof:lastmodified":1639045336,
+    "wof:name":"Ballymun",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.264109,
+    53.394045,
+    -6.264109,
+    53.394045
+],
+  "geometry": {"coordinates":[-6.264109,53.394045],"type":"Point"}
+}

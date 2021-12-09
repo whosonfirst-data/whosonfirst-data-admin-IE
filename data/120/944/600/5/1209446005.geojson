@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684975,
+        1746652143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"a8f7100b210d1e78992ad5275091f456",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209446005
+            "county_id":1746652143,
+            "locality_id":1209446005,
+            "region_id":85684975
         }
     ],
     "wof:id":1209446005,
-    "wof:lastmodified":1566679933,
+    "wof:lastmodified":1639043298,
     "wof:name":"Sheean",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

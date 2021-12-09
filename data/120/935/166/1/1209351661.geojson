@@ -191,7 +191,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -201,14 +204,17 @@
     "wof:geomhash":"43bf4665b79f9eacc1a51e73df54dd31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209351661
+            "county_id":1746652111,
+            "locality_id":1209351661,
+            "region_id":85685097
         }
     ],
     "wof:id":1209351661,
-    "wof:lastmodified":1636502590,
+    "wof:lastmodified":1639041615,
     "wof:name":"Mira",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

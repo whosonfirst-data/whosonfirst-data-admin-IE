@@ -27,7 +27,7 @@
     "lbl:bbox":"-6.21401,53.23769,-6.17401,53.27769",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685001
+        1746652171,
+        1746652107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652107,
             "locality_id":1260111783,
-            "region_id":85685001
+            "region_id":1746652171
         }
     ],
     "wof:id":1260111783,
-    "wof:lastmodified":1566679984,
+    "wof:lastmodified":1639035851,
     "wof:name":"Ballyogan",
-    "wof:parent_id":85685001,
+    "wof:parent_id":1746652107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

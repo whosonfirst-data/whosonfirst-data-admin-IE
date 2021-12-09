@@ -38,7 +38,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684999
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":1360319061,
             "region_id":85684999
         }
     ],
     "wof:id":1360319061,
-    "wof:lastmodified":1566680063,
+    "wof:lastmodified":1639041776,
     "wof:name":"Ballintombay",
-    "wof:parent_id":85684999,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

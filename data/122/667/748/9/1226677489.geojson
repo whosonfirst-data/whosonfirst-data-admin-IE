@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.58806,52.51611,-7.58806,52.51611",
-    "geom:latitude":52.51611,
-    "geom:longitude":-7.58806,
+    "geom:bbox":"-7.588097,52.514781,-7.582209,52.517815",
+    "geom:latitude":52.516378,
+    "geom:longitude":-7.584861,
     "gn:admin1_code":"M",
     "gn:admin2_code":"26",
     "gn:asciiname":"Drangan",
@@ -24,12 +24,17 @@
     "gn:name":"Drangan",
     "gn:population":136,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Drangan",
+    "ie-gov:settlement":23029,
     "iso:country":"IE",
-    "lbl:bbox":"-7.60806,52.49611,-7.56806,52.53611",
+    "lbl:latitude":52.516225,
+    "lbl:longitude":-7.584621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":52.516225,
+    "mps:longitude":-7.584621,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Drangan"
@@ -37,31 +42,40 @@
     "name:gle_x_preferred":[
         "Drong\u00e1n"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        1159294375
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964675
     },
     "wof:country":"IE",
-    "wof:geomhash":"f3111b3257a4dce4f2b9d5fb86e938be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d52d019277306cbad6ce03f59166b58c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652157,
             "locality_id":1226677489,
             "region_id":1159294375
         }
     ],
     "wof:id":1226677489,
-    "wof:lastmodified":1566680472,
+    "wof:lastmodified":1639041263,
     "wof:name":"Drangan",
-    "wof:parent_id":1159294375,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:population":136,
     "wof:population_rank":1,
@@ -71,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.58806,
-    52.51611,
-    -7.58806,
-    52.51611
+    -7.588097,
+    52.514781,
+    -7.582209,
+    52.517815
 ],
-  "geometry": {"coordinates":[-7.58806,52.51611],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.582212,52.517289],[-7.582418,52.516781],[-7.58241,52.516766],[-7.582292,52.516753],[-7.582637,52.516357],[-7.582979,52.516409],[-7.583144,52.515991],[-7.583172,52.515964],[-7.582998,52.515896],[-7.582907,52.515787],[-7.582861,52.515684],[-7.582837,52.51557],[-7.582596,52.51506],[-7.58263,52.515055],[-7.583672,52.514784],[-7.585146,52.515112],[-7.585316,52.515118],[-7.586315,52.514781],[-7.587164,52.515677],[-7.587181,52.515711],[-7.587101,52.515737],[-7.586579,52.515917],[-7.586361,52.515989],[-7.586286,52.516024],[-7.586554,52.516282],[-7.586726,52.516484],[-7.586807,52.516568],[-7.587339,52.516469],[-7.587386,52.516799],[-7.587904,52.516753],[-7.588097,52.517532],[-7.587978,52.517684],[-7.587952,52.51771],[-7.587843,52.51774],[-7.58704,52.517536],[-7.586895,52.517454],[-7.585983,52.517286],[-7.585755,52.517339],[-7.585298,52.517371],[-7.584739,52.517439],[-7.584402,52.517483],[-7.584481,52.51771],[-7.583795,52.517784],[-7.583634,52.517815],[-7.582209,52.517671],[-7.582221,52.517392],[-7.582212,52.517289]]],"type":"Polygon"}
 }

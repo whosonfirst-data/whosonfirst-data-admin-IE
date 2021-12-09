@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"0c30e3842868f707eb003aa87898697d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209251435
+            "county_id":1746652153,
+            "locality_id":1209251435,
+            "region_id":85684963
         }
     ],
     "wof:id":1209251435,
-    "wof:lastmodified":1566679887,
+    "wof:lastmodified":1639041694,
     "wof:name":"Fort Arthur",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

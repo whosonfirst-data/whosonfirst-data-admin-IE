@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000026,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.1375,53.10944,-7.1375,53.10944",
-    "geom:latitude":53.10944,
-    "geom:longitude":-7.1375,
+    "geom:bbox":"-7.140657,53.107444,-7.128633,53.111881",
+    "geom:latitude":53.109521,
+    "geom:longitude":-7.134221,
     "gn:admin1_code":"L",
     "gn:admin2_code":"15",
     "gn:asciiname":"Ballybrittas",
@@ -23,14 +23,18 @@
     "gn:name":"Ballybrittas",
     "gn:population":331,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Ballybrittas",
+    "ie-gov:settlement":8021,
     "iso:country":"IE",
-    "lbl:bbox":"-7.1575,53.08944,-7.1175,53.12944",
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Ballybrittas"
+    ],
+    "name:eng_x_preferred":[
         "Ballybrittas"
     ],
     "name:eus_x_preferred":[
@@ -54,12 +58,16 @@
     "name:swe_x_preferred":[
         "Ballybrittas"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685005
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,19 +75,23 @@
         "wk:page":"Ballybrittas"
     },
     "wof:country":"IE",
-    "wof:geomhash":"26616ffb8b6d1942f7de4085e584995b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0dab2b938308c52403975f53c257a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652089,
             "locality_id":1225876029,
             "region_id":85685005
         }
     ],
     "wof:id":1225876029,
-    "wof:lastmodified":1566680490,
+    "wof:lastmodified":1639034842,
     "wof:name":"Ballybrittas",
-    "wof:parent_id":85685005,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:population":331,
     "wof:population_rank":2,
@@ -89,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.1375,
-    53.10944,
-    -7.1375,
-    53.10944
+    -7.140657,
+    53.107444,
+    -7.128633,
+    53.111881
 ],
-  "geometry": {"coordinates":[-7.1375,53.10944],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.129794,53.110593],[-7.129142,53.109841],[-7.128633,53.109252],[-7.128997,53.108866],[-7.129685,53.108147],[-7.129921,53.107903],[-7.130379,53.108061],[-7.131537,53.108554],[-7.132116,53.108208],[-7.132159,53.108184],[-7.132243,53.108132],[-7.132474,53.108325],[-7.133251,53.108659],[-7.134122,53.109023],[-7.134286,53.109113],[-7.134408,53.109093],[-7.139195,53.107444],[-7.13945,53.107684],[-7.139762,53.107935],[-7.139929,53.108146],[-7.140657,53.108416],[-7.14019,53.108861],[-7.140327,53.10893],[-7.138722,53.110703],[-7.1387,53.110733],[-7.138697,53.110736],[-7.138694,53.110737],[-7.138694,53.110737],[-7.137883,53.110495],[-7.136894,53.110184],[-7.136821,53.110232],[-7.135962,53.11062],[-7.13554,53.110189],[-7.135436,53.110212],[-7.135239,53.11026],[-7.135001,53.110322],[-7.134682,53.110091],[-7.134097,53.110314],[-7.133032,53.110735],[-7.131731,53.111267],[-7.130544,53.111751],[-7.130223,53.111881],[-7.129968,53.111732],[-7.129646,53.111587],[-7.129443,53.111468],[-7.129175,53.111285],[-7.128903,53.111121],[-7.128999,53.111048],[-7.129794,53.110593]]],"type":"Polygon"}
 }

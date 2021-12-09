@@ -1,0 +1,61 @@
+{
+  "id": 1746761185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.204842,53.371823,-6.204842,53.371823",
+    "geom:latitude":53.371823,
+    "geom:longitude":-6.204842,
+    "iso:country":"IE",
+    "lbl:latitude":53.371823,
+    "lbl:longitude":-6.204842,
+    "mps:latitude":53.371823,
+    "mps:longitude":-6.204842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Killester"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316516,
+    "wof:geomhash":"a34e3635015df348d9bba7495733379d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761185,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761185,
+    "wof:lastmodified":1639045368,
+    "wof:name":"Killester",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.204842,
+    53.371823,
+    -6.204842,
+    53.371823
+],
+  "geometry": {"coordinates":[-6.204842,53.371823],"type":"Point"}
+}

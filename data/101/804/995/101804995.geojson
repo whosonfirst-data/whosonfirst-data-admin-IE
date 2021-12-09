@@ -4,80 +4,424 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000235,
+    "geom:area":0.000272,
     "geom:area_square_m":1712793.369502,
-    "geom:bbox":"-7.103101,53.829988,-7.065806,53.845933",
-    "geom:latitude":53.837051,
-    "geom:longitude":-7.083768,
+    "geom:bbox":"-7.103708,53.828543,-7.05657,53.842692",
+    "geom:latitude":53.83562,
+    "geom:longitude":-7.08032,
     "gn:population":2282,
+    "ie-gov:settl_name":"Virginia",
+    "ie-gov:settlement":32008,
     "iso:country":"IE",
-    "lbl:latitude":53.836365,
-    "lbl:longitude":-7.080943,
+    "lbl:latitude":53.837101,
+    "lbl:longitude":-7.078723,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":53.836365,
-    "mps:longitude":-7.080943,
+    "mps:latitude":53.837101,
+    "mps:longitude":-7.078723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Virgini\u00eb"
+    ],
+    "name:amh_x_preferred":[
+        "\u1268\u122d\u1302\u1292\u12eb"
+    ],
+    "name:ang_x_preferred":[
+        "Virginia"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u062c\u064a\u0646\u064a\u0627"
+    ],
+    "name:arc_x_preferred":[
+        "\u0712\u072a\u0713\u071d\u0722\u071d\u0710"
+    ],
+    "name:arg_x_preferred":[
+        "Virchinia"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0631\u062c\u064a\u0646\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Virxinia"
+    ],
+    "name:aym_x_preferred":[
+        "Virginia suyu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Virciniya"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f"
+    ],
+    "name:bar_x_preferred":[
+        "Virginia"
+    ],
+    "name:bcl_x_preferred":[
+        "Virginia"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0440\u0434\u0436\u044b\u043d\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8\u09bf\u09df\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u0935\u0930\u094d\u091c\u0940\u0928\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Virginia"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f5d\u0f72\u0f62\u0f0b\u0f47\u0f72\u0f0b\u0f53\u0f72\u0f0b\u0f61\u0f0d"
+    ],
+    "name:bos_x_preferred":[
+        "Virginia"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Virginia"
     ],
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Virg\u00ednia"
+    ],
+    "name:cdo_x_preferred":[
+        "Virginia"
+    ],
     "name:ceb_x_preferred":[
+        "Virginia"
+    ],
+    "name:ces_x_preferred":[
+        "Virginie"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a4\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:cor_x_preferred":[
+        "Virjynni"
+    ],
+    "name:cos_x_preferred":[
+        "Virginia"
+    ],
+    "name:cym_x_preferred":[
+        "Virginia"
+    ],
+    "name:dan_x_preferred":[
         "Virginia"
     ],
     "name:deu_x_preferred":[
         "Virginia"
     ],
+    "name:diq_x_preferred":[
+        "Virginia"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03c1\u03c4\u03b6\u03af\u03bd\u03b9\u03b1"
     ],
+    "name:eml_x_preferred":[
+        "Virg\u00ecgna"
+    ],
     "name:eng_x_preferred":[
+        "Virginia"
+    ],
+    "name:epo_x_preferred":[
+        "Virginio"
+    ],
+    "name:est_x_preferred":[
         "Virginia"
     ],
     "name:eus_x_preferred":[
         "Virginia"
     ],
+    "name:fao_x_preferred":[
+        "Virginia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Virginia"
+    ],
     "name:fra_x_preferred":[
         "Virginia"
+    ],
+    "name:frp_x_preferred":[
+        "Virginia"
+    ],
+    "name:frr_x_preferred":[
+        "Virginia"
+    ],
+    "name:fry_x_preferred":[
+        "Firginia"
+    ],
+    "name:gag_x_preferred":[
+        "Virginiya"
     ],
     "name:gla_x_preferred":[
         "Achadh an I\u00fair"
     ],
+    "name:gla_x_variant":[
+        "Virginia"
+    ],
     "name:gle_x_preferred":[
         "Achadh an I\u00fair"
+    ],
+    "name:gle_x_variant":[
+        "Virginia"
+    ],
+    "name:glg_x_preferred":[
+        "Virxinia"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Virjeeney"
+    ],
+    "name:grn_x_preferred":[
+        "Virginia"
+    ],
+    "name:hak_x_preferred":[
+        "Virginia"
+    ],
+    "name:hat_x_preferred":[
+        "Vijini"
+    ],
+    "name:hau_x_preferred":[
+        "Virginia"
+    ],
+    "name:haw_x_preferred":[
+        "Wilikinia"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05e8\u05d2'\u05d9\u05e0\u05d9\u05d4"
     ],
+    "name:hif_x_preferred":[
+        "Virginia"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u0930\u094d\u091c\u0940\u0928\u093f\u092f\u093e"
     ],
+    "name:hrv_x_preferred":[
+        "Virginia"
+    ],
     "name:hun_x_preferred":[
+        "Virginia"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u0580\u057b\u056b\u0576\u056b\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "V\u00e9g\u00edn\u00edy\u00e0"
+    ],
+    "name:ido_x_preferred":[
+        "Virginia"
+    ],
+    "name:ile_x_preferred":[
+        "Virginia"
+    ],
+    "name:ilo_x_preferred":[
+        "Virginia"
+    ],
+    "name:ina_x_preferred":[
         "Virginia"
     ],
     "name:ind_x_preferred":[
         "Virginia"
     ],
+    "name:ipk_x_preferred":[
+        "Virginia"
+    ],
+    "name:isl_x_preferred":[
+        "Virgin\u00eda"
+    ],
     "name:ita_x_preferred":[
+        "Virginia"
+    ],
+    "name:jav_x_preferred":[
         "Virginia"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30b8\u30cb\u30a2"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30fc\u30b8\u30cb\u30a2\u5dde"
+    ],
+    "name:kab_x_preferred":[
+        "Virginia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cb0\u0ccd\u0c9c\u0cc0\u0ca8\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e0\u10ef\u10d8\u10dc\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f"
+    ],
+    "name:kbp_x_preferred":[
+        "Firziinii"
+    ],
+    "name:kir_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f \u0448\u0442\u0430\u0442\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc84\uc9c0\ub2c8\uc544\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "V\u00eerj\u00eenya"
+    ],
+    "name:lad_x_preferred":[
+        "Virginia"
+    ],
+    "name:lat_x_preferred":[
+        "Virginia"
+    ],
+    "name:lav_x_preferred":[
+        "Vird\u017e\u012bnija"
+    ],
+    "name:lfn_x_preferred":[
+        "Virginia"
+    ],
+    "name:lij_x_preferred":[
+        "Virginnia"
+    ],
+    "name:lim_x_preferred":[
+        "Virginia"
+    ],
     "name:lit_x_preferred":[
         "Vird\u017einija"
     ],
+    "name:lmo_x_preferred":[
+        "Virginia"
+    ],
+    "name:lrc_x_preferred":[
+        "\u06a4\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:ltz_x_preferred":[
+        "Virginia"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d3f\u0d7c\u0d1c\u0d40\u0d28\u0d3f\u0d2f"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u094d\u0939\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0440\u045f\u0438\u043d\u0438\u0458\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Virjinia"
+    ],
+    "name:mon_x_preferred":[
+        "\u0412\u0438\u0440\u0436\u0438\u043d\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Virginia"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Virginia"
+    ],
+    "name:mya_x_preferred":[
+        "\u1017\u102c\u1002\u103b\u102e\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Virginia"
+    ],
+    "name:nau_x_preferred":[
+        "Virginia"
+    ],
+    "name:nds_x_preferred":[
+        "Virginia"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
     "name:nld_x_preferred":[
+        "Virginia"
+    ],
+    "name:nno_x_preferred":[
         "Virginia"
     ],
     "name:nob_x_preferred":[
         "Virginia"
     ],
+    "name:nor_x_preferred":[
+        "Virginia"
+    ],
+    "name:oci_x_preferred":[
+        "Virg\u00ednia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0438"
+    ],
+    "name:pam_x_preferred":[
+        "Virginia"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a30\u0a1c\u0a3f\u0a28\u0a40\u0a06"
+    ],
+    "name:pap_x_preferred":[
+        "Virginia"
+    ],
+    "name:pli_x_preferred":[
+        "\u092d\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
+    "name:pms_x_preferred":[
+        "Virginia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
     "name:pol_x_preferred":[
+        "Virginia"
+    ],
+    "name:por_x_preferred":[
+        "Virg\u00ednia"
+    ],
+    "name:pus_x_preferred":[
+        "\u0648\u06cc\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:que_x_preferred":[
+        "Virginia suyu"
+    ],
+    "name:roh_x_preferred":[
+        "Virginia"
+    ],
+    "name:ron_x_preferred":[
         "Virginia"
     ],
     "name:rus_x_preferred":[
@@ -86,17 +430,116 @@
     "name:rus_x_variant":[
         "\u0412\u0451\u0440\u0434\u0436\u0438\u043d\u0438\u044f"
     ],
+    "name:sah_x_preferred":[
+        "\u0412\u0438\u0440\u0434\u044c\u0438\u043d\u0438\u044f"
+    ],
+    "name:san_x_preferred":[
+        "\u0935\u0930\u094d\u091c\u093f\u0928\u093f\u092f\u093e"
+    ],
+    "name:scn_x_preferred":[
+        "Virginia"
+    ],
+    "name:sco_x_preferred":[
+        "Virginie"
+    ],
     "name:slk_x_preferred":[
+        "Virginia"
+    ],
+    "name:slv_x_preferred":[
+        "Virginija"
+    ],
+    "name:sme_x_preferred":[
         "Virginia"
     ],
     "name:spa_x_preferred":[
         "Virginia"
     ],
+    "name:sqi_x_preferred":[
+        "Virginia"
+    ],
+    "name:srd_x_preferred":[
+        "Virg\u00ecnia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u0440\u045f\u0438\u043d\u0438\u0458\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Virginia"
+    ],
+    "name:swa_x_preferred":[
+        "Virginia"
+    ],
     "name:swe_x_preferred":[
         "Virginia"
     ],
+    "name:szl_x_preferred":[
+        "Wirgi\u0144ijo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bb0\u0bcd\u0b9c\u0bc0\u0ba9\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0438\u044f"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c30\u0c4d\u0c1c\u0c40\u0c28\u0c3f\u0c2f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u0440\u04b7\u0438\u043d\u0438\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Virginia"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e34\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Virginia"
+    ],
+    "name:uig_x_preferred":[
+        "Wirginiye Shitati"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u0440\u0434\u0436\u0438\u043d\u0456\u044f"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0631\u062c\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Virjiniya"
+    ],
+    "name:vec_x_preferred":[
+        "Virginia"
+    ],
+    "name:vie_x_preferred":[
+        "Virginia"
+    ],
+    "name:vol_x_preferred":[
+        "Virginia"
+    ],
+    "name:war_x_preferred":[
+        "Virginia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f17\u5409\u5c3c\u4e9a\u5dde"
+    ],
+    "name:xal_x_preferred":[
+        "\u0412\u0438\u0440\u0497\u0438\u043d\u0438\u044f"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d5\u10d8\u10e0\u10ef\u10d8\u10dc\u10d8\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05e8\u05d3\u05d6\u05e9\u05d9\u05e0\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Firginia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u5409\u5c3c\u4e9a\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Virginia"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cavan",
@@ -110,14 +553,41 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2961006,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Virginia",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Cavan",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":583,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1110423,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":20071322,
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Cavan",
+    "woe:placetype":"LocalAdmin",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685125
+        85685125,
+        1746652135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,11 +599,15 @@
         "wk:page":"Virginia, County Cavan"
     },
     "wof:country":"IE",
-    "wof:geomhash":"4b3ca6c4d539e8dd5fa85b65cd997056",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"3f9857ad4f517b03894c73bdd6cbdb2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652135,
             "locality_id":101804995,
             "region_id":85685125
         }
@@ -142,22 +616,24 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636502593,
+    "wof:lastmodified":1639040897,
     "wof:name":"Virginia",
-    "wof:parent_id":85685125,
+    "wof:parent_id":1746652135,
     "wof:placetype":"locality",
     "wof:population":2282,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125320255
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -7.103101,
-    53.829988,
-    -7.065806,
-    53.845933
+    -7.103708,
+    53.828543,
+    -7.05657,
+    53.842692
 ],
-  "geometry": {"coordinates":[[[-7.097858,53.845933],[-7.097497,53.845064],[-7.096014,53.845275],[-7.094931,53.842666],[-7.093449,53.842876],[-7.093088,53.842007],[-7.091605,53.842217],[-7.091244,53.841348],[-7.089762,53.841558],[-7.08904,53.839819],[-7.086076,53.84024],[-7.085715,53.839371],[-7.073857,53.841054],[-7.074218,53.841924],[-7.072736,53.842134],[-7.072014,53.840395],[-7.073497,53.840185],[-7.072415,53.837576],[-7.070933,53.837786],[-7.069491,53.834308],[-7.066526,53.834728],[-7.065806,53.832989],[-7.067288,53.832779],[-7.066567,53.831039],[-7.073976,53.829988],[-7.074337,53.830857],[-7.072855,53.831068],[-7.073937,53.833677],[-7.081346,53.832624],[-7.080986,53.831755],[-7.082468,53.831544],[-7.082107,53.830675],[-7.085071,53.830254],[-7.086153,53.832863],[-7.087635,53.832652],[-7.089078,53.83613],[-7.09056,53.83592],[-7.090921,53.836789],[-7.096849,53.835947],[-7.097572,53.837686],[-7.099054,53.837475],[-7.099415,53.838345],[-7.100897,53.838134],[-7.101258,53.839004],[-7.10274,53.838793],[-7.103101,53.839663],[-7.100137,53.840084],[-7.10086,53.841823],[-7.097895,53.842244],[-7.09934,53.845723],[-7.097858,53.845933]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-7.09095,53.841368],[-7.091757,53.840784],[-7.091565,53.840589],[-7.091134,53.84016],[-7.090988,53.840205],[-7.089822,53.839612],[-7.089933,53.839525],[-7.090069,53.839506],[-7.08934,53.83904],[-7.088345,53.839778],[-7.086637,53.841054],[-7.086693,53.840889],[-7.086729,53.840764],[-7.086721,53.840639],[-7.086612,53.840429],[-7.086506,53.840251],[-7.086372,53.840065],[-7.086156,53.83982],[-7.085926,53.839674],[-7.08563,53.839535],[-7.085462,53.839417],[-7.085356,53.839251],[-7.085213,53.838932],[-7.085184,53.838834],[-7.085161,53.838705],[-7.085155,53.838612],[-7.085014,53.838591],[-7.084709,53.838597],[-7.084508,53.838608],[-7.084346,53.838566],[-7.084188,53.838491],[-7.084119,53.838326],[-7.084202,53.838133],[-7.084262,53.837947],[-7.084231,53.837867],[-7.08413,53.837889],[-7.0841,53.838099],[-7.084008,53.838354],[-7.083931,53.838671],[-7.083892,53.838866],[-7.083887,53.839127],[-7.083772,53.839239],[-7.082927,53.839852],[-7.08171,53.839223],[-7.081201,53.839537],[-7.081059,53.839674],[-7.080857,53.839795],[-7.080606,53.839799],[-7.079219,53.840628],[-7.078491,53.841041],[-7.078435,53.841015],[-7.078165,53.840908],[-7.078106,53.840881],[-7.07795,53.840796],[-7.077904,53.840763],[-7.077736,53.840645],[-7.077587,53.840519],[-7.077481,53.840434],[-7.077325,53.840273],[-7.077298,53.840263],[-7.077179,53.840237],[-7.077041,53.840215],[-7.076902,53.840196],[-7.076669,53.840168],[-7.07648,53.840085],[-7.076336,53.840027],[-7.076202,53.839973],[-7.076031,53.839905],[-7.075498,53.839691],[-7.074841,53.83945],[-7.074226,53.839222],[-7.073267,53.838881],[-7.073171,53.838847],[-7.069107,53.83736],[-7.065499,53.836016],[-7.066601,53.83527],[-7.067197,53.835013],[-7.065192,53.833392],[-7.065549,53.833251],[-7.064703,53.832537],[-7.064448,53.832646],[-7.064363,53.832685],[-7.063948,53.832877],[-7.06318,53.833223],[-7.062011,53.832408],[-7.05657,53.831294],[-7.056745,53.831136],[-7.05708,53.830837],[-7.05742,53.830544],[-7.057904,53.830124],[-7.057907,53.830122],[-7.057961,53.830075],[-7.058417,53.829667],[-7.058888,53.829722],[-7.059038,53.829662],[-7.059448,53.829724],[-7.059741,53.829653],[-7.060147,53.829546],[-7.060702,53.829437],[-7.061121,53.829349],[-7.061321,53.829354],[-7.061433,53.829319],[-7.061592,53.829308],[-7.061652,53.829272],[-7.061846,53.829239],[-7.06212,53.829178],[-7.062305,53.829125],[-7.062426,53.829083],[-7.062477,53.829033],[-7.062827,53.828933],[-7.063513,53.828747],[-7.06353,53.828742],[-7.064244,53.828543],[-7.064773,53.828893],[-7.065389,53.829215],[-7.065944,53.829497],[-7.066235,53.82966],[-7.066354,53.829534],[-7.066469,53.829578],[-7.068082,53.828591],[-7.069395,53.829303],[-7.06968,53.829089],[-7.069798,53.829009],[-7.069936,53.828955],[-7.070072,53.828926],[-7.070185,53.828981],[-7.07031,53.82915],[-7.070442,53.829228],[-7.070763,53.829262],[-7.07093,53.829286],[-7.071106,53.829248],[-7.071337,53.829156],[-7.071525,53.829135],[-7.071708,53.829055],[-7.071915,53.828986],[-7.072117,53.829001],[-7.072303,53.82898],[-7.072486,53.828934],[-7.072657,53.828886],[-7.072838,53.828864],[-7.072938,53.828872],[-7.073101,53.82898],[-7.073316,53.829112],[-7.07356,53.8292],[-7.073845,53.829261],[-7.074094,53.829311],[-7.074433,53.829355],[-7.074874,53.829268],[-7.075191,53.829179],[-7.075204,53.82924],[-7.07311,53.83137],[-7.076273,53.832697],[-7.076147,53.832847],[-7.077349,53.833126],[-7.077366,53.833347],[-7.077839,53.833512],[-7.078006,53.833402],[-7.078234,53.833312],[-7.078512,53.833289],[-7.078878,53.833296],[-7.079285,53.833259],[-7.079865,53.833109],[-7.080296,53.832982],[-7.080583,53.832866],[-7.08086,53.83268],[-7.081005,53.832396],[-7.08111,53.832093],[-7.081298,53.831817],[-7.081434,53.831652],[-7.081756,53.831534],[-7.082249,53.831436],[-7.08262,53.831274],[-7.082909,53.831083],[-7.083038,53.830937],[-7.083018,53.830731],[-7.083107,53.830388],[-7.083119,53.8301],[-7.083143,53.82974],[-7.083342,53.829751],[-7.083454,53.829757],[-7.083497,53.829892],[-7.083504,53.83],[-7.083401,53.830089],[-7.083371,53.830315],[-7.083414,53.830363],[-7.083586,53.830416],[-7.083775,53.830387],[-7.083986,53.830487],[-7.084102,53.830578],[-7.084353,53.830584],[-7.084597,53.830686],[-7.084834,53.830799],[-7.085039,53.830959],[-7.085217,53.831153],[-7.085358,53.831386],[-7.085424,53.8315],[-7.085134,53.831693],[-7.084547,53.832218],[-7.084046,53.832544],[-7.083287,53.833365],[-7.083021,53.833641],[-7.083225,53.833715],[-7.083341,53.833768],[-7.0836,53.833858],[-7.083554,53.83389],[-7.083736,53.833967],[-7.083775,53.833942],[-7.083986,53.834039],[-7.083956,53.834061],[-7.084023,53.834088],[-7.08417,53.834149],[-7.084504,53.83429],[-7.084774,53.834108],[-7.08494,53.833999],[-7.08542,53.833705],[-7.086278,53.834133],[-7.086318,53.834108],[-7.086591,53.833938],[-7.087302,53.83426],[-7.087389,53.834289],[-7.088246,53.833696],[-7.089343,53.83415],[-7.089031,53.834342],[-7.08873,53.834465],[-7.088364,53.834499],[-7.087937,53.834951],[-7.087816,53.835046],[-7.087525,53.835163],[-7.088697,53.835769],[-7.088909,53.835671],[-7.089369,53.835517],[-7.089711,53.835445],[-7.089988,53.835394],[-7.090279,53.835375],[-7.09049,53.835373],[-7.090733,53.835375],[-7.091048,53.835403],[-7.091199,53.835437],[-7.091405,53.835541],[-7.091569,53.835585],[-7.091799,53.835692],[-7.092217,53.835592],[-7.092504,53.835516],[-7.092699,53.83536],[-7.09277,53.835211],[-7.092781,53.83506],[-7.09275,53.834927],[-7.092353,53.834147],[-7.0927,53.834154],[-7.093122,53.834175],[-7.093244,53.834178],[-7.093528,53.834127],[-7.093777,53.834042],[-7.094393,53.834021],[-7.094963,53.834043],[-7.095144,53.834056],[-7.095329,53.834091],[-7.095424,53.834108],[-7.095495,53.834147],[-7.095517,53.834212],[-7.095524,53.834297],[-7.095579,53.83437],[-7.095684,53.834515],[-7.095819,53.834646],[-7.095954,53.83475],[-7.096074,53.834815],[-7.096516,53.835017],[-7.096753,53.835103],[-7.097038,53.835177],[-7.096824,53.835607],[-7.096632,53.835862],[-7.096694,53.835871],[-7.09617,53.836625],[-7.100306,53.837254],[-7.09974,53.83782],[-7.099679,53.837893],[-7.100992,53.838228],[-7.101759,53.838437],[-7.1019,53.838251],[-7.101951,53.838269],[-7.102024,53.838317],[-7.102085,53.838308],[-7.10256,53.838449],[-7.102497,53.838575],[-7.102604,53.838614],[-7.10253,53.838685],[-7.103349,53.838929],[-7.103708,53.839027],[-7.103417,53.839551],[-7.103348,53.83967],[-7.102804,53.839512],[-7.102297,53.840021],[-7.101327,53.840908],[-7.100837,53.841317],[-7.100516,53.841433],[-7.099932,53.841536],[-7.099664,53.841594],[-7.09927,53.841718],[-7.098636,53.841949],[-7.098341,53.842082],[-7.097868,53.842335],[-7.097783,53.842292],[-7.097436,53.842017],[-7.096643,53.841197],[-7.096505,53.841231],[-7.0964,53.841158],[-7.094084,53.84195],[-7.091593,53.842692],[-7.091389,53.84243],[-7.09095,53.841368]]],"type":"Polygon"}
 }

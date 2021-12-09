@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d54ff1502d0797848a097ea9f3cd5394",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209546933
+            "county_id":1746652153,
+            "locality_id":1209546933,
+            "region_id":85684963
         }
     ],
     "wof:id":1209546933,
-    "wof:lastmodified":1566679859,
+    "wof:lastmodified":1639040758,
     "wof:name":"Colthurst Bridge",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

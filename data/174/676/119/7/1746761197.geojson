@@ -1,0 +1,61 @@
+{
+  "id": 1746761197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.245151,53.397384,-6.245151,53.397384",
+    "geom:latitude":53.397384,
+    "geom:longitude":-6.245151,
+    "iso:country":"IE",
+    "lbl:latitude":53.397384,
+    "lbl:longitude":-6.245151,
+    "mps:latitude":53.397384,
+    "mps:longitude":-6.245151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santry"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316520,
+    "wof:geomhash":"7acda53f8d7e4ef2df20ab06a6ac86b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761197,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761197,
+    "wof:lastmodified":1639045328,
+    "wof:name":"Santry",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.245151,
+    53.397384,
+    -6.245151,
+    53.397384
+],
+  "geometry": {"coordinates":[-6.245151,53.397384],"type":"Point"}
+}

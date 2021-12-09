@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.676138,51.6522965,-8.676138,51.6522965",
+    "geom:bbox":"-8.676138,51.652296,-8.676138,51.652296",
     "geom:latitude":51.652296,
     "geom:longitude":-8.676138,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -73,7 +74,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497047036,
-    "wof:geomhash":"2fb39542530457693ac11d4c8a68725c",
+    "wof:geomhash":"706d39c421869da6051f2456a68db7c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,20 +84,22 @@
         }
     ],
     "wof:id":1125365141,
-    "wof:lastmodified":1566680279,
+    "wof:lastmodified":1637709062,
     "wof:name":"Kilbrittain",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125807937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -8.676138,
-    51.6522965,
+    51.652296,
     -8.676138,
-    51.6522965
+    51.652296
 ],
-  "geometry": {"coordinates":[-8.676138,51.6522965],"type":"Point"}
+  "geometry": {"coordinates":[-8.676138,51.652296],"type":"Point"}
 }

@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684953
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":1125885913,
             "region_id":85684953
         }
     ],
     "wof:id":1125885913,
-    "wof:lastmodified":1566680212,
+    "wof:lastmodified":1639043967,
     "wof:name":"Kilgobnet",
-    "wof:parent_id":85684953,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

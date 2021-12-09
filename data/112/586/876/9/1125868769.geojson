@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.3851575,53.4032905,-6.3851575,53.4032905",
+    "geom:bbox":"-6.385158,53.40329,-6.385158,53.40329",
     "geom:latitude":53.40329,
     "geom:longitude":-6.385158,
     "gn:country":null,
@@ -16,7 +16,7 @@
     "lbl:longitude":-6.385158,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
@@ -64,7 +64,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,19 +75,20 @@
     },
     "wof:country":"IE",
     "wof:created":1497294180,
-    "wof:geomhash":"70073dbfa0b72515b8e45c6ded6a3d6a",
+    "wof:geomhash":"66dc31ace136e20732739d9b6cf3f766",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":1125868769,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":1125868769,
-    "wof:lastmodified":1566680208,
+    "wof:lastmodified":1639037339,
     "wof:name":"Corduff",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -94,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.3851575,
-    53.4032905,
-    -6.3851575,
-    53.4032905
+    -6.385158,
+    53.40329,
+    -6.385158,
+    53.40329
 ],
-  "geometry": {"coordinates":[-6.3851575,53.4032905],"type":"Point"}
+  "geometry": {"coordinates":[-6.385158,53.40329],"type":"Point"}
 }

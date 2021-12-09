@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684987,
+        1746652141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"71ba231c100edf0bef41452aa8df3479",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209243971
+            "county_id":1746652141,
+            "locality_id":1209243971,
+            "region_id":85684987
         }
     ],
     "wof:id":1209243971,
-    "wof:lastmodified":1566679877,
+    "wof:lastmodified":1639040600,
     "wof:name":"Ballynamona",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

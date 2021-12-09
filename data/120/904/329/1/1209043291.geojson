@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"4c1800e0c99f9b34ba6dd1e94f7c8702",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209043291
+            "county_id":1746652125,
+            "locality_id":1209043291,
+            "region_id":85685145
         }
     ],
     "wof:id":1209043291,
-    "wof:lastmodified":1566679912,
+    "wof:lastmodified":1639044616,
     "wof:name":"Coimin na Croise",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -44,7 +44,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685075,
+        1746652097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +57,17 @@
     "wof:geomhash":"420586ff0ef597419b8c936781558f33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209248323
+            "county_id":1746652097,
+            "locality_id":1209248323,
+            "region_id":85685075
         }
     ],
     "wof:id":1209248323,
-    "wof:lastmodified":1566679878,
+    "wof:lastmodified":1639034765,
     "wof:name":"Edmondstown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -1,0 +1,61 @@
+{
+  "id": 1746761061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-9.056917,53.267782,-9.056917,53.267782",
+    "geom:latitude":53.267782,
+    "geom:longitude":-9.056917,
+    "iso:country":"IE",
+    "lbl:latitude":53.267782,
+    "lbl:longitude":-9.056917,
+    "mps:latitude":53.267782,
+    "mps:longitude":-9.056917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Claddagh"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751743,
+        1746652109,
+        85685097
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316468,
+    "wof:geomhash":"ae042e4df905b35adb587e2cef3d31a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652109,
+            "locality_id":101751743,
+            "neighbourhood_id":1746761061,
+            "region_id":85685097
+        }
+    ],
+    "wof:id":1746761061,
+    "wof:lastmodified":1639045321,
+    "wof:name":"Claddagh",
+    "wof:parent_id":101751743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.056917,
+    53.267782,
+    -9.056917,
+    53.267782
+],
+  "geometry": {"coordinates":[-9.056917,53.267782],"type":"Point"}
+}

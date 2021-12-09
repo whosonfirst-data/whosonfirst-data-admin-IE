@@ -1,0 +1,61 @@
+{
+  "id": 1746761167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.27814,53.326254,-6.27814,53.326254",
+    "geom:latitude":53.326254,
+    "geom:longitude":-6.27814,
+    "iso:country":"IE",
+    "lbl:latitude":53.326254,
+    "lbl:longitude":-6.27814,
+    "mps:latitude":53.326254,
+    "mps:longitude":-6.27814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Harold's Cross"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316508,
+    "wof:geomhash":"f0f9c869ec2cc6d602cf41108cf7a9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761167,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761167,
+    "wof:lastmodified":1639045368,
+    "wof:name":"Harold's Cross",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.27814,
+    53.326254,
+    -6.27814,
+    53.326254
+],
+  "geometry": {"coordinates":[-6.27814,53.326254],"type":"Point"}
+}

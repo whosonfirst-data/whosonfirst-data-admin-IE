@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"3c0ebaa3281a1f9fe2a5dc9bd1f3c7d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209546785
+            "county_id":1746652147,
+            "locality_id":1209546785,
+            "region_id":85684953
         }
     ],
     "wof:id":1209546785,
-    "wof:lastmodified":1566679861,
+    "wof:lastmodified":1639038924,
     "wof:name":"Ballycurrane",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

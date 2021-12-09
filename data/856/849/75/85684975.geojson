@@ -352,6 +352,9 @@
         "unlc:id":"IE-CW",
         "wd:id":"Q181882"
     },
+    "wof:coterminous":[
+        1746652143
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -373,7 +376,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288270,
+    "wof:lastmodified":1637696632,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

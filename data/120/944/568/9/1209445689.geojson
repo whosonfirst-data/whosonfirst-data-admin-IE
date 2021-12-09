@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"06db7e9f2765b3cecc034e48d5788b76",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209445689
+            "county_id":1746652091,
+            "locality_id":1209445689,
+            "region_id":1746652171
         }
     ],
     "wof:id":1209445689,
-    "wof:lastmodified":1566679929,
+    "wof:lastmodified":1639037840,
     "wof:name":"Forrest Great",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

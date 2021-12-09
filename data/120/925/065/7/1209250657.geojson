@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"41c4c04607f8d23a82f35be49ad62b07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209250657
+            "county_id":1746652099,
+            "locality_id":1209250657,
+            "region_id":85685081
         }
     ],
     "wof:id":1209250657,
-    "wof:lastmodified":1566679886,
+    "wof:lastmodified":1639036877,
     "wof:name":"Ballyearn",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

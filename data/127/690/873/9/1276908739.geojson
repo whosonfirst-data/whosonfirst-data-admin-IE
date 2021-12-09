@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684953
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":1276908739,
             "region_id":85684953
         }
     ],
     "wof:id":1276908739,
-    "wof:lastmodified":1566679835,
+    "wof:lastmodified":1639040749,
     "wof:name":"Robertstown",
-    "wof:parent_id":85684953,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

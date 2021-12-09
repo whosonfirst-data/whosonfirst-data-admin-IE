@@ -44,7 +44,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"b0c46a607dc511fee4ebf6b33dd73e94",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209646381
+            "county_id":1746652145,
+            "locality_id":1209646381,
+            "region_id":85684991
         }
     ],
     "wof:id":1209646381,
-    "wof:lastmodified":1566679869,
+    "wof:lastmodified":1639043350,
     "wof:name":"Fossa",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

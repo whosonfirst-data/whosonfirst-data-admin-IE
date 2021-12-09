@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000018,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.01998,53.71369,-7.01998,53.71369",
-    "geom:latitude":53.71369,
-    "geom:longitude":-7.01998,
+    "geom:bbox":"-7.02306,53.711547,-7.015638,53.715954",
+    "geom:latitude":53.713818,
+    "geom:longitude":-7.01939,
     "gn:admin1_code":"L",
     "gn:admin2_code":"21",
     "gn:asciiname":"Crossakeel",
@@ -23,13 +23,17 @@
     "gn:name":"Crossakeel",
     "gn:population":180,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Crossakeel",
+    "ie-gov:settlement":11035,
     "iso:country":"IE",
-    "lbl:bbox":"-7.03998,53.69369,-6.99998,53.73369",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Crossakeel"
+    ],
     "name:gle_x_preferred":[
         "Crosa Caoil"
     ],
@@ -37,31 +41,39 @@
         "Crosskeel",
         "Crossakeel"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685081
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964994
     },
     "wof:country":"IE",
-    "wof:geomhash":"d8e085322335c5b26223cac543f9c9d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"736966dda99573769508dc52f19b0f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652099,
             "locality_id":1293814153,
             "region_id":85685081
         }
     ],
     "wof:id":1293814153,
-    "wof:lastmodified":1566679758,
+    "wof:lastmodified":1639042109,
     "wof:name":"Crossakeel",
-    "wof:parent_id":85685081,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:population":180,
     "wof:population_rank":1,
@@ -71,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.01998,
-    53.71369,
-    -7.01998,
-    53.71369
+    -7.02306,
+    53.711547,
+    -7.015638,
+    53.715954
 ],
-  "geometry": {"coordinates":[-7.01998,53.71369],"type":"Point"}
+  "geometry": {"coordinates":[[[-7.016017,53.715138],[-7.01613,53.714991],[-7.016539,53.715073],[-7.016594,53.71489],[-7.016597,53.714833],[-7.01688,53.713967],[-7.017112,53.713602],[-7.017818,53.712846],[-7.018718,53.711947],[-7.018909,53.711967],[-7.019561,53.711552],[-7.019721,53.711547],[-7.019974,53.711737],[-7.021798,53.712157],[-7.02306,53.712446],[-7.022226,53.713112],[-7.022392,53.713224],[-7.022097,53.713432],[-7.022027,53.713486],[-7.022612,53.713928],[-7.022229,53.71406],[-7.021907,53.714182],[-7.021772,53.714284],[-7.021564,53.71439],[-7.02128,53.714513],[-7.020835,53.71462],[-7.020782,53.714632],[-7.020726,53.714647],[-7.020773,53.714717],[-7.021088,53.715207],[-7.02078,53.715296],[-7.017575,53.715751],[-7.016683,53.715954],[-7.015788,53.715632],[-7.015638,53.715395],[-7.015679,53.715289],[-7.015748,53.715231],[-7.016017,53.715138]]],"type":"Polygon"}
 }

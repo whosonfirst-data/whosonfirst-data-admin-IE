@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.4247615,52.206186,-7.4247615,52.206186",
+    "geom:bbox":"-7.424761,52.206186,-7.424761,52.206186",
     "geom:latitude":52.206186,
     "geom:longitude":-7.424761,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -70,7 +71,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497048728,
-    "wof:geomhash":"4986a7faa7b96e7dfb8374824f4d95d3",
+    "wof:geomhash":"df22268db2bad278be67bd8d7fa06112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,20 +81,22 @@
         }
     ],
     "wof:id":1125391357,
-    "wof:lastmodified":1566680250,
+    "wof:lastmodified":1637709051,
     "wof:name":"Kilmacthomas",
     "wof:parent_id":85684953,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101805869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -7.4247615,
+    -7.424761,
     52.206186,
-    -7.4247615,
+    -7.424761,
     52.206186
 ],
-  "geometry": {"coordinates":[-7.4247615,52.206186],"type":"Point"}
+  "geometry": {"coordinates":[-7.424761,52.206186],"type":"Point"}
 }

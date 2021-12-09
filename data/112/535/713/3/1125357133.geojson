@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.523266,53.6479265,-6.523266,53.6479265",
+    "geom:bbox":"-6.523266,53.647926,-6.523266,53.647926",
     "geom:latitude":53.647926,
     "geom:longitude":-6.523266,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -73,7 +74,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497046544,
-    "wof:geomhash":"26819633606a056b4942bfd4ac2d1328",
+    "wof:geomhash":"0242e38dba0ae35f2259cf3ae17794d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,20 +84,22 @@
         }
     ],
     "wof:id":1125357133,
-    "wof:lastmodified":1566680177,
+    "wof:lastmodified":1637709043,
     "wof:name":"Kentstown",
     "wof:parent_id":85685081,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101804901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     -6.523266,
-    53.6479265,
+    53.647926,
     -6.523266,
-    53.6479265
+    53.647926
 ],
-  "geometry": {"coordinates":[-6.523266,53.6479265],"type":"Point"}
+  "geometry": {"coordinates":[-6.523266,53.647926],"type":"Point"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.5480225,53.919555,-6.5480225,53.919555",
+    "geom:bbox":"-6.548023,53.919555,-6.548023,53.919555",
     "geom:latitude":53.919555,
     "geom:longitude":-6.548023,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
@@ -70,7 +71,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497043309,
-    "wof:geomhash":"5410c8e21c9f81675e65347dd1ecd3e1",
+    "wof:geomhash":"724290c35305a01decf5f9dedcfe9a16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,20 +81,22 @@
         }
     ],
     "wof:id":1125298907,
-    "wof:lastmodified":1566680223,
+    "wof:lastmodified":1637709053,
     "wof:name":"Tallanstown",
     "wof:parent_id":85685087,
     "wof:placetype":"localadmin",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125785793
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -6.5480225,
+    -6.548023,
     53.919555,
-    -6.5480225,
+    -6.548023,
     53.919555
 ],
-  "geometry": {"coordinates":[-6.5480225,53.919555],"type":"Point"}
+  "geometry": {"coordinates":[-6.548023,53.919555],"type":"Point"}
 }

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d37adcdaf07b460077e43a7c40eccd3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209547185
+            "county_id":1746652111,
+            "locality_id":1209547185,
+            "region_id":85685097
         }
     ],
     "wof:id":1209547185,
-    "wof:lastmodified":1566679862,
+    "wof:lastmodified":1639043130,
     "wof:name":"Fiddaun",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

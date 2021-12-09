@@ -27,7 +27,7 @@
     "lbl:bbox":"-9.79333,52.25583,-9.75333,52.29583",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
@@ -43,7 +43,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684991
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652145,
             "locality_id":1326660887,
             "region_id":85684991
         }
     ],
     "wof:id":1326660887,
-    "wof:lastmodified":1566679370,
+    "wof:lastmodified":1639038270,
     "wof:name":"Frogmore",
-    "wof:parent_id":85684991,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

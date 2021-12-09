@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.001565,53.5859575,-8.001565,53.5859575",
+    "geom:bbox":"-8.001565,53.585957,-8.001565,53.585957",
     "geom:latitude":53.585957,
     "geom:longitude":-8.001565,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497042333,
-    "wof:geomhash":"99ad9ba9f868c4f1828cd48c38e52e02",
+    "wof:geomhash":"982060e9ed1d36394807912aaaee3c53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125276361,
-    "wof:lastmodified":1566680217,
+    "wof:lastmodified":1637271433,
     "wof:name":"Cashel East",
     "wof:parent_id":85685091,
     "wof:placetype":"localadmin",
@@ -76,9 +77,9 @@
 },
   "bbox": [
     -8.001565,
-    53.5859575,
+    53.585957,
     -8.001565,
-    53.5859575
+    53.585957
 ],
-  "geometry": {"coordinates":[-8.001565,53.5859575],"type":"Point"}
+  "geometry": {"coordinates":[-8.001565,53.585957],"type":"Point"}
 }

@@ -43,7 +43,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Mayo",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145,
+        1746652125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29387438,
@@ -54,16 +59,17 @@
     "wof:geomhash":"6717ab6ff5348bbd5b74bd3e5558e001",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652125,
             "locality_id":1125866755,
-            "region_id":-1
+            "region_id":85685145
         }
     ],
     "wof:id":1125866755,
-    "wof:lastmodified":1566680206,
+    "wof:lastmodified":1639043858,
     "wof:name":"Pollranny",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

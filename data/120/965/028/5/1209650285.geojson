@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"3a783452e94bf2a5cfb81b06e89a4a5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209650285
+            "county_id":1746652157,
+            "locality_id":1209650285,
+            "region_id":1159294375
         }
     ],
     "wof:id":1209650285,
-    "wof:lastmodified":1566679865,
+    "wof:lastmodified":1639037653,
     "wof:name":"Ninemilehouse",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

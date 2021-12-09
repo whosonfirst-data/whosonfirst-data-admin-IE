@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"238d5b6b657caa4dc7a52f3ca5b5b574",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209550337
+            "county_id":1746652147,
+            "locality_id":1209550337,
+            "region_id":85684953
         }
     ],
     "wof:id":1209550337,
-    "wof:lastmodified":1566679871,
+    "wof:lastmodified":1639037121,
     "wof:name":"Drumlohan Cross Roads",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

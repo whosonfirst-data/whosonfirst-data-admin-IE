@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685087,
+        1746652093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"2794a9b9a959a89c20bd512ee13f1832",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209035885
+            "county_id":1746652093,
+            "locality_id":1209035885,
+            "region_id":85685087
         }
     ],
     "wof:id":1209035885,
-    "wof:lastmodified":1566679905,
+    "wof:lastmodified":1639040949,
     "wof:name":"The Bush",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

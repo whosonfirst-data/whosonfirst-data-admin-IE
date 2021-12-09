@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.5679515,52.502481,-6.5679515,52.502481",
+    "geom:bbox":"-6.567952,52.502481,-6.567952,52.502481",
     "geom:latitude":52.502481,
     "geom:longitude":-6.567952,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497043048,
-    "wof:geomhash":"07c750a70e407111eff8750e9fb9f55b",
+    "wof:geomhash":"5545af4b264743fc842641c48544460e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125293807,
-    "wof:lastmodified":1566680224,
+    "wof:lastmodified":1637271436,
     "wof:name":"Enniscorthy Urban",
     "wof:parent_id":85684967,
     "wof:placetype":"localadmin",
@@ -75,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.5679515,
+    -6.567952,
     52.502481,
-    -6.5679515,
+    -6.567952,
     52.502481
 ],
-  "geometry": {"coordinates":[-6.5679515,52.502481],"type":"Point"}
+  "geometry": {"coordinates":[-6.567952,52.502481],"type":"Point"}
 }

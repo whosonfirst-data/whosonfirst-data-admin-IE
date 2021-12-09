@@ -27,33 +27,35 @@
     "lbl:bbox":"-10.14544,53.95963,-10.10544,53.99963",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9805204
     },
     "wof:country":"IE",
-    "wof:geomhash":"6fb4b24e4900bd7280ad108c0cd58fdc",
+    "wof:geomhash":"235a4de94070047a185a6c39ad0cddce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652125,
             "locality_id":1310535455,
             "region_id":85685145
         }
     ],
     "wof:id":1310535455,
-    "wof:lastmodified":1566680020,
+    "wof:lastmodified":1639035596,
     "wof:name":"Tongree",
-    "wof:parent_id":85685145,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -62,9 +64,9 @@
 },
   "bbox": [
     -10.12544,
-    53.97963000000001,
+    53.97963,
     -10.12544,
-    53.97963000000001
+    53.97963
 ],
-  "geometry": {"coordinates":[-10.12544,53.97963000000001],"type":"Point"}
+  "geometry": {"coordinates":[-10.12544,53.97963],"type":"Point"}
 }

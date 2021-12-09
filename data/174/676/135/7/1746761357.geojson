@@ -1,0 +1,61 @@
+{
+  "id": 1746761357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.229635,53.292762,-6.229635,53.292762",
+    "geom:latitude":53.292762,
+    "geom:longitude":-6.229635,
+    "iso:country":"IE",
+    "lbl:latitude":53.292762,
+    "lbl:longitude":-6.229635,
+    "mps:latitude":53.292762,
+    "mps:longitude":-6.229635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Goatstown"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316582,
+    "wof:geomhash":"aa0d11c38cc679352ec2679c4a480c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761357,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761357,
+    "wof:lastmodified":1639045344,
+    "wof:name":"Goatstown",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.229635,
+    53.292762,
+    -6.229635,
+    53.292762
+],
+  "geometry": {"coordinates":[-6.229635,53.292762],"type":"Point"}
+}

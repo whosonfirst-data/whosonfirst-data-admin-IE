@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.72831,53.0032405,-6.72831,53.0032405",
+    "geom:bbox":"-6.72831,53.00324,-6.72831,53.00324",
     "geom:latitude":53.00324,
     "geom:longitude":-6.72831,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
@@ -64,7 +65,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497043090,
-    "wof:geomhash":"ac0f31297e2198e6056a10d7cfc1bf22",
+    "wof:geomhash":"f0c5049ade25234c5b087902e3a3b193",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1125294769,
-    "wof:lastmodified":1566680219,
+    "wof:lastmodified":1637271434,
     "wof:name":"The Grange",
     "wof:parent_id":85684999,
     "wof:placetype":"localadmin",
@@ -85,9 +86,9 @@
 },
   "bbox": [
     -6.72831,
-    53.0032405,
+    53.00324,
     -6.72831,
-    53.0032405
+    53.00324
 ],
-  "geometry": {"coordinates":[-6.72831,53.0032405],"type":"Point"}
+  "geometry": {"coordinates":[-6.72831,53.00324],"type":"Point"}
 }

@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.380698,51.7598975,-9.380698,51.7598975",
+    "geom:bbox":"-9.380698,51.759898,-9.380698,51.759898",
     "geom:latitude":51.759898,
     "geom:longitude":-9.380698,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"IE",
@@ -55,7 +56,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497048902,
-    "wof:geomhash":"1e68a17f0fd90493a7b887cb4441696e",
+    "wof:geomhash":"b57e3bef55e6800357a61461787b4127",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1125394183,
-    "wof:lastmodified":1566680254,
+    "wof:lastmodified":1637271450,
     "wof:name":"Ahil",
     "wof:parent_id":85684963,
     "wof:placetype":"localadmin",
@@ -76,9 +77,9 @@
 },
   "bbox": [
     -9.380698,
-    51.7598975,
+    51.759898,
     -9.380698,
-    51.7598975
+    51.759898
 ],
-  "geometry": {"coordinates":[-9.380698,51.7598975],"type":"Point"}
+  "geometry": {"coordinates":[-9.380698,51.759898],"type":"Point"}
 }

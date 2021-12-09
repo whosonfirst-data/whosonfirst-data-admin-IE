@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"df1102a2920a81a745c54190c01e100c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209551415
+            "county_id":1746652125,
+            "locality_id":1209551415,
+            "region_id":85685145
         }
     ],
     "wof:id":1209551415,
-    "wof:lastmodified":1566679872,
+    "wof:lastmodified":1639039001,
     "wof:name":"Coolcronaun",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

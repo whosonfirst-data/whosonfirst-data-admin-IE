@@ -272,6 +272,9 @@
         "digitalenvoy:region_code":11822,
         "wd:id":"Q178626"
     },
+    "wof:coterminous":[
+        1746652125
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -293,7 +296,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1621288260,
+    "wof:lastmodified":1637696615,
     "wof:name":"Mayo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

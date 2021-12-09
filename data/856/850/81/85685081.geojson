@@ -358,6 +358,9 @@
         "unlc:id":"IE-MH",
         "wd:id":"Q183544"
     },
+    "wof:coterminous":[
+        1746652099
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -379,7 +382,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1636502571,
+    "wof:lastmodified":1637696655,
     "wof:name":"Meath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

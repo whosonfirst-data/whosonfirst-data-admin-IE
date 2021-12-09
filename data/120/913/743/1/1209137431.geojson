@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"b00c1c8d2a608866a4c473b9ba30881e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209137431
+            "county_id":1746652089,
+            "locality_id":1209137431,
+            "region_id":85685005
         }
     ],
     "wof:id":1209137431,
-    "wof:lastmodified":1566679892,
+    "wof:lastmodified":1639043221,
     "wof:name":"Grange Beg",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"0ebfdb2ec1c05bc421f34ffd9cd0a3e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209040667
+            "county_id":1746652105,
+            "locality_id":1209040667,
+            "region_id":85685037
         }
     ],
     "wof:id":1209040667,
-    "wof:lastmodified":1566679910,
+    "wof:lastmodified":1639038322,
     "wof:name":"Balliny",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

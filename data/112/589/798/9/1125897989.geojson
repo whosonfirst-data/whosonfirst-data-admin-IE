@@ -49,7 +49,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29387528,
@@ -61,16 +66,17 @@
     "wof:geomhash":"725e41f7776982302470c7c353f60960",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1125897989,
-            "region_id":-1
+            "region_id":85685151
         }
     ],
     "wof:id":1125897989,
-    "wof:lastmodified":1566680225,
+    "wof:lastmodified":1639038858,
     "wof:name":"Dunree",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

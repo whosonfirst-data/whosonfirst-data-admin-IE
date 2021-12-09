@@ -380,6 +380,9 @@
         "unlc:id":"IE-KK",
         "wd:id":"Q180231"
     },
+    "wof:coterminous":[
+        1746652155
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -401,7 +404,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1636502586,
+    "wof:lastmodified":1637696624,
     "wof:name":"Kilkenny",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

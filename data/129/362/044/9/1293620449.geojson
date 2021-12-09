@@ -27,33 +27,35 @@
     "lbl:bbox":"-7.44389,55.23944,-7.40389,55.27944",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685151
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3307731
     },
     "wof:country":"IE",
-    "wof:geomhash":"f39603222577fd2e769a8d2ee181e050",
+    "wof:geomhash":"e34e4f8a2ac5764268435de8adba8702",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1293620449,
             "region_id":85685151
         }
     ],
     "wof:id":1293620449,
-    "wof:lastmodified":1566679689,
+    "wof:lastmodified":1639043537,
     "wof:name":"Ballyhallan",
-    "wof:parent_id":85685151,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -62,9 +64,9 @@
 },
   "bbox": [
     -7.42389,
-    55.25944000000001,
+    55.25944,
     -7.42389,
-    55.25944000000001
+    55.25944
 ],
-  "geometry": {"coordinates":[-7.42389,55.25944000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.42389,55.25944],"type":"Point"}
 }

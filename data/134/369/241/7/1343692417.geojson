@@ -27,7 +27,7 @@
     "lbl:bbox":"-9.0475,54.08944,-9.0075,54.12944",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
@@ -38,7 +38,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652125,
             "locality_id":1343692417,
             "region_id":85685145
         }
     ],
     "wof:id":1343692417,
-    "wof:lastmodified":1566679481,
+    "wof:lastmodified":1639039029,
     "wof:name":"Bunnyconnellan",
-    "wof:parent_id":85685145,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

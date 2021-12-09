@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"c49ef241669ebbb8447b570c9e34f39c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209547189
+            "county_id":1746652153,
+            "locality_id":1209547189,
+            "region_id":85684963
         }
     ],
     "wof:id":1209547189,
-    "wof:lastmodified":1566679862,
+    "wof:lastmodified":1639043252,
     "wof:name":"Gortearagh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

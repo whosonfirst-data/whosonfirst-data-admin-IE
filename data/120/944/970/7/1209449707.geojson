@@ -53,7 +53,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +67,17 @@
     "wof:geomhash":"0f6b22dbd96e31cc90c4deb974de663e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209449707
+            "county_id":1746652129,
+            "locality_id":1209449707,
+            "region_id":85685137
         }
     ],
     "wof:id":1209449707,
-    "wof:lastmodified":1566679931,
+    "wof:lastmodified":1639044767,
     "wof:name":"Skreen",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

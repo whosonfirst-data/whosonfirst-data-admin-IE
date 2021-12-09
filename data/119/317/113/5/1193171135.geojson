@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-19",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Anagaire"
@@ -80,14 +81,16 @@
         }
     ],
     "wof:id":1193171135,
-    "wof:lastmodified":1566679964,
+    "wof:lastmodified":1637371181,
     "wof:name":"Annagry",
     "wof:parent_id":85685151,
     "wof:placetype":"locality",
     "wof:population":253,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101872775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f7f78c14b9dce1655afa2ec6ed689cca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209348767
+            "county_id":1746652121,
+            "locality_id":1209348767,
+            "region_id":85685151
         }
     ],
     "wof:id":1209348767,
-    "wof:lastmodified":1566679919,
+    "wof:lastmodified":1639034906,
     "wof:name":"Treantagh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

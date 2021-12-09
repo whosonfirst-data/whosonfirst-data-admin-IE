@@ -94,7 +94,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685037
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +107,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652105,
             "locality_id":1243398309,
             "region_id":85685037
         }
     ],
     "wof:id":1243398309,
-    "wof:lastmodified":1566680335,
+    "wof:lastmodified":1639044843,
     "wof:name":"Furnace",
-    "wof:parent_id":85685037,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

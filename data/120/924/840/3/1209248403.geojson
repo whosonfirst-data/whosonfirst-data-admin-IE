@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"4f3027b99d98ce3513e09361081c704d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209248403
+            "county_id":1746652153,
+            "locality_id":1209248403,
+            "region_id":85684963
         }
     ],
     "wof:id":1209248403,
-    "wof:lastmodified":1566679881,
+    "wof:lastmodified":1639044265,
     "wof:name":"Knockanemore",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

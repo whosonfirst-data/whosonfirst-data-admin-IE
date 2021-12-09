@@ -344,6 +344,9 @@
         "unlc:id":"IE-OY",
         "wd:id":"Q184445"
     },
+    "wof:coterminous":[
+        1746652115
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -365,7 +368,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1636502574,
+    "wof:lastmodified":1637696579,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

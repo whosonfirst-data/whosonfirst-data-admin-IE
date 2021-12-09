@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"8f41eb13566fdc8196952cb55f175cc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209142073
+            "county_id":1746652137,
+            "locality_id":1209142073,
+            "region_id":85684967
         }
     ],
     "wof:id":1209142073,
-    "wof:lastmodified":1566679895,
+    "wof:lastmodified":1639044191,
     "wof:name":"Greenfield Cross Roads",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

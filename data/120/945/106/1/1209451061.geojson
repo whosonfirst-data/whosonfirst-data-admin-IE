@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"66b20413b932178828353e1e522758af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209451061
+            "county_id":1746652089,
+            "locality_id":1209451061,
+            "region_id":85685005
         }
     ],
     "wof:id":1209451061,
-    "wof:lastmodified":1566679927,
+    "wof:lastmodified":1639037454,
     "wof:name":"Clonagooden",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

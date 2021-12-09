@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000017,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-8.82708,52.16648,-8.82708,52.16648",
-    "geom:latitude":52.16648,
-    "geom:longitude":-8.82708,
+    "geom:bbox":"-8.83055,52.164406,-8.821911,52.168238",
+    "geom:latitude":52.166477,
+    "geom:longitude":-8.827081,
     "gn:admin1_code":"M",
     "gn:admin2_code":"04",
     "gn:asciiname":"Castlemagner",
@@ -23,43 +23,55 @@
     "gn:name":"Castlemagner",
     "gn:population":0,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Castlemagner",
+    "ie-gov:settlement":18109,
     "iso:country":"IE",
-    "lbl:bbox":"-8.84708,52.14648,-8.80708,52.18648",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Castlemagner"
+    ],
     "name:sco_x_preferred":[
         "Castlemagner"
     ],
     "name:spa_x_preferred":[
         "Castlemagner"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3292594
     },
     "wof:country":"IE",
-    "wof:geomhash":"67796489156417da4a010d0774913d5c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"135813c0ede089ab4e350e99cc5d361f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":1327060569,
             "region_id":85684963
         }
     ],
     "wof:id":1327060569,
-    "wof:lastmodified":1566679332,
+    "wof:lastmodified":1639037835,
     "wof:name":"Castlemagner",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -67,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -8.82708,
-    52.16648,
-    -8.82708,
-    52.16648
+    -8.83055,
+    52.164406,
+    -8.821911,
+    52.168238
 ],
-  "geometry": {"coordinates":[-8.82708,52.16648],"type":"Point"}
+  "geometry": {"coordinates":[[[-8.823937,52.167045],[-8.822562,52.166868],[-8.822628,52.166659],[-8.822413,52.16662],[-8.822299,52.166586],[-8.822097,52.166398],[-8.821964,52.166254],[-8.821911,52.166211],[-8.822046,52.16622],[-8.822498,52.166252],[-8.822838,52.16629],[-8.823386,52.166347],[-8.8242,52.166414],[-8.824233,52.166374],[-8.824393,52.165369],[-8.824648,52.165428],[-8.824972,52.165547],[-8.825652,52.165849],[-8.825739,52.165878],[-8.82633,52.165589],[-8.826683,52.16535],[-8.827494,52.164821],[-8.827824,52.164575],[-8.827934,52.164406],[-8.828014,52.164412],[-8.82838,52.164478],[-8.828956,52.164618],[-8.828895,52.164766],[-8.829924,52.164968],[-8.83055,52.166006],[-8.830367,52.167064],[-8.828886,52.167001],[-8.828727,52.167509],[-8.828587,52.168153],[-8.828572,52.168238],[-8.827122,52.168168],[-8.826915,52.168128],[-8.826676,52.168106],[-8.826564,52.168083],[-8.826359,52.168064],[-8.826161,52.168051],[-8.824949,52.16799],[-8.82441,52.167969],[-8.824487,52.167777],[-8.824567,52.167538],[-8.824669,52.167142],[-8.823937,52.167045]]],"type":"Polygon"}
 }

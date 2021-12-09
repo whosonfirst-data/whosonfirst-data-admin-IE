@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"5c0fce2f609461a0d2b3306ce6006560",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209451567
+            "county_id":1746652155,
+            "locality_id":1209451567,
+            "region_id":85684979
         }
     ],
     "wof:id":1209451567,
-    "wof:lastmodified":1566679926,
+    "wof:lastmodified":1639040530,
     "wof:name":"Wallslough",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

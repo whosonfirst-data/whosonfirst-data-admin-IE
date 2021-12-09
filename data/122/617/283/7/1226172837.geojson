@@ -70,7 +70,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685133
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +83,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652123,
             "locality_id":1226172837,
             "region_id":85685133
         }
     ],
     "wof:id":1226172837,
-    "wof:lastmodified":1566680461,
+    "wof:lastmodified":1639036722,
     "wof:name":"Banagher",
-    "wof:parent_id":85685133,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

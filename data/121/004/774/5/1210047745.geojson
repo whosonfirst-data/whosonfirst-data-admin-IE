@@ -47,7 +47,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1210047745,
             "region_id":85685025
         }
     ],
     "wof:id":1210047745,
-    "wof:lastmodified":1566679941,
+    "wof:lastmodified":1639038984,
     "wof:name":"Eadestown",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":5346,
     "wof:population_rank":5,

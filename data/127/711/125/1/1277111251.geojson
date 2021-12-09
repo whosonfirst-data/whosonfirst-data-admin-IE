@@ -70,7 +70,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685087
+        85685087,
+        1746652093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +83,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652093,
             "locality_id":1277111251,
             "region_id":85685087
         }
     ],
     "wof:id":1277111251,
-    "wof:lastmodified":1566679857,
+    "wof:lastmodified":1639037360,
     "wof:name":"Milltown",
-    "wof:parent_id":85685087,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685117
+        85685117,
+        1746652127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652127,
             "locality_id":1343298381,
             "region_id":85685117
         }
     ],
     "wof:id":1343298381,
-    "wof:lastmodified":1566679500,
+    "wof:lastmodified":1639039403,
     "wof:name":"Aghlaverty",
-    "wof:parent_id":85685117,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -27,7 +27,7 @@
     "lbl:bbox":"-6.25985,53.34597,-6.21985,53.38597",
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
@@ -104,7 +104,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685015
+        1746652171,
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,14 +117,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652117,
             "locality_id":1243488109,
-            "region_id":85685015
+            "region_id":1746652171
         }
     ],
     "wof:id":1243488109,
-    "wof:lastmodified":1566680354,
+    "wof:lastmodified":1639039212,
     "wof:name":"Fairview",
-    "wof:parent_id":85685015,
+    "wof:parent_id":1746652117,
     "wof:placetype":"locality",
     "wof:population":3821,
     "wof:population_rank":4,

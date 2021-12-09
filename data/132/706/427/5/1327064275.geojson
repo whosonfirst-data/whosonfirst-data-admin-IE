@@ -76,7 +76,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685133
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652123,
             "locality_id":1327064275,
             "region_id":85685133
         }
     ],
     "wof:id":1327064275,
-    "wof:lastmodified":1566679331,
+    "wof:lastmodified":1639043042,
     "wof:name":"Woodford",
-    "wof:parent_id":85685133,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

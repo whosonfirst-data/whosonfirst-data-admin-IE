@@ -335,6 +335,9 @@
         "unlc:id":"IE-WH",
         "wd:id":"Q182633"
     },
+    "wof:coterminous":[
+        1746652097
+    ],
     "wof:country":"IE",
     "wof:geom_alt":[
         "quattroshapes"
@@ -356,7 +359,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1636502570,
+    "wof:lastmodified":1637696657,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

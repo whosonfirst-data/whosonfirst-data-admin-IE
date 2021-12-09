@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"dd51e6c01f41b80d9c7261087e81eb1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209242995
+            "county_id":1746652099,
+            "locality_id":1209242995,
+            "region_id":85685081
         }
     ],
     "wof:id":1209242995,
-    "wof:lastmodified":1566679881,
+    "wof:lastmodified":1639036432,
     "wof:name":"Tullaghmedan",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

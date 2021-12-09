@@ -53,7 +53,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"71540eff6b587715a63c2829775761c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345679
+            "county_id":1746652123,
+            "locality_id":1209345679,
+            "region_id":85685133
         }
     ],
     "wof:id":1209345679,
-    "wof:lastmodified":1566679916,
+    "wof:lastmodified":1639041027,
     "wof:name":"Aughrim",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

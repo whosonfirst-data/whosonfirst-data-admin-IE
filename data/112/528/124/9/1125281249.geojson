@@ -3,10 +3,11 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-7.4537185,53.122143,-7.4537185,53.122143",
+    "geom:bbox":"-7.453718,53.122143,-7.453718,53.122143",
     "geom:latitude":53.122143,
     "geom:longitude":-7.453718,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eus_x_preferred":[
@@ -67,7 +68,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497042508,
-    "wof:geomhash":"91510a9941f9b8e1d9476e0f3c70ae5c",
+    "wof:geomhash":"02a9be48fdec74ec92d452bbe5d4183c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1125281249,
-    "wof:lastmodified":1566680204,
+    "wof:lastmodified":1637271430,
     "wof:name":"Rosenallis",
     "wof:parent_id":85685005,
     "wof:placetype":"localadmin",
@@ -87,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -7.4537185,
+    -7.453718,
     53.122143,
-    -7.4537185,
+    -7.453718,
     53.122143
 ],
-  "geometry": {"coordinates":[-7.4537185,53.122143],"type":"Point"}
+  "geometry": {"coordinates":[-7.453718,53.122143],"type":"Point"}
 }

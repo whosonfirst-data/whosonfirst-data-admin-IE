@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"0ffd09c73e4df5168f0a34bd3bcbb4de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209645885
+            "county_id":1746652153,
+            "locality_id":1209645885,
+            "region_id":85684963
         }
     ],
     "wof:id":1209645885,
-    "wof:lastmodified":1566679867,
+    "wof:lastmodified":1639037396,
     "wof:name":"Ballinhassig",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

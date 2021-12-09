@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685137
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652129,
             "locality_id":1243008175,
             "region_id":85685137
         }
     ],
     "wof:id":1243008175,
-    "wof:lastmodified":1566680318,
+    "wof:lastmodified":1639039903,
     "wof:name":"Chapel Street",
-    "wof:parent_id":85685137,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

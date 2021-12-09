@@ -1,0 +1,61 @@
+{
+  "id": 1746761359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.273289,53.348079,-6.273289,53.348079",
+    "geom:latitude":53.348079,
+    "geom:longitude":-6.273289,
+    "iso:country":"IE",
+    "lbl:latitude":53.348079,
+    "lbl:longitude":-6.273289,
+    "mps:latitude":53.348079,
+    "mps:longitude":-6.273289,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Markets"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316583,
+    "wof:geomhash":"79c63773dc104d4f1bce738eed1b9bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761359,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761359,
+    "wof:lastmodified":1639045348,
+    "wof:name":"Markets",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.273289,
+    53.348079,
+    -6.273289,
+    53.348079
+],
+  "geometry": {"coordinates":[-6.273289,53.348079],"type":"Point"}
+}

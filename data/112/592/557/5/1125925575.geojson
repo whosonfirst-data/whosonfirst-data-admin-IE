@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685113
+        85685113,
+        1746652133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652133,
             "locality_id":1125925575,
             "region_id":85685113
         }
     ],
     "wof:id":1125925575,
-    "wof:lastmodified":1566680172,
+    "wof:lastmodified":1639041481,
     "wof:name":"Barry More",
-    "wof:parent_id":85685113,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000025,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.83444,53.0475,-6.83444,53.0475",
-    "geom:latitude":53.0475,
-    "geom:longitude":-6.83444,
+    "geom:bbox":"-6.835097,53.045307,-6.822868,53.050723",
+    "geom:latitude":53.048347,
+    "geom:longitude":-6.828926,
     "gn:admin1_code":"L",
     "gn:admin2_code":"12",
     "gn:asciiname":"Narraghmore",
@@ -23,14 +23,22 @@
     "gn:name":"Narraghmore",
     "gn:population":345,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Narraghmore",
+    "ie-gov:settlement":6044,
     "iso:country":"IE",
-    "lbl:bbox":"-6.85444,53.0275,-6.81444,53.0675",
+    "lbl:latitude":53.048025,
+    "lbl:longitude":-6.829526,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":53.048025,
+    "mps:longitude":-6.829526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Narraghmore"
+    ],
+    "name:eng_x_preferred":[
         "Narraghmore"
     ],
     "name:eus_x_preferred":[
@@ -42,12 +50,17 @@
     "name:swe_x_preferred":[
         "Narraghmore"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +68,23 @@
         "wk:page":"Narraghmore"
     },
     "wof:country":"IE",
-    "wof:geomhash":"21c8f9ea4ff1ffcdcf8a6164b6eecc57",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8431e353d33465a31fe15150554acf36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1343595307,
             "region_id":85685025
         }
     ],
     "wof:id":1343595307,
-    "wof:lastmodified":1566679470,
+    "wof:lastmodified":1639043814,
     "wof:name":"Narraghmore",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":345,
     "wof:population_rank":2,
@@ -77,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.83444,
-    53.0475,
-    -6.83444,
-    53.0475
+    -6.835097,
+    53.045307,
+    -6.822868,
+    53.050723
 ],
-  "geometry": {"coordinates":[-6.83444,53.0475],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.829988,53.050029],[-6.83011,53.049749],[-6.828747,53.049435],[-6.827028,53.049111],[-6.826675,53.049717],[-6.826413,53.050229],[-6.822868,53.049562],[-6.824438,53.047632],[-6.82702,53.048167],[-6.827669,53.048316],[-6.828165,53.047444],[-6.829454,53.045307],[-6.83203,53.045884],[-6.831969,53.04599],[-6.83214,53.04605],[-6.833493,53.046279],[-6.833333,53.046634],[-6.833155,53.046607],[-6.831801,53.046373],[-6.831612,53.046609],[-6.83094,53.047772],[-6.831112,53.047842],[-6.832363,53.048277],[-6.832438,53.048329],[-6.831956,53.048543],[-6.831972,53.048648],[-6.831949,53.048897],[-6.832151,53.04894],[-6.832148,53.049028],[-6.832076,53.049297],[-6.834249,53.049756],[-6.835012,53.049899],[-6.835027,53.049947],[-6.835097,53.050488],[-6.832112,53.049904],[-6.832066,53.049939],[-6.8313,53.049794],[-6.830867,53.049836],[-6.830958,53.050271],[-6.831072,53.050723],[-6.829765,53.050468],[-6.829829,53.050313],[-6.829896,53.050164],[-6.829988,53.050029]]],"type":"Polygon"}
 }

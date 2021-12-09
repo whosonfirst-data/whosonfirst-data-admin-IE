@@ -27,33 +27,35 @@
     "lbl:bbox":"-7.00611,55.18722,-6.96611,55.22722",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85685151
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3306041
     },
     "wof:country":"IE",
-    "wof:geomhash":"2376d72eee85a0b3597b8a093401e32d",
+    "wof:geomhash":"58ae4157077dff3613fb8a0e21c6edfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1276689917,
             "region_id":85685151
         }
     ],
     "wof:id":1276689917,
-    "wof:lastmodified":1566679815,
+    "wof:lastmodified":1639037603,
     "wof:name":"Pound Town",
-    "wof:parent_id":85685151,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
@@ -62,9 +64,9 @@
 },
   "bbox": [
     -6.98611,
-    55.20721999999999,
+    55.20722,
     -6.98611,
-    55.20721999999999
+    55.20722
 ],
-  "geometry": {"coordinates":[-6.98611,55.20721999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.98611,55.20722],"type":"Point"}
 }

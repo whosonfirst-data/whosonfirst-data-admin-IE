@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Knocknaheeney"
@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684945
+        85684963,
+        1746652139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652139,
             "locality_id":1310630413,
-            "region_id":85684945
+            "region_id":85684963
         }
     ],
     "wof:id":1310630413,
-    "wof:lastmodified":1566680024,
+    "wof:lastmodified":1639035942,
     "wof:name":"Knocknaheeny",
-    "wof:parent_id":85684945,
+    "wof:parent_id":1746652139,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.34086,52.55321,-6.34086,52.55321",
-    "geom:latitude":52.55321,
+    "geom:bbox":"-6.345017,52.551675,-6.336151,52.554463",
+    "geom:latitude":52.553207,
     "geom:longitude":-6.34086,
     "gn:admin1_code":"L",
     "gn:admin2_code":"30",
@@ -23,14 +23,18 @@
     "gn:name":"Ballyedmond",
     "gn:population":116,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Ballyedmond",
+    "ie-gov:settlement":14041,
     "iso:country":"IE",
-    "lbl:bbox":"-6.36086,52.53321,-6.32086,52.57321",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Ballyedmond"
+    ],
+    "name:eng_x_preferred":[
         "Ballyedmond"
     ],
     "name:eus_x_preferred":[
@@ -48,12 +52,16 @@
     "name:swe_x_preferred":[
         "Ballyedmond"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ie-gov",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,19 +69,23 @@
         "wk:page":"Ballyedmond"
     },
     "wof:country":"IE",
-    "wof:geomhash":"82bfa1b77415d4d7cb611e5793ab9445",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"325ca03967ee4c07a664ec2e1964fbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1326966187,
             "region_id":85684967
         }
     ],
     "wof:id":1326966187,
-    "wof:lastmodified":1566679400,
+    "wof:lastmodified":1639041546,
     "wof:name":"Ballyedmond",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:population":116,
     "wof:population_rank":1,
@@ -83,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.34086,
-    52.55321,
-    -6.34086,
-    52.55321
+    -6.345017,
+    52.551675,
+    -6.336151,
+    52.554463
 ],
-  "geometry": {"coordinates":[-6.34086,52.55321],"type":"Point"}
+  "geometry": {"coordinates":[[[-6.34419,52.554463],[-6.342058,52.554297],[-6.340918,52.554316],[-6.340767,52.554281],[-6.340442,52.554189],[-6.340263,52.554161],[-6.339922,52.55407],[-6.339438,52.553947],[-6.3389,52.553824],[-6.338582,52.553747],[-6.337935,52.553591],[-6.337423,52.553492],[-6.33738,52.553711],[-6.337254,52.553698],[-6.336151,52.553469],[-6.336303,52.552783],[-6.336344,52.552526],[-6.337413,52.552751],[-6.337563,52.552775],[-6.3377,52.551956],[-6.338223,52.552058],[-6.338766,52.552143],[-6.33934,52.552227],[-6.339969,52.552338],[-6.340151,52.552403],[-6.34044,52.552577],[-6.340733,52.552788],[-6.340997,52.552893],[-6.341058,52.552827],[-6.341676,52.552327],[-6.342483,52.551675],[-6.342618,52.551783],[-6.342828,52.551942],[-6.34319,52.552158],[-6.343617,52.552398],[-6.343793,52.552534],[-6.343878,52.552592],[-6.343995,52.552705],[-6.344276,52.552903],[-6.34462,52.55312],[-6.345017,52.553328],[-6.344442,52.553792],[-6.344388,52.554053],[-6.344234,52.554397],[-6.34419,52.554463]]],"type":"Polygon"}
 }

@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-11-18",
     "edtf:inception":"uuuu",
     "geom:area":0.005171,
     "geom:area_square_m":39454055.921366,
@@ -32,7 +33,7 @@
     "mps:latitude":51.899076,
     "mps:longitude":-8.467932,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
@@ -88,7 +89,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1627522198,
+    "wof:lastmodified":1637256235,
     "wof:name":"Cork City",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -49,7 +49,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685125
+        85685125,
+        1746652135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652135,
             "locality_id":1293323903,
             "region_id":85685125
         }
     ],
     "wof:id":1293323903,
-    "wof:lastmodified":1566679738,
+    "wof:lastmodified":1639045203,
     "wof:name":"Glangevlin",
-    "wof:parent_id":85685125,
+    "wof:parent_id":1746652135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

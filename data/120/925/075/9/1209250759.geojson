@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"915c1b13d516ecc41f767c5e01053369",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209250759
+            "county_id":1746652121,
+            "locality_id":1209250759,
+            "region_id":85685151
         }
     ],
     "wof:id":1209250759,
-    "wof:lastmodified":1566679887,
+    "wof:lastmodified":1639037085,
     "wof:name":"Ballyarrell",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

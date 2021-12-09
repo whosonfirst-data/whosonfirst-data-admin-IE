@@ -1,0 +1,61 @@
+{
+  "id": 1746761251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-6.284944,53.297759,-6.284944,53.297759",
+    "geom:latitude":53.297759,
+    "geom:longitude":-6.284944,
+    "iso:country":"IE",
+    "lbl:latitude":53.297759,
+    "lbl:longitude":-6.284944,
+    "mps:latitude":53.297759,
+    "mps:longitude":-6.284944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rathfarnham"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
+    "wof:breaches":[],
+    "wof:country":"IE",
+    "wof:created":1638316540,
+    "wof:geomhash":"a83870bc470a17ba0b28614e4e7f09f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761251,
+            "region_id":1746652171
+        }
+    ],
+    "wof:id":1746761251,
+    "wof:lastmodified":1639045326,
+    "wof:name":"Rathfarnham",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ie",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.284944,
+    53.297759,
+    -6.284944,
+    53.297759
+],
+  "geometry": {"coordinates":[-6.284944,53.297759],"type":"Point"}
+}
