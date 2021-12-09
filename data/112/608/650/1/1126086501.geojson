@@ -123,6 +123,7 @@
     "wof:belongsto":[
         102191581,
         85633241,
+        1746652127,
         85685117
     ],
     "wof:breaches":[],
@@ -138,13 +139,14 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652127,
             "locality_id":-1,
             "neighbourhood_id":1126086501,
             "region_id":85685117
         }
     ],
     "wof:id":1126086501,
-    "wof:lastmodified":1638297777,
+    "wof:lastmodified":1639045356,
     "wof:name":"Bloomfield",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

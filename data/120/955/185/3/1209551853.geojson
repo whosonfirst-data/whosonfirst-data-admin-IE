@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685113,
+        1746652133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"d3e20c18996eecea0d6eb220a1592bce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209551853
+            "county_id":1746652133,
+            "locality_id":1209551853,
+            "region_id":85685113
         }
     ],
     "wof:id":1209551853,
-    "wof:lastmodified":1566679872,
+    "wof:lastmodified":1639043673,
     "wof:name":"Mount Florence",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -49,7 +49,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kildare",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025,
+        1746652119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20072807,
@@ -59,7 +64,15 @@
     "wof:country":"IE",
     "wof:created":1637371111,
     "wof:geomhash":"3ebd7ee126c2b7f2d11a31d6565e57c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652119,
+            "locality_id":1746658675,
+            "region_id":85685025
+        }
+    ],
     "wof:id":1746658675,
     "wof:lang_x_official":[
         "eng",
@@ -69,9 +82,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709066,
+    "wof:lastmodified":1639035915,
     "wof:name":"Nurney",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

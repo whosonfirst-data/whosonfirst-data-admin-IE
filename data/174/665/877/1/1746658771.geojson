@@ -74,7 +74,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Cork",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963,
+        1746652153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965590,
@@ -85,7 +90,15 @@
     "wof:country":"IE",
     "wof:created":1637371170,
     "wof:geomhash":"74f32dbd08ba9beb7cd8a3fd714f99ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652153,
+            "locality_id":1746658771,
+            "region_id":85684963
+        }
+    ],
     "wof:id":1746658771,
     "wof:lang_x_official":[
         "eng",
@@ -95,9 +108,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709064,
+    "wof:lastmodified":1639042640,
     "wof:name":"Castlemartyr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":1277,
     "wof:population_rank":3,

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"4be4ad6d07dfab4ecc65b4c6dbc41d1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209646507
+            "county_id":1746652111,
+            "locality_id":1209646507,
+            "region_id":85685097
         }
     ],
     "wof:id":1209646507,
-    "wof:lastmodified":1566679867,
+    "wof:lastmodified":1639040993,
     "wof:name":"Derrynacarana",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

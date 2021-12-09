@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"f8c49f1011a37164742a507e1f7db19d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209040505
+            "county_id":1746652115,
+            "locality_id":1209040505,
+            "region_id":85685041
         }
     ],
     "wof:id":1209040505,
-    "wof:lastmodified":1566679911,
+    "wof:lastmodified":1639038060,
     "wof:name":"Ballincur",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

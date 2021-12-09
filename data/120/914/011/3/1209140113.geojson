@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"298581b884b44df00b59d2a05b665933",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209140113
+            "county_id":1746652091,
+            "locality_id":1209140113,
+            "region_id":1746652171
         }
     ],
     "wof:id":1209140113,
-    "wof:lastmodified":1566679894,
+    "wof:lastmodified":1639036820,
     "wof:name":"Damastown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

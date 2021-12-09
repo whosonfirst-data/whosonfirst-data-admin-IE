@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685117,
+        1746652127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"fa02da9c887eed5ce3447ae5f3e1daf8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345945
+            "county_id":1746652127,
+            "locality_id":1209345945,
+            "region_id":85685117
         }
     ],
     "wof:id":1209345945,
-    "wof:lastmodified":1566679916,
+    "wof:lastmodified":1639041709,
     "wof:name":"Tiragarvan",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

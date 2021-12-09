@@ -89,7 +89,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Leitrim",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685133,
+        1746652123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966760,
@@ -100,7 +105,15 @@
     "wof:country":"IE",
     "wof:created":1637371090,
     "wof:geomhash":"8a204a468a9629a6d811dcfa8440c314",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652123,
+            "locality_id":1746658635,
+            "region_id":85685133
+        }
+    ],
     "wof:id":1746658635,
     "wof:lang_x_official":[
         "eng",
@@ -110,9 +123,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709054,
+    "wof:lastmodified":1639036015,
     "wof:name":"Ballinamore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:population":889,
     "wof:population_rank":2,

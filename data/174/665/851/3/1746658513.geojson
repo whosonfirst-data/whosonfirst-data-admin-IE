@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999,
+        1746652151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":15028
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371003,
     "wof:geomhash":"5196d67429c84d52487f4bdd9c56276a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652151,
+            "locality_id":1746658513,
+            "region_id":85684999
+        }
+    ],
     "wof:id":1746658513,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371003,
+    "wof:lastmodified":1639035974,
     "wof:name":"Manor Kilbride",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

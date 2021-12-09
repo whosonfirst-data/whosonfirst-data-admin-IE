@@ -58,7 +58,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Clare",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037,
+        1746652105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20071403,
@@ -68,7 +73,15 @@
     "wof:country":"IE",
     "wof:created":1637371159,
     "wof:geomhash":"ceac54e253e42111352bdb78b843755d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652105,
+            "locality_id":1746658757,
+            "region_id":85685037
+        }
+    ],
     "wof:id":1746658757,
     "wof:lang_x_official":[
         "eng",
@@ -78,9 +91,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709075,
+    "wof:lastmodified":1639042799,
     "wof:name":"Kilkishen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

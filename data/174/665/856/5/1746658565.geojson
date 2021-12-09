@@ -65,7 +65,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Offaly",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041,
+        1746652115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966625,
@@ -76,7 +81,15 @@
     "wof:country":"IE",
     "wof:created":1637371035,
     "wof:geomhash":"09294eda953d4b6dd9bd78a40618bd3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652115,
+            "locality_id":1746658565,
+            "region_id":85685041
+        }
+    ],
     "wof:id":1746658565,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709069,
+    "wof:lastmodified":1639035971,
     "wof:name":"Ballycumber",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:population":219,
     "wof:population_rank":2,

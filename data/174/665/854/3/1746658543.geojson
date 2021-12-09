@@ -126,7 +126,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Waterford",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953,
+        1746652147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966911,
@@ -140,7 +145,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"91b710f1a2f4a7aae7de124052a96785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652147,
+            "locality_id":1746658543,
+            "region_id":85684953
+        }
+    ],
     "wof:id":1746658543,
     "wof:lang_x_official":[
         "eng",
@@ -150,9 +163,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408138,
+    "wof:lastmodified":1639035501,
     "wof:name":"Ardmore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:population":435,
     "wof:population_rank":2,

@@ -73,7 +73,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685075,
+        1746652097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,14 +90,17 @@
     "wof:geomhash":"6fdd4e7c255ed4eeeb0cfa1bd0786947",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209244135
+            "county_id":1746652097,
+            "locality_id":1209244135,
+            "region_id":85685075
         }
     ],
     "wof:id":1209244135,
-    "wof:lastmodified":1637371026,
+    "wof:lastmodified":1639041584,
     "wof:name":"Castlepollard",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652097,
     "wof:placetype":"locality",
     "wof:population":1042,
     "wof:population_rank":3,

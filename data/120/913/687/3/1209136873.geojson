@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"579efae05e4907c6ff243c9a8c862e4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209136873
+            "county_id":1746652153,
+            "locality_id":1209136873,
+            "region_id":85684963
         }
     ],
     "wof:id":1209136873,
-    "wof:lastmodified":1566679889,
+    "wof:lastmodified":1639038873,
     "wof:name":"Mount Massy",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

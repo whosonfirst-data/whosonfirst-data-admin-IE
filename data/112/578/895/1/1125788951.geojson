@@ -233,7 +233,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685005
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -252,14 +253,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652089,
             "locality_id":1125788951,
             "region_id":85685005
         }
     ],
     "wof:id":1125788951,
-    "wof:lastmodified":1637709054,
+    "wof:lastmodified":1639038492,
     "wof:name":"Emo",
-    "wof:parent_id":85685005,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:population":245,
     "wof:population_rank":2,

@@ -53,7 +53,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685009
+        1746652171,
+        1746652101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +67,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652101,
             "locality_id":1326963893,
-            "region_id":85685009
+            "region_id":1746652171
         }
     ],
     "wof:id":1326963893,
-    "wof:lastmodified":1637700867,
+    "wof:lastmodified":1639044148,
     "wof:name":"Knocklyon",
-    "wof:parent_id":85685009,
+    "wof:parent_id":1746652101,
     "wof:placetype":"locality",
     "wof:population":14628,
     "wof:population_rank":6,

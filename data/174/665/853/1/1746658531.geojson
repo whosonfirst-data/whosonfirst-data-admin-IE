@@ -61,7 +61,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Wexford",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967,
+        1746652137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966654,
@@ -72,7 +77,15 @@
     "wof:country":"IE",
     "wof:created":1637371014,
     "wof:geomhash":"8f24f4b3b8c64425b006866b6dc9edbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652137,
+            "locality_id":1746658531,
+            "region_id":85684967
+        }
+    ],
     "wof:id":1746658531,
     "wof:lang_x_official":[
         "eng",
@@ -82,9 +95,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709058,
+    "wof:lastmodified":1639042618,
     "wof:name":"Ballycanew",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:population":502,
     "wof:population_rank":2,

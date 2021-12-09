@@ -65,7 +65,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,14 +82,17 @@
     "wof:geomhash":"bcb3bba1008558c85e2dcb7a87f44642",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209251337
+            "county_id":1746652151,
+            "locality_id":1209251337,
+            "region_id":85684999
         }
     ],
     "wof:id":1209251337,
-    "wof:lastmodified":1637370994,
+    "wof:lastmodified":1639041578,
     "wof:name":"Shillelagh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":341,
     "wof:population_rank":2,

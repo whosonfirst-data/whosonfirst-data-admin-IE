@@ -54,7 +54,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684987
+        85684987,
+        1746652141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +69,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652141,
             "locality_id":1125833887,
             "region_id":85684987
         }
     ],
     "wof:id":1125833887,
-    "wof:lastmodified":1637700859,
+    "wof:lastmodified":1639044126,
     "wof:name":"Moyross",
-    "wof:parent_id":85684987,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:population":4448,
     "wof:population_rank":4,

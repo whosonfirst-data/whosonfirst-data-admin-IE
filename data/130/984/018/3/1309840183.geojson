@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":1309840183,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":1309840183,
-    "wof:lastmodified":1637371140,
+    "wof:lastmodified":1639042547,
     "wof:name":"Kinsealy-Drinan",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:population":5814,
     "wof:population_rank":5,

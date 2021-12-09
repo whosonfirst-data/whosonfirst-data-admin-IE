@@ -61,7 +61,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Monaghan",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117,
+        1746652127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965338,
@@ -72,7 +77,15 @@
     "wof:country":"IE",
     "wof:created":1637371042,
     "wof:geomhash":"55ebf5f64234ea2705e331882f5c7f51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652127,
+            "locality_id":1746658573,
+            "region_id":85685117
+        }
+    ],
     "wof:id":1746658573,
     "wof:lang_x_official":[
         "eng",
@@ -82,9 +95,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709072,
+    "wof:lastmodified":1639035997,
     "wof:name":"Clontibret",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

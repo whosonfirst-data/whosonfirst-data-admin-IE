@@ -110,7 +110,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685037
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,14 +130,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652105,
             "locality_id":1125907955,
             "region_id":85685037
         }
     ],
     "wof:id":1125907955,
-    "wof:lastmodified":1637709060,
+    "wof:lastmodified":1639036716,
     "wof:name":"Lisdoonvarna",
-    "wof:parent_id":85685037,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:population":739,
     "wof:population_rank":2,

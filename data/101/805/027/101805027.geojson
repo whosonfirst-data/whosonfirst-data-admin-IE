@@ -83,7 +83,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685137
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652129,
             "locality_id":101805027,
             "region_id":85685137
         }
     ],
     "wof:id":101805027,
-    "wof:lastmodified":1638408127,
+    "wof:lastmodified":1639038848,
     "wof:name":"Ballisodare",
-    "wof:parent_id":85685137,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

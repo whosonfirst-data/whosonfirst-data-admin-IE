@@ -89,7 +89,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Sligo",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137,
+        1746652129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965759,
@@ -100,7 +105,15 @@
     "wof:country":"IE",
     "wof:created":1637371017,
     "wof:geomhash":"a3d946b8c9ff1257d0e26efa851d5e4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652129,
+            "locality_id":1746658535,
+            "region_id":85685137
+        }
+    ],
     "wof:id":1746658535,
     "wof:lang_x_official":[
         "eng",
@@ -110,9 +123,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709057,
+    "wof:lastmodified":1639042629,
     "wof:name":"Carney",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:population":349,
     "wof:population_rank":2,

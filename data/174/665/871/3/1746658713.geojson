@@ -102,7 +102,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Galway",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962153,
@@ -116,7 +121,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"fd8d67c02dd4093fe7b65bec7f67cb6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658713,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658713,
     "wof:lang_x_official":[
         "eng",
@@ -126,9 +139,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408125,
+    "wof:lastmodified":1639042371,
     "wof:name":"Oranmore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":4799,
     "wof:population_rank":4,

@@ -114,7 +114,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685125
+        85685125,
+        1746652135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -134,6 +135,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652135,
             "locality_id":101805005,
             "region_id":85685125
         }
@@ -142,9 +144,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709048,
+    "wof:lastmodified":1639035320,
     "wof:name":"Killeshandra",
-    "wof:parent_id":85685125,
+    "wof:parent_id":1746652135,
     "wof:placetype":"locality",
     "wof:population":364,
     "wof:population_rank":2,

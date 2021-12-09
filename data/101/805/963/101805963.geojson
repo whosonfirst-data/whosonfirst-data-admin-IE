@@ -161,7 +161,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684975
+        85684975,
+        1746652143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,14 +186,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652143,
             "locality_id":101805963,
             "region_id":85684975
         }
     ],
     "wof:id":101805963,
-    "wof:lastmodified":1637370978,
+    "wof:lastmodified":1639035710,
     "wof:name":"Carlow",
-    "wof:parent_id":85684975,
+    "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:population":20055,
     "wof:population_rank":7,

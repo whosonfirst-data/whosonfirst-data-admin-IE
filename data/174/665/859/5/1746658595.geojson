@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685145,
+        1746652125
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":29022
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"35c648c6b270a9d45d8e592ccc77892e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652125,
+            "locality_id":1746658595,
+            "region_id":85685145
+        }
+    ],
     "wof:id":1746658595,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408132,
+    "wof:lastmodified":1639035922,
     "wof:name":"Keel-Dooagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

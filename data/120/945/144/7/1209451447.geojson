@@ -68,7 +68,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +81,17 @@
     "wof:geomhash":"027ecad3b80652dd8a155d5abe89f80d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209451447
+            "county_id":1746652121,
+            "locality_id":1209451447,
+            "region_id":85685151
         }
     ],
     "wof:id":1209451447,
-    "wof:lastmodified":1566679926,
+    "wof:lastmodified":1639038777,
     "wof:name":"Milltown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

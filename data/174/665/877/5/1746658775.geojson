@@ -71,7 +71,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964509,
@@ -82,7 +87,15 @@
     "wof:country":"IE",
     "wof:created":1637371171,
     "wof:geomhash":"33e8be1d30cc5a5108ddb42ab4ce87ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
+            "locality_id":1746658775,
+            "region_id":85685151
+        }
+    ],
     "wof:id":1746658775,
     "wof:lang_x_official":[
         "eng",
@@ -92,9 +105,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709065,
+    "wof:lastmodified":1639035783,
     "wof:name":"Dunkineely",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":375,
     "wof:population_rank":2,

@@ -43,7 +43,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Carlow",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975,
+        1746652143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20071208,
@@ -53,7 +58,15 @@
     "wof:country":"IE",
     "wof:created":1637371130,
     "wof:geomhash":"3eacc632f107ee090f1da5343ccf039e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652143,
+            "locality_id":1746658707,
+            "region_id":85684975
+        }
+    ],
     "wof:id":1746658707,
     "wof:lang_x_official":[
         "eng",
@@ -63,9 +76,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709066,
+    "wof:lastmodified":1639036001,
     "wof:name":"Fennagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953,
+        1746652147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":25005
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"fff37458a32f40aef7163181143e41c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652147,
+            "locality_id":1746658527,
+            "region_id":85684953
+        }
+    ],
     "wof:id":1746658527,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408138,
+    "wof:lastmodified":1639042698,
     "wof:name":"An Rinn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

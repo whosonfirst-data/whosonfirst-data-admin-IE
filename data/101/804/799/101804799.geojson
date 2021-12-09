@@ -127,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -148,6 +149,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":101804799,
             "region_id":85685025
         }
@@ -156,9 +158,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709043,
+    "wof:lastmodified":1639036376,
     "wof:name":"Castledermot",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":1398,
     "wof:population_rank":3,

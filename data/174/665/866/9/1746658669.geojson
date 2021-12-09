@@ -70,7 +70,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Carlow",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975,
+        1746652143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2961874,
@@ -81,7 +86,15 @@
     "wof:country":"IE",
     "wof:created":1637371108,
     "wof:geomhash":"11a3c4fc8a11600aec18a7d1851d5264",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652143,
+            "locality_id":1746658669,
+            "region_id":85684975
+        }
+    ],
     "wof:id":1746658669,
     "wof:lang_x_official":[
         "eng",
@@ -91,9 +104,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709074,
+    "wof:lastmodified":1639042679,
     "wof:name":"Rathvilly",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:population":881,
     "wof:population_rank":2,

@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":27037
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371154,
     "wof:geomhash":"9bd5f7aedf548198125800995be57c63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658747,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658747,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371154,
+    "wof:lastmodified":1639042637,
     "wof:name":"Annaghdown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

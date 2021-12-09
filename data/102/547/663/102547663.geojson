@@ -123,6 +123,7 @@
     "wof:belongsto":[
         102191581,
         85633241,
+        1746652153,
         85684963
     ],
     "wof:breaches":[],
@@ -141,13 +142,14 @@
             "campus_id":102547663,
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85684963
         }
     ],
     "wof:id":102547663,
-    "wof:lastmodified":1566679419,
+    "wof:lastmodified":1639045318,
     "wof:name":"Cork Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

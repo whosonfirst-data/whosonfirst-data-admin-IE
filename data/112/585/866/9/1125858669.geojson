@@ -285,7 +285,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685055
+        85685097,
+        1746652109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -300,14 +301,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652109,
             "locality_id":1125858669,
-            "region_id":85685055
+            "region_id":85685097
         }
     ],
     "wof:id":1125858669,
-    "wof:lastmodified":1637700866,
+    "wof:lastmodified":1639043816,
     "wof:name":"Gaillimh",
-    "wof:parent_id":85685055,
+    "wof:parent_id":1746652109,
     "wof:placetype":"locality",
     "wof:population":70686,
     "wof:population_rank":8,

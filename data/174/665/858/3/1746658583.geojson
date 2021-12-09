@@ -53,7 +53,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Roscommon",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113,
+        1746652133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964420,
@@ -64,7 +69,15 @@
     "wof:country":"IE",
     "wof:created":1637371047,
     "wof:geomhash":"7f35c0dad7820b34a4ca486769da1b20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652133,
+            "locality_id":1746658583,
+            "region_id":85685113
+        }
+    ],
     "wof:id":1746658583,
     "wof:lang_x_official":[
         "eng",
@@ -74,9 +87,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709067,
+    "wof:lastmodified":1639042721,
     "wof:name":"Elphin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:population":613,
     "wof:population_rank":2,

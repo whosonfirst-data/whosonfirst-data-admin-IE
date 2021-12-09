@@ -80,7 +80,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,14 +93,17 @@
     "wof:geomhash":"134980364ad4fb982e994bbce10215d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209136933
+            "county_id":1746652091,
+            "locality_id":1209136933,
+            "region_id":1746652171
         }
     ],
     "wof:id":1209136933,
-    "wof:lastmodified":1566679889,
+    "wof:lastmodified":1639040799,
     "wof:name":"Ward",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

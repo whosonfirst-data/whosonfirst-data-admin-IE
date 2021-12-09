@@ -94,7 +94,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685097
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,14 +114,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652111,
             "locality_id":1125988907,
             "region_id":85685097
         }
     ],
     "wof:id":1125988907,
-    "wof:lastmodified":1637371126,
+    "wof:lastmodified":1639042133,
     "wof:name":"Dunmore",
-    "wof:parent_id":85685097,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":577,
     "wof:population_rank":2,

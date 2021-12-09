@@ -86,7 +86,12 @@
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953,
+        1746652147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964492,
@@ -102,16 +107,17 @@
     "wof:geomhash":"96c1ce989633218aca1a81d7682f3be8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":1125950983,
-            "region_id":-1
+            "region_id":85684953
         }
     ],
     "wof:id":1125950983,
-    "wof:lastmodified":1638408139,
+    "wof:lastmodified":1639037388,
     "wof:name":"Dunmore East",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:population":1559,
     "wof:population_rank":3,

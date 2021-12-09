@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":27007
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371131,
     "wof:geomhash":"e51ea6995b6e5b64c4a7605230d9400c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658709,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658709,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371131,
+    "wof:lastmodified":1639036014,
     "wof:name":"Maigh Cuilinn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

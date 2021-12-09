@@ -45,7 +45,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1243202687,
             "region_id":85684967
         }
     ],
     "wof:id":1243202687,
-    "wof:lastmodified":1637371008,
+    "wof:lastmodified":1639037423,
     "wof:name":"Oilgate",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:population":385,
     "wof:population_rank":2,

@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685091,
+        1746652103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"ee1b05f8bd37d4e10995a89d1e3c59fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345593
+            "county_id":1746652103,
+            "locality_id":1209345593,
+            "region_id":85685091
         }
     ],
     "wof:id":1209345593,
-    "wof:lastmodified":1566679916,
+    "wof:lastmodified":1639038790,
     "wof:name":"Lisryan",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"464135e90f44d70d6c1befc7c19f6a28",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209042589
+            "county_id":1746652145,
+            "locality_id":1209042589,
+            "region_id":85684991
         }
     ],
     "wof:id":1209042589,
-    "wof:lastmodified":1566679908,
+    "wof:lastmodified":1639043722,
     "wof:name":"Tullig",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

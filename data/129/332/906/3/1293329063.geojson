@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685041
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652115,
             "locality_id":1293329063,
             "region_id":85685041
         }
     ],
     "wof:id":1293329063,
-    "wof:lastmodified":1637371051,
+    "wof:lastmodified":1639040395,
     "wof:name":"Walsh Island",
-    "wof:parent_id":85685041,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -94,8 +94,10 @@
         "suburb_id":562471
     },
     "wof:belongsto":[
+        102191581,
         85633241,
-        85685009
+        1746652101,
+        1746652171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,14 +111,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102547661,
+            "continent_id":102191581,
             "country_id":85633241,
-            "region_id":85685009
+            "county_id":1746652101,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":1746652171
         }
     ],
     "wof:id":102547661,
-    "wof:lastmodified":1631752476,
+    "wof:lastmodified":1639045316,
     "wof:name":"Casement Airport",
-    "wof:parent_id":85685009,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

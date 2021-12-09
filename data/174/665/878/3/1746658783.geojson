@@ -65,7 +65,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kerry",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991,
+        1746652145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964576,
@@ -76,7 +81,15 @@
     "wof:country":"IE",
     "wof:created":1637371176,
     "wof:geomhash":"56b1222c39e5ed6fd6e0cbc128198f2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652145,
+            "locality_id":1746658783,
+            "region_id":85684991
+        }
+    ],
     "wof:id":1746658783,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709060,
+    "wof:lastmodified":1639036019,
     "wof:name":"Duagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:population":209,
     "wof:population_rank":2,

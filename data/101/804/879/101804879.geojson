@@ -123,7 +123,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685081
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,14 +144,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652099,
             "locality_id":101804879,
             "region_id":85685081
         }
     ],
     "wof:id":101804879,
-    "wof:lastmodified":1637370989,
+    "wof:lastmodified":1639035275,
     "wof:name":"Trim",
-    "wof:parent_id":85685081,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:population":1800,
     "wof:population_rank":3,

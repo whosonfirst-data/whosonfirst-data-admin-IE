@@ -68,7 +68,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Clare",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037,
+        1746652105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964710,
@@ -79,7 +84,15 @@
     "wof:country":"IE",
     "wof:created":1637371153,
     "wof:geomhash":"0e25eab688d9ec4773e832196db2b568",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652105,
+            "locality_id":1746658745,
+            "region_id":85685037
+        }
+    ],
     "wof:id":1746658745,
     "wof:lang_x_official":[
         "eng",
@@ -89,9 +102,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709044,
+    "wof:lastmodified":1639035906,
     "wof:name":"Doonbeg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:population":272,
     "wof:population_rank":2,

@@ -61,7 +61,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Offaly",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685041,
+        1746652115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966033,
@@ -72,7 +77,15 @@
     "wof:country":"IE",
     "wof:created":1637371050,
     "wof:geomhash":"a3e520dc7786c8d86047d286a2599002",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652115,
+            "locality_id":1746658589,
+            "region_id":85685041
+        }
+    ],
     "wof:id":1746658589,
     "wof:lang_x_official":[
         "eng",
@@ -82,9 +95,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709067,
+    "wof:lastmodified":1639035975,
     "wof:name":"Bracknagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

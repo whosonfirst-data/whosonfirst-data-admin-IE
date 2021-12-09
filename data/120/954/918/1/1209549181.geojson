@@ -70,7 +70,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +87,17 @@
     "wof:geomhash":"c3b2956fa98c334b4edcb8541839427e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209549181
+            "county_id":1746652111,
+            "locality_id":1209549181,
+            "region_id":85685097
         }
     ],
     "wof:id":1209549181,
-    "wof:lastmodified":1637371135,
+    "wof:lastmodified":1639039209,
     "wof:name":"Mount Bellew",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":784,
     "wof:population_rank":2,

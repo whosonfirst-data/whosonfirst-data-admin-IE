@@ -132,7 +132,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685097
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,14 +152,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652111,
             "locality_id":101804959,
             "region_id":85685097
         }
     ],
     "wof:id":101804959,
-    "wof:lastmodified":1637370985,
+    "wof:lastmodified":1639040718,
     "wof:name":"Loughrea",
-    "wof:parent_id":85685097,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":5062,
     "wof:population_rank":5,

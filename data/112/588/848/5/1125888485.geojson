@@ -87,7 +87,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Louth",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087,
+        1746652093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966988,
@@ -104,16 +109,17 @@
     "wof:geomhash":"48904cf449bb8c60c53e5830ded6d5b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652093,
             "locality_id":1125888485,
-            "region_id":-1
+            "region_id":85685087
         }
     ],
     "wof:id":1125888485,
-    "wof:lastmodified":1638408141,
+    "wof:lastmodified":1639041858,
     "wof:name":"Annagassan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:population":180,
     "wof:population_rank":1,

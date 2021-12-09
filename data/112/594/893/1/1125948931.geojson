@@ -94,7 +94,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685151
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,14 +111,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1125948931,
             "region_id":85685151
         }
     ],
     "wof:id":1125948931,
-    "wof:lastmodified":1566680155,
+    "wof:lastmodified":1639043950,
     "wof:name":"Kilcar",
-    "wof:parent_id":85685151,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":248,
     "wof:population_rank":2,

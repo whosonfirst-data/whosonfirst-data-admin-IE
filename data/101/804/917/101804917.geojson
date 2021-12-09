@@ -293,7 +293,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685087
+        85685087,
+        1746652093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -313,14 +314,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652093,
             "locality_id":101804917,
             "region_id":85685087
         }
     ],
     "wof:id":101804917,
-    "wof:lastmodified":1637370980,
+    "wof:lastmodified":1639035730,
     "wof:name":"Drogheda",
-    "wof:parent_id":85685087,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:population":33441,
     "wof:population_rank":7,

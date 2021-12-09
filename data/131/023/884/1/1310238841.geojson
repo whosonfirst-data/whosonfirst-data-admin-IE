@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685151
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1310238841,
             "region_id":85685151
         }
     ],
     "wof:id":1310238841,
-    "wof:lastmodified":1637371112,
+    "wof:lastmodified":1639035265,
     "wof:name":"Tievebane",
-    "wof:parent_id":85685151,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":351,
     "wof:population_rank":2,

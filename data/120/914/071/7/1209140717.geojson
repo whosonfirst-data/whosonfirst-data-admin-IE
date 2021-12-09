@@ -65,7 +65,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +78,17 @@
     "wof:geomhash":"784a4303b0c06368b549f7030c438d0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209140717
+            "county_id":1746652115,
+            "locality_id":1209140717,
+            "region_id":85685041
         }
     ],
     "wof:id":1209140717,
-    "wof:lastmodified":1566679893,
+    "wof:lastmodified":1639038961,
     "wof:name":"Frankford",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

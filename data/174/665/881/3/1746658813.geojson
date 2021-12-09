@@ -93,7 +93,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962722,
@@ -107,7 +112,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"3a708ec2235a15d408498d442cd7b035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
+            "locality_id":1746658813,
+            "region_id":85685151
+        }
+    ],
     "wof:id":1746658813,
     "wof:lang_x_official":[
         "eng",
@@ -117,9 +130,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408129,
+    "wof:lastmodified":1639042672,
     "wof:name":"Malin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":106,
     "wof:population_rank":1,

@@ -56,7 +56,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685087,
+        1746652093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,14 +69,17 @@
     "wof:geomhash":"de8eed4a634dcfd5a1481aeae47394ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209547111
+            "county_id":1746652093,
+            "locality_id":1209547111,
+            "region_id":85685087
         }
     ],
     "wof:id":1209547111,
-    "wof:lastmodified":1566679862,
+    "wof:lastmodified":1639041727,
     "wof:name":"Riverstown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -72,7 +72,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Cork",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963,
+        1746652153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965095,
@@ -86,7 +91,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"afeb492a515a912a5f59a0596c713aca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652153,
+            "locality_id":1746658695,
+            "region_id":85684963
+        }
+    ],
     "wof:id":1746658695,
     "wof:lang_x_official":[
         "eng",
@@ -96,9 +109,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408134,
+    "wof:lastmodified":1639042707,
     "wof:name":"Courtmacsherry",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":520,
     "wof:population_rank":2,

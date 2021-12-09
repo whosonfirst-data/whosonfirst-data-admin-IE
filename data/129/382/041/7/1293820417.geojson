@@ -68,7 +68,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685113
+        85685113,
+        1746652133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +85,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652133,
             "locality_id":1293820417,
             "region_id":85685113
         }
     ],
     "wof:id":1293820417,
-    "wof:lastmodified":1637371028,
+    "wof:lastmodified":1639038531,
     "wof:name":"Athleague",
-    "wof:parent_id":85685113,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

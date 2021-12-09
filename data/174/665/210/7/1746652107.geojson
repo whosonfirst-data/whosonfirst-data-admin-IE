@@ -203,7 +203,7 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685001
+        1746652171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -221,7 +221,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652107,
-            "region_id":85685001
+            "region_id":1746652171
         }
     ],
     "wof:id":1746652107,
@@ -233,9 +233,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637697395,
+    "wof:lastmodified":1639034616,
     "wof:name":"Dunlaoghaire-Rathdown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652171,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:shortcode":"DN",

@@ -122,7 +122,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,14 +143,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":101804851,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":101804851,
-    "wof:lastmodified":1637709071,
+    "wof:lastmodified":1639040077,
     "wof:name":"Lusk",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:population":7022,
     "wof:population_rank":5,

@@ -20,16 +20,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751737,
+        1746652117,
+        1746652171
+    ],
     "wof:breaches":[],
     "wof:country":"IE",
     "wof:created":1638316525,
     "wof:geomhash":"b55afd90cd0abb486581cb1693c4b324",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652117,
+            "locality_id":101751737,
+            "neighbourhood_id":1746761209,
+            "region_id":1746652171
+        }
+    ],
     "wof:id":1746761209,
-    "wof:lastmodified":1638316525,
+    "wof:lastmodified":1639045346,
     "wof:name":"Cobra East",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

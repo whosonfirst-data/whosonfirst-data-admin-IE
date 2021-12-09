@@ -63,7 +63,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Cork",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963,
+        1746652153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962927,
@@ -74,7 +79,15 @@
     "wof:country":"IE",
     "wof:created":1637371119,
     "wof:geomhash":"8e85ce19b414c90bf38c9b15f907650c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652153,
+            "locality_id":1746658689,
+            "region_id":85684963
+        }
+    ],
     "wof:id":1746658689,
     "wof:lang_x_official":[
         "eng",
@@ -84,9 +97,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709073,
+    "wof:lastmodified":1639042705,
     "wof:name":"Liscarroll",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":230,
     "wof:population_rank":2,

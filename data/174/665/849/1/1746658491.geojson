@@ -21,7 +21,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081,
+        1746652099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":11016
@@ -29,7 +34,15 @@
     "wof:country":"IE",
     "wof:created":1637370986,
     "wof:geomhash":"465f89fb1b28799bbede2a0477a4740c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652099,
+            "locality_id":1746658491,
+            "region_id":85685081
+        }
+    ],
     "wof:id":1746658491,
     "wof:lang_x_official":[
         "eng",
@@ -39,9 +52,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637370986,
+    "wof:lastmodified":1639042622,
     "wof:name":"An Uaimh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

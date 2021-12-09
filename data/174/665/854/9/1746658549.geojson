@@ -64,7 +64,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Tipperary",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20073964,
@@ -74,7 +79,15 @@
     "wof:country":"IE",
     "wof:created":1637371026,
     "wof:geomhash":"3852015fe1ebcb396735588ed6f5ded5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652157,
+            "locality_id":1746658549,
+            "region_id":1159294375
+        }
+    ],
     "wof:id":1746658549,
     "wof:lang_x_official":[
         "eng",
@@ -84,9 +97,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709057,
+    "wof:lastmodified":1639035972,
     "wof:name":"Bansha",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

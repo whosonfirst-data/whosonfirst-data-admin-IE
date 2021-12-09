@@ -136,7 +136,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684953
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -157,6 +158,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":101805865,
             "region_id":85684953
         }
@@ -165,9 +167,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1638408138,
+    "wof:lastmodified":1639039694,
     "wof:name":"Tramore",
-    "wof:parent_id":85684953,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:population":9164,
     "wof:population_rank":5,

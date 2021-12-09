@@ -86,7 +86,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,14 +105,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1125981715,
             "region_id":85685025
         }
     ],
     "wof:id":1125981715,
-    "wof:lastmodified":1637709056,
+    "wof:lastmodified":1639042128,
     "wof:name":"Ballymore Eustace",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":872,
     "wof:population_rank":2,

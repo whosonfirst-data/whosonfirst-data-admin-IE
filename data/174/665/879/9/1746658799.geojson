@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1746652171,
+        1746652091
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":4019
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371186,
     "wof:geomhash":"4265a841a9ec2017486b23f2821729cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652091,
+            "locality_id":1746658799,
+            "region_id":1746652171
+        }
+    ],
     "wof:id":1746658799,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371186,
+    "wof:lastmodified":1639035915,
     "wof:name":"Kinsaley",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e40b9779b44f7b57ba1320496b7a2743",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209042785
+            "county_id":1746652123,
+            "locality_id":1209042785,
+            "region_id":85685133
         }
     ],
     "wof:id":1209042785,
-    "wof:lastmodified":1566679910,
+    "wof:lastmodified":1639043700,
     "wof:name":"Slievenakilla",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

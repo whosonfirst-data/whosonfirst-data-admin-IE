@@ -72,7 +72,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684999
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,14 +89,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":1225880753,
             "region_id":85684999
         }
     ],
     "wof:id":1225880753,
-    "wof:lastmodified":1637370991,
+    "wof:lastmodified":1639038702,
     "wof:name":"Rathnew",
-    "wof:parent_id":85684999,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":2964,
     "wof:population_rank":4,

@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,14 +77,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":1276479609,
             "region_id":85684963
         }
     ],
     "wof:id":1276479609,
-    "wof:lastmodified":1637371179,
+    "wof:lastmodified":1639036847,
     "wof:name":"Killavullen",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":257,
     "wof:population_rank":2,

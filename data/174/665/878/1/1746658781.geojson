@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":33019
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"2e7bbe3c4d920dcb7a5d3338f6ec4a5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
+            "locality_id":1746658781,
+            "region_id":85685151
+        }
+    ],
     "wof:id":1746658781,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408130,
+    "wof:lastmodified":1639042182,
     "wof:name":"Gleann Cholm Cille",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -74,7 +74,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Roscommon",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113,
+        1746652133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964212,
@@ -85,7 +90,15 @@
     "wof:country":"IE",
     "wof:created":1637371046,
     "wof:geomhash":"1001e7efa65acd29e5889e5542f128c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652133,
+            "locality_id":1746658581,
+            "region_id":85685113
+        }
+    ],
     "wof:id":1746658581,
     "wof:lang_x_official":[
         "eng",
@@ -95,9 +108,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709068,
+    "wof:lastmodified":1639041783,
     "wof:name":"Frenchpark",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:population":420,
     "wof:population_rank":2,

@@ -21,7 +21,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685005,
+        1746652089
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":8012
@@ -29,7 +34,15 @@
     "wof:country":"IE",
     "wof:created":1637370987,
     "wof:geomhash":"7bf419eb07516e5d7be76362ad7c396a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652089,
+            "locality_id":1746658493,
+            "region_id":85685005
+        }
+    ],
     "wof:id":1746658493,
     "wof:lang_x_official":[
         "eng",
@@ -39,9 +52,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637370987,
+    "wof:lastmodified":1639042630,
     "wof:name":"Portlaoise",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

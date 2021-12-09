@@ -62,7 +62,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Longford",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685091,
+        1746652103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966763,
@@ -73,7 +78,15 @@
     "wof:country":"IE",
     "wof:created":1637371056,
     "wof:geomhash":"3209257fbdece9fd2202456f2bb39f0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652103,
+            "locality_id":1746658597,
+            "region_id":85685091
+        }
+    ],
     "wof:id":1746658597,
     "wof:lang_x_official":[
         "eng",
@@ -83,9 +96,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709075,
+    "wof:lastmodified":1639042677,
     "wof:name":"Ballinalee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652103,
     "wof:placetype":"locality",
     "wof:population":308,
     "wof:population_rank":2,

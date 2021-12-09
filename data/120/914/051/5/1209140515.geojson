@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"e6ac04f998c86a73b5b02e20dfa4c1cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209140515
+            "county_id":1746652105,
+            "locality_id":1209140515,
+            "region_id":85685037
         }
     ],
     "wof:id":1209140515,
-    "wof:lastmodified":1566679896,
+    "wof:lastmodified":1639034834,
     "wof:name":"The Hand Cross Roads",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

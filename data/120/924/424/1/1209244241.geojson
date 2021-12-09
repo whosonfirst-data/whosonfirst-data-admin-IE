@@ -71,7 +71,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +84,17 @@
     "wof:geomhash":"5080aa8eb0df166f43c612e459582906",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209244241
+            "county_id":1746652119,
+            "locality_id":1209244241,
+            "region_id":85685025
         }
     ],
     "wof:id":1209244241,
-    "wof:lastmodified":1566679877,
+    "wof:lastmodified":1639045213,
     "wof:name":"Kilrush",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

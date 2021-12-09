@@ -86,7 +86,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685037
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,14 +103,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652105,
             "locality_id":1126016929,
             "region_id":85685037
         }
     ],
     "wof:id":1126016929,
-    "wof:lastmodified":1637700848,
+    "wof:lastmodified":1639044415,
     "wof:name":"Kilfeakle",
-    "wof:parent_id":85685037,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:population":113,
     "wof:population_rank":1,

@@ -52,7 +52,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +68,17 @@
     "wof:geomhash":"762c060eb8239a2ae527a2b00f18e863",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209351047
+            "county_id":1746652155,
+            "locality_id":1209351047,
+            "region_id":85684979
         }
     ],
     "wof:id":1209351047,
-    "wof:lastmodified":1637371116,
+    "wof:lastmodified":1639040857,
     "wof:name":"Moneenroe",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:population":761,
     "wof:population_rank":2,

@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1159294375
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652157,
             "locality_id":1125961259,
             "region_id":1159294375
         }
     ],
     "wof:id":1125961259,
-    "wof:lastmodified":1566680281,
+    "wof:lastmodified":1639036843,
     "wof:name":"Nenagh Bridge",
-    "wof:parent_id":1159294375,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:population":6672,
     "wof:population_rank":5,

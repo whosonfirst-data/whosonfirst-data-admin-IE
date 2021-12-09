@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1276479659,
             "region_id":85685025
         }
     ],
     "wof:id":1276479659,
-    "wof:lastmodified":1566679817,
+    "wof:lastmodified":1639044366,
     "wof:name":"Dysart",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

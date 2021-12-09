@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":23030
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371200,
     "wof:geomhash":"f886c0973c4a51c4aebd836e38523b07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652157,
+            "locality_id":1746658829,
+            "region_id":1159294375
+        }
+    ],
     "wof:id":1746658829,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371200,
+    "wof:lastmodified":1639035509,
     "wof:name":"Boherlahan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

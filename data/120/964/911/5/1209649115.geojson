@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685133,
+        1746652123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"eb483c4597f06518512580768820228c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209649115
+            "county_id":1746652123,
+            "locality_id":1209649115,
+            "region_id":85685133
         }
     ],
     "wof:id":1209649115,
-    "wof:lastmodified":1566679869,
+    "wof:lastmodified":1639035335,
     "wof:name":"Arderry",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

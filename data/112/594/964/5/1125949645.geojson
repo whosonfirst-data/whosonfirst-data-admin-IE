@@ -93,7 +93,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2963861,
@@ -109,16 +114,17 @@
     "wof:geomhash":"752534aa59370a01ecf2962c87b49d9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":1125949645,
-            "region_id":-1
+            "region_id":85685151
         }
     ],
     "wof:id":1125949645,
-    "wof:lastmodified":1638408132,
+    "wof:lastmodified":1639034804,
     "wof:name":"Greencastle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":817,
     "wof:population_rank":2,

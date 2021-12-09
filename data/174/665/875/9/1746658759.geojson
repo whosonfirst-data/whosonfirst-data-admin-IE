@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025,
+        1746652119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":6033
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371160,
     "wof:geomhash":"097057efe180119d07b5f733e1c5ea95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652119,
+            "locality_id":1746658759,
+            "region_id":85685025
+        }
+    ],
     "wof:id":1746658759,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371160,
+    "wof:lastmodified":1639036043,
     "wof:name":"Ballyroe",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"cd84fa4662cd219a46c1575e77372a68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209350599
+            "county_id":1746652157,
+            "locality_id":1209350599,
+            "region_id":1159294375
         }
     ],
     "wof:id":1209350599,
-    "wof:lastmodified":1566679903,
+    "wof:lastmodified":1639037265,
     "wof:name":"Kilmoyler Cross Roads",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

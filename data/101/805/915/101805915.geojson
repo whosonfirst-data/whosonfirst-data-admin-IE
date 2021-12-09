@@ -110,7 +110,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -129,14 +130,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":101805915,
             "region_id":85684963
         }
     ],
     "wof:id":101805915,
-    "wof:lastmodified":1637370989,
+    "wof:lastmodified":1639040176,
     "wof:name":"Skibbereen",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":2098,
     "wof:population_rank":4,

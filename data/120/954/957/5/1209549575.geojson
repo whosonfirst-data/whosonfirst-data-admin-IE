@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685125,
+        1746652135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"6831d25a291ba1f855afe70a5097668f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209549575
+            "county_id":1746652135,
+            "locality_id":1209549575,
+            "region_id":85685125
         }
     ],
     "wof:id":1209549575,
-    "wof:lastmodified":1566679860,
+    "wof:lastmodified":1639044237,
     "wof:name":"Derrygoss",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

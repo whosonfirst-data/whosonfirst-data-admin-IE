@@ -107,7 +107,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684991
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,6 +128,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652145,
             "locality_id":101806023,
             "region_id":85684991
         }
@@ -135,9 +137,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709044,
+    "wof:lastmodified":1639038794,
     "wof:name":"Castleisland",
-    "wof:parent_id":85684991,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:population":2513,
     "wof:population_rank":4,

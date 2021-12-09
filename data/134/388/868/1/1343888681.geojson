@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685009
+        1746652171,
+        1746652101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652101,
             "locality_id":1343888681,
-            "region_id":85685009
+            "region_id":1746652171
         }
     ],
     "wof:id":1343888681,
-    "wof:lastmodified":1566679508,
+    "wof:lastmodified":1639037559,
     "wof:name":"Belgard",
-    "wof:parent_id":85685009,
+    "wof:parent_id":1746652101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

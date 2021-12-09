@@ -84,7 +84,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685097
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,14 +101,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652111,
             "locality_id":1125896051,
             "region_id":85685097
         }
     ],
     "wof:id":1125896051,
-    "wof:lastmodified":1566680225,
+    "wof:lastmodified":1639038056,
     "wof:name":"Cleggan",
-    "wof:parent_id":85685097,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

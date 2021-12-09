@@ -52,7 +52,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684979
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,14 +66,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652155,
             "locality_id":1326863681,
             "region_id":85684979
         }
     ],
     "wof:id":1326863681,
-    "wof:lastmodified":1566679346,
+    "wof:lastmodified":1639044047,
     "wof:name":"Windgap",
-    "wof:parent_id":85684979,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

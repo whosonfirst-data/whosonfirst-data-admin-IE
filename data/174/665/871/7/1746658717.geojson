@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991,
+        1746652145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":19007
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"e49791b6e0531fb0b05bcf3b47f304bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652145,
+            "locality_id":1746658717,
+            "region_id":85684991
+        }
+    ],
     "wof:id":1746658717,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408139,
+    "wof:lastmodified":1639036087,
     "wof:name":"Dingle-Daingean U\u00ed Chuis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

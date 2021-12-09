@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":27006
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"f2769c964d92654217b38f550cca68bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658751,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658751,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408125,
+    "wof:lastmodified":1639041799,
     "wof:name":"Cill R\u00f3n\u00e1in",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

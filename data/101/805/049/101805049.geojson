@@ -101,7 +101,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,6 +122,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652125,
             "locality_id":101805049,
             "region_id":85685145
         }
@@ -129,9 +131,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371077,
+    "wof:lastmodified":1639035314,
     "wof:name":"Kiltimagh",
-    "wof:parent_id":85685145,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:population":1127,
     "wof:population_rank":3,

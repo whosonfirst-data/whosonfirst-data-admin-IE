@@ -130,7 +130,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1159294375
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,14 +143,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652157,
             "locality_id":1293327699,
             "region_id":1159294375
         }
     ],
     "wof:id":1293327699,
-    "wof:lastmodified":1566679742,
+    "wof:lastmodified":1639039530,
     "wof:name":"Milestone",
-    "wof:parent_id":1159294375,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

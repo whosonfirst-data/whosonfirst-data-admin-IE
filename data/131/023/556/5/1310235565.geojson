@@ -82,7 +82,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685005
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -94,14 +95,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652089,
             "locality_id":1310235565,
             "region_id":85685005
         }
     ],
     "wof:id":1310235565,
-    "wof:lastmodified":1566680000,
+    "wof:lastmodified":1639039664,
     "wof:name":"Drummond",
-    "wof:parent_id":85685005,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -50,7 +50,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +63,17 @@
     "wof:geomhash":"e8c83e69debeb7d715850821c191717d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209649937
+            "county_id":1746652105,
+            "locality_id":1209649937,
+            "region_id":85685037
         }
     ],
     "wof:id":1209649937,
-    "wof:lastmodified":1566679868,
+    "wof:lastmodified":1639044428,
     "wof:name":"Oldtown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

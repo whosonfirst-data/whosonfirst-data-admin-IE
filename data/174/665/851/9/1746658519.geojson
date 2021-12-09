@@ -92,7 +92,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Wicklow",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684999,
+        1746652151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966101,
@@ -103,7 +108,15 @@
     "wof:country":"IE",
     "wof:created":1637371008,
     "wof:geomhash":"e0badc6679d06cf7acb6ccf67464f96b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652151,
+            "locality_id":1746658519,
+            "region_id":85684999
+        }
+    ],
     "wof:id":1746658519,
     "wof:lang_x_official":[
         "eng",
@@ -113,9 +126,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709071,
+    "wof:lastmodified":1639035993,
     "wof:name":"Blessington",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":5010,
     "wof:population_rank":5,

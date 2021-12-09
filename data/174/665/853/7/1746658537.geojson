@@ -182,7 +182,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Tipperary",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20074080,
@@ -192,7 +197,15 @@
     "wof:country":"IE",
     "wof:created":1637371019,
     "wof:geomhash":"b2db58be3733280a4cf38f602f61086a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652157,
+            "locality_id":1746658537,
+            "region_id":1159294375
+        }
+    ],
     "wof:id":1746658537,
     "wof:lang_x_official":[
         "eng",
@@ -202,9 +215,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709057,
+    "wof:lastmodified":1639042630,
     "wof:name":"Newport",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

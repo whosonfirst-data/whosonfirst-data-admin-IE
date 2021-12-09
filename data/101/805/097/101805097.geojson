@@ -135,7 +135,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685151
+        85685151,
+        1746652121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -156,6 +157,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652121,
             "locality_id":101805097,
             "region_id":85685151
         }
@@ -164,9 +166,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1638408131,
+    "wof:lastmodified":1639039365,
     "wof:name":"Moville",
-    "wof:parent_id":85685151,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":1481,
     "wof:population_rank":3,

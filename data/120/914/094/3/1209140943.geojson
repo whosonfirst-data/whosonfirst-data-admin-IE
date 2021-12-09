@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"5813f6a336fc447398a76780b58f33bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209140943
+            "county_id":1746652155,
+            "locality_id":1209140943,
+            "region_id":85684979
         }
     ],
     "wof:id":1209140943,
-    "wof:lastmodified":1566679896,
+    "wof:lastmodified":1639044614,
     "wof:name":"Danesfort",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

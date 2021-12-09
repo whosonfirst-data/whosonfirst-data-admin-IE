@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684953
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":1326666237,
             "region_id":85684953
         }
     ],
     "wof:id":1326666237,
-    "wof:lastmodified":1566679370,
+    "wof:lastmodified":1639040670,
     "wof:name":"Ballintaylor Lower",
-    "wof:parent_id":85684953,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

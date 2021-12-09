@@ -122,7 +122,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -143,14 +144,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":101804845,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":101804845,
-    "wof:lastmodified":1638408141,
+    "wof:lastmodified":1639039309,
     "wof:name":"Balbriggan",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:population":23364,
     "wof:population_rank":7,

@@ -77,7 +77,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Cavan",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685125,
+        1746652135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2961497,
@@ -88,7 +93,15 @@
     "wof:country":"IE",
     "wof:created":1637371167,
     "wof:geomhash":"5611b8b267529ac5aac5375b6318db7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652135,
+            "locality_id":1746658767,
+            "region_id":85685125
+        }
+    ],
     "wof:id":1746658767,
     "wof:lang_x_official":[
         "eng",
@@ -98,9 +111,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709062,
+    "wof:lastmodified":1639035971,
     "wof:name":"Shercock",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652135,
     "wof:placetype":"locality",
     "wof:population":531,
     "wof:population_rank":2,

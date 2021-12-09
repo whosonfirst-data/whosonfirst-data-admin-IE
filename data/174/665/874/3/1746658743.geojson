@@ -73,7 +73,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Dublin",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        1746652171,
+        1746652107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20072168,
@@ -83,7 +88,15 @@
     "wof:country":"IE",
     "wof:created":1637371151,
     "wof:geomhash":"06ac6dd48e0274f9ee6b08cff8dbaf46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652107,
+            "locality_id":1746658743,
+            "region_id":1746652171
+        }
+    ],
     "wof:id":1746658743,
     "wof:lang_x_official":[
         "eng",
@@ -93,9 +106,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709045,
+    "wof:lastmodified":1639042657,
     "wof:name":"Glencullen",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

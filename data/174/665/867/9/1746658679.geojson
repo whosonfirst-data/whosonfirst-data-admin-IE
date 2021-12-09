@@ -81,7 +81,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Galway",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962606,
@@ -92,7 +97,15 @@
     "wof:country":"IE",
     "wof:created":1637371114,
     "wof:geomhash":"a3ec2780347fdeaca0c03fd9e76b1a7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658679,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658679,
     "wof:lang_x_official":[
         "eng",
@@ -102,9 +115,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709067,
+    "wof:lastmodified":1639042682,
     "wof:name":"Milltown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":199,
     "wof:population_rank":1,

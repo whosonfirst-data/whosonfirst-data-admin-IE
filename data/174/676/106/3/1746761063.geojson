@@ -20,16 +20,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751743,
+        1746652109,
+        85685097
+    ],
     "wof:breaches":[],
     "wof:country":"IE",
     "wof:created":1638316469,
     "wof:geomhash":"1bfa21e1be96fde62c0d2f6430559adc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652109,
+            "locality_id":101751743,
+            "neighbourhood_id":1746761063,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746761063,
-    "wof:lastmodified":1638316469,
+    "wof:lastmodified":1639045324,
     "wof:name":"Moneenageisha",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

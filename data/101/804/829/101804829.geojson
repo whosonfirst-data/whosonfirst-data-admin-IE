@@ -159,7 +159,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685041
+        85685041,
+        1746652115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -179,14 +180,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652115,
             "locality_id":101804829,
             "region_id":85685041
         }
     ],
     "wof:id":101804829,
-    "wof:lastmodified":1637370990,
+    "wof:lastmodified":1639035054,
     "wof:name":"Tullamore",
-    "wof:parent_id":85685041,
+    "wof:parent_id":1746652115,
     "wof:placetype":"locality",
     "wof:population":11575,
     "wof:population_rank":6,

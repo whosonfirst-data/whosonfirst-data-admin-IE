@@ -45,7 +45,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"057945117b1a340f12e3fa73cee8ec9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345169
+            "county_id":1746652137,
+            "locality_id":1209345169,
+            "region_id":85684967
         }
     ],
     "wof:id":1209345169,
-    "wof:lastmodified":1566679918,
+    "wof:lastmodified":1639037661,
     "wof:name":"Castletown",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:population":1195,
     "wof:population_rank":3,

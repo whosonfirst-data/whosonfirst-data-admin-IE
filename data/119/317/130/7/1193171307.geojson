@@ -94,7 +94,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685117
+        85685117,
+        1746652127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,14 +107,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652127,
             "locality_id":1193171307,
             "region_id":85685117
         }
     ],
     "wof:id":1193171307,
-    "wof:lastmodified":1566679963,
+    "wof:lastmodified":1639037164,
     "wof:name":"The Rock",
-    "wof:parent_id":85685117,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

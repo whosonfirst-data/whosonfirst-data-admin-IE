@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"75d06c67b0090d4e3a9aa15569cb1da2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209043041
+            "county_id":1746652145,
+            "locality_id":1209043041,
+            "region_id":85684991
         }
     ],
     "wof:id":1209043041,
-    "wof:lastmodified":1566679909,
+    "wof:lastmodified":1639036789,
     "wof:name":"Garraun",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

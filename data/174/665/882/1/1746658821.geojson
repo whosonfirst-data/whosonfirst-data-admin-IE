@@ -65,7 +65,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Donegal",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685151,
+        1746652121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962707,
@@ -76,7 +81,15 @@
     "wof:country":"IE",
     "wof:created":1637371197,
     "wof:geomhash":"3af810c2663d67e077234584820251a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652121,
+            "locality_id":1746658821,
+            "region_id":85685151
+        }
+    ],
     "wof:id":1746658821,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709063,
+    "wof:lastmodified":1639042644,
     "wof:name":"Manorcunningham",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652121,
     "wof:placetype":"locality",
     "wof:population":643,
     "wof:population_rank":2,

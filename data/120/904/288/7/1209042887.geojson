@@ -79,7 +79,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +96,17 @@
     "wof:geomhash":"9b7fae8ada3ccea006f2895bb53fe125",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209042887
+            "county_id":1746652125,
+            "locality_id":1209042887,
+            "region_id":85685145
         }
     ],
     "wof:id":1209042887,
-    "wof:lastmodified":1637371054,
+    "wof:lastmodified":1639042033,
     "wof:name":"Foxford",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:population":1326,
     "wof:population_rank":3,

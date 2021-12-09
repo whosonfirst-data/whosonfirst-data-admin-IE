@@ -56,7 +56,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1159294375
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +72,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652157,
             "locality_id":1276694713,
             "region_id":1159294375
         }
     ],
     "wof:id":1276694713,
-    "wof:lastmodified":1637371017,
+    "wof:lastmodified":1639044231,
     "wof:name":"Toomevara",
-    "wof:parent_id":1159294375,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:population":311,
     "wof:population_rank":2,

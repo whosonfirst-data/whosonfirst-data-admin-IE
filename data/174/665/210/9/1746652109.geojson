@@ -43,7 +43,7 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685055
+        85685097
     ],
     "wof:breaches":[],
     "wof:coterminous":[
@@ -57,7 +57,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652109,
-            "region_id":85685055
+            "region_id":85685097
         }
     ],
     "wof:id":1746652109,
@@ -69,9 +69,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638308937,
+    "wof:lastmodified":1639034619,
     "wof:name":"Galway City",
-    "wof:parent_id":85633241,
+    "wof:parent_id":85685097,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

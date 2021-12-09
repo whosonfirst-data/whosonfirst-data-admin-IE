@@ -43,7 +43,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Galway",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20072492,
@@ -53,7 +58,15 @@
     "wof:country":"IE",
     "wof:created":1637371129,
     "wof:geomhash":"69d3c0ee70e2e6ba60685f6448770218",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658705,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658705,
     "wof:lang_x_official":[
         "eng",
@@ -63,9 +76,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709065,
+    "wof:lastmodified":1639036000,
     "wof:name":"Lackaghbeg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

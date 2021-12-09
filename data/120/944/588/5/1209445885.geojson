@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685087,
+        1746652093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"700606616d62a5e85c935b548a762671",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209445885
+            "county_id":1746652093,
+            "locality_id":1209445885,
+            "region_id":85685087
         }
     ],
     "wof:id":1209445885,
-    "wof:lastmodified":1566679931,
+    "wof:lastmodified":1639038702,
     "wof:name":"Martin's Cross",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

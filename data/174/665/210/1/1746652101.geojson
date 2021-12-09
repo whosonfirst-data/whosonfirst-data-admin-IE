@@ -267,7 +267,7 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685009
+        1746652171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -285,7 +285,7 @@
             "continent_id":102191581,
             "country_id":85633241,
             "county_id":1746652101,
-            "region_id":85685009
+            "region_id":1746652171
         }
     ],
     "wof:id":1746652101,
@@ -297,9 +297,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637697395,
+    "wof:lastmodified":1639034589,
     "wof:name":"South Dublin",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652171,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:shortcode":"DN",

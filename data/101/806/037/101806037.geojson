@@ -134,7 +134,10 @@
     "src:population":"geonames",
     "wd:wordcount":2213,
     "wof:belongsto":[
-        102191581
+        102191581,
+        85633241,
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,18 +157,19 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":101806037,
-            "region_id":-1
+            "region_id":85684999
         }
     ],
     "wof:id":101806037,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1638408140,
+    "wof:lastmodified":1639041069,
     "wof:name":"Arklow",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":11761,
     "wof:population_rank":6,

@@ -65,7 +65,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Clare",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037,
+        1746652105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2961980,
@@ -76,7 +81,15 @@
     "wof:country":"IE",
     "wof:created":1637371142,
     "wof:geomhash":"22c1ebf8e37d0e560f2e9032377092a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652105,
+            "locality_id":1746658731,
+            "region_id":85685037
+        }
+    ],
     "wof:id":1746658731,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709044,
+    "wof:lastmodified":1639041776,
     "wof:name":"Quin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:population":935,
     "wof:population_rank":2,

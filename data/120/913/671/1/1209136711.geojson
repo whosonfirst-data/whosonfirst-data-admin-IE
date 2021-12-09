@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"548c436473c2819395e09ca9d743f322",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209136711
+            "county_id":1746652129,
+            "locality_id":1209136711,
+            "region_id":85685137
         }
     ],
     "wof:id":1209136711,
-    "wof:lastmodified":1566679891,
+    "wof:lastmodified":1639038195,
     "wof:name":"Cloonkeevy",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

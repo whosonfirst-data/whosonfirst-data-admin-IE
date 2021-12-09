@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"9f88c6068acca2ab67cbad3d6e4a545a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209448673
+            "county_id":1746652137,
+            "locality_id":1209448673,
+            "region_id":85684967
         }
     ],
     "wof:id":1209448673,
-    "wof:lastmodified":1566679931,
+    "wof:lastmodified":1639036640,
     "wof:name":"Mervyn",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

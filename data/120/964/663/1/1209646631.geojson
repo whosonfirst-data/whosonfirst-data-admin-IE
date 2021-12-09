@@ -98,7 +98,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        1159294375,
+        1746652157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,14 +111,17 @@
     "wof:geomhash":"1a669ef12e2223ffc9d45cbbe73749ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209646631
+            "county_id":1746652157,
+            "locality_id":1209646631,
+            "region_id":1159294375
         }
     ],
     "wof:id":1209646631,
-    "wof:lastmodified":1566679868,
+    "wof:lastmodified":1639041631,
     "wof:name":"Youghal",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

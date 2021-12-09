@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685137,
+        1746652129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"3bb0450f1b2c0d68d090a2508a942867",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209035283
+            "county_id":1746652129,
+            "locality_id":1209035283,
+            "region_id":85685137
         }
     ],
     "wof:id":1209035283,
-    "wof:lastmodified":1566679905,
+    "wof:lastmodified":1639037132,
     "wof:name":"Mullany's Cross",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

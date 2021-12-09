@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685081,
+        1746652099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"5e6487d1f91bf611d4bc27450fcbd123",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209546193
+            "county_id":1746652099,
+            "locality_id":1209546193,
+            "region_id":85685081
         }
     ],
     "wof:id":1209546193,
-    "wof:lastmodified":1637700851,
+    "wof:lastmodified":1639037806,
     "wof:name":"Duncansland",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

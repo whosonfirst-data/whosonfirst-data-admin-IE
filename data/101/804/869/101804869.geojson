@@ -123,7 +123,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685075
+        85685075,
+        1746652097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -144,6 +145,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652097,
             "locality_id":101804869,
             "region_id":85685075
         }
@@ -152,9 +154,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709072,
+    "wof:lastmodified":1639040281,
     "wof:name":"Kinnegad",
-    "wof:parent_id":85685075,
+    "wof:parent_id":1746652097,
     "wof:placetype":"locality",
     "wof:population":2662,
     "wof:population_rank":4,

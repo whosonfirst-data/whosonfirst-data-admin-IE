@@ -274,7 +274,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684953
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -295,14 +296,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652147,
             "locality_id":101805853,
             "region_id":85684953
         }
     ],
     "wof:id":101805853,
-    "wof:lastmodified":1638408138,
+    "wof:lastmodified":1639039749,
     "wof:name":"Waterford",
-    "wof:parent_id":85684953,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:population":46732,
     "wof:population_rank":7,

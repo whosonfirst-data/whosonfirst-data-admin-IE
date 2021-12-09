@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685091
+        85685091,
+        1746652103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652103,
             "locality_id":1310235965,
             "region_id":85685091
         }
     ],
     "wof:id":1310235965,
-    "wof:lastmodified":1637371080,
+    "wof:lastmodified":1639040384,
     "wof:name":"Aughnacliffe",
-    "wof:parent_id":85685091,
+    "wof:parent_id":1746652103,
     "wof:placetype":"locality",
     "wof:population":148,
     "wof:population_rank":1,

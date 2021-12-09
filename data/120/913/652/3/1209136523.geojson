@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684953,
+        1746652147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"46a2a05d474db9e9445aff9c9b790fee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209136523
+            "county_id":1746652147,
+            "locality_id":1209136523,
+            "region_id":85684953
         }
     ],
     "wof:id":1209136523,
-    "wof:lastmodified":1566679891,
+    "wof:lastmodified":1639037594,
     "wof:name":"Kilmacleague Bridge",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

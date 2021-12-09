@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685117
+        85685117,
+        1746652127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652127,
             "locality_id":1226277383,
             "region_id":85685117
         }
     ],
     "wof:id":1226277383,
-    "wof:lastmodified":1637371041,
+    "wof:lastmodified":1639039351,
     "wof:name":"Cabragh",
-    "wof:parent_id":85685117,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:population":159,
     "wof:population_rank":1,

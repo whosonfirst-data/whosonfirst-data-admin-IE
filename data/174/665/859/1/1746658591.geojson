@@ -65,7 +65,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Monaghan",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117,
+        1746652127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964103,
@@ -76,7 +81,15 @@
     "wof:country":"IE",
     "wof:created":1637371051,
     "wof:geomhash":"5c23dbd5f697d68290d1349003f56f00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652127,
+            "locality_id":1746658591,
+            "region_id":85685117
+        }
+    ],
     "wof:id":1746658591,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709074,
+    "wof:lastmodified":1639041442,
     "wof:name":"Glasslough",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:population":348,
     "wof:population_rank":2,

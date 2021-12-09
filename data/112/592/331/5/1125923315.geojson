@@ -94,7 +94,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Sligo",
     "woe:placetype":"Town",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137,
+        1746652129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2962368,
@@ -111,16 +116,17 @@
     "wof:geomhash":"3d6197358b334356b935c6f84554dfa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652129,
             "locality_id":1125923315,
-            "region_id":-1
+            "region_id":85685137
         }
     ],
     "wof:id":1125923315,
-    "wof:lastmodified":1638408128,
+    "wof:lastmodified":1639041275,
     "wof:name":"Mullaghmore",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:population":128,
     "wof:population_rank":1,

@@ -74,7 +74,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Cork",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684963,
+        1746652153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965595,
@@ -85,7 +90,15 @@
     "wof:country":"IE",
     "wof:created":1637371193,
     "wof:geomhash":"004ada29a16f0a4c8d2d6cb91cb1e101",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652153,
+            "locality_id":1746658811,
+            "region_id":85684963
+        }
+    ],
     "wof:id":1746658811,
     "wof:lang_x_official":[
         "eng",
@@ -95,9 +108,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709076,
+    "wof:lastmodified":1639042633,
     "wof:name":"Castlelyons",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":292,
     "wof:population_rank":2,

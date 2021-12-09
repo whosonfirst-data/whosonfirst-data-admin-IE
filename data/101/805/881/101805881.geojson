@@ -127,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,6 +148,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":101805881,
             "region_id":85684963
         }
@@ -155,9 +157,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637371167,
+    "wof:lastmodified":1639035029,
     "wof:name":"Kanturk",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":2263,
     "wof:population_rank":4,

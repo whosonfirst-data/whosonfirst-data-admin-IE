@@ -43,7 +43,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Monaghan",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685117,
+        1746652127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20073618,
@@ -53,7 +58,15 @@
     "wof:country":"IE",
     "wof:created":1637371041,
     "wof:geomhash":"a89001f77f321ebbc91833efd396dd7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652127,
+            "locality_id":1746658571,
+            "region_id":85685117
+        }
+    ],
     "wof:id":1746658571,
     "wof:lang_x_official":[
         "eng",
@@ -63,9 +76,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709073,
+    "wof:lastmodified":1639035807,
     "wof:name":"Bellanode",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

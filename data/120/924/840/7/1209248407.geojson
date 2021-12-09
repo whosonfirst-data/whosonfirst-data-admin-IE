@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685005,
+        1746652089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"2eef9d1e47b08d118f406b68d2ec2cc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209248407
+            "county_id":1746652089,
+            "locality_id":1209248407,
+            "region_id":85685005
         }
     ],
     "wof:id":1209248407,
-    "wof:lastmodified":1566679880,
+    "wof:lastmodified":1639044441,
     "wof:name":"Brockra",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652089,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

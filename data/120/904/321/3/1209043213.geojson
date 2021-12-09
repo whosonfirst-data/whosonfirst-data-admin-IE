@@ -58,7 +58,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +75,17 @@
     "wof:geomhash":"95810d8e9b2026dd852520f9f30613fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209043213
+            "county_id":1746652153,
+            "locality_id":1209043213,
+            "region_id":85684963
         }
     ],
     "wof:id":1209043213,
-    "wof:lastmodified":1637371132,
+    "wof:lastmodified":1639044679,
     "wof:name":"Clondulane",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":333,
     "wof:population_rank":2,

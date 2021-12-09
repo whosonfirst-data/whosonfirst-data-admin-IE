@@ -62,7 +62,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kildare",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025,
+        1746652119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2961938,
@@ -73,7 +78,15 @@
     "wof:country":"IE",
     "wof:created":1637371105,
     "wof:geomhash":"55d6f120fbe1540e3cadc13ba975c81b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652119,
+            "locality_id":1746658663,
+            "region_id":85685025
+        }
+    ],
     "wof:id":1746658663,
     "wof:lang_x_official":[
         "eng",
@@ -83,9 +96,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709074,
+    "wof:lastmodified":1639042635,
     "wof:name":"Rathangan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":2374,
     "wof:population_rank":4,

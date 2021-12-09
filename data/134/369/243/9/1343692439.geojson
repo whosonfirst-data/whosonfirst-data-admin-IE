@@ -91,7 +91,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684999
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,14 +104,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":1343692439,
             "region_id":85684999
         }
     ],
     "wof:id":1343692439,
-    "wof:lastmodified":1566679478,
+    "wof:lastmodified":1639040762,
     "wof:name":"Clara",
-    "wof:parent_id":85684999,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

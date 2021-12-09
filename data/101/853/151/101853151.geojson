@@ -98,7 +98,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,14 +118,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":101853151,
             "region_id":85684967
         }
     ],
     "wof:id":101853151,
-    "wof:lastmodified":1637709046,
+    "wof:lastmodified":1639037995,
     "wof:name":"Kilmore",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

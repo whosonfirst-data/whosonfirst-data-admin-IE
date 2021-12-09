@@ -53,7 +53,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +66,17 @@
     "wof:geomhash":"6b34a15226bcd5ae491bfc715a1a2653",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209448939
+            "county_id":1746652125,
+            "locality_id":1209448939,
+            "region_id":85685145
         }
     ],
     "wof:id":1209448939,
-    "wof:lastmodified":1566679931,
+    "wof:lastmodified":1639034704,
     "wof:name":"Maum",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

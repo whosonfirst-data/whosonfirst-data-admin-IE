@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652125,
             "locality_id":1125866735,
             "region_id":85685145
         }
     ],
     "wof:id":1125866735,
-    "wof:lastmodified":1566680206,
+    "wof:lastmodified":1639043856,
     "wof:name":"Glencorrib",
-    "wof:parent_id":85685145,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

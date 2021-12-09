@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987,
+        1746652141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":35018
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371189,
     "wof:geomhash":"413be1af1bcbf56c00ae955795496d34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652141,
+            "locality_id":1746658805,
+            "region_id":85684987
+        }
+    ],
     "wof:id":1746658805,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371189,
+    "wof:lastmodified":1639035510,
     "wof:name":"O'Briensbridge-Montpelier",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

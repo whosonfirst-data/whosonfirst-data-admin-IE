@@ -65,7 +65,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685025
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +82,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652119,
             "locality_id":1243293239,
             "region_id":85685025
         }
     ],
     "wof:id":1243293239,
-    "wof:lastmodified":1637371113,
+    "wof:lastmodified":1639044171,
     "wof:name":"Suncroft",
-    "wof:parent_id":85685025,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:population":735,
     "wof:population_rank":2,

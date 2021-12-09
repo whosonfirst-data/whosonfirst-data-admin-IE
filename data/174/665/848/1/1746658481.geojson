@@ -21,7 +21,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685025,
+        1746652119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":6019
@@ -29,7 +34,15 @@
     "wof:country":"IE",
     "wof:created":1637370980,
     "wof:geomhash":"56cc8a63120298742b5daa96c53e444a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652119,
+            "locality_id":1746658481,
+            "region_id":85685025
+        }
+    ],
     "wof:id":1746658481,
     "wof:lang_x_official":[
         "eng",
@@ -39,9 +52,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637370980,
+    "wof:lastmodified":1639035903,
     "wof:name":"Newbridge",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

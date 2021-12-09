@@ -70,7 +70,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,14 +87,17 @@
     "wof:geomhash":"fa0626d298610b09b50063b6652c3fe6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209035897
+            "county_id":1746652125,
+            "locality_id":1209035897,
+            "region_id":85685145
         }
     ],
     "wof:id":1209035897,
-    "wof:lastmodified":1637371069,
+    "wof:lastmodified":1639043673,
     "wof:name":"Ballindine",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:population":350,
     "wof:population_rank":2,

@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684987
+        85684987,
+        1746652141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652141,
             "locality_id":1242808621,
             "region_id":85684987
         }
     ],
     "wof:id":1242808621,
-    "wof:lastmodified":1566680338,
+    "wof:lastmodified":1639038073,
     "wof:name":"Ballybrood",
-    "wof:parent_id":85684987,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

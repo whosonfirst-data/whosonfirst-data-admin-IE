@@ -20,16 +20,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        101751743,
+        1746652109,
+        85685097
+    ],
     "wof:breaches":[],
     "wof:country":"IE",
     "wof:created":1638316477,
     "wof:geomhash":"a3916dda1cb601332a863282ca957a66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652109,
+            "locality_id":101751743,
+            "neighbourhood_id":1746761083,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746761083,
-    "wof:lastmodified":1638316477,
+    "wof:lastmodified":1639045361,
     "wof:name":"Renmore",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751743,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -74,7 +74,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kerry",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991,
+        1746652145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965616,
@@ -85,7 +90,15 @@
     "wof:country":"IE",
     "wof:created":1637371149,
     "wof:geomhash":"8039c30ff18bc6fe76642308337cc3c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652145,
+            "locality_id":1746658741,
+            "region_id":85684991
+        }
+    ],
     "wof:id":1746658741,
     "wof:lang_x_official":[
         "eng",
@@ -95,9 +108,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709045,
+    "wof:lastmodified":1639042642,
     "wof:name":"Castlegregory",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:population":243,
     "wof:population_rank":2,

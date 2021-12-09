@@ -46,7 +46,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Westmeath",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685075,
+        1746652097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20074252,
@@ -56,7 +61,15 @@
     "wof:country":"IE",
     "wof:created":1637370998,
     "wof:geomhash":"45a1eb2c1091f4650fabc2a7d9c3a434",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652097,
+            "locality_id":1746658507,
+            "region_id":85685075
+        }
+    ],
     "wof:id":1746658507,
     "wof:lang_x_official":[
         "eng",
@@ -66,9 +79,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709072,
+    "wof:lastmodified":1639036015,
     "wof:name":"Ballinalack",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

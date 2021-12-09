@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684999
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,6 +120,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":101845619,
             "region_id":85684999
         }
@@ -127,9 +129,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709046,
+    "wof:lastmodified":1639036456,
     "wof:name":"Glenealy",
-    "wof:parent_id":85684999,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":670,
     "wof:population_rank":2,

@@ -100,7 +100,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685037
+        85685037,
+        1746652105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,6 +121,7 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652105,
             "locality_id":101804815,
             "region_id":85685037
         }
@@ -128,9 +130,9 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709065,
+    "wof:lastmodified":1639037492,
     "wof:name":"Sixmilebridge",
-    "wof:parent_id":85685037,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:population":2507,
     "wof:population_rank":4,

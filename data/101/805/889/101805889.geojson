@@ -127,7 +127,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -147,14 +148,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":101805889,
             "region_id":85684963
         }
     ],
     "wof:id":101805889,
-    "wof:lastmodified":1638408135,
+    "wof:lastmodified":1639040025,
     "wof:name":"Youghal",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":6868,
     "wof:population_rank":5,

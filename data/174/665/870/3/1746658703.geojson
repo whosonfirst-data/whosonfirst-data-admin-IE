@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685037,
+        1746652105
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":16035
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371128,
     "wof:geomhash":"8cc59cc3deae8d78ed61043c3a83d191",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652105,
+            "locality_id":1746658703,
+            "region_id":85685037
+        }
+    ],
     "wof:id":1746658703,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371128,
+    "wof:lastmodified":1639041780,
     "wof:name":"Inagh",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652105,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

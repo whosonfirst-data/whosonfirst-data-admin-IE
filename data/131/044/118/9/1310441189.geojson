@@ -68,7 +68,12 @@
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967,
+        1746652137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2963252,
@@ -82,16 +87,17 @@
     "wof:geomhash":"94cdcf3af62d175026a0d4a4a5e34117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1310441189,
-            "region_id":-1
+            "region_id":85684967
         }
     ],
     "wof:id":1310441189,
-    "wof:lastmodified":1638408140,
+    "wof:lastmodified":1639036221,
     "wof:name":"Kilmore Quay",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:population":400,
     "wof:population_rank":2,

@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685081,
+        1746652099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":11013
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"ce3f8a7929b0899c9b282d74f3194752",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652099,
+            "locality_id":1746658569,
+            "region_id":85685081
+        }
+    ],
     "wof:id":1746658569,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408141,
+    "wof:lastmodified":1639036016,
     "wof:name":"Laytown-Bettystown-Mornington-Donacarney",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

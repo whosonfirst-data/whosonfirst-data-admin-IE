@@ -85,7 +85,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684967
+        85684967,
+        1746652137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,14 +98,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652137,
             "locality_id":1310235655,
             "region_id":85684967
         }
     ],
     "wof:id":1310235655,
-    "wof:lastmodified":1566680003,
+    "wof:lastmodified":1639038832,
     "wof:name":"Hermitage",
-    "wof:parent_id":85684967,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

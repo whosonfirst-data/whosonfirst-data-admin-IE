@@ -58,7 +58,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Waterford",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684953,
+        1746652147
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966528,
@@ -69,7 +74,15 @@
     "wof:country":"IE",
     "wof:created":1637371023,
     "wof:geomhash":"937e4c6e3c92507c03843fe1008b2f1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652147,
+            "locality_id":1746658545,
+            "region_id":85684953
+        }
+    ],
     "wof:id":1746658545,
     "wof:lang_x_official":[
         "eng",
@@ -79,9 +92,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709057,
+    "wof:lastmodified":1639035434,
     "wof:name":"Ballymacarbry",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652147,
     "wof:placetype":"locality",
     "wof:population":132,
     "wof:population_rank":1,

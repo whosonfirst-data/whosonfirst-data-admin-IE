@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"619c76de3f9dd84918b5baa943de3969",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209141651
+            "county_id":1746652111,
+            "locality_id":1209141651,
+            "region_id":85685097
         }
     ],
     "wof:id":1209141651,
-    "wof:lastmodified":1566679894,
+    "wof:lastmodified":1639040563,
     "wof:name":"Gortachalla",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

@@ -62,7 +62,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Mayo",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685097,
+        1746652111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2965239,
@@ -73,7 +78,15 @@
     "wof:country":"IE",
     "wof:created":1637371138,
     "wof:geomhash":"bc975038d21ab57904c24b16ac79114a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652111,
+            "locality_id":1746658723,
+            "region_id":85685097
+        }
+    ],
     "wof:id":1746658723,
     "wof:lang_x_official":[
         "eng",
@@ -83,9 +96,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709043,
+    "wof:lastmodified":1639035906,
     "wof:name":"Conga",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:population":178,
     "wof:population_rank":1,

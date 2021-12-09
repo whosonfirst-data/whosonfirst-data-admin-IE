@@ -36,7 +36,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"39f8d75b30fb7ee184e06827b1781a95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209651379
+            "county_id":1746652155,
+            "locality_id":1209651379,
+            "region_id":85684979
         }
     ],
     "wof:id":1209651379,
-    "wof:lastmodified":1637700852,
+    "wof:lastmodified":1639043332,
     "wof:name":"Lawcus",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:population":355,
     "wof:population_rank":2,

@@ -64,7 +64,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684963
+        85684963,
+        1746652153
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,14 +81,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652153,
             "locality_id":1293323835,
             "region_id":85684963
         }
     ],
     "wof:id":1293323835,
-    "wof:lastmodified":1637371132,
+    "wof:lastmodified":1639040884,
     "wof:name":"Glanworth",
-    "wof:parent_id":85684963,
+    "wof:parent_id":1746652153,
     "wof:placetype":"locality",
     "wof:population":547,
     "wof:population_rank":2,

@@ -719,7 +719,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685015
+        1746652171,
+        1746652117
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -749,18 +750,19 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652117,
             "locality_id":101751737,
-            "region_id":85685015
+            "region_id":1746652171
         }
     ],
     "wof:id":101751737,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1638308416,
+    "wof:lastmodified":1639037417,
     "wof:megacity":1,
     "wof:name":"Dublin",
-    "wof:parent_id":85685015,
+    "wof:parent_id":1746652117,
     "wof:placetype":"locality",
     "wof:population":1024027,
     "wof:population_rank":12,

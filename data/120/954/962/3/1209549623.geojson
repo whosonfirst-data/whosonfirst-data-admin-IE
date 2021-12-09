@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684979,
+        1746652155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"3959f7f0bb8216e64158a39e2376273f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209549623
+            "county_id":1746652155,
+            "locality_id":1209549623,
+            "region_id":85684979
         }
     ],
     "wof:id":1209549623,
-    "wof:lastmodified":1566679858,
+    "wof:lastmodified":1639044412,
     "wof:name":"Ryan's Cross Roads",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

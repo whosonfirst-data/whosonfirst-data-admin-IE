@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685087,
+        1746652093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":10002
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371078,
     "wof:geomhash":"b32c37b91bc589e6223fb9229ba7a5a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652093,
+            "locality_id":1746658619,
+            "region_id":85685087
+        }
+    ],
     "wof:id":1746658619,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371078,
+    "wof:lastmodified":1639036000,
     "wof:name":"Castlebellingham-Kilsaran",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652093,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

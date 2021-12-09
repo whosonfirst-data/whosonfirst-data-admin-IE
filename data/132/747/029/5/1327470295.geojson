@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,14 +76,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":1327470295,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":1327470295,
-    "wof:lastmodified":1637371158,
+    "wof:lastmodified":1639038399,
     "wof:name":"Oldtown",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:population":455,
     "wof:population_rank":2,

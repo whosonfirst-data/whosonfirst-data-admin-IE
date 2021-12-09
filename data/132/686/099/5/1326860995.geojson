@@ -56,7 +56,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685015
+        1746652171,
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +70,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652117,
             "locality_id":1326860995,
-            "region_id":85685015
+            "region_id":1746652171
         }
     ],
     "wof:id":1326860995,
-    "wof:lastmodified":1637700867,
+    "wof:lastmodified":1639038143,
     "wof:name":"Killester",
-    "wof:parent_id":85685015,
+    "wof:parent_id":1746652117,
     "wof:placetype":"locality",
     "wof:population":5099,
     "wof:population_rank":5,

@@ -44,16 +44,25 @@
         "Dublin"
     ],
     "src:centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241
+    ],
     "wof:breaches":[],
     "wof:country":"",
     "wof:created":1637270174,
     "wof:geomhash":"f89d3783bd8bf62e11c287813efd58a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "region_id":1746652171
+        }
+    ],
     "wof:id":1746652171,
-    "wof:lastmodified":1637270174,
+    "wof:lastmodified":1639034211,
     "wof:name":"Dublin",
-    "wof:parent_id":-1,
+    "wof:parent_id":85633241,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

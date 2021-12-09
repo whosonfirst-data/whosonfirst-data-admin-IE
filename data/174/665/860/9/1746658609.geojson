@@ -59,7 +59,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Limerick",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684987,
+        1746652141
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2963998,
@@ -70,7 +75,15 @@
     "wof:country":"IE",
     "wof:created":1637371072,
     "wof:geomhash":"90f5abe1a93b078bdcc64b9dc9355005",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652141,
+            "locality_id":1746658609,
+            "region_id":85684987
+        }
+    ],
     "wof:id":1746658609,
     "wof:lang_x_official":[
         "eng",
@@ -80,9 +93,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709069,
+    "wof:lastmodified":1639035970,
     "wof:name":"Glin",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:population":577,
     "wof:population_rank":2,

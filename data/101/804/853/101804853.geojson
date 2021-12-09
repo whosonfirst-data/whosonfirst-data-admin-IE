@@ -94,7 +94,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685045
+        1746652171,
+        1746652091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,14 +113,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652091,
             "locality_id":101804853,
-            "region_id":85685045
+            "region_id":1746652171
         }
     ],
     "wof:id":101804853,
-    "wof:lastmodified":1637709063,
+    "wof:lastmodified":1639040020,
     "wof:name":"Garristown",
-    "wof:parent_id":85685045,
+    "wof:parent_id":1746652091,
     "wof:placetype":"locality",
     "wof:population":433,
     "wof:population_rank":2,

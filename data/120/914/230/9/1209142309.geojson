@@ -41,7 +41,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685025,
+        1746652119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +54,17 @@
     "wof:geomhash":"e44fe08896b89d63cee61298a4df84fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209142309
+            "county_id":1746652119,
+            "locality_id":1209142309,
+            "region_id":85685025
         }
     ],
     "wof:id":1209142309,
-    "wof:lastmodified":1566679895,
+    "wof:lastmodified":1639042895,
     "wof:name":"Lackagh",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

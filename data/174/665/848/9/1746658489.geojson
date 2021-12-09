@@ -21,7 +21,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684975,
+        1746652143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":1008
@@ -29,7 +34,15 @@
     "wof:country":"IE",
     "wof:created":1637370985,
     "wof:geomhash":"7e8b7dd54ad16f02a3b4cf782fb30ff6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652143,
+            "locality_id":1746658489,
+            "region_id":85684975
+        }
+    ],
     "wof:id":1746658489,
     "wof:lang_x_official":[
         "eng",
@@ -39,9 +52,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637370985,
+    "wof:lastmodified":1639042617,
     "wof:name":"Muinebeag",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

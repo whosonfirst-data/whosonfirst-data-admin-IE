@@ -46,7 +46,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685059
+        85685097,
+        1746652111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652111,
             "locality_id":1125878191,
-            "region_id":85685059
+            "region_id":85685097
         }
     ],
     "wof:id":1125878191,
-    "wof:lastmodified":1566680230,
+    "wof:lastmodified":1639037975,
     "wof:name":"Teach Mor",
-    "wof:parent_id":85685059,
+    "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

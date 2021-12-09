@@ -55,7 +55,10 @@
     ],
     "src:population":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85684991,
+        1746652145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,14 +72,17 @@
     "wof:geomhash":"ecd550214b9d4031f33a7a959eeecd6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209345139
+            "county_id":1746652145,
+            "locality_id":1209345139,
+            "region_id":85684991
         }
     ],
     "wof:id":1209345139,
-    "wof:lastmodified":1637371146,
+    "wof:lastmodified":1639037434,
     "wof:name":"Gneevgullia",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:population":256,
     "wof:population_rank":2,

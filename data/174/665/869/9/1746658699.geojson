@@ -53,7 +53,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kerry",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684991,
+        1746652145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2961267,
@@ -64,7 +69,15 @@
     "wof:country":"IE",
     "wof:created":1637371124,
     "wof:geomhash":"2439cdc65fb26ab181cf794a2da80cf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652145,
+            "locality_id":1746658699,
+            "region_id":85684991
+        }
+    ],
     "wof:id":1746658699,
     "wof:lang_x_official":[
         "eng",
@@ -74,9 +87,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709071,
+    "wof:lastmodified":1639035944,
     "wof:name":"Tarbert",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652145,
     "wof:placetype":"locality",
     "wof:population":551,
     "wof:population_rank":2,

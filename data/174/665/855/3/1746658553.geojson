@@ -26,7 +26,12 @@
     ],
     "src:geom_via":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137,
+        1746652129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":31013
@@ -37,7 +42,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"d4d8881d4a1c3205fe0f140ad2d6ee5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652129,
+            "locality_id":1746658553,
+            "region_id":85685137
+        }
+    ],
     "wof:id":1746658553,
     "wof:lang_x_official":[
         "eng",
@@ -47,9 +60,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408127,
+    "wof:lastmodified":1639042728,
     "wof:name":"Strandhill",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

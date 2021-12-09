@@ -22,7 +22,12 @@
     ],
     "src:geom":"ie-gov",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685137,
+        1746652129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ie-gov:id":31021
@@ -30,7 +35,15 @@
     "wof:country":"IE",
     "wof:created":1637371029,
     "wof:geomhash":"11140242d684ed1a30b07745521aa503",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652129,
+            "locality_id":1746658551,
+            "region_id":85685137
+        }
+    ],
     "wof:id":1746658551,
     "wof:lang_x_official":[
         "eng",
@@ -40,9 +53,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637371029,
+    "wof:lastmodified":1639041780,
     "wof:name":"Dromore West",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

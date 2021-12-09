@@ -68,7 +68,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Roscommon",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85685113,
+        1746652133
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2966233,
@@ -79,7 +84,15 @@
     "wof:country":"IE",
     "wof:created":1637371034,
     "wof:geomhash":"9edbb748bfa68fa1fc3aa0fe5883077e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652133,
+            "locality_id":1746658563,
+            "region_id":85685113
+        }
+    ],
     "wof:id":1746658563,
     "wof:lang_x_official":[
         "eng",
@@ -89,9 +102,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637709069,
+    "wof:lastmodified":1639035971,
     "wof:name":"Bellanagare",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652133,
     "wof:placetype":"locality",
     "wof:population":142,
     "wof:population_rank":1,

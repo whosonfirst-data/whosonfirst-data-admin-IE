@@ -62,7 +62,12 @@
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Wexford",
     "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633241,
+        85684967,
+        1746652137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964542,
@@ -76,7 +81,15 @@
         "ie-gov"
     ],
     "wof:geomhash":"5c7bd2eab2a8412afeb1c6e63ca36729",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "county_id":1746652137,
+            "locality_id":1746658831,
+            "region_id":85684967
+        }
+    ],
     "wof:id":1746658831,
     "wof:lang_x_official":[
         "eng",
@@ -86,9 +99,9 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1638408140,
+    "wof:lastmodified":1639041559,
     "wof:name":"Duncormick",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

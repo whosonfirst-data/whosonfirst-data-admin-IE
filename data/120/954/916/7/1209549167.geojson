@@ -32,7 +32,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633241
+        102191581,
+        85633241,
+        85685145,
+        1746652125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,17 @@
     "wof:geomhash":"393ea720c146713f5a3c6269cca56b5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1209549167
+            "county_id":1746652125,
+            "locality_id":1209549167,
+            "region_id":85685145
         }
     ],
     "wof:id":1209549167,
-    "wof:lastmodified":1566679862,
+    "wof:lastmodified":1639039125,
     "wof:name":"Lissaniska",
-    "wof:parent_id":85633241,
+    "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],

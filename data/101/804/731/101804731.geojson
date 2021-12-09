@@ -114,7 +114,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684987
+        85684987,
+        1746652141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -133,14 +134,15 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
+            "county_id":1746652141,
             "locality_id":101804731,
             "region_id":85684987
         }
     ],
     "wof:id":101804731,
-    "wof:lastmodified":1637371080,
+    "wof:lastmodified":1639037252,
     "wof:name":"Askeaton",
-    "wof:parent_id":85684987,
+    "wof:parent_id":1746652141,
     "wof:placetype":"locality",
     "wof:population":1149,
     "wof:population_rank":3,

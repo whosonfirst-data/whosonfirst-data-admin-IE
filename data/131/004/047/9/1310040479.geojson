@@ -33,7 +33,10 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191581
+        102191581,
+        85633241,
+        85684999,
+        1746652151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +47,16 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633241,
+            "county_id":1746652151,
             "locality_id":1310040479,
-            "region_id":-1
+            "region_id":85684999
         }
     ],
     "wof:id":1310040479,
-    "wof:lastmodified":1637700854,
+    "wof:lastmodified":1639034840,
     "wof:name":"Little Bray",
-    "wof:parent_id":-1,
+    "wof:parent_id":1746652151,
     "wof:placetype":"locality",
     "wof:population":8015,
     "wof:population_rank":5,
