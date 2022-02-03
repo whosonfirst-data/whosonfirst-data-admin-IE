@@ -21,6 +21,9 @@
         "Glaslough"
     ],
     "name:eng_x_preferred":[
+        "Glaslough"
+    ],
+    "name:eng_x_variant":[
         "Glasslough"
     ],
     "name:eus_x_preferred":[
@@ -68,15 +71,16 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685117,
-        1746652127
+        1746652127,
+        85685117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2964103,
         "gp:id":20074576,
-        "ie-gov:id":34011,
-        "qs_pg:id":1189736
+        "ie-gov:id":"34011",
+        "qs_pg:id":1189736,
+        "wd:id":"Q59732217"
     },
     "wof:country":"IE",
     "wof:created":1637371051,
@@ -99,8 +103,8 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1642551804,
-    "wof:name":"Glasslough",
+    "wof:lastmodified":1643921728,
+    "wof:name":"Glaslough",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",
     "wof:population":348,
