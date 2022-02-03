@@ -35,6 +35,9 @@
         "Tinryland"
     ],
     "name:eng_x_preferred":[
+        "Tinryland"
+    ],
+    "name:eng_x_variant":[
         "Tinriland"
     ],
     "name:eus_x_preferred":[
@@ -69,12 +72,13 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85684975,
-        1746652143
+        1746652143,
+        85684975
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7869924,
+        "wd:id":"Q2085772",
         "wk:page":"Tinryland"
     },
     "wof:country":"IE",
@@ -92,8 +96,8 @@
         }
     ],
     "wof:id":1225879121,
-    "wof:lastmodified":1639039212,
-    "wof:name":"Tinriland",
+    "wof:lastmodified":1643921473,
+    "wof:name":"Tinryland",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",
     "wof:population":418,
