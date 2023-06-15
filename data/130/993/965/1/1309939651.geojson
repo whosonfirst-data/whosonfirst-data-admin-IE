@@ -28,9 +28,12 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
+        "Aughoose"
+    ],
+    "name:eng_x_variant":[
         "Aghoos"
     ],
     "name:gle_x_preferred":[
@@ -40,8 +43,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        85685145,
-        1746652125
+        1746652125,
+        85685145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +62,8 @@
         }
     ],
     "wof:id":1309939651,
-    "wof:lastmodified":1639042512,
-    "wof:name":"Aghoos",
+    "wof:lastmodified":1686860619,
+    "wof:name":"Aughoose",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
