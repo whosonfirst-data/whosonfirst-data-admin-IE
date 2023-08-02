@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Dalkey"
     ],
+    "name:est_x_preferred":[
+        "Dalkey"
+    ],
     "name:eus_x_preferred":[
         "Dalkey"
     ],
@@ -89,6 +92,12 @@
     ],
     "name:swe_x_preferred":[
         "Dalkey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u043a\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u5c14\u57fa"
     ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
@@ -142,11 +151,11 @@
     "src:population":"geonames",
     "wd:wordcount":1721,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +184,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639045355,
+    "wof:lastmodified":1690931641,
     "wof:name":"Dalkey",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

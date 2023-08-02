@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Hacketstown"
     ],
+    "name:deu_x_preferred":[
+        "Hacketstown"
+    ],
     "name:eng_x_preferred":[
         "Hacketstown"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035313,
+    "wof:lastmodified":1690931866,
     "wof:name":"Hacketstown",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",

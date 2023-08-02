@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Waterville"
     ],
+    "name:epo_x_preferred":[
+        "Waterville"
+    ],
     "name:eus_x_preferred":[
         "Waterville"
     ],
@@ -49,6 +52,9 @@
     "name:ita_x_preferred":[
         "Waterville"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30fc\u30bf\u30fc\u30d3\u30eb"
+    ],
     "name:nld_x_preferred":[
         "Waterville"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:und_x_variant":[
         "Waterville-Spunkane"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u7279\u7dad\u723e"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125923495,
-    "wof:lastmodified":1639041516,
+    "wof:lastmodified":1690931894,
     "wof:name":"Waterville",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

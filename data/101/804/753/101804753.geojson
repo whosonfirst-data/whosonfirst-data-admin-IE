@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Mountrath"
     ],
+    "name:deu_x_preferred":[
+        "Mountrath"
+    ],
     "name:eng_x_preferred":[
         "Mountrath"
     ],
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709075,
+    "wof:lastmodified":1690931829,
     "wof:name":"Mountrath",
     "wof:parent_id":85685005,
     "wof:placetype":"locality",

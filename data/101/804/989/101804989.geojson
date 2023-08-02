@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Castleblayney"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30b9\u30eb\u30d6\u30ec\u30a4\u30cb\u30fc"
+    ],
     "name:lit_x_preferred":[
         "Kaslbleinis"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101804989,
-    "wof:lastmodified":1642551830,
+    "wof:lastmodified":1690931850,
     "wof:name":"Castleblayney",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

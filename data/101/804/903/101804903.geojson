@@ -28,6 +28,12 @@
     "name:ces_x_preferred":[
         "Carlingford"
     ],
+    "name:dan_x_preferred":[
+        "Carlingford"
+    ],
+    "name:deu_x_preferred":[
+        "Carlingford"
+    ],
     "name:eng_x_preferred":[
         "Carlingford"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:gle_x_preferred":[
         "Cairlinn"
+    ],
+    "name:lat_x_preferred":[
+        "Carlingfordia"
     ],
     "name:nld_x_preferred":[
         "Carlingford"
@@ -133,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551733,
+    "wof:lastmodified":1690931842,
     "wof:name":"Carlingford",
     "wof:parent_id":1746652093,
     "wof:placetype":"locality",

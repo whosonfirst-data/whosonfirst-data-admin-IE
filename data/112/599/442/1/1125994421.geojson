@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.207487,53.9863255,-9.207487,53.9863255",
+    "geom:bbox":"-9.207487,53.986325,-9.207487,53.986325",
     "geom:latitude":53.986325,
     "geom:longitude":-9.207487,
     "gn:country":null,
@@ -42,6 +42,9 @@
         "\u10de\u10dd\u10dc\u10e2\u10e3\u10dc\u10d8"
     ],
     "name:nld_x_preferred":[
+        "Pontoon"
+    ],
+    "name:pol_x_preferred":[
         "Pontoon"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +87,7 @@
     },
     "wof:country":"IE",
     "wof:created":1497299225,
-    "wof:geomhash":"f1ea6ee57259cd3b5135a2d6d073ed1a",
+    "wof:geomhash":"946ba02423a33bb6d0dbd48b1a9cf1d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125994421,
-    "wof:lastmodified":1639038006,
+    "wof:lastmodified":1690931913,
     "wof:name":"Pontoon",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",
@@ -106,9 +109,9 @@
 },
   "bbox": [
     -9.207487,
-    53.9863255,
+    53.986325,
     -9.207487,
-    53.9863255
+    53.986325
 ],
-  "geometry": {"coordinates":[-9.207487,53.9863255],"type":"Point"}
+  "geometry": {"coordinates":[-9.207487,53.986325],"type":"Point"}
 }

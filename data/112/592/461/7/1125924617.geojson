@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Newcastle West"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u044e\u043a\u0430\u0441\u044a\u043b \u0423\u0435\u0441\u0442"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1125924617,
-    "wof:lastmodified":1639043785,
+    "wof:lastmodified":1690931894,
     "wof:name":"Newcastle West",
     "wof:parent_id":1746652141,
     "wof:placetype":"locality",

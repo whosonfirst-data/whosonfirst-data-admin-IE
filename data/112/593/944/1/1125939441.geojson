@@ -38,6 +38,12 @@
     "name:eus_x_preferred":[
         "Kilteel"
     ],
+    "name:fra_x_preferred":[
+        "Kilteel"
+    ],
+    "name:gle_x_preferred":[
+        "Cill Ch\u00e9ile"
+    ],
     "name:nld_x_preferred":[
         "Kilteel"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125939441,
-    "wof:lastmodified":1639034801,
+    "wof:lastmodified":1690931892,
     "wof:name":"Kilteel",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

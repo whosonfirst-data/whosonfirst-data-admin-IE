@@ -28,8 +28,14 @@
     "name:eus_x_preferred":[
         "Hugginstown"
     ],
+    "name:fra_x_preferred":[
+        "Hugginstown"
+    ],
     "name:gle_x_preferred":[
         "Baile hUg\u00fain"
+    ],
+    "name:gle_x_variant":[
+        "Baile Hug\u00fain"
     ],
     "name:nld_x_preferred":[
         "Hugginstown"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125918823,
-    "wof:lastmodified":1639040971,
+    "wof:lastmodified":1690931920,
     "wof:name":"Hugginstown",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Monahansc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0648\u0646\u0627\u063a\u0627\u0646"
     ],
@@ -97,6 +100,9 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Monaghan"
     ],
+    "name:frr_x_preferred":[
+        "Monaghan"
+    ],
     "name:gla_x_preferred":[
         "Contae Mhuineach\u00e1in"
     ],
@@ -133,6 +139,9 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30ca\u30cf\u30f3\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30e2\u30ca\u30cf\u30f3\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cae\u0cca\u0ca8\u0cbe\u0c98\u0ca8\u0ccd"
     ],
@@ -141,6 +150,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ub098\ud55c \uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Monaghan"
     ],
     "name:lat_x_preferred":[
         "Comitatus Monaghanus"
@@ -159,6 +171,9 @@
     ],
     "name:msa_x_preferred":[
         "County Monaghan"
+    ],
+    "name:nan_x_preferred":[
+        "Monaghan K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Monaghan"
@@ -231,6 +246,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Monaghan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u7eb3\u4ea8\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7eb3\u4ea8\u90e1"
@@ -362,7 +380,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696588,
+    "wof:lastmodified":1690931696,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

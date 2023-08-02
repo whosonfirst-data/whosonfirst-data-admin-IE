@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Ratqar"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0442\u0445\u0433\u0430\u0440"
     ],
     "name:ceb_x_preferred":[
         "Rathgar"
+    ],
+    "name:crh_x_preferred":[
+        "Ratgar"
     ],
     "name:dan_x_preferred":[
         "Rathgar"
@@ -55,6 +61,9 @@
     "name:glg_x_preferred":[
         "Rathgar"
     ],
+    "name:glv_x_preferred":[
+        "R\u00e1th Garbh"
+    ],
     "name:ita_x_preferred":[
         "Rathgar"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Rathgar"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u52a0"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":1125850135,
-    "wof:lastmodified":1639043776,
+    "wof:lastmodified":1690931928,
     "wof:name":"Rathgar",
     "wof:parent_id":1746652117,
     "wof:placetype":"locality",

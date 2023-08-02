@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Daingean"
     ],
+    "name:deu_x_preferred":[
+        "Daingean"
+    ],
     "name:eng_x_preferred":[
         "Daingean"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044770,
+    "wof:lastmodified":1690931832,
     "wof:name":"Daingean",
     "wof:parent_id":1746652115,
     "wof:placetype":"locality",

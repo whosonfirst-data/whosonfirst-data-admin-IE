@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Newtownmountkennedy"
+    ],
     "name:cat_x_preferred":[
         "Newtownmountkennedy"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125791813,
-    "wof:lastmodified":1639044703,
+    "wof:lastmodified":1690931930,
     "wof:name":"Newtownmountkennedy",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

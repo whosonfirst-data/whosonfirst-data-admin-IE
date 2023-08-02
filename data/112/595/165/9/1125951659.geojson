@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Roundwood"
     ],
+    "name:dan_x_preferred":[
+        "Roundwood"
+    ],
     "name:deu_x_preferred":[
         "Roundwood"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:gle_x_preferred":[
         "An T\u00f3char"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05d5\u05e0\u05d5\u05d5\u05d3"
     ],
     "name:lit_x_preferred":[
         "Raundvudas"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1125951659,
-    "wof:lastmodified":1639042129,
+    "wof:lastmodified":1690931896,
     "wof:name":"Roundwood",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

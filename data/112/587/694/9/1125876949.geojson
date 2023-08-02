@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Stepaside"
     ],
+    "name:fra_x_preferred":[
+        "Stepaside"
+    ],
     "name:gla_x_preferred":[
         "An Ch\u00e9im"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125876949,
-    "wof:lastmodified":1639037738,
+    "wof:lastmodified":1690931911,
     "wof:name":"Stepaside",
     "wof:parent_id":1746652107,
     "wof:placetype":"locality",

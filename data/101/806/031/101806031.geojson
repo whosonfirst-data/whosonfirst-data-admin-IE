@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Wicklow"
+    ],
     "name:bre_x_preferred":[
         "Cill Mhant\u00e1in"
     ],
@@ -46,7 +49,13 @@
     "name:deu_x_preferred":[
         "Wicklow"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03af\u03ba\u03bb\u03bf\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
+        "Wicklow"
+    ],
+    "name:est_x_preferred":[
         "Wicklow"
     ],
     "name:eus_x_preferred":[
@@ -85,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uc704\ud074\ub85c"
     ],
+    "name:lat_x_preferred":[
+        "Vicloa"
+    ],
     "name:lit_x_preferred":[
         "Viklou"
     ],
@@ -119,6 +131,9 @@
         "Wicklow"
     ],
     "name:swe_x_preferred":[
+        "Wicklow"
+    ],
+    "name:szl_x_preferred":[
         "Wicklow"
     ],
     "name:ukr_x_preferred":[
@@ -186,7 +201,7 @@
         }
     ],
     "wof:id":101806031,
-    "wof:lastmodified":1639043387,
+    "wof:lastmodified":1690931884,
     "wof:name":"Wicklow",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

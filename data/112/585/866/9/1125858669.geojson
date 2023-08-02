@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0627\u0644\u0648\u0627\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0644\u0648\u0627\u0649"
+    ],
     "name:ast_x_preferred":[
         "Galway"
     ],
@@ -52,16 +55,25 @@
     "name:cat_x_preferred":[
         "Galway"
     ],
+    "name:ceb_x_preferred":[
+        "Galway City"
+    ],
     "name:ces_x_preferred":[
         "Galway"
     ],
     "name:cym_x_preferred":[
         "Galway"
     ],
+    "name:cym_x_variant":[
+        "Gaillimh"
+    ],
     "name:dan_x_preferred":[
         "Galway"
     ],
     "name:deu_x_preferred":[
+        "Galway"
+    ],
+    "name:diq_x_preferred":[
         "Galway"
     ],
     "name:ell_x_preferred":[
@@ -92,6 +104,9 @@
         "Galway"
     ],
     "name:fra_x_preferred":[
+        "Galway"
+    ],
+    "name:frr_x_preferred":[
         "Galway"
     ],
     "name:fry_x_preferred":[
@@ -127,8 +142,14 @@
     "name:hye_x_preferred":[
         "\u0533\u0578\u056c\u0578\u0582\u0567\u0575"
     ],
+    "name:hye_x_variant":[
+        "\u0533\u0578\u056c\u0578\u0582\u0565\u0575"
+    ],
     "name:hyw_x_preferred":[
         "\u053f\u0561\u056c\u0578\u0582\u0567\u0575"
+    ],
+    "name:ido_x_preferred":[
+        "Galway"
     ],
     "name:ile_x_preferred":[
         "Galway"
@@ -265,6 +286,12 @@
     "name:vol_x_preferred":[
         "Gaillimh"
     ],
+    "name:wuu_x_preferred":[
+        "\u6208\u5c14\u97e6"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10dd\u10da\u10e3\u10d4\u10d8"
+    ],
     "name:zho_x_preferred":[
         "\u6208\u5c14\u97e6"
     ],
@@ -307,7 +334,7 @@
         }
     ],
     "wof:id":1125858669,
-    "wof:lastmodified":1639043816,
+    "wof:lastmodified":1690931928,
     "wof:name":"Gaillimh",
     "wof:parent_id":1746652109,
     "wof:placetype":"locality",

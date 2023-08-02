@@ -110,6 +110,9 @@
     "name:kor_x_preferred":[
         "\ud2b8\ub7f4\ub9ac"
     ],
+    "name:lav_x_preferred":[
+        "Tral\u012b"
+    ],
     "name:lit_x_preferred":[
         "Trali"
     ],
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":101806021,
-    "wof:lastmodified":1639038610,
+    "wof:lastmodified":1690931885,
     "wof:name":"Tralee",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

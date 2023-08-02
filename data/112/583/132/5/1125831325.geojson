@@ -40,11 +40,17 @@
     "name:eus_x_preferred":[
         "Ardfert"
     ],
+    "name:fra_x_preferred":[
+        "Ardfert"
+    ],
     "name:gle_x_preferred":[
         "Ard Fhearta"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30c9\u30d5\u30a1\u30fc\u30c8"
+    ],
+    "name:lat_x_preferred":[
+        "Ardatum"
     ],
     "name:lit_x_preferred":[
         "Ardfertas"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1125831325,
-    "wof:lastmodified":1642551763,
+    "wof:lastmodified":1690931935,
     "wof:name":"Ardfert",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

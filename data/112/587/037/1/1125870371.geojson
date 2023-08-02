@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "D\u00fan Laoghaire"
     ],
+    "name:ast_x_preferred":[
+        "D\u00fan Laoghaire"
+    ],
     "name:bre_x_preferred":[
         "D\u00fan Laoghaire"
     ],
@@ -52,6 +55,9 @@
     "name:eng_x_variant":[
         "D\u00fan Laoghaire",
         "Dun Laoghaire"
+    ],
+    "name:epo_x_preferred":[
+        "D\u00fan Laoghaire"
     ],
     "name:eus_x_preferred":[
         "D\u00fan Laoghaire"
@@ -125,6 +131,9 @@
     "name:swe_x_preferred":[
         "D\u00fan Laoghaire"
     ],
+    "name:szl_x_preferred":[
+        "D\u00fan Laoghaire"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e39\u0e19\u0e40\u0e25\u0e40\u0e23"
     ],
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":1125870371,
-    "wof:lastmodified":1639041694,
+    "wof:lastmodified":1690931911,
     "wof:name":"D\u00fan Laoghaire",
     "wof:parent_id":1746652107,
     "wof:placetype":"locality",

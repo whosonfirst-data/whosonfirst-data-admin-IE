@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Kilmacthomas"
     ],
+    "name:deu_x_preferred":[
+        "Kilmacthomas"
+    ],
     "name:eng_x_preferred":[
         "Kilmacthomas"
     ],
@@ -130,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639039733,
+    "wof:lastmodified":1690931862,
     "wof:name":"Kilmacthomas",
     "wof:parent_id":1746652147,
     "wof:placetype":"locality",

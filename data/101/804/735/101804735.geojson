@@ -43,8 +43,14 @@
     "name:gle_x_variant":[
         "Caisle\u00e1\u00f1 Ui Chonaill"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05dc\u05e7\u05d5\u05e0\u05dc"
+    ],
     "name:ita_x_preferred":[
         "Castleconnell"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30fc\u30b9\u30eb\u30b3\u30cd\u30eb"
     ],
     "name:nld_x_preferred":[
         "Castleconnell"
@@ -137,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639037432,
+    "wof:lastmodified":1690931842,
     "wof:name":"Castleconnell",
     "wof:parent_id":1746652141,
     "wof:placetype":"locality",

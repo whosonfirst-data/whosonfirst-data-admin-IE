@@ -38,11 +38,17 @@
     "name:eus_x_preferred":[
         "Clonlara"
     ],
+    "name:fra_x_preferred":[
+        "Clonlara"
+    ],
     "name:gle_x_preferred":[
         "Cluain L\u00e1ra"
     ],
     "name:nld_x_preferred":[
         "Clonlara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u043e\u043d\u043b\u0430\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Clonlara"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125981757,
-    "wof:lastmodified":1639038008,
+    "wof:lastmodified":1690931921,
     "wof:name":"Clonlara",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

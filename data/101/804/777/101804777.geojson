@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Killaloe"
     ],
+    "name:est_x_preferred":[
+        "Killaloe"
+    ],
     "name:eus_x_preferred":[
         "Killaloe"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30e9\u30ed\u30fc"
+    ],
+    "name:lat_x_preferred":[
+        "Killaloa"
     ],
     "name:lit_x_preferred":[
         "Kiljalo\u0117"
@@ -160,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044436,
+    "wof:lastmodified":1690931839,
     "wof:name":"Killaloe",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

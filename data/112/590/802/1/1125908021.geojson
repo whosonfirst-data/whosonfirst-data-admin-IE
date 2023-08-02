@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Mountshannon"
     ],
+    "name:fra_x_preferred":[
+        "Mountshannon"
+    ],
     "name:gle_x_preferred":[
         "Baile U\u00ed Bheol\u00e1in"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125908021,
-    "wof:lastmodified":1639034820,
+    "wof:lastmodified":1690931914,
     "wof:name":"Mountshannon",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:epo_x_preferred":[
         "Gorey"
     ],
+    "name:est_x_preferred":[
+        "Gorey"
+    ],
     "name:eus_x_preferred":[
         "Gorey"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Gorey"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0624\u0631\u06cc"
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":101805933,
-    "wof:lastmodified":1639040141,
+    "wof:lastmodified":1690931867,
     "wof:name":"Gorey",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

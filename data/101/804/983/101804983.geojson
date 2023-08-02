@@ -22,10 +22,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Clones"
+    ],
     "name:cat_x_preferred":[
         "Clones"
     ],
     "name:ceb_x_preferred":[
+        "Clones"
+    ],
+    "name:dan_x_preferred":[
         "Clones"
     ],
     "name:deu_x_preferred":[
@@ -136,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551736,
+    "wof:lastmodified":1690931837,
     "wof:name":"Clones",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

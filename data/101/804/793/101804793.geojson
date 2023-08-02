@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Maynooth"
     ],
+    "name:epo_x_preferred":[
+        "Maynooth"
+    ],
     "name:eus_x_preferred":[
         "Maynooth"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:swe_x_preferred":[
         "Maynooth"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u043d\u0443\u0442"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0646\u0648\u062a\u06be"
@@ -190,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639043926,
+    "wof:lastmodified":1690931841,
     "wof:name":"Maynooth",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

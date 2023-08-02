@@ -44,6 +44,9 @@
     "name:gle_x_preferred":[
         "Lios Ceann\u00fair"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b9\u30ab\u30ca\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Liscannor"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125791287,
-    "wof:lastmodified":1639038059,
+    "wof:lastmodified":1690931931,
     "wof:name":"Liscannor",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:glv_x_preferred":[
         "Inbhear"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f3\u30f4\u30a1\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Inver"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125888737,
-    "wof:lastmodified":1639043935,
+    "wof:lastmodified":1690931904,
     "wof:name":"Inver",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

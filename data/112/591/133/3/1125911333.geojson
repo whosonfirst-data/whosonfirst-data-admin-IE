@@ -37,6 +37,9 @@
     "name:gle_x_preferred":[
         "Cnoc an Chrochaire"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30c3\u30af\u30af\u30ed\u30a2\u30ea\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10d9\u10d9\u10e0\u10dd\u10ee\u10d4\u10e0\u10d8"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Knockcroghery"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u514b\u7f57\u8d6b\u91cc"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125911333,
-    "wof:lastmodified":1639037050,
+    "wof:lastmodified":1690931919,
     "wof:name":"Knockcroghery",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

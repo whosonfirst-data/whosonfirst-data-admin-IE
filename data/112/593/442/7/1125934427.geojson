@@ -50,6 +50,9 @@
     "name:ita_x_preferred":[
         "Bangor Erris"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30f3\u30ac\u30fc\u30fb\u30a8\u30ea\u30b9"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d2\u10dd\u10e0-\u10d4\u10e0\u10d8\u10e1\u10d8"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1125934427,
-    "wof:lastmodified":1639043975,
+    "wof:lastmodified":1690931890,
     "wof:name":"Bangor Erris",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

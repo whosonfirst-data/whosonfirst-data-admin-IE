@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Ballynacally"
     ],
+    "name:fra_x_preferred":[
+        "Ballynacally"
+    ],
     "name:gle_x_preferred":[
         "Baile na Caill\u00ed"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125972733,
-    "wof:lastmodified":1639037696,
+    "wof:lastmodified":1690931915,
     "wof:name":"Ballynacally",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

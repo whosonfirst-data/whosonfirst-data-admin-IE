@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Carrickmacross"
+    ],
     "name:bre_x_preferred":[
         "Carraig Mhachaire Rois"
     ],
@@ -61,6 +64,9 @@
     "name:ita_x_preferred":[
         "Carrickmacross"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ea\u30af\u30de\u30af\u30ed\u30b9"
+    ],
     "name:lit_x_preferred":[
         "Karikmakrosas"
     ],
@@ -74,6 +80,9 @@
         "\u041a\u0430\u0440\u0440\u0438\u043a\u043c\u0430\u043a\u0440\u043e\u0441\u0441"
     ],
     "name:slk_x_preferred":[
+        "Carrickmacross"
+    ],
+    "name:slv_x_preferred":[
         "Carrickmacross"
     ],
     "name:spa_x_preferred":[
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":101804975,
-    "wof:lastmodified":1639035415,
+    "wof:lastmodified":1690931852,
     "wof:name":"Carrickmacross",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

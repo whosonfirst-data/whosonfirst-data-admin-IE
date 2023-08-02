@@ -50,6 +50,9 @@
     "name:gle_x_preferred":[
         "Lios D\u00fain Bhearna"
     ],
+    "name:ind_x_preferred":[
+        "Lisdoonvarna"
+    ],
     "name:ita_x_preferred":[
         "Lisdoonvarna"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Lisdoonvarna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u6566\u74e6\u7eb3"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1125907955,
-    "wof:lastmodified":1639036716,
+    "wof:lastmodified":1690931914,
     "wof:name":"Lisdoonvarna",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

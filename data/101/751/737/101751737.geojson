@@ -30,6 +30,9 @@
     "name:afr_x_preferred":[
         "Dublin"
     ],
+    "name:aka_x_preferred":[
+        "Dublin"
+    ],
     "name:amh_x_preferred":[
         "\u12f0\u1265\u120a\u1295"
     ],
@@ -45,14 +48,23 @@
     "name:arg_x_preferred":[
         "Dubl\u00edn"
     ],
+    "name:ary_x_preferred":[
+        "\u062f\u0627\u0628\u0644\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u062f\u0648\u0628\u0644\u064a\u0646"
     ],
     "name:ast_x_preferred":[
         "Ciud\u00e1 de Dubl\u00edn"
     ],
+    "name:ast_x_variant":[
+        "Dubl\u00edn"
+    ],
     "name:ava_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:avk_x_preferred":[
+        "Dublin"
     ],
     "name:aym_x_preferred":[
         "Dublin"
@@ -65,6 +77,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
+    "name:ban_x_preferred":[
+        "Dublin"
     ],
     "name:bar_x_preferred":[
         "Dublin"
@@ -93,6 +108,9 @@
     "name:bul_x_preferred":[
         "\u0414\u044a\u0431\u043b\u0438\u043d"
     ],
+    "name:bxr_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
     "name:cat_x_preferred":[
         "Dubl\u00edn"
     ],
@@ -108,6 +126,9 @@
     "name:che_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
+    "name:chu_x_preferred":[
+        "\u0414\u043e\u0443\u0431\u043b\u0438\u043d\u044a"
+    ],
     "name:chv_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
@@ -119,6 +140,9 @@
     ],
     "name:cos_x_preferred":[
         "Dublinu"
+    ],
+    "name:crh_x_preferred":[
+        "Dublin"
     ],
     "name:cym_x_preferred":[
         "Dulyn"
@@ -220,6 +244,12 @@
     "name:hat_x_preferred":[
         "Diblin"
     ],
+    "name:hau_x_preferred":[
+        "Dublin"
+    ],
+    "name:haw_x_preferred":[
+        "Hulinea"
+    ],
     "name:hbs_x_preferred":[
         "Dublin"
     ],
@@ -243,6 +273,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0582\u0562\u056c\u056b\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054f\u0561\u057a\u056c\u056b\u0576"
     ],
     "name:ido_x_preferred":[
         "Dublin"
@@ -289,6 +322,9 @@
     "name:kbp_x_preferred":[
         "Tuubl\u025b\u025b"
     ],
+    "name:kin_x_preferred":[
+        "Dublin"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d"
     ],
@@ -309,6 +345,9 @@
     ],
     "name:lav_x_preferred":[
         "Dublina"
+    ],
+    "name:lfn_x_preferred":[
+        "Dublin"
     ],
     "name:lij_x_preferred":[
         "Dublin"
@@ -337,6 +376,9 @@
     "name:mar_x_preferred":[
         "\u0921\u092c\u094d\u0932\u093f\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0414\u0443\u0431\u043b\u0438\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0431\u043b\u0438\u043d"
     ],
@@ -364,6 +406,9 @@
     "name:myv_x_preferred":[
         "\u0414\u0443\u0431\u043b\u0438\u043d \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0648\u0628\u0644\u06cc\u0646"
+    ],
     "name:nah_x_preferred":[
         "Dublin"
     ],
@@ -371,6 +416,12 @@
         "Dublin"
     ],
     "name:nau_x_preferred":[
+        "Dublin"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3hodi\u0142hi\u0142"
+    ],
+    "name:nds_x_preferred":[
         "Dublin"
     ],
     "name:new_x_preferred":[
@@ -415,6 +466,9 @@
     "name:pap_x_preferred":[
         "Dublin"
     ],
+    "name:pdc_x_preferred":[
+        "Dublin"
+    ],
     "name:pih_x_preferred":[
         "Dublin"
     ],
@@ -447,6 +501,9 @@
     ],
     "name:ron_x_preferred":[
         "Dublin"
+    ],
+    "name:rue_x_preferred":[
+        "\u0414\u0430\u0431\u043b\u0438\u043d"
     ],
     "name:rup_x_preferred":[
         "Dublin"
@@ -483,6 +540,9 @@
     ],
     "name:sna_x_preferred":[
         "Dublin"
+    ],
+    "name:snd_x_preferred":[
+        "\u068a\u0628\u0644\u0646"
     ],
     "name:som_x_preferred":[
         "Dublin"
@@ -563,6 +623,9 @@
         "Dublin"
     ],
     "name:vie_x_preferred":[
+        "Dublin"
+    ],
+    "name:vls_x_preferred":[
         "Dublin"
     ],
     "name:vol_x_preferred":[
@@ -787,7 +850,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642034095,
+    "wof:lastmodified":1690931876,
     "wof:megacity":1,
     "wof:name":"Dublin",
     "wof:parent_id":-4,

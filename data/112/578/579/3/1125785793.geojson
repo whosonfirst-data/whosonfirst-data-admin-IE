@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Tallanstown"
     ],
+    "name:fra_x_preferred":[
+        "Tallanstown"
+    ],
     "name:gle_x_preferred":[
         "Baile an Tall\u00fanaigh"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125785793,
-    "wof:lastmodified":1639037435,
+    "wof:lastmodified":1690931929,
     "wof:name":"Tallanstown",
     "wof:parent_id":1746652093,
     "wof:placetype":"locality",

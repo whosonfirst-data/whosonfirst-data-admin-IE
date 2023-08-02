@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u0440\u043e\u0431\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Ballinrobe"
+    ],
     "name:ceb_x_preferred":[
         "Ballinrobe"
     ],
@@ -57,6 +60,9 @@
     "name:ita_x_preferred":[
         "Ballinrobe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30f3\u30ed\u30fc\u30c7"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10da\u10d8\u10dc\u10e0\u10dd\u10d1\u10d8"
     ],
@@ -74,6 +80,9 @@
     ],
     "name:swe_x_preferred":[
         "Ballinrobe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6797\u7f57\u5e03"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Mayo",
@@ -151,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639042871,
+    "wof:lastmodified":1690931873,
     "wof:name":"Ballinrobe",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

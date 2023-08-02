@@ -26,6 +26,9 @@
     "name:eus_x_preferred":[
         "Parteen"
     ],
+    "name:fra_x_preferred":[
+        "Parteen"
+    ],
     "name:gle_x_preferred":[
         "An Pairt\u00edn"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125861415,
-    "wof:lastmodified":1639041630,
+    "wof:lastmodified":1690931903,
     "wof:name":"Parteen",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

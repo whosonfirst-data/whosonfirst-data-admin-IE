@@ -127,6 +127,9 @@
     "name:ita_x_preferred":[
         "Edenderry"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30c7\u30f3\u30c7\u30ea\u30fc"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10d3\u10d4\u10dc\u10d3\u10d4\u10e0\u10d8"
     ],
@@ -301,7 +304,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639039349,
+    "wof:lastmodified":1690931846,
     "wof:name":"Edenderry",
     "wof:parent_id":1746652115,
     "wof:placetype":"locality",

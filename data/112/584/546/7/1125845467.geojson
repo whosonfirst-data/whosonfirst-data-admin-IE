@@ -46,6 +46,9 @@
     "name:ita_x_preferred":[
         "Charlestown"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30fc\u30eb\u30ba\u30bf\u30a6\u30f3"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10e0\u10da\u10d6\u10e2\u10d0\u10e3\u10dc\u10d8"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125845467,
-    "wof:lastmodified":1639045244,
+    "wof:lastmodified":1690931934,
     "wof:name":"Charlestown",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

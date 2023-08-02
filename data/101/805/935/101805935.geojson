@@ -49,6 +49,9 @@
     "name:gle_x_preferred":[
         "Fearna"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05de\u05e1"
+    ],
     "name:ita_x_preferred":[
         "Ferns"
     ],
@@ -151,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639039650,
+    "wof:lastmodified":1690931866,
     "wof:name":"Ferns",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

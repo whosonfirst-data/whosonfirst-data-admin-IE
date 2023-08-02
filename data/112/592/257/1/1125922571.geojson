@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ballyknockan"
     ],
+    "name:eus_x_preferred":[
+        "Ballyknockan"
+    ],
     "name:fra_x_preferred":[
         "Ballyknockan"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125922571,
-    "wof:lastmodified":1639043752,
+    "wof:lastmodified":1690931893,
     "wof:name":"Ballyknockan",
     "wof:parent_id":1746652151,
     "wof:placetype":"locality",

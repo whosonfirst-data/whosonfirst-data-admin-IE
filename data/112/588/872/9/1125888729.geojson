@@ -43,6 +43,9 @@
     "name:gle_x_preferred":[
         "Indreabh\u00e1n"
     ],
+    "name:glv_x_preferred":[
+        "Indreabh\u00e1n"
+    ],
     "name:ita_x_preferred":[
         "Indreabh\u00e1n"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125888729,
-    "wof:lastmodified":1639043993,
+    "wof:lastmodified":1690931904,
     "wof:name":"Inveran",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

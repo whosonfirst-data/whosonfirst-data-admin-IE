@@ -31,6 +31,9 @@
     "name:gle_x_preferred":[
         "Eachrois"
     ],
+    "name:gle_x_variant":[
+        "Eachros"
+    ],
     "name:nld_x_preferred":[
         "Aughris"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125844405,
-    "wof:lastmodified":1639043815,
+    "wof:lastmodified":1690931933,
     "wof:name":"Aughris",
     "wof:parent_id":1746652129,
     "wof:placetype":"locality",

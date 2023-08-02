@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Charleville"
+    ],
     "name:bre_x_preferred":[
         "R\u00e1th Luirc"
     ],
@@ -80,6 +83,9 @@
         "Charleville"
     ],
     "name:swe_x_preferred":[
+        "Charleville"
+    ],
+    "name:szl_x_preferred":[
         "Charleville"
     ],
     "name:zho_x_preferred":[
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":1125888815,
-    "wof:lastmodified":1639043978,
+    "wof:lastmodified":1690931904,
     "wof:name":"Rathluirc",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

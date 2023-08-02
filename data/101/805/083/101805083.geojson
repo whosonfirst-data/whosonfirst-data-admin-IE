@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Glenties"
     ],
+    "name:dan_x_preferred":[
+        "Glenties"
+    ],
     "name:deu_x_preferred":[
         "Glenties"
     ],
@@ -158,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639045286,
+    "wof:lastmodified":1690931858,
     "wof:name":"Glenties",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

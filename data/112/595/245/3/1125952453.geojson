@@ -58,6 +58,9 @@
     "name:swe_x_preferred":[
         "Shrule"
     ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u9c81\u5c14"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1125952453,
-    "wof:lastmodified":1639037420,
+    "wof:lastmodified":1690931895,
     "wof:name":"Shrule",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

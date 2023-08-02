@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0643\u064a\u0631\u064a\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0643\u064a\u0631\u064a\u0632"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043a\u0435\u0440\u0438\u0439\u0441"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101804847,
-    "wof:lastmodified":1639040041,
+    "wof:lastmodified":1690931845,
     "wof:name":"Skerries",
     "wof:parent_id":1746652091,
     "wof:placetype":"locality",

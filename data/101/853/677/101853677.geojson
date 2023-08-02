@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Littleton"
     ],
+    "name:ceb_x_preferred":[
+        "Littleton"
+    ],
     "name:ces_x_preferred":[
         "Littleton"
     ],
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":101853677,
-    "wof:lastmodified":1639043360,
+    "wof:lastmodified":1690931881,
     "wof:name":"Littleton",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",

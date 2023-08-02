@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Inniskeen"
     ],
+    "name:deu_x_preferred":[
+        "Inniskeen"
+    ],
     "name:eng_x_preferred":[
         "Inniskeen"
     ],
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035415,
+    "wof:lastmodified":1690931836,
     "wof:name":"Inniskeen",
     "wof:parent_id":1746652127,
     "wof:placetype":"locality",

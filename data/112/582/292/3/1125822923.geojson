@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0643\u0633\u0641\u0648\u0631\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u064a\u0643\u0633\u0641\u0648\u0631\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Wexford"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u044d\u043a\u0441\u0444\u0430\u0440\u0434"
     ],
@@ -49,10 +58,16 @@
     "name:deu_x_preferred":[
         "Wexford"
     ],
+    "name:diq_x_preferred":[
+        "Wexford"
+    ],
     "name:eng_x_preferred":[
         "Wexford"
     ],
     "name:epo_x_preferred":[
+        "Wexford"
+    ],
+    "name:est_x_preferred":[
         "Wexford"
     ],
     "name:eus_x_preferred":[
@@ -79,6 +94,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05e7\u05e1\u05e4\u05d5\u05e8\u05d3"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u0584\u057d\u0586\u0578\u0580\u0564"
+    ],
     "name:ind_x_preferred":[
         "Wexford"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:lat_x_preferred":[
         "Vexfordia"
+    ],
+    "name:lav_x_preferred":[
+        "Veksforda"
     ],
     "name:lit_x_preferred":[
         "Veksfordas"
@@ -187,7 +208,7 @@
         }
     ],
     "wof:id":1125822923,
-    "wof:lastmodified":1639037632,
+    "wof:lastmodified":1690931927,
     "wof:name":"Loch Garman",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

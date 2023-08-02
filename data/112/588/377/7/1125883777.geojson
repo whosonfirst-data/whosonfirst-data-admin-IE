@@ -37,6 +37,9 @@
     "name:eus_x_preferred":[
         "Slieverue"
     ],
+    "name:fra_x_preferred":[
+        "Slieverue"
+    ],
     "name:gle_x_preferred":[
         "Sliabh Rua"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125883777,
-    "wof:lastmodified":1639041643,
+    "wof:lastmodified":1690931905,
     "wof:name":"Slieverue",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

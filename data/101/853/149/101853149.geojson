@@ -25,16 +25,25 @@
     "name:ceb_x_preferred":[
         "Clonroche"
     ],
+    "name:deu_x_preferred":[
+        "Clonroche"
+    ],
     "name:eng_x_preferred":[
         "Clonroche"
     ],
     "name:eus_x_preferred":[
         "Clonroche"
     ],
+    "name:fra_x_preferred":[
+        "Clonroche"
+    ],
     "name:gle_x_preferred":[
         "Cluain an R\u00f3istigh"
     ],
     "name:nld_x_preferred":[
+        "Clonroche"
+    ],
+    "name:por_x_preferred":[
         "Clonroche"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639037726,
+    "wof:lastmodified":1690931881,
     "wof:name":"Clonroche",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

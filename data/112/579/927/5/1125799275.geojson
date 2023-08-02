@@ -31,6 +31,12 @@
     "name:gle_x_preferred":[
         "Leac an Anfa"
     ],
+    "name:gle_x_variant":[
+        "Leic Ainimhe"
+    ],
+    "name:ita_x_preferred":[
+        "Lecanvey"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30ad\u30e3\u30f3\u30d9\u30a4"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125799275,
-    "wof:lastmodified":1639034851,
+    "wof:lastmodified":1690931932,
     "wof:name":"Lecanvey",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

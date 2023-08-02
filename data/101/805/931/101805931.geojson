@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Ballycotton"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30b3\u30c3\u30c8\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Ballycotton"
     ],
@@ -137,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551724,
+    "wof:lastmodified":1690931854,
     "wof:name":"Ballycotton",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

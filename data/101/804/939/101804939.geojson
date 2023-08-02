@@ -63,6 +63,9 @@
     "name:pol_x_preferred":[
         "Oughterard"
     ],
+    "name:por_x_preferred":[
+        "Oughterard"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0442\u0435\u0440\u0430\u0440\u0434"
     ],
@@ -146,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1637709076,
+    "wof:lastmodified":1690931829,
     "wof:name":"Oughterard",
     "wof:parent_id":85685097,
     "wof:placetype":"locality",

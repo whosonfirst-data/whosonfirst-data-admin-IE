@@ -28,8 +28,14 @@
     "name:eus_x_preferred":[
         "Old Leighlin"
     ],
+    "name:fra_x_preferred":[
+        "Old Leighlin"
+    ],
     "name:gle_x_preferred":[
         "Sean Leithgleann"
+    ],
+    "name:gle_x_variant":[
+        "Seanleithghlinn"
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10da\u10d3\u10da\u10dd\u10f0\u10da\u10d8\u10dc\u10d8"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125993047,
-    "wof:lastmodified":1639037786,
+    "wof:lastmodified":1690931913,
     "wof:name":"Oldleighlin",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",

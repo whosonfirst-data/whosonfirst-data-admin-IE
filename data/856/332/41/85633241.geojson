@@ -57,6 +57,9 @@
     "name:aka_x_preferred":[
         "Aereland"
     ],
+    "name:aka_x_variant":[
+        "Ireland"
+    ],
     "name:amh_x_preferred":[
         "\u12a0\u12e8\u122d\u120b\u1295\u12f5"
     ],
@@ -76,7 +79,8 @@
         "\u0627\u064a\u0631\u0644\u0646\u062f\u0627",
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0625\u064a\u0631\u0644\u0646\u062f\u0627",
         "\u0623\u064a\u0631\u0644\u0627\u0646\u062f\u0627",
-        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627"
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627",
+        "\u0623\u064a\u0631\u0644\u0646\u062f\u0627"
     ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u072a\u0720\u0722\u0715 (\u0713\u0719\u072a\u072c\u0710)"
@@ -107,6 +111,12 @@
     ],
     "name:ava_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:avk_x_preferred":[
+        "Eirea"
+    ],
+    "name:awa_x_preferred":[
+        "\u0906\u092f\u0930\u0932\u0948\u0902\u0921 \u0917\u0923\u0930\u093e\u091c\u094d\u092f"
     ],
     "name:aym_x_preferred":[
         "Irlandiya"
@@ -264,6 +274,9 @@
     "name:cze_x_variant":[
         "Irsk\u00e1 republika"
     ],
+    "name:dag_x_preferred":[
+        "Ireland"
+    ],
     "name:dan_x_preferred":[
         "Irland",
         "Irland (\u00f8)"
@@ -368,6 +381,9 @@
     "name:fas_x_variant":[
         "\u0627\u06cc\u0631\u0644\u0646\u062f"
     ],
+    "name:fij_x_preferred":[
+        "Ailadi"
+    ],
     "name:fin_x_preferred":[
         "Irlanti",
         "Irlanti (saari)"
@@ -392,7 +408,8 @@
     ],
     "name:frr_x_variant":[
         "Irl\u00f6nj",
-        "Irlun"
+        "Irlun",
+        "Republiik Irlun"
     ],
     "name:fry_x_preferred":[
         "Ierl\u00e2n"
@@ -444,6 +461,9 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf34\ud800\udf39\ud800\udf42\ud800\udf30\ud800\udf3b\ud800\udf30\ud800\udf3d\ud800\udf33"
+    ],
+    "name:gpe_x_preferred":[
+        "Ireland"
     ],
     "name:grn_x_preferred":[
         "Ilandia"
@@ -576,7 +596,8 @@
         "Pulo Irlandia"
     ],
     "name:jav_x_variant":[
-        "Republik Irlandia"
+        "Republik Irlandia",
+        "Irlan"
     ],
     "name:jbo_x_preferred":[
         "airland"
@@ -694,7 +715,8 @@
         "Irlanda (isoa)"
     ],
     "name:lij_x_variant":[
-        "\u00c9ire"
+        "\u00c9ire",
+        "Irl\u00e0nda"
     ],
     "name:lim_x_preferred":[
         "Ierland"
@@ -713,6 +735,9 @@
     ],
     "name:liv_x_preferred":[
         "\u012ar\u00f5m\u014d"
+    ],
+    "name:lld_x_preferred":[
+        "Irlanda"
     ],
     "name:lmo_x_preferred":[
         "Irlanda"
@@ -735,6 +760,9 @@
     "name:lzh_x_preferred":[
         "\u611b\u723e\u862d\u5171\u548c\u570b"
     ],
+    "name:mad_x_preferred":[
+        "Republik Irlandia"
+    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d2f\u0d7c\u0d32\u0d28\u0d4d\u0d31\u0d4d"
     ],
@@ -747,8 +775,14 @@
     "name:mar_x_variant":[
         "\u0906\u092f\u0930\u094d\u0932\u0902\u0921\u091a\u0947 \u092a\u094d\u0930\u091c\u093e\u0938\u0924\u094d\u0924\u093e\u0915"
     ],
+    "name:mdf_x_preferred":[
+        "\u0418\u0440\u043b\u0430\u043d\u0434\u043c\u0430\u0441\u0442\u043e\u0440"
+    ],
     "name:mhr_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Irlandia"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0440\u0441\u043a\u0430"
@@ -827,7 +861,8 @@
     ],
     "name:nep_x_variant":[
         "\u0906\u0907\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
-        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921"
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0923\u094d\u0921",
+        "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0921"
     ],
     "name:new_x_preferred":[
         "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0906\u092f\u0930\u0932\u094d\u092f\u093e\u0928\u094d\u0926"
@@ -942,7 +977,8 @@
         "Ilanda wat'a"
     ],
     "name:que_x_variant":[
-        "Ilanda"
+        "Ilanda",
+        "Irhallp'a"
     ],
     "name:rmy_x_preferred":[
         "Irland (dvip)"
@@ -1008,6 +1044,9 @@
     "name:sgs_x_preferred":[
         "Air\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1062\u1086\u1087\u101a\u1083\u1087\u101c\u1085\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dba"
     ],
@@ -1032,8 +1071,14 @@
     "name:sme_x_variant":[
         "Eire"
     ],
+    "name:smn_x_preferred":[
+        "Irland"
+    ],
     "name:smo_x_preferred":[
         "Aialani"
+    ],
+    "name:sms_x_preferred":[
+        "Irlantt"
     ],
     "name:sna_x_preferred":[
         "Ireland"
@@ -1084,6 +1129,9 @@
     "name:stq_x_preferred":[
         "Irlound"
     ],
+    "name:sun_x_preferred":[
+        "R\u00e9publik Irlandia"
+    ],
     "name:swa_x_preferred":[
         "Ayalandi"
     ],
@@ -1108,6 +1156,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+    ],
+    "name:tay_x_preferred":[
+        "Ireland"
     ],
     "name:tel_x_preferred":[
         "\u0c10\u0c30\u0c4d \u0c32\u0c3e\u0c02\u0c21\u0c4d"
@@ -1139,6 +1190,9 @@
     ],
     "name:tir_x_preferred":[
         "\u12a0\u12e8\u122d\u120b\u1295\u12f5"
+    ],
+    "name:tok_x_preferred":[
+        "ma Alan"
     ],
     "name:ton_x_preferred":[
         "\u02bbAealani"
@@ -1293,7 +1347,8 @@
     "name:zho_x_variant":[
         "\u611b\u723e\u862d",
         "\u7231\u5c14\u5170",
-        "\u7231\u5c14\u5170\u5171\u548c\u56fd"
+        "\u7231\u5c14\u5170\u5171\u548c\u56fd",
+        "\u611b\u723e\u862d\u5171\u548c\u570b"
     ],
     "name:zho_yue_x_preferred":[
         "\u611b\u723e\u862d\u5cf6"
@@ -1503,7 +1558,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"e8764c710827432243c4c47b05aaa895",
+    "wof:geomhash":"8c16cc0652a046871b10420c73d81777",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1519,7 +1574,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1684351366,
+    "wof:lastmodified":1690931702,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

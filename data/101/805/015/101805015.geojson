@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Carrick-on-Shannon"
+    ],
     "name:bre_x_preferred":[
         "Cora Droma R\u00faisc"
     ],
@@ -32,6 +35,9 @@
         "Carrick-on-Shannon"
     ],
     "name:ceb_x_preferred":[
+        "Carrick-on-Shannon"
+    ],
+    "name:ces_x_preferred":[
         "Carrick-on-Shannon"
     ],
     "name:cym_x_preferred":[
@@ -77,6 +83,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce90\ub9ad\uc628\uc100\ub10c"
+    ],
+    "name:lat_x_preferred":[
+        "Caricta"
     ],
     "name:lit_x_preferred":[
         "Karikas prie \u0160anono"
@@ -205,7 +214,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551755,
+    "wof:lastmodified":1690931857,
     "wof:name":"Carrick-On-Shannon",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

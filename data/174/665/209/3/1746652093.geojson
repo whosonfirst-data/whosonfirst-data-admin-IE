@@ -67,6 +67,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03ac\u03bf\u03c5\u03b8"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039b\u03ac\u03bf\u03c5\u03b4"
+    ],
     "name:eng_x_preferred":[
         "Louth"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:fra_x_preferred":[
         "comt\u00e9 de Louth"
+    ],
+    "name:frr_x_preferred":[
+        "Louth"
     ],
     "name:gla_x_preferred":[
         "Contae L\u00fa"
@@ -128,6 +134,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30a6\u30b9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30a6\u30b9\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb2\u0ccc\u0ca4\u0ccd"
     ],
@@ -139,6 +148,9 @@
     ],
     "name:kor_x_variant":[
         "\ub77c\uc6b0\uc2a4\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Louth"
     ],
     "name:lat_x_preferred":[
         "Comitatus Ludensis"
@@ -157,6 +169,9 @@
     ],
     "name:msa_x_preferred":[
         "County Louth"
+    ],
+    "name:nan_x_preferred":[
+        "Louth K\u016bn"
     ],
     "name:nld_x_preferred":[
         "Louth"
@@ -235,6 +250,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Louth"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52b3\u65af\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u52b3\u65af\u90e1"
@@ -351,7 +369,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639034503,
+    "wof:lastmodified":1690931818,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"county",

@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Clonee"
     ],
+    "name:fra_x_preferred":[
+        "Clonee"
+    ],
     "name:gle_x_preferred":[
         "Cluain Aodha"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125928861,
-    "wof:lastmodified":1639036724,
+    "wof:lastmodified":1690931893,
     "wof:name":"Clonee Village",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Dunmore"
+    ],
     "name:bre_x_preferred":[
         "D\u00fan M\u00f3r"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Dunmore"
+    ],
+    "name:zho_x_preferred":[
+        "\u9093\u83ab\u5c14"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125988907,
-    "wof:lastmodified":1642551800,
+    "wof:lastmodified":1690931922,
     "wof:name":"Dunmore",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

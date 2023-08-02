@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Killimer"
     ],
+    "name:fra_x_preferred":[
+        "Killimer"
+    ],
     "name:gle_x_preferred":[
         "Cill \u00cdoma\u00ed"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125888775,
-    "wof:lastmodified":1639044003,
+    "wof:lastmodified":1690931906,
     "wof:name":"Killimer",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
     "name:nld_x_preferred":[
         "Kilkee"
     ],
+    "name:nob_x_preferred":[
+        "Kilkee"
+    ],
     "name:pol_x_preferred":[
         "Kilkee"
     ],
@@ -74,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06cc\u0646\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u723e\u57fa"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
@@ -153,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551809,
+    "wof:lastmodified":1690931834,
     "wof:name":"Kilkee",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

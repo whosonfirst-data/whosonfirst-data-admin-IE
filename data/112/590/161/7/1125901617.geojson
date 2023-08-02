@@ -37,6 +37,9 @@
     "name:gle_x_preferred":[
         "An Creag\u00e1n B\u00e1n"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d4\u10d2\u10d0\u10dc\u10d1\u10dd\u10dc\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Cregganbaun"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125901617,
-    "wof:lastmodified":1639041654,
+    "wof:lastmodified":1690931913,
     "wof:name":"Cregganbaun",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

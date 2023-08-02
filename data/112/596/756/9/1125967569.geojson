@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Furbogh"
     ],
+    "name:dan_x_preferred":[
+        "Furbogh"
+    ],
     "name:eng_x_preferred":[
         "Furbogh"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125967569,
-    "wof:lastmodified":1639040956,
+    "wof:lastmodified":1690931918,
     "wof:name":"Furbogh",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

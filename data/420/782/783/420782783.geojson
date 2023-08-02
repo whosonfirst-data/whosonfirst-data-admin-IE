@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.27791740322,53.3392764551,-6.27791740322,53.3392764551",
+    "geom:bbox":"-6.277917,53.339276,-6.277917,53.339276",
     "geom:latitude":53.339276,
     "geom:longitude":-6.277917,
     "iso:country":"IE",
@@ -47,13 +47,16 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc \u0644\u0628\u0631\u0679\u06cc\u0632"
     ],
+    "name:zho_x_preferred":[
+        "\u9ece\u6ce2\u63d0\u65af"
+    ],
     "wd:wordcount":3833,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
     },
     "wof:country":"IE",
     "wof:created":1458871855,
-    "wof:geomhash":"d8f889c2edf52cfcfdf1fe0a6bb14e82",
+    "wof:geomhash":"1dbcf4c0df0cc1c0de3ffbc4e28a8cee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":420782783,
-    "wof:lastmodified":1639045329,
+    "wof:lastmodified":1690931887,
     "wof:name":"The Liberties",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.27791740321593,
-    53.33927645507569,
-    -6.27791740321593,
-    53.33927645507569
+    -6.277917,
+    53.339276,
+    -6.277917,
+    53.339276
 ],
-  "geometry": {"coordinates":[-6.27791740321593,53.33927645507569],"type":"Point"}
+  "geometry": {"coordinates":[-6.277917,53.339276],"type":"Point"}
 }

@@ -43,6 +43,9 @@
     "name:dan_x_preferred":[
         "Castlereagh"
     ],
+    "name:dan_x_variant":[
+        "Castlerea"
+    ],
     "name:deu_x_preferred":[
         "Castlerea"
     ],
@@ -200,7 +203,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040724,
+    "wof:lastmodified":1690931830,
     "wof:name":"Castlerea",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

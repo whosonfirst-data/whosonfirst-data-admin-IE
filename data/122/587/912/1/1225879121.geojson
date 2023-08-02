@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u043d\u0440\u0439\u043b\u0430\u043d\u0434"
+    ],
     "name:ceb_x_preferred":[
         "Tinryland"
     ],
@@ -41,6 +44,9 @@
         "Tinriland"
     ],
     "name:eus_x_preferred":[
+        "Tinryland"
+    ],
+    "name:fra_x_preferred":[
         "Tinryland"
     ],
     "name:gle_x_preferred":[
@@ -72,8 +78,8 @@
     "wof:belongsto":[
         102191581,
         85633241,
-        1746652143,
-        85684975
+        85684975,
+        1746652143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1225879121,
-    "wof:lastmodified":1643921473,
+    "wof:lastmodified":1690931938,
     "wof:name":"Tinryland",
     "wof:parent_id":1746652143,
     "wof:placetype":"locality",

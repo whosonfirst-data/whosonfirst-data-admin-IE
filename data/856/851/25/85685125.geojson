@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Cafansc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0641\u0627\u0646"
     ],
@@ -101,6 +104,9 @@
     "name:fra_x_preferred":[
         "comt\u00e9 de Cavan"
     ],
+    "name:frr_x_preferred":[
+        "Cavan"
+    ],
     "name:gla_x_preferred":[
         "Contae an Chabh\u00e1in"
     ],
@@ -134,6 +140,9 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30e3\u30d0\u30f3\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ad\u30e3\u30d0\u30f3\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c95\u0ccd\u0caf\u0cbe\u0cb5\u0ca8\u0ccd"
     ],
@@ -145,6 +154,9 @@
     ],
     "name:kor_x_variant":[
         "\uce90\ubc88\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Cavan"
     ],
     "name:lat_x_preferred":[
         "Comitatus Clarensis"
@@ -163,6 +175,9 @@
     ],
     "name:msa_x_preferred":[
         "County Cavan"
+    ],
+    "name:nan_x_preferred":[
+        "Cavan K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Cavan"
@@ -238,6 +253,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Cavan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u6587\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u5361\u6587\u90e1"
@@ -370,7 +388,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696653,
+    "wof:lastmodified":1690931700,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

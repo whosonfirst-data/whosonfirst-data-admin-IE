@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u064a\u062c\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0646\u064a\u062c\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Donegal"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u043e\u043d\u0435\u0433\u0430\u043b"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09a8\u09c7\u0997\u09be\u09b2"
     ],
@@ -46,6 +55,9 @@
     "name:cym_x_preferred":[
         "D\u00fan na nGall"
     ],
+    "name:dan_x_preferred":[
+        "Donegal"
+    ],
     "name:deu_x_preferred":[
         "Donegal"
     ],
@@ -53,6 +65,9 @@
         "\u039d\u03c4\u03bf\u03bd\u03b5\u03b3\u03ba\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
+        "Donegal"
+    ],
+    "name:epo_x_preferred":[
         "Donegal"
     ],
     "name:eus_x_preferred":[
@@ -106,7 +121,16 @@
     "name:kor_x_preferred":[
         "\ub3c4\ub124\uac08"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ub2c8\uace8"
+    ],
+    "name:lat_x_preferred":[
+        "Dungalia"
+    ],
     "name:nld_x_preferred":[
+        "Donegal"
+    ],
+    "name:nob_x_preferred":[
         "Donegal"
     ],
     "name:nor_x_preferred":[
@@ -319,7 +343,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639039197,
+    "wof:lastmodified":1690931867,
     "wof:name":"Donegal",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

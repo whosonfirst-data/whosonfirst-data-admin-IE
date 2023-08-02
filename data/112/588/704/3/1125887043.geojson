@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0442\u0430\u0440\u0442\u0430\u043d"
     ],
+    "name:zho_x_preferred":[
+        "\u57fa\u723e\u5854"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125887043,
-    "wof:lastmodified":1639045273,
+    "wof:lastmodified":1690931906,
     "wof:name":"Kiltartan",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

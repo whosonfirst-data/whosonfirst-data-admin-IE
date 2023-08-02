@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Midleton"
     ],
+    "name:cym_x_preferred":[
+        "Midleton"
+    ],
     "name:dan_x_preferred":[
         "Midleton"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101805893,
-    "wof:lastmodified":1639040067,
+    "wof:lastmodified":1690931863,
     "wof:name":"Midleton",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

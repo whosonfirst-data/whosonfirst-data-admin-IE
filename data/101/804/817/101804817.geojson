@@ -58,6 +58,9 @@
     "name:nld_x_preferred":[
         "Kilrush"
     ],
+    "name:nob_x_preferred":[
+        "Kilrush"
+    ],
     "name:pol_x_preferred":[
         "Kilrush"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0644\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u62c9\u4ec0"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":101804817,
-    "wof:lastmodified":1639044484,
+    "wof:lastmodified":1690931833,
     "wof:name":"Kilrush",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

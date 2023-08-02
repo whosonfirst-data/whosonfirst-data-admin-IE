@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0631\u064a\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0645\u0631\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Limerick"
+    ],
     "name:aze_x_preferred":[
         "Limerik"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:ces_x_preferred":[
         "Limerick"
+    ],
+    "name:cor_x_preferred":[
+        "Lymryk"
     ],
     "name:cym_x_preferred":[
         "Limerick"
@@ -126,7 +135,13 @@
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0565\u0580\u056b\u056f"
     ],
+    "name:ido_x_preferred":[
+        "Limerick"
+    ],
     "name:ile_x_preferred":[
+        "Limerick"
+    ],
+    "name:ina_x_preferred":[
         "Limerick"
     ],
     "name:ind_x_preferred":[
@@ -153,6 +168,9 @@
     "name:lat_x_preferred":[
         "Limerick"
     ],
+    "name:lat_x_variant":[
+        "Limericum"
+    ],
     "name:lav_x_preferred":[
         "Limerika"
     ],
@@ -165,8 +183,14 @@
     "name:ltz_x_preferred":[
         "Limerick"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3f\u0d02\u0d31\u0d3f\u0d15\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u093f\u092e\u0930\u093f\u0915"
+    ],
+    "name:mlt_x_preferred":[
+        "Limerick"
     ],
     "name:msa_x_preferred":[
         "Limerick"
@@ -252,6 +276,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e40\u0e21\u0e2d\u0e23\u0e34\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e34\u0e21\u0e23\u0e34\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Limerick"
     ],
@@ -272,6 +299,12 @@
     ],
     "name:war_x_preferred":[
         "Limerick"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u9ed8\u91cc\u514b"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10d8\u10db\u10d4\u10e0\u10d8\u10d9\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5229\u9ed8\u91cc\u514b"
@@ -425,7 +458,7 @@
         }
     ],
     "wof:id":101751733,
-    "wof:lastmodified":1639037105,
+    "wof:lastmodified":1690931877,
     "wof:name":"Limerick",
     "wof:parent_id":1746652141,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Headford"
     ],
+    "name:deu_x_preferred":[
+        "Headford"
+    ],
     "name:eng_x_preferred":[
         "Headford"
     ],
@@ -62,6 +65,9 @@
         "Headford"
     ],
     "name:swe_x_preferred":[
+        "Headford"
+    ],
+    "name:uzb_x_preferred":[
         "Headford"
     ],
     "name:zho_x_preferred":[
@@ -142,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035719,
+    "wof:lastmodified":1690931830,
     "wof:name":"Headford",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

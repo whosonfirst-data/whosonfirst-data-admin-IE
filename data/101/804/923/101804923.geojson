@@ -46,6 +46,9 @@
     "name:gle_x_preferred":[
         "Gr\u00e1nard"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05e0\u05d0\u05e8\u05d3"
+    ],
     "name:ita_x_preferred":[
         "Granard"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101804923,
-    "wof:lastmodified":1637370975,
+    "wof:lastmodified":1690931838,
     "wof:name":"Granard",
     "wof:parent_id":85685091,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:gle_x_preferred":[
         "Cill Garbh\u00e1in"
     ],
+    "name:gle_x_variant":[
+        "Cill Gharbh\u00e1in"
+    ],
     "name:nld_x_preferred":[
         "Kilgarvan"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125956271,
-    "wof:lastmodified":1639038311,
+    "wof:lastmodified":1690931895,
     "wof:name":"Kilgarvan",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "An Ros"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u044a\u0448"
+    ],
+    "name:ceb_x_preferred":[
+        "An Ros"
     ],
     "name:dan_x_preferred":[
         "Rush"
@@ -73,6 +79,9 @@
     "name:spa_x_preferred":[
         "Rush"
     ],
+    "name:swe_x_preferred":[
+        "An Ros"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0634"
     ],
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1125850165,
-    "wof:lastmodified":1639040808,
+    "wof:lastmodified":1690931929,
     "wof:name":"An Ros",
     "wof:parent_id":1746652091,
     "wof:placetype":"locality",

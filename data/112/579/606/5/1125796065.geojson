@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Crookstown"
+    ],
     "name:eng_x_preferred":[
         "Crookstown"
     ],
@@ -44,6 +47,9 @@
         "\u041a\u0440\u0443\u043a\u0441\u0442\u0430\u0443\u043d"
     ],
     "name:spa_x_preferred":[
+        "Crookstown"
+    ],
+    "name:swe_x_preferred":[
         "Crookstown"
     ],
     "qs_pg:aaroncc":"IE",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125796065,
-    "wof:lastmodified":1639041027,
+    "wof:lastmodified":1690931932,
     "wof:name":"Crookstown",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

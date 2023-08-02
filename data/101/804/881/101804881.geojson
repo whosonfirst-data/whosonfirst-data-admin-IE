@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Kilmessan"
     ],
+    "name:fra_x_preferred":[
+        "Kilmessan"
+    ],
     "name:gle_x_preferred":[
         "Cill Mheas\u00e1in"
     ],
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040190,
+    "wof:lastmodified":1690931834,
     "wof:name":"Kilmessan",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",
