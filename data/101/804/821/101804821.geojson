@@ -28,8 +28,17 @@
     "name:ara_x_variant":[
         "\u0634\u0627\u0646\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0627\u0646\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Shannon"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044d\u043d\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0428\u044d\u043d\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09cd\u09af\u09be\u09a8\u09a8"
@@ -144,6 +153,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9999\u5102"
+    ],
+    "name:zho_x_variant":[
+        "\u9999\u8fb2\u93ae"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Ireland",
@@ -286,7 +298,7 @@
         }
     ],
     "wof:id":101804821,
-    "wof:lastmodified":1639039354,
+    "wof:lastmodified":1690931834,
     "wof:name":"Shannon",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

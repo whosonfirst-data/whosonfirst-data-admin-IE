@@ -23,6 +23,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0440\u0430\u0438\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Portraine"
+    ],
     "name:eng_x_preferred":[
         "Portrane"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0440\u0435\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Portraine"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1126015369,
-    "wof:lastmodified":1639039071,
+    "wof:lastmodified":1690931926,
     "wof:name":"Portrane",
     "wof:parent_id":1746652091,
     "wof:placetype":"locality",

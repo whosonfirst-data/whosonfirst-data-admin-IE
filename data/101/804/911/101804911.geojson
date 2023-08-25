@@ -64,6 +64,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e0\u10d3\u10d8"
     ],
+    "name:lav_x_preferred":[
+        "\u0100rd\u012b"
+    ],
     "name:lit_x_preferred":[
         "Ardi"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101804911,
-    "wof:lastmodified":1637370976,
+    "wof:lastmodified":1690931849,
     "wof:name":"Ardee",
     "wof:parent_id":85685087,
     "wof:placetype":"locality",

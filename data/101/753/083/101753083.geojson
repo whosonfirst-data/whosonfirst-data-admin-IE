@@ -43,6 +43,9 @@
     "name:gle_x_variant":[
         "R\u00e1th C\u00fail"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05ea'\u05e7\u05d5\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Rathcoole"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101753083,
-    "wof:lastmodified":1639037083,
+    "wof:lastmodified":1690931822,
     "wof:name":"Rathcoole",
     "wof:parent_id":1746652101,
     "wof:placetype":"locality",

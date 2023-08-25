@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "A\u00e9roport de Grand-Case Esp\u00e9rance"
     ],
+    "name:fra_x_variant":[
+        "RAF Baldonnel"
+    ],
     "name:gle_x_preferred":[
         "Aeradr\u00f3m Mhic Easmainn"
     ],
@@ -47,8 +50,14 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30f3\u30ab\u30fc\u30ba\u30fb\u30a8\u30b9\u30da\u30e9\u30f3\u30b5\u98db\u884c\u5834"
     ],
+    "name:jpn_x_variant":[
+        "\u30b1\u30fc\u30b9\u30e1\u30f3\u30c8\u98db\u884c\u5834"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Casement AB"
+    ],
+    "name:msa_x_variant":[
+        "Lapangan Terbang Casement"
     ],
     "name:nld_x_preferred":[
         "Luchthaven L'Esp\u00e9rance"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":102547661,
-    "wof:lastmodified":1639045316,
+    "wof:lastmodified":1690931639,
     "wof:name":"Casement Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

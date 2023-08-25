@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Dubl\u00edn Sud"
     ],
+    "name:cat_x_variant":[
+        "South Dublin"
+    ],
     "name:ceb_x_preferred":[
         "South Dublin"
     ],
@@ -64,11 +67,17 @@
     "name:eus_x_preferred":[
         "Hego Dublineko konderria"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0644\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Etel\u00e4-Dublin"
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Dublin Sud"
+    ],
+    "name:frr_x_preferred":[
+        "South Dublin"
     ],
     "name:gle_x_preferred":[
         "Contae \u00c1tha Cliath Theas"
@@ -99,6 +108,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30a6\u30b9\u30c0\u30d6\u30ea\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u5357\u30c0\u30d6\u30ea\u30f3\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0ca6\u0c95\u0ccd\u0cb7\u0cbf\u0ca3 \u0ca1\u0cac\u0ccd\u0cb2\u0cbf\u0ca8\u0ccd"
@@ -297,7 +309,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639034589,
+    "wof:lastmodified":1690931763,
     "wof:name":"South Dublin",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

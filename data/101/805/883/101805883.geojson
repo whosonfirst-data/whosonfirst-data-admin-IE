@@ -24,6 +24,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Newmarket"
+    ],
     "name:eng_x_preferred":[
         "Newmarket"
     ],
@@ -40,6 +43,9 @@
         "\u041d\u044c\u044e\u043c\u0430\u0440\u043a\u0435\u0442"
     ],
     "name:spa_x_preferred":[
+        "Newmarket"
+    ],
+    "name:swe_x_preferred":[
         "Newmarket"
     ],
     "qs:a0":"Ireland",
@@ -114,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035664,
+    "wof:lastmodified":1690931869,
     "wof:name":"Newmarket",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

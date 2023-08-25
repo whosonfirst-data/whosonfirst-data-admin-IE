@@ -22,7 +22,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:bul_x_preferred":[
+        "\u0422\u0443\u0440\u043b\u043e\u0443\u0433\u0445"
+    ],
     "name:cat_x_preferred":[
+        "Turlough"
+    ],
+    "name:ceb_x_preferred":[
         "Turlough"
     ],
     "name:deu_x_preferred":[
@@ -44,6 +50,9 @@
         "Turlough"
     ],
     "name:spa_x_preferred":[
+        "Turlough"
+    ],
+    "name:swe_x_preferred":[
         "Turlough"
     ],
     "qs:a0":"Ireland",
@@ -123,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040416,
+    "wof:lastmodified":1690931826,
     "wof:name":"Turlough",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

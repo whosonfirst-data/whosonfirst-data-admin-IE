@@ -40,6 +40,9 @@
     "name:eus_x_preferred":[
         "Ailt an Chorr\u00e1in"
     ],
+    "name:fin_x_preferred":[
+        "Burtonport"
+    ],
     "name:fra_x_preferred":[
         "Burtonport"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1126056017,
-    "wof:lastmodified":1639040520,
+    "wof:lastmodified":1690931899,
     "wof:name":"Burtonport",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

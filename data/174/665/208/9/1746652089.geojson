@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Leix"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u0634"
     ],
@@ -84,6 +87,9 @@
     "name:fra_x_preferred":[
         "comt\u00e9 de Laois"
     ],
+    "name:frr_x_preferred":[
+        "Laois"
+    ],
     "name:gla_x_preferred":[
         "Contae Laoise"
     ],
@@ -122,6 +128,9 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30aa\u30fc\u30b9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ea\u30fc\u30b7\u30e5\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb2\u0cbe\u0cb5\u0ccb\u0caf\u0cbf\u0cb8\u0ccd"
     ],
@@ -133,6 +142,9 @@
     ],
     "name:kor_x_variant":[
         "\ub808\uc774\uc2dc\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Laois"
     ],
     "name:lat_x_preferred":[
         "Comitatus Licensis"
@@ -151,6 +163,9 @@
     ],
     "name:msa_x_preferred":[
         "County Laois"
+    ],
+    "name:nan_x_preferred":[
+        "Laois K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Laois"
@@ -335,7 +350,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639034497,
+    "wof:lastmodified":1690931819,
     "wof:name":"Laois",
     "wof:parent_id":85685005,
     "wof:placetype":"county",

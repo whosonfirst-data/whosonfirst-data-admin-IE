@@ -29,6 +29,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "mz:tier_metro":1,
+    "name:cym_x_preferred":[
+        "Sandycove"
+    ],
     "name:eng_x_preferred":[
         "Sandycove"
     ],
@@ -59,6 +62,9 @@
     "name:spa_x_preferred":[
         "Sandycove"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0688\u06cc \u06a9\u0648\u0648"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPLX",
@@ -88,11 +94,11 @@
     "wd:longitude":-6.116,
     "wd:wordcount":462,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639045367,
+    "wof:lastmodified":1690931752,
     "wof:name":"Sandycove",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

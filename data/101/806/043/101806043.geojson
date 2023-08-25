@@ -22,6 +22,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062b\u0648\u0631\u0644\u0632"
+    ],
+    "name:arz_x_preferred":[
+        "\u062b\u0648\u0631\u0644\u0632"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u043b\u0435\u0441"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud138\ub808\uc2a4"
+    ],
+    "name:lat_x_preferred":[
+        "Durlus"
     ],
     "name:lit_x_preferred":[
         "Terlsas"
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":101806043,
-    "wof:lastmodified":1639045240,
+    "wof:lastmodified":1690931885,
     "wof:name":"Thurles",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",

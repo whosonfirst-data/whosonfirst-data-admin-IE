@@ -35,6 +35,9 @@
     "name:gle_x_preferred":[
         "Cill Ia"
     ],
+    "name:lat_x_preferred":[
+        "Calebachus"
+    ],
     "name:lit_x_preferred":[
         "Kileagas"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125845357,
-    "wof:lastmodified":1639043831,
+    "wof:lastmodified":1690931933,
     "wof:name":"Killeagh",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

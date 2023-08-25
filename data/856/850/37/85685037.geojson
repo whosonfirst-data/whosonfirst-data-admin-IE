@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Clarsc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0644\u064a\u0631"
     ],
@@ -101,6 +104,9 @@
     "name:fra_x_preferred":[
         "comt\u00e9 de Clare"
     ],
+    "name:frr_x_preferred":[
+        "Clare"
+    ],
     "name:gla_x_preferred":[
         "Contae an Chl\u00e1ire"
     ],
@@ -122,8 +128,14 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0909\u0902\u091f\u0940 \u0915\u094d\u0932\u0947\u092f\u0930"
     ],
+    "name:hrv_x_preferred":[
+        "Clare"
+    ],
     "name:hun_x_preferred":[
         "Clare megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u056c\u0565\u0580"
     ],
     "name:ind_x_preferred":[
         "County Clare"
@@ -137,6 +149,9 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ec\u30a2\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30af\u30ec\u30a2\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0c95\u0ccd\u0cb2\u0cc7\u0cb0\u0ccd"
     ],
@@ -148,6 +163,9 @@
     ],
     "name:kor_x_variant":[
         "\ud074\ub798\uc5b4\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Clare"
     ],
     "name:lat_x_preferred":[
         "Comitatus Clarensis"
@@ -166,6 +184,9 @@
     ],
     "name:msa_x_preferred":[
         "County Clare"
+    ],
+    "name:nan_x_preferred":[
+        "Clare K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Clare"
@@ -238,6 +259,9 @@
     ],
     "name:vie_x_variant":[
         "H\u1ea1t Clare"
+    ],
+    "name:wuu_x_preferred":[
+        "\u514b\u83b1\u5c14\u90e1"
     ],
     "name:zho_cn_x_preferred":[
         "\u514b\u83b1\u5c14"
@@ -376,7 +400,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696582,
+    "wof:lastmodified":1690931647,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

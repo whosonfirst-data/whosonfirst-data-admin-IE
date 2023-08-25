@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Blackrock"
     ],
+    "name:fra_x_preferred":[
+        "Blackrock"
+    ],
     "name:gle_x_preferred":[
         "Na Creagacha Dubha"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125907725,
-    "wof:lastmodified":1639043959,
+    "wof:lastmodified":1690931915,
     "wof:name":"Black Rock",
     "wof:parent_id":1746652093,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:eus_x_preferred":[
         "Straffan"
     ],
+    "name:fra_x_preferred":[
+        "Straffan"
+    ],
     "name:gle_x_preferred":[
         "Teach Sraf\u00e1in"
     ],
@@ -112,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639036892,
+    "wof:lastmodified":1690931824,
     "wof:name":"Straffan",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

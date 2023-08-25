@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u062f\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u062f\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Kildare"
+    ],
     "name:bre_x_preferred":[
         "Cill Dara"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30c7\u30a2"
+    ],
+    "name:lat_x_preferred":[
+        "Kildaria"
     ],
     "name:lit_x_preferred":[
         "Kilderas"
@@ -195,7 +204,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639043084,
+    "wof:lastmodified":1690931849,
     "wof:name":"Kildare",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Birdhill"
     ],
+    "name:fra_x_preferred":[
+        "Birdhill"
+    ],
     "name:gle_x_preferred":[
         "Cnoc\u00e1n an \u00c9in Fhinn"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125883635,
-    "wof:lastmodified":1639043897,
+    "wof:lastmodified":1690931904,
     "wof:name":"Birdhill",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",

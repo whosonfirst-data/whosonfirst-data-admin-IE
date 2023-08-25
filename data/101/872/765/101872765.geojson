@@ -68,6 +68,9 @@
     "name:gle_x_preferred":[
         "An Spid\u00e9al"
     ],
+    "name:glv_x_preferred":[
+        "An Spid\u00e9al"
+    ],
     "name:ita_x_preferred":[
         "An Spid\u00e9al"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:swe_x_preferred":[
         "An Spid\u00e9al"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u76ae\u5fb7\u5c14"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Galway",
@@ -160,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551801,
+    "wof:lastmodified":1690931825,
     "wof:name":"An Spid\u00e9al",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

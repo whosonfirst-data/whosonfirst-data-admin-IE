@@ -54,6 +54,9 @@
     "name:ita_x_preferred":[
         "Ballyhaunis"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30cf\u30a6\u30cb\u30b9"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10da\u10d8\u10f0\u10dd\u10dc\u10d8\u10e1\u10d8"
     ],
@@ -144,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639043215,
+    "wof:lastmodified":1690931862,
     "wof:name":"Ballyhaunis",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

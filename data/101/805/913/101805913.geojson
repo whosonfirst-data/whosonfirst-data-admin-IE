@@ -55,6 +55,9 @@
     "name:eus_x_preferred":[
         "Clonakilty"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u06a9\u06cc\u0644\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Clonakilty"
     ],
@@ -106,6 +109,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0644\u0648\u0646\u06cc\u06a9\u06cc\u0644\u06cc"
     ],
+    "name:zho_x_preferred":[
+        "\u514b\u6d1b\u7eb3\u57fa\u5c14\u8482"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Cork",
     "qs:a1r":"0",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":101805913,
-    "wof:lastmodified":1639040272,
+    "wof:lastmodified":1690931866,
     "wof:name":"Clonakilty",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

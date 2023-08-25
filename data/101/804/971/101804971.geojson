@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ast_x_preferred":[
+        "Roscommon"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u043a\u043e\u043c\u044a\u043d"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\uc2a4\ucee4\uba3c"
+    ],
+    "name:lat_x_preferred":[
+        "Roscomum"
     ],
     "name:lit_x_preferred":[
         "Roskomonas"
@@ -268,7 +274,7 @@
         }
     ],
     "wof:id":101804971,
-    "wof:lastmodified":1639035767,
+    "wof:lastmodified":1690931839,
     "wof:name":"Roscommon",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

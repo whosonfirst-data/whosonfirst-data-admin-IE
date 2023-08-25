@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.21360157496,53.2930433292,-6.21360157496,53.2930433292",
+    "geom:bbox":"-6.213602,53.293043,-6.213602,53.293043",
     "geom:latitude":53.293043,
     "geom:longitude":-6.213602,
     "iso:country":"IE",
@@ -29,10 +29,16 @@
     "name:deu_x_preferred":[
         "Mount Merrion House"
     ],
+    "name:deu_x_variant":[
+        "Mount Merrion"
+    ],
     "name:eng_x_preferred":[
         "Mount Merrion"
     ],
     "name:eus_x_preferred":[
+        "Mount Merrion"
+    ],
+    "name:fra_x_preferred":[
         "Mount Merrion"
     ],
     "name:gla_x_preferred":[
@@ -40,6 +46,12 @@
     ],
     "name:gle_x_preferred":[
         "Cnoc Mhuirfean"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a6\u30f3\u30c8\u30fb\u30e1\u30ea\u30aa\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Mount Merrion"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0443\u043d\u0442-\u041c\u0435\u0440\u0440\u0438\u043e\u043d"
@@ -51,11 +63,11 @@
     "wd:longitude":-6.2121,
     "wd:wordcount":1786,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +75,7 @@
     },
     "wof:country":"IE",
     "wof:created":1458871855,
-    "wof:geomhash":"850059c15ac36281bda231d798490850",
+    "wof:geomhash":"459a2e430bdb637d9813e6574eed4003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":420782781,
-    "wof:lastmodified":1639045369,
+    "wof:lastmodified":1690931887,
     "wof:name":"Mount Merrion",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -85,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.21360157495686,
-    53.29304332920598,
-    -6.21360157495686,
-    53.29304332920598
+    -6.213602,
+    53.293043,
+    -6.213602,
+    53.293043
 ],
-  "geometry": {"coordinates":[-6.21360157495686,53.29304332920598],"type":"Point"}
+  "geometry": {"coordinates":[-6.213602,53.293043],"type":"Point"}
 }

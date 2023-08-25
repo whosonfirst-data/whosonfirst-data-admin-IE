@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Summerhill"
     ],
+    "name:fra_x_variant":[
+        "Summerhil"
+    ],
     "name:gle_x_preferred":[
         "Cnoc an L\u00ednsigh"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Summerhill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30de\u30fc\u30d2\u30eb"
     ],
     "name:kor_x_preferred":[
         "\uc11c\uba38\ud790"
@@ -148,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639039631,
+    "wof:lastmodified":1690931833,
     "wof:name":"Summerhill",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

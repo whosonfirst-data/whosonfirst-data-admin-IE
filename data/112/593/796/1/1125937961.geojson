@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Dromiskin"
     ],
+    "name:deu_x_preferred":[
+        "Dromiskin"
+    ],
     "name:eng_x_preferred":[
         "Dromiskin"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125937961,
-    "wof:lastmodified":1639044082,
+    "wof:lastmodified":1690931889,
     "wof:name":"Dromiskin",
     "wof:parent_id":1746652093,
     "wof:placetype":"locality",

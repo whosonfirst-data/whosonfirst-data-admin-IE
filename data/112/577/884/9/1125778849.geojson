@@ -20,10 +20,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:cos_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:dan_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:deu_x_preferred":[
+        "Rockbrook"
+    ],
     "name:eng_x_preferred":[
         "Rockbrook"
     ],
     "name:eus_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:fra_x_preferred":[
         "Rockbrook"
     ],
     "name:gla_x_preferred":[
@@ -32,13 +47,37 @@
     "name:gle_x_preferred":[
         "Sruth na gCloch"
     ],
+    "name:ind_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:ita_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:nds_x_preferred":[
+        "Rockbrook"
+    ],
     "name:nld_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:por_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:ron_x_preferred":[
         "Rockbrook"
     ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u043a\u0431\u0440\u0443\u043a"
     ],
     "name:sco_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:spa_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:swe_x_preferred":[
+        "Rockbrook"
+    ],
+    "name:tah_x_preferred":[
         "Rockbrook"
     ],
     "qs_pg:aaroncc":"IE",
@@ -89,7 +128,7 @@
         }
     ],
     "wof:id":1125778849,
-    "wof:lastmodified":1639042921,
+    "wof:lastmodified":1690931935,
     "wof:name":"Rockbrook",
     "wof:parent_id":1746652101,
     "wof:placetype":"locality",

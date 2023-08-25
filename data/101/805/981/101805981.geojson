@@ -52,6 +52,9 @@
     "name:ita_x_preferred":[
         "Thomastown"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30de\u30b9\u30bf\u30a6\u30f3"
+    ],
     "name:mlg_x_preferred":[
         "Thomastown"
     ],
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035701,
+    "wof:lastmodified":1690931876,
     "wof:name":"Thomastown",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

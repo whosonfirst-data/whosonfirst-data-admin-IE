@@ -32,6 +32,9 @@
     "name:eus_x_preferred":[
         "Longwood"
     ],
+    "name:fra_x_preferred":[
+        "Longwood"
+    ],
     "name:gle_x_preferred":[
         "Maigh Dearmha\u00ed"
     ],
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125800609,
-    "wof:lastmodified":1639036928,
+    "wof:lastmodified":1690931910,
     "wof:name":"Longwood",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.13749832622,53.2924618917,-6.13749832622,53.2924618917",
+    "geom:bbox":"-6.137498,53.292462,-6.137498,53.292462",
     "geom:latitude":53.292462,
     "geom:longitude":-6.137498,
     "iso:country":"IE",
@@ -24,6 +24,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":0,
     "name:afr_x_preferred":[
+        "D\u00fan Laoghaire"
+    ],
+    "name:ast_x_preferred":[
         "D\u00fan Laoghaire"
     ],
     "name:bel_x_variant":[
@@ -51,6 +54,9 @@
         "D\u00fan Laoghaire"
     ],
     "name:eng_x_preferred":[
+        "D\u00fan Laoghaire"
+    ],
+    "name:epo_x_preferred":[
         "D\u00fan Laoghaire"
     ],
     "name:eus_x_preferred":[
@@ -119,6 +125,9 @@
     "name:swe_x_preferred":[
         "D\u00fan Laoghaire"
     ],
+    "name:szl_x_preferred":[
+        "D\u00fan Laoghaire"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e39\u0e19\u0e40\u0e25\u0e40\u0e23"
     ],
@@ -139,11 +148,11 @@
     "wd:longitude":-6.14,
     "wd:wordcount":3974,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +160,7 @@
     },
     "wof:country":"IE",
     "wof:created":1458871855,
-    "wof:geomhash":"6f2bfc2cad64895ff362011c08f8cc0b",
+    "wof:geomhash":"ce0dfdab24ef2b7d3ec5f0ea5e812f64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":420782777,
-    "wof:lastmodified":1639045322,
+    "wof:lastmodified":1690931887,
     "wof:name":"D\u00fan Laoghaire",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -173,10 +182,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.13749832621615,
-    53.29246189171609,
-    -6.13749832621615,
-    53.29246189171609
+    -6.137498,
+    53.292462,
+    -6.137498,
+    53.292462
 ],
-  "geometry": {"coordinates":[-6.13749832621615,53.29246189171609],"type":"Point"}
+  "geometry": {"coordinates":[-6.137498,53.292462],"type":"Point"}
 }

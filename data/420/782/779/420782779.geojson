@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-6.124452055,53.2876390757,-6.124452055,53.2876390757",
+    "geom:bbox":"-6.124452,53.287639,-6.124452,53.287639",
     "geom:latitude":53.287639,
     "geom:longitude":-6.124452,
     "iso:country":"IE",
@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Glasthule"
     ],
+    "name:cym_x_preferred":[
+        "Glasthule"
+    ],
     "name:eng_x_preferred":[
         "Glasthule"
     ],
@@ -38,16 +41,19 @@
     "name:gle_x_preferred":[
         "Glas Tuathail"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30b9\u30b9\u30fc\u30eb"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043b\u0430\u0441\u0442\u0443\u043b"
     ],
     "wd:wordcount":171,
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +61,7 @@
     },
     "wof:country":"IE",
     "wof:created":1458871855,
-    "wof:geomhash":"1bdd981ab88fbccb3ae836a990ab002a",
+    "wof:geomhash":"5ffb56890b10e57bdaf0472ca301da3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":420782779,
-    "wof:lastmodified":1639045368,
+    "wof:lastmodified":1690931887,
     "wof:name":"Glasthule",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -6.12445205500346,
-    53.28763907573624,
-    -6.12445205500346,
-    53.28763907573624
+    -6.124452,
+    53.287639,
+    -6.124452,
+    53.287639
 ],
-  "geometry": {"coordinates":[-6.12445205500346,53.28763907573624],"type":"Point"}
+  "geometry": {"coordinates":[-6.124452,53.287639],"type":"Point"}
 }

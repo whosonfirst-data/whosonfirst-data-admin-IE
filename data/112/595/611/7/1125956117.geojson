@@ -28,8 +28,14 @@
     "name:eus_x_preferred":[
         "Neale"
     ],
+    "name:fra_x_preferred":[
+        "Neale"
+    ],
     "name:gle_x_preferred":[
         "An \u00c9ill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30fc\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10da\u10d8"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125956117,
-    "wof:lastmodified":1639038148,
+    "wof:lastmodified":1690931896,
     "wof:name":"Neale",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

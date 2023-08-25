@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ford"
+    ],
     "name:eng_x_preferred":[
         "Kilmuckridge"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:spa_x_preferred":[
         "Kilmuckridge"
+    ],
+    "name:swe_x_preferred":[
+        "Ford"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125964711,
-    "wof:lastmodified":1639038665,
+    "wof:lastmodified":1690931918,
     "wof:name":"Kilmuckridge",
     "wof:parent_id":1746652137,
     "wof:placetype":"locality",

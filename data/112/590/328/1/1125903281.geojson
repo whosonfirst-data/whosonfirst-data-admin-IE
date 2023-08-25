@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Castlemaine"
+    ],
+    "name:ceb_x_preferred":[
+        "Castlemaine"
+    ],
     "name:deu_x_preferred":[
         "Castlemaine"
     ],
@@ -37,6 +43,9 @@
     "name:gle_x_preferred":[
         "Caisle\u00e1n na Mainge"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05dc\u05de\u05d9\u05d9\u05df"
+    ],
     "name:nld_x_preferred":[
         "Castlemaine"
     ],
@@ -47,6 +56,9 @@
         "\u041a\u0430\u0441\u043b\u043c\u0435\u0439\u043d"
     ],
     "name:spa_x_preferred":[
+        "Castlemaine"
+    ],
+    "name:swe_x_preferred":[
         "Castlemaine"
     ],
     "qs_pg:aaroncc":"IE",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125903281,
-    "wof:lastmodified":1639045265,
+    "wof:lastmodified":1690931915,
     "wof:name":"Castlemaine",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Glandore"
     ],
+    "name:zho_x_preferred":[
+        "\u683c\u862d\u5fb7"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125791277,
-    "wof:lastmodified":1639037766,
+    "wof:lastmodified":1690931930,
     "wof:name":"Glandore",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

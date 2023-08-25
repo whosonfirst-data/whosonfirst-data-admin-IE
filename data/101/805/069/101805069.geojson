@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Raphoe"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0444\u043e\u0443"
     ],
@@ -35,6 +38,9 @@
         "Raphoe"
     ],
     "name:eng_x_preferred":[
+        "Raphoe"
+    ],
+    "name:epo_x_preferred":[
         "Raphoe"
     ],
     "name:eus_x_preferred":[
@@ -122,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044928,
+    "wof:lastmodified":1690931873,
     "wof:name":"Raphoe",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

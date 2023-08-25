@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Dooagh"
     ],
+    "name:eus_x_preferred":[
+        "Dooagh"
+    ],
     "name:gle_x_preferred":[
         "Dumha Acha"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125791265,
-    "wof:lastmodified":1566680308,
+    "wof:lastmodified":1690931931,
     "wof:name":"Dooagh",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

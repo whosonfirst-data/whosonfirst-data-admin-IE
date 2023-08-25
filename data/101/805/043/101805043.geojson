@@ -104,8 +104,14 @@
     "name:kor_x_preferred":[
         "\uce90\uc2ac\ubc14"
     ],
+    "name:lav_x_preferred":[
+        "K\u0101slb\u0101ra"
+    ],
     "name:lit_x_preferred":[
         "Kaslbaras"
+    ],
+    "name:ltz_x_preferred":[
+        "Castlebar"
     ],
     "name:nld_x_preferred":[
         "Castlebar"
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":101805043,
-    "wof:lastmodified":1639041295,
+    "wof:lastmodified":1690931870,
     "wof:name":"Castlebar",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

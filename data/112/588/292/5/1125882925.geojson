@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Roosky"
     ],
+    "name:dan_x_preferred":[
+        "Roosky"
+    ],
     "name:deu_x_preferred":[
         "Roosky"
     ],
@@ -38,6 +41,9 @@
         "Rooskey"
     ],
     "name:eus_x_preferred":[
+        "Roosky"
+    ],
+    "name:fra_x_preferred":[
         "Roosky"
     ],
     "name:gla_x_preferred":[
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1125882925,
-    "wof:lastmodified":1639039095,
+    "wof:lastmodified":1690931905,
     "wof:name":"Roosky",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

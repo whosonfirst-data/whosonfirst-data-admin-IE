@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Kilternan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30eb\u30bf\u30fc\u30ca\u30f3"
+    ],
     "name:nld_x_preferred":[
         "Kilternan"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126012445,
-    "wof:lastmodified":1639037734,
+    "wof:lastmodified":1690931924,
     "wof:name":"Kilternan",
     "wof:parent_id":1746652107,
     "wof:placetype":"locality",

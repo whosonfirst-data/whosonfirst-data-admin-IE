@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Killeshandra"
     ],
+    "name:deu_x_preferred":[
+        "Killeshandra"
+    ],
     "name:eng_x_preferred":[
         "Killeshandra"
     ],
@@ -144,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035320,
+    "wof:lastmodified":1690931872,
     "wof:name":"Killeshandra",
     "wof:parent_id":1746652135,
     "wof:placetype":"locality",

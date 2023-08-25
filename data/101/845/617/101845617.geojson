@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Piltown"
     ],
+    "name:fra_x_preferred":[
+        "Piltown"
+    ],
     "name:gle_x_preferred":[
         "Baile an Phoill"
     ],
@@ -47,6 +50,9 @@
         "Piltown"
     ],
     "name:swe_x_preferred":[
+        "Piltown"
+    ],
+    "name:szl_x_preferred":[
         "Piltown"
     ],
     "qs:a0":"Ireland",
@@ -124,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639041921,
+    "wof:lastmodified":1690931824,
     "wof:name":"Piltown",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

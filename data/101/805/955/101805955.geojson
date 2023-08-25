@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0644\u0648\u0646\u0645\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0644\u0648\u0646\u0645\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u043b\u043e\u043d\u043c\u0435\u043b"
     ],
@@ -96,6 +99,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud074\ub860\uba5c"
+    ],
+    "name:lat_x_preferred":[
+        "Clona"
+    ],
+    "name:lav_x_preferred":[
+        "Klonmela"
     ],
     "name:lit_x_preferred":[
         "Klonmelis"
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":101805955,
-    "wof:lastmodified":1639040209,
+    "wof:lastmodified":1690931856,
     "wof:name":"Clonmel",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",

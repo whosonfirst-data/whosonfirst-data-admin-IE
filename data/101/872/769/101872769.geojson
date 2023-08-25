@@ -58,6 +58,9 @@
     "name:swe_x_preferred":[
         "Cliffony"
     ],
+    "name:swe_x_variant":[
+        "Cliffoney"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Sligo",
     "qs:a1r":"0",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101872769,
-    "wof:lastmodified":1639043372,
+    "wof:lastmodified":1690931827,
     "wof:name":"Cliffoney",
     "wof:parent_id":1746652129,
     "wof:placetype":"locality",

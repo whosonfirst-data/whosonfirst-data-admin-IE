@@ -49,6 +49,9 @@
     "name:spa_x_preferred":[
         "Punta Espa\u00f1ola"
     ],
+    "name:swe_x_preferred":[
+        "Spanish Point"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125891239,
-    "wof:lastmodified":1639036421,
+    "wof:lastmodified":1690931908,
     "wof:name":"Spanish Point",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

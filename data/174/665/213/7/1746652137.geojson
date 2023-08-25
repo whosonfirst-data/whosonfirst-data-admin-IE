@@ -19,11 +19,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "W\u0101senafordsc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0643\u0633\u0641\u0648\u0631\u062f"
     ],
     "name:ast_x_preferred":[
         "Cond\u00e1u de Wexford"
+    ],
+    "name:aze_x_preferred":[
+        "Ueksford Qrafl\u0131\u011f\u0131"
     ],
     "name:bel_x_preferred":[
         "\u0433\u0440\u0430\u0444\u0441\u0442\u0432\u0430 \u0423\u044d\u043a\u0441\u0444\u0430\u0440\u0434"
@@ -67,6 +73,9 @@
     "name:epo_x_preferred":[
         "Graflando Wexford"
     ],
+    "name:est_x_preferred":[
+        "Wexfordi krahvkond"
+    ],
     "name:eus_x_preferred":[
         "Wexfordeko konderria"
     ],
@@ -80,6 +89,9 @@
         "Comt\u00e9 de Wexford"
     ],
     "name:fra_x_variant":[
+        "Wexford"
+    ],
+    "name:frr_x_preferred":[
         "Wexford"
     ],
     "name:gla_x_preferred":[
@@ -106,6 +118,9 @@
     "name:hun_x_preferred":[
         "Wexford megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0565\u0584\u057d\u0586\u0578\u0580\u0564"
+    ],
     "name:ind_x_preferred":[
         "County Wexford"
     ],
@@ -114,6 +129,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30c9\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30a7\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30c9\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb5\u0cc6\u0c95\u0ccd\u0cb8\u0ccd\u0cab\u0cb0\u0ccd\u0ca1\u0ccd"
@@ -126,6 +144,9 @@
     ],
     "name:kor_x_variant":[
         "\uc6e9\uc2a4\ud37c\ub4dc\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Wexford"
     ],
     "name:lat_x_preferred":[
         "Comitatus Vexfordiensis"
@@ -204,6 +225,9 @@
     ],
     "name:tur_x_preferred":[
         "Wexford Countt"
+    ],
+    "name:tur_x_variant":[
+        "Wexford County"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043a\u0441\u0444\u043e\u0440\u0434"
@@ -329,7 +353,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639034561,
+    "wof:lastmodified":1690931810,
     "wof:name":"Wexford",
     "wof:parent_id":85684967,
     "wof:placetype":"county",

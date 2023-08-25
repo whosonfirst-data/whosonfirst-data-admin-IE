@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Sneem"
     ],
+    "name:dan_x_preferred":[
+        "Sneem"
+    ],
     "name:deu_x_preferred":[
         "Sneem"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d9\u05dd"
+    ],
+    "name:ita_x_preferred":[
+        "Sneem"
     ],
     "name:nau_x_preferred":[
         "Sneem"
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":1125923397,
-    "wof:lastmodified":1639041364,
+    "wof:lastmodified":1690931892,
     "wof:name":"Sneem",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

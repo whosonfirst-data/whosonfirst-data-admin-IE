@@ -43,6 +43,9 @@
     "name:deu_x_preferred":[
         "Lifford"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c6\u03c6\u03bf\u03c1\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Lifford"
     ],
@@ -88,6 +91,9 @@
     "name:lit_x_preferred":[
         "Lifordas"
     ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0444\u043e\u0440\u0434"
+    ],
     "name:nld_x_preferred":[
         "Lifford"
     ],
@@ -98,6 +104,9 @@
         "\u041b\u0438\u0444\u0444\u043e\u0440\u0434"
     ],
     "name:pol_x_preferred":[
+        "Lifford"
+    ],
+    "name:ron_x_preferred":[
         "Lifford"
     ],
     "name:rus_x_preferred":[
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":101847095,
-    "wof:lastmodified":1639036882,
+    "wof:lastmodified":1690931879,
     "wof:name":"Lifford",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

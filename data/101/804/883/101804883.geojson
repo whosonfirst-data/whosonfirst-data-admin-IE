@@ -79,6 +79,9 @@
     "name:swe_x_preferred":[
         "Slane"
     ],
+    "name:zho_x_preferred":[
+        "\u65af\u83b1\u6069"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Meath",
     "qs:a1r":"0",
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551743,
+    "wof:lastmodified":1690931844,
     "wof:name":"Slane",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

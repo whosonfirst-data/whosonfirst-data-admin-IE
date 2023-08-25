@@ -52,6 +52,12 @@
     "name:ita_x_preferred":[
         "Duleek"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30e5\u30ea\u30fc\u30af"
+    ],
+    "name:lat_x_preferred":[
+        "Dulecum"
+    ],
     "name:lit_x_preferred":[
         "Dulikas"
     ],
@@ -154,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035276,
+    "wof:lastmodified":1690931845,
     "wof:name":"Duleek",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

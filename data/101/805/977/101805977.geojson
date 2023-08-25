@@ -22,8 +22,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Kilkenny"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0643\u064a\u0646\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0644\u0643\u064a\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kilkenny"
+    ],
+    "name:aze_x_preferred":[
+        "Kilkenni"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b2\u09cd\u0995\u09c7\u09a8\u09bf"
@@ -58,6 +70,9 @@
     "name:eng_x_preferred":[
         "Kilkenny"
     ],
+    "name:epo_x_preferred":[
+        "Cill Chainnigh"
+    ],
     "name:eus_x_preferred":[
         "Kilkenny"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:fry_x_preferred":[
         "Kilkenny"
+    ],
+    "name:gla_x_preferred":[
+        "Cill Chainnigh"
     ],
     "name:gle_x_preferred":[
         "Cill Chainnigh"
@@ -117,6 +135,9 @@
     ],
     "name:lat_x_variant":[
         "Kilkennia"
+    ],
+    "name:lav_x_preferred":[
+        "Kilkeni"
     ],
     "name:lit_x_preferred":[
         "Kilkenis"
@@ -172,6 +193,9 @@
     "name:swe_x_preferred":[
         "Kilkenny"
     ],
+    "name:szl_x_preferred":[
+        "Kilkenny"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb2\u0bcd\u0b95\u0bc6\u0ba9\u0bcd\u0ba9\u0bbf"
     ],
@@ -189,6 +213,9 @@
     ],
     "name:vol_x_preferred":[
         "Cill Chainnigh"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d8\u10da\u10d9\u10d4\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u5c14\u80af\u5c3c"
@@ -362,7 +389,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040215,
+    "wof:lastmodified":1690931864,
     "wof:name":"Kilkenny",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

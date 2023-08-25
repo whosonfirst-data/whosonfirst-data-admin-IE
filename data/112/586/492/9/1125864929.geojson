@@ -34,6 +34,9 @@
     "name:gle_x_preferred":[
         "Sean Chill Chuilinn"
     ],
+    "name:gle_x_variant":[
+        "Seanchill Chuillinn"
+    ],
     "name:swe_x_preferred":[
         "Old Kilcullen"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125864929,
-    "wof:lastmodified":1639041911,
+    "wof:lastmodified":1690931902,
     "wof:name":"Old Kilcullen",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

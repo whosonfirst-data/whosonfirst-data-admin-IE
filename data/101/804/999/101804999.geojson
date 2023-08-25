@@ -88,6 +88,9 @@
     "name:kor_x_preferred":[
         "\uce90\ubc88"
     ],
+    "name:lat_x_preferred":[
+        "Cavanum"
+    ],
     "name:lit_x_preferred":[
         "Kavanas"
     ],
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":101804999,
-    "wof:lastmodified":1639035762,
+    "wof:lastmodified":1690931832,
     "wof:name":"Cavan",
     "wof:parent_id":1746652135,
     "wof:placetype":"locality",

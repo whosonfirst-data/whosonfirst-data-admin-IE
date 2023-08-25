@@ -34,6 +34,9 @@
     "name:eus_x_preferred":[
         "Geashill"
     ],
+    "name:fra_x_preferred":[
+        "Geashill"
+    ],
     "name:gle_x_preferred":[
         "G\u00e9isill"
     ],
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044958,
+    "wof:lastmodified":1690931846,
     "wof:name":"Geashill",
     "wof:parent_id":1746652115,
     "wof:placetype":"locality",

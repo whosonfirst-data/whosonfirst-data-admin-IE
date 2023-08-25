@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Yellow Furze"
     ],
+    "name:fra_x_preferred":[
+        "Yellow Furze"
+    ],
     "name:gle_x_preferred":[
         "An Aitinn Bhu\u00ed"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126030921,
-    "wof:lastmodified":1639043074,
+    "wof:lastmodified":1690931900,
     "wof:name":"Yellow Furze",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

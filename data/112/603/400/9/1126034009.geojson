@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Goresbridge"
     ],
+    "name:fra_x_preferred":[
+        "Goresbridge"
+    ],
     "name:gle_x_preferred":[
         "An Droichead Nua"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126034009,
-    "wof:lastmodified":1639039016,
+    "wof:lastmodified":1690931900,
     "wof:name":"Goresbridge",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",

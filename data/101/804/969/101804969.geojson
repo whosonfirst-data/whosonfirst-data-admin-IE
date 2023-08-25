@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0644"
+    ],
     "name:cat_x_preferred":[
         "Boyle"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:ita_x_preferred":[
         "Boyle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30a4\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d8\u10da\u10d8"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101804969,
-    "wof:lastmodified":1639040727,
+    "wof:lastmodified":1690931842,
     "wof:name":"Boyle",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Miltown Malbay"
     ],
+    "name:ces_x_preferred":[
+        "Milltown Malbay"
+    ],
     "name:cym_x_preferred":[
         "Milltown Malbay"
     ],
@@ -46,11 +49,17 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0645\u06cc\u0644\u062a\u0627\u0648\u0646 \u0645\u0627\u0644\u200c\u0628\u06cc"
     ],
+    "name:fra_x_preferred":[
+        "Milltown Malbay"
+    ],
     "name:gle_x_preferred":[
         "Sr\u00e1id na Cathrach"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d9\u05dc\u05d8\u05d0\u05d5 \u05de\u05d0\u05dc\u05d1\u05d9\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d9\u05dc\u05d8\u05d0\u05d5\u05df \u05de\u05d0\u05dc\u05d1\u05d9\u05d9"
     ],
     "name:ita_x_preferred":[
         "Milltown Malbay"
@@ -159,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044281,
+    "wof:lastmodified":1690931846,
     "wof:name":"Miltown Malbay",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

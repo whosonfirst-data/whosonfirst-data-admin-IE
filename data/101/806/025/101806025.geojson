@@ -24,6 +24,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0633\u062a\u0627\u0648\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0633\u062a\u0627\u0648\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Listowel"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0442\u043e\u0443\u044a\u043b"
     ],
@@ -170,7 +179,7 @@
         }
     ],
     "wof:id":101806025,
-    "wof:lastmodified":1639043275,
+    "wof:lastmodified":1690931883,
     "wof:name":"Listowel",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

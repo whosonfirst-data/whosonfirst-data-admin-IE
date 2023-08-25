@@ -43,6 +43,9 @@
     "name:nld_x_preferred":[
         "Dooega"
     ],
+    "name:spa_x_preferred":[
+        "Dooega"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125814237,
-    "wof:lastmodified":1566680209,
+    "wof:lastmodified":1690931903,
     "wof:name":"Dooega",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

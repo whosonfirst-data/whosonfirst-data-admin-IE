@@ -22,6 +22,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Kilcullen"
+    ],
     "name:cat_x_preferred":[
         "Kilcullen"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Kilcullen"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5c14\u5e93\u4f26"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Kildare",
@@ -140,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639044955,
+    "wof:lastmodified":1690931830,
     "wof:name":"Kilcullen",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

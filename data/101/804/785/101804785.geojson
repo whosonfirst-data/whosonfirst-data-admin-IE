@@ -25,10 +25,16 @@
     "name:ceb_x_preferred":[
         "Robertstown"
     ],
+    "name:deu_x_preferred":[
+        "Robertstown"
+    ],
     "name:eng_x_preferred":[
         "Robertstown"
     ],
     "name:eus_x_preferred":[
+        "Robertstown"
+    ],
+    "name:fra_x_preferred":[
         "Robertstown"
     ],
     "name:gle_x_preferred":[
@@ -130,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639034729,
+    "wof:lastmodified":1690931838,
     "wof:name":"Robertstown",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

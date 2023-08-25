@@ -23,6 +23,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Mullaghmore"
+    ],
     "name:dan_x_preferred":[
         "Mullaghmore"
     ],
@@ -44,8 +47,14 @@
     "name:glv_x_preferred":[
         "An Mullach M\u00f3r"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05dc\u05d4\u05de\u05d5\u05e8"
+    ],
     "name:ita_x_preferred":[
         "Mullaghmore"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30e2\u30a2"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10e3\u10da\u10d0\u10ee\u10db\u10dd\u10e0\u10d8"
@@ -61,6 +70,12 @@
     ],
     "name:spa_x_preferred":[
         "Mullaghmore"
+    ],
+    "name:swe_x_preferred":[
+        "Mullaghmore"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u52d2\u83ab"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":1125923315,
-    "wof:lastmodified":1642551722,
+    "wof:lastmodified":1690931892,
     "wof:name":"Mullaghmore",
     "wof:parent_id":1746652129,
     "wof:placetype":"locality",

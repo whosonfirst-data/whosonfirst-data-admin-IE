@@ -25,6 +25,12 @@
     "name:ben_x_preferred":[
         "\u099c\u09a8\u09b8\u09cd\u099f\u09be\u0989\u09a8"
     ],
+    "name:cat_x_preferred":[
+        "Baile Eoin"
+    ],
+    "name:ceb_x_preferred":[
+        "Johnstown"
+    ],
     "name:eng_x_preferred":[
         "Johnstown"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u043d\u0441\u0442\u0430\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Johnstown"
     ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125950847,
-    "wof:lastmodified":1639037166,
+    "wof:lastmodified":1690931895,
     "wof:name":"Johnstown",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

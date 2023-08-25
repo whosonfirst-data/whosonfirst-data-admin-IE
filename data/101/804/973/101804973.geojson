@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Strokestown"
     ],
+    "name:deu_x_preferred":[
+        "Strokestown"
+    ],
     "name:eng_x_preferred":[
         "Strokestown"
     ],
@@ -137,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035412,
+    "wof:lastmodified":1690931850,
     "wof:name":"Strokestown",
     "wof:parent_id":1746652133,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
         "Annagary",
         "Annagry"
     ],
+    "name:epo_x_preferred":[
+        "Anagaire"
+    ],
     "name:eus_x_preferred":[
         "Anagaire"
     ],
@@ -134,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040731,
+    "wof:lastmodified":1690931827,
     "wof:name":"Anagaire",
     "wof:parent_id":1746652121,
     "wof:placetype":"locality",

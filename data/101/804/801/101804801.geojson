@@ -56,7 +56,8 @@
         "Blackhead Bay"
     ],
     "name:swe_x_variant":[
-        "Kilcormac"
+        "Kilcormac",
+        "Ballyvaghan"
     ],
     "qs:a0":"Ireland",
     "qs:a1":"*Clare",
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":101804801,
-    "wof:lastmodified":1642551772,
+    "wof:lastmodified":1690931848,
     "wof:name":"Ballyvaughan",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",

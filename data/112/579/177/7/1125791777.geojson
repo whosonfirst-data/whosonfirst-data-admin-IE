@@ -28,6 +28,9 @@
     "name:eus_x_preferred":[
         "Drumone"
     ],
+    "name:fra_x_preferred":[
+        "Drumone"
+    ],
     "name:gle_x_preferred":[
         "Droim Eamhna"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125791777,
-    "wof:lastmodified":1639040470,
+    "wof:lastmodified":1690931933,
     "wof:name":"Drumone",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

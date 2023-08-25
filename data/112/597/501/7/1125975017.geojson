@@ -56,6 +56,9 @@
     "name:jpn_x_preferred":[
         "\u30b4\u30fc\u30eb\u30c7\u30f3"
     ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4b\u0d7e\u0d21\u0d7b"
+    ],
     "name:nld_x_preferred":[
         "Golden"
     ],
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1125975017,
-    "wof:lastmodified":1637709059,
+    "wof:lastmodified":1690931916,
     "wof:name":"Golden",
     "wof:parent_id":1159294375,
     "wof:placetype":"locality",

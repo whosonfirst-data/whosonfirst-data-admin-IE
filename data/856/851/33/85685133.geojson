@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Leitrimsc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u062a\u0631\u064a\u0645"
     ],
@@ -85,6 +88,9 @@
     "name:epo_x_preferred":[
         "Graflando Leitrim"
     ],
+    "name:est_x_preferred":[
+        "Leitrimi krahvkond"
+    ],
     "name:eus_x_preferred":[
         "Leitrim konderria"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Leitrim"
+    ],
+    "name:frr_x_preferred":[
+        "Leitrim"
     ],
     "name:gla_x_preferred":[
         "Contae Liatroma"
@@ -145,6 +154,9 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30c8\u30ea\u30e0\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ea\u30fc\u30c8\u30ea\u30e0\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb2\u0cc0\u0c9f\u0ccd\u0cb0\u0cbf\u0cae\u0ccd"
     ],
@@ -156,6 +168,9 @@
     ],
     "name:kor_x_variant":[
         "\ub9ac\ud2b8\ub9bc\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "County Leitrim"
     ],
     "name:lat_x_preferred":[
         "Comitatus Letrimensis"
@@ -174,6 +189,9 @@
     ],
     "name:msa_x_preferred":[
         "County Leitrim"
+    ],
+    "name:nan_x_preferred":[
+        "Leitrim K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Leitrim"
@@ -243,6 +261,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Leitrim"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5229\u7279\u91cc\u59c6\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u5229\u7279\u91cc\u59c6\u90e1"
@@ -375,7 +396,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696608,
+    "wof:lastmodified":1690931690,
     "wof:name":"Leitrim",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

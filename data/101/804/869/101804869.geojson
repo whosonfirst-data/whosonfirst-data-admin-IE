@@ -76,6 +76,9 @@
     "name:swe_x_preferred":[
         "Kinnegad"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043d\u043d\u0435\u0433\u0430\u0434"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0633\u06a9"
     ],
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639040281,
+    "wof:lastmodified":1690931836,
     "wof:name":"Kinnegad",
     "wof:parent_id":1746652097,
     "wof:placetype":"locality",

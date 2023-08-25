@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0442\u044a\u0440\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Kanturk"
+    ],
     "name:ceb_x_preferred":[
         "Kanturk"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:ita_x_preferred":[
         "Kanturk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30bf\u30fc\u30af"
     ],
     "name:lit_x_preferred":[
         "Kanturkas"
@@ -157,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639035029,
+    "wof:lastmodified":1690931859,
     "wof:name":"Kanturk",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",

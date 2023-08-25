@@ -43,6 +43,9 @@
     "name:spa_x_preferred":[
         "Cloghan"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6d1b\u683c\u7f55"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125992191,
-    "wof:lastmodified":1639036987,
+    "wof:lastmodified":1690931912,
     "wof:name":"Cloghan",
     "wof:parent_id":1746652115,
     "wof:placetype":"locality",

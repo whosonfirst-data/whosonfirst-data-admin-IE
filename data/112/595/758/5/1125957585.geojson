@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Hempstown"
     ],
+    "name:gle_x_preferred":[
+        "Baile Haim"
+    ],
     "name:nld_x_preferred":[
         "Hempstown"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125957585,
-    "wof:lastmodified":1639038629,
+    "wof:lastmodified":1690931896,
     "wof:name":"Hempstown",
     "wof:parent_id":1746652119,
     "wof:placetype":"locality",

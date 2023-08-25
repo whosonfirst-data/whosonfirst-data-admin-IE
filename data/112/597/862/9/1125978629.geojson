@@ -31,6 +31,12 @@
     "name:gle_x_preferred":[
         "Baile Chruaich"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ea\u30fc\u30af\u30ed\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10d9\u10e0\u10dd\u10d8"
+    ],
     "name:nld_x_preferred":[
         "Ballycroy"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125978629,
-    "wof:lastmodified":1639042908,
+    "wof:lastmodified":1690931917,
     "wof:name":"Ballycroy",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",

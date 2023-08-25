@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ang_x_preferred":[
+        "Wedrafordsc\u012br"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u062a\u0631\u0641\u0648\u0631\u062f"
     ],
@@ -103,6 +106,9 @@
     "name:fra_x_preferred":[
         "comt\u00e9 de Waterford"
     ],
+    "name:frr_x_preferred":[
+        "Waterford"
+    ],
     "name:gla_x_preferred":[
         "Contae Phort L\u00e1irge"
     ],
@@ -136,6 +142,9 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a9\u30fc\u30bf\u30fc\u30d5\u30a9\u30fc\u30c9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30a9\u30fc\u30bf\u30fc\u30d5\u30a9\u30fc\u30c9\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c82\u0c9f\u0cbf \u0cb5\u0cbe\u0c9f\u0cb0\u0ccd\u0cab\u0ccb\u0cb0\u0ccd\u0ca1\u0ccd"
     ],
@@ -165,6 +174,9 @@
     ],
     "name:msa_x_preferred":[
         "County Waterford"
+    ],
+    "name:nan_x_preferred":[
+        "Waterford K\u016bn"
     ],
     "name:nld_x_preferred":[
         "County Waterford"
@@ -235,6 +247,9 @@
     "name:vie_x_preferred":[
         "H\u1ea1t Waterford"
     ],
+    "name:wuu_x_preferred":[
+        "\u6c83\u7279\u798f\u5fb7\u90e1"
+    ],
     "name:zho_x_preferred":[
         "\u6c83\u7279\u798f\u5fb7\u90e1"
     ],
@@ -300,7 +315,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696628,
+    "wof:lastmodified":1690931716,
     "wof:name":"Waterford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

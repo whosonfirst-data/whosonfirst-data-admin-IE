@@ -55,6 +55,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0444\u0435\u0440\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Clonfert"
+    ],
     "qs_pg:aaroncc":"IE",
     "qs_pg:gn_country":"IE",
     "qs_pg:gn_fcode":"PPL",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126053995,
-    "wof:lastmodified":1639038657,
+    "wof:lastmodified":1690931898,
     "wof:name":"Clonfert",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Dromod"
     ],
+    "name:deu_x_preferred":[
+        "Dromod"
+    ],
     "name:eng_x_preferred":[
         "Drumod"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125934561,
-    "wof:lastmodified":1639044004,
+    "wof:lastmodified":1690931891,
     "wof:name":"Drumod",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

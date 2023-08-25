@@ -24,6 +24,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Clifden"
+    ],
     "name:bre_x_preferred":[
         "An Cloch\u00e1n"
     ],
@@ -163,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1642551719,
+    "wof:lastmodified":1690931837,
     "wof:name":"Clifden",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",

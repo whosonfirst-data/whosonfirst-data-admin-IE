@@ -31,6 +31,9 @@
     "name:eus_x_preferred":[
         "Kilbaha"
     ],
+    "name:fra_x_preferred":[
+        "Kilbaha"
+    ],
     "name:gle_x_preferred":[
         "Cill Bheathach"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125818411,
-    "wof:lastmodified":1566680209,
+    "wof:lastmodified":1690931904,
     "wof:name":"Kilbaha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

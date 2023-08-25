@@ -26,6 +26,9 @@
     "name:eus_x_preferred":[
         "Ardcath"
     ],
+    "name:fra_x_preferred":[
+        "Ardcath"
+    ],
     "name:gle_x_preferred":[
         "Ard Cath"
     ],
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639038380,
+    "wof:lastmodified":1690931825,
     "wof:name":"Ardcath",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",

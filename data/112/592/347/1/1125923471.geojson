@@ -49,6 +49,9 @@
     "name:glv_x_preferred":[
         "Fynn Traie"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a7\u30f3\u30c8\u30ea\u30fc"
+    ],
     "name:nld_x_preferred":[
         "Ceann Tr\u00e1"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1125923471,
-    "wof:lastmodified":1639041344,
+    "wof:lastmodified":1690931894,
     "wof:name":"Ventry",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",

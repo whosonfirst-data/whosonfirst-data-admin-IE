@@ -73,6 +73,9 @@
     "name:swe_x_preferred":[
         "Manorhamilton"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u8afe\u6f22\u5bc6\u723e\u9813"
+    ],
     "qs:a0":"Ireland",
     "qs:a1":"*Leitrim",
     "qs:a1r":"0",
@@ -146,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1639037540,
+    "wof:lastmodified":1690931858,
     "wof:name":"Manorhamilton",
     "wof:parent_id":1746652123,
     "wof:placetype":"locality",

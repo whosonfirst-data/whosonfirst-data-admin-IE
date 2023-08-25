@@ -53,6 +53,9 @@
     "name:fin_x_preferred":[
         "mullingar"
     ],
+    "name:fin_x_variant":[
+        "Mullingar"
+    ],
     "name:fra_x_preferred":[
         "Mullingar"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba40\ub9b0\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Maling\u0101ra"
     ],
     "name:lit_x_preferred":[
         "Malingaras"
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":101804865,
-    "wof:lastmodified":1639040005,
+    "wof:lastmodified":1690931847,
     "wof:name":"Mullingar",
     "wof:parent_id":1746652097,
     "wof:placetype":"locality",
