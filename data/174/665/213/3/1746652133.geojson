@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346822,
-    "geom:area_square_m":2537420272.080238,
+    "geom:area_square_m":2537420161.760763,
     "geom:bbox":"-8.823718,53.271333,-7.875848,54.12524",
     "geom:latitude":53.723706,
     "geom:longitude":-8.246467,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Roscommon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.757734,
     "lbl:longitude":-8.199804,
     "lbl:min_zoom":8.0,
@@ -338,7 +344,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263826,
-    "wof:geomhash":"edfcc0f5e194d2b55ddbdd2257e94e0b",
+    "wof:geomhash":"179210c724f1bb88f65912859dd84ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,7 +362,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931812,
+    "wof:lastmodified":1694498112,
     "wof:name":"Roscommon",
     "wof:parent_id":85685113,
     "wof:placetype":"county",

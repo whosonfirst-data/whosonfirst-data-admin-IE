@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.764265,
-    "geom:area_square_m":5564824785.672996,
+    "geom:area_square_m":5564824572.795244,
     "geom:bbox":"-10.320747,53.471926,-8.582864,54.368771",
     "geom:latitude":53.924106,
     "geom:longitude":-9.384428,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Mayo City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":53.908344,
     "lbl:longitude":-9.263524,
     "lbl:min_zoom":8.0,
@@ -283,7 +289,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263817,
-    "wof:geomhash":"d858581af74c07f4a1771e4e73febb75",
+    "wof:geomhash":"d69634fb10fd2d41ae75efc89ed9a808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -301,7 +307,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931781,
+    "wof:lastmodified":1694498138,
     "wof:name":"Mayo",
     "wof:parent_id":85685145,
     "wof:placetype":"county",

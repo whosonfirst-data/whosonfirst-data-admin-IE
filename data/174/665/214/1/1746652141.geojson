@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.364632,
-    "geom:area_square_m":2745002005.704999,
+    "geom:area_square_m":2745001785.394434,
     "geom:bbox":"-9.367643,52.280233,-8.156313,52.757399",
     "geom:latitude":52.495855,
     "geom:longitude":-8.749703,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Limerick County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.528499,
     "lbl:longitude":-8.762755,
     "lbl:min_zoom":8.0,
@@ -275,7 +281,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263834,
-    "wof:geomhash":"4f01a28f13659698633443767511d986",
+    "wof:geomhash":"74e724f2dd574543c4b559f8479b0603",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -293,7 +299,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931800,
+    "wof:lastmodified":1694498149,
     "wof:name":"Limerick",
     "wof:parent_id":85684987,
     "wof:placetype":"county",

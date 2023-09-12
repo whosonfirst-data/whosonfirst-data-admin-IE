@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230078,
-    "geom:area_square_m":1712786168.429546,
+    "geom:area_square_m":1712786203.463334,
     "geom:bbox":"-7.734651,52.78127,-6.931939,53.215652",
     "geom:latitude":52.983675,
     "geom:longitude":-7.355876,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Laois County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.997765,
     "lbl:longitude":-7.428402,
     "lbl:min_zoom":8.0,
@@ -332,7 +338,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263776,
-    "wof:geomhash":"6d527c274912e819c7d493151d075382",
+    "wof:geomhash":"75402a19f9bae7908b5d9c6169a80880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -350,7 +356,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931819,
+    "wof:lastmodified":1694498124,
     "wof:name":"Laois",
     "wof:parent_id":85685005,
     "wof:placetype":"county",

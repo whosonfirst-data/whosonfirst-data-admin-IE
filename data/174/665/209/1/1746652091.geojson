@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061991,
-    "geom:area_square_m":456035280.911073,
+    "geom:area_square_m":456035426.077039,
     "geom:bbox":"-6.47495,53.353559,-5.996278,53.634725",
     "geom:latitude":53.492308,
     "geom:longitude":-6.256672,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Fingal County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.496403,
     "lbl:longitude":-6.257495,
     "lbl:min_zoom":8.0,
@@ -297,7 +303,7 @@
     },
     "wof:country":"IE",
     "wof:created":1637263778,
-    "wof:geomhash":"982a551a9e35ae009d47c38ecba60449",
+    "wof:geomhash":"0b9977f4cf6860d05620518baad076c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -315,7 +321,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931816,
+    "wof:lastmodified":1694498124,
     "wof:name":"Fingal",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

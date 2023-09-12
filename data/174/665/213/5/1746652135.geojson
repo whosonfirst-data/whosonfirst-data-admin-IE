@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26464,
-    "geom:area_square_m":1923658785.985035,
+    "geom:area_square_m":1923659222.750695,
     "geom:bbox":"-8.058234,53.765574,-6.76201,54.304574",
     "geom:latitude":53.994893,
     "geom:longitude":-7.352391,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Cavan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.960495,
     "lbl:longitude":-7.362192,
     "lbl:min_zoom":8.0,
@@ -336,7 +342,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263828,
-    "wof:geomhash":"b6f4f457fd56f9e6cf57490d96eb0de0",
+    "wof:geomhash":"e05c682191e123650f77a4d3c84407c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,7 +360,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931813,
+    "wof:lastmodified":1694498145,
     "wof:name":"Cavan",
     "wof:parent_id":85685125,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030102,
-    "geom:area_square_m":222549902.770948,
+    "geom:area_square_m":222549902.953517,
     "geom:bbox":"-6.546885,53.178197,-6.269413,53.368261",
     "geom:latitude":53.28057,
     "geom:longitude":-6.404094,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "South Dublin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.293352,
     "lbl:longitude":-6.436777,
     "lbl:min_zoom":8.0,
@@ -291,7 +297,7 @@
     },
     "wof:country":"IE",
     "wof:created":1637263784,
-    "wof:geomhash":"48796ca1751e3222161ab742f533f1c8",
+    "wof:geomhash":"849ee5fef96375d194e54ae75cfc09ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931763,
+    "wof:lastmodified":1694498162,
     "wof:name":"South Dublin",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

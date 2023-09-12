@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.459999,
-    "geom:area_square_m":3435738598.040949,
+    "geom:area_square_m":3435738807.88266,
     "geom:bbox":"-9.93869,52.554516,-8.282425,53.168769",
     "geom:latitude":52.840391,
     "geom:longitude":-9.042809,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Clare County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.852054,
     "lbl:longitude":-9.097898,
     "lbl:min_zoom":8.0,
@@ -348,7 +354,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263787,
-    "wof:geomhash":"298ae3d666cf027cd8bfca6deea61831",
+    "wof:geomhash":"e78a94278c210e12793207435bdacafc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -366,7 +372,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931765,
+    "wof:lastmodified":1694498174,
     "wof:name":"Clare",
     "wof:parent_id":85685037,
     "wof:placetype":"county",

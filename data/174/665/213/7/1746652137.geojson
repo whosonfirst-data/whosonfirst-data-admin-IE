@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31336,
-    "geom:area_square_m":2360944155.451663,
+    "geom:area_square_m":2360944195.717308,
     "geom:bbox":"-7.018211,52.109216,-6.140787,52.797472",
     "geom:latitude":52.459893,
     "geom:longitude":-6.571483,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Wexford County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.486607,
     "lbl:longitude":-6.606355,
     "lbl:min_zoom":8.0,
@@ -335,7 +341,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263830,
-    "wof:geomhash":"6fd741551b9653f5247d22be78fab293",
+    "wof:geomhash":"697aa8d81a81619c0ab80a18c7953ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -353,7 +359,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931810,
+    "wof:lastmodified":1694498150,
     "wof:name":"Wexford",
     "wof:parent_id":85684967,
     "wof:placetype":"county",

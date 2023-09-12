@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227785,
-    "geom:area_square_m":1687579128.11,
+    "geom:area_square_m":1687579155.454977,
     "geom:bbox":"-7.168935,52.85758,-6.459969,53.451237",
     "geom:latitude":53.190623,
     "geom:longitude":-6.818527,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Kildare County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.198018,
     "lbl:longitude":-6.842829,
     "lbl:min_zoom":8.0,
@@ -345,7 +351,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263804,
-    "wof:geomhash":"798bedf93bf63faddb3cb7dc75fa092c",
+    "wof:geomhash":"782bed8336b9e9a839f360951e422baf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -363,7 +369,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931752,
+    "wof:lastmodified":1694498144,
     "wof:name":"Kildare",
     "wof:parent_id":85685025,
     "wof:placetype":"county",

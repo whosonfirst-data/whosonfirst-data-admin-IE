@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318153,
-    "geom:area_square_m":2332771932.383216,
+    "geom:area_square_m":2332771914.814364,
     "geom:bbox":"-7.343668,53.381866,-6.212613,53.917668",
     "geom:latitude":53.631539,
     "geom:longitude":-6.731975,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Meath County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.644811,
     "lbl:longitude":-6.740901,
     "lbl:min_zoom":8.0,
@@ -351,7 +357,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263783,
-    "wof:geomhash":"d79234f3e6815cc64a28a91fd7022da3",
+    "wof:geomhash":"5442b4b665096fffb21483cde3a83266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +375,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931814,
+    "wof:lastmodified":1694498128,
     "wof:name":"Meath",
     "wof:parent_id":85685081,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01704,
-    "geom:area_square_m":126050103.587648,
+    "geom:area_square_m":126050146.070715,
     "geom:bbox":"-6.299275,53.198627,-6.081761,53.314815",
     "geom:latitude":53.25538,
     "geom:longitude":-6.198757,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Dunlaoghaire-Rathdown County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.264462,
     "lbl:longitude":-6.20053,
     "lbl:min_zoom":8.0,
@@ -227,7 +233,7 @@
     },
     "wof:country":"IE",
     "wof:created":1637263789,
-    "wof:geomhash":"f9f45584b3ee34795b505391e37ea9dd",
+    "wof:geomhash":"b169f95c773b68e54b46eb96b9f45090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,7 +251,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931763,
+    "wof:lastmodified":1694498173,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

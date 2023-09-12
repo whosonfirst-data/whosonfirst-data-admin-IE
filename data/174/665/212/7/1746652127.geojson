@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17801,
-    "geom:area_square_m":1288956427.111365,
+    "geom:area_square_m":1288956394.251967,
     "geom:bbox":"-7.339508,53.900679,-6.549729,54.421391",
     "geom:latitude":54.155206,
     "geom:longitude":-6.923475,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Monaghan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":54.161295,
     "lbl:longitude":-6.916131,
     "lbl:min_zoom":8.0,
@@ -328,7 +334,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263822,
-    "wof:geomhash":"e1f27526bdf8305d615ccdb75e3a1487",
+    "wof:geomhash":"619a3442e4c62d309037f6fd42ca7efd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +352,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931769,
+    "wof:lastmodified":1694498109,
     "wof:name":"Monaghan",
     "wof:parent_id":85685117,
     "wof:placetype":"county",

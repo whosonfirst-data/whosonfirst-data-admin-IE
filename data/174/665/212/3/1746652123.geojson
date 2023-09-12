@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218378,
-    "geom:area_square_m":1581835941.512097,
+    "geom:area_square_m":1581835993.411779,
     "geom:bbox":"-8.42765,53.805967,-7.584171,54.474368",
     "geom:latitude":54.140035,
     "geom:longitude":-8.022663,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Leitrim County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":54.302569,
     "lbl:longitude":-8.204506,
     "lbl:min_zoom":8.0,
@@ -344,7 +350,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263815,
-    "wof:geomhash":"99cf1fbd0bb316ae08ce37e72b689892",
+    "wof:geomhash":"7785055605b04a9788795978d41dba12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -362,7 +368,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931779,
+    "wof:lastmodified":1694498143,
     "wof:name":"Leitrim",
     "wof:parent_id":85685133,
     "wof:placetype":"county",
