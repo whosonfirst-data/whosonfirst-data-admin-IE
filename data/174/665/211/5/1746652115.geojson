@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269063,
-    "geom:area_square_m":1992594329.409053,
+    "geom:area_square_m":1992594247.455892,
     "geom:bbox":"-8.083874,52.848172,-6.977713,53.424279",
     "geom:latitude":53.207876,
     "geom:longitude":-7.600257,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Offaly County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.1887,
     "lbl:longitude":-7.791377,
     "lbl:min_zoom":8.0,
@@ -340,7 +346,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263801,
-    "wof:geomhash":"3e7a1da47544fe6c61774742ee683efa",
+    "wof:geomhash":"71f231d4903d212a18b41e0e6069f303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -358,7 +364,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931762,
+    "wof:lastmodified":1694498172,
     "wof:name":"Offaly",
     "wof:parent_id":85685041,
     "wof:placetype":"county",

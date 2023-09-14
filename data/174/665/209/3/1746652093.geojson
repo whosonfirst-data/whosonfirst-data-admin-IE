@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112951,
-    "geom:area_square_m":822713476.279658,
+    "geom:area_square_m":822713450.083421,
     "geom:bbox":"-6.695346,53.698491,-6.10301,54.113951",
     "geom:latitude":53.909691,
     "geom:longitude":-6.41404,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Louth County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.887736,
     "lbl:longitude":-6.492553,
     "lbl:min_zoom":8.0,
@@ -351,7 +357,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263780,
-    "wof:geomhash":"7631dd5aefd164c9b413a5303cadf55c",
+    "wof:geomhash":"8c48023ed18a1239ca2b6a88face52d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +375,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931818,
+    "wof:lastmodified":1694498126,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"county",

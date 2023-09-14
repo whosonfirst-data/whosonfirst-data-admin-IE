@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148524,
-    "geom:area_square_m":1086918944.157327,
+    "geom:area_square_m":1086918756.019033,
     "geom:bbox":"-8.035988,53.52173,-7.374907,53.94208",
     "geom:latitude":53.712599,
     "geom:longitude":-7.725083,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Longford County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.673466,
     "lbl:longitude":-7.752625,
     "lbl:min_zoom":8.0,
@@ -327,7 +333,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263785,
-    "wof:geomhash":"f151e1426e4e3e921e82cf7ae5db1e78",
+    "wof:geomhash":"30d72d69b2917cf75c3845565ff46c58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,7 +351,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931764,
+    "wof:lastmodified":1694498173,
     "wof:name":"Longford",
     "wof:parent_id":85685091,
     "wof:placetype":"county",

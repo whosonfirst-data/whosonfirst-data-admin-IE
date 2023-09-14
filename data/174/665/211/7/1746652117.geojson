@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017322,
-    "geom:area_square_m":127829862.135111,
+    "geom:area_square_m":127829790.054496,
     "geom:bbox":"-6.387058,53.298882,-6.113095,53.410992",
     "geom:latitude":53.35813,
     "geom:longitude":-6.251625,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Dublin City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.355217,
     "lbl:longitude":-6.278252,
     "lbl:min_zoom":8.0,
@@ -20,7 +26,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
-        "Dublin City"
+        "Dublin"
     ],
     "name:fra_x_preferred":[
         "Dublin"
@@ -116,7 +122,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263803,
-    "wof:geomhash":"ca8fe330facbc4e632cdd4f200a1914e",
+    "wof:geomhash":"1a0e8c2acb6b112a8f91de82b4353261",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +140,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639034612,
+    "wof:lastmodified":1694639806,
     "wof:name":"Dublin City",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

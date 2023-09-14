@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27109,
-    "geom:area_square_m":1993590331.196905,
+    "geom:area_square_m":2018312288.499047,
     "geom:bbox":"-6.792177,52.681962,-5.998091,53.23441",
     "geom:latitude":52.978909,
     "geom:longitude":-6.372324,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Wicklow County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.984944,
     "lbl:longitude":-6.340102,
     "lbl:min_zoom":8.0,
@@ -342,7 +348,7 @@
     "wof:geom_alt":[
         "ie-gov"
     ],
-    "wof:geomhash":"4def2bad09aa0402f06bdb37109e51cc",
+    "wof:geomhash":"39f22fe9851fbf8e21333334cb21505f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -360,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931786,
+    "wof:lastmodified":1694498177,
     "wof:name":"Wicklow",
     "wof:parent_id":85684999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571522,
-    "geom:area_square_m":4288041029.751437,
+    "geom:area_square_m":4288040920.301457,
     "geom:bbox":"-8.480079,52.202016,-7.372055,53.167582",
     "geom:latitude":52.643286,
     "geom:longitude":-7.957953,
@@ -53,6 +53,9 @@
         "County Tipperary"
     ],
     "name:deu_x_variant":[
+        "Tipperary"
+    ],
+    "name:eng_x_preferred":[
         "Tipperary"
     ],
     "name:epo_x_preferred":[
@@ -144,13 +147,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":11823
+        "digitalenvoy:region_code":11823,
+        "hasc:id":"IE.TY"
     },
     "wof:coterminous":[
         1746652157
     ],
     "wof:country":"IE",
-    "wof:geomhash":"602ae4540fb3c41d527a6ab4b4aa75ef",
+    "wof:geomhash":"85368a5e67b4be06f8d10c99146f8491",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +171,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1637696620,
+    "wof:lastmodified":1694493261,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

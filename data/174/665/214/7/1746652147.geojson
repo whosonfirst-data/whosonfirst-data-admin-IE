@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.244034,
-    "geom:area_square_m":1850564496.899248,
+    "geom:area_square_m":1850564486.04149,
     "geom:bbox":"-8.162695,51.938001,-6.949993,52.363893",
     "geom:latitude":52.173461,
     "geom:longitude":-7.597076,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Waterford County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.229105,
     "lbl:longitude":-7.598119,
     "lbl:min_zoom":8.0,
@@ -266,7 +272,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263845,
-    "wof:geomhash":"ccd3f0cfdd16afefc01e6f8da1a2f0a4",
+    "wof:geomhash":"283a4ef3d18749b504bdc7203c43cec8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +290,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931798,
+    "wof:lastmodified":1694498146,
     "wof:name":"Waterford",
     "wof:parent_id":85684953,
     "wof:placetype":"county",

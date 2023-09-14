@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11925,
-    "geom:area_square_m":892956575.514287,
+    "geom:area_square_m":892956609.070229,
     "geom:bbox":"-7.107938,52.463604,-6.504917,52.917964",
     "geom:latitude":52.729482,
     "geom:longitude":-6.823152,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Carlow County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":52.725161,
     "lbl:longitude":-6.843704,
     "lbl:min_zoom":8.0,
@@ -351,7 +357,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263835,
-    "wof:geomhash":"aaccc89907ea02d1abbeee5d625e8645",
+    "wof:geomhash":"ea02d15171c3675b4256e3bde27f79b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +375,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931801,
+    "wof:lastmodified":1694498148,
     "wof:name":"Carlow",
     "wof:parent_id":85684975,
     "wof:placetype":"county",

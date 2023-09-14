@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006831,
-    "geom:area_square_m":50501113.46314,
+    "geom:area_square_m":50501152.404593,
     "geom:bbox":"-9.142668001,53.248365999,-8.954790999,53.319321001",
     "geom:latitude":53.283239,
     "geom:longitude":-9.049456,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Galway City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":53.28944,
     "lbl:longitude":-9.058838,
     "lbl:min_zoom":8.0,
@@ -20,7 +26,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
     "name:eng_x_preferred":[
-        "Galway City"
+        "Galway"
     ],
     "name:fra_x_preferred":[
         "Galway"
@@ -51,7 +57,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263790,
-    "wof:geomhash":"3380dbc78214c072ea534ba4b08fdf95",
+    "wof:geomhash":"f6650b436fa2c3e4c270cbe19ddef787",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +75,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1639615074,
+    "wof:lastmodified":1694639807,
     "wof:name":"Galway City",
     "wof:parent_id":85685097,
     "wof:placetype":"county",

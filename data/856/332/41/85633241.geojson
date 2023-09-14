@@ -26,6 +26,9 @@
     "itu:country_code":[
         "353"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "IRE"
     ],
@@ -1558,7 +1561,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"8c16cc0652a046871b10420c73d81777",
+    "wof:geomhash":"e8764c710827432243c4c47b05aaa895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1574,7 +1577,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931702,
+    "wof:lastmodified":1694492254,
     "wof:name":"Ireland",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

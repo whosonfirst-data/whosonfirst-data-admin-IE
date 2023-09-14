@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252582,
-    "geom:area_square_m":1828830362.894506,
+    "geom:area_square_m":1828830396.845122,
     "geom:bbox":"-9.136553,53.91301,-8.153009,54.473025",
     "geom:latitude":54.157517,
     "geom:longitude":-8.623468,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Sligo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":54.122697,
     "lbl:longitude":-8.778625,
     "lbl:min_zoom":8.0,
@@ -352,7 +358,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263824,
-    "wof:geomhash":"9f8390080797494e037fcb9c2b8aa54c",
+    "wof:geomhash":"4e211580c24c3c1a74de186827a8c6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -370,7 +376,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931767,
+    "wof:lastmodified":1694498110,
     "wof:name":"Sligo",
     "wof:parent_id":85685137,
     "wof:placetype":"county",

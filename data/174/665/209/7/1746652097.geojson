@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249155,
-    "geom:area_square_m":1831324582.162871,
+    "geom:area_square_m":1831324574.715693,
     "geom:bbox":"-7.972956,53.317962,-6.954788,53.799052",
     "geom:latitude":53.528596,
     "geom:longitude":-7.44321,
     "iso:country":"IE",
+    "label:eng_x_preferred_longname":[
+        "Westmeath County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":53.529706,
     "lbl:longitude":-7.408682,
     "lbl:min_zoom":8.0,
@@ -328,7 +334,7 @@
     ],
     "wof:country":"IE",
     "wof:created":1637263781,
-    "wof:geomhash":"d34495757557362e052142a21f211ce9",
+    "wof:geomhash":"172ddd872ef893b351a5924cee142cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -346,7 +352,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931815,
+    "wof:lastmodified":1694498127,
     "wof:name":"Westmeath",
     "wof:parent_id":85685075,
     "wof:placetype":"county",
