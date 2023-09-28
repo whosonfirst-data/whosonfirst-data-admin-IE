@@ -366,9 +366,11 @@
         "gp:id":2345258,
         "hasc:id":"IE.KK",
         "iso:id":"IE-KK",
+        "qs:local_id":"2402",
         "unlc:id":"IE-KK",
         "wd:id":"Q180231"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85684979
     ],
@@ -392,7 +394,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498149,
+    "wof:lastmodified":1695886347,
     "wof:name":"Kilkenny",
     "wof:parent_id":85684979,
     "wof:placetype":"county",

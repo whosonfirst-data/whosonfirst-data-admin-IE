@@ -349,9 +349,11 @@
         "gp:id":2345265,
         "hasc:id":"IE.MH",
         "iso:id":"IE-MH",
+        "qs:local_id":"2202",
         "unlc:id":"IE-MH",
         "wd:id":"Q183544"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685081
     ],
@@ -375,7 +377,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498128,
+    "wof:lastmodified":1695886279,
     "wof:name":"Meath",
     "wof:parent_id":85685081,
     "wof:placetype":"county",

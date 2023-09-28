@@ -350,9 +350,11 @@
         "gp:id":2345269,
         "hasc:id":"IE.SO",
         "iso:id":"IE-SO",
+        "qs:local_id":"1106",
         "unlc:id":"IE-SO",
         "wd:id":"Q179325"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685137
     ],
@@ -376,7 +378,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498110,
+    "wof:lastmodified":1695886233,
     "wof:name":"Sligo",
     "wof:parent_id":85685137,
     "wof:placetype":"county",

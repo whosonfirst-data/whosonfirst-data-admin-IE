@@ -326,9 +326,11 @@
         "gp:id":2345266,
         "hasc:id":"IE.MN",
         "iso:id":"IE-MN",
+        "qs:local_id":"1105",
         "unlc:id":"IE-MN",
         "wd:id":"Q184760"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685117
     ],
@@ -352,7 +354,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498109,
+    "wof:lastmodified":1695886231,
     "wof:name":"Monaghan",
     "wof:parent_id":85685117,
     "wof:placetype":"county",

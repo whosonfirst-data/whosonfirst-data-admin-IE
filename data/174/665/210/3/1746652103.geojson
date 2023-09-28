@@ -325,9 +325,11 @@
         "gp:id":2345262,
         "hasc:id":"IE.LD",
         "iso:id":"IE-LD",
+        "qs:local_id":"1202",
         "unlc:id":"IE-LD",
         "wd:id":"Q186220"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685091
     ],
@@ -351,7 +353,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498173,
+    "wof:lastmodified":1695886422,
     "wof:name":"Longford",
     "wof:parent_id":85685091,
     "wof:placetype":"county",

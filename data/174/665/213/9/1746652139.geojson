@@ -52,6 +52,10 @@
         85684963
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "qs:local_id":"2501"
+    },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         101751727
     ],
@@ -75,7 +79,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886428,
     "wof:name":"Cork City",
     "wof:parent_id":85684963,
     "wof:placetype":"county",

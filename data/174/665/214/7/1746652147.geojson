@@ -265,8 +265,10 @@
         "fips:code":"EI27",
         "hasc:id":"IE.WD",
         "iso:id":"IE-WD",
+        "qs:local_id":"2405",
         "wd:id":"Q184594"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85684953
     ],
@@ -290,7 +292,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498146,
+    "wof:lastmodified":1695886338,
     "wof:name":"Waterford",
     "wof:parent_id":85684953,
     "wof:placetype":"county",

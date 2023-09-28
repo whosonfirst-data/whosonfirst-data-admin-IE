@@ -349,9 +349,11 @@
         "gp:id":2345263,
         "hasc:id":"IE.LH",
         "iso:id":"IE-LH",
+        "qs:local_id":"1104",
         "unlc:id":"IE-LH",
         "wd:id":"Q183539"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685087
     ],
@@ -375,7 +377,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498126,
+    "wof:lastmodified":1695886275,
     "wof:name":"Louth",
     "wof:parent_id":85685087,
     "wof:placetype":"county",

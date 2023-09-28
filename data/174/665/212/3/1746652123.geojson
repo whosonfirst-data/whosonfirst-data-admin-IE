@@ -342,9 +342,11 @@
         "gp:id":2345259,
         "hasc:id":"IE.LM",
         "iso:id":"IE-LM",
+        "qs:local_id":"1103",
         "unlc:id":"IE-LM",
         "wd:id":"Q107397"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685133
     ],
@@ -368,7 +370,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498143,
+    "wof:lastmodified":1695886331,
     "wof:name":"Leitrim",
     "wof:parent_id":85685133,
     "wof:placetype":"county",

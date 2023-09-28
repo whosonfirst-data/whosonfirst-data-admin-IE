@@ -334,9 +334,11 @@
         "gp:id":2345250,
         "hasc:id":"IE.CN",
         "iso:id":"IE-CN",
+        "qs:local_id":"1101",
         "unlc:id":"IE-CN",
         "wd:id":"Q187402"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685125
     ],
@@ -360,7 +362,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498145,
+    "wof:lastmodified":1695886335,
     "wof:name":"Cavan",
     "wof:parent_id":85685125,
     "wof:placetype":"county",

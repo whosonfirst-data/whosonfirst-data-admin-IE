@@ -52,6 +52,10 @@
         85685097
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "qs:local_id":"1301"
+    },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         101751743
     ],
@@ -75,7 +79,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694639807,
+    "wof:lastmodified":1695886429,
     "wof:name":"Galway City",
     "wof:parent_id":85685097,
     "wof:placetype":"county",

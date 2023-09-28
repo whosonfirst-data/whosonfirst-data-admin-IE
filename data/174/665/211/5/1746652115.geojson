@@ -338,9 +338,11 @@
         "gp:id":2345267,
         "hasc:id":"IE.OY",
         "iso:id":"IE-OY",
+        "qs:local_id":"1203",
         "unlc:id":"IE-OY",
         "wd:id":"Q184445"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685041
     ],
@@ -364,7 +366,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498172,
+    "wof:lastmodified":1695886419,
     "wof:name":"Offaly",
     "wof:parent_id":85685041,
     "wof:placetype":"county",

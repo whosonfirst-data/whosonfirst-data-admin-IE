@@ -282,8 +282,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "qs:local_id":"1303",
         "wd:id":"Q178626"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685145
     ],
@@ -307,7 +309,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498138,
+    "wof:lastmodified":1695886314,
     "wof:name":"Mayo",
     "wof:parent_id":85685145,
     "wof:placetype":"county",

@@ -229,8 +229,10 @@
         "gn:id":6941716,
         "gp:id":2345254,
         "hasc:id":"IE.DN",
+        "qs:local_id":"2102",
         "wd:id":"Q538417"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:country":"IE",
     "wof:created":1637263789,
     "wof:geomhash":"b169f95c773b68e54b46eb96b9f45090",
@@ -251,7 +253,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498173,
+    "wof:lastmodified":1695886421,
     "wof:name":"Dunlaoghaire-Rathdown",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

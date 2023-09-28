@@ -299,8 +299,10 @@
         "gp:id":2345254,
         "hasc:id":"IE.DN",
         "iso:id":"IE-D",
+        "qs:local_id":"2103",
         "wd:id":"Q520000"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:country":"IE",
     "wof:created":1637263778,
     "wof:geomhash":"0b9977f4cf6860d05620518baad076c2",
@@ -321,7 +323,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498124,
+    "wof:lastmodified":1695886271,
     "wof:name":"Fingal",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",
