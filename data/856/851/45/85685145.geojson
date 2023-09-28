@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.764265,
-    "geom:area_square_m":5564824785.672996,
+    "geom:area_square_m":5564824572.795244,
     "geom:bbox":"-10.320747,53.471926,-8.582864,54.368771",
     "geom:latitude":53.924106,
     "geom:longitude":-9.384428,
@@ -294,8 +294,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11822,
+        "iso:code":"IE-MO",
+        "qs:local_id":"1303",
         "wd:id":"Q178626"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652125
     ],
@@ -303,7 +309,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d858581af74c07f4a1771e4e73febb75",
+    "wof:geomhash":"d69634fb10fd2d41ae75efc89ed9a808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -320,7 +326,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931692,
+    "wof:lastmodified":1695884993,
     "wof:name":"Mayo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

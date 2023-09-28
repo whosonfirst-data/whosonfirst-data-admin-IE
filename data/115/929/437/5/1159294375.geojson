@@ -148,8 +148,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "digitalenvoy:region_code":11823,
-        "hasc:id":"IE.TY"
+        "hasc:id":"IE.TY",
+        "iso:code":"IE-TA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1746652157
     ],
@@ -171,7 +173,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694493261,
+    "wof:lastmodified":1695884998,
     "wof:name":"Tipperary",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

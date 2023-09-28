@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.27109,
-    "geom:area_square_m":1993590331.196905,
+    "geom:area_square_m":2018312288.499047,
     "geom:bbox":"-6.792177,52.681962,-5.998091,53.23441",
     "geom:latitude":52.978909,
     "geom:longitude":-6.372324,
@@ -361,10 +361,16 @@
         "gn:id":2960935,
         "gp:id":2345274,
         "hasc:id":"IE.WW",
+        "iso:code":"IE-WW",
         "iso:id":"IE-WW",
+        "qs:local_id":"2203",
         "unlc:id":"IE-WW",
         "wd:id":"Q182591"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652151
     ],
@@ -373,7 +379,7 @@
         "quattroshapes",
         "ie-gov"
     ],
-    "wof:geomhash":"4def2bad09aa0402f06bdb37109e51cc",
+    "wof:geomhash":"39f22fe9851fbf8e21333334cb21505f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +396,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931718,
+    "wof:lastmodified":1695885094,
     "wof:name":"Wicklow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

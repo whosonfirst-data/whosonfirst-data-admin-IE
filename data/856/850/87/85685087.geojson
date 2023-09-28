@@ -375,10 +375,16 @@
         "gn:id":2962793,
         "gp:id":2345263,
         "hasc:id":"IE.LH",
+        "iso:code":"IE-LH",
         "iso:id":"IE-LH",
+        "qs:local_id":"1104",
         "unlc:id":"IE-LH",
         "wd:id":"Q183539"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652093
     ],
@@ -403,7 +409,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694493262,
+    "wof:lastmodified":1695885019,
     "wof:name":"Louth",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

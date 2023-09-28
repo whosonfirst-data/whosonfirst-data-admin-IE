@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.459999,
-    "geom:area_square_m":3435738598.040949,
+    "geom:area_square_m":3435738807.88266,
     "geom:bbox":"-9.93869,52.554516,-8.282425,53.168769",
     "geom:latitude":52.840391,
     "geom:longitude":-9.042809,
@@ -372,10 +372,16 @@
         "gn:id":2965479,
         "gp:id":2345251,
         "hasc:id":"IE.CE",
+        "iso:code":"IE-CE",
         "iso:id":"IE-CE",
+        "qs:local_id":"2301",
         "unlc:id":"IE-CE",
         "wd:id":"Q181862"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652105
     ],
@@ -383,7 +389,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"298ae3d666cf027cd8bfca6deea61831",
+    "wof:geomhash":"e78a94278c210e12793207435bdacafc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -400,7 +406,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931647,
+    "wof:lastmodified":1695884977,
     "wof:name":"Clare",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

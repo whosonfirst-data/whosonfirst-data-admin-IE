@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11925,
-    "geom:area_square_m":892956575.514287,
+    "geom:area_square_m":892956609.070229,
     "geom:bbox":"-7.107938,52.463604,-6.504917,52.917964",
     "geom:latitude":52.729482,
     "geom:longitude":-6.823152,
@@ -375,10 +375,16 @@
         "gn:id":2965767,
         "gp:id":2345249,
         "hasc:id":"IE.CW",
+        "iso:code":"IE-CW",
         "iso:id":"IE-CW",
+        "qs:local_id":"2401",
         "unlc:id":"IE-CW",
         "wd:id":"Q181882"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652143
     ],
@@ -386,7 +392,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aaccc89907ea02d1abbeee5d625e8645",
+    "wof:geomhash":"ea02d15171c3675b4256e3bde27f79b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -403,7 +409,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931707,
+    "wof:lastmodified":1695885004,
     "wof:name":"Carlow",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

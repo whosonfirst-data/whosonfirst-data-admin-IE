@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148524,
-    "geom:area_square_m":1086918944.157327,
+    "geom:area_square_m":1086918756.019033,
     "geom:bbox":"-8.035988,53.52173,-7.374907,53.94208",
     "geom:latitude":53.712599,
     "geom:longitude":-7.725083,
@@ -351,10 +351,16 @@
         "gn:id":2962839,
         "gp:id":2345262,
         "hasc:id":"IE.LD",
+        "iso:code":"IE-LD",
         "iso:id":"IE-LD",
+        "qs:local_id":"1202",
         "unlc:id":"IE-LD",
         "wd:id":"Q186220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652103
     ],
@@ -362,7 +368,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f151e1426e4e3e921e82cf7ae5db1e78",
+    "wof:geomhash":"30d72d69b2917cf75c3845565ff46c58",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -379,7 +385,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931646,
+    "wof:lastmodified":1695884976,
     "wof:name":"Longford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",
