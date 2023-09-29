@@ -343,9 +343,11 @@
         "gp:id":2345257,
         "hasc:id":"IE.KE",
         "iso:id":"IE-KE",
+        "qs:local_id":"2201",
         "unlc:id":"IE-KE",
         "wd:id":"Q173332"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685025
     ],
@@ -369,7 +371,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498144,
+    "wof:lastmodified":1695886333,
     "wof:name":"Kildare",
     "wof:parent_id":85685025,
     "wof:placetype":"county",

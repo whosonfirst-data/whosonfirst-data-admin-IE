@@ -346,9 +346,11 @@
         "gp:id":2345251,
         "hasc:id":"IE.CE",
         "iso:id":"IE-CE",
+        "qs:local_id":"2301",
         "unlc:id":"IE-CE",
         "wd:id":"Q181862"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685037
     ],
@@ -372,7 +374,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498174,
+    "wof:lastmodified":1695886423,
     "wof:name":"Clare",
     "wof:parent_id":85685037,
     "wof:placetype":"county",

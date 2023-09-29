@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269063,
-    "geom:area_square_m":1992594329.409053,
+    "geom:area_square_m":1992594247.455892,
     "geom:bbox":"-8.083874,52.848172,-6.977713,53.424279",
     "geom:latitude":53.207876,
     "geom:longitude":-7.600257,
@@ -364,10 +364,16 @@
         "gn:id":2962187,
         "gp:id":2345267,
         "hasc:id":"IE.OY",
+        "iso:code":"IE-OY",
         "iso:id":"IE-OY",
+        "qs:local_id":"1203",
         "unlc:id":"IE-OY",
         "wd:id":"Q184445"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652115
     ],
@@ -375,7 +381,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e7a1da47544fe6c61774742ee683efa",
+    "wof:geomhash":"71f231d4903d212a18b41e0e6069f303",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -392,7 +398,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931679,
+    "wof:lastmodified":1695884976,
     "wof:name":"Offaly",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

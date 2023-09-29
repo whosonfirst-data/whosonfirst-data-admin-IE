@@ -330,9 +330,11 @@
         "gp:id":2345260,
         "hasc:id":"IE.LS",
         "iso:id":"IE-LS",
+        "qs:local_id":"1201",
         "unlc:id":"IE-LS",
         "wd:id":"Q55299"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685005
     ],
@@ -356,7 +358,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498124,
+    "wof:lastmodified":1695886269,
     "wof:name":"Laois",
     "wof:parent_id":85685005,
     "wof:placetype":"county",

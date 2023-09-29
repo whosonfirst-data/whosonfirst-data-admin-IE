@@ -349,9 +349,11 @@
         "gp:id":2345249,
         "hasc:id":"IE.CW",
         "iso:id":"IE-CW",
+        "qs:local_id":"2401",
         "unlc:id":"IE-CW",
         "wd:id":"Q181882"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85684975
     ],
@@ -375,7 +377,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498148,
+    "wof:lastmodified":1695886345,
     "wof:name":"Carlow",
     "wof:parent_id":85684975,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26464,
-    "geom:area_square_m":1923658785.985035,
+    "geom:area_square_m":1923659222.750695,
     "geom:bbox":"-8.058234,53.765574,-6.76201,54.304574",
     "geom:latitude":53.994893,
     "geom:longitude":-7.352391,
@@ -360,10 +360,16 @@
         "gn:id":2965534,
         "gp:id":2345250,
         "hasc:id":"IE.CN",
+        "iso:code":"IE-CN",
         "iso:id":"IE-CN",
+        "qs:local_id":"1101",
         "unlc:id":"IE-CN",
         "wd:id":"Q187402"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652135
     ],
@@ -371,7 +377,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6f4f457fd56f9e6cf57490d96eb0de0",
+    "wof:geomhash":"e05c682191e123650f77a4d3c84407c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -388,7 +394,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931700,
+    "wof:lastmodified":1695885016,
     "wof:name":"Cavan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

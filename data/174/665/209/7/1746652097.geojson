@@ -326,9 +326,11 @@
         "gp:id":2345272,
         "hasc:id":"IE.WH",
         "iso:id":"IE-WH",
+        "qs:local_id":"1204",
         "unlc:id":"IE-WH",
         "wd:id":"Q182633"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685075
     ],
@@ -352,7 +354,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498127,
+    "wof:lastmodified":1695886277,
     "wof:name":"Westmeath",
     "wof:parent_id":85685075,
     "wof:placetype":"county",

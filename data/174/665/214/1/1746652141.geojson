@@ -274,8 +274,10 @@
         "fips:code":"EI16",
         "hasc:id":"IE.LK",
         "iso:id":"IE-LK",
+        "qs:local_id":"2303",
         "wd:id":"Q178283"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85684987
     ],
@@ -299,7 +301,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498149,
+    "wof:lastmodified":1695886349,
     "wof:name":"Limerick",
     "wof:parent_id":85684987,
     "wof:placetype":"county",

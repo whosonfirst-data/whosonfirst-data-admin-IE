@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249155,
-    "geom:area_square_m":1831324582.162871,
+    "geom:area_square_m":1831324574.715693,
     "geom:bbox":"-7.972956,53.317962,-6.954788,53.799052",
     "geom:latitude":53.528596,
     "geom:longitude":-7.44321,
@@ -352,10 +352,16 @@
         "gn:id":2960972,
         "gp:id":2345272,
         "hasc:id":"IE.WH",
+        "iso:code":"IE-WH",
         "iso:id":"IE-WH",
+        "qs:local_id":"1204",
         "unlc:id":"IE-WH",
         "wd:id":"Q182633"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652097
     ],
@@ -363,7 +369,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d34495757557362e052142a21f211ce9",
+    "wof:geomhash":"172ddd872ef893b351a5924cee142cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -380,7 +386,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931644,
+    "wof:lastmodified":1695885018,
     "wof:name":"Westmeath",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

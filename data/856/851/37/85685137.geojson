@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.252582,
-    "geom:area_square_m":1828830362.894506,
+    "geom:area_square_m":1828830396.845122,
     "geom:bbox":"-9.136553,53.91301,-8.153009,54.473025",
     "geom:latitude":54.157517,
     "geom:longitude":-8.623468,
@@ -376,10 +376,16 @@
         "gn:id":2961422,
         "gp:id":2345269,
         "hasc:id":"IE.SO",
+        "iso:code":"IE-SO",
         "iso:id":"IE-SO",
+        "qs:local_id":"1106",
         "unlc:id":"IE-SO",
         "wd:id":"Q179325"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652129
     ],
@@ -387,7 +393,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f8390080797494e037fcb9c2b8aa54c",
+    "wof:geomhash":"4e211580c24c3c1a74de186827a8c6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -404,7 +410,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931697,
+    "wof:lastmodified":1695884979,
     "wof:name":"Sligo",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

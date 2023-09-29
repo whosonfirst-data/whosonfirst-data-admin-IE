@@ -293,8 +293,10 @@
         "gn:id":7288565,
         "gp:id":2345254,
         "hasc:id":"IE.DN",
+        "qs:local_id":"2104",
         "wd:id":"Q822865"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:country":"IE",
     "wof:created":1637263784,
     "wof:geomhash":"849ee5fef96375d194e54ae75cfc09ff",
@@ -315,7 +317,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498162,
+    "wof:lastmodified":1695886391,
     "wof:name":"South Dublin",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",

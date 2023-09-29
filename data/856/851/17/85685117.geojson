@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17801,
-    "geom:area_square_m":1288956427.111365,
+    "geom:area_square_m":1288956394.251967,
     "geom:bbox":"-7.339508,53.900679,-6.549729,54.421391",
     "geom:latitude":54.155206,
     "geom:longitude":-6.923475,
@@ -352,10 +352,16 @@
         "gn:id":2962567,
         "gp:id":2345266,
         "hasc:id":"IE.MN",
+        "iso:code":"IE-MN",
         "iso:id":"IE-MN",
+        "qs:local_id":"1105",
         "unlc:id":"IE-MN",
         "wd:id":"Q184760"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652127
     ],
@@ -363,7 +369,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1f27526bdf8305d615ccdb75e3a1487",
+    "wof:geomhash":"619a3442e4c62d309037f6fd42ca7efd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -380,7 +386,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931696,
+    "wof:lastmodified":1695884981,
     "wof:name":"Monaghan",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346822,
-    "geom:area_square_m":2537420272.080238,
+    "geom:area_square_m":2537420161.760763,
     "geom:bbox":"-8.823718,53.271333,-7.875848,54.12524",
     "geom:latitude":53.723706,
     "geom:longitude":-8.246467,
@@ -362,10 +362,16 @@
         "gn:id":2961731,
         "gp:id":2345268,
         "hasc:id":"IE.RN",
+        "iso:code":"IE-RN",
         "iso:id":"IE-RN",
+        "qs:local_id":"1304",
         "unlc:id":"IE-RN",
         "wd:id":"Q179437"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652133
     ],
@@ -373,7 +379,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"edfcc0f5e194d2b55ddbdd2257e94e0b",
+    "wof:geomhash":"179210c724f1bb88f65912859dd84ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +396,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931699,
+    "wof:lastmodified":1695885015,
     "wof:name":"Roscommon",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

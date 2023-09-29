@@ -333,9 +333,11 @@
         "gp:id":2345273,
         "hasc:id":"IE.WX",
         "iso:id":"IE-WX",
+        "qs:local_id":"2406",
         "unlc:id":"IE-WX",
         "wd:id":"Q184599"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85684967
     ],
@@ -359,7 +361,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498150,
+    "wof:lastmodified":1695886354,
     "wof:name":"Wexford",
     "wof:parent_id":85684967,
     "wof:placetype":"county",

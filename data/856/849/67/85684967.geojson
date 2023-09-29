@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31336,
-    "geom:area_square_m":2360944155.451663,
+    "geom:area_square_m":2360944195.717308,
     "geom:bbox":"-7.018211,52.109216,-6.140787,52.797472",
     "geom:latitude":52.459893,
     "geom:longitude":-6.571483,
@@ -359,10 +359,16 @@
         "gn:id":2960963,
         "gp:id":2345273,
         "hasc:id":"IE.WX",
+        "iso:code":"IE-WX",
         "iso:id":"IE-WX",
+        "qs:local_id":"2406",
         "unlc:id":"IE-WX",
         "wd:id":"Q184599"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1746652137
     ],
@@ -370,7 +376,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6fd741551b9653f5247d22be78fab293",
+    "wof:geomhash":"697aa8d81a81619c0ab80a18c7953ded",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,7 +393,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1690931704,
+    "wof:lastmodified":1695885013,
     "wof:name":"Wexford",
     "wof:parent_id":85633241,
     "wof:placetype":"region",

@@ -336,9 +336,11 @@
         "gp:id":2345268,
         "hasc:id":"IE.RN",
         "iso:id":"IE-RN",
+        "qs:local_id":"1304",
         "unlc:id":"IE-RN",
         "wd:id":"Q179437"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         85685113
     ],
@@ -362,7 +364,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694498112,
+    "wof:lastmodified":1695886238,
     "wof:name":"Roscommon",
     "wof:parent_id":85685113,
     "wof:placetype":"county",

@@ -115,8 +115,10 @@
         "fips:code":"EI33",
         "gn:id":7778677,
         "gp:id":2345254,
-        "hasc:id":"IE.DN"
+        "hasc:id":"IE.DN",
+        "qs:local_id":"2101"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:coterminous":[
         101751737
     ],
@@ -140,7 +142,7 @@
         "eng",
         "gle"
     ],
-    "wof:lastmodified":1694639806,
+    "wof:lastmodified":1695886418,
     "wof:name":"Dublin City",
     "wof:parent_id":1746652171,
     "wof:placetype":"county",
