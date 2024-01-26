@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":2966126
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7870352
+        ]
+    },
     "wof:country":"IE",
-    "wof:geomhash":"6670b01121c9210223249ff17fc2de4c",
+    "wof:geomhash":"dda07590e468308fd31c05722b5aeddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,20 +64,22 @@
         }
     ],
     "wof:id":1243202813,
-    "wof:lastmodified":1639038234,
+    "wof:lastmodified":1706239783,
     "wof:name":"Blacksod",
     "wof:parent_id":1746652125,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259520419
+    ],
     "wof:tags":[]
 },
   "bbox": [
     -10.07132,
-    54.10053000000001,
+    54.10053,
     -10.07132,
-    54.10053000000001
+    54.10053
 ],
-  "geometry": {"coordinates":[-10.07132,54.10053000000001],"type":"Point"}
+  "geometry": {"coordinates":[-10.07132,54.10053],"type":"Point"}
 }

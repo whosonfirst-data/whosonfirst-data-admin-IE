@@ -14,6 +14,7 @@
     "ie-gov:settl_name":"Tralee",
     "ie-gov:settlement":19025,
     "iso:country":"IE",
+    "lbl:bbox":"-9.725562,52.249542,-9.685562,52.289542",
     "lbl:latitude":52.268141,
     "lbl:longitude":-9.703499,
     "lbl:max_zoom":14.0,
@@ -23,6 +24,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0631\u0627\u0644\u064a"
     ],
@@ -271,6 +273,21 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
+    "qs_pg:name":"Tralee",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Kerry",
+    "qs_pg:photos":2438,
+    "qs_pg:photos_1k":494,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2438,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897862,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562410,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -281,6 +298,10 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":3994,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Kerry",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -296,7 +317,15 @@
         "wk:page":"Tralee"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1238102
+        "gp:id":[
+            562410
+        ],
+        "qs_pg:id":[
+            897862
+        ],
+        "wd:id":[
+            "Q213358"
+        ]
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -315,7 +344,7 @@
         }
     ],
     "wof:id":101806021,
-    "wof:lastmodified":1690931885,
+    "wof:lastmodified":1706239782,
     "wof:name":"Tralee",
     "wof:parent_id":1746652145,
     "wof:placetype":"locality",
@@ -323,7 +352,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125876089
+    ],
     "wof:tags":[]
 },
   "bbox": [

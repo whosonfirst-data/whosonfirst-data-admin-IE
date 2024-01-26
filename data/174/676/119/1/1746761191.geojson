@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:bbox":"-6.197565,53.389424,-6.197565,53.389424",
     "geom:latitude":53.389424,
@@ -14,18 +16,18 @@
     "mps:latitude":53.389424,
     "mps:longitude":-6.197565,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Coolock"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        1746652171,
         102191581,
         85633241,
         101751737,
-        1746652117,
-        1746652171
+        1746652117
     ],
     "wof:breaches":[],
     "wof:country":"IE",
@@ -42,12 +44,14 @@
         }
     ],
     "wof:id":1746761191,
-    "wof:lastmodified":1639045321,
+    "wof:lastmodified":1706239869,
     "wof:name":"Coolock",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85794235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

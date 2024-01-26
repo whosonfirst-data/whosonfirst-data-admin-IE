@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.000039,
     "geom:area_square_m":0.0,
     "geom:bbox":"-8.171933,52.577038,-8.159356,52.586199",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cappawhite"
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":1310442521,
-    "wof:lastmodified":1639036003,
+    "wof:lastmodified":1706239783,
     "wof:name":"Cappawhite",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293724465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

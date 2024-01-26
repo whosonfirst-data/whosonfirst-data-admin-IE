@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.000082,
     "geom:area_square_m":0.0,
     "geom:bbox":"-6.914233,53.565187,-6.898021,53.574651",
@@ -33,7 +35,7 @@
     "mps:latitude":53.570769,
     "mps:longitude":-6.905884,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kildalkey"
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":1226081165,
-    "wof:lastmodified":1639038348,
+    "wof:lastmodified":1706239782,
     "wof:name":"Kildalkey",
     "wof:parent_id":1746652099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125805837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
