@@ -9,9 +9,24 @@
     "geom:bbox":"-9.1,54.21667,-9.1,54.21667",
     "geom:latitude":54.21667,
     "geom:longitude":-9.1,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Enniscrone",
     "gn:country":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":16,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692264,
+    "gn:latitude":54.21285,
+    "gn:longitude":-9.09317,
+    "gn:modification_date":"2013-11-23",
+    "gn:name":"Enniscrone",
     "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Inniscrone",
+    "ie-gov:settlement":31003,
     "iso:country":"IE",
     "lbl:bbox":"-9.12,54.19667,-9.08,54.23667",
     "lbl:latitude":54.21667,
@@ -88,6 +103,7 @@
     "qs_pg:woe_adm0":23424803,
     "qs_pg:woe_id":29387547,
     "src:geom":"qs_pg",
+    "src:geom_via":"ie-gov",
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424803,
@@ -102,7 +118,13 @@
         "gn:id":2963658,
         "gp:id":29387547,
         "qs_pg:id":359489,
-        "wd:id":"Q588364"
+        "wd:id":"Q588364",
+        "wk:page":"Enniscrone"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6692264
+        ]
     },
     "wof:country":"IE",
     "wof:created":1497294140,
@@ -116,7 +138,7 @@
         }
     ],
     "wof:id":1125867941,
-    "wof:lastmodified":1566680207,
+    "wof:lastmodified":1706239782,
     "wof:name":"Inniscrone",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -124,7 +146,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243488273
+    ],
     "wof:tags":[]
 },
   "bbox": [

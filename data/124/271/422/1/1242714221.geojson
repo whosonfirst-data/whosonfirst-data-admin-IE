@@ -23,20 +23,30 @@
     "gn:name":"Baylin",
     "gn:population":244,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Baylin",
+    "ie-gov:settlement":13018,
     "iso:country":"IE",
     "lbl:bbox":"-7.86072,53.4137,-7.82072,53.4537",
+    "lbl:latitude":53.434533,
+    "lbl:longitude":-7.843154,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":53.434533,
+    "mps:longitude":-7.843154,
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Baylin"
     ],
+    "name:eng_x_preferred":[
+        "Baylin"
+    ],
     "name:swe_x_preferred":[
         "Baylin"
     ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,6 +57,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8643964
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2966280
+        ]
     },
     "wof:country":"IE",
     "wof:geomhash":"6297512480625cf2d76744a74df34593",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1242714221,
-    "wof:lastmodified":1639044470,
+    "wof:lastmodified":1706239782,
     "wof:name":"Baylin",
     "wof:parent_id":1746652097,
     "wof:placetype":"locality",
@@ -68,7 +83,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259817429
+    ],
     "wof:tags":[]
 },
   "bbox": [

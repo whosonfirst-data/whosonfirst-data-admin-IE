@@ -26,6 +26,7 @@
     "ie-gov:settl_name":"Kilcolgan",
     "ie-gov:settlement":27044,
     "iso:country":"IE",
+    "lbl:bbox":"-8.8863,53.18987,-8.8463,53.22987",
     "lbl:latitude":53.208462,
     "lbl:longitude":-8.866304,
     "lbl:max_zoom":18.0,
@@ -72,6 +73,11 @@
         "gn:id":2963470,
         "wk:page":"Kilcolgan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3312302
+        ]
+    },
     "wof:country":"IE",
     "wof:geom_alt":[
         "geonames"
@@ -87,13 +93,15 @@
         }
     ],
     "wof:id":1276802273,
-    "wof:lastmodified":1639043165,
+    "wof:lastmodified":1706239783,
     "wof:name":"Kilcolgan",
     "wof:parent_id":1746652111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293920161
+    ],
     "wof:tags":[]
 },
   "bbox": [

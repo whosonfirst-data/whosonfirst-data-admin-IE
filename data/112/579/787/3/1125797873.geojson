@@ -9,15 +9,32 @@
     "geom:bbox":"-8.4625,52.17333,-8.4625,52.17333",
     "geom:latitude":52.17333,
     "geom:longitude":-8.4625,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"04",
+    "gn:asciiname":"Castletownroche",
     "gn:country":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":54,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3300460,
+    "gn:latitude":52.15194,
+    "gn:longitude":-8.50389,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Castletownroche",
     "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Castletownroche",
+    "ie-gov:settlement":18030,
     "iso:country":"IE",
     "lbl:bbox":"-8.4825,52.15333,-8.4425,52.19333",
     "lbl:latitude":52.17333,
     "lbl:longitude":-8.4625,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":52.173228,
+    "mps:longitude":-8.462988,
     "mz:hierarchy_label":0,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -92,6 +109,11 @@
         "qs_pg:id":1222571,
         "wd:id":"Q1049693"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3300460
+        ]
+    },
     "wof:country":"IE",
     "wof:created":1497291131,
     "wof:geomhash":"57cbbb7926560b46718a3abd86998de2",
@@ -105,7 +127,7 @@
         }
     ],
     "wof:id":1125797873,
-    "wof:lastmodified":1639045247,
+    "wof:lastmodified":1706239782,
     "wof:name":"Castletownroche",
     "wof:parent_id":1746652153,
     "wof:placetype":"locality",
@@ -113,7 +135,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259417693
+    ],
     "wof:tags":[]
 },
   "bbox": [

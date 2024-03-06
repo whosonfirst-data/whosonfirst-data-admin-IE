@@ -27,6 +27,7 @@
     "ie-gov:settl_name":"Pallasgreen",
     "ie-gov:settlement":21037,
     "iso:country":"IE",
+    "lbl:bbox":"-8.35794,52.5479,-8.31794,52.5879",
     "lbl:latitude":52.567901,
     "lbl:longitude":-8.339586,
     "lbl:max_zoom":18.0,
@@ -36,7 +37,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Pallasgreen"
+    ],
     "name:eng_x_preferred":[
+        "Pallasgreen"
+    ],
+    "name:eus_x_preferred":[
+        "Pallasgreen"
+    ],
+    "name:gle_x_preferred":[
+        "Pail\u00eds Ghr\u00e9ine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u043b\u0430\u0441-\u0413\u0440\u0438\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Pallas Grean"
+    ],
+    "name:swe_x_preferred":[
         "Pallasgreen"
     ],
     "name:und_x_variant":[
@@ -49,6 +68,7 @@
         "geonames"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633241,
@@ -57,7 +77,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":2962083
+        "gn:id":2962083,
+        "wk:page":"Pallasgreen"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2962082
+        ]
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -74,13 +100,17 @@
         }
     ],
     "wof:id":1276480887,
-    "wof:lastmodified":1639037488,
+    "wof:lastmodified":1706239783,
     "wof:name":"Pallasgreen",
     "wof:parent_id":1746652141,
     "wof:placetype":"locality",
+    "wof:population":589,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343591497
+    ],
     "wof:tags":[]
 },
   "bbox": [

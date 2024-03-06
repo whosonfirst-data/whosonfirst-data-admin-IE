@@ -23,6 +23,8 @@
     "gn:name":"Cappawhite",
     "gn:population":369,
     "gn:timezone":"Europe/Dublin",
+    "ie-gov:settl_name":"Cappawhite",
+    "ie-gov:settlement":23017,
     "iso:country":"IE",
     "lbl:bbox":"-8.18576,52.56214,-8.14576,52.60214",
     "lbl:max_zoom":17.0,
@@ -33,8 +35,17 @@
     "name:ceb_x_preferred":[
         "Cappawhite"
     ],
+    "name:eng_x_preferred":[
+        "Cappawhite"
+    ],
+    "name:eng_x_variant":[
+        "Cappagh White"
+    ],
     "name:eus_x_preferred":[
         "Cappawhite"
+    ],
+    "name:gle_x_preferred":[
+        "An Cheapach"
     ],
     "name:spa_x_preferred":[
         "Cappawhite"
@@ -55,6 +66,11 @@
         "gn:id":7870979,
         "wk:page":"Cappawhite"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2965795
+        ]
+    },
     "wof:country":"IE",
     "wof:geomhash":"7410c2e9286dab25246e1fac090ac77e",
     "wof:hierarchy":[
@@ -67,7 +83,7 @@
         }
     ],
     "wof:id":1293724465,
-    "wof:lastmodified":1639043510,
+    "wof:lastmodified":1706239783,
     "wof:name":"Cappawhite",
     "wof:parent_id":1746652157,
     "wof:placetype":"locality",
@@ -75,7 +91,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310442521
+    ],
     "wof:tags":[]
 },
   "bbox": [

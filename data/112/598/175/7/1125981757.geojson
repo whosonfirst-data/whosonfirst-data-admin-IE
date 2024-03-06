@@ -9,12 +9,26 @@
     "geom:bbox":"-8.565384,52.711616,-8.547933,52.727101",
     "geom:latitude":52.719911,
     "geom:longitude":-8.557298,
+    "gn:admin1_code":"M",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Clonlara",
     "gn:country":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":26,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7869942,
+    "gn:latitude":52.72439,
+    "gn:longitude":-8.55251,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Clonlara",
     "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
     "ie-gov:settl_name":"Clonlara",
     "ie-gov:settlement":16019,
     "iso:country":"IE",
+    "lbl:bbox":"-8.57251,52.70439,-8.53251,52.74439",
     "lbl:latitude":52.72222,
     "lbl:longitude":-8.55389,
     "lbl:max_zoom":18.0,
@@ -84,6 +98,7 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"qs_pg",
+    "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Clare",
@@ -99,7 +114,13 @@
         "gn:id":2965292,
         "gp:id":560395,
         "qs_pg:id":1156416,
-        "wd:id":"Q5135031"
+        "wd:id":"Q5135031",
+        "wk:page":"Clonlara"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7869942
+        ]
     },
     "wof:country":"IE",
     "wof:created":1497298590,
@@ -117,13 +138,17 @@
         }
     ],
     "wof:id":1125981757,
-    "wof:lastmodified":1690931921,
+    "wof:lastmodified":1706239782,
     "wof:name":"Clonlara",
     "wof:parent_id":1746652105,
     "wof:placetype":"locality",
+    "wof:population":627,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310342321
+    ],
     "wof:tags":[]
 },
   "bbox": [

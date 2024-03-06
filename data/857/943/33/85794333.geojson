@@ -9,10 +9,13 @@
     "geom:bbox":"-6.15392,53.293673,-6.15392,53.293673",
     "geom:latitude":53.293673,
     "geom:longitude":-6.15392,
+    "gn:country":"IE",
+    "gn:fcode":"PPL",
     "gn:latitude":53.29308,
     "gn:longitude":-6.15312,
     "gn:population":5555,
     "iso:country":"IE",
+    "lbl:bbox":"-6.15812,53.28808,-6.14812,53.29808",
     "lbl:latitude":53.293155,
     "lbl:longitude":-6.152839,
     "lbl:max_zoom":18.0,
@@ -26,6 +29,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:ceb_x_preferred":[
@@ -85,12 +89,36 @@
     "qs:woe_lau":20072143,
     "qs:woe_local":560743,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"IE",
+    "qs_pg:gn_country":"IE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2962543,
+    "qs_pg:gn_pop":6369,
+    "qs_pg:name":"Monkstown",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":2022,
+    "qs_pg:photos_1k":410,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2022,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1165830,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":561733,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         1746652171,
         102191581,
@@ -105,6 +133,17 @@
         "qs_pg:id":1165830,
         "wd:id":"Q2088328",
         "wk:page":"Monkstown, County Dublin"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2962543
+        ],
+        "gp:id":[
+            561733
+        ],
+        "qs_pg:id":[
+            1165830
+        ]
     },
     "wof:country":"IE",
     "wof:geom_alt":[
@@ -125,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690931642,
+    "wof:lastmodified":1706239781,
     "wof:name":"Monkstown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -133,7 +172,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126064461
+    ],
     "wof:tags":[]
 },
   "bbox": [

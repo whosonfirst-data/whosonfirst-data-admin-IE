@@ -9,12 +9,26 @@
     "geom:bbox":"-7.075913,52.279253,-7.060257,52.293177",
     "geom:latitude":52.287007,
     "geom:longitude":-7.068981,
+    "gn:admin1_code":"L",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Slieverue",
     "gn:country":"IE",
+    "gn:country_code":"IE",
+    "gn:dem":69,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643252,
+    "gn:latitude":52.28336,
+    "gn:longitude":-7.06807,
+    "gn:modification_date":"2017-07-25",
+    "gn:name":"Slieverue",
     "gn:population":0,
+    "gn:timezone":"Europe/Dublin",
     "ie-gov:settl_name":"Slieverue",
     "ie-gov:settlement":7022,
     "iso:country":"IE",
+    "lbl:bbox":"-7.08807,52.26336,-7.04807,52.30336",
     "lbl:latitude":52.287382,
     "lbl:longitude":-7.068346,
     "lbl:max_zoom":18.0,
@@ -83,6 +97,7 @@
         "qs_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "woe:adm0_id":23424803,
     "woe:name_adm0":"Ireland",
     "woe:name_adm1":"Kilkenny",
@@ -98,7 +113,13 @@
         "gn:id":2961425,
         "gp:id":562243,
         "qs_pg:id":1114353,
-        "wd:id":"Q2084118"
+        "wd:id":"Q2084118",
+        "wk:page":"Slieverue"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8643252
+        ]
     },
     "wof:country":"IE",
     "wof:created":1497294967,
@@ -116,13 +137,17 @@
         }
     ],
     "wof:id":1125883777,
-    "wof:lastmodified":1690931905,
+    "wof:lastmodified":1706239782,
     "wof:name":"Slieverue",
     "wof:parent_id":1746652155,
     "wof:placetype":"locality",
+    "wof:population":499,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260010673
+    ],
     "wof:tags":[]
 },
   "bbox": [
